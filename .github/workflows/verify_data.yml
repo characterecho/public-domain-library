@@ -1,0 +1,90 @@
+name: Verify Data Integrity
+
+on:
+  pull_request:
+    branches: [ main ]
+    paths:
+      - '**.json' # Only run when JSON files change
+
+jobs:
+  validate_json:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      # 1. Fast Syntax Check using jq (Pre-installed on runners)
+      - name: Check JSON Syntax
+        run: |
+          echo "🔍 Scanning all JSON files for syntax errors..."
+          # Find all .json files and pipe them to jq. 
+          # If jq encounters an error, it exits with non-zero status, failing the job.
+          find . -type f -name "*.json" -print0 | xargs -0 -n 1 jq empty
+          echo "✅ Syntax check passed."
+
+      # 2. Custom Schema Validation (Python)
+      - name: Validate Data Structure
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Run Schema Validator
+        shell: python
+        run: |
+          import json
+          import os
+          import sys
+
+          # Configuration
+          REQUIRED_PUB_FIELDS = ["id", "title", "author"]
+          REQUIRED_MANIFEST_FIELDS = ["page", "items"]
+          
+          errors = []
+
+          print("🔍 Starting Schema Validation...")
+
+          for root, dirs, files in os.walk("."):
+              for file in files:
+                  if not file.endswith(".json"):
+                      continue
+                  
+                  # Skip metadata files
+                  if file == "meta.json" or file.startswith("package"):
+                      continue
+
+                  path = os.path.join(root, file)
+                  
+                  try:
+                      with open(path, 'r', encoding='utf-8') as f:
+                          data = json.load(f)
+                      
+                      # Check Manifests
+                      if "manifests" in path:
+                          for field in REQUIRED_MANIFEST_FIELDS:
+                              if field not in data:
+                                  errors.append(f"❌ {path}: Missing required manifest field '{field}'")
+                      
+                      # Check Publications (Sharded folders)
+                      elif "publications" in path:
+                          # Check top-level fields
+                          for field in REQUIRED_PUB_FIELDS:
+                              if field not in data and field not in data.get('meta', {}):
+                                   # Checks root or inside 'meta' object depending on your structure
+                                  errors.append(f"❌ {path}: Missing required field '{field}'")
+                          
+                          # Sanity check: ID in filename matches ID in JSON
+                          file_id = file.replace(".json", "")
+                          json_id = data.get("id")
+                          if str(file_id) != str(json_id):
+                              errors.append(f"⚠️ {path}: Filename ID ({file_id}) does not match JSON ID ({json_id})")
+
+                  except Exception as e:
+                      errors.append(f"🔥 {path}: Crashed validator - {str(e)}")
+
+          if errors:
+              print(f"\nFound {len(errors)} errors:")
+              for e in errors:
+                  print(e)
+              sys.exit(1) # Fail the workflow
+          else:
+              print("✅ All data validates against schema.")
