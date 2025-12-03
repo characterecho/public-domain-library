@@ -1,0 +1,1108 @@
+[
+  {
+    "character": "NARRATOR",
+    "text": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
+    "audio_description": "",
+    "exclude": false,
+    "trailing_silence": 2.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Phantom slowly, gravely, silently, approached. When it came near him, Scrooge bent down upon his knee; for in the very air through which this Spirit moved it seemed to scatter gloom and mystery.",
+    "audio_description": "ominous, foreboding",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "It was shrouded in a deep black garment, which concealed its head, its face, its form, and left nothing of it visible save one outstretched hand. But for this it would have been difficult to detach its figure from the night, and separate it from the darkness by which it was surrounded.",
+    "audio_description": "mysterious, descriptive",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He felt that it was tall and stately when it came beside him, and that its mysterious presence filled him with a solemn dread. He knew no more, for the Spirit neither spoke nor moved.",
+    "audio_description": "tense, fearful",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "SCROOGE",
+    "text": "I am in the presence of the Ghost of Christmas Yet To Come?",
+    "audio_description": "fearful, questioning",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Spirit answered not, but pointed onward with its hand.",
+    "audio_description": "matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "SCROOGE",
+    "text": "You are about to show me shadows of the things that have not happened, but will happen in the time before us. Is that so, Spirit?",
+    "audio_description": "nervous, seeking confirmation",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The upper portion of the garment was contracted for an instant in its folds, as if the Spirit had inclined its head. That was the only answer he received.",
+    "audio_description": "descriptive, ominous",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Although well used to ghostly company by this time, Scrooge feared the silent shape so much that his legs trembled beneath him, and he found that he could hardly stand when he prepared to follow it. The Spirit paused a moment, as observing his condition, and giving him time to recover.",
+    "audio_description": "tense, sympathetic",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "But Scrooge was all the worse for this. It thrilled him with a vague uncertain horror, to know that behind the dusky shroud, there were ghostly eyes intently fixed upon him, while he, though he stretched his own to the utmost, could see nothing but a spectral hand and one great heap of black.",
+    "audio_description": "fearful, intense",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Ghost of the Future! I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart. Will you not speak to me?",
+    "audio_description": "fearful but determined, pleading",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "It gave him no reply. The hand was pointed straight before them.",
+    "audio_description": "matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Lead on! Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!",
+    "audio_description": "urgent, resigned",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Phantom moved away as it had come towards him. Scrooge followed in the shadow of its dress, which bore him up, he thought, and carried him along.",
+    "audio_description": "descriptive, flowing",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "They scarcely seemed to enter the city; for the city rather seemed to spring up about them, and encompass them of its own act. But there they were, in the heart of it; on Change, amongst the merchants; who hurried up and down, and chinked the money in their pockets, and conversed in groups, and looked at their watches, and trifled thoughtfully with their great gold seals; and so forth, as Scrooge had seen them often.",
+    "audio_description": "descriptive, businesslike",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Spirit stopped beside one little knot of business men. Observing that the hand was pointed to them, Scrooge advanced to listen to their talk.",
+    "audio_description": "attentive",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "FAT_BUSINESSMAN",
+    "text": "No, I don't know much about it, either way. I only know he's dead.",
+    "audio_description": "indifferent, casual",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "BUSINESSMAN_2",
+    "text": "When did he die?",
+    "audio_description": "curious, conversational",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "FAT_BUSINESSMAN",
+    "text": "Last night, I believe.",
+    "audio_description": "casual, unconcerned",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "BUSINESSMAN_3",
+    "text": "Why, what was the matter with him? I thought he'd never die.",
+    "audio_description": "surprised, taking snuff",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "FAT_BUSINESSMAN",
+    "text": "God knows.",
+    "audio_description": "yawning, dismissive",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "RED_FACED_GENTLEMAN",
+    "text": "What has he done with his money?",
+    "audio_description": "interested, practical",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "FAT_BUSINESSMAN",
+    "text": "I haven't heard. Left it to his company, perhaps. He hasn't left it to ME. That's all I know.",
+    "audio_description": "yawning, mocking",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "This pleasantry was received with a general laugh.",
+    "audio_description": "matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "FAT_BUSINESSMAN",
+    "text": "It's likely to be a very cheap funeral, for upon my life I don't know of anybody to go to it. Suppose we make up a party and volunteer?",
+    "audio_description": "mocking, amused",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "RED_FACED_GENTLEMAN",
+    "text": "I don't mind going if a lunch is provided. But I must be fed, if I make one.",
+    "audio_description": "mercenary, practical",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Another laugh.",
+    "audio_description": "matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "FAT_BUSINESSMAN",
+    "text": "Well, I am the most disinterested among you, after all, for I never wear black gloves, and I never eat lunch. But I'll offer to go, if anybody else will. When I come to think of it, I'm not at all sure that I wasn't his most particular friend; for we used to stop and speak whenever we met. Bye, bye!",
+    "audio_description": "casual, departing cheerfully",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Speakers and listeners strolled away, and mixed with other groups. Scrooge knew the men, and looked towards the Spirit for an explanation.",
+    "audio_description": "descriptive",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Phantom glided on into a street. Its finger pointed to two persons meeting. Scrooge listened again, thinking that the explanation might lie here.",
+    "audio_description": "attentive",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He knew these men, also, perfectly. They were men of business: very wealthy, and of great importance. He had made a point always of standing well in their esteem: in a business point of view, that is; strictly in a business point of view.",
+    "audio_description": "explanatory",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "WEALTHY_MAN_1",
+    "text": "How are you?",
+    "audio_description": "casual greeting",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "WEALTHY_MAN_2",
+    "text": "How are you?",
+    "audio_description": "casual greeting",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "WEALTHY_MAN_1",
+    "text": "Well! Old Scratch has got his own at last, hey?",
+    "audio_description": "knowing, casual",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "WEALTHY_MAN_2",
+    "text": "So I am told. Cold, isn't it?",
+    "audio_description": "dismissive, changing subject",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "WEALTHY_MAN_1",
+    "text": "Seasonable for Christmas time. You're not a skater, I suppose?",
+    "audio_description": "conversational",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "WEALTHY_MAN_2",
+    "text": "No. No. Something else to think of. Good morning!",
+    "audio_description": "brief, departing",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Not another word. That was their meeting, their conversation, and their parting.",
+    "audio_description": "matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Scrooge was at first inclined to be surprised that the Spirit should attach importance to conversations apparently so trivial; but feeling assured that they must have some hidden purpose, he set himself to consider what it was likely to be. They could scarcely be supposed to have any bearing on the death of Jacob, his old partner, for that was Past, and this Ghost's province was the Future. Nor could he think of any one immediately connected with himself, to whom he could apply them. But nothing doubting that to whomsoever they applied they had some latent moral for his own improvement, he resolved to treasure up every word he heard, and everything he saw; and especially to observe the shadow of himself when it appeared. For he had an expectation that the conduct of his future self would give him the clue he missed, and would render the solution of these riddles easy.",
+    "audio_description": "thoughtful, analytical",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He looked about in that very place for his own image; but another man stood in his accustomed corner, and though the clock pointed to his usual time of day for being there, he saw no likeness of himself among the multitudes that poured in through the Porch. It gave him little surprise, however; for he had been revolving in his mind a change of life, and thought and hoped he saw his new-born resolutions carried out in this.",
+    "audio_description": "hopeful, reflective",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Quiet and dark, beside him stood the Phantom, with its outstretched hand. When he roused himself from his thoughtful quest, he fancied from the turn of the hand, and its situation in reference to himself, that the Unseen Eyes were looking at him keenly. It made him shudder, and feel very cold.",
+    "audio_description": "ominous, fearful",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "They left the busy scene, and went into an obscure part of the town, where Scrooge had never penetrated before, although he recognised its situation, and its bad repute. The ways were foul and narrow; the shops and houses wretched; the people half-naked, drunken, slipshod, ugly. Alleys and archways, like so many cesspools, disgorged their offences of smell, and dirt, and life, upon the straggling streets; and the whole quarter reeked with crime, with filth, and misery.",
+    "audio_description": "disgusted, descriptive",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Far in this den of infamous resort, there was a low-browed, beetling shop, below a pent-house roof, where iron, old rags, bottles, bones, and greasy offal, were bought. Upon the floor within, were piled up heaps of rusty keys, nails, chains, hinges, files, scales, weights, and refuse iron of all kinds. Secrets that few would like to scrutinise were bred and hidden in mountains of unseemly rags, masses of corrupted fat, and sepulchres of bones. Sitting in among the wares he dealt in, by a charcoal stove, made of old bricks, was a grey-haired rascal, nearly seventy years of age; who had screened himself from the cold air without, by a frousy curtaining of miscellaneous tatters, hung upon a line; and smoked his pipe in all the luxury of calm retirement.",
+    "audio_description": "descriptive, disgusted",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Scrooge and the Phantom came into the presence of this man, just as a woman with a heavy bundle slunk into the shop. But she had scarcely entered, when another woman, similarly laden, came in too; and she was closely followed by a man in faded black, who was no less startled by the sight of them, than they had been upon the recognition of each other. After a short period of blank astonishment, in which the old man with the pipe had joined them, they all three burst into a laugh.",
+    "audio_description": "surprised, then amused",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Let the charwoman alone to be the first! Let the laundress alone to be the second; and let the undertaker's man alone to be the third. Look here, old Joe, here's a chance! If we haven't all three met here without meaning it!",
+    "audio_description": "triumphant, bold",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "You couldn't have met in a better place. Come into the parlour. You were made free of it long ago, you know; and the other two aren't strangers. Stop till I shut the door of the shop. Ah! How it creaks! There aren't such a rusty bit of metal in the place as its own hinges, I believe; and I'm sure there's no such old bones here, as mine. Ha, ha! We're all suitable to our calling, we're well matched. Come into the parlour. Come into the parlour.",
+    "audio_description": "welcoming, raspy, amused",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The parlour was the space behind the screen of rags. The old man raked the fire together with an old stair-rod, and having trimmed his smoky lamp, for it was night, with the stem of his pipe, put it in his mouth again.",
+    "audio_description": "descriptive",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "While he did this, the woman who had already spoken threw her bundle on the floor, and sat down in a flaunting manner on a stool; crossing her elbows on her knees, and looking with a bold defiance at the other two.",
+    "audio_description": "descriptive",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "What odds then! What odds, Mrs. Dilber? Every person has a right to take care of themselves. HE always did.",
+    "audio_description": "defiant, bold",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "LAUNDRESS",
+    "text": "That's true, indeed! No man more so.",
+    "audio_description": "agreeing",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Why then, don't stand staring as if you was afraid, woman; who's the wiser? We're not going to pick holes in each other's coats, I suppose?",
+    "audio_description": "challenging, bold",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "LAUNDRESS",
+    "text": "No, indeed! We should hope not.",
+    "audio_description": "nervous, agreeing",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Very well, then! That's enough. Who's the worse for the loss of a few things like these? Not a dead man, I suppose.",
+    "audio_description": "dismissive, callous",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "LAUNDRESS",
+    "text": "No, indeed.",
+    "audio_description": "laughing nervously",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "If he wanted to keep 'em after he was dead, a wicked old screw, why wasn't he natural in his lifetime? If he had been, he'd have had somebody to look after him when he was struck with Death, instead of lying gasping out his last there, alone by himself.",
+    "audio_description": "cold, bitter",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "LAUNDRESS",
+    "text": "It's the truest word that ever was spoke. It's a judgment on him.",
+    "audio_description": "agreeing, vindictive",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "I wish it was a little heavier judgment, and it should have been, you may depend upon it, if I could have laid my hands on anything else. Open that bundle, old Joe, and let me know the value of it. Speak out plain. I'm not afraid to be the first, nor afraid for them to see it. We know pretty well that we were helping ourselves, before we met here, I believe. It's no sin. Open the bundle, Joe.",
+    "audio_description": "bold, defiant, commanding",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "But the gallantry of her friends would not allow of this; and the man in faded black, mounting the breach first, produced his plunder. It was not extensive. A seal or two, a pencil-case, a pair of sleeve-buttons, and a brooch of no great value, were all. They were severally examined and appraised by old Joe, who chalked the sums he was disposed to give for each, upon the wall, and added them up into a total when he found there was nothing more to come.",
+    "audio_description": "descriptive, matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "That's your account, and I wouldn't give another sixpence, if I was to be boiled for not doing it. Who's next?",
+    "audio_description": "calculating, firm",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Mrs. Dilber was next. Sheets and towels, a little wearing apparel, two old-fashioned silver teaspoons, a pair of sugar-tongs, and a few boots. Her account was stated on the wall in the same manner.",
+    "audio_description": "descriptive",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "I always give too much to ladies. It's a weakness of mine, and that's the way I ruin myself. That's your account. If you asked me for another penny, and made it an open question, I'd repent of being so liberal and knock off half-a-crown.",
+    "audio_description": "mocking generosity, firm",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "And now undo MY bundle, Joe.",
+    "audio_description": "commanding, confident",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Joe went down on his knees for the greater convenience of opening it, and having unfastened a great many knots, dragged out a large and heavy roll of some dark stuff.",
+    "audio_description": "descriptive",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "What do you call this? Bed-curtains!",
+    "audio_description": "surprised, questioning",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Ah! Bed-curtains!",
+    "audio_description": "laughing, leaning forward",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "You don't mean to say you took 'em down, rings and all, with him lying there?",
+    "audio_description": "shocked, disbelieving",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Yes I do. Why not?",
+    "audio_description": "defiant, matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "You were born to make your fortune, and you'll certainly do it.",
+    "audio_description": "admiring, impressed",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "I certainly shan't hold my hand, when I can get anything in it by reaching it out, for the sake of such a man as He was, I promise you, Joe. Don't drop that oil upon the blankets, now.",
+    "audio_description": "cold, practical, warning",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "His blankets?",
+    "audio_description": "questioning, surprised",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Whose else's do you think? He isn't likely to take cold without 'em, I dare say.",
+    "audio_description": "mocking, cold",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "I hope he didn't die of anything catching? Eh?",
+    "audio_description": "concerned, stopping work",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Don't you be afraid of that. I aren't so fond of his company that I'd loiter about him for such things, if he did. Ah! you may look through that shirt till your eyes ache; but you won't find a hole in it, nor a threadbare place. It's the best he had, and a fine one too. They'd have wasted it, if it hadn't been for me.",
+    "audio_description": "reassuring, proud",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "OLD_JOE",
+    "text": "What do you call wasting of it?",
+    "audio_description": "curious",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Putting it on him to be buried in, to be sure. Somebody was fool enough to do it, but I took it off again. If calico aren't good enough for such a purpose, it isn't good enough for anything. It's quite as becoming to the body. He can't look uglier than he did in that one.",
+    "audio_description": "laughing, callous",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Scrooge listened to this dialogue in horror. As they sat grouped about their spoil, in the scanty light afforded by the old man's lamp, he viewed them with a detestation and disgust, which could hardly have been greater, though they had been obscene demons, marketing the corpse itself.",
+    "audio_description": "horrified, disgusted",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "CHARWOMAN",
+    "text": "Ha, ha! This is the end of it, you see! He frightened every one away from him when he was alive, to profit us when he was dead! Ha, ha, ha!",
+    "audio_description": "laughing triumphantly",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Spirit! I see, I see. The case of this unhappy man might be my own. My life tends that way, now. Merciful Heaven, what is this!",
+    "audio_description": "horrified, shuddering, realizing",
+    "exclude": false,
+    "trailing_silence": 1.5
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He recoiled in terror, for the scene had changed, and now he almost touched a bed: a bare, uncurtained bed: on which, beneath a ragged sheet, there lay a something covered up, which, though it was dumb, announced itself in awful language.",
+    "audio_description": "fearful, dramatic",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The room was very dark, too dark to be observed with any accuracy, though Scrooge glanced round it in obedience to a secret impulse, anxious to know what kind of room it was. A pale light, rising in the outer air, fell straight upon the bed; and on it, plundered and bereft, unwatched, unwept, uncared for, was the body of this man.",
+    "audio_description": "somber, descriptive",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Scrooge glanced towards the Phantom. Its steady hand was pointed to the head. The cover was so carelessly adjusted that the slightest raising of it, the motion of a finger upon Scrooge's part, would have disclosed the face. He thought of it, felt how easy it would be to do, and longed to do it; but had no more power to withdraw the veil than to dismiss the spectre at his side.",
+    "audio_description": "tense, fearful",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Oh cold, cold, rigid, dreadful Death, set up thine altar here, and dress it with such terrors as thou hast at thy command: for this is thy dominion! But of the loved, revered, and honoured head, thou canst not turn one hair to thy dread purposes, or make one feature odious. It is not that the hand is heavy and will fall down when released; it is not that the heart and pulse are still; but that the hand was open, generous, and true; the heart brave, warm, and tender; and the pulse a man's. Strike, Shadow, strike! And see his good deeds springing from the wound, to sow the world with life immortal!",
+    "audio_description": "passionate, philosophical",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "No voice pronounced these words in Scrooge's ears, and yet he heard them when he looked upon the bed. He thought, if this man could be raised up now, what would be his foremost thoughts? Avarice, hard-dealing, griping cares? They have brought him to a rich end, truly!",
+    "audio_description": "bitter, reflective",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He lay, in the dark empty house, with not a man, a woman, or a child, to say that he was kind to me in this or that, and for the memory of one kind word I will be kind to him. A cat was tearing at the door, and there was a sound of gnawing rats beneath the hearth-stone. What they wanted in the room of death, and why they were so restless and disturbed, Scrooge did not dare to think.",
+    "audio_description": "melancholy, ominous",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Spirit! this is a fearful place. In leaving it, I shall not leave its lesson, trust me. Let us go!",
+    "audio_description": "pleading, frightened",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Still the Ghost pointed with an unmoved finger to the head.",
+    "audio_description": "matter-of-fact, ominous",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "SCROOGE",
+    "text": "I understand you, and I would do it, if I could. But I have not the power, Spirit. I have not the power.",
+    "audio_description": "desperate, helpless",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Again it seemed to look upon him.",
+    "audio_description": "ominous",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "SCROOGE",
+    "text": "If there is any person in the town, who feels emotion caused by this man's death, show that person to me, Spirit, I beseech you!",
+    "audio_description": "agonized, pleading",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Phantom spread its dark robe before him for a moment, like a wing; and withdrawing it, revealed a room by daylight, where a mother and her children were.",
+    "audio_description": "descriptive, dramatic",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "She was expecting some one, and with anxious eagerness; for she walked up and down the room; started at every sound; looked out from the window; glanced at the clock; tried, but in vain, to work with her needle; and could hardly bear the voices of the children in their play.",
+    "audio_description": "anxious, tense",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "At length the long-expected knock was heard. She hurried to the door, and met her husband; a man whose face was careworn and depressed, though he was young. There was a remarkable expression in it now; a kind of serious delight of which he felt ashamed, and which he struggled to repress.",
+    "audio_description": "descriptive, conflicted",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He sat down to the dinner that had been hoarding for him by the fire; and when she asked him faintly what news, which was not until after a long silence, he appeared embarrassed how to answer.",
+    "audio_description": "tense, uncomfortable",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "CAROLINE",
+    "text": "Is it good, or bad?",
+    "audio_description": "anxious, faint, helping him",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CAROLINE_HUSBAND",
+    "text": "Bad.",
+    "audio_description": "reluctant, brief",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CAROLINE",
+    "text": "We are quite ruined?",
+    "audio_description": "fearful, questioning",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CAROLINE_HUSBAND",
+    "text": "No. There is hope yet, Caroline.",
+    "audio_description": "reassuring",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CAROLINE",
+    "text": "If HE relents, there is! Nothing is past hope, if such a miracle has happened.",
+    "audio_description": "amazed, hopeful",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "CAROLINE_HUSBAND",
+    "text": "He is past relenting. He is dead.",
+    "audio_description": "matter-of-fact, serious",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "She was a mild and patient creature if her face spoke truth; but she was thankful in her soul to hear it, and she said so, with clasped hands. She prayed forgiveness the next moment, and was sorry; but the first was the emotion of her heart.",
+    "audio_description": "conflicted, descriptive",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "CAROLINE_HUSBAND",
+    "text": "What the half-drunken woman whom I told you of last night, said to me, when I tried to see him and obtain a week's delay; and what I thought was a mere excuse to avoid me; turns out to have been quite true. He was not only very ill, but dying, then.",
+    "audio_description": "explanatory, relieved",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "CAROLINE",
+    "text": "To whom will our debt be transferred?",
+    "audio_description": "practical, concerned",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CAROLINE_HUSBAND",
+    "text": "I don't know. But before that time we shall be ready with the money; and even though we were not, it would be a bad fortune indeed to find so merciless a creditor in his successor. We may sleep to-night with light hearts, Caroline!",
+    "audio_description": "hopeful, relieved",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Yes. Soften it as they would, their hearts were lighter. The children's faces, hushed and clustered round to hear what they so little understood, were brighter; and it was a happier house for this man's death! The only emotion that the Ghost could show him, caused by the event, was one of pleasure.",
+    "audio_description": "somber, reflective",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Let me see some tenderness connected with a death, or that dark chamber, Spirit, which we left just now, will be for ever present to me.",
+    "audio_description": "pleading, desperate",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Ghost conducted him through several streets familiar to his feet; and as they went along, Scrooge looked here and there to find himself, but nowhere was he to be seen. They entered poor Bob Cratchit's house; the dwelling he had visited before; and found the mother and the children seated round the fire.",
+    "audio_description": "descriptive, somber",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Quiet. Very quiet. The noisy little Cratchits were as still as statues in one corner, and sat looking up at Peter, who had a book before him. The mother and her daughters were engaged in sewing. But surely they were very quiet!",
+    "audio_description": "hushed, observant",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "PETER_CRATCHIT",
+    "text": "And He took a child, and set him in the midst of them.",
+    "audio_description": "reading softly from scripture",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Where had Scrooge heard those words? He had not dreamed them. The boy must have read them out, as he and the Spirit crossed the threshold. Why did he not go on?",
+    "audio_description": "questioning, reflective",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The mother laid her work upon the table, and put her hand up to her face.",
+    "audio_description": "descriptive, gentle",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "The colour hurts my eyes.",
+    "audio_description": "emotional, covering",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The colour? Ah, poor Tiny Tim!",
+    "audio_description": "understanding, sorrowful",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "They're better now again. It makes them weak by candle-light; and I wouldn't show weak eyes to your father when he comes home, for the world. It must be near his time.",
+    "audio_description": "recovering, steady",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "PETER_CRATCHIT",
+    "text": "Past it rather. But I think he has walked a little slower than he used, these few last evenings, mother.",
+    "audio_description": "observant, gentle",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "They were very quiet again. At last she said, and in a steady, cheerful voice, that only faltered once:",
+    "audio_description": "descriptive, gentle",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "I have known him walk with—I have known him walk with Tiny Tim upon his shoulder, very fast indeed.",
+    "audio_description": "steady, faltering once, remembering",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "PETER_CRATCHIT",
+    "text": "And so have I. Often.",
+    "audio_description": "gentle, remembering",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "CRATCHIT_DAUGHTER",
+    "text": "And so have I.",
+    "audio_description": "remembering",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "NARRATOR",
+    "text": "So had all.",
+    "audio_description": "matter-of-fact, gentle",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "But he was very light to carry, and his father loved him so, that it was no trouble: no trouble. And there is your father at the door!",
+    "audio_description": "intent on work, then suddenly alert",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "She hurried out to meet him; and little Bob in his comforter—he had need of it, poor fellow—came in. His tea was ready for him on the hob, and they all tried who should help him to it most. Then the two young Cratchits got upon his knees and laid, each child a little cheek, against his face, as if they said, Don't mind it, father. Don't be grieved!",
+    "audio_description": "gentle, compassionate",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Bob was very cheerful with them, and spoke pleasantly to all the family. He looked at the work upon the table, and praised the industry and speed of Mrs. Cratchit and the girls. They would be done long before Sunday, he said.",
+    "audio_description": "descriptive, cheerful tone",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "Sunday! You went to-day, then, Robert?",
+    "audio_description": "realizing, gentle",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "Yes, my dear. I wish you could have gone. It would have done you good to see how green a place it is. But you'll see it often. I promised him that I would walk there on a Sunday. My little, little child! My little child!",
+    "audio_description": "gentle, then breaking down emotionally",
+    "exclude": false,
+    "trailing_silence": 1.5
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He broke down all at once. He couldn't help it. If he could have helped it, he and his child would have been farther apart perhaps than they were.",
+    "audio_description": "compassionate, understanding",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He left the room, and went up-stairs into the room above, which was lighted cheerfully, and hung with Christmas. There was a chair set close beside the child, and there were signs of some one having been there, lately. Poor Bob sat down in it, and when he had thought a little and composed himself, he kissed the little face. He was reconciled to what had happened, and went down again quite happy.",
+    "audio_description": "gentle, tender, peaceful",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "They drew about the fire, and talked; the girls and mother working still. Bob told them of the extraordinary kindness of Mr. Scrooge's nephew, whom he had scarcely seen but once, and who, meeting him in the street that day, and seeing that he looked a little—just a little down you know, inquired what had happened to distress him. On which, said Bob, for he is the pleasantest-spoken gentleman you ever heard, I told him.",
+    "audio_description": "warm, conversational",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "I am heartily sorry for it, Mr. Cratchit, and heartily sorry for your good wife. By the bye, how he ever knew THAT, I don't know.",
+    "audio_description": "quoting nephew, then puzzled",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "Knew what, my dear?",
+    "audio_description": "curious",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "Why, that you were a good wife.",
+    "audio_description": "explaining",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "PETER_CRATCHIT",
+    "text": "Everybody knows that!",
+    "audio_description": "matter-of-fact",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "Very well observed, my boy! I hope they do. Heartily sorry, he said, for your good wife. If I can be of service to you in any way, he said, giving me his card, that's where I live. Pray come to me. Now, it wasn't, for the sake of anything he might be able to do for us, so much as for his kind way, that this was quite delightful. It really seemed as if he had known our Tiny Tim, and felt with us.",
+    "audio_description": "warm, appreciative, moved",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "I'm sure he's a good soul!",
+    "audio_description": "earnest, approving",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "You would be surer of it, my dear, if you saw and spoke to him. I shouldn't be at all surprised—mark what I say!—if he got Peter a better situation.",
+    "audio_description": "confident, hopeful",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "MRS_CRATCHIT",
+    "text": "Only hear that, Peter.",
+    "audio_description": "pleased, encouraging",
+    "exclude": false,
+    "trailing_silence": 0.3
+  },
+  {
+    "character": "CRATCHIT_DAUGHTER",
+    "text": "And then, Peter will be keeping company with some one, and setting up for himself.",
+    "audio_description": "teasing, excited",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "PETER_CRATCHIT",
+    "text": "Get along with you!",
+    "audio_description": "grinning, embarrassed",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "It's just as likely as not, one of these days; though there's plenty of time for that, my dear. But however and whenever we part from one another, I am sure we shall none of us forget poor Tiny Tim—shall we—or this first parting that there was among us?",
+    "audio_description": "thoughtful, emotional, questioning",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "YOUNG_CRATCHITS",
+    "text": "Never, father!",
+    "audio_description": "earnest, unified",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "And I know, I know, my dears, that when we recollect how patient and how mild he was; although he was a little, little child; we shall not quarrel easily among ourselves, and forget poor Tiny Tim in doing it.",
+    "audio_description": "gentle, emotional, wise",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "YOUNG_CRATCHITS",
+    "text": "No, never, father!",
+    "audio_description": "earnest, unified",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "BOB_CRATCHIT",
+    "text": "I am very happy. I am very happy!",
+    "audio_description": "emotional, tearful but joyful",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Mrs. Cratchit kissed him, his daughters kissed him, the two young Cratchits kissed him, and Peter and himself shook hands. Spirit of Tiny Tim, thy childish essence was from God!",
+    "audio_description": "tender, reverent",
+    "exclude": false,
+    "trailing_silence": 1.5
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Spectre, something informs me that our parting moment is at hand. I know it, but I know not how. Tell me what man that was whom we saw lying dead?",
+    "audio_description": "urgent, desperate, questioning",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Ghost of Christmas Yet To Come conveyed him, as before—though at a different time, he thought: indeed, there seemed no order in these latter visions, save that they were in the Future—into the resorts of business men, but showed him not himself. Indeed, the Spirit did not stay for anything, but went straight on, as to the end just now desired, until besought by Scrooge to tarry for a moment.",
+    "audio_description": "descriptive, urgent",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "SCROOGE",
+    "text": "This court, through which we hurry now, is where my place of occupation is, and has been for a length of time. I see the house. Let me behold what I shall be, in days to come!",
+    "audio_description": "urgent, pleading",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Spirit stopped; the hand was pointed elsewhere.",
+    "audio_description": "ominous",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "SCROOGE",
+    "text": "The house is yonder. Why do you point away?",
+    "audio_description": "confused, desperate",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The inexorable finger underwent no change.",
+    "audio_description": "ominous, final",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Scrooge hastened to the window of his office, and looked in. It was an office still, but not his. The furniture was not the same, and the figure in the chair was not himself. The Phantom pointed as before.",
+    "audio_description": "descriptive, ominous",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "He joined it once again, and wondering why and whither he had gone, accompanied it until they reached an iron gate. He paused to look round before entering.",
+    "audio_description": "descriptive, tense",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "NARRATOR",
+    "text": "A churchyard. Here, then; the wretched man whose name he had now to learn, lay underneath the ground. It was a worthy place. Walled in by houses; overrun by grass and weeds, the growth of vegetation's death, not life; choked up with too much burying; fat with repleted appetite. A worthy place!",
+    "audio_description": "somber, bitter",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Spirit stood among the graves, and pointed down to One. He advanced towards it trembling. The Phantom was exactly as it had been, but he dreaded that he saw new meaning in its solemn shape.",
+    "audio_description": "fearful, ominous",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Before I draw nearer to that stone to which you point, answer me one question. Are these the shadows of the things that Will be, or are they shadows of things that May be, only?",
+    "audio_description": "desperate, pleading, trembling",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Still the Ghost pointed downward to the grave by which it stood.",
+    "audio_description": "ominous, relentless",
+    "exclude": false,
+    "trailing_silence": 0.8
+  },
+  {
+    "character": "SCROOGE",
+    "text": "Men's courses will foreshadow certain ends, to which, if persevered in, they must lead. But if the courses be departed from, the ends will change. Say it is thus with what you show me!",
+    "audio_description": "desperate, reasoning, pleading",
+    "exclude": false,
+    "trailing_silence": 1.2
+  },
+  {
+    "character": "NARRATOR",
+    "text": "The Spirit was immovable as ever.",
+    "audio_description": "final, ominous",
+    "exclude": false,
+    "trailing_silence": 1.0
+  },
+  {
+    "character": "NARRATOR",
+    "text": "Scrooge crept towards it, trembling as he went; and following the finger, read upon the stone of the neglected grave his own name, Ebenezer Scrooge.",
+    "audio_description": "horrified, dramatic revelation",
+    "exclude": false,
+    "trailing_silence": 1.5
+  }
+]

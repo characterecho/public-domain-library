@@ -1,0 +1,16 @@
+[
+  {
+    "character": "NARRATOR",
+    "text": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+    "audio_description": "",
+    "exclude": false,
+    "trailing_silence": 0.5
+  },
+  {
+    "character": "NARRATOR",
+    "text": "by Charles Dickens",
+    "audio_description": "",
+    "exclude": false,
+    "trailing_silence": 1.0
+  }
+]

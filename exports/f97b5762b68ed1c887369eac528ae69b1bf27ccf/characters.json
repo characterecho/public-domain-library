@@ -1,0 +1,1262 @@
+[
+  {
+    "identifier": "NARRATOR",
+    "name": "Narrator",
+    "aliases": [
+      "The Narrator"
+    ],
+    "description": "Her voice possesses the warm, steady confidence of a middle-aged British narrator, flowing like well-aged whisky—smooth and assured, with crisp consonants and rounded vowels that guide listeners through tales with elegant, unhurried certainty.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [],
+    "visual_attributes": [],
+    "roles": [
+      "narrator"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "SCROOGE",
+    "name": "Ebenezer Scrooge",
+    "aliases": [
+      "Old Scrooge",
+      "Mr. Scrooge",
+      "uncle",
+      "Ebenezer",
+      "Master Scrooge",
+      "Uncle Scrooge",
+      "the Ogre",
+      "Scrooge the Baleful",
+      "sir",
+      "my dear sir"
+    ],
+    "description": "He speaks with an aged British voice that carries the sharp, grating edge of a man hardened by decades of miserliness, though it can shift unexpectedly from stern and caustic to quavering with penitent emotion—a voice worn thin and reedy by time, capable of both bitter coldness and exuberant joy.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "cold",
+      "caustic",
+      "grating",
+      "indignant",
+      "stern",
+      "bewildered",
+      "emotional",
+      "submissive",
+      "tremulous",
+      "penitent",
+      "fearful",
+      "agonized",
+      "joyful",
+      "exuberant",
+      "laughing",
+      "earnest"
+    ],
+    "visual_attributes": [
+      "old",
+      "pointed nose",
+      "shriveled cheek",
+      "red eyes",
+      "thin blue lips",
+      "frosty rime on head and eyebrows",
+      "wiry chin",
+      "stiffened gait",
+      "wearing dressing-gown and nightcap",
+      "in bed",
+      "shuffling in slippers",
+      "trembling legs",
+      "shaking hands",
+      "dressed in his best"
+    ],
+    "roles": [
+      "protagonist",
+      "business owner",
+      "observer",
+      "reformed man"
+    ],
+    "metadata": {
+      "age_group": "old",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "MARLEY_GHOST",
+    "name": "Jacob Marley's Ghost",
+    "aliases": [
+      "Marley's Ghost",
+      "the Ghost",
+      "the phantom",
+      "the spectre",
+      "Jacob",
+      "Old Jacob Marley",
+      "Jacob Marley"
+    ],
+    "description": "He speaks with the hollow, trembling quality of advanced age worn down by eternal suffering, his British accent carrying a haunting resonance that seems to emanate from somewhere far beyond the living world, every syllable weighted with sorrowful warning and spectral desperation.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "haunting",
+      "mournful",
+      "anguished",
+      "warning"
+    ],
+    "visual_attributes": [
+      "transparent body",
+      "pigtail",
+      "usual waistcoat",
+      "tights and boots",
+      "chain of cash-boxes and ledgers",
+      "ghostly spectacles",
+      "folded kerchief bound about head",
+      "dismal light about face"
+    ],
+    "roles": [
+      "ghost",
+      "former business partner",
+      "warning spirit"
+    ],
+    "metadata": {
+      "age_group": "old",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "NEPHEW",
+    "name": "Fred",
+    "aliases": [
+      "Scrooge's nephew",
+      "nephew",
+      "Fred",
+      "master"
+    ],
+    "description": "He speaks with the buoyant warmth of a young British gentleman whose optimism bubbles through every syllable, his voice bright and earnest with the kind of infectious cheerfulness that makes even serious matters sound like invitations to celebration.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "cheerful",
+      "gaily",
+      "warm",
+      "earnest",
+      "laughing",
+      "good-natured",
+      "surprised"
+    ],
+    "visual_attributes": [
+      "ruddy face",
+      "handsome",
+      "sparkling eyes",
+      "glowing from walking"
+    ],
+    "roles": [
+      "family member",
+      "optimist",
+      "host"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "GHOST_PAST",
+    "name": "Ghost of Christmas Past",
+    "aliases": [
+      "the Spirit",
+      "the Ghost"
+    ],
+    "description": "His voice flows with an ethereal gentleness, measured and resonant with middle-aged assurance yet touched by something otherworldly—each word delivered in a soft, low British tone that seems to shimmer between the past and present.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "soft",
+      "gentle",
+      "singularly low",
+      "distant",
+      "mystical"
+    ],
+    "visual_attributes": [
+      "childlike yet old",
+      "white hair",
+      "unwrinkled face",
+      "long muscular arms",
+      "white tunic",
+      "lustrous belt",
+      "holding holly branch",
+      "bright light from head",
+      "fluctuating appearance"
+    ],
+    "roles": [
+      "supernatural guide",
+      "spirit"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "GHOST_PRESENT",
+    "name": "Ghost of Christmas Present",
+    "aliases": [
+      "the Spirit",
+      "the Ghost",
+      "Spirit",
+      "the Phantom",
+      "jolly Giant"
+    ],
+    "description": "His voice rings out in a rich, commanding British baritone that carries the warmth of a crackling Yuletide fire, shifting from jovial laughter to sorrowful wisdom with the assured fluidity of his middle years, each word imbued with supernatural authority yet touched by genuine emotion.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "exclaiming",
+      "jovial",
+      "mysterious",
+      "rebuking",
+      "sorrowful"
+    ],
+    "visual_attributes": [
+      "giant",
+      "glorious",
+      "green robe bordered with white fur",
+      "bare breast",
+      "bare feet",
+      "holly wreath with icicles",
+      "dark brown curls",
+      "sparkling eye",
+      "open hand",
+      "cheery voice",
+      "holding glowing torch",
+      "antique scabbard without sword",
+      "aging throughout the night"
+    ],
+    "roles": [
+      "supernatural guide",
+      "spirit",
+      "teacher"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BOB_CRATCHIT",
+    "name": "Bob Cratchit",
+    "aliases": [
+      "the clerk",
+      "Scrooge's clerk",
+      "little Bob",
+      "the father",
+      "Bob",
+      "Robert",
+      "poor Bob",
+      "my friend",
+      "my good fellow"
+    ],
+    "description": "He speaks in a soft, hesitant British voice that carries a pleasant but faint quality suggesting a man accustomed to making himself small, yet it brightens with genuine warmth when hope or affection enters his words. His tremulous, apologetic tone occasionally cracks with emotion, revealing the devoted father beneath the timid clerk.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "timid",
+      "faint",
+      "hopeful",
+      "tremulous",
+      "mild",
+      "cheerful",
+      "pleasant",
+      "breaking down",
+      "emotional",
+      "apologetic",
+      "nervous"
+    ],
+    "visual_attributes": [
+      "wearing white comforter",
+      "no great-coat",
+      "cold",
+      "thin",
+      "three feet of comforter",
+      "threadbare clothes darned and brushed",
+      "carrying Tiny Tim",
+      "hat off"
+    ],
+    "roles": [
+      "employee",
+      "clerk",
+      "father",
+      "husband"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "MRS_CRATCHIT",
+    "name": "Mrs. Cratchit",
+    "aliases": [
+      "Cratchit's wife",
+      "the mother",
+      "mother"
+    ],
+    "description": "She speaks with a warm, steady British accent grounded in middle-aged maternal strength, though her voice wavers between cheerful determination and anxious concern, occasionally rising with the indignant fire of a mother protecting her own. Her tone carries the measured assurance of one who holds a household together through sheer will and love, even as worry trembles at the edges.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "concerned",
+      "warm",
+      "indignant",
+      "maternal",
+      "steady",
+      "cheerful",
+      "faltering"
+    ],
+    "visual_attributes": [
+      "poorly dressed",
+      "twice-turned gown",
+      "brave in ribbons",
+      "flushed",
+      "nervous",
+      "working with needle",
+      "weak eyes by candlelight"
+    ],
+    "roles": [
+      "mother",
+      "wife",
+      "homemaker"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "CHARWOMAN",
+    "name": "Charwoman",
+    "aliases": [
+      "woman",
+      "she who had entered first",
+      "the woman",
+      "the first woman"
+    ],
+    "description": "Her voice is a brazen instrument of working-class British defiance, steady and confident with the hardened quality of a middle-aged woman who has long since abandoned pretense, each word delivered with callous certainty and the occasional bark of cold, mirthless laughter.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "bold",
+      "defiant",
+      "callous",
+      "laughing",
+      "cold"
+    ],
+    "visual_attributes": [
+      "carrying heavy bundle",
+      "flaunting manner",
+      "crossing elbows on knees"
+    ],
+    "roles": [
+      "servant",
+      "thief"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "GENTLEMAN_1",
+    "name": "Charity Collector One",
+    "aliases": [
+      "gentleman",
+      "one of the gentlemen",
+      "portly gentleman",
+      "old gentleman",
+      "the other"
+    ],
+    "description": "His voice is a warm, resonant British baritone marked by middle-aged assurance and unwavering politeness, with a tendency to grow breathless and amazed when discussing charitable works. The steady, measured cadence of his speech reflects both professional experience and earnest conviction, each syllable rounded and pleasant like his genial appearance.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "pleasant",
+      "polite",
+      "earnest",
+      "breathless",
+      "amazed"
+    ],
+    "visual_attributes": [
+      "portly",
+      "pleasant to behold",
+      "carrying books and papers"
+    ],
+    "roles": [
+      "charity collector"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BELLE_YOUNG",
+    "name": "Belle",
+    "aliases": [
+      "fair young girl"
+    ],
+    "description": "She speaks with a soft, gentle British accent that carries the weight of sorrow like rain against windowpanes, yet beneath the trembling grief lies an unmistakable thread of quiet resolve that refuses to break.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "soft",
+      "gentle",
+      "sorrowful",
+      "resolute"
+    ],
+    "visual_attributes": [
+      "fair",
+      "young",
+      "wearing mourning dress",
+      "tearful eyes"
+    ],
+    "roles": [
+      "former fiancée",
+      "lost love"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "OLD_JOE",
+    "name": "Old Joe",
+    "aliases": [
+      "grey-haired rascal",
+      "old man",
+      "Joe"
+    ],
+    "description": "His raspy British voice crackles through the air like dry parchment, gravelly with age and roughened by years of tobacco, yet sharpened by the cunning of a man who's made his living off others' misfortunes. The casual, almost conversational tone masks a calculating mind that weighs every word for profit.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "raspy",
+      "casual",
+      "mercenary",
+      "calculating"
+    ],
+    "visual_attributes": [
+      "grey-haired",
+      "nearly seventy years old",
+      "smoking pipe",
+      "screened by frousy curtaining"
+    ],
+    "roles": [
+      "shopkeeper",
+      "fence",
+      "dealer in stolen goods"
+    ],
+    "metadata": {
+      "age_group": "old",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "SCROOGE_PRIME",
+    "name": "Ebenezer Scrooge",
+    "aliases": [
+      "he"
+    ],
+    "description": "He delivers his words with the brittle precision of a counting-house master, his British accent hardened by years of avarice into something cold and defensive, each sentence snapped out with the impatience of a man who measures time only in money.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "defensive",
+      "impatient",
+      "hardened"
+    ],
+    "visual_attributes": [
+      "man in prime of life",
+      "signs of care and avarice",
+      "eager greedy restless eyes"
+    ],
+    "roles": [
+      "businessman",
+      "memory"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BOY",
+    "name": "Boy in Sunday Clothes",
+    "aliases": [
+      "my fine fellow",
+      "the lad",
+      "the boy",
+      "my buck",
+      "delightful boy"
+    ],
+    "description": "The speaker is a youthful, intelligent-sounding presence with a bright British accent that sparkles with eager curiosity, each word delivered with the wondering tone of someone perpetually delighted by the world's possibilities.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "wondering",
+      "bright",
+      "eager"
+    ],
+    "visual_attributes": [
+      "young",
+      "wearing Sunday clothes",
+      "intelligent-looking"
+    ],
+    "roles": [
+      "messenger",
+      "street urchin"
+    ],
+    "metadata": {
+      "age_group": "child",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "FAT_BUSINESSMAN",
+    "name": "Fat Businessman",
+    "aliases": [
+      "great fat man",
+      "the first",
+      "first speaker",
+      "the same speaker"
+    ],
+    "description": "He speaks with a steady, prosperous British businessman's drawl, each word delivered with studied indifference as though perpetually stifling a yawn, his mocking tone suggesting he finds the entire world and its concerns beneath his notice.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "indifferent",
+      "yawning",
+      "casual",
+      "mocking"
+    ],
+    "visual_attributes": [
+      "great fat",
+      "monstrous chin",
+      "never wears black gloves"
+    ],
+    "roles": [
+      "businessman",
+      "merchant"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "CAROLINE_HUSBAND",
+    "name": "Caroline's Husband",
+    "aliases": [
+      "her husband",
+      "he"
+    ],
+    "description": "He speaks with a weary British accent, his voice carrying the weight of financial strain and fatherly responsibility—each word emerging hesitantly, tinged with embarrassment yet occasionally brightening with fleeting relief, like sunlight breaking through heavy clouds.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "careworn",
+      "depressed",
+      "embarrassed",
+      "relieved"
+    ],
+    "visual_attributes": [
+      "young",
+      "careworn face",
+      "depressed",
+      "serious delight expression"
+    ],
+    "roles": [
+      "father",
+      "debtor",
+      "husband"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "NIECE",
+    "name": "Scrooge's Niece",
+    "aliases": [
+      "Scrooge's niece",
+      "Fred's wife"
+    ],
+    "description": "She speaks with a bright, melodious British voice that carries both youthful warmth and spirited conviction, her tone sweetening with genuine earnestness when defending those she cares about, yet sharpening with playful indignation when injustice is discussed.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "indignant",
+      "earnest"
+    ],
+    "visual_attributes": [
+      "very pretty",
+      "exceedingly pretty",
+      "dimpled face",
+      "surprised-looking",
+      "ripe little mouth",
+      "good little dots about chin",
+      "sunniest pair of eyes",
+      "provoking but satisfactory"
+    ],
+    "roles": [
+      "hostess",
+      "wife"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "PETER_CRATCHIT",
+    "name": "Master Peter Cratchit",
+    "aliases": [
+      "Peter",
+      "Master Peter",
+      "the boy"
+    ],
+    "description": "He speaks with an eager, youthful British voice that bubbles with pride and barely contained excitement, his words tumbling out with the observant clarity of someone trying hard to prove himself worthy of adult responsibilities.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "eager",
+      "proud",
+      "observant"
+    ],
+    "visual_attributes": [
+      "wearing monstrous shirt collar",
+      "Bob's private property",
+      "young man",
+      "reading from book"
+    ],
+    "roles": [
+      "son",
+      "eldest son"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "CAROLINE",
+    "name": "Caroline",
+    "aliases": [
+      "mother",
+      "she",
+      "the mother"
+    ],
+    "description": "Her voice carries a gentle British lilt that trembles with maternal anxiety, each word spoken with an eager, faint quality as though she's perpetually catching her breath between gratitude and concern for her children.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "anxious",
+      "eager",
+      "faint",
+      "amazed",
+      "thankful"
+    ],
+    "visual_attributes": [
+      "mild and patient face",
+      "clasped hands",
+      "with children"
+    ],
+    "roles": [
+      "mother",
+      "debtor"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "LAUNDRESS",
+    "name": "Mrs. Dilber",
+    "aliases": [
+      "another woman",
+      "the laundress",
+      "Mrs. Dilber"
+    ],
+    "description": "She speaks with a steady, resonant British working-class accent shaped by years in service, though her words flutter nervously between eager agreeability and self-conscious bursts of laughter that betray her anxious state of mind.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "agreeable",
+      "nervous",
+      "laughing"
+    ],
+    "visual_attributes": [
+      "similarly laden with bundle"
+    ],
+    "roles": [
+      "servant",
+      "laundress",
+      "thief"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "YOUNG_CRATCHITS",
+    "name": "Young Cratchits",
+    "aliases": [
+      "two smaller Cratchits",
+      "boy and girl",
+      "the two young Cratchits",
+      "ubiquitous young Cratchits",
+      "noisy little Cratchits"
+    ],
+    "description": "Their voices ring out in shrill, uninhibited British tones—youthful enthusiasm personified—alternating between piercing shrieks of delight and unexpected moments of breathless, statue-like silence.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "excited",
+      "screaming",
+      "shrieking",
+      "quiet"
+    ],
+    "visual_attributes": [
+      "young children",
+      "boy and girl",
+      "energetic",
+      "still as statues"
+    ],
+    "roles": [
+      "children"
+    ],
+    "metadata": {
+      "age_group": "child",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BELLE_HUSBAND",
+    "name": "Belle's Husband",
+    "aliases": [
+      "the husband",
+      "the father",
+      "master of the house"
+    ],
+    "description": "His voice is resonant and gentle with a British lilt, infused with the unmistakable warmth of a devoted family man whose every syllable seems to embrace those around him with quiet, satisfied joy.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "warm",
+      "content",
+      "loving"
+    ],
+    "visual_attributes": [
+      "family man",
+      "laden with Christmas toys"
+    ],
+    "roles": [
+      "husband",
+      "father"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "FEZZIWIG",
+    "name": "Old Fezziwig",
+    "aliases": [
+      "Mr. Fezziwig"
+    ],
+    "description": "His voice is a full-bodied British baritone weathered smooth by decades of generous hospitality, spilling forth with oily, comfortable warmth like mulled wine poured from a well-aged cask, every syllable rounded and jovial as if emerging from that capacious waistcoat with a knowing chuckle.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "comfortable",
+      "oily",
+      "rich",
+      "fat",
+      "jovial"
+    ],
+    "visual_attributes": [
+      "wearing Welsh wig",
+      "sitting behind high desk",
+      "capacious waistcoat",
+      "cheerful",
+      "wonderful agility"
+    ],
+    "roles": [
+      "former employer",
+      "mentor",
+      "host"
+    ],
+    "metadata": {
+      "age_group": "old",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "WEALTHY_MAN_1",
+    "name": "First Wealthy Man",
+    "aliases": [
+      "one"
+    ],
+    "description": "He possesses a steady, polished British voice that manages to sound both approachable and commanding—the vocal equivalent of an expensive suit worn comfortably, with just enough casual warmth to put others at ease while making it clear who holds the power in any room.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "casual",
+      "businesslike"
+    ],
+    "visual_attributes": [
+      "very wealthy",
+      "great importance"
+    ],
+    "roles": [
+      "businessman"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "WEALTHY_MAN_2",
+    "name": "Second Wealthy Man",
+    "aliases": [
+      "the other",
+      "the second"
+    ],
+    "description": "He speaks with a sharp, perfunctory British accent characteristic of a middle-aged boardroom veteran who has learned that brevity equals power. Every syllable is measured and curt, delivered with the assured disdain of someone who considers most exchanges an interruption to more important matters.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "brief",
+      "dismissive"
+    ],
+    "visual_attributes": [
+      "very wealthy",
+      "great importance"
+    ],
+    "roles": [
+      "businessman"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BELLE_OLDER",
+    "name": "Belle",
+    "aliases": [
+      "comely matron",
+      "the mother"
+    ],
+    "description": "She speaks with a warm, steady British accent that carries the confident assurance of a woman who has raised a family and managed a household, her tone maternal yet composed, with a resonant quality that commands attention without demanding it.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [],
+    "visual_attributes": [
+      "mature woman",
+      "comely matron",
+      "mother"
+    ],
+    "roles": [
+      "mother",
+      "wife"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "CRATCHIT_DAUGHTER",
+    "name": "Cratchit Daughter",
+    "aliases": [
+      "one of the girls"
+    ],
+    "description": "Her voice rings with the clear, spirited tone of youthful vitality, carrying a British accent that dances between excited proclamations and affectionate teasing like sunlight flickering through leaves. There's a musical quality to her speech, brimming with the energy and mischief of a young woman finding joy in family moments.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "excited",
+      "teasing"
+    ],
+    "visual_attributes": [
+      "young woman",
+      "sewing"
+    ],
+    "roles": [
+      "daughter"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "FAN",
+    "name": "Fan",
+    "aliases": [
+      "little Fan",
+      "Scrooge's sister"
+    ],
+    "description": "She speaks with a bright, lilting British accent that rings out with bell-like clarity, her voice infused with the pristine brightness of early years and brimming with such genuine warmth and enthusiasm that every syllable seems to dance with uncontainable delight.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "cheerful",
+      "gleeful",
+      "loving",
+      "excited"
+    ],
+    "visual_attributes": [
+      "little girl",
+      "much younger than her brother",
+      "tiny hands",
+      "delicate creature"
+    ],
+    "roles": [
+      "sister",
+      "memory"
+    ],
+    "metadata": {
+      "age_group": "child",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "MARTHA_CRATCHIT",
+    "name": "Martha",
+    "aliases": [
+      "Martha",
+      "poor apprentice"
+    ],
+    "description": "She speaks with a weary but gentle British accent, her youthful voice carrying the dutiful softness of one accustomed to long hours—tired yet tender, like a candle flame struggling to stay bright after burning through the night shift.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "tired",
+      "dutiful"
+    ],
+    "visual_attributes": [
+      "wearing shawl and bonnet",
+      "working girl"
+    ],
+    "roles": [
+      "daughter",
+      "milliner's apprentice"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "PLUMP_SISTER",
+    "name": "Plump Sister",
+    "aliases": [
+      "the plump one with the lace tucker",
+      "plump sister"
+    ],
+    "description": "Her voice rings with the effervescent quality of a young woman who protests everything with mock indignation before dissolving into genuine, infectious laughter—a British lilt that dances between feigned outrage and delighted amusement.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "protesting",
+      "laughing"
+    ],
+    "visual_attributes": [
+      "plump",
+      "wearing lace tucker",
+      "silken rustlings"
+    ],
+    "roles": [
+      "guest",
+      "sister of niece"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "RED_FACED_GENTLEMAN",
+    "name": "Red-Faced Gentleman",
+    "aliases": [
+      "red-faced gentleman",
+      "the gentleman with the excrescence"
+    ],
+    "description": "He possesses a steady, commanding British voice characteristic of middle-aged tradesmen, though it frequently escalates into blustering exasperation when financial matters are at stake. His tone is thoroughly practical and mercenary, articulating each word with the calculated efficiency of a man who measures conversation by its potential profit.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "practical",
+      "mercenary"
+    ],
+    "visual_attributes": [
+      "red-faced",
+      "pendulous excrescence on nose",
+      "shaking like turkey-cock gills"
+    ],
+    "roles": [
+      "businessman",
+      "merchant"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "SERVANT_GIRL",
+    "name": "Fred's Servant Girl",
+    "aliases": [
+      "the girl",
+      "my dear",
+      "my love"
+    ],
+    "description": "She speaks with a youthful, clear British accent marked by the courteous formality of her position in service, her voice carrying a soft, melodious quality that conveys both attentiveness and genuine care.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "polite",
+      "helpful"
+    ],
+    "visual_attributes": [
+      "young woman",
+      "in service"
+    ],
+    "roles": [
+      "servant",
+      "maid"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "female",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "YOUNG_SCROOGE_TEEN",
+    "name": "Young Ebenezer Scrooge",
+    "aliases": [
+      "the boy",
+      "dear brother"
+    ],
+    "description": "The speaker is a hopeful young man with a clear, affectionate British accent that rings with the earnest optimism of someone still believing in goodness, his words tumbling out with the eager sincerity of uncrushed youth.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "affectionate",
+      "hopeful"
+    ],
+    "visual_attributes": [
+      "teenage boy",
+      "walking despairingly"
+    ],
+    "roles": [
+      "memory",
+      "student"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BUSINESSMAN_2",
+    "name": "Second Businessman",
+    "aliases": [
+      "another"
+    ],
+    "description": "His voice has the warm, measured quality of a seasoned British merchant, middle-aged and assured, with an inquiring lilt that makes even simple statements sound like friendly questions. The casual cadence flows like a shopkeeper making pleasant conversation, confident but never stiff.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "inquiring",
+      "casual"
+    ],
+    "visual_attributes": [
+      "merchant"
+    ],
+    "roles": [
+      "businessman",
+      "merchant"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "BUSINESSMAN_3",
+    "name": "Third Businessman",
+    "aliases": [
+      "a third"
+    ],
+    "description": "His voice carries the warm, grounded quality of a middle-aged British tradesman, balanced between the easy informality of a man comfortable in his station and sudden bursts of astonishment that punctuate his speech like exclamation points—resonant and assured, yet animated by an endearing readiness to be caught off-guard.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "casual",
+      "surprised"
+    ],
+    "visual_attributes": [
+      "taking snuff",
+      "carrying large snuff-box"
+    ],
+    "roles": [
+      "businessman",
+      "merchant"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "CAROL_SINGER",
+    "name": "Carol Singer",
+    "aliases": [
+      "singer",
+      "the singer",
+      "owner of one scant young nose"
+    ],
+    "description": "He speaks with a youthful British accent that alternates between sweet, tentative singing and nervous, breathy speech, his voice quivering with cold and trepidation like a candle flame struggling against an icy wind.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "singing",
+      "frightened"
+    ],
+    "visual_attributes": [
+      "young",
+      "scant nose gnawed by cold"
+    ],
+    "roles": [
+      "caroler"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "GENTLEMAN_2",
+    "name": "Charity Collector Two",
+    "aliases": [
+      "the gentleman",
+      "one of the gentlemen"
+    ],
+    "description": "He speaks with warm, rounded tones characteristic of a middle-aged British gentleman, each word delivered with diplomatic politeness yet undergirded by an observant shrewdness and a persistence as soft as velvet but as unyielding as steel.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "polite",
+      "persistent",
+      "observant"
+    ],
+    "visual_attributes": [
+      "portly",
+      "pleasant to behold",
+      "carrying books and papers"
+    ],
+    "roles": [
+      "charity collector"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "SCHOOLMASTER",
+    "name": "The Schoolmaster",
+    "aliases": [],
+    "description": "He speaks in a terrible, resonant British baritone that carries the weight of absolute authority—steady and commanding, yet laced with such withering condescension that every utterance feels like a masterclass in disdain. His ferocious delivery is all the more chilling for its measured control, each word a calculated strike.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "terrible",
+      "ferocious yet condescending"
+    ],
+    "visual_attributes": [
+      "imposing figure"
+    ],
+    "roles": [
+      "authority figure",
+      "schoolmaster"
+    ],
+    "metadata": {
+      "age_group": "middle_aged",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "TINY_TIM",
+    "name": "Tiny Tim",
+    "aliases": [
+      "Tim",
+      "little Tim"
+    ],
+    "description": "He speaks with a plaintive, feeble British voice that quivers like a candle flame in winter wind, each thoughtful word emerging with gentle effort yet carrying an earnest sincerity and quiet grace that transforms frailty into something luminous.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "plaintive",
+      "feeble",
+      "thoughtful"
+    ],
+    "visual_attributes": [
+      "small",
+      "crippled",
+      "carrying little crutch",
+      "limbs supported by iron frame",
+      "withered little hand"
+    ],
+    "roles": [
+      "child",
+      "son"
+    ],
+    "metadata": {
+      "age_group": "child",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  },
+  {
+    "identifier": "TOPPER",
+    "name": "Topper",
+    "aliases": [
+      "bachelor"
+    ],
+    "description": "The speaker is a young man with a remarkably deep bass voice that carries the rich, rolling tones of a British accent, his vocal quality possessing both the vibrancy of youth and the impressive depth of a trained musician who can drop into a resonant growl.",
+    "image_url": "TODO_PLACEHOLDER",
+    "voice_attributes": [
+      "deep bass voice"
+    ],
+    "visual_attributes": [
+      "musical",
+      "can growl in bass"
+    ],
+    "roles": [
+      "guest",
+      "bachelor"
+    ],
+    "metadata": {
+      "age_group": "young",
+      "gender": "male",
+      "voice_accent": "british"
+    }
+  }
+]
