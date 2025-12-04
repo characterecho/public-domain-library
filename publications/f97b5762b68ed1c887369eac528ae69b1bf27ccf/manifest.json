@@ -1,0 +1,38 @@
+{
+  "title": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
+  "author_names": "Charles Dickens",
+  "cover_image_url": "TODO_PLACEHOLDER",
+  "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "path": "segments/0"
+    },
+    {
+      "ordinal": 1,
+      "title": "STAVE ONE. — MARLEY’S GHOST.",
+      "path": "segments/1"
+    },
+    {
+      "ordinal": 2,
+      "title": "STAVE TWO. — THE FIRST OF THE THREE SPIRITS.",
+      "path": "segments/2"
+    },
+    {
+      "ordinal": 3,
+      "title": "STAVE THREE. — THE SECOND OF THE THREE SPIRITS.",
+      "path": "segments/3"
+    },
+    {
+      "ordinal": 4,
+      "title": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
+      "path": "segments/4"
+    },
+    {
+      "ordinal": 5,
+      "title": "STAVE FIVE. — THE END OF IT.",
+      "path": "segments/5"
+    }
+  ]
+}
