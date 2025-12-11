@@ -1,702 +1,611 @@
 [
   {
-    "character": "NARRATOR",
+    "ordinal": 1,
     "text": "STAVE FIVE. — THE END OF IT.",
-    "audio_description": "",
-    "exclude": false,
-    "trailing_silence": 2.0
+    "trailing_silence": 1.0,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_1.mp3"
   },
   {
-    "character": "NARRATOR",
+    "ordinal": 2,
     "text": "Yes! and the bedpost was his own. The bed was his own, the room was his own. Best and happiest of all, the Time before him was his own, to make amends in!",
-    "audio_description": "joyful, reflective",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_2.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 3,
     "text": "I will live in the Past, the Present, and the Future!",
-    "audio_description": "triumphant, declaring",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_3.mp3"
   },
   {
-    "character": "NARRATOR",
+    "ordinal": 4,
     "text": "Scrooge repeated, as he scrambled out of bed.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_4.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 5,
     "text": "The Spirits of all Three shall strive within me. Oh Jacob Marley! Heaven, and the Christmas Time be praised for this! I say it on my knees, old Jacob; on my knees!",
-    "audio_description": "emotional, grateful, reverent",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "trailing_silence": 0.8,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_5.mp3"
   },
   {
-    "character": "NARRATOR",
+    "ordinal": 6,
     "text": "He was so fluttered and so glowing with his good intentions, that his broken voice would scarcely answer to his call. He had been sobbing violently in his conflict with the Spirit, and his face was wet with tears.",
-    "audio_description": "descriptive, emotional",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_6.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "They are not torn down. They are not torn down, rings and all. They are here. I am here. The shadows of the things that would have been, may be dispelled. They will be. I know they will!",
-    "audio_description": "relieved, joyful, emphatic",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 7,
+    "text": "They are not torn down. They are not torn down, rings and all. They are here—I am here—the shadows of the things that would have been, may be dispelled. They will be. I know they will!",
+    "trailing_silence": 0.4,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_7.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried Scrooge, folding one of his bed-curtains in his arms. His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance.",
-    "audio_description": "descriptive, amused",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 8,
+    "text": "Scrooge cried, folding one of his bed-curtains in his arms. His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_8.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "I don't know what to do! I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy. I am as giddy as a drunken man. A merry Christmas to everybody! A happy New Year to all the world. Hallo here! Whoop! Hallo!",
-    "audio_description": "laughing and crying simultaneously, giddy, breathless",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 9,
+    "text": "I don't know what to do!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_9.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried Scrooge, laughing and crying in the same breath; and making a perfect Laocoön of himself with his stockings. He had frisked into the sitting-room, and was now standing there: perfectly winded.",
-    "audio_description": "descriptive, amused",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 10,
+    "text": "Scrooge cried, laughing and crying in the same breath; and making a perfect Laocoön of himself with his stockings.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_10.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 11,
+    "text": "I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy. I am as giddy as a drunken man. A merry Christmas to everybody! A happy New Year to all the world. Hallo here! Whoop! Hallo!",
+    "trailing_silence": 0.8,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_11.mp3"
+  },
+  {
+    "ordinal": 12,
+    "text": "He had frisked into the sitting-room, and was now standing there: perfectly winded.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_12.mp3"
+  },
+  {
+    "ordinal": 13,
     "text": "There's the saucepan that the gruel was in! There's the door, by which the Ghost of Jacob Marley entered! There's the corner where the Ghost of Christmas Present, sat! There's the window where I saw the wandering Spirits! It's all right, it's all true, it all happened. Ha ha ha!",
-    "audio_description": "excited, marveling, laughing",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.6,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_13.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried Scrooge, starting off again, and going round the fireplace. Really, for a man who had been out of practice for so many years, it was a splendid laugh, a most illustrious laugh. The father of a long, long line of brilliant laughs!",
-    "audio_description": "descriptive, warm",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 14,
+    "text": "Scrooge cried, starting off again, and going round the fireplace. Really, for a man who had been out of practice for so many years, it was a splendid laugh, a most illustrious laugh. The father of a long, long line of brilliant laughs!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_14.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 15,
     "text": "I don't know what day of the month it is! I don't know how long I've been among the Spirits. I don't know anything. I'm quite a baby. Never mind. I don't care. I'd rather be a baby. Hallo! Whoop! Hallo here!",
-    "audio_description": "giddy, laughing, delighted",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.7,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_15.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge. He was checked in his transports by the churches ringing out the lustiest peals he had ever heard. Clash, clang, hammer; ding, dong, bell. Bell, dong, ding; hammer, clang, clash! Oh, glorious, glorious! Running to the window, he opened it, and put out his head. No fog, no mist; clear, bright, jovial, stirring, cold; cold, piping for the blood to dance to; Golden sunlight; Heavenly sky; sweet fresh air; merry bells. Oh, glorious! Glorious!",
-    "audio_description": "descriptive, joyful, building excitement",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "ordinal": 16,
+    "text": "He was checked in his transports by the churches ringing out the lustiest peals he had ever heard. Clash, clang, hammer; ding, dong, bell. Bell, dong, ding; hammer, clang, clash! Oh, glorious, glorious!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_16.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "What's today!",
-    "audio_description": "calling downward, eager",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 17,
+    "text": "Running to the window, he opened it, and put out his head. No fog, no mist; clear, bright, jovial, stirring, cold; cold, piping for the blood to dance to; Golden sunlight; Heavenly sky; sweet fresh air; merry bells. Oh, glorious! Glorious!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_17.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried Scrooge, calling downward to a boy in Sunday clothes, who perhaps had loitered in to look about him.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 18,
+    "text": "What's to-day!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_18.mp3"
   },
   {
-    "character": "BOY",
-    "text": "Eh?",
-    "audio_description": "wondering, surprised",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 19,
+    "text": "Scrooge cried, calling downward to a boy in Sunday clothes, who perhaps had loitered in to look about him.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_19.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Returned the boy, with all his might of wonder.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 21,
+    "text": "\"Eh?\", the boy returned, with all his might of wonder.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_21.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "What's today, my fine fellow?",
-    "audio_description": "friendly, eager",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 22,
+    "text": "What's to-day, my fine fellow?",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_22.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.2
+    "ordinal": 23,
+    "text": "To-day! Why, Christmas Day.",
+    "trailing_silence": 0.5,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_23.mp3"
   },
   {
-    "character": "BOY",
-    "text": "Today! Why, Christmas Day.",
-    "audio_description": "matter-of-fact, bright",
-    "exclude": false,
-    "trailing_silence": 0.8
-  },
-  {
-    "character": "NARRATOR",
-    "text": "Replied the boy.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 24,
     "text": "It's Christmas Day! I haven't missed it. The Spirits have done it all in one night. They can do anything they like. Of course they can. Of course they can. Hallo, my fine fellow!",
-    "audio_description": "overjoyed, relieved, calling out",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_24.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge to himself, then calling out again.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "BOY",
+    "ordinal": 25,
     "text": "Hallo!",
-    "audio_description": "cheerful",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_25.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Returned the boy.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 26,
     "text": "Do you know the Poulterer's, in the next street but one, at the corner?",
-    "audio_description": "eager, inquiring",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_26.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Scrooge inquired.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.2
-  },
-  {
-    "character": "BOY",
+    "ordinal": 27,
     "text": "I should hope I did.",
-    "audio_description": "confident, bright",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_27.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Replied the lad.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 28,
+    "text": "An intelligent boy! A remarkable boy! Do you know whether they've sold the prize Turkey that was hanging up there?—Not the little prize Turkey: the big one?",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_28.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "An intelligent boy! A remarkable boy! Do you know whether they've sold the prize Turkey that was hanging up there? Not the little prize Turkey: the big one?",
-    "audio_description": "delighted, eager",
-    "exclude": false,
-    "trailing_silence": 0.5
-  },
-  {
-    "character": "NARRATOR",
-    "text": "Said Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.2
-  },
-  {
-    "character": "BOY",
+    "ordinal": 29,
     "text": "What, the one as big as me?",
-    "audio_description": "wondering",
-    "exclude": false,
-    "trailing_silence": 0.4
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_29.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Returned the boy.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 30,
     "text": "What a delightful boy! It's a pleasure to talk to him. Yes, my buck!",
-    "audio_description": "amused, delighted",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_30.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.2
-  },
-  {
-    "character": "BOY",
+    "ordinal": 31,
     "text": "It's hanging there now.",
-    "audio_description": "informative",
-    "exclude": false,
-    "trailing_silence": 0.4
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_31.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Replied the boy.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 32,
     "text": "Is it? Go and buy it.",
-    "audio_description": "excited, decisive",
-    "exclude": false,
-    "trailing_silence": 0.4
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_32.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.2
+    "ordinal": 33,
+    "text": "Walk-er!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_33.mp3"
   },
   {
-    "character": "BOY",
-    "text": "Walker!",
-    "audio_description": "disbelieving, astonished",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 34,
+    "text": "No, no, I am in earnest. Go and buy it, and tell 'em to bring it here, that I may give them the direction where to take it. Come back with the man, and I'll give you a shilling. Come back with him in less than five minutes and I'll give you half-a-crown!",
+    "trailing_silence": 0.6,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_34.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Exclaimed the boy.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 35,
+    "text": "The boy was off like a shot. He must have had a steady hand at a trigger who could have got a shot off half so fast.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_35.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "No, no. I am in earnest. Go and buy it, and tell 'em to bring it here, that I may give them the direction where to take it. Come back with the man, and I'll give you a shilling. Come back with him in less than five minutes and I'll give you half a crown!",
-    "audio_description": "earnest, urgent, generous",
-    "exclude": false,
-    "trailing_silence": 1.0
-  },
-  {
-    "character": "NARRATOR",
-    "text": "Said Scrooge. The boy was off like a shot. He must have had a steady hand at a trigger who could have got a shot off half so fast.",
-    "audio_description": "descriptive, amused",
-    "exclude": false,
-    "trailing_silence": 1.0
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 36,
     "text": "I'll send it to Bob Cratchit's! He sha'n't know who sends it. It's twice the size of Tiny Tim. Joe Miller never made such a joke as sending it to Bob's will be!",
-    "audio_description": "whispering, delighted, chuckling",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.7,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_36.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Whispered Scrooge, rubbing his hands, and splitting with a laugh. The hand in which he wrote the address was not a steady one, but write it he did, somehow, and went downstairs to open the street door, ready for the coming of the poulterer's man. As he stood there, waiting his arrival, the knocker caught his eye.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 37,
+    "text": "Scrooge rubbed his hands, and split with a laugh. The hand in which he wrote the address was not a steady one, but write it he did, somehow, and went down-stairs to open the street door, ready for the coming of the poulterer's man. As he stood there, waiting his arrival, the knocker caught his eye.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_37.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "I shall love it, as long as I live! I scarcely ever looked at it before. What an honest expression it has in its face! It's a wonderful knocker! Here's the Turkey! Hallo! Whoop! How are you! Merry Christmas!",
-    "audio_description": "affectionate, then excited, calling out",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 38,
+    "text": "I shall love it, as long as I live! I scarcely ever looked at it before. What an honest expression it has in its face! It's a wonderful knocker!—Here's the Turkey! Hallo! Whoop! How are you! Merry Christmas!",
+    "trailing_silence": 0.6,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_38.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried Scrooge, patting it with his hand. It WAS a Turkey! He never could have stood upon his legs, that bird. He would have snapped 'em short off in a minute, like sticks of sealing-wax.",
-    "audio_description": "descriptive, emphatic, amused",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 39,
+    "text": "Scrooge cried, patting it with his hand. It <i>was</i> a Turkey! He never could have stood upon his legs, that bird. He would have snapped 'em short off in a minute, like sticks of sealing-wax.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_39.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 40,
     "text": "Why, it's impossible to carry that to Camden Town. You must have a cab.",
-    "audio_description": "marveling, chuckling",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.6,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_40.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge. The chuckle with which he said this, and the chuckle with which he paid for the Turkey, and the chuckle with which he paid for the cab, and the chuckle with which he recompensed the boy, were only to be exceeded by the chuckle with which he sat down breathless in his chair again, and chuckled till he cried.",
-    "audio_description": "descriptive, joyful",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "ordinal": 41,
+    "text": "The chuckle with which he said this, and the chuckle with which he paid for the Turkey, and the chuckle with which he paid for the cab, and the chuckle with which he recompensed the boy, were only to be exceeded by the chuckle with which he sat down breathless in his chair again, and chuckled till he cried.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_41.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Shaving was not an easy task, for his hand continued to shake very much; and shaving requires attention, even when you don't dance while you are at it. But if he had cut the end of his nose off, he would have put a piece of sticking-plaister over it, and been quite satisfied. He dressed himself all in his best, and at last got out into the streets.",
-    "audio_description": "descriptive, amused",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 42,
+    "text": "Shaving was not an easy task, for his hand continued to shake very much; and shaving requires attention, even when you don't dance while you are at it. But if he had cut the end of his nose off, he would have put a piece of sticking-plaister over it, and been quite satisfied.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_42.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "The people were by this time pouring forth, as he had seen them with the Ghost of Christmas Present; and walking with his hands behind him, Scrooge regarded every one with a delighted smile. He looked so irresistibly pleasant, in a word, that three or four good-humoured fellows said, 'Good morning, sir! A merry Christmas to you!' And Scrooge said often afterwards, that of all the blithe sounds he had ever heard, those were the blithest in his ears.",
-    "audio_description": "descriptive, warm",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "ordinal": 43,
+    "text": "He dressed himself \"all in his best,\" and at last got out into the streets. The people were by this time pouring forth, as he had seen them with the Ghost of Christmas Present; and walking with his hands behind him, Scrooge regarded every one with a delighted smile. He looked so irresistibly pleasant, in a word, that three or four good-humoured fellows said, \"Good morning, sir! A merry Christmas to you!\" And Scrooge said often afterwards, that of all the blithe sounds he had ever heard, those were the blithest in his ears.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_43.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "He had not gone far, when coming on towards him he beheld the portly gentleman, who had walked into his counting-house the day before, and said, 'Scrooge and Marley's, I believe?' It sent a pang across his heart to think how this old gentleman would look upon him when they met; but he knew what path lay straight before him, and he took it.",
-    "audio_description": "descriptive, reflective",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 44,
+    "text": "He had not gone far, when coming on towards him he beheld the portly gentleman, who had walked into his counting-house the day before, and said, \"Scrooge and Marley's, I believe?\" It sent a pang across his heart to think how this old gentleman would look upon him when they met; but he knew what path lay straight before him, and he took it.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_44.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "My dear sir. How do you do? I hope you succeeded yesterday. It was very kind of you. A merry Christmas to you, sir!",
-    "audio_description": "warm, earnest, quickening pace",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 45,
+    "text": "My dear sir, how do you do? I hope you succeeded yesterday. It was very kind of you. A merry Christmas to you, sir!",
+    "trailing_silence": 0.4,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_45.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge, quickening his pace, and taking the old gentleman by both his hands.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 46,
+    "text": "Scrooge said, quickening his pace, and taking the old gentleman by both his hands.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_46.mp3"
   },
   {
-    "character": "GENTLEMAN_1",
-    "text": "Mister Scrooge?",
-    "audio_description": "uncertain, questioning",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 47,
+    "text": "Mr. Scrooge?",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_47.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "Yes. That is my name, and I fear it may not be pleasant to you. Allow me to ask your pardon. And will you have the goodness...",
-    "audio_description": "humble, earnest, then whispering",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 48,
+    "text": "Yes, that is my name, and I fear it may not be pleasant to you. Allow me to ask your pardon. And will you have the goodness",
+    "trailing_silence": 0.2,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_48.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge, then whispered in his ear.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 49,
+    "text": "—here Scrooge whispered in his ear.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_49.mp3"
   },
   {
-    "character": "GENTLEMAN_1",
-    "text": "Lord bless me! My dear Mister Scrooge, are you serious?",
-    "audio_description": "astonished, breathless",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 50,
+    "text": "Lord bless me! My dear Mr. Scrooge, are you serious?",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_50.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried the gentleman, as if his breath were taken away.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 51,
+    "text": "The gentleman cried, as if his breath were taken away.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_51.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 52,
     "text": "If you please. Not a farthing less. A great many back-payments are included in it, I assure you. Will you do me that favour?",
-    "audio_description": "earnest, firm, generous",
-    "exclude": false,
-    "trailing_silence": 0.6
+    "trailing_silence": 0.4,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_52.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 53,
+    "text": "My dear sir, I don't know what to say to such munifi—",
+    "trailing_silence": 0.2,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_53.mp3"
   },
   {
-    "character": "GENTLEMAN_1",
-    "text": "My dear sir. I don't know what to say to such munificence...",
-    "audio_description": "overwhelmed, grateful",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 54,
+    "text": "The gentleman said, shaking hands with him.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_54.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said the other, shaking hands with him.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 55,
     "text": "Don't say anything, please. Come and see me. Will you come and see me?",
-    "audio_description": "eager, friendly, insistent",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_55.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Retorted Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "GENTLEMAN_1",
+    "ordinal": 56,
     "text": "I will!",
-    "audio_description": "emphatic, warm",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_56.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried the old gentleman. And it was clear he meant to do it.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "ordinal": 57,
+    "text": "The old gentleman cried. And it was clear he meant to do it.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_57.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "Thank'ee. I am much obliged to you. I thank you fifty times. Bless you!",
-    "audio_description": "grateful, emotional",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "ordinal": 58,
+    "text": "Thank'ee, I am much obliged to you. I thank you fifty times. Bless you!",
+    "trailing_silence": 0.8,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_58.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge. He went to church, and walked about the streets, and watched the people hurrying to and fro, and patted children on the head, and questioned beggars, and looked down into the kitchens of houses, and up to the windows, and found that everything could yield him pleasure. He had never dreamed that any walk, that anything, could give him so much happiness. In the afternoon he turned his steps towards his nephew's house. He passed the door a dozen times, before he had the courage to go up and knock. But he made a dash, and did it.",
-    "audio_description": "descriptive, warm, building anticipation",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "ordinal": 59,
+    "text": "He went to church, and walked about the streets, and watched the people hurrying to and fro, and patted children on the head, and questioned beggars, and looked down into the kitchens of houses, and up to the windows, and found that everything could yield him pleasure. He had never dreamed that any walk—that anything—could give him so much happiness. In the afternoon he turned his steps towards his nephew's house.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_59.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 60,
+    "text": "He passed the door a dozen times, before he had the courage to go up and knock. But he made a dash, and did it:",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_60.mp3"
+  },
+  {
+    "ordinal": 61,
     "text": "Is your master at home, my dear?",
-    "audio_description": "friendly, nervous",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.2,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_61.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge to the girl. Nice girl! Very.",
-    "audio_description": "descriptive, approving",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "ordinal": 62,
+    "text": "Scrooge said to the girl. Nice girl! Very.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_62.mp3"
   },
   {
-    "character": "SERVANT_GIRL",
+    "ordinal": 63,
     "text": "Yes, sir.",
-    "audio_description": "polite, proper",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_63.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 64,
     "text": "Where is he, my love?",
-    "audio_description": "friendly, eager",
-    "exclude": false,
-    "trailing_silence": 0.3
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_64.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.2
+    "ordinal": 65,
+    "text": "He's in the dining-room, sir, along with mistress. I'll show you up-stairs, if you please.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_65.mp3"
   },
   {
-    "character": "SERVANT_GIRL",
-    "text": "He's in the dining-room, sir, along with mistress. I'll show you upstairs, if you please.",
-    "audio_description": "helpful, polite",
-    "exclude": false,
-    "trailing_silence": 0.5
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 66,
     "text": "Thank'ee. He knows me. I'll go in here, my dear.",
-    "audio_description": "grateful, determined",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "trailing_silence": 0.4,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_66.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge, with his hand already on the dining-room lock. He turned it gently, and sidled his face in, round the door. They were looking at the table, which was spread out in great array; for these young housekeepers are always nervous on such points, and like to see that everything is right.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "ordinal": 67,
+    "text": "Scrooge said, with his hand already on the dining-room lock. He turned it gently, and sidled his face in, round the door. They were looking at the table (which was spread out in great array); for these young housekeepers are always nervous on such points, and like to see that everything is right.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_67.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 68,
     "text": "Fred!",
-    "audio_description": "tentative, hopeful",
-    "exclude": false,
-    "trailing_silence": 0.8
+    "trailing_silence": 0.4,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_68.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge. Dear heart alive, how his niece by marriage started! Scrooge had forgotten, for the moment, about her sitting in the corner with the footstool, or he wouldn't have done it, on any account.",
-    "audio_description": "descriptive, apologetic",
-    "exclude": false,
-    "trailing_silence": 0.6
+    "ordinal": 69,
+    "text": "Dear heart alive, how his niece by marriage started! Scrooge had forgotten, for the moment, about her sitting in the corner with the footstool, or he wouldn't have done it, on any account.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_69.mp3"
   },
   {
-    "character": "NEPHEW",
+    "ordinal": 70,
     "text": "Why bless my soul! Who's that?",
-    "audio_description": "astonished, surprised",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_70.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Cried Fred.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 71,
     "text": "It's I. Your uncle Scrooge. I have come to dinner. Will you let me in, Fred?",
-    "audio_description": "humble, hopeful, vulnerable",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "trailing_silence": 0.5,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_71.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Let him in! It is a mercy he didn't shake his arm off. He was at home in five minutes. Nothing could be heartier. His niece looked just the same. So did Topper when HE came. So did the plump sister when SHE came. So did every one when THEY came. Wonderful party, wonderful games, wonderful unanimity, wonderful happiness!",
-    "audio_description": "descriptive, joyful, emphatic",
-    "exclude": false,
-    "trailing_silence": 1.5
+    "ordinal": 72,
+    "text": "Let him in! It is a mercy he didn't shake his arm off. He was at home in five minutes. Nothing could be heartier. His niece looked just the same. So did Topper when <i>he</i> came. So did the plump sister when <i>she</i> came. So did every one when <i>they</i> came. Wonderful party, wonderful games, wonderful unanimity, won-der-ful happiness!",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_72.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "But he was early at the office next morning. Oh, he was early there. If he could only be there first, and catch Bob Cratchit coming late! That was the thing he had set his heart upon. And he did it; yes, he did! The clock struck nine. No Bob. A quarter past. No Bob. He was full eighteen minutes and a half behind his time. Scrooge sat with his door wide open, that he might see him come into the Tank.",
-    "audio_description": "descriptive, anticipatory, delighted",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 73,
+    "text": "But he was early at the office next morning. Oh, he was early there. If he could only be there first, and catch Bob Cratchit coming late! That was the thing he had set his heart upon.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_73.mp3"
   },
   {
-    "character": "NARRATOR",
+    "ordinal": 74,
+    "text": "And he did it; yes, he did! The clock struck nine. No Bob. A quarter past. No Bob. He was full eighteen minutes and a half behind his time. Scrooge sat with his door wide open, that he might see him come into the Tank.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_74.mp3"
+  },
+  {
+    "ordinal": 75,
     "text": "His hat was off, before he opened the door; his comforter too. He was on his stool in a jiffy; driving away with his pen, as if he were trying to overtake nine o'clock.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.6
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_75.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 76,
     "text": "Hallo! What do you mean by coming here at this time of day?",
-    "audio_description": "growling, feigning anger",
-    "exclude": false,
-    "trailing_silence": 0.5
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_76.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Growled Scrooge, in his accustomed voice, as near as he could feign it.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.4
+    "ordinal": 77,
+    "text": "I am very sorry, sir. I <i>am</i> behind my time.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_77.mp3"
   },
   {
-    "character": "CLERK",
-    "text": "I am very sorry, sir. I AM behind my time.",
-    "audio_description": "apologetic, nervous",
-    "exclude": false,
-    "trailing_silence": 0.5
-  },
-  {
-    "character": "NARRATOR",
-    "text": "Said Bob.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "SCROOGE",
+    "ordinal": 78,
     "text": "You are? Yes. I think you are. Step this way, sir, if you please.",
-    "audio_description": "stern, ominous",
-    "exclude": false,
-    "trailing_silence": 0.6
+    "trailing_silence": 0.4,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_78.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Repeated Scrooge.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.3
-  },
-  {
-    "character": "CLERK",
+    "ordinal": 79,
     "text": "It's only once a year, sir. It shall not be repeated. I was making rather merry yesterday, sir.",
-    "audio_description": "pleading, apologetic",
-    "exclude": false,
-    "trailing_silence": 0.6
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_79.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Pleaded Bob, appearing from the Tank.",
-    "audio_description": "descriptive",
-    "exclude": false,
-    "trailing_silence": 0.4
+    "ordinal": 80,
+    "text": "Bob pleaded, appearing from the Tank.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_80.mp3"
   },
   {
-    "character": "SCROOGE",
-    "text": "Now, I'll tell you what, my friend. I am not going to stand this sort of thing any longer. And therefore, and therefore I am about to raise your salary!",
-    "audio_description": "stern at first, then excited, leaping",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 81,
+    "text": "Now, I'll tell you what, my friend. I am not going to stand this sort of thing any longer. And therefore",
+    "trailing_silence": 0.2,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_81.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge, leaping from his stool, and giving Bob such a dig in the waistcoat that he staggered back into the Tank again. Bob trembled, and got a little nearer to the ruler. He had a momentary idea of knocking Scrooge down with it, holding him, and calling to the people in the court for help and a strait-waistcoat.",
-    "audio_description": "descriptive, dramatic",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 82,
+    "text": "—he continued, leaping from his stool, and giving Bob such a dig in the waistcoat that he staggered back into the Tank again—",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_82.mp3"
   },
   {
-    "character": "SCROOGE",
+    "ordinal": 83,
+    "text": "and therefore I am about to raise your salary!",
+    "trailing_silence": 0.6,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_83.mp3"
+  },
+  {
+    "ordinal": 84,
+    "text": "Bob trembled, and got a little nearer to the ruler. He had a momentary idea of knocking Scrooge down with it, holding him, and calling to the people in the court for help and a strait-waistcoat.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_84.mp3"
+  },
+  {
+    "ordinal": 85,
     "text": "A merry Christmas, Bob! A merrier Christmas, Bob, my good fellow, than I have given you, for many a year! I'll raise your salary, and endeavour to assist your struggling family, and we will discuss your affairs this very afternoon, over a Christmas bowl of smoking bishop, Bob! Make up the fires, and buy another coal-scuttle before you dot another i, Bob Cratchit!",
-    "audio_description": "earnest, warm, generous, enthusiastic",
-    "exclude": false,
-    "trailing_silence": 1.5
+    "trailing_silence": 0.8,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_85.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Said Scrooge, with an earnestness that could not be mistaken, as he clapped him on the back. Scrooge was better than his word. He did it all, and infinitely more; and to Tiny Tim, who did not die, he was a second father. He became as good a friend, as good a master, and as good a man, as the good old city knew, or any other good old city, town, or borough, in the good old world.",
-    "audio_description": "descriptive, warm, reflective",
-    "exclude": false,
-    "trailing_silence": 1.2
+    "ordinal": 86,
+    "text": "Scrooge had an earnestness that could not be mistaken, as he clapped him on the back.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_86.mp3"
   },
   {
-    "character": "NARRATOR",
-    "text": "Some people laughed to see the alteration in him, but he let them laugh, and little heeded them; for he was wise enough to know that nothing ever happened on this globe, for good, at which some people did not have their fill of laughter in the outset; and knowing that such as these would be blind anyway, he thought it quite as well that they should wrinkle up their eyes in grins, as have the malady in less attractive forms. His own heart laughed: and that was quite enough for him.",
-    "audio_description": "descriptive, philosophical, warm",
-    "exclude": false,
-    "trailing_silence": 1.0
+    "ordinal": 87,
+    "text": "Scrooge was better than his word. He did it all, and infinitely more; and to Tiny Tim, who did not die, he was a second father. He became as good a friend, as good a master, and as good a man, as the good old city knew, or any other good old city, town, or borough, in the good old world. Some people laughed to see the alteration in him, but he let them laugh, and little heeded them; for he was wise enough to know that nothing ever happened on this globe for good, at which some people did not have their fill of laughter in the outset; and knowing that such as these would be blind anyway, he thought it quite as well that they should wrinkle up their eyes in grins, as have the malady in less attractive forms. His own heart laughed: and that was quite enough for him.",
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_87.mp3"
   },
   {
-    "character": "NARRATOR",
+    "ordinal": 88,
     "text": "He had no further intercourse with Spirits, but lived upon the Total Abstinence Principle, ever afterwards; and it was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge. May that be truly said of us, and all of us! And so, as Tiny Tim observed, God bless Us, Every One!",
-    "audio_description": "descriptive, concluding, warm, hopeful",
-    "exclude": false,
-    "trailing_silence": 2.0
+    "trailing_silence": 0.3,
+    "speed": 1.0,
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_88.mp3"
   }
 ]
