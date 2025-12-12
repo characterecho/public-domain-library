@@ -1,1101 +1,1415 @@
 [
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 1,
     "text": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
     "trailing_silence": 1.0,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_1.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_1.mp3",
+    "audio_checksum": "d103d235d06b8fc6f9b83d0007f2bf4e81e29b509aada7ae7991a5c3a95313dd"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 2,
     "text": "The Phantom slowly, gravely, silently, approached. When it came near him, Scrooge bent down upon his knee; for in the very air through which this Spirit moved it seemed to scatter gloom and mystery.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_2.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_2.mp3",
+    "audio_checksum": "0b71fa59c36d1882fefdc7c47c9985f41073609ee76fb43bd3280a5fc1f55bfa"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 3,
     "text": "It was shrouded in a deep black garment, which concealed its head, its face, its form, and left nothing of it visible save one outstretched hand. But for this it would have been difficult to detach its figure from the night, and separate it from the darkness by which it was surrounded.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_3.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_3.mp3",
+    "audio_checksum": "2248661aefd08eaf6dd56157a85c041ef827bdd2ec06646239f5fd6994356ecb"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 4,
     "text": "He felt that it was tall and stately when it came beside him, and that its mysterious presence filled him with a solemn dread. He knew no more, for the Spirit neither spoke nor moved.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_4.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_4.mp3",
+    "audio_checksum": "980d50b1cb30b41096f8ee08d300e9c1a9f38951594e8c68ae24b45e8857805e"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 5,
     "text": "I am in the presence of the Ghost of Christmas Yet To Come?",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_5.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_5.mp3",
+    "audio_checksum": "9835c1a85e16556e6f679bbc5356f3c4b9fc328afad64361fd4633f9f460ba55"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 6,
     "text": "The Spirit answered not, but pointed onward with its hand.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_6.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_6.mp3",
+    "audio_checksum": "cc5769805f27f00e9213d7bed43ab78a72f4632c26c1b9ea3b9d0ba3033ecfe6"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 7,
     "text": "You are about to show me shadows of the things that have not happened, but will happen in the time before us. Is that so, Spirit?",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_7.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_7.mp3",
+    "audio_checksum": "0f233d1918906322ccaec4939e3d7340cddab8baca11a0eb9bf53dda01cbc7b6"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 8,
     "text": "The upper portion of the garment was contracted for an instant in its folds, as if the Spirit had inclined its head. That was the only answer he received.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_8.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_8.mp3",
+    "audio_checksum": "81c909efc90e70b5eb01aba32cfb9aba96513f8b18b6745eb65b3fbf02ced9f1"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 9,
     "text": "Although well used to ghostly company by this time, Scrooge feared the silent shape so much that his legs trembled beneath him, and he found that he could hardly stand when he prepared to follow it. The Spirit paused a moment, as observing his condition, and giving him time to recover.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_9.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_9.mp3",
+    "audio_checksum": "337f5fc67c6317376f942c01c49350e4a12cf8a4ce891d857cbe57461604840a"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 10,
     "text": "But Scrooge was all the worse for this. It thrilled him with a vague uncertain horror, to know that behind the dusky shroud, there were ghostly eyes intently fixed upon him, while he, though he stretched his own to the utmost, could see nothing but a spectral hand and one great heap of black.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_10.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_10.mp3",
+    "audio_checksum": "0241af05d4c48af3184014b9da6df04f919e314108097c69945b792bfe90202c"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 11,
     "text": "Ghost of the Future! I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart. Will you not speak to me?",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_11.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_11.mp3",
+    "audio_checksum": "5a50be78aa881f421eccdee156ae9de80333853aa652334a73150df3a69099ad"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 12,
     "text": "It gave him no reply. The hand was pointed straight before them.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_12.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_12.mp3",
+    "audio_checksum": "8f951a49ea820e95d75d2b394b146746ad739b39c65050b7f2157724b3047895"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 13,
     "text": "Lead on! Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!",
     "trailing_silence": 0.8,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_13.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_13.mp3",
+    "audio_checksum": "919152bd38f240c65b88d2db505a4ee370d6d442b9df7f9c72abe6a5e7d40f69"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 14,
     "text": "The Phantom moved away as it had come towards him. Scrooge followed in the shadow of its dress, which bore him up, he thought, and carried him along.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_14.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_14.mp3",
+    "audio_checksum": "a979fc26d511e684725d95c3122f92eae969d47d6c1d5916a502851baa118b54"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 15,
     "text": "They scarcely seemed to enter the city; for the city rather seemed to spring up about them, and encompass them of its own act. But there they were, in the heart of it; on 'Change, amongst the merchants; who hurried up and down, and chinked the money in their pockets, and conversed in groups, and looked at their watches, and trifled thoughtfully with their great gold seals; and so forth, as Scrooge had seen them often.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_15.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_15.mp3",
+    "audio_checksum": "9e6d5ec68966a81bd5ef88f64f385c3498741e951ad10af016d2f2b80e4c5a65"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 16,
     "text": "The Spirit stopped beside one little knot of business men. Observing that the hand was pointed to them, Scrooge advanced to listen to their talk.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_16.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_16.mp3",
+    "audio_checksum": "708c326be76eff65ce629695aea5c0212e97d56e9ca96e4cd1f56ab6f67c001c"
   },
   {
+    "character_identifier": "FAT_BUSINESSMAN",
     "ordinal": 17,
     "text": "No, I don't know much about it, either way. I only know he's dead.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_17.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_17.mp3",
+    "audio_checksum": "ddb9aaeaa786efd3e5d7df5d20101b7515754dd0bb6bcfeb8d5982d5b9835db4"
   },
   {
+    "character_identifier": "BUSINESSMAN_2",
     "ordinal": 18,
     "text": "When did he die?",
     "trailing_silence": 0.1,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_18.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_18.mp3",
+    "audio_checksum": "5a6a0ef4427630c9a314ec58b05bf9eecaa579e6c09103b858ddbb22ff065a18"
   },
   {
+    "character_identifier": "FAT_BUSINESSMAN",
     "ordinal": 19,
     "text": "Last night, I believe.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_19.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_19.mp3",
+    "audio_checksum": "4ec99b6905bc92c45529e774c332535782783de99ec3f4946785aa9ed26922cf"
   },
   {
+    "character_identifier": "BUSINESSMAN_3",
     "ordinal": 20,
     "text": "Why, what was the matter with him? I thought he'd never die.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_20.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_20.mp3",
+    "audio_checksum": "19b26b2c7c2e574b1d9073af4f2fe89c8473de496cba5fdab44eb784e72e7b3c"
   },
   {
+    "character_identifier": "FAT_BUSINESSMAN",
     "ordinal": 21,
     "text": "God knows.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_21.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_21.mp3",
+    "audio_checksum": "1c2bf3e4fe1acc887187c3673b2c28ed44809d8e4075596296a95621a86eb511"
   },
   {
+    "character_identifier": "RED_FACED_GENTLEMAN",
     "ordinal": 22,
     "text": "What has he done with his money?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_22.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_22.mp3",
+    "audio_checksum": "b5aa83b3e52e0b0b9c4e92cc534533e77610e9cf8450843acc6e7186bd0c3416"
   },
   {
+    "character_identifier": "FAT_BUSINESSMAN",
     "ordinal": 23,
     "text": "I haven't heard. Left it to his company, perhaps. He hasn't left it to <i>me</i>. That's all I know.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_23.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_23.mp3",
+    "audio_checksum": "ceb7637c7d120b8ac8c2b3fec5ef8a59927bffa1716639b6b38d67cb63a38883"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 24,
     "text": "This pleasantry was received with a general laugh.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_24.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_24.mp3",
+    "audio_checksum": "8bb137184419acb923e03a8bf2b5e209ca72758a052d9ad371004a509c59bb3a"
   },
   {
+    "character_identifier": "FAT_BUSINESSMAN",
     "ordinal": 25,
     "text": "It's likely to be a very cheap funeral, for upon my life I don't know of anybody to go to it. Suppose we make up a party and volunteer?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_25.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_25.mp3",
+    "audio_checksum": "e8ea61174499016d35329c9957ecb19bcf963be306c9f4d9620a0939b63c2ab4"
   },
   {
+    "character_identifier": "RED_FACED_GENTLEMAN",
     "ordinal": 26,
     "text": "I don't mind going if a lunch is provided. But I must be fed, if I make one.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_26.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_26.mp3",
+    "audio_checksum": "fa68f1915bd06b1c6d6e7460d9177deb03794b0a23712385f91e0555f37e2365"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 27,
     "text": "Another laugh.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_27.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_27.mp3",
+    "audio_checksum": "6ad589475a5f556e27e9a3192d577764b7989ce4b9838c6705b91359e8e96637"
   },
   {
+    "character_identifier": "FAT_BUSINESSMAN",
     "ordinal": 28,
     "text": "Well, I am the most disinterested among you, after all, for I never wear black gloves, and I never eat lunch. But I'll offer to go, if anybody else will. When I come to think of it, I'm not at all sure that I wasn't his most particular friend; for we used to stop and speak whenever we met. Buh bye!",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_28.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_28.mp3",
+    "audio_checksum": "77a3ef7738434b54e18f549bddd61cdd4531914c79df19364a11238c67bfb1e7"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 29,
     "text": "Speakers and listeners strolled away, and mixed with other groups. Scrooge knew the men, and looked towards the Spirit for an explanation.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_29.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_29.mp3",
+    "audio_checksum": "08af0e6776114bf1622cdbe7c482096f2f91ac7483cee059207fa54fc68d4992"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 30,
     "text": "The Phantom glided on into a street. Its finger pointed to two persons meeting. Scrooge listened again, thinking that the explanation might lie here.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_30.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_30.mp3",
+    "audio_checksum": "d4440075e2360bb49d9dd01e480d9ddc93f6ef21faaae920e2438b129b1897f7"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 31,
     "text": "He knew these men, also, perfectly. They were men of business: very wealthy, and of great importance. He had made a point always of standing well in their esteem: in a business point of view, that is; strictly in a business point of view.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_31.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_31.mp3",
+    "audio_checksum": "6ef8d82c9621e68c32ca38dbc88c26f17eafd7380712601d38b77403dcd7bd89"
   },
   {
+    "character_identifier": "WEALTHY_BUSINESSMAN_1",
     "ordinal": 32,
     "text": "How are you?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_32.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_32.mp3",
+    "audio_checksum": "ee1904fc7a343331992589f2e656bf51142fd798825d2eec3fba9dd75cf5986d"
   },
   {
+    "character_identifier": "WEALTHY_BUSINESSMAN_2",
     "ordinal": 33,
     "text": "How are you?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_33.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_33.mp3",
+    "audio_checksum": "e4ac7e6df2b66e79dadece4834b0f11085a4d698707b6c80baa02b3afc235fb1"
   },
   {
+    "character_identifier": "WEALTHY_BUSINESSMAN_1",
     "ordinal": 34,
     "text": "Well! Old Scratch has got his own at last, hey?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_34.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_34.mp3",
+    "audio_checksum": "d1658ffc8a3bffebddd33b2d302f72790938eeb07e3ddbbf11a6eb75e1d690a9"
   },
   {
+    "character_identifier": "WEALTHY_BUSINESSMAN_2",
     "ordinal": 35,
     "text": "So I am told. Cold, isn't it?",
     "trailing_silence": 0.1,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_35.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_35.mp3",
+    "audio_checksum": "de0a243a152f608e5234333a836b0252cc385cc3da9459c6153979892618fedc"
   },
   {
+    "character_identifier": "WEALTHY_BUSINESSMAN_1",
     "ordinal": 36,
     "text": "Seasonable for Christmas time. You're not a skater, I suppose?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_36.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_36.mp3",
+    "audio_checksum": "829215b25d7864c090b97e01ddc01f7c7b4f8435d88a08e0718067596407e52b"
   },
   {
+    "character_identifier": "WEALTHY_BUSINESSMAN_2",
     "ordinal": 37,
     "text": "No. No. Something else to think of. Good morning!",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_37.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_37.mp3",
+    "audio_checksum": "98e0e11a561e283046700a60f1a9bf1c1cb3876c2eb0d73e869a83e7250fb83c"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 38,
     "text": "Not another word. That was their meeting, their conversation, and their parting.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_38.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_38.mp3",
+    "audio_checksum": "5037a105a32bfc06d735ad7eca4172d60debd353669801b94154c93835e827b7"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 39,
     "text": "Scrooge was at first inclined to be surprised that the Spirit should attach importance to conversations apparently so trivial; but feeling assured that they must have some hidden purpose, he set himself to consider what it was likely to be. They could scarcely be supposed to have any bearing on the death of Jacob, his old partner, for that was Past, and this Ghost's province was the Future. Nor could he think of any one immediately connected with himself, to whom he could apply them. But nothing doubting that to whomsoever they applied they had some latent moral for his own improvement, he resolved to treasure up every word he heard, and everything he saw; and especially to observe the shadow of himself when it appeared. For he had an expectation that the conduct of his future self would give him the clue he missed, and would render the solution of these riddles easy.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_39.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_39.mp3",
+    "audio_checksum": "bf210193984b9965009a016d4fd9093564aab2b85502d8b8d5bee8b1868d121e"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 40,
     "text": "He looked about in that very place for his own image; but another man stood in his accustomed corner, and though the clock pointed to his usual time of day for being there, he saw no likeness of himself among the multitudes that poured in through the Porch. It gave him little surprise, however; for he had been revolving in his mind a change of life, and thought and hoped he saw his new-born resolutions carried out in this.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_40.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_40.mp3",
+    "audio_checksum": "9f1d776bf0ffc7887248910004202d66bb38b401049740750bc3f86ad9d29de5"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 41,
     "text": "Quiet and dark, beside him stood the Phantom, with its outstretched hand. When he roused himself from his thoughtful quest, he fancied from the turn of the hand, and its situation in reference to himself, that the Unseen Eyes were looking at him keenly. It made him shudder, and feel very cold.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_41.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_41.mp3",
+    "audio_checksum": "742766bdfee3a1dd256cc84040bc0767856b7c8cfd3e3b4b4e68fecf72786d39"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 42,
     "text": "They left the busy scene, and went into an obscure part of the town, where Scrooge had never penetrated before, although he recognised its situation, and its bad repute. The ways were foul and narrow; the shops and houses wretched; the people half-naked, drunken, slipshod, ugly. Alleys and archways, like so many cesspools, disgorged their offences of smell, and dirt, and life, upon the straggling streets; and the whole quarter reeked with crime, with filth, and misery.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_42.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_42.mp3",
+    "audio_checksum": "816467f7ab7aca65191d9a4d14ac3c6429e63261d16c6dbdebb4a5b2e832b343"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 43,
     "text": "Far in this den of infamous resort, there was a low-browed, beetling shop, below a pent-house roof, where iron, old rags, bottles, bones, and greasy offal, were bought. Upon the floor within, were piled up heaps of rusty keys, nails, chains, hinges, files, scales, weights, and refuse iron of all kinds. Secrets that few would like to scrutinise were bred and hidden in mountains of unseemly rags, masses of corrupted fat, and sepulchres of bones. Sitting in among the wares he dealt in, by a charcoal stove, made of old bricks, was a grey-haired rascal, nearly seventy years of age; who had screened himself from the cold air without, by a frousy curtaining of miscellaneous tatters, hung upon a line; and smoked his pipe in all the luxury of calm retirement.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_43.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_43.mp3",
+    "audio_checksum": "238d2037bc27ad9cd1532bf6d2c19a7f8faa0e046851c49263c003b367c17b8b"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 44,
     "text": "Scrooge and the Phantom came into the presence of this man, just as a woman with a heavy bundle slunk into the shop. But she had scarcely entered, when another woman, similarly laden, came in too; and she was closely followed by a man in faded black, who was no less startled by the sight of them, than they had been upon the recognition of each other. After a short period of blank astonishment, in which the old man with the pipe had joined them, they all three burst into a laugh.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_44.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_44.mp3",
+    "audio_checksum": "a39b2a7838b4ccc2b5ad5ad134d799aeeef067be052c6d8b67e3e7fb98c61d8f"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 45,
     "text": "Let the charwoman alone to be the first! Let the laundress alone to be the second; and let the undertaker's man alone to be the third. Look here, old Joe, here's a chance! If we haven't all three met here without meaning it!",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_45.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_45.mp3",
+    "audio_checksum": "54c4b823e31fe4176f6c1291192842a76554043ee9bfe314b48f7a0056225f13"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 46,
     "text": "You couldn't have met in a better place. Come into the parlour. You were made free of it long ago, you know; and the other two an't strangers. Stop till I shut the door of the shop. Ah! How it skreeks! There an't such a rusty bit of metal in the place as its own hinges, I believe; and I'm sure there's no such old bones here, as mine. Haha! We're all suitable to our calling, we're well matched. Come into the parlour. Come into the parlour.",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_46.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_46.mp3",
+    "audio_checksum": "1ce9bd079adeb782a105d6677765028f8f03e552ac3d7c2c1fd6e092b20065e8"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 47,
     "text": "The parlour was the space behind the screen of rags. The old man raked the fire together with an old stair-rod, and having trimmed his smoky lamp (for it was night), with the stem of his pipe, put it in his mouth again.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_47.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_47.mp3",
+    "audio_checksum": "9e91d7da92120bc8fc29b7a7e02af7e8484f37567e9d9bdb24d444ba5df7a5db"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 48,
     "text": "While he did this, the woman who had already spoken threw her bundle on the floor, and sat down in a flaunting manner on a stool; crossing her elbows on her knees, and looking with a bold defiance at the other two.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_48.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_48.mp3",
+    "audio_checksum": "f4d96122bcf9be0dcf21a17802df100c3864a98d1d4361203c8398df581dda5c"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 49,
     "text": "What odds then! What odds, Mrs. Dilber? Every person has a right to take care of themselves. <i>He</i> always did.",
     "trailing_silence": 0.2,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_49.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_49.mp3",
+    "audio_checksum": "dcd1ff0e6860b604bb09f23294c4520d51c1c306ce60258fabd437fdc0687424"
   },
   {
+    "character_identifier": "MRS_DILBER",
     "ordinal": 50,
     "text": "That's true, indeed! No man more so.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_50.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_50.mp3",
+    "audio_checksum": "19a17273ca05b0d696db8de536365fb74d6cc655b9ba162a69209d6d957bc552"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 51,
     "text": "Why then, don't stand staring as if you was afraid, woman; who's the wiser? We're not going to pick holes in each other's coats, I suppose?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_51.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_51.mp3",
+    "audio_checksum": "80792ab3add3d0ec5772f113fb9651aea513da28dc72660bfb4d0f56585d0c00"
   },
   {
+    "character_identifier": "MRS_DILBER",
     "ordinal": 52,
     "text": "No, indeed! We should hope not.",
     "trailing_silence": 0.2,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_52.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_52.mp3",
+    "audio_checksum": "4da4e0a10028a14c3659fc82748e687e8729c4f52f0492faf91e8a2a1b91a4be"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 53,
     "text": "Very well, then! That's enough. Who's the worse for the loss of a few things like these? Not a dead man, I suppose.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_53.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_53.mp3",
+    "audio_checksum": "724d0bf12a87278942cd32c426e14038b10057e5e9a70077e39216ba9155da16"
   },
   {
+    "character_identifier": "MRS_DILBER",
     "ordinal": 54,
     "text": "No, indeed.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_54.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_54.mp3",
+    "audio_checksum": "1c1607e266aad0001a6ada4f3b9198d2ba1ef3d04b1c75951a87a838b34f48e3"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 55,
     "text": "If he wanted to keep 'em after he was dead, a wicked old screw, why wasn't he natural in his lifetime? If he had been, he'd have had somebody to look after him when he was struck with Death, instead of lying gasping out his last there, alone by himself.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_55.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_55.mp3",
+    "audio_checksum": "6a3a4060cc9747730f65f2812a7c15f855724e423332c5bd136e39f6c932d73d"
   },
   {
+    "character_identifier": "MRS_DILBER",
     "ordinal": 56,
     "text": "It's the truest word that ever was spoke. It's a judgment on him.",
     "trailing_silence": 0.2,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_56.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_56.mp3",
+    "audio_checksum": "47895bde7e55c074a2802453d833e9b2ab4d275f9072edb244e3453f6381ab6d"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 57,
     "text": "I wish it was a little heavier judgment, and it should have been, you may depend upon it, if I could have laid my hands on anything else. Open that bundle, old Joe, and let me know the value of it. Speak out plain. I'm not afraid to be the first, nor afraid for them to see it. We know pretty well that we were helping ourselves, before we met here, I believe. It's no sin. Open the bundle, Joe.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_57.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_57.mp3",
+    "audio_checksum": "e8b20f48184d630ce7c72071b5f3dffb8949d2dedd3c1d891e6a19e17d8fb3e0"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 58,
     "text": "But the gallantry of her friends would not allow of this; and the man in faded black, mounting the breach first, produced <i>his</i> plunder. It was not extensive. A seal or two, a pencil-case, a pair of sleeve-buttons, and a brooch of no great value, were all. They were severally examined and appraised by old Joe, who chalked the sums he was disposed to give for each, upon the wall, and added them up into a total when he found there was nothing more to come.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_58.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_58.mp3",
+    "audio_checksum": "4b04fbb21e46b434a0a726b995e14d477fc1a12560c66b45d01431434ca5a60f"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 59,
     "text": "That's your account, and I wouldn't give another sixpence, if I was to be boiled for not doing it. Who's next?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_59.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_59.mp3",
+    "audio_checksum": "019eb8aa65c86f3ce29303e6266cfa16356189461c8e4724c73915afd60b0769"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 60,
     "text": "Mrs. Dilber was next. Sheets and towels, a little wearing apparel, two old-fashioned silver teaspoons, a pair of sugar-tongs, and a few boots. Her account was stated on the wall in the same manner.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_60.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_60.mp3",
+    "audio_checksum": "de13e8f2ca68a3b5b43bc40e3184ad3fa1eb60295d11586c5a17867227ba7d0b"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 61,
     "text": "I always give too much to ladies. It's a weakness of mine, and that's the way I ruin myself. That's your account. If you asked me for another penny, and made it an open question, I'd repent of being so liberal and knock off half-a-crown.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_61.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_61.mp3",
+    "audio_checksum": "6a826d418f2b3129c473e9290a14946406998f1fda734e0db09c67732d84ef93"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 62,
     "text": "And now undo <i>my</i> bundle, Joe.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_62.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_62.mp3",
+    "audio_checksum": "5fda96b1bdb13080fd3abc63ef62f739d9ad95bd1644998c9deba91eec47ea04"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 63,
     "text": "Joe went down on his knees for the greater convenience of opening it, and having unfastened a great many knots, dragged out a large and heavy roll of some dark stuff.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_63.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_63.mp3",
+    "audio_checksum": "216075250a8d86f1abdf9bb59d01dfe80d1d072b2888eff631a45c008e843f27"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 64,
     "text": "What do you call this? Bed-curtains!",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_64.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_64.mp3",
+    "audio_checksum": "017d5137535ccc222315de9a20fbd2580bf5272abc2efeee4439534f950c0da4"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 65,
     "text": "Ah! Bed-curtains!",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_65.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_65.mp3",
+    "audio_checksum": "8d9ff9946382c6f11a2a6b509e57e6204ebe3b9d1cf83df727aba0077a351151"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 66,
     "text": "You don't mean to say you took 'em down, rings and all, with him lying there?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_66.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_66.mp3",
+    "audio_checksum": "fe1cdfc7037cdbade01d56f065b89550ea41b8d82b6a9cdb99c3bba54b53edbd"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 67,
     "text": "Yes I do. Why not?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_67.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_67.mp3",
+    "audio_checksum": "307c0e5a2a6fb1598bb7d74a19eec59847478d8c6992e4b56a0cd3c85e52b408"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 68,
     "text": "You were born to make your fortune, and you'll certainly do it.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_68.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_68.mp3",
+    "audio_checksum": "51b60db7a79dbd45f8773b24ce6cc3f0fb8750c1687067a271235dfdc417e8c2"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 69,
     "text": "I certainly shan't hold my hand, when I can get anything in it by reaching it out, for the sake of such a man as He was, I promise you, Joe. Don't drop that oil upon the blankets, now.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_69.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_69.mp3",
+    "audio_checksum": "6ef94dcf24940ff24a325f74679504963f93647d387af2652efd193a3a822031"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 70,
     "text": "His blankets?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_70.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_70.mp3",
+    "audio_checksum": "34f6fff2dae26578367df8c376efb89410e9b5ac5830ee3118d931656c163873"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 71,
     "text": "Whose else's do you think? He isn't likely to take cold without 'em, I dare say.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_71.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_71.mp3",
+    "audio_checksum": "5dcc043efd68ec22d7d2c61d1ed3274ae822f61cfa26b9619b9041e1690e826f"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 72,
     "text": "I hope he didn't die of anything catching eh?",
     "trailing_silence": 0.2,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_72.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_72.mp3",
+    "audio_checksum": "1978724594f025feae7492598590cea99a4173c8eaff4d11ab6e80b17b5a66be"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 73,
     "text": "Don't you be afraid of that. I an't so fond of his company that I'd loiter about him for such things, if he did. Ah! you may look through that shirt till your eyes ache; but you won't find a hole in it, nor a threadbare place. It's the best he had, and a fine one too. They'd have wasted it, if it hadn't been for me.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_73.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_73.mp3",
+    "audio_checksum": "49d0b2296df6ac2f1f09e60b4e4f5795d6a5b6086de0ca2585c453d85ebc550b"
   },
   {
+    "character_identifier": "OLD_JOE",
     "ordinal": 74,
     "text": "What do you call wasting of it?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_74.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_74.mp3",
+    "audio_checksum": "b83d4190a2d5d1bf56bcfc5c752af2895f9e90d0d8546a3adf207d34d31e2477"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 75,
     "text": "Putting it on him to be buried in, to be sure. Somebody was fool enough to do it, but I took it off again. If calico an't good enough for such a purpose, it isn't good enough for anything. It's quite as becoming to the body. He can't look uglier than he did in that one.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_75.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_75.mp3",
+    "audio_checksum": "bdb0f813c481b3016510b0ff82d3e93f95c59c9d9eacac6e2002a80d44c5dd6f"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 76,
     "text": "Scrooge listened to this dialogue in horror. As they sat grouped about their spoil, in the scanty light afforded by the old man's lamp, he viewed them with a detestation and disgust, which could hardly have been greater, though they had been obscene demons, marketing the corpse itself.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_76.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_76.mp3",
+    "audio_checksum": "150c666da91808a710bbe28815f03eea876c9c08e761f723692c898d3e183b13"
   },
   {
+    "character_identifier": "CHARWOMAN",
     "ordinal": 77,
     "text": "Aha! This is the end of it, you see! He frightened every one away from him when he was alive, to profit us when he was dead!",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_77.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_77.mp3",
+    "audio_checksum": "47ff2de524ae7bc70c24d2ed12d91bdd9e9ce5660d13f6269c89ee7be0683379"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 78,
     "text": "Spirit! I see, I see. The case of this unhappy man might be my own. My life tends that way, now. Merciful Heaven, what is this!",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_78.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_78.mp3",
+    "audio_checksum": "2e878d527a97b16c319638ec676c5cc79deb57d66c6d39d7b8faf2aa50c6aa91"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 79,
     "text": "He recoiled in terror, for the scene had changed, and now he almost touched a bed: a bare, uncurtained bed: on which, beneath a ragged sheet, there lay a something covered up, which, though it was dumb, announced itself in awful language.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_79.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_79.mp3",
+    "audio_checksum": "8663749f984cf98336d96a9f5ce259bdd02f5ffe4fc539eac8b22e3f267c14a3"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 80,
     "text": "The room was very dark, too dark to be observed with any accuracy, though Scrooge glanced round it in obedience to a secret impulse, anxious to know what kind of room it was. A pale light, rising in the outer air, fell straight upon the bed; and on it, plundered and bereft, unwatched, unwept, uncared for, was the body of this man.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_80.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_80.mp3",
+    "audio_checksum": "edc46affab37ad5001c95cc42a04e6f029369112a5852d35d0ce95b010f2fff7"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 81,
     "text": "Scrooge glanced towards the Phantom. Its steady hand was pointed to the head. The cover was so carelessly adjusted that the slightest raising of it, the motion of a finger upon Scrooge's part, would have disclosed the face. He thought of it, felt how easy it would be to do, and longed to do it; but had no more power to withdraw the veil than to dismiss the spectre at his side.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_81.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_81.mp3",
+    "audio_checksum": "31c3598504db84778d67862e17b91e38acb79304cafc906d8305f2b91c1e3d46"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 82,
     "text": "Oh cold, cold, rigid, dreadful Death, set up thine altar here, and dress it with such terrors as thou hast at thy command: for this is thy dominion! But of the loved, revered, and honoured head, thou canst not turn one hair to thy dread purposes, or make one feature odious. It is not that the hand is heavy and will fall down when released; it is not that the heart and pulse are still; but that the hand was open, generous, and true; the heart brave, warm, and tender; and the pulse a man's. Strike, Shadow, strike! And see his good deeds springing from the wound, to sow the world with life immortal!",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_82.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_82.mp3",
+    "audio_checksum": "b6fd6406759df73b2245cec235e86cc38fec87f50a93378d9f5758858f1459d3"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 83,
     "text": "No voice pronounced these words in Scrooge's ears, and yet he heard them when he looked upon the bed. He thought, if this man could be raised up now, what would be his foremost thoughts? Avarice, hard-dealing, griping cares? They have brought him to a rich end, truly!",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_83.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_83.mp3",
+    "audio_checksum": "325e0c4c708d16a837cdf1253c36b462f93b8fcf4821f8d6f38aab1f73cf546f"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 84,
     "text": "He lay, in the dark empty house, with not a man, a woman, or a child, to say that he was kind to me in this or that, and for the memory of one kind word I will be kind to him. A cat was tearing at the door, and there was a sound of gnawing rats beneath the hearth-stone. What <i>they</i> wanted in the room of death, and why they were so restless and disturbed, Scrooge did not dare to think.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_84.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_84.mp3",
+    "audio_checksum": "0d8c2a0ec241d6e3b49436ac20226b6a76f8facf14edf216f4f0a5dfd61263e7"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 85,
     "text": "Spirit! this is a fearful place. In leaving it, I shall not leave its lesson, trust me. Let us go!",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_85.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_85.mp3",
+    "audio_checksum": "9685389cf73c2e4a3137a7cf8d2658b12b8f885f68abff759a8d409f394a5210"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 86,
     "text": "Still the Ghost pointed with an unmoved finger to the head.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_86.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_86.mp3",
+    "audio_checksum": "2b950b297f3daa356a71b6bcbb3ac35f12258cb7fb8cd2be7f466f5b76ed206c"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 87,
     "text": "I understand you, and I would do it, if I could. But I have not the power, Spirit. I have not the power.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_87.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_87.mp3",
+    "audio_checksum": "81ef7bec4656c2479a26f47513075068a7749f2c3b115ff6f107ebca71165022"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 88,
     "text": "Again it seemed to look upon him.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_88.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_88.mp3",
+    "audio_checksum": "3031920878a6a4dba91a1bdac692049f54fcb01cfebfda026a4d6cc3ca1e766a"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 89,
     "text": "If there is any person in the town, who feels emotion caused by this man's death, show that person to me, Spirit, I beseech you!",
     "trailing_silence": 0.9,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_89.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_89.mp3",
+    "audio_checksum": "c542237c0de863d99f0bc453aaad56e0c4a97f4404b712a676d7bb14433bf0a7"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 90,
     "text": "The Phantom spread its dark robe before him for a moment, like a wing; and withdrawing it, revealed a room by daylight, where a mother and her children were.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_90.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_90.mp3",
+    "audio_checksum": "eb72f7dbf8bfbe2a3d757fcd476103e8168ecd0cd8af255503978f523df585c1"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 91,
     "text": "She was expecting some one, and with anxious eagerness; for she walked up and down the room; started at every sound; looked out from the window; glanced at the clock; tried, but in vain, to work with her needle; and could hardly bear the voices of the children in their play.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_91.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_91.mp3",
+    "audio_checksum": "c0933f504f48aa41b7f87d98fe9820ad14c90e9ee0d0e530ecf9cbc2c3ba8edd"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 92,
     "text": "At length the long-expected knock was heard. She hurried to the door, and met her husband; a man whose face was careworn and depressed, though he was young. There was a remarkable expression in it now; a kind of serious delight of which he felt ashamed, and which he struggled to repress.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_92.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_92.mp3",
+    "audio_checksum": "0f76f0edfc1fdf9b8081b76002484d150e98ba26b3225c74923797671197539c"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 93,
     "text": "He sat down to the dinner that had been hoarding for him by the fire; and when she asked him faintly what news (which was not until after a long silence), he appeared embarrassed how to answer.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_93.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_93.mp3",
+    "audio_checksum": "4db097927d84bcd2e6aeb413bbc1fdbd91da18ff146d29882786eb1539f7e9a2"
   },
   {
+    "character_identifier": "CAROLINE",
     "ordinal": 94,
     "text": "Is it good, or bad?",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_94.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_94.mp3",
+    "audio_checksum": "8da190ae7ec629e3817dd8bcae5d962c72afee00a7128c8ff837f974008ced70"
   },
   {
+    "character_identifier": "CAROLINE_HUSBAND",
     "ordinal": 95,
     "text": "Bad.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_95.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_95.mp3",
+    "audio_checksum": "4040c4109ee126565e3220aeee0525e1ed0e6557046c886690bba8f9ee6ffab9"
   },
   {
+    "character_identifier": "CAROLINE",
     "ordinal": 96,
     "text": "We are quite ruined?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_96.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_96.mp3",
+    "audio_checksum": "236d549d58cf0387635a91958fd80d649247aab2b7e5cb9be21a9677bc6eff41"
   },
   {
+    "character_identifier": "CAROLINE_HUSBAND",
     "ordinal": 97,
     "text": "No. There is hope yet, Caroline.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_97.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_97.mp3",
+    "audio_checksum": "6247caf5fe110375647ff30562a4745fb1dc20e3e11f48eead4eef6650e73687"
   },
   {
+    "character_identifier": "CAROLINE",
     "ordinal": 98,
     "text": "If <i>he</i> relents, there is! Nothing is past hope, if such a miracle has happened.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_98.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_98.mp3",
+    "audio_checksum": "0e28ad6e0bbf29bf1e7a3fb76c37b44aa343eb235cd0f98948a918226cca3ed4"
   },
   {
+    "character_identifier": "CAROLINE_HUSBAND",
     "ordinal": 99,
     "text": "He is past relenting. He is dead.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_99.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_99.mp3",
+    "audio_checksum": "6e9e14ffca3027c48f592436a068c8e8d32721c37b0ae898695dbc0bb3c975a8"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 100,
     "text": "She was a mild and patient creature if her face spoke truth; but she was thankful in her soul to hear it, and she said so, with clasped hands. She prayed forgiveness the next moment, and was sorry; but the first was the emotion of her heart.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_100.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_100.mp3",
+    "audio_checksum": "e2d1496c93a35ff531b355b40df98a4e59878d362a15f539ac06318b3a0f5463"
   },
   {
+    "character_identifier": "CAROLINE_HUSBAND",
     "ordinal": 101,
     "text": "What the half-drunken woman whom I told you of last night said to me, when I tried to see him and obtain a week's delay; and what I thought was a mere excuse to avoid me; turns out to have been quite true. He was not only very ill, but dying then.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_101.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_101.mp3",
+    "audio_checksum": "38a54c7422ced7c6d193cd9e2e3c10343bd57f8f93eb2cb39e9118e072e9ea3a"
   },
   {
+    "character_identifier": "CAROLINE",
     "ordinal": 102,
     "text": "To whom will our debt be transferred?",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_102.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_102.mp3",
+    "audio_checksum": "175f98026c980507d267c45d68b9d3690082a170addc1dbccbe98d8f4a133633"
   },
   {
+    "character_identifier": "CAROLINE_HUSBAND",
     "ordinal": 103,
     "text": "I don't know. But before that time we shall be ready with the money; and even though we were not, it would be a bad fortune indeed to find so merciless a creditor in his successor. We may sleep to-night with light hearts, Caroline!",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_103.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_103.mp3",
+    "audio_checksum": "d6f3f407ef1a595863a83929c46dbfd65be6184d299b56c652b72e03de71b3a3"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 104,
     "text": "Yes. Soften it as they would, their hearts were lighter. The children's faces, hushed and clustered round to hear what they so little understood, were brighter; and it was a happier house for this man's death! The only emotion that the Ghost could show him, caused by the event, was one of pleasure.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_104.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_104.mp3",
+    "audio_checksum": "c032b2095ff25904f3ac751b5acdb20c80b19dff21ff7b81ed340855a3976e6f"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 105,
     "text": "Let me see some tenderness connected with a death, or that dark chamber, Spirit, which we left just now, will be for ever present to me.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_105.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_105.mp3",
+    "audio_checksum": "a5099194af8f658cb0282544e62ebae80671e4f207062ed4c223e54b5453e58a"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 106,
     "text": "The Ghost conducted him through several streets familiar to his feet; and as they went along, Scrooge looked here and there to find himself, but nowhere was he to be seen. They entered poor Bob Cratchit's house; the dwelling he had visited before; and found the mother and the children seated round the fire.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_106.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_106.mp3",
+    "audio_checksum": "66c3d2cbc24ccb7aa038c39308622f2cff5a9a0c953befd9e9304db68c6bebd1"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 107,
     "text": "Quiet. Very quiet. The noisy little Cratchits were as still as statues in one corner, and sat looking up at Peter, who had a book before him. The mother and her daughters were engaged in sewing. But surely they were very quiet!",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_107.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_107.mp3",
+    "audio_checksum": "de7b778204c1d2664148b6ff3411b7960798d8d9eeec73a81b46c5766aa3dd00"
   },
   {
+    "character_identifier": "PETER_CRATCHIT",
     "ordinal": 108,
     "text": "And He took a child, and set him in the midst of them.",
     "trailing_silence": 0.8,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_108.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_108.mp3",
+    "audio_checksum": "a53c36c088ca25c972252a472e6c42275974a9532b8908d8a306d6a585567d50"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 109,
     "text": "Where had Scrooge heard those words? He had not dreamed them. The boy must have read them out, as he and the Spirit crossed the threshold. Why did he not go on?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_109.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_109.mp3",
+    "audio_checksum": "b3ab2487f77d073bb251431bc864bf587972559991008a2c1517e20dc00df8fa"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 110,
     "text": "The mother laid her work upon the table, and put her hand up to her face.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_110.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_110.mp3",
+    "audio_checksum": "8d61662e8c4869954121afe5fb52b536842cc351f357c40b923b5370b606d121"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 111,
     "text": "The colour hurts my eyes.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_111.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_111.mp3",
+    "audio_checksum": "94e2c8b464ded0869fd0793241fa3c651a2bb3f22f1d12993a9f1ab016177503"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 112,
     "text": "The colour? Ah, poor Tiny Tim !     ",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_112.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_112.mp3",
+    "audio_checksum": "65c58edc3a3c29cc58a007dd124c1b2b31126f45a343525f12546baedf192146"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 113,
     "text": "They're better now again. It makes them weak by candle-light; and I wouldn't show weak eyes to your father when he comes home, for the world. It must be near his time.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_113.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_113.mp3",
+    "audio_checksum": "18e861c52ad11f9ed489a4568c66b1ce62e8a27e0688971f446d2fd2ff764927"
   },
   {
+    "character_identifier": "PETER_CRATCHIT",
     "ordinal": 114,
     "text": "Past it rather. But I think he has walked a little slower than he used, these few last evenings, mother.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_114.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_114.mp3",
+    "audio_checksum": "dd81afaa5675e6cfbc02f2a7854015e18aea4aaa204c2e19c698d6f722bca79c"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 115,
     "text": "They were very quiet again. At last she said, and in a steady, cheerful voice, that only faltered once:",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_115.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_115.mp3",
+    "audio_checksum": "99bf3ceea70a7684e4433c862edc237498f9817878faf8da1540f5bf9f1edd50"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 116,
     "text": "I have known him walk with—I have known him walk with Tiny Tim upon his shoulder, very fast indeed.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_116.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_116.mp3",
+    "audio_checksum": "3f188918d76185d83120cf0adec00b5e72a6960638dcf1945af82337fbc5ffac"
   },
   {
+    "character_identifier": "PETER_CRATCHIT",
     "ordinal": 117,
     "text": "And so have I. Often.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_117.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_117.mp3",
+    "audio_checksum": "06ad5bc040a87661c7c15d7f710083a6363c37e932943edd0ecf1a0d734905a4"
   },
   {
+    "character_identifier": "MARTHA_CRATCHIT",
     "ordinal": 118,
     "text": "And so have I.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_118.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_118.mp3",
+    "audio_checksum": "0f3dfa4efb9bec2c7828d3a2c591eeb65a6ea1f4315692e7d2d12a8f3ee27727"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 119,
     "text": "But he was very light to carry, and his father loved him so, that it was no trouble: no trouble. And there is your father at the door!",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_119.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_119.mp3",
+    "audio_checksum": "21f4b964f4b427b8bf12a4868a268f449e6c34dce4f961cc56f86cc1b632aa89"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 120,
     "text": "She hurried out to meet him; and little Bob in his comforter—he had need of it, poor fellow—came in. His tea was ready for him on the hob, and they all tried who should help him to it most. Then the two young Cratchits got upon his knees and laid, each child a little cheek, against his face, as if they said, \"Don't mind it, father. Don't be grieved!\"",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_120.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_120.mp3",
+    "audio_checksum": "e156189aebb09808b3fea7eb971e32a0c44799c4aca947456edc110378563d73"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 121,
     "text": "Bob was very cheerful with them, and spoke pleasantly to all the family. He looked at the work upon the table, and praised the industry and speed of Mrs. Cratchit and the girls. They would be done long before Sunday, he said.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_121.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_121.mp3",
+    "audio_checksum": "107eb3e76d4a1fcf8559a9491b11c13e91d424c5b06c9195ee120edd49dbf80e"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 122,
     "text": "Sunday! You went to-day, then, Robert?",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_122.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_122.mp3",
+    "audio_checksum": "4f469818abdd4d134b73e935e0f1d0bc3c4aff1e0a6c25fbe24c6270ed0af656"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 123,
     "text": "Yes, my dear. I wish you could have gone. It would have done you good to see how green a place it is. But you'll see it often. I promised him that I would walk there on a Sunday. My little, little child! My little child!",
     "trailing_silence": 0.9,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_123.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_123.mp3",
+    "audio_checksum": "c5eb1741160fe86dd598acc2e3e5babe47d94547597ae4b909ae9a9710e5553b"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 124,
     "text": "He broke down all at once. He couldn't help it. If he could have helped it, he and his child would have been farther apart perhaps than they were.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_124.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_124.mp3",
+    "audio_checksum": "95eb62985a51aa87b64b9165f85e640d59549a5fa04f35fa246f38150b3b2eee"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 125,
     "text": "He left the room, and went up-stairs into the room above, which was lighted cheerfully, and hung with Christmas. There was a chair set close beside the child, and there were signs of some one having been there, lately. Poor Bob sat down in it, and when he had thought a little and composed himself, he kissed the little face. He was reconciled to what had happened, and went down again quite happy.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_125.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_125.mp3",
+    "audio_checksum": "d78218784a0ce56711aa71d3f1222f878e73d2f5178f77590505e1a54aad06cf"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 126,
     "text": "They drew about the fire, and talked; the girls and mother working still. Bob told them of the extraordinary kindness of Mr. Scrooge's nephew, whom he had scarcely seen but once, and who, meeting him in the street that day, and seeing that he looked a little—just a little down you know, said Bob, inquired what had happened to distress him.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_126.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_126.mp3",
+    "audio_checksum": "58d812f22a95e9d7f6c0119f83810645858103329e0009abd488430ed51a12a2"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 127,
     "text": "On which, for he is the pleasantest-spoken gentleman you ever heard, I told him. 'I am heartily sorry for it, Mr. Cratchit,' he said, 'and heartily sorry for your good wife.' By the bye, how he ever knew <i>that</i>, I don't know.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_127.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_127.mp3",
+    "audio_checksum": "813048c4242f3c63f4065cf02a2fa0e4eec005c733366a2f4db3506a462195ed"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 128,
     "text": "Knew what, my dear?",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_128.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_128.mp3",
+    "audio_checksum": "e10b0cb698e2ac0a84753d9432f8a09d685ab46548458ef9cea20ca4500607b8"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 129,
     "text": "Why, that you were a good wife.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_129.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_129.mp3",
+    "audio_checksum": "e7e2e9d927875c06667ff5e1784eeacca94e1ccf7762fe08e60222e5a0d59d45"
   },
   {
+    "character_identifier": "PETER_CRATCHIT",
     "ordinal": 130,
     "text": "Everybody knows that!",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_130.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_130.mp3",
+    "audio_checksum": "8609307a152bf5becfc4204778b3cb9a0fe31e0d97a5e7ae91dc7d2c1dd26060"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 131,
     "text": "Very well observed, my boy! I hope they do. 'Heartily sorry,' he said, 'for your good wife. If I can be of service to you in any way,' he said, giving me his card, 'that's where I live. Pray come to me.' Now, it wasn't, for the sake of anything he might be able to do for us, so much as for his kind way, that this was quite delightful. It really seemed as if he had known our Tiny Tim, and felt with us.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_131.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_131.mp3",
+    "audio_checksum": "0fd3afb0239f44e093ea296242d281e8d5a1bf6b40872c54f83442c1d9659143"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 132,
     "text": "I'm sure he's a good soul!",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_132.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_132.mp3",
+    "audio_checksum": "5d030467d46bf15376d7f8abe535753f290880164939f90834ccd333e6916bbe"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 133,
     "text": "You would be surer of it, my dear, if you saw and spoke to him. I shouldn't be at all surprised—mark what I say!—if he got Peter a better situation.",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_133.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_133.mp3",
+    "audio_checksum": "7f8e6b3e22828be9285caf460f2202b192314953701c1a6f28746fc2ebacd9be"
   },
   {
+    "character_identifier": "MRS_CRATCHIT",
     "ordinal": 134,
     "text": "Only hear that, Peter.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_134.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_134.mp3",
+    "audio_checksum": "46d2f28b1e88de6d95f1037cae1970412ac84f36d4ff19436412aa17e3acde98"
   },
   {
+    "character_identifier": "MARTHA_CRATCHIT",
     "ordinal": 135,
     "text": "And then, Peter will be keeping company with some one, and setting up for himself.",
     "trailing_silence": 0.4,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_135.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_135.mp3",
+    "audio_checksum": "4a731dfc864e44a208cb93f3c87a1e417904e7a98169b0e932081dbd1e4cec4a"
   },
   {
+    "character_identifier": "PETER_CRATCHIT",
     "ordinal": 136,
     "text": "Get along with you!",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_136.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_136.mp3",
+    "audio_checksum": "99f5b54361362f49a3f25722e461ef80d2cbc9c65e3ed17b60f6d44f2caed97d"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 137,
     "text": "It's just as likely as not, one of these days; though there's plenty of time for that, my dear. But however and whenever we part from one another, I am sure we shall none of us forget poor Tiny Tim—shall we—or this first parting that there was among us?",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_137.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_137.mp3",
+    "audio_checksum": "dfba2d737da1ed4c9a28d6d6bb2fa49c1c38852d96ee7532059f2761afce9dca"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 138,
     "text": "\"Never, father!\" cried they all.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_138.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_138.mp3",
+    "audio_checksum": "084c77190f40b6e6f300cf94159896d787138de305c7772a3787a06c9bd84fa3"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 139,
     "text": "And I know, I know, my dears, that when we recollect how patient and how mild he was; although he was a little, little child; we shall not quarrel easily among ourselves, and forget poor Tiny Tim in doing it.",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_139.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_139.mp3",
+    "audio_checksum": "b1761c9b3baaa28e5ca56536aab8e62e1698b9d1f2c5fe4275e65b64be47d129"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 140,
     "text": "\"No, never, father!\" they all cried again.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_140.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_140.mp3",
+    "audio_checksum": "b48dd3e40f163f7eaab9ddf003eebf52b0522d5b86c8e708c8cdb82cdf186162"
   },
   {
+    "character_identifier": "CLERK",
     "ordinal": 141,
     "text": "I am very happy. I am very happy!",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_141.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_141.mp3",
+    "audio_checksum": "097cb9c0444192d7b5dfb49edbef8d823e5b2a112346a47896ecbd47ee4912f3"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 142,
     "text": "Mrs. Cratchit kissed him, his daughters kissed him, the two young Cratchits kissed him, and Peter and himself shook hands. Spirit of Tiny Tim, thy childish essence was from God!",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_142.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_142.mp3",
+    "audio_checksum": "0fc807e27ef8fb259ae0dfcbce203f26268088874eb8975c7dd699f5b0ce4373"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 143,
     "text": "Spectre, something informs me that our parting moment is at hand. I know it, but I know not how. Tell me what man that was whom we saw lying dead?",
     "trailing_silence": 0.8,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_143.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_143.mp3",
+    "audio_checksum": "6b899ed1245d0c4bfe38f69bffc7fbe37ef9df3bf00c429ac0659675740c4a2c"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 144,
     "text": "The Ghost of Christmas Yet To Come conveyed him, as before—though at a different time, he thought: indeed, there seemed no order in these latter visions, save that they were in the Future—into the resorts of business men, but showed him not himself. Indeed, the Spirit did not stay for anything, but went straight on, as to the end just now desired, until besought by Scrooge to tarry for a moment.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_144.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_144.mp3",
+    "audio_checksum": "f1f52a23f2a6c5ae4867506678b0b0b6ea154aef7d576401bf2fe6aa87df4e9d"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 145,
     "text": "This court, through which we hurry now, is where my place of occupation is, and has been for a length of time. I see the house. Let me behold what I shall be, in days to come!",
     "trailing_silence": 0.6,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_145.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_145.mp3",
+    "audio_checksum": "dccd55f0f7d2c4bf2ee3f3172f16fb63f7c71d3a1fd79fc8e52860f15a77f37a"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 146,
     "text": "The Spirit stopped; the hand was pointed elsewhere.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_146.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_146.mp3",
+    "audio_checksum": "a11c712e011fb635ea17ee20495c0b148a72b812451e0d3cadba0443ac53ca8d"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 147,
     "text": "The house is yonder. Why do you point away?",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_147.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_147.mp3",
+    "audio_checksum": "4d70dc6be618e3d9d9f9847fd1cf2ef6182e114eb01eaecd95d526e473c3fb48"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 148,
     "text": "The inexorable finger underwent no change.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_148.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_148.mp3",
+    "audio_checksum": "c9cda3076544be3e40377a8568539d023d4c17a10653868c2d9e252ff784aa05"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 149,
     "text": "Scrooge hastened to the window of his office, and looked in. It was an office still, but not his. The furniture was not the same, and the figure in the chair was not himself. The Phantom pointed as before.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_149.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_149.mp3",
+    "audio_checksum": "d095d06111b241dab3cc842f9b0949addb3e25e60dfdc9abf1915257078172fc"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 150,
     "text": "He joined it once again, and wondering why and whither he had gone, accompanied it until they reached an iron gate. He paused to look round before entering.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_150.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_150.mp3",
+    "audio_checksum": "ac71c445710a98f6bab6c6147beb7ce9f70d8f6aab50b5abcf2f71628fb5c526"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 151,
     "text": "A churchyard. Here, then; the wretched man whose name he had now to learn, lay underneath the ground. It was a worthy place. Walled in by houses; overrun by grass and weeds, the growth of vegetation's death, not life; choked up with too much burying; fat with repleted appetite. A worthy place!",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_151.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_151.mp3",
+    "audio_checksum": "80245fc4ba18249ec86d9e3b7ef09da2d145157ac03b9548729606ddfab7a1d8"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 152,
     "text": "The Spirit stood among the graves, and pointed down to One. He advanced towards it trembling. The Phantom was exactly as it had been, but he dreaded that he saw new meaning in its solemn shape.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_152.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_152.mp3",
+    "audio_checksum": "887befd436c27da05c10ce346b38f6181322f99079c5dcb06e70ca433251bf1b"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 153,
     "text": "Before I draw nearer to that stone to which you point, answer me one question. Are these the shadows of the things that Will be, or are they shadows of things that May be, only?",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_153.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_153.mp3",
+    "audio_checksum": "7c5e9b653692c037923a22568d73b41cff21c81ceebffa4bd75088189973d1f8"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 154,
     "text": "Still the Ghost pointed downward to the grave by which it stood.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_154.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_154.mp3",
+    "audio_checksum": "a8d37438a49e935f5f5f20020f73a3edccc8bc4d638b0bf6549b8302d7507721"
   },
   {
+    "character_identifier": "SCROOGE",
     "ordinal": 155,
     "text": "Men's courses will foreshadow certain ends, to which, if persevered in, they must lead. But if the courses be departed from, the ends will change. Say it is thus with what you show me!",
     "trailing_silence": 0.7,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_155.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_155.mp3",
+    "audio_checksum": "d1dda619fc2e22b6fbf59833fe2b7298600f9b1451def3bbab70940f0c90c679"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 156,
     "text": "The Spirit was immovable as ever.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_156.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_156.mp3",
+    "audio_checksum": "52dfddcf7faf59a14300e6f2b71e59fcfb231eb61c61774a5edf5e50c2f34e87"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 157,
     "text": "Scrooge crept towards it, trembling as he went; and following the finger, read upon the stone of the neglected grave his own name, Ebenezer Scrooge.",
     "trailing_silence": 0.3,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_157.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio/dialogue_157.mp3",
+    "audio_checksum": "8f9eabda3bd83177e58fa348a6fd1fbc3a3643a520cf9fd7de5c2064af5d9a55"
   }
 ]
