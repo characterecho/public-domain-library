@@ -1,16 +1,20 @@
 [
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 0,
     "text": "A Christmas Carol in Prose; Being a Ghost Story of Christmas",
     "trailing_silence": 0.5,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio/dialogue_0.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio/dialogue_0.mp3",
+    "audio_checksum": "c2679b0ff36af5c3519711efb8c3eb4c31935ba5cfbd33374d34d20240a86bcc"
   },
   {
+    "character_identifier": "NARRATOR",
     "ordinal": 1,
     "text": "by Charles Dickens",
     "trailing_silence": 1.0,
     "speed": 1.0,
-    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio/dialogue_1.mp3"
+    "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio/dialogue_1.mp3",
+    "audio_checksum": "50f417e6da26d83a0f0f96b31474810e9c1c6cc952735b38142a168dae7f4f8f"
   }
 ]

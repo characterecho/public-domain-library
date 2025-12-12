@@ -5,6 +5,7 @@
   "epub_source": "http://www.gutenberg.org/46",
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.jpg",
+  "cover_checksum": "5c6250447a3b1b65d5c4667d9d5fab4af52701531ca463cda87068a9fa2edd97",
   "characters": [
     {
       "identifier": "SCHOOLMASTER",
@@ -28,7 +29,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
+      "image_checksum": "6ec457c0f9a0ca3b12c62e131b9969d37f25f830eb2094de8b20a6bd9598861a"
     },
     {
       "identifier": "YOUNG_SCROOGE_CHILD",
@@ -64,7 +66,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.png",
+      "image_checksum": "743db7f8817d4f714cd1e574d75615b39d55248045e04a6f29feeeedcfedbff8"
     },
     {
       "identifier": "CAROLER",
@@ -97,7 +100,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
+      "image_checksum": "cd479f060cace3b69ee5107b00b504b9145c34981a1a91004182b99ef43db464"
     },
     {
       "identifier": "FAN",
@@ -136,7 +140,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAN.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAN.png",
+      "image_checksum": "c96cd36c6111f7ab0a45b0750f1e246a4abdc7606f0c9d49b4cb3a982e6ecdb2"
     },
     {
       "identifier": "GENTLEMAN_1",
@@ -176,7 +181,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.png",
+      "image_checksum": "a6d8406407202677581ffe4d4c34546f495e6a43bdfac44afa6471f0e4177ade"
     },
     {
       "identifier": "NARRATOR",
@@ -211,7 +217,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": null
+      "image_key": null,
+      "image_checksum": null
     },
     {
       "identifier": "BELLE_YOUNG",
@@ -246,7 +253,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
+      "image_checksum": "1a225250af7207ce9a012817382064a43100d3f85950c8b19d668f0b0d16b33e"
     },
     {
       "identifier": "PETER_CRATCHIT",
@@ -290,7 +298,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.png",
+      "image_checksum": "533ced8e6b5cba7760bbf2248d38e41f5884958bdc66eeba28ce6745a54d5632"
     },
     {
       "identifier": "PLUMP_SISTER",
@@ -326,7 +335,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
+      "image_checksum": "de7a98c52d324ce78886dfcce91e5ca1e72ad5b57e437bfe6495c3fc19df0909"
     },
     {
       "identifier": "MARTHA_CRATCHIT",
@@ -356,7 +366,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
+      "image_checksum": "d1378a0c00856abef6b4c1b5eff7e6169a52fd40efe6c20b18b1595804ef8fc3"
     },
     {
       "identifier": "MRS_DILBER",
@@ -391,7 +402,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png",
+      "image_checksum": "a949012457c6fec004332c65c0242d8ebf5a016af971d4ccec1e556c54c7eef0"
     },
     {
       "identifier": "WEALTHY_BUSINESSMAN_1",
@@ -423,7 +435,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
+      "image_checksum": "a8059bec207b2c3cbf1a7807f44a2d30cf273cef9a14133752c1702977da0ab3"
     },
     {
       "identifier": "WEALTHY_BUSINESSMAN_2",
@@ -455,7 +468,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
+      "image_checksum": "d7b4bf84d25e00e0aa738b2e2e647243994b21e6ce033995e211dfa9e39593a2"
     },
     {
       "identifier": "BUSINESSMAN_3",
@@ -487,7 +501,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.png",
+      "image_checksum": "8c1713b4d346908a60454c7835da5da0923c4e5e7828bbb9f344a470ea249e11"
     },
     {
       "identifier": "BUSINESSMAN_2",
@@ -518,7 +533,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.png",
+      "image_checksum": "05807e36283f6e015f76d723063c583ad9696e2feea6afa6bc22486624968a52"
     },
     {
       "identifier": "CAROLINE",
@@ -557,7 +573,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.png",
+      "image_checksum": "17f2481ce00f2db0e684fc86e0998ae33e8c52c2794d8904fc5391ebf2089d5f"
     },
     {
       "identifier": "SERVANT_GIRL",
@@ -591,7 +608,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
+      "image_checksum": "f5cf33ed32f0245a521bfdeffd5124046d52e2a0750fc73ce074d36e68b5b352"
     },
     {
       "identifier": "FEZZIWIG",
@@ -628,7 +646,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.png",
+      "image_checksum": "63005bb035ad7ef210265cce4716fffa43d8379fd8cb3b0e7e4952072066cb39"
     },
     {
       "identifier": "BELLE_HUSBAND",
@@ -658,7 +677,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.png",
+      "image_checksum": "ff8b1aa599b92317bb51147a7536b6a2a37214c483834928ff81ee0575c54add"
     },
     {
       "identifier": "MARLEY_GHOST",
@@ -706,7 +726,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARLEY_GHOST.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARLEY_GHOST.png",
+      "image_checksum": "9a91650e7f75b57d6d860b9b86129963275e48be0445199f9467d9b33ea32b5e"
     },
     {
       "identifier": "CAROLINE_HUSBAND",
@@ -747,7 +768,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.png",
+      "image_checksum": "66c4e5d5b376b347b4efed3a8fde61b698b09b0c16ec83aef3aea0aa631d5a3d"
     },
     {
       "identifier": "OLD_JOE",
@@ -787,7 +809,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.png",
+      "image_checksum": "bb5f2bd46d8391ff70e3ab6ea9ae80da94cc65e7d28456088bd508fce00e8df7"
     },
     {
       "identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -823,7 +846,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.png",
+      "image_checksum": "18deb1d0b3bfb51e3e6ef71ff4a0c66759e4d0f81ac0f0336b3a0f5554a10a22"
     },
     {
       "identifier": "MRS_CRATCHIT",
@@ -876,7 +900,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_CRATCHIT.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_CRATCHIT.png",
+      "image_checksum": "38212171366a4d0e773a7bdb2da95466900784b7d6b55d8d6078244c31e3ba41"
     },
     {
       "identifier": "FAT_BUSINESSMAN",
@@ -918,7 +943,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.png",
+      "image_checksum": "7a89d83b58d54b068223114215c3a0a1090e10bfbe164c92becd77afdef3834b"
     },
     {
       "identifier": "GHOST_CHRISTMAS_PAST",
@@ -963,7 +989,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PAST.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PAST.png",
+      "image_checksum": "601a3af079646ccbeb5f7a7cb56c74c5cfc68d114727384b6a15c7346793d300"
     },
     {
       "identifier": "RED_FACED_GENTLEMAN",
@@ -999,7 +1026,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.png",
+      "image_checksum": "9f5336c891ceb282d39edb98a956ec208e1ac5747fcdbd5efef055d631b2c6d6"
     },
     {
       "identifier": "NEPHEW",
@@ -1063,7 +1091,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NEPHEW.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NEPHEW.png",
+      "image_checksum": "c00fe77fb14a80b9dd8f736dd5f5d61da30731b7e85c957b5418c231efd974f2"
     },
     {
       "identifier": "GENTLEMAN_2",
@@ -1094,7 +1123,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png",
+      "image_checksum": "732d84ca03dfdc81d1b7f85b8cb9a17060c193e4a8b9bc51340739173e19465f"
     },
     {
       "identifier": "GHOST_CHRISTMAS_PRESENT",
@@ -1154,7 +1184,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PRESENT.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PRESENT.png",
+      "image_checksum": "c144a16f724b2823c91a11102ce226ec7b38eb693da51263fe125d22757c89c7"
     },
     {
       "identifier": "TINY_TIM",
@@ -1205,7 +1236,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.png",
+      "image_checksum": "16d9f391e2a0ed5471ac6c3148cebf140a86a890e9690db181dff85ed1062fc0"
     },
     {
       "identifier": "CLERK",
@@ -1275,7 +1307,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CLERK.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CLERK.png",
+      "image_checksum": "cca394bc3cc7f2c6cbcd52ae3f5587e05727b9d23e8d9bcb00d1bfba40271021"
     },
     {
       "identifier": "CHARWOMAN",
@@ -1317,7 +1350,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.png",
+      "image_checksum": "11b6fa6e63e1584eedec53f825621331fe6dd0c87fcf29e940e1774306282669"
     },
     {
       "identifier": "NIECE",
@@ -1367,7 +1401,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.png",
+      "image_checksum": "df117d7735c3e11cd4dd21337a8858c4e34f9f3528133b8a46b49c7f0fd7e85f"
     },
     {
       "identifier": "SCROOGE",
@@ -1470,7 +1505,8 @@
           "voice_accent": "british"
         }
       },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCROOGE.png"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCROOGE.png",
+      "image_checksum": "0e029c8eadc6da05a21e7bc58ef44e42e77a0f8619c54d8f6fdfc7d2c781811a"
     }
   ],
   "segments": [
@@ -1479,7 +1515,8 @@
       "title": "Introduction",
       "metadata": {},
       "background_key": null,
-      "dialogues_path": "segments/0/dialogues.json"
+      "background_checksum": null,
+      "dialogues_checksum": "7b50791c50ebb77e5d1c03ec8cc6386b6d07094325e0dd202f395a6c2a05377e"
     },
     {
       "ordinal": 1,
@@ -1508,7 +1545,8 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
-      "dialogues_path": "segments/1/dialogues.json"
+      "background_checksum": "926cdc177b70e15affd0c7137f7a3978390a3510e05ac027c7c9cc04e308faa2",
+      "dialogues_checksum": "6be918b85fbda650eb188c22c29d596f83f657965176d1480f827f706d8a18d5"
     },
     {
       "ordinal": 2,
@@ -1538,7 +1576,8 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
-      "dialogues_path": "segments/2/dialogues.json"
+      "background_checksum": "e57371c108176b0e97dfe5ffbbee2ddd5ab1818ee2938b71df0cab7ad2176040",
+      "dialogues_checksum": "4861537401b30ca8bbfcbf41c3005fa571d6fb201690926031e9cf9ca2a1d955"
     },
     {
       "ordinal": 3,
@@ -1559,7 +1598,8 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
-      "dialogues_path": "segments/3/dialogues.json"
+      "background_checksum": "bfcca692152e2499adc552e9c0020931888a717ffc0943ff38af82b454e09b28",
+      "dialogues_checksum": "730e6c38e3b09fa46075e55ec0f71c615d38fb69ad8120b5f01657835830325f"
     },
     {
       "ordinal": 4,
@@ -1580,7 +1620,8 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
-      "dialogues_path": "segments/4/dialogues.json"
+      "background_checksum": "5e3e71ace5b0992bf5f5ce35d619bc376c2e5f1ba1b7a568c888bf68057cb0a2",
+      "dialogues_checksum": "864499ade2dd8d0399eb974e4996cbc177389ed4ab31d20c34bf14cb92651a8f"
     },
     {
       "ordinal": 5,
@@ -1603,7 +1644,8 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
-      "dialogues_path": "segments/5/dialogues.json"
+      "background_checksum": "cc5d69d9f9169fd8a942d8a694497525d0bac0887c3290c68cc06f206890bcc9",
+      "dialogues_checksum": "91dd4ebbac9a13800f5351660d14927f28ec618e2eac898c8ef9fd7b7aae16f7"
     }
   ]
 }
