@@ -6,6 +6,7 @@
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.jpg",
   "cover_checksum": "5c6250447a3b1b65d5c4667d9d5fab4af52701531ca463cda87068a9fa2edd97",
+  "total_duration_ms": 9747976,
   "characters": [
     {
       "identifier": "SCHOOLMASTER",
@@ -1216,7 +1217,8 @@
       "metadata": {},
       "background_key": null,
       "background_checksum": null,
-      "dialogues_checksum": "7b50791c50ebb77e5d1c03ec8cc6386b6d07094325e0dd202f395a6c2a05377e"
+      "dialogues_checksum": "6b3e76364f323f7aceeb93cdeadee5ab37ec1cf5a953a526d2feeff834afa761",
+      "dialogues_total_duration_ms": 5736
     },
     {
       "ordinal": 1,
@@ -1246,7 +1248,8 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
       "background_checksum": "926cdc177b70e15affd0c7137f7a3978390a3510e05ac027c7c9cc04e308faa2",
-      "dialogues_checksum": "6be918b85fbda650eb188c22c29d596f83f657965176d1480f827f706d8a18d5"
+      "dialogues_checksum": "2f0065d635e6768e5b554254889fdefe84b64c9da4c5b9cd3b19fd1eff01a247",
+      "dialogues_total_duration_ms": 2338055
     },
     {
       "ordinal": 2,
@@ -1277,7 +1280,8 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
       "background_checksum": "e57371c108176b0e97dfe5ffbbee2ddd5ab1818ee2938b71df0cab7ad2176040",
-      "dialogues_checksum": "4861537401b30ca8bbfcbf41c3005fa571d6fb201690926031e9cf9ca2a1d955"
+      "dialogues_checksum": "d43e818196ee4cf54b865d0c57f5fa76713d4d8aa032a329e181bdae6d911b7d",
+      "dialogues_total_duration_ms": 2104558
     },
     {
       "ordinal": 3,
@@ -1299,7 +1303,8 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
       "background_checksum": "bfcca692152e2499adc552e9c0020931888a717ffc0943ff38af82b454e09b28",
-      "dialogues_checksum": "730e6c38e3b09fa46075e55ec0f71c615d38fb69ad8120b5f01657835830325f"
+      "dialogues_checksum": "72efc00b9b6686c48422b2ec0039fd94e2d566956fabd92c81638968b7e51b05",
+      "dialogues_total_duration_ms": 2847453
     },
     {
       "ordinal": 4,
@@ -1321,7 +1326,8 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
       "background_checksum": "5e3e71ace5b0992bf5f5ce35d619bc376c2e5f1ba1b7a568c888bf68057cb0a2",
-      "dialogues_checksum": "864499ade2dd8d0399eb974e4996cbc177389ed4ab31d20c34bf14cb92651a8f"
+      "dialogues_checksum": "c275ea1410aba1023aced6bea6cca1c5082e03b86d88c58813c96734fc91d6b8",
+      "dialogues_total_duration_ms": 1661280
     },
     {
       "ordinal": 5,
@@ -1345,7 +1351,8 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
       "background_checksum": "cc5d69d9f9169fd8a942d8a694497525d0bac0887c3290c68cc06f206890bcc9",
-      "dialogues_checksum": "91dd4ebbac9a13800f5351660d14927f28ec618e2eac898c8ef9fd7b7aae16f7"
+      "dialogues_checksum": "407ff438601634a7a638a28b38a370540a42711f5b3896f9a944d1f001506eb1",
+      "dialogues_total_duration_ms": 790894
     }
   ]
 }

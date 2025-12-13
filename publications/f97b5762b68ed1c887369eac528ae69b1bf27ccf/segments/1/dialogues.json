@@ -3,1638 +3,2002 @@
     "character_identifier": "NARRATOR",
     "ordinal": 1,
     "text": "STAVE ONE. — MARLEY’S GHOST.",
-    "trailing_silence": 1.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_1.mp3",
-    "audio_checksum": "16a908a258e798f45c7e6acda4f5e73eaf544efd210933af252e0c01bc17de70"
+    "audio_checksum": "16a908a258e798f45c7e6acda4f5e73eaf544efd210933af252e0c01bc17de70",
+    "duration_ms": 3672,
+    "trailing_silence_ms": 1000,
+    "start_ms": 6536,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 2,
     "text": "Marley was dead: to begin with. There is no doubt whatever about that. The register of his burial was signed by the clergyman, the clerk, the undertaker, and the chief mourner. Scrooge signed it: and Scrooge's name was good upon 'Change, for anything he chose to put his hand to. Old Marley was as dead as a door-nail.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_2.mp3",
-    "audio_checksum": "8996241abff932a617a512098074cfd9d6738772c2408297bd8ad59197f14033"
+    "audio_checksum": "8996241abff932a617a512098074cfd9d6738772c2408297bd8ad59197f14033",
+    "duration_ms": 22680,
+    "trailing_silence_ms": 500,
+    "start_ms": 11208,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 3,
     "text": "Mind! I don't mean to say that I know, of my own knowledge, what there is particularly dead about a door-nail. I might have been inclined, myself, to regard a coffin-nail as the deadest piece of ironmongery in the trade. But the wisdom of our ancestors is in the simile; and my unhallowed hands shall not disturb it, or the Country's done for. You will therefore permit me to repeat, emphatically, that Marley was as dead as a door-nail.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_3.mp3",
-    "audio_checksum": "c9ac746102cbdf733b975a01f53f46f85bc02d75ef0dfc29aa7837168111bff4"
+    "audio_checksum": "c9ac746102cbdf733b975a01f53f46f85bc02d75ef0dfc29aa7837168111bff4",
+    "duration_ms": 28440,
+    "trailing_silence_ms": 500,
+    "start_ms": 34388,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 4,
     "text": "Scrooge knew he was dead? Of course he did. How could it be otherwise? Scrooge and he were partners for I don't know how many years. Scrooge was his sole executor, his sole administrator, his sole assign, his sole residuary legatee, his sole friend, and sole mourner. And even Scrooge was not so dreadfully cut up by the sad event, but that he was an excellent man of business on the very day of the funeral, and solemnised it with an undoubted bargain.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_4.mp3",
-    "audio_checksum": "9a30a1f7ac5d11a09ba083a5af4389e79225eea319196a3aee66b390707ccb2d"
+    "audio_checksum": "9a30a1f7ac5d11a09ba083a5af4389e79225eea319196a3aee66b390707ccb2d",
+    "duration_ms": 29736,
+    "trailing_silence_ms": 500,
+    "start_ms": 63328,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 5,
     "text": "The mention of Marley's funeral brings me back to the point I started from. There is no doubt that Marley was dead. This must be distinctly understood, or nothing wonderful can come of the story I am going to relate. If we were not perfectly convinced that Hamlet's Father died before the play began, there would be nothing more remarkable in his taking a stroll at night, in an easterly wind, upon his own ramparts, than there would be in any other middle-aged gentleman rashly turning out after dark in a breezy spot—say Saint Paul's Churchyard for instance—literally to astonish his son's weak mind.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_5.mp3",
-    "audio_checksum": "1f72d04da41d6ce497b4843dfd1c89592d5c1305f095f990ec8fc73ab8907c84"
+    "audio_checksum": "1f72d04da41d6ce497b4843dfd1c89592d5c1305f095f990ec8fc73ab8907c84",
+    "duration_ms": 38880,
+    "trailing_silence_ms": 500,
+    "start_ms": 93564,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 6,
     "text": "Scrooge never painted out Old Marley's name. There it stood, years afterwards, above the warehouse door: Scrooge and Marley. The firm was known as Scrooge and Marley. Sometimes people new to the business called Scrooge Scrooge, and sometimes Marley, but he answered to both names. It was all the same to him.",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_6.mp3",
-    "audio_checksum": "b4d00d5e3c6050161e23c0f654c3c614b282641682a2189d9164a7cae782eea5"
+    "audio_checksum": "b4d00d5e3c6050161e23c0f654c3c614b282641682a2189d9164a7cae782eea5",
+    "duration_ms": 21552,
+    "trailing_silence_ms": 600,
+    "start_ms": 132944,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 7,
     "text": "Oh! But he was a tight-fisted hand at the grindstone, Scrooge! a squeezing, wrenching, grasping, scraping, clutching, covetous, old sinner! Hard and sharp as flint, from which no steel had ever struck out generous fire; secret, and self-contained, and solitary as an oyster. The cold within him froze his old features, nipped his pointed nose, shrivelled his cheek, stiffened his gait; made his eyes red, his thin lips blue; and spoke out shrewdly in his grating voice. A frosty rime was on his head, and on his eyebrows, and his wiry chin. He carried his own low temperature always about with him; he iced his office in the dog-days; and didn't thaw it one degree at Christmas.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_7.mp3",
-    "audio_checksum": "e7304e9a4075b24fe692208f40ef821ed2923a5056e17d639e213b518179dcd4"
+    "audio_checksum": "e7304e9a4075b24fe692208f40ef821ed2923a5056e17d639e213b518179dcd4",
+    "duration_ms": 48792,
+    "trailing_silence_ms": 500,
+    "start_ms": 155096,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 8,
     "text": "External heat and cold had little influence on Scrooge. No warmth could warm, no wintry weather chill him. No wind that blew was bitterer than he, no falling snow was more intent upon its purpose, no pelting rain less open to entreaty. Foul weather didn't know where to have him. The heaviest rain, and snow, and hail, and sleet, could boast of the advantage over him in only one respect. They often \"came down\" handsomely, and Scrooge never did.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_8.mp3",
-    "audio_checksum": "8d72114ab8e92bf39695a26177a076fa0d326fcfd2b084d3edd3c0124091e619"
+    "audio_checksum": "8d72114ab8e92bf39695a26177a076fa0d326fcfd2b084d3edd3c0124091e619",
+    "duration_ms": 31920,
+    "trailing_silence_ms": 500,
+    "start_ms": 204388,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 9,
     "text": "Nobody ever stopped him in the street to say, with gladsome looks, \"My dear Scrooge, how are you? When will you come to see me?\" No beggars implored him to bestow a trifle, no children asked him what it was o'clock, no man or woman ever once in all his life inquired the way to such and such a place, of Scrooge. Even the blind men's dogs appeared to know him; and when they saw him coming on, would tug their owners into doorways and up courts; and then would wag their tails as though they said, \"No eye at all is better than an evil eye, dark master!\"",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_9.mp3",
-    "audio_checksum": "1d3cac49112865a9c743b1c8c3e289e38bdcae2254521c798a792a5929623270"
+    "audio_checksum": "1d3cac49112865a9c743b1c8c3e289e38bdcae2254521c798a792a5929623270",
+    "duration_ms": 40464,
+    "trailing_silence_ms": 500,
+    "start_ms": 236808,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 10,
     "text": "But what did Scrooge care! It was the very thing he liked. To edge his way along the crowded paths of life, warning all human sympathy to keep its distance, was what the knowing ones call \"nuts\" to Scrooge.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_10.mp3",
-    "audio_checksum": "effc97344bc1be701411ce6023dd1f4b5f6d6af102696298ea9a473d2ff0a926"
+    "audio_checksum": "effc97344bc1be701411ce6023dd1f4b5f6d6af102696298ea9a473d2ff0a926",
+    "duration_ms": 14928,
+    "trailing_silence_ms": 500,
+    "start_ms": 277772,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 11,
     "text": "Once upon a time—of all the good days in the year, on Christmas Eve—old Scrooge sat busy in his counting-house. It was cold, bleak, biting weather: foggy withal: and he could hear the people in the court outside, go wheezing up and down, beating their hands upon their breasts, and stamping their feet upon the pavement stones to warm them. The city clocks had only just gone three, but it was quite dark already—it had not been light all day—and candles were flaring in the windows of the neighbouring offices, like ruddy smears upon the palpable brown air. The fog came pouring in at every chink and keyhole, and was so dense without, that although the court was of the narrowest, the houses opposite were mere phantoms. To see the dingy cloud come drooping down, obscuring everything, one might have thought that Nature lived hard by, and was brewing on a large scale.",
-    "trailing_silence": 0.8,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_11.mp3",
-    "audio_checksum": "cefb2986c79c4e674152df22fb19982e7a26358602bd559a19dbceba91235399"
+    "audio_checksum": "cefb2986c79c4e674152df22fb19982e7a26358602bd559a19dbceba91235399",
+    "duration_ms": 63792,
+    "trailing_silence_ms": 800,
+    "start_ms": 293200,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 12,
     "text": "The door of Scrooge's counting-house was open that he might keep his eye upon his clerk, who in a dismal little cell beyond, a sort of tank, was copying letters. Scrooge had a very small fire, but the clerk's fire was so very much smaller that it looked like one coal. But he couldn't replenish it, for Scrooge kept the coal-box in his own room; and so surely as the clerk came in with the shovel, the master predicted that it would be necessary for them to part. Wherefore the clerk put on his white comforter, and tried to warm himself at the candle; in which effort, not being a man of a strong imagination, he failed.",
-    "trailing_silence": 0.7,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_12.mp3",
-    "audio_checksum": "f8ffa9a0866ede4cad6c0ce9f82e751a8ed5c9f670d8a6736140c633d929caf4"
+    "audio_checksum": "f8ffa9a0866ede4cad6c0ce9f82e751a8ed5c9f670d8a6736140c633d929caf4",
+    "duration_ms": 44904,
+    "trailing_silence_ms": 700,
+    "start_ms": 357792,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 13,
     "text": "A merry Christmas, uncle! God save you!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_13.mp3",
-    "audio_checksum": "6e1a1c06edf8e80c973201a1e6ae1e66157985f166a30f45bfffd44423ccd491"
+    "audio_checksum": "6e1a1c06edf8e80c973201a1e6ae1e66157985f166a30f45bfffd44423ccd491",
+    "duration_ms": 3072,
+    "trailing_silence_ms": 300,
+    "start_ms": 403396,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 14,
     "text": "It was the voice of Scrooge's nephew, who came upon him so quickly that this was the first intimation he had of his approach.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_14.mp3",
-    "audio_checksum": "f89dc88b368732776545fddebf3644bc1fb4ba7be427e172fe8612d501d4cdc7"
+    "audio_checksum": "f89dc88b368732776545fddebf3644bc1fb4ba7be427e172fe8612d501d4cdc7",
+    "duration_ms": 8472,
+    "trailing_silence_ms": 400,
+    "start_ms": 406768,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 15,
     "text": "Bah! Humbug!",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_15.mp3",
-    "audio_checksum": "f0e3c569e3d7c31ba97eb677ee8146013d454a9c5621e4f277329ae5ea11dcb6"
+    "audio_checksum": "f0e3c569e3d7c31ba97eb677ee8146013d454a9c5621e4f277329ae5ea11dcb6",
+    "duration_ms": 1920,
+    "trailing_silence_ms": 500,
+    "start_ms": 415640,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 16,
     "text": "He had so heated himself with rapid walking in the fog and frost, this nephew of Scrooge's, that he was all in a glow; his face was ruddy and handsome; his eyes sparkled, and his breath smoked again.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_16.mp3",
-    "audio_checksum": "95dff305aee795d26b25f17192a3eb6ec915a25f9bcd83180df790175751178c"
+    "audio_checksum": "95dff305aee795d26b25f17192a3eb6ec915a25f9bcd83180df790175751178c",
+    "duration_ms": 14760,
+    "trailing_silence_ms": 400,
+    "start_ms": 418060,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 17,
     "text": "Christmas a humbug, uncle! You don't mean that, I am sure?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_17.mp3",
-    "audio_checksum": "d08659bd5d3771c9bb6592655f788cf6412391b3802c8ad14a7b8d5a778fc7b1"
+    "audio_checksum": "d08659bd5d3771c9bb6592655f788cf6412391b3802c8ad14a7b8d5a778fc7b1",
+    "duration_ms": 4080,
+    "trailing_silence_ms": 300,
+    "start_ms": 433220,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 18,
     "text": "I do. Merry Christmas! What right have you to be merry? What reason have you to be merry? You're poor enough.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_18.mp3",
-    "audio_checksum": "806a6f2f77162fb753ad1d25eead94e20591bc24abc32503c814adc00bebba37"
+    "audio_checksum": "806a6f2f77162fb753ad1d25eead94e20591bc24abc32503c814adc00bebba37",
+    "duration_ms": 7896,
+    "trailing_silence_ms": 400,
+    "start_ms": 437600,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 19,
     "text": "Come, then. What right have you to be dismal? What reason have you to be morose? You're rich enough.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_19.mp3",
-    "audio_checksum": "9db94eb852dbce835324b44cbb45d563cca3025119a9202d8bde8196d23de51d"
+    "audio_checksum": "9db94eb852dbce835324b44cbb45d563cca3025119a9202d8bde8196d23de51d",
+    "duration_ms": 6312,
+    "trailing_silence_ms": 300,
+    "start_ms": 445896,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 20,
     "text": "Scrooge having no better answer ready on the spur of the moment, said, \"Bah!\" again; and followed it up with \"Humbug.\"",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_20.mp3",
-    "audio_checksum": "736b2efd665d5c9743ad8f05978af81a958063d082ca1e4048024f30603dea5a"
+    "audio_checksum": "736b2efd665d5c9743ad8f05978af81a958063d082ca1e4048024f30603dea5a",
+    "duration_ms": 8160,
+    "trailing_silence_ms": 400,
+    "start_ms": 452508,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 21,
     "text": "Don't be cross, uncle!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_21.mp3",
-    "audio_checksum": "f997e7f3ea0ce5efe75bb7501881f46b62e5331dd21f981f6ae03caa47d45741"
+    "audio_checksum": "f997e7f3ea0ce5efe75bb7501881f46b62e5331dd21f981f6ae03caa47d45741",
+    "duration_ms": 2472,
+    "trailing_silence_ms": 300,
+    "start_ms": 461068,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 22,
     "text": "What else can I be, when I live in such a world of fools as this? Merry Christmas! Out upon merry Christmas! What's Christmas time to you but a time for paying bills without money; a time for finding yourself a year older, but not an hour richer; a time for balancing your books and having every item in 'em through a round dozen of months presented dead against you? If I could work my will, every idiot who goes about with 'Merry Christmas' on his lips, should be boiled with his own pudding, and buried with a stake of holly through his heart. He should!",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_22.mp3",
-    "audio_checksum": "6684abe8fa239f08b383cbd86a1cba631a391d76ea3e1d2417202f11ace7b8f3"
+    "audio_checksum": "6684abe8fa239f08b383cbd86a1cba631a391d76ea3e1d2417202f11ace7b8f3",
+    "duration_ms": 38784,
+    "trailing_silence_ms": 500,
+    "start_ms": 463840,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 23,
     "text": "Uncle!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_23.mp3",
-    "audio_checksum": "1819524edc09dfa311a82272634dcd597614374d251a604ead03fe25ccc9dd63"
+    "audio_checksum": "1819524edc09dfa311a82272634dcd597614374d251a604ead03fe25ccc9dd63",
+    "duration_ms": 1440,
+    "trailing_silence_ms": 300,
+    "start_ms": 503124,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 24,
     "text": "Nephew! keep Christmas in your own way, and let me keep it in mine.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_24.mp3",
-    "audio_checksum": "feebbab094001f10a5396584c0df477c44039ede6999cc920c60bd759a2bf515"
+    "audio_checksum": "feebbab094001f10a5396584c0df477c44039ede6999cc920c60bd759a2bf515",
+    "duration_ms": 4512,
+    "trailing_silence_ms": 300,
+    "start_ms": 504864,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 25,
     "text": "Keep it! But you don't keep it.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_25.mp3",
-    "audio_checksum": "62dc8e75dbafbb18c1947bcb0a4a06a9374b0595f2591385b6db88836c7fad14"
+    "audio_checksum": "62dc8e75dbafbb18c1947bcb0a4a06a9374b0595f2591385b6db88836c7fad14",
+    "duration_ms": 2520,
+    "trailing_silence_ms": 300,
+    "start_ms": 509676,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 26,
     "text": "Let me leave it alone, then. Much good may it do you! Much good it has ever done you!",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_26.mp3",
-    "audio_checksum": "9a2bb02f66c85c5ec972670ee20250a00f7e4438abfb840b6537ff94e39a2f91"
+    "audio_checksum": "9a2bb02f66c85c5ec972670ee20250a00f7e4438abfb840b6537ff94e39a2f91",
+    "duration_ms": 6096,
+    "trailing_silence_ms": 400,
+    "start_ms": 512496,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 27,
     "text": "There are many things from which I might have derived good, by which I have not profited, I dare say. Christmas among the rest. But I am sure I have always thought of Christmas time, when it has come round—apart from the veneration due to its sacred name and origin, if anything belonging to it can be apart from that—as a good time; a kind, forgiving, charitable, pleasant time; the only time I know of, in the long calendar of the year, when men and women seem by one consent to open their shut-up hearts freely, and to think of people below them as if they really were fellow-passengers to the grave, and not another race of creatures bound on other journeys. And therefore, uncle, though it has never put a scrap of gold or silver in my pocket, I believe that it <i>has</i> done me good, and <i>will</i> do me good; and I say, God bless it!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_27.mp3",
-    "audio_checksum": "0201f81c53e04fba98473defa110b9536f2e6cd136bb74fdac80289c683ed93e"
+    "audio_checksum": "0201f81c53e04fba98473defa110b9536f2e6cd136bb74fdac80289c683ed93e",
+    "duration_ms": 50952,
+    "trailing_silence_ms": 300,
+    "start_ms": 518992,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 28,
     "text": "The clerk in the Tank involuntarily applauded. Becoming immediately sensible of the impropriety, he poked the fire, and extinguished the last frail spark for ever.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_28.mp3",
-    "audio_checksum": "1f3da0e5d49dc07a53e72f983605d5cb83fd6a7d1523030d135efb5561885ec1"
+    "audio_checksum": "1f3da0e5d49dc07a53e72f983605d5cb83fd6a7d1523030d135efb5561885ec1",
+    "duration_ms": 11304,
+    "trailing_silence_ms": 400,
+    "start_ms": 570244,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 29,
     "text": "Let me hear another sound from <i>you</i>, and you'll keep your Christmas by losing your situation! You're quite a powerful speaker, sir. I wonder you don't go into Parliament.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_29.mp3",
-    "audio_checksum": "b21ca203e25614e183be096f2b06a03afb1abedb11a27b0b8eeced58f1dcc2e1"
+    "audio_checksum": "b21ca203e25614e183be096f2b06a03afb1abedb11a27b0b8eeced58f1dcc2e1",
+    "duration_ms": 10512,
+    "trailing_silence_ms": 400,
+    "start_ms": 581948,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 30,
     "text": "Don't be angry, uncle. Come! Dine with us to-morrow.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_30.mp3",
-    "audio_checksum": "02515a5c0ce68024393ab47e25602cba4b92dd46567fe841a2aefcb30a2ad4e4"
+    "audio_checksum": "02515a5c0ce68024393ab47e25602cba4b92dd46567fe841a2aefcb30a2ad4e4",
+    "duration_ms": 3888,
+    "trailing_silence_ms": 300,
+    "start_ms": 592860,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 31,
     "text": "Scrooge said that he would see him—yes, indeed he did. He went the whole length of the expression, and said that he would see him in that extremity first.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_31.mp3",
-    "audio_checksum": "10fb281a830fb82cb9b3408df622fbdb368d9e618cf4a6fd9ac4fc62bb28a00a"
+    "audio_checksum": "10fb281a830fb82cb9b3408df622fbdb368d9e618cf4a6fd9ac4fc62bb28a00a",
+    "duration_ms": 11520,
+    "trailing_silence_ms": 400,
+    "start_ms": 597048,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 32,
     "text": "But why? Why?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_32.mp3",
-    "audio_checksum": "5db2a9c5af86d1a0880326317f468dbb6a44e30b3f713f76ab55c8aed32c002d"
+    "audio_checksum": "5db2a9c5af86d1a0880326317f468dbb6a44e30b3f713f76ab55c8aed32c002d",
+    "duration_ms": 1968,
+    "trailing_silence_ms": 300,
+    "start_ms": 608968,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 33,
     "text": "Why did you get married?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_33.mp3",
-    "audio_checksum": "4691704f8af7e5166297d256e339c30a2573cfed5e68f9a8cf921676f7f38761"
+    "audio_checksum": "4691704f8af7e5166297d256e339c30a2573cfed5e68f9a8cf921676f7f38761",
+    "duration_ms": 1872,
+    "trailing_silence_ms": 300,
+    "start_ms": 611236,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 34,
     "text": "Because I fell in love.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_34.mp3",
-    "audio_checksum": "a81651f1786cdaaf180d4a3049b9216b5d531220a2ca82c99376ecdd9a757efc"
+    "audio_checksum": "a81651f1786cdaaf180d4a3049b9216b5d531220a2ca82c99376ecdd9a757efc",
+    "duration_ms": 1728,
+    "trailing_silence_ms": 300,
+    "start_ms": 613408,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 35,
     "text": "Because you fell in love! Good afternoon!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_35.mp3",
-    "audio_checksum": "c5b9b0574492eae1c14dc1d250af6713793ec96a64caf7643d5ad07955a19f1d"
+    "audio_checksum": "c5b9b0574492eae1c14dc1d250af6713793ec96a64caf7643d5ad07955a19f1d",
+    "duration_ms": 3168,
+    "trailing_silence_ms": 300,
+    "start_ms": 615436,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 36,
     "text": "Scrooge growled this, as if that were the only one thing in the world more ridiculous than a merry Christmas.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_36.mp3",
-    "audio_checksum": "22ccceef92c87de315b85747ccb4d9b327c15dc739e5457849dea12005df0e3e"
+    "audio_checksum": "22ccceef92c87de315b85747ccb4d9b327c15dc739e5457849dea12005df0e3e",
+    "duration_ms": 7320,
+    "trailing_silence_ms": 400,
+    "start_ms": 618904,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 37,
     "text": "Nay, uncle, but you never came to see me before that happened. Why give it as a reason for not coming now?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_37.mp3",
-    "audio_checksum": "8333b7fb3a294b7c4c25d13573efd1b39df050c8796ece41ba01d14a7122751e"
+    "audio_checksum": "8333b7fb3a294b7c4c25d13573efd1b39df050c8796ece41ba01d14a7122751e",
+    "duration_ms": 6240,
+    "trailing_silence_ms": 300,
+    "start_ms": 626624,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 38,
     "text": "Good afternoon.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_38.mp3",
-    "audio_checksum": "0e351c3d36f5f8410c6d5cfc65382a1a37fca2b5f826b8bd81de1edba0ea845d"
+    "audio_checksum": "0e351c3d36f5f8410c6d5cfc65382a1a37fca2b5f826b8bd81de1edba0ea845d",
+    "duration_ms": 1368,
+    "trailing_silence_ms": 300,
+    "start_ms": 633164,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 39,
     "text": "I want nothing from you; I ask nothing of you; why cannot we be friends?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_39.mp3",
-    "audio_checksum": "b74c4655fdbd77881ef855eb6720fe1d1b8901764eb3a0405ff4f60bdec40f25"
+    "audio_checksum": "b74c4655fdbd77881ef855eb6720fe1d1b8901764eb3a0405ff4f60bdec40f25",
+    "duration_ms": 5112,
+    "trailing_silence_ms": 300,
+    "start_ms": 634832,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 40,
     "text": "Good afternoon.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_40.mp3",
-    "audio_checksum": "f9aa7afa81e495671e55462c23e408c865b8eb1bb7cfec13ee48f28f6240d6d8"
+    "audio_checksum": "f9aa7afa81e495671e55462c23e408c865b8eb1bb7cfec13ee48f28f6240d6d8",
+    "duration_ms": 1272,
+    "trailing_silence_ms": 300,
+    "start_ms": 640244,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 41,
     "text": "I am sorry, with all my heart, to find you so resolute. We have never had any quarrel, to which I have been a party. But I have made the trial in homage to Christmas, and I'll keep my Christmas humour to the last. So A Merry Christmas, uncle!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_41.mp3",
-    "audio_checksum": "65b1a04ce4bc0d60fcdfaedda02c6967c3bcbc56c1a2b4a9afd529462d685bd3"
+    "audio_checksum": "65b1a04ce4bc0d60fcdfaedda02c6967c3bcbc56c1a2b4a9afd529462d685bd3",
+    "duration_ms": 14448,
+    "trailing_silence_ms": 300,
+    "start_ms": 641816,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 42,
     "text": "Good afternoon!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_42.mp3",
-    "audio_checksum": "189ecca70418dc4dc19f2cbc2bfef208e6c378a85c50f2eba14595bc82e34a86"
+    "audio_checksum": "189ecca70418dc4dc19f2cbc2bfef208e6c378a85c50f2eba14595bc82e34a86",
+    "duration_ms": 1488,
+    "trailing_silence_ms": 300,
+    "start_ms": 656564,
+    "speed": 1.0
   },
   {
     "character_identifier": "NEPHEW",
     "ordinal": 43,
     "text": "And A Happy New Year!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_43.mp3",
-    "audio_checksum": "9b148c7d43136ec7c370ed1194c9bff75dbceb448cee0527eb6e30949e071687"
+    "audio_checksum": "9b148c7d43136ec7c370ed1194c9bff75dbceb448cee0527eb6e30949e071687",
+    "duration_ms": 2112,
+    "trailing_silence_ms": 300,
+    "start_ms": 658352,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 44,
     "text": "Good afternoon!",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_44.mp3",
-    "audio_checksum": "984172d355a0bc57952dd300650c8f66206d86dd548a023819ca6c1f395aa9d2"
+    "audio_checksum": "984172d355a0bc57952dd300650c8f66206d86dd548a023819ca6c1f395aa9d2",
+    "duration_ms": 1608,
+    "trailing_silence_ms": 500,
+    "start_ms": 660764,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 45,
     "text": "His nephew left the room without an angry word, notwithstanding. He stopped at the outer door to bestow the greetings of the season on the clerk, who, cold as he was, was warmer than Scrooge; for he returned them cordially.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_45.mp3",
-    "audio_checksum": "9212a939c8da705f0a4834b392466b01ed3d43296ef57057beab86329fdbea06"
+    "audio_checksum": "9212a939c8da705f0a4834b392466b01ed3d43296ef57057beab86329fdbea06",
+    "duration_ms": 16416,
+    "trailing_silence_ms": 500,
+    "start_ms": 662872,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 46,
     "text": "There's another fellow, my clerk, with fifteen shillings a week, and a wife and family, talking about a merry Christmas. I'll retire to Bedlam.",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_46.mp3",
-    "audio_checksum": "d5c4d7f5ffc45d90a51a32d085c64c0613c586a348a89bc46528cec981fd8879"
+    "audio_checksum": "d5c4d7f5ffc45d90a51a32d085c64c0613c586a348a89bc46528cec981fd8879",
+    "duration_ms": 10632,
+    "trailing_silence_ms": 600,
+    "start_ms": 679788,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 47,
     "text": "This lunatic, in letting Scrooge's nephew out, had let two other people in. They were portly gentlemen, pleasant to behold, and now stood, with their hats off, in Scrooge's office. They had books and papers in their hands, and bowed to him.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_47.mp3",
-    "audio_checksum": "e104359d711641fc4b7fac8a6b18f1c775e67b25d37993b621e7f548665f7ecb"
+    "audio_checksum": "e104359d711641fc4b7fac8a6b18f1c775e67b25d37993b621e7f548665f7ecb",
+    "duration_ms": 16344,
+    "trailing_silence_ms": 400,
+    "start_ms": 691020,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 48,
     "text": "Scrooge and Marley's, I believe. Have I the pleasure of addressing Mr. Scrooge, or Mr. Marley?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_48.mp3",
-    "audio_checksum": "3ffd9dcdd5d3fdbff6536d1af33972dedad781f2dc12cca06a7b00033909bf74"
+    "audio_checksum": "3ffd9dcdd5d3fdbff6536d1af33972dedad781f2dc12cca06a7b00033909bf74",
+    "duration_ms": 6120,
+    "trailing_silence_ms": 300,
+    "start_ms": 707764,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 49,
     "text": "Mr. Marley has been dead these seven years. He died seven years ago, this very night.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_49.mp3",
-    "audio_checksum": "d4ddefee7b51b541a7f5bfeb222faddc9c5561335f88284f737ff07f4530f8c4"
+    "audio_checksum": "d4ddefee7b51b541a7f5bfeb222faddc9c5561335f88284f737ff07f4530f8c4",
+    "duration_ms": 6456,
+    "trailing_silence_ms": 400,
+    "start_ms": 714184,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_2",
     "ordinal": 50,
     "text": "We have no doubt his liberality is well represented by his surviving partner.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_50.mp3",
-    "audio_checksum": "6603b61b1ffe08033cacaeea025d7b3e234d3eb4daec7f335944d73a054812bd"
+    "audio_checksum": "6603b61b1ffe08033cacaeea025d7b3e234d3eb4daec7f335944d73a054812bd",
+    "duration_ms": 4440,
+    "trailing_silence_ms": 300,
+    "start_ms": 721040,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 51,
     "text": "The gentleman presented his credentials. It certainly was; for they had been two kindred spirits. At the ominous word \"liberality,\" Scrooge frowned, and shook his head, and handed the credentials back.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_51.mp3",
-    "audio_checksum": "e7c12d3c29e2120fd726812fb0450b29bbfc92498866e8114b402c00cbbfc75a"
+    "audio_checksum": "e7c12d3c29e2120fd726812fb0450b29bbfc92498866e8114b402c00cbbfc75a",
+    "duration_ms": 14304,
+    "trailing_silence_ms": 400,
+    "start_ms": 725780,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 52,
     "text": "At this festive season of the year, Mr. Scrooge, it is more than usually desirable that we should make some slight provision for the Poor and destitute, who suffer greatly at the present time. Many thousands are in want of common necessaries; hundreds of thousands are in want of common comforts, sir.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_52.mp3",
-    "audio_checksum": "0fea94834951fd211c9fb55a08c2d6605f56b1dc9d100073ca3b62f040d50119"
+    "audio_checksum": "0fea94834951fd211c9fb55a08c2d6605f56b1dc9d100073ca3b62f040d50119",
+    "duration_ms": 17256,
+    "trailing_silence_ms": 400,
+    "start_ms": 740484,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 53,
     "text": "Are there no prisons?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_53.mp3",
-    "audio_checksum": "0e989a552aba3d81bee14762c0280e86d7785ab2ed487684f979514d2d71333a"
+    "audio_checksum": "0e989a552aba3d81bee14762c0280e86d7785ab2ed487684f979514d2d71333a",
+    "duration_ms": 2040,
+    "trailing_silence_ms": 300,
+    "start_ms": 758140,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 54,
     "text": "Plenty of prisons.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_54.mp3",
-    "audio_checksum": "b2ba595be2d6aa5f7958e4969fcb6ff3653b9707e160a8695235c4882fb45519"
+    "audio_checksum": "b2ba595be2d6aa5f7958e4969fcb6ff3653b9707e160a8695235c4882fb45519",
+    "duration_ms": 1488,
+    "trailing_silence_ms": 300,
+    "start_ms": 760480,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 55,
     "text": "The gentleman laid down the pen again.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_55.mp3",
-    "audio_checksum": "dd90120755d64664d0d164e46459de7b690f0c2e73aa795a7f46d612084369ae"
+    "audio_checksum": "dd90120755d64664d0d164e46459de7b690f0c2e73aa795a7f46d612084369ae",
+    "duration_ms": 2736,
+    "trailing_silence_ms": 300,
+    "start_ms": 762268,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 56,
     "text": "And the Union workhouses? Are they still in operation?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_56.mp3",
-    "audio_checksum": "858f9ea449c32fbd0059b90de184ad23e1bb8deb2860f0d09dc561c2c314e381"
+    "audio_checksum": "858f9ea449c32fbd0059b90de184ad23e1bb8deb2860f0d09dc561c2c314e381",
+    "duration_ms": 3720,
+    "trailing_silence_ms": 300,
+    "start_ms": 765304,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 57,
     "text": "They are. Still, I wish I could say they were not.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_57.mp3",
-    "audio_checksum": "7f50d2979ab52ee031f8f8180bc91f1e217d3a9cdb37ef48c6c361aa9ded8c1a"
+    "audio_checksum": "7f50d2979ab52ee031f8f8180bc91f1e217d3a9cdb37ef48c6c361aa9ded8c1a",
+    "duration_ms": 5208,
+    "trailing_silence_ms": 300,
+    "start_ms": 769324,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 58,
     "text": "The Treadmill and the Poor Law are in full vigour, then?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_58.mp3",
-    "audio_checksum": "8b1475ac025e6462bf2cf1cb0bfc82b6cff75c5fc34d1b8de420f15aca8cb7a1"
+    "audio_checksum": "8b1475ac025e6462bf2cf1cb0bfc82b6cff75c5fc34d1b8de420f15aca8cb7a1",
+    "duration_ms": 4128,
+    "trailing_silence_ms": 300,
+    "start_ms": 774832,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_2",
     "ordinal": 59,
     "text": "Both very busy, sir.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_59.mp3",
-    "audio_checksum": "edcace9a866313b09039eb01a6ec86764f8eea66f8fabf324422a1af419a12fd"
+    "audio_checksum": "edcace9a866313b09039eb01a6ec86764f8eea66f8fabf324422a1af419a12fd",
+    "duration_ms": 2328,
+    "trailing_silence_ms": 300,
+    "start_ms": 779260,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 60,
     "text": "Oh! I was afraid, from what you said at first, that something had occurred to stop them in their useful course. I'm very glad to hear it.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_60.mp3",
-    "audio_checksum": "487ec6ae9d2ac577dbc3a5bb136d88ed8b1583572fa0754321bad9cefcf8f6fd"
+    "audio_checksum": "487ec6ae9d2ac577dbc3a5bb136d88ed8b1583572fa0754321bad9cefcf8f6fd",
+    "duration_ms": 9216,
+    "trailing_silence_ms": 400,
+    "start_ms": 781888,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 61,
     "text": "Under the impression that they scarcely furnish Christian cheer of mind or body to the multitude, a few of us are endeavouring to raise a fund to buy the Poor some meat and drink, and means of warmth. We choose this time, because it is a time, of all others, when Want is keenly felt, and Abundance rejoices. What shall I put you down for?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_61.mp3",
-    "audio_checksum": "5668606b0c1dc09702a245e6067e9ed5f963c28fca6b6ac661f3f3793d8b3e61"
+    "audio_checksum": "5668606b0c1dc09702a245e6067e9ed5f963c28fca6b6ac661f3f3793d8b3e61",
+    "duration_ms": 20256,
+    "trailing_silence_ms": 300,
+    "start_ms": 791504,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 62,
     "text": "Nothing!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_62.mp3",
-    "audio_checksum": "88e8cb4fada6ee7e95114a07a5a799482be80e6a2f42c8427a04e595719eb15e"
+    "audio_checksum": "88e8cb4fada6ee7e95114a07a5a799482be80e6a2f42c8427a04e595719eb15e",
+    "duration_ms": 1440,
+    "trailing_silence_ms": 300,
+    "start_ms": 812060,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 63,
     "text": "You wish to be anonymous?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_63.mp3",
-    "audio_checksum": "ef94c83686e27a775b880234b3032d4f85f5fb4bfa7687ffca2651c8b1e68405"
+    "audio_checksum": "ef94c83686e27a775b880234b3032d4f85f5fb4bfa7687ffca2651c8b1e68405",
+    "duration_ms": 1632,
+    "trailing_silence_ms": 300,
+    "start_ms": 813800,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 64,
     "text": "I wish to be left alone. Since you ask me what I wish, gentlemen, that is my answer. I don't make merry myself at Christmas and I can't afford to make idle people merry. I help to support the establishments I have mentioned—they cost enough; and those who are badly off must go there.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_64.mp3",
-    "audio_checksum": "4e9224d47c185336c7df64fdb56af93859ef648a81d7d3fa453ce825a17c5891"
+    "audio_checksum": "4e9224d47c185336c7df64fdb56af93859ef648a81d7d3fa453ce825a17c5891",
+    "duration_ms": 17520,
+    "trailing_silence_ms": 400,
+    "start_ms": 815732,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 65,
     "text": "Many can't go there; and many would rather die.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_65.mp3",
-    "audio_checksum": "d9b9e9b73e8360dedf91715b01665481c6831668da29a8f3922b74c5e4b9eb1f"
+    "audio_checksum": "d9b9e9b73e8360dedf91715b01665481c6831668da29a8f3922b74c5e4b9eb1f",
+    "duration_ms": 3408,
+    "trailing_silence_ms": 300,
+    "start_ms": 833652,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 66,
     "text": "If they would rather die, they had better do it, and decrease the surplus population. Besides—excuse me—I don't know that.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_66.mp3",
-    "audio_checksum": "e42c595739bd79bbdabd5ee842d441759cccfa8221d70144330c2c41ccb1606b"
+    "audio_checksum": "e42c595739bd79bbdabd5ee842d441759cccfa8221d70144330c2c41ccb1606b",
+    "duration_ms": 9384,
+    "trailing_silence_ms": 400,
+    "start_ms": 837360,
+    "speed": 1.0
   },
   {
     "character_identifier": "GENTLEMAN_1",
     "ordinal": 67,
     "text": "But you might know it.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_67.mp3",
-    "audio_checksum": "5e75be3e8e67ea59819e2fc36e633d0927fc34138d605bfd22591604d5f50c5a"
+    "audio_checksum": "5e75be3e8e67ea59819e2fc36e633d0927fc34138d605bfd22591604d5f50c5a",
+    "duration_ms": 1800,
+    "trailing_silence_ms": 300,
+    "start_ms": 847144,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 68,
     "text": "It's not my business. It's enough for a man to understand his own business, and not to interfere with other people's. Mine occupies me constantly. Good afternoon, gentlemen!",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_68.mp3",
-    "audio_checksum": "df9bf6ba4a8eb5cea08ac217acfc7d647941c3c24be2eb8206581c0f111cc626"
+    "audio_checksum": "df9bf6ba4a8eb5cea08ac217acfc7d647941c3c24be2eb8206581c0f111cc626",
+    "duration_ms": 10824,
+    "trailing_silence_ms": 600,
+    "start_ms": 849244,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 69,
     "text": "Seeing clearly that it would be useless to pursue their point, the gentlemen withdrew. Scrooge resumed his labours with an improved opinion of himself, and in a more facetious temper than was usual with him.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_69.mp3",
-    "audio_checksum": "6be24907b4952d8f5697bfc6eb17cb9588ff696f8340f50caecfb2ca7ba8de76"
+    "audio_checksum": "6be24907b4952d8f5697bfc6eb17cb9588ff696f8340f50caecfb2ca7ba8de76",
+    "duration_ms": 13368,
+    "trailing_silence_ms": 300,
+    "start_ms": 860668,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 70,
     "text": "Meanwhile the fog and darkness thickened so, that people ran about with flaring links, proffering their services to go before horses in carriages, and conduct them on their way. The ancient tower of a church, whose gruff old bell was always peeping slily down at Scrooge out of a Gothic window in the wall, became invisible, and struck the hours and quarters in the clouds, with tremulous vibrations afterwards as if its teeth were chattering in its frozen head up there. The cold became intense. In the main street, at the corner of the court, some labourers were repairing the gas-pipes, and had lighted a great fire in a brazier, round which a party of ragged men and boys were gathered: warming their hands and winking their eyes before the blaze in rapture. The water-plug being left in solitude, its overflowings sullenly congealed, and turned to misanthropic ice. The brightness of the shops where holly sprigs and berries crackled in the lamp heat of the windows, made pale faces ruddy as they passed. Poulterers' and grocers' trades became a splendid joke: a glorious pageant, with which it was next to impossible to believe that such dull principles as bargain and sale had anything to do. The Lord Mayor, in the stronghold of the mighty Mansion House, gave orders to his fifty cooks and butlers to keep Christmas as a Lord Mayor's household should; and even the little tailor, whom he had fined five shillings on the previous Monday for being drunk and bloodthirsty in the streets, stirred up to-morrow's pudding in his garret, while his lean wife and the baby sallied out to buy the beef.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_70.mp3",
-    "audio_checksum": "32a4b0e7239c8e31b6c2f094ef5545be908fa4499eb088d076e5856363caa235"
+    "audio_checksum": "32a4b0e7239c8e31b6c2f094ef5545be908fa4499eb088d076e5856363caa235",
+    "duration_ms": 100224,
+    "trailing_silence_ms": 300,
+    "start_ms": 874336,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 71,
     "text": "Foggier yet, and colder. Piercing, searching, biting cold. If the good Saint Dunstan had but nipped the Evil Spirit's nose with a touch of such weather as that, instead of using his familiar weapons, then indeed he would have roared to lusty purpose. The owner of one scant young nose, gnawed and mumbled by the hungry cold as bones are gnawed by dogs, stooped down at Scrooge's keyhole to regale him with a Christmas carol but at the first sound of",
-    "trailing_silence": 0.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_71.mp3",
-    "audio_checksum": "f99cfda4fc7247f8382205e5c8adfca6a3120b653e51d50dda6e54daa8cdb8c2"
+    "audio_checksum": "f99cfda4fc7247f8382205e5c8adfca6a3120b653e51d50dda6e54daa8cdb8c2",
+    "duration_ms": 28944,
+    "trailing_silence_ms": 0,
+    "start_ms": 974860,
+    "speed": 1.0
   },
   {
     "character_identifier": "CAROLER",
     "ordinal": 72,
     "text": "God bless you merry gentleman! May nothing you dismay!",
-    "trailing_silence": 0.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_72.mp3",
-    "audio_checksum": "e311ee0bfbdff8023203d74ec009e8251e9f6cebee84419494c5275a9af706b2"
+    "audio_checksum": "e311ee0bfbdff8023203d74ec009e8251e9f6cebee84419494c5275a9af706b2",
+    "duration_ms": 4104,
+    "trailing_silence_ms": 0,
+    "start_ms": 1003804,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 73,
     "text": "Scrooge seized the ruler with such energy of action, that the singer fled in terror, leaving the keyhole to the fog and even more congenial frost.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_73.mp3",
-    "audio_checksum": "33bf9b2eeefbd8222347eab62305de01109f67b8bc629e16c1a2f7e59a68fae9"
+    "audio_checksum": "33bf9b2eeefbd8222347eab62305de01109f67b8bc629e16c1a2f7e59a68fae9",
+    "duration_ms": 10608,
+    "trailing_silence_ms": 300,
+    "start_ms": 1007908,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 74,
     "text": "At length the hour of shutting up the counting-house arrived. With an ill-will Scrooge dismounted from his stool, and tacitly admitted the fact to the expectant clerk in the Tank, who instantly snuffed his candle out, and put on his hat.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_74.mp3",
-    "audio_checksum": "43b9c41d2d9a6142a347e15a577ea88b5f76bc5e47b8c0fa7ffd40137e726675"
+    "audio_checksum": "43b9c41d2d9a6142a347e15a577ea88b5f76bc5e47b8c0fa7ffd40137e726675",
+    "duration_ms": 16344,
+    "trailing_silence_ms": 400,
+    "start_ms": 1018816,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 75,
     "text": "You'll want all day to-morrow, I suppose?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_75.mp3",
-    "audio_checksum": "4d926c3b1613e3387682d11e4c9e342165bda1aba70f393a79317849fb86c65f"
+    "audio_checksum": "4d926c3b1613e3387682d11e4c9e342165bda1aba70f393a79317849fb86c65f",
+    "duration_ms": 3048,
+    "trailing_silence_ms": 300,
+    "start_ms": 1035560,
+    "speed": 1.0
   },
   {
     "character_identifier": "CLERK",
     "ordinal": 76,
     "text": "If quite convenient, sir.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_76.mp3",
-    "audio_checksum": "db9e2665e50f179af95315b1841345c4c9aa80b53697192f35f93a811ce3315a"
+    "audio_checksum": "db9e2665e50f179af95315b1841345c4c9aa80b53697192f35f93a811ce3315a",
+    "duration_ms": 2112,
+    "trailing_silence_ms": 300,
+    "start_ms": 1038908,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 77,
     "text": "It's not convenient, and it's not fair. If I was to stop half-a-crown for it, you'd think yourself ill-used, I'll be bound?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_77.mp3",
-    "audio_checksum": "28dbd2bedf0e099b5f40a705eb0083ded97e87626dc04a3b56df52244c2f71e2"
+    "audio_checksum": "28dbd2bedf0e099b5f40a705eb0083ded97e87626dc04a3b56df52244c2f71e2",
+    "duration_ms": 7992,
+    "trailing_silence_ms": 300,
+    "start_ms": 1041320,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 78,
     "text": "The clerk smiled faintly.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_78.mp3",
-    "audio_checksum": "9557966273b20600f50a737b82b773e59d8dfa4dea0e24c08df92f96f4fb33fa"
+    "audio_checksum": "9557966273b20600f50a737b82b773e59d8dfa4dea0e24c08df92f96f4fb33fa",
+    "duration_ms": 2088,
+    "trailing_silence_ms": 300,
+    "start_ms": 1049612,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 79,
     "text": "And yet, you don't think <i>me</i> ill-used, when I pay a day's wages for no work.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_79.mp3",
-    "audio_checksum": "bea6723b093a35c5cec998c73841196fb5b240ccc5354615a1fa4b36a5331871"
+    "audio_checksum": "bea6723b093a35c5cec998c73841196fb5b240ccc5354615a1fa4b36a5331871",
+    "duration_ms": 5952,
+    "trailing_silence_ms": 300,
+    "start_ms": 1052000,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 80,
     "text": "The clerk observed that it was only once a year.",
-    "trailing_silence": 0.1,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_80.mp3",
-    "audio_checksum": "01ff95d312c7b947f3f58507c75c5d73f7655119de11e7d5b67a9d6c0cfb34de"
+    "audio_checksum": "01ff95d312c7b947f3f58507c75c5d73f7655119de11e7d5b67a9d6c0cfb34de",
+    "duration_ms": 2616,
+    "trailing_silence_ms": 100,
+    "start_ms": 1058252,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 81,
     "text": "A poor excuse for picking a man's pocket every twenty-fifth of December! But I suppose you must have the whole day. Be here all the earlier next morning.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_81.mp3",
-    "audio_checksum": "f353c182149d0a1b2567bb93dbbe4d85b964257c9e59f66c013b4c4ac73f176f"
+    "audio_checksum": "f353c182149d0a1b2567bb93dbbe4d85b964257c9e59f66c013b4c4ac73f176f",
+    "duration_ms": 10464,
+    "trailing_silence_ms": 400,
+    "start_ms": 1060968,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 82,
     "text": "The clerk promised that he would; and Scrooge walked out with a growl. The office was closed in a twinkling, and the clerk, with the long ends of his white comforter dangling below his waist (for he boasted no great-coat), went down a slide on Cornhill, at the end of a lane of boys, twenty times, in honour of its being Christmas Eve, and then ran home to Camden Town as hard as he could pelt, to play at blindman's-buff.",
-    "trailing_silence": 0.7,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_82.mp3",
-    "audio_checksum": "ca1b98d914ec55a47fc1a9409426875d2ac3b253a87df7d49c50b8003405988f"
+    "audio_checksum": "ca1b98d914ec55a47fc1a9409426875d2ac3b253a87df7d49c50b8003405988f",
+    "duration_ms": 31224,
+    "trailing_silence_ms": 700,
+    "start_ms": 1071832,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 83,
     "text": "Scrooge took his melancholy dinner in his usual melancholy tavern; and having read all the newspapers, and beguiled the rest of the evening with his banker's-book, went home to bed. He lived in chambers which had once belonged to his deceased partner. They were a gloomy suite of rooms, in a lowering pile of building up a yard, where it had so little business to be, that one could scarcely help fancying it must have run there when it was a young house, playing at hide-and-seek with other houses, and forgotten the way out again. It was old enough now, and dreary enough, for nobody lived in it but Scrooge, the other rooms being all let out as offices. The yard was so dark that even Scrooge, who knew its every stone, was fain to grope with his hands. The fog and frost so hung about the black old gateway of the house, that it seemed as if the Genius of the Weather sat in mournful meditation on the threshold.",
-    "trailing_silence": 0.8,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_83.mp3",
-    "audio_checksum": "9da6ea93ae818974e92889e145e59a1e69b09a4e501096f4be5cd81ef66d5e8f"
+    "audio_checksum": "9da6ea93ae818974e92889e145e59a1e69b09a4e501096f4be5cd81ef66d5e8f",
+    "duration_ms": 65184,
+    "trailing_silence_ms": 800,
+    "start_ms": 1103756,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 84,
     "text": "Now, it is a fact, that there was nothing at all particular about the knocker on the door, except that it was very large. It is also a fact, that Scrooge had seen it, night and morning, during his whole residence in that place; also that Scrooge had as little of what is called fancy about him as any man in the city of London, even including—which is a bold word—the corporation, aldermen, and livery. Let it also be borne in mind that Scrooge had not bestowed one thought on Marley, since his last mention of his seven years' dead partner that afternoon. And then let any man explain to me, if he can, how it happened that Scrooge, having his key in the lock of the door, saw in the knocker, without its undergoing any intermediate process of change—not a knocker, but Marley's face.",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_84.mp3",
-    "audio_checksum": "3e625755d81365845452b5c2ec0f18f58e05d8bd6d5a1f9d936524006840e2ca"
+    "audio_checksum": "3e625755d81365845452b5c2ec0f18f58e05d8bd6d5a1f9d936524006840e2ca",
+    "duration_ms": 56184,
+    "trailing_silence_ms": 600,
+    "start_ms": 1169740,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 85,
     "text": "Marley's face. It was not in impenetrable shadow as the other objects in the yard were, but had a dismal light about it, like a bad lobster in a dark cellar. It was not angry or ferocious, but looked at Scrooge as Marley used to look: with ghostly spectacles turned up on its ghostly forehead. The hair was curiously stirred, as if by breath or hot air; and, though the eyes were wide open, they were perfectly motionless. That, and its livid colour, made it horrible; but its horror seemed to be in spite of the face and beyond its control, rather than a part of its own expression.",
-    "trailing_silence": 0.2,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_85.mp3",
-    "audio_checksum": "e3939701ea1c99d05d751495672cf3fb9938b8771c3c3a4bccbeda2893603843"
+    "audio_checksum": "e3939701ea1c99d05d751495672cf3fb9938b8771c3c3a4bccbeda2893603843",
+    "duration_ms": 35184,
+    "trailing_silence_ms": 200,
+    "start_ms": 1226524,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 86,
     "text": "As Scrooge looked fixedly at this phenomenon, it was a knocker again.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_86.mp3",
-    "audio_checksum": "a0c07ab392bdc6118129f6e2b0d4c92aa0829e91138e00d3b22a60f8e187174b"
+    "audio_checksum": "a0c07ab392bdc6118129f6e2b0d4c92aa0829e91138e00d3b22a60f8e187174b",
+    "duration_ms": 4968,
+    "trailing_silence_ms": 500,
+    "start_ms": 1261908,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 87,
     "text": "To say that he was not startled, or that his blood was not conscious of a terrible sensation to which it had been a stranger from infancy, would be untrue. But he put his hand upon the key he had relinquished, turned it sturdily, walked in, and lighted his candle.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_87.mp3",
-    "audio_checksum": "fabde2adba0489080d9a311c4d4f570e0f4964925b523d226aba349f4863df2c"
+    "audio_checksum": "fabde2adba0489080d9a311c4d4f570e0f4964925b523d226aba349f4863df2c",
+    "duration_ms": 19440,
+    "trailing_silence_ms": 500,
+    "start_ms": 1267376,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 88,
     "text": "He <i>did</i> pause, with a moment's irresolution, before he shut the door; and he <i>did</i> look cautiously behind it first, as if he half expected to be terrified with the sight of Marley's pigtail sticking out into the hall. But there was nothing on the back of the door, except the screws and nuts that held the knocker on, so he said \"Pooh! Pooh!\" and closed it with a bang.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_88.mp3",
-    "audio_checksum": "de644be7b3fc5d9f36ae6487c08f2548c0c6fdde220aa5493cb6accc98fee3d2"
+    "audio_checksum": "de644be7b3fc5d9f36ae6487c08f2548c0c6fdde220aa5493cb6accc98fee3d2",
+    "duration_ms": 22464,
+    "trailing_silence_ms": 300,
+    "start_ms": 1287316,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 89,
     "text": "The sound resounded through the house like thunder. Every room above, and every cask in the wine-merchant's cellars below, appeared to have a separate peal of echoes of its own. Scrooge was not a man to be frightened by echoes. He fastened the door, and walked across the hall, and up the stairs; slowly too: trimming his candle as he went.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_89.mp3",
-    "audio_checksum": "134e134ec73d9b6a9eac03f0def9727336352f914f540996b6f5cce7b7bed830"
+    "audio_checksum": "134e134ec73d9b6a9eac03f0def9727336352f914f540996b6f5cce7b7bed830",
+    "duration_ms": 21384,
+    "trailing_silence_ms": 300,
+    "start_ms": 1310080,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 90,
     "text": "You may talk vaguely about driving a coach-and-six up a good old flight of stairs, or through a bad young Act of Parliament; but I mean to say you might have got a hearse up that staircase, and taken it broadwise, with the splinter-bar towards the wall and the door towards the balustrades: and done it easy. There was plenty of width for that, and room to spare; which is perhaps the reason why Scrooge thought he saw a locomotive hearse going on before him in the gloom. Half-a-dozen gas-lamps out of the street wouldn't have lighted the entry too well, so you may suppose that it was pretty dark with Scrooge's dip.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_90.mp3",
-    "audio_checksum": "9c05f921c7d3a33c4fbe3ad6ee514a1b135af3249870e0e72a2c593f986082fd"
+    "audio_checksum": "9c05f921c7d3a33c4fbe3ad6ee514a1b135af3249870e0e72a2c593f986082fd",
+    "duration_ms": 38520,
+    "trailing_silence_ms": 300,
+    "start_ms": 1331764,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 91,
     "text": "Up Scrooge went, not caring a button for that. Darkness is cheap, and Scrooge liked it. But before he shut his heavy door, he walked through his rooms to see that all was right. He had just enough recollection of the face to desire to do that.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_91.mp3",
-    "audio_checksum": "2c8eff9f1be8470cc072ad0aac2120d597bb596986489441ec14ff4c93e76925"
+    "audio_checksum": "2c8eff9f1be8470cc072ad0aac2120d597bb596986489441ec14ff4c93e76925",
+    "duration_ms": 17448,
+    "trailing_silence_ms": 300,
+    "start_ms": 1370584,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 92,
     "text": "Sitting-room, bedroom, lumber-room. All as they should be. Nobody under the table, nobody under the sofa; a small fire in the grate; spoon and basin ready; and the little saucepan of gruel (Scrooge had a cold in his head) upon the hob. Nobody under the bed; nobody in the closet; nobody in his dressing-gown, which was hanging up in a suspicious attitude against the wall. Lumber-room as usual. Old fire-guard, old shoes, two fish-baskets, washing-stand on three legs, and a poker.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_92.mp3",
-    "audio_checksum": "b06ebffce6f746b41aa1747791e4f58ed7d311477523620bbd42413274c2d507"
+    "audio_checksum": "b06ebffce6f746b41aa1747791e4f58ed7d311477523620bbd42413274c2d507",
+    "duration_ms": 29544,
+    "trailing_silence_ms": 300,
+    "start_ms": 1388332,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 93,
     "text": "Quite satisfied, he closed his door, and locked himself in; double-locked himself in, which was not his custom. Thus secured against surprise, he took off his cravat; put on his dressing-gown and slippers, and his nightcap; and sat down before the fire to take his gruel.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_93.mp3",
-    "audio_checksum": "55d0b403a768aa2ae90f594a16947977b55c941944ef0c711f8d33a7fcb7e19b"
+    "audio_checksum": "55d0b403a768aa2ae90f594a16947977b55c941944ef0c711f8d33a7fcb7e19b",
+    "duration_ms": 16271,
+    "trailing_silence_ms": 300,
+    "start_ms": 1418176,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 94,
     "text": "It was a very low fire indeed; nothing on such a bitter night. He was obliged to sit close to it, and brood over it, before he could extract the least sensation of warmth from such a handful of fuel. The fireplace was an old one, built by some Dutch merchant long ago, and paved all round with quaint Dutch tiles, designed to illustrate the Scriptures. There were Cains and Abels, Pharaoh's daughters; Queens of Sheba, Angelic messengers descending through the air on clouds like feather-beds, Abrahams, Belshazzars, Apostles putting off to sea in butter-boats, hundreds of figures to attract his thoughts; and yet that face of Marley, seven years dead, came like the ancient Prophet's rod, and swallowed up the whole. If each smooth tile had been a blank at first, with power to shape some picture on its surface from the disjointed fragments of his thoughts, there would have been a copy of old Marley's head on every one.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_94.mp3",
-    "audio_checksum": "d0135f1cf3b4940a4cd87f64e5fd655e4d9789aaad0addcde5d54f08852f660d"
+    "audio_checksum": "d0135f1cf3b4940a4cd87f64e5fd655e4d9789aaad0addcde5d54f08852f660d",
+    "duration_ms": 59904,
+    "trailing_silence_ms": 300,
+    "start_ms": 1434747,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 95,
     "text": "Humbug!",
-    "trailing_silence": 0.2,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_95.mp3",
-    "audio_checksum": "7d781fbec97a489a4bfb16fb262c525e89691fdda579e73d6a65b635853aedd8"
+    "audio_checksum": "7d781fbec97a489a4bfb16fb262c525e89691fdda579e73d6a65b635853aedd8",
+    "duration_ms": 1416,
+    "trailing_silence_ms": 200,
+    "start_ms": 1494951,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 96,
     "text": "Scrooge walked across the room. After several turns, he sat down again. As he threw his head back in the chair, his glance happened to rest upon a bell, a disused bell, that hung in the room, and communicated for some purpose now forgotten with a chamber in the highest story of the building. It was with great astonishment, and with a strange, inexplicable dread, that as he looked, he saw this bell begin to swing. It swung so softly in the outset that it scarcely made a sound; but soon it rang out loudly, and so did every bell in the house.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_96.mp3",
-    "audio_checksum": "45fbdc28d89a3740b775582e52a0b788378d8c86b26b8648206a505758413657"
+    "audio_checksum": "45fbdc28d89a3740b775582e52a0b788378d8c86b26b8648206a505758413657",
+    "duration_ms": 35352,
+    "trailing_silence_ms": 300,
+    "start_ms": 1496567,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 97,
     "text": "This might have lasted half a minute, or a minute, but it seemed an hour. The bells ceased as they had begun, together. They were succeeded by a clanking noise, deep down below; as if some person were dragging a heavy chain over the casks in the wine-merchant's cellar. Scrooge then remembered to have heard that ghosts in haunted houses were described as dragging chains.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_97.mp3",
-    "audio_checksum": "57e7804e8e2c6271cc7ae6106a013c0cfb8bba0ee3958aa6a0a9ddb2af72cd0e"
+    "audio_checksum": "57e7804e8e2c6271cc7ae6106a013c0cfb8bba0ee3958aa6a0a9ddb2af72cd0e",
+    "duration_ms": 24024,
+    "trailing_silence_ms": 300,
+    "start_ms": 1532219,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 98,
     "text": "The cellar-door flew open with a booming sound, and then he heard the noise much louder, on the floors below; then coming up the stairs; then coming straight towards his door.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_98.mp3",
-    "audio_checksum": "21f4732616c87efcea0f7948554690c8f43b016d970f08e773524e530ec1ceee"
+    "audio_checksum": "21f4732616c87efcea0f7948554690c8f43b016d970f08e773524e530ec1ceee",
+    "duration_ms": 12576,
+    "trailing_silence_ms": 500,
+    "start_ms": 1556543,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 99,
     "text": "It's humbug still! I won't believe it.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_99.mp3",
-    "audio_checksum": "f4b9a9db6598c0b19f37d9ae091fa0a862839ba593bfb6abaf8037713db77934"
+    "audio_checksum": "f4b9a9db6598c0b19f37d9ae091fa0a862839ba593bfb6abaf8037713db77934",
+    "duration_ms": 3408,
+    "trailing_silence_ms": 300,
+    "start_ms": 1569619,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 100,
     "text": "His colour changed though, when, without a pause, it came on through the heavy door, and passed into the room before his eyes. Upon its coming in, the dying flame leaped up, as though it cried, \"I know him! Marley's Ghost!\" and fell again.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_100.mp3",
-    "audio_checksum": "ab7570f082c2550673267a2d176ae5a83ec6037b21d2b8f829861fc756740dd9"
+    "audio_checksum": "ab7570f082c2550673267a2d176ae5a83ec6037b21d2b8f829861fc756740dd9",
+    "duration_ms": 16416,
+    "trailing_silence_ms": 300,
+    "start_ms": 1573327,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 101,
     "text": "The same face: the very same. Marley in his pigtail, usual waistcoat, tights and boots; the tassels on the latter bristling, like his pigtail, and his coat-skirts, and the hair upon his head. The chain he drew was clasped about his middle. It was long, and wound about him like a tail; and it was made (for Scrooge observed it closely) of cash-boxes, keys, padlocks, ledgers, deeds, and heavy purses wrought in steel. His body was transparent; so that Scrooge, observing him, and looking through his waistcoat, could see the two buttons on his coat behind.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_101.mp3",
-    "audio_checksum": "c66e59479a931ba39dbde6c9d4e70a89d98513405f0677a896435d9d065b0671"
+    "audio_checksum": "c66e59479a931ba39dbde6c9d4e70a89d98513405f0677a896435d9d065b0671",
+    "duration_ms": 40512,
+    "trailing_silence_ms": 300,
+    "start_ms": 1590043,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 102,
     "text": "Scrooge had often heard it said that Marley had no bowels, but he had never believed it until now.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_102.mp3",
-    "audio_checksum": "722837adbb28a0e7625d8b1c77a9fe7c8819a38e857b0c21492d4451aa28a85e"
+    "audio_checksum": "722837adbb28a0e7625d8b1c77a9fe7c8819a38e857b0c21492d4451aa28a85e",
+    "duration_ms": 5208,
+    "trailing_silence_ms": 300,
+    "start_ms": 1630855,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 103,
     "text": "No, nor did he believe it even now. Though he looked the phantom through and through, and saw it standing before him; though he felt the chilling influence of its death-cold eyes; and marked the very texture of the folded kerchief bound about its head and chin, which wrapper he had not observed before; he was still incredulous, and fought against his senses.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_103.mp3",
-    "audio_checksum": "17ba5ddeaea2959c2a4d4718d9d8ed310d4d5a502ccec3c8100acca41a1a1096"
+    "audio_checksum": "17ba5ddeaea2959c2a4d4718d9d8ed310d4d5a502ccec3c8100acca41a1a1096",
+    "duration_ms": 22944,
+    "trailing_silence_ms": 300,
+    "start_ms": 1636363,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 104,
     "text": "How now! What do you want with me?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_104.mp3",
-    "audio_checksum": "f44a30e8d78f7a47466b64903ee72bac80a3d0c03386c1e0e267ffdc387e9891"
+    "audio_checksum": "f44a30e8d78f7a47466b64903ee72bac80a3d0c03386c1e0e267ffdc387e9891",
+    "duration_ms": 2448,
+    "trailing_silence_ms": 300,
+    "start_ms": 1659607,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 105,
     "text": "Much!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_105.mp3",
-    "audio_checksum": "49a383989d0dd6f384e6e98c0907f368ed7f3a45a3e30d1741fed73af7b407a3"
+    "audio_checksum": "49a383989d0dd6f384e6e98c0907f368ed7f3a45a3e30d1741fed73af7b407a3",
+    "duration_ms": 1032,
+    "trailing_silence_ms": 300,
+    "start_ms": 1662355,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 106,
     "text": "Marley's voice, no doubt about it.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_106.mp3",
-    "audio_checksum": "7031c0792433b90ae1ae5d416cb1c971262d53db3ea91b0ab72b3a6f35e583b2"
+    "audio_checksum": "7031c0792433b90ae1ae5d416cb1c971262d53db3ea91b0ab72b3a6f35e583b2",
+    "duration_ms": 2856,
+    "trailing_silence_ms": 300,
+    "start_ms": 1663687,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 107,
     "text": "Who are you?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_107.mp3",
-    "audio_checksum": "7eedc8426b12a0bfd8246fdb1438ee4ea9bb37582ae8f908c1bc99644f0f4d1f"
+    "audio_checksum": "7eedc8426b12a0bfd8246fdb1438ee4ea9bb37582ae8f908c1bc99644f0f4d1f",
+    "duration_ms": 1632,
+    "trailing_silence_ms": 300,
+    "start_ms": 1666843,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 108,
     "text": "Ask me who I <i>was</i>.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_108.mp3",
-    "audio_checksum": "8317c4f206b278bf71943b2c50509f42b0b98625dba9be4b313e9e98343a0b90"
+    "audio_checksum": "8317c4f206b278bf71943b2c50509f42b0b98625dba9be4b313e9e98343a0b90",
+    "duration_ms": 1800,
+    "trailing_silence_ms": 300,
+    "start_ms": 1668775,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 109,
     "text": "Who <i>were</i> you then? You're particular, for a shade.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_109.mp3",
-    "audio_checksum": "7a8d88787a38d8418d8e3b385d8c16bb9771843ca8e844d64cc3cd2a0a67d454"
+    "audio_checksum": "7a8d88787a38d8418d8e3b385d8c16bb9771843ca8e844d64cc3cd2a0a67d454",
+    "duration_ms": 3720,
+    "trailing_silence_ms": 300,
+    "start_ms": 1670875,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 110,
     "text": "He was going to say \"to a shade,\" but substituted this, as more appropriate.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_110.mp3",
-    "audio_checksum": "dddd71cdc74da0ad2c891d1190b2ae3652042cb820cb97c28be4b7d891d9ee36"
+    "audio_checksum": "dddd71cdc74da0ad2c891d1190b2ae3652042cb820cb97c28be4b7d891d9ee36",
+    "duration_ms": 4656,
+    "trailing_silence_ms": 300,
+    "start_ms": 1674895,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 111,
     "text": "In life I was your partner, Jacob Marley.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_111.mp3",
-    "audio_checksum": "ea971d5ef4305edc91778f9fb5861e80ea2feb7332f71f6b8245e834ebc1f0ef"
+    "audio_checksum": "ea971d5ef4305edc91778f9fb5861e80ea2feb7332f71f6b8245e834ebc1f0ef",
+    "duration_ms": 3744,
+    "trailing_silence_ms": 400,
+    "start_ms": 1679851,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 112,
     "text": "Can you—can you sit down?",
-    "trailing_silence": 0.1,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_112.mp3",
-    "audio_checksum": "d8d5e6355aea74174d68f6605ba21ef485f97db24b6964379e6b46ef9977d596"
+    "audio_checksum": "d8d5e6355aea74174d68f6605ba21ef485f97db24b6964379e6b46ef9977d596",
+    "duration_ms": 1872,
+    "trailing_silence_ms": 100,
+    "start_ms": 1683995,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 113,
     "text": "Scrooge asked this looking doubtfully at him.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_113.mp3",
-    "audio_checksum": "bba5319535de753e76228f23cd9447456dc464a2c9877031c11e8399e0489ae6"
+    "audio_checksum": "bba5319535de753e76228f23cd9447456dc464a2c9877031c11e8399e0489ae6",
+    "duration_ms": 2928,
+    "trailing_silence_ms": 300,
+    "start_ms": 1685967,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 114,
     "text": "I can.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_114.mp3",
-    "audio_checksum": "123149f3d926145c0d86f34a1b06e29b67001eb5b81f51924fac6205b7404b27"
+    "audio_checksum": "123149f3d926145c0d86f34a1b06e29b67001eb5b81f51924fac6205b7404b27",
+    "duration_ms": 1008,
+    "trailing_silence_ms": 300,
+    "start_ms": 1689195,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 115,
     "text": "Do it, then.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_115.mp3",
-    "audio_checksum": "977a7431ccf274a69b7d4baada5e30437e70e4331bb4b3158ba7ec2f6666d8db"
+    "audio_checksum": "977a7431ccf274a69b7d4baada5e30437e70e4331bb4b3158ba7ec2f6666d8db",
+    "duration_ms": 11952,
+    "trailing_silence_ms": 400,
+    "start_ms": 1690503,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 116,
     "text": "Scrooge asked the question, because he didn't know whether a ghost so transparent might find himself in a condition to take a chair; and felt that in the event of its being impossible, it might involve the necessity of an embarrassing explanation. But the ghost sat down on the opposite side of the fireplace, as if he were quite used to it.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_116.mp3",
-    "audio_checksum": "a3b20e3d68be27d867b3e56e566f66c8b733ec26aa7685f0ab9be1d96fb1350c"
+    "audio_checksum": "a3b20e3d68be27d867b3e56e566f66c8b733ec26aa7685f0ab9be1d96fb1350c",
+    "duration_ms": 20544,
+    "trailing_silence_ms": 300,
+    "start_ms": 1702855,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 117,
     "text": "You don't believe in me.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_117.mp3",
-    "audio_checksum": "f6926333e6d70c394dd53e500386ab1bb63b260e9affbd1c1fc676ac5327440d"
+    "audio_checksum": "f6926333e6d70c394dd53e500386ab1bb63b260e9affbd1c1fc676ac5327440d",
+    "duration_ms": 1752,
+    "trailing_silence_ms": 300,
+    "start_ms": 1723699,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 118,
     "text": "I don't.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_118.mp3",
-    "audio_checksum": "f56a2f6d2a174b660c7d4fc58d8f8fe05bbc02ef3eb782d0fcdfe10be5d3e75d"
+    "audio_checksum": "f56a2f6d2a174b660c7d4fc58d8f8fe05bbc02ef3eb782d0fcdfe10be5d3e75d",
+    "duration_ms": 1200,
+    "trailing_silence_ms": 300,
+    "start_ms": 1725751,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 119,
     "text": "What evidence would you have of my reality beyond that of your senses?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_119.mp3",
-    "audio_checksum": "0c1c198c8da2b083dc8761ca75822252ae52252cd02eb3ff4e84954cb5659d35"
+    "audio_checksum": "0c1c198c8da2b083dc8761ca75822252ae52252cd02eb3ff4e84954cb5659d35",
+    "duration_ms": 4608,
+    "trailing_silence_ms": 300,
+    "start_ms": 1727251,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 120,
     "text": "I don't know.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_120.mp3",
-    "audio_checksum": "4627947413553787e6bc09a06c355b33f07e9285b7a88575f4d07aa6d1f9f429"
+    "audio_checksum": "4627947413553787e6bc09a06c355b33f07e9285b7a88575f4d07aa6d1f9f429",
+    "duration_ms": 1560,
+    "trailing_silence_ms": 300,
+    "start_ms": 1732159,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 121,
     "text": "Why do you doubt your senses?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_121.mp3",
-    "audio_checksum": "fb42eb312e6a829dbf82a35a101b7ac24fccc548274ed6792449cb97e833897d"
+    "audio_checksum": "fb42eb312e6a829dbf82a35a101b7ac24fccc548274ed6792449cb97e833897d",
+    "duration_ms": 2088,
+    "trailing_silence_ms": 300,
+    "start_ms": 1734019,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 122,
     "text": "Because, a little thing affects them. A slight disorder of the stomach makes them cheats. You may be an undigested bit of beef, a blot of mustard, a crumb of cheese, a fragment of an underdone potato. There's more of gravy than of grave about you, whatever you are!",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_122.mp3",
-    "audio_checksum": "7fa6f90ae6508192b21a8841208d0067557a3c855e20e68288d6afdfe728517d"
+    "audio_checksum": "7fa6f90ae6508192b21a8841208d0067557a3c855e20e68288d6afdfe728517d",
+    "duration_ms": 17400,
+    "trailing_silence_ms": 500,
+    "start_ms": 1736407,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 123,
     "text": "Scrooge was not much in the habit of cracking jokes, nor did he feel, in his heart, by any means waggish then. The truth is, that he tried to be smart, as a means of distracting his own attention, and keeping down his terror; for the spectre's voice disturbed the very marrow in his bones.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_123.mp3",
-    "audio_checksum": "e67c2cc6e97c10730ac5df71dd5b610807ed0de7dfee8bcd49462a33acfc7d50"
+    "audio_checksum": "e67c2cc6e97c10730ac5df71dd5b610807ed0de7dfee8bcd49462a33acfc7d50",
+    "duration_ms": 19824,
+    "trailing_silence_ms": 500,
+    "start_ms": 1754307,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 124,
     "text": "To sit, staring at those fixed glazed eyes, in silence for a moment, would play, Scrooge felt, the very deuce with him. There was something very awful, too, in the spectre's being provided with an infernal atmosphere of its own. Scrooge could not feel it himself, but this was clearly the case; for though the Ghost sat perfectly motionless, its hair, and skirts, and tassels, were still agitated as by the hot vapour from an oven.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_124.mp3",
-    "audio_checksum": "852d1a2b6e103287173e03d9752bda26551d3b56dd9a961f7cee84276aaacc82"
+    "audio_checksum": "852d1a2b6e103287173e03d9752bda26551d3b56dd9a961f7cee84276aaacc82",
+    "duration_ms": 31152,
+    "trailing_silence_ms": 500,
+    "start_ms": 1774631,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 125,
     "text": "You see this toothpick?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_125.mp3",
-    "audio_checksum": "498605ad866366589de6bf857f9d8ad1c00259cbd2a0fd23152ab05527e9dda8"
+    "audio_checksum": "498605ad866366589de6bf857f9d8ad1c00259cbd2a0fd23152ab05527e9dda8",
+    "duration_ms": 1608,
+    "trailing_silence_ms": 300,
+    "start_ms": 1806283,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 126,
     "text": "Scrooge returned quickly to the charge, for the reason just assigned; and wishing, though it were only for a second, to divert the vision's stony gaze from himself.",
-    "trailing_silence": 0.2,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_126.mp3",
-    "audio_checksum": "2554670c67816cec7fd8d9f14b04885c429e539e0e3d07478714984b65cdde95"
+    "audio_checksum": "2554670c67816cec7fd8d9f14b04885c429e539e0e3d07478714984b65cdde95",
+    "duration_ms": 10152,
+    "trailing_silence_ms": 200,
+    "start_ms": 1808191,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 127,
     "text": "I do.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_127.mp3",
-    "audio_checksum": "ea4b80d0109e8c60d991648c6233f95b299ba52cd9578ef1d161a4f082598e9d"
+    "audio_checksum": "ea4b80d0109e8c60d991648c6233f95b299ba52cd9578ef1d161a4f082598e9d",
+    "duration_ms": 1152,
+    "trailing_silence_ms": 300,
+    "start_ms": 1818543,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 128,
     "text": "You are not looking at it.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_128.mp3",
-    "audio_checksum": "e4d89c60b94492a85144c3c0c02f96a5708e9264f0c00080b54f49d1416ef2dd"
+    "audio_checksum": "e4d89c60b94492a85144c3c0c02f96a5708e9264f0c00080b54f49d1416ef2dd",
+    "duration_ms": 2328,
+    "trailing_silence_ms": 300,
+    "start_ms": 1819995,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 129,
     "text": "But I see it, notwithstanding.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_129.mp3",
-    "audio_checksum": "810ff4d06311e3b230e6f2f53aa9a147351cbb1a4318f10c7d9812985fc3bdc4"
+    "audio_checksum": "810ff4d06311e3b230e6f2f53aa9a147351cbb1a4318f10c7d9812985fc3bdc4",
+    "duration_ms": 2352,
+    "trailing_silence_ms": 300,
+    "start_ms": 1822623,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 130,
     "text": "Well! I have but to swallow this, and be for the rest of my days persecuted by a legion of goblins, all of my own creation. Humbug, I tell you! humbug!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_130.mp3",
-    "audio_checksum": "bede5ccea7405b84b816ba503a03a12e1fb2c47033e6811bce5ef245af1b25c3"
+    "audio_checksum": "bede5ccea7405b84b816ba503a03a12e1fb2c47033e6811bce5ef245af1b25c3",
+    "duration_ms": 10512,
+    "trailing_silence_ms": 300,
+    "start_ms": 1825275,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 131,
     "text": "At this the spirit raised a frightful cry, and shook its chain with such a dismal and appalling noise, that Scrooge held on tight to his chair, to save himself from falling in a swoon. But how much greater was his horror, when the phantom taking off the bandage round its head, as if it were too warm to wear indoors, its lower jaw dropped down upon its breast!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_131.mp3",
-    "audio_checksum": "945a6ea9814738f1a8c042186f0a9ffc39e7f605ac3b9b98299446c20fab638c"
+    "audio_checksum": "945a6ea9814738f1a8c042186f0a9ffc39e7f605ac3b9b98299446c20fab638c",
+    "duration_ms": 22392,
+    "trailing_silence_ms": 300,
+    "start_ms": 1836087,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 132,
     "text": "Scrooge fell upon his knees, and clasped his hands before his face.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_132.mp3",
-    "audio_checksum": "012594393a036bce7dc1e5342e8474ed870f4b5aac67c1ecb84bc4683a3afd6b"
+    "audio_checksum": "012594393a036bce7dc1e5342e8474ed870f4b5aac67c1ecb84bc4683a3afd6b",
+    "duration_ms": 4920,
+    "trailing_silence_ms": 400,
+    "start_ms": 1858779,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 133,
     "text": "Mercy! Dreadful apparition, why do you trouble me?",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_133.mp3",
-    "audio_checksum": "cf2ffab55ccb3f446739e711a2bfc1fb0a14177614b551dfd8b45309a07a09b7"
+    "audio_checksum": "cf2ffab55ccb3f446739e711a2bfc1fb0a14177614b551dfd8b45309a07a09b7",
+    "duration_ms": 5016,
+    "trailing_silence_ms": 400,
+    "start_ms": 1864099,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 134,
     "text": "Man of the worldly mind! do you believe in me or not?",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_134.mp3",
-    "audio_checksum": "da95ff5836bc15605b0f2ebc4322dbbcd16684c7022e3c5e3d4cb6d3b9c86344"
+    "audio_checksum": "da95ff5836bc15605b0f2ebc4322dbbcd16684c7022e3c5e3d4cb6d3b9c86344",
+    "duration_ms": 4152,
+    "trailing_silence_ms": 400,
+    "start_ms": 1869515,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 135,
     "text": "I do. I must. But why do spirits walk the earth, and why do they come to me?",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_135.mp3",
-    "audio_checksum": "e6bb6c131ddf37316f73a280906399d63f172d25836198eec1a1394d67d2060f"
+    "audio_checksum": "e6bb6c131ddf37316f73a280906399d63f172d25836198eec1a1394d67d2060f",
+    "duration_ms": 5712,
+    "trailing_silence_ms": 400,
+    "start_ms": 1874067,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 136,
     "text": "It is required of every man, that the spirit within him should walk abroad among his fellowmen, and travel far and wide; and if that spirit goes not forth in life, it is condemned to do so after death. It is doomed to wander through the world—oh, woe is me!—and witness what it cannot share, but might have shared on earth, and turned to happiness!",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_136.mp3",
-    "audio_checksum": "e9369517af9685b94ef9ebe4013ff37748f3f5e6b058a8f36a8f5f4da18b32c0"
+    "audio_checksum": "e9369517af9685b94ef9ebe4013ff37748f3f5e6b058a8f36a8f5f4da18b32c0",
+    "duration_ms": 24360,
+    "trailing_silence_ms": 600,
+    "start_ms": 1880179,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 137,
     "text": "Again the spectre raised a cry, and shook its chain and wrung its shadowy hands.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_137.mp3",
-    "audio_checksum": "21a37c4614f19c7364144fe060eb6c459c50fb8bf4feeba5d7e32163f39cd708"
+    "audio_checksum": "21a37c4614f19c7364144fe060eb6c459c50fb8bf4feeba5d7e32163f39cd708",
+    "duration_ms": 5880,
+    "trailing_silence_ms": 400,
+    "start_ms": 1905139,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 138,
     "text": "You are fettered. Tell me why?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_138.mp3",
-    "audio_checksum": "33dc8d9b286213c7d89dfc973f1110cd613cec7e86bf01a1c9a17b398b8f3106"
+    "audio_checksum": "33dc8d9b286213c7d89dfc973f1110cd613cec7e86bf01a1c9a17b398b8f3106",
+    "duration_ms": 2760,
+    "trailing_silence_ms": 300,
+    "start_ms": 1911419,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 139,
     "text": "I wear the chain I forged in life. I made it link by link, and yard by yard; I girded it on of my own free will, and of my own free will I wore it. Is its pattern strange to <i>you?</i>",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_139.mp3",
-    "audio_checksum": "0560c248d88d7206b65e654f40e6422d01129c6b23d546896792c0c0b2b63f34"
+    "audio_checksum": "0560c248d88d7206b65e654f40e6422d01129c6b23d546896792c0c0b2b63f34",
+    "duration_ms": 12648,
+    "trailing_silence_ms": 500,
+    "start_ms": 1914479,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 140,
     "text": "Scrooge trembled more and more.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_140.mp3",
-    "audio_checksum": "8ad0157e48580515d5d49fea8595bf88235b9cc0e66178d607dda21d0bab0b2d"
+    "audio_checksum": "8ad0157e48580515d5d49fea8595bf88235b9cc0e66178d607dda21d0bab0b2d",
+    "duration_ms": 2184,
+    "trailing_silence_ms": 300,
+    "start_ms": 1927627,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 141,
     "text": "Or would you know, the weight and length of the strong coil you bear yourself? It was full as heavy and as long as this, seven Christmas Eves ago. You have laboured on it, since. It is a ponderous chain!",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_141.mp3",
-    "audio_checksum": "c7ca1d5934aa24303fd079f571855b8db3a8864fd5e9c6decb3596da3d5ca9aa"
+    "audio_checksum": "c7ca1d5934aa24303fd079f571855b8db3a8864fd5e9c6decb3596da3d5ca9aa",
+    "duration_ms": 14640,
+    "trailing_silence_ms": 500,
+    "start_ms": 1930111,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 142,
     "text": "Scrooge glanced about him on the floor, in the expectation of finding himself surrounded by some fifty or sixty fathoms of iron cable: but he could see nothing.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_142.mp3",
-    "audio_checksum": "199de8e3dddcc8fe3daf61a4fd35b09a32ed15ef3413aebd28e543e650005961"
+    "audio_checksum": "199de8e3dddcc8fe3daf61a4fd35b09a32ed15ef3413aebd28e543e650005961",
+    "duration_ms": 10224,
+    "trailing_silence_ms": 300,
+    "start_ms": 1945251,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 143,
     "text": "Jacob. Old Jacob Marley, tell me more. Speak comfort to me, Jacob!",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_143.mp3",
-    "audio_checksum": "7c3e35112858943ea014ebc7ba276e14de87b4f115c6952578b7f3c4087b097c"
+    "audio_checksum": "7c3e35112858943ea014ebc7ba276e14de87b4f115c6952578b7f3c4087b097c",
+    "duration_ms": 5472,
+    "trailing_silence_ms": 400,
+    "start_ms": 1955775,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 144,
     "text": "I have none to give. It comes from other regions, Ebenezer Scrooge, and is conveyed by other ministers, to other kinds of men. Nor can I tell you what I would. A very little more is all permitted to me. I cannot rest, I cannot stay, I cannot linger anywhere. My spirit never walked beyond our counting-house—mark me!—in life my spirit never roved beyond the narrow limits of our money-changing hole; and weary journeys lie before me!",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_144.mp3",
-    "audio_checksum": "e0031b0e57812de9852ad3509c143cd48f6c30b2cf498fbea3a2c243e06e5e07"
+    "audio_checksum": "e0031b0e57812de9852ad3509c143cd48f6c30b2cf498fbea3a2c243e06e5e07",
+    "duration_ms": 31848,
+    "trailing_silence_ms": 600,
+    "start_ms": 1961647,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 145,
     "text": "It was a habit with Scrooge, whenever he became thoughtful, to put his hands in his breeches pockets. Pondering on what the Ghost had said, he did so now, but without lifting up his eyes, or getting off his knees.",
-    "trailing_silence": 0.2,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_145.mp3",
-    "audio_checksum": "757011010fef026c870cd0b3e9949f4d979e9b379f1dcaf8e9b95ac6a2745496"
+    "audio_checksum": "757011010fef026c870cd0b3e9949f4d979e9b379f1dcaf8e9b95ac6a2745496",
+    "duration_ms": 13392,
+    "trailing_silence_ms": 200,
+    "start_ms": 1994095,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 146,
     "text": "You must have been very slow about it, Jacob.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_146.mp3",
-    "audio_checksum": "dbeb5829fd9739954947c104250d430f31b5d973f2e82fdfc17e8e4cd8120927"
+    "audio_checksum": "dbeb5829fd9739954947c104250d430f31b5d973f2e82fdfc17e8e4cd8120927",
+    "duration_ms": 3072,
+    "trailing_silence_ms": 300,
+    "start_ms": 2007687,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 147,
     "text": "Slow!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_147.mp3",
-    "audio_checksum": "dad50415de7e7495b84403a8374dc87e4a663f4c85c08f6374c07df6e05dbadd"
+    "audio_checksum": "dad50415de7e7495b84403a8374dc87e4a663f4c85c08f6374c07df6e05dbadd",
+    "duration_ms": 1080,
+    "trailing_silence_ms": 300,
+    "start_ms": 2011059,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 148,
     "text": "Seven years dead. And travelling all the time!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_148.mp3",
-    "audio_checksum": "2a63074ee2424653eb04adb787009106988a8dd60be6e8b9f8ff40670429f65e"
+    "audio_checksum": "2a63074ee2424653eb04adb787009106988a8dd60be6e8b9f8ff40670429f65e",
+    "duration_ms": 4440,
+    "trailing_silence_ms": 300,
+    "start_ms": 2012439,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 149,
     "text": "The whole time. No rest, no peace. Incessant torture of remorse.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_149.mp3",
-    "audio_checksum": "20c010fb86412b9ddb29773747c8ef636679b192823592f7951e96b4725a4cc2"
+    "audio_checksum": "20c010fb86412b9ddb29773747c8ef636679b192823592f7951e96b4725a4cc2",
+    "duration_ms": 6864,
+    "trailing_silence_ms": 400,
+    "start_ms": 2017179,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 150,
     "text": "You travel fast?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_150.mp3",
-    "audio_checksum": "f2f7303ef21ff4007b6a591f48b086e1bee4ee69d8d0fa100c9ce846b67fae5a"
+    "audio_checksum": "f2f7303ef21ff4007b6a591f48b086e1bee4ee69d8d0fa100c9ce846b67fae5a",
+    "duration_ms": 1728,
+    "trailing_silence_ms": 300,
+    "start_ms": 2024443,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 151,
     "text": "On the wings of the wind.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_151.mp3",
-    "audio_checksum": "274cfb99ad5f1bed9b87abc4e69ac03399f686265c408ff2708342c140dbcfe7"
+    "audio_checksum": "274cfb99ad5f1bed9b87abc4e69ac03399f686265c408ff2708342c140dbcfe7",
+    "duration_ms": 1800,
+    "trailing_silence_ms": 300,
+    "start_ms": 2026471,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 152,
     "text": "You might have got over a great quantity of ground in seven years.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_152.mp3",
-    "audio_checksum": "463d52037c49cecfcfae43923299d00bb3c4fe11371552753213e3c832a1a6c6"
+    "audio_checksum": "463d52037c49cecfcfae43923299d00bb3c4fe11371552753213e3c832a1a6c6",
+    "duration_ms": 4752,
+    "trailing_silence_ms": 400,
+    "start_ms": 2028571,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 153,
     "text": "The Ghost, on hearing this, set up another cry, and clanked its chain so hideously in the dead silence of the night, that the Ward would have been justified in indicting it for a nuisance.",
-    "trailing_silence": 0.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_153.mp3",
-    "audio_checksum": "9bb9b8d386d9b7490ca3c34be3e25554c1ccfd791b489362bfedfe4a00c319b9"
+    "audio_checksum": "9bb9b8d386d9b7490ca3c34be3e25554c1ccfd791b489362bfedfe4a00c319b9",
+    "duration_ms": 11472,
+    "trailing_silence_ms": 0,
+    "start_ms": 2033723,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 154,
     "text": "Oh! captive, bound, and double-ironed, not to know, that ages of incessant labour by immortal creatures, for this earth must pass into eternity before the good of which it is susceptible is all developed. Not to know that any Christian spirit working kindly in its little sphere, whatever it may be, will find its mortal life too short for its vast means of usefulness. Not to know that no space of regret can make amends for one life's opportunity misused! Yet such was I! Oh! such was I!",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_154.mp3",
-    "audio_checksum": "c95ac879050a92a9eb0eaa56a5306140465bd847e6e2376404f588fac3013104"
+    "audio_checksum": "c95ac879050a92a9eb0eaa56a5306140465bd847e6e2376404f588fac3013104",
+    "duration_ms": 36552,
+    "trailing_silence_ms": 600,
+    "start_ms": 2045195,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 155,
     "text": "But you were always a good man of business, Jacob.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_155.mp3",
-    "audio_checksum": "ce3166e30bcd02bfbcaa691d0abf73cce42a2a4e898a5420832ce131192a09d7"
+    "audio_checksum": "ce3166e30bcd02bfbcaa691d0abf73cce42a2a4e898a5420832ce131192a09d7",
+    "duration_ms": 4080,
+    "trailing_silence_ms": 300,
+    "start_ms": 2082347,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 156,
     "text": "Scrooge faltered, who now began to apply this to himself.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_156.mp3",
-    "audio_checksum": "eda44b80e8101ce8302b60360a0d7e4efd757b60df8793f409d534b7476c8180"
+    "audio_checksum": "eda44b80e8101ce8302b60360a0d7e4efd757b60df8793f409d534b7476c8180",
+    "duration_ms": 3768,
+    "trailing_silence_ms": 300,
+    "start_ms": 2086727,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 157,
     "text": "Business! Mankind was my business. The common welfare was my business; charity, mercy, forbearance, and benevolence, were, all, my business. The dealings of my trade were but a drop of water in the comprehensive ocean of my business!",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_157.mp3",
-    "audio_checksum": "e97cba557ff9a28459e048515f42abd3d2c1816749a6de2f0164f44ce3d8c046"
+    "audio_checksum": "e97cba557ff9a28459e048515f42abd3d2c1816749a6de2f0164f44ce3d8c046",
+    "duration_ms": 16992,
+    "trailing_silence_ms": 600,
+    "start_ms": 2090795,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 158,
     "text": "It held up its chain at arm's length, as if that were the cause of all its unavailing grief, and flung it heavily upon the ground again.",
-    "trailing_silence": 0.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_158.mp3",
-    "audio_checksum": "b17d9f10133f23352477cd570b8ca63fa72e087f5e54b09cf8b057e845c03fc5"
+    "audio_checksum": "b17d9f10133f23352477cd570b8ca63fa72e087f5e54b09cf8b057e845c03fc5",
+    "duration_ms": 8712,
+    "trailing_silence_ms": 0,
+    "start_ms": 2108387,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 159,
     "text": "At this time of the rolling year, I suffer most. Why did I walk through crowds of fellow-beings with my eyes turned down, and never raise them to that blessed Star which led the Wise Men to a poor abode! Were there no poor homes to which its light would have conducted <i>me!</i>",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_159.mp3",
-    "audio_checksum": "b5755dbd17f781a2256c045789b3a320b0d7fb24b2ad106b26afaa71f7d01dc6"
+    "audio_checksum": "b5755dbd17f781a2256c045789b3a320b0d7fb24b2ad106b26afaa71f7d01dc6",
+    "duration_ms": 18720,
+    "trailing_silence_ms": 300,
+    "start_ms": 2117099,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 160,
     "text": "Scrooge was very much dismayed to hear the spectre going on at this rate, and began to quake exceedingly.",
-    "trailing_silence": 0.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_160.mp3",
-    "audio_checksum": "a4525172a8b85cd5b6795ec34aad3151c54aded72600fbe4feda317a47ad5d31"
+    "audio_checksum": "a4525172a8b85cd5b6795ec34aad3151c54aded72600fbe4feda317a47ad5d31",
+    "duration_ms": 6120,
+    "trailing_silence_ms": 0,
+    "start_ms": 2136119,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 161,
     "text": "Hear me! My time is nearly gone.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_161.mp3",
-    "audio_checksum": "bf3dad50778a44a3d98136f4f4c165693928b14b760c593f34b99d832defd4bf"
+    "audio_checksum": "bf3dad50778a44a3d98136f4f4c165693928b14b760c593f34b99d832defd4bf",
+    "duration_ms": 2832,
+    "trailing_silence_ms": 300,
+    "start_ms": 2142239,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 162,
     "text": "I will. But don't be hard upon me! Don't be flowery, Jacob! Pray!",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_162.mp3",
-    "audio_checksum": "49884fd86d95daa3a28ae19fd89d065463e73814f3a7f49845f43c69d29497fe"
+    "audio_checksum": "49884fd86d95daa3a28ae19fd89d065463e73814f3a7f49845f43c69d29497fe",
+    "duration_ms": 5376,
+    "trailing_silence_ms": 400,
+    "start_ms": 2145371,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 163,
     "text": "How it is that I appear before you in a shape that you can see, I may not tell. I have sat invisible beside you many and many a day.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_163.mp3",
-    "audio_checksum": "d73ab68d8aea0c1d110550eb988eb5f988db7b08100dee0cf7a1b5db2eb4be87"
+    "audio_checksum": "d73ab68d8aea0c1d110550eb988eb5f988db7b08100dee0cf7a1b5db2eb4be87",
+    "duration_ms": 8688,
+    "trailing_silence_ms": 500,
+    "start_ms": 2151147,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 164,
     "text": "It was not an agreeable idea. Scrooge shivered, and wiped the perspiration from his brow.",
-    "trailing_silence": 0.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_164.mp3",
-    "audio_checksum": "d24778f87fa9a0988edd6cde5c10c52724df083a7ae486216ec768859b52886b"
+    "audio_checksum": "d24778f87fa9a0988edd6cde5c10c52724df083a7ae486216ec768859b52886b",
+    "duration_ms": 5640,
+    "trailing_silence_ms": 0,
+    "start_ms": 2160335,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 165,
     "text": "That is no light part of my penance. I am here to-night to warn you, that you have yet a chance and hope of escaping my fate. A chance and hope of my procuring, Ebenezer.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_165.mp3",
-    "audio_checksum": "8373d97bf59d9d091783c9b5e87d12f1ce22ed97a3e7c3e4738758a488f17d7f"
+    "audio_checksum": "8373d97bf59d9d091783c9b5e87d12f1ce22ed97a3e7c3e4738758a488f17d7f",
+    "duration_ms": 12096,
+    "trailing_silence_ms": 400,
+    "start_ms": 2165975,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 166,
     "text": "You were always a good friend to me. Thank'ee!",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_166.mp3",
-    "audio_checksum": "cd5ca1294f54e960e6966084cc943ffdfe01865acea068bf9f91563f19a217ab"
+    "audio_checksum": "cd5ca1294f54e960e6966084cc943ffdfe01865acea068bf9f91563f19a217ab",
+    "duration_ms": 3720,
+    "trailing_silence_ms": 300,
+    "start_ms": 2178471,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 167,
     "text": "You will be haunted, by Three Spirits.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_167.mp3",
-    "audio_checksum": "992c5d1a486ab8ab53b58f22e71bc5f3fb7aaaefe0b4927665c4abfaed13e160"
+    "audio_checksum": "992c5d1a486ab8ab53b58f22e71bc5f3fb7aaaefe0b4927665c4abfaed13e160",
+    "duration_ms": 3960,
+    "trailing_silence_ms": 500,
+    "start_ms": 2182491,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 168,
     "text": "Scrooge's countenance fell almost as low as the Ghost's had done.",
-    "trailing_silence": 0.2,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_168.mp3",
-    "audio_checksum": "f0f47cca3ddb283a617de55f04c799844e754da293cc28375274643e0f5168de"
+    "audio_checksum": "f0f47cca3ddb283a617de55f04c799844e754da293cc28375274643e0f5168de",
+    "duration_ms": 3960,
+    "trailing_silence_ms": 200,
+    "start_ms": 2186951,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 169,
     "text": "Is that the chance and hope you mentioned, Jacob?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_169.mp3",
-    "audio_checksum": "12c655b5fade9b29215a66feff54cb3b9947301501c94884b71808bad47f4062"
+    "audio_checksum": "12c655b5fade9b29215a66feff54cb3b9947301501c94884b71808bad47f4062",
+    "duration_ms": 3768,
+    "trailing_silence_ms": 300,
+    "start_ms": 2191111,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 170,
     "text": "It is.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_170.mp3",
-    "audio_checksum": "ff94ba8d30b6a971ad39f110247924c2e9b61f4dfb45a39453331c2c549a8f96"
+    "audio_checksum": "ff94ba8d30b6a971ad39f110247924c2e9b61f4dfb45a39453331c2c549a8f96",
+    "duration_ms": 1080,
+    "trailing_silence_ms": 300,
+    "start_ms": 2195179,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 171,
     "text": "I—I think I'd rather not.",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_171.mp3",
-    "audio_checksum": "f8cf74341adbf5711b73c86cd0c1a2005a5660c2515bd7e9aab45ee71a7c6c71"
+    "audio_checksum": "f8cf74341adbf5711b73c86cd0c1a2005a5660c2515bd7e9aab45ee71a7c6c71",
+    "duration_ms": 2760,
+    "trailing_silence_ms": 300,
+    "start_ms": 2196559,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 172,
     "text": "Without their visits, you cannot hope to shun the path I tread. Expect the first to-morrow, when the bell tolls One.",
-    "trailing_silence": 0.4,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_172.mp3",
-    "audio_checksum": "9917e850748a5a67359fe5daad10bcb6206ddb08820face7befa68bd810946fe"
+    "audio_checksum": "9917e850748a5a67359fe5daad10bcb6206ddb08820face7befa68bd810946fe",
+    "duration_ms": 7824,
+    "trailing_silence_ms": 400,
+    "start_ms": 2199619,
+    "speed": 1.0
   },
   {
     "character_identifier": "SCROOGE",
     "ordinal": 173,
     "text": "Couldn't I take 'em all at once, and have it over, Jacob?",
-    "trailing_silence": 0.3,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_173.mp3",
-    "audio_checksum": "85d162cd4c5230a49c027adc80fd693c477a5d7e586efe1cc34cc837f83fbe42"
+    "audio_checksum": "85d162cd4c5230a49c027adc80fd693c477a5d7e586efe1cc34cc837f83fbe42",
+    "duration_ms": 4080,
+    "trailing_silence_ms": 300,
+    "start_ms": 2207843,
+    "speed": 1.0
   },
   {
     "character_identifier": "MARLEY_GHOST",
     "ordinal": 174,
     "text": "Expect the second on the next night at the same hour. The third upon the next night when the last stroke of Twelve has ceased to vibrate. Look to see me no more; and look that, for your own sake, you remember what has passed between us!",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_174.mp3",
-    "audio_checksum": "e015fc1bb3270f2af37b61c6a8da88aed4f6e525fccac50a0dc89e437026ce31"
+    "audio_checksum": "e015fc1bb3270f2af37b61c6a8da88aed4f6e525fccac50a0dc89e437026ce31",
+    "duration_ms": 14856,
+    "trailing_silence_ms": 600,
+    "start_ms": 2212223,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 175,
     "text": "When it had said these words, the spectre took its wrapper from the table, and bound it round its head, as before. Scrooge knew this, by the smart sound its teeth made, when the jaws were brought together by the bandage. He ventured to raise his eyes again, and found his supernatural visitor confronting him in an erect attitude, with its chain wound over and about its arm.",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_175.mp3",
-    "audio_checksum": "ec77577a486df42e5c83b6dc146dc7e548f40391ffde9e56408e9564dc14a3f3"
+    "audio_checksum": "ec77577a486df42e5c83b6dc146dc7e548f40391ffde9e56408e9564dc14a3f3",
+    "duration_ms": 26160,
+    "trailing_silence_ms": 600,
+    "start_ms": 2227679,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 176,
     "text": "The apparition walked backward from him; and at every step it took, the window raised itself a little, so that when the spectre reached it, it was wide open.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_176.mp3",
-    "audio_checksum": "0303b940f28d8f806c86bcd4c86ab1350cad8b3b455ff9e740d7ae102051e2c4"
+    "audio_checksum": "0303b940f28d8f806c86bcd4c86ab1350cad8b3b455ff9e740d7ae102051e2c4",
+    "duration_ms": 11448,
+    "trailing_silence_ms": 500,
+    "start_ms": 2254439,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 177,
     "text": "It beckoned Scrooge to approach, which he did. When they were within two paces of each other, Marley's Ghost held up its hand, warning him to come no nearer. Scrooge stopped.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_177.mp3",
-    "audio_checksum": "4427d40a7c9e39df5f4afa103000ce1a8193f94e82fb40912aa2dbe2906d43be"
+    "audio_checksum": "4427d40a7c9e39df5f4afa103000ce1a8193f94e82fb40912aa2dbe2906d43be",
+    "duration_ms": 12408,
+    "trailing_silence_ms": 500,
+    "start_ms": 2266387,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 178,
     "text": "Not so much in obedience, as in surprise and fear: for on the raising of the hand, he became sensible of confused noises in the air; incoherent sounds of lamentation and regret; wailings inexpressibly sorrowful and self-accusatory. The spectre, after listening for a moment, joined in the mournful dirge; and floated out upon the bleak, dark night.",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_178.mp3",
-    "audio_checksum": "f855d9b442d5daf1e35de9f64056b3fa3232df16e27229a4e644d141cbc133bf"
+    "audio_checksum": "f855d9b442d5daf1e35de9f64056b3fa3232df16e27229a4e644d141cbc133bf",
+    "duration_ms": 25272,
+    "trailing_silence_ms": 600,
+    "start_ms": 2279295,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 179,
     "text": "Scrooge followed to the window: desperate in his curiosity. He looked out.",
-    "trailing_silence": 0.5,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_179.mp3",
-    "audio_checksum": "f1f82631c370d42d06cbb6a9304a30cefca5197f6d7bf4e5885e354086273e06"
+    "audio_checksum": "f1f82631c370d42d06cbb6a9304a30cefca5197f6d7bf4e5885e354086273e06",
+    "duration_ms": 5496,
+    "trailing_silence_ms": 500,
+    "start_ms": 2305167,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 180,
     "text": "The air was filled with phantoms, wandering hither and thither in restless haste, and moaning as they went. Every one of them wore chains like Marley's Ghost; some few (they might be guilty governments) were linked together; none were free. Many had been personally known to Scrooge in their lives. He had been quite familiar with one old ghost, in a white waistcoat, with a monstrous iron safe attached to its ankle, who cried piteously at being unable to assist a wretched woman with an infant, whom it saw below, upon a door-step. The misery with them all was, clearly, that they sought to interfere, for good, in human matters, and had lost the power for ever.",
-    "trailing_silence": 0.7,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_180.mp3",
-    "audio_checksum": "f27184efa7c3daa81eddf3a236733d3e2406a8f43728352b0c18e9cbd6f82336"
+    "audio_checksum": "f27184efa7c3daa81eddf3a236733d3e2406a8f43728352b0c18e9cbd6f82336",
+    "duration_ms": 47064,
+    "trailing_silence_ms": 700,
+    "start_ms": 2311163,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 181,
     "text": "Whether these creatures faded into mist, or mist enshrouded them, he could not tell. But they and their spirit voices faded together; and the night became as it had been when he walked home.",
-    "trailing_silence": 0.6,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_181.mp3",
-    "audio_checksum": "62d3fd567afbcfd6a751f55a6b6782f7861b8a0ae6c20a7296073eac8cc7097e"
+    "audio_checksum": "62d3fd567afbcfd6a751f55a6b6782f7861b8a0ae6c20a7296073eac8cc7097e",
+    "duration_ms": 13560,
+    "trailing_silence_ms": 600,
+    "start_ms": 2358927,
+    "speed": 1.0
   },
   {
     "character_identifier": "NARRATOR",
     "ordinal": 182,
     "text": "Scrooge closed the window, and examined the door by which the Ghost had entered. It was double-locked, as he had locked it with his own hands, and the bolts were undisturbed. He tried to say \"Humbug!\" but stopped at the first syllable. And being, from the emotion he had undergone, or the fatigues of the day, or his glimpse of the Invisible World, or the dull conversation of the Ghost, or the lateness of the hour, much in need of repose; went straight to bed, without undressing, and fell asleep upon the instant.",
-    "trailing_silence": 1.0,
-    "speed": 1.0,
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio/dialogue_182.mp3",
-    "audio_checksum": "949ee91ecec499dd617829d89e71de673f0077035b2555bcd5ab52337ab9217c"
+    "audio_checksum": "949ee91ecec499dd617829d89e71de673f0077035b2555bcd5ab52337ab9217c",
+    "duration_ms": 37704,
+    "trailing_silence_ms": 1000,
+    "start_ms": 2373087,
+    "speed": 1.0
   }
 ]
