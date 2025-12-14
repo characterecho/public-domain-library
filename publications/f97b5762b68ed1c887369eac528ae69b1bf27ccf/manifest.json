@@ -1180,7 +1180,7 @@
       "title": "Introduction",
       "metadata": {},
       "background_key": null,
-      "dialogues_total_duration_ms": 5736
+      "duration_ms": 5736
     },
     {
       "ordinal": 1,
@@ -1209,7 +1209,7 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
-      "dialogues_total_duration_ms": 2338055
+      "duration_ms": 2338055
     },
     {
       "ordinal": 2,
@@ -1239,7 +1239,7 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
-      "dialogues_total_duration_ms": 2104558
+      "duration_ms": 2104558
     },
     {
       "ordinal": 3,
@@ -1260,7 +1260,7 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
-      "dialogues_total_duration_ms": 2847453
+      "duration_ms": 2847453
     },
     {
       "ordinal": 4,
@@ -1281,7 +1281,7 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
-      "dialogues_total_duration_ms": 1661280
+      "duration_ms": 1661280
     },
     {
       "ordinal": 5,
@@ -1304,7 +1304,7 @@
         }
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
-      "dialogues_total_duration_ms": 790894
+      "duration_ms": 790894
     }
   ]
 }

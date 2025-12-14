@@ -6,7 +6,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_1.mp3",
     "duration_ms": 3600,
     "trailing_silence_ms": 1000,
-    "start_ms": 8957082,
+    "start_ms": 0,
     "speed": 1.0
   },
   {
@@ -16,7 +16,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_2.mp3",
     "duration_ms": 9936,
     "trailing_silence_ms": 300,
-    "start_ms": 8960682,
+    "start_ms": 3600,
     "speed": 1.0
   },
   {
@@ -26,7 +26,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_3.mp3",
     "duration_ms": 3720,
     "trailing_silence_ms": 300,
-    "start_ms": 8970618,
+    "start_ms": 13536,
     "speed": 1.0
   },
   {
@@ -36,7 +36,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_4.mp3",
     "duration_ms": 3024,
     "trailing_silence_ms": 300,
-    "start_ms": 8974338,
+    "start_ms": 17256,
     "speed": 1.0
   },
   {
@@ -46,7 +46,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_5.mp3",
     "duration_ms": 13704,
     "trailing_silence_ms": 800,
-    "start_ms": 8977362,
+    "start_ms": 20280,
     "speed": 1.0
   },
   {
@@ -56,7 +56,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_6.mp3",
     "duration_ms": 13488,
     "trailing_silence_ms": 300,
-    "start_ms": 8991066,
+    "start_ms": 33984,
     "speed": 1.0
   },
   {
@@ -66,7 +66,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_7.mp3",
     "duration_ms": 12696,
     "trailing_silence_ms": 400,
-    "start_ms": 9004554,
+    "start_ms": 47472,
     "speed": 1.0
   },
   {
@@ -76,7 +76,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_8.mp3",
     "duration_ms": 16175,
     "trailing_silence_ms": 300,
-    "start_ms": 9017250,
+    "start_ms": 60168,
     "speed": 1.0
   },
   {
@@ -86,7 +86,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_9.mp3",
     "duration_ms": 2808,
     "trailing_silence_ms": 300,
-    "start_ms": 9033425,
+    "start_ms": 76343,
     "speed": 1.0
   },
   {
@@ -96,7 +96,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_10.mp3",
     "duration_ms": 7608,
     "trailing_silence_ms": 300,
-    "start_ms": 9036233,
+    "start_ms": 79151,
     "speed": 1.0
   },
   {
@@ -106,7 +106,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_11.mp3",
     "duration_ms": 15816,
     "trailing_silence_ms": 800,
-    "start_ms": 9043841,
+    "start_ms": 86759,
     "speed": 1.0
   },
   {
@@ -116,7 +116,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_12.mp3",
     "duration_ms": 5088,
     "trailing_silence_ms": 300,
-    "start_ms": 9059657,
+    "start_ms": 102575,
     "speed": 1.0
   },
   {
@@ -126,7 +126,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_13.mp3",
     "duration_ms": 18168,
     "trailing_silence_ms": 600,
-    "start_ms": 9064745,
+    "start_ms": 107663,
     "speed": 1.0
   },
   {
@@ -136,7 +136,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_14.mp3",
     "duration_ms": 15504,
     "trailing_silence_ms": 300,
-    "start_ms": 9082913,
+    "start_ms": 125831,
     "speed": 1.0
   },
   {
@@ -146,7 +146,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_15.mp3",
     "duration_ms": 16512,
     "trailing_silence_ms": 700,
-    "start_ms": 9098417,
+    "start_ms": 141335,
     "speed": 1.0
   },
   {
@@ -156,7 +156,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_16.mp3",
     "duration_ms": 13056,
     "trailing_silence_ms": 300,
-    "start_ms": 9114929,
+    "start_ms": 157847,
     "speed": 1.0
   },
   {
@@ -166,7 +166,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_17.mp3",
     "duration_ms": 16344,
     "trailing_silence_ms": 300,
-    "start_ms": 9127985,
+    "start_ms": 170903,
     "speed": 1.0
   },
   {
@@ -176,7 +176,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_18.mp3",
     "duration_ms": 1872,
     "trailing_silence_ms": 300,
-    "start_ms": 9144329,
+    "start_ms": 187247,
     "speed": 1.0
   },
   {
@@ -186,7 +186,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_19.mp3",
     "duration_ms": 6264,
     "trailing_silence_ms": 300,
-    "start_ms": 9146201,
+    "start_ms": 189119,
     "speed": 1.0
   },
   {
@@ -196,7 +196,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_21.mp3",
     "duration_ms": 3048,
     "trailing_silence_ms": 300,
-    "start_ms": 9152465,
+    "start_ms": 195383,
     "speed": 1.0
   },
   {
@@ -206,7 +206,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_22.mp3",
     "duration_ms": 2112,
     "trailing_silence_ms": 300,
-    "start_ms": 9155513,
+    "start_ms": 198431,
     "speed": 1.0
   },
   {
@@ -216,7 +216,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_23.mp3",
     "duration_ms": 3408,
     "trailing_silence_ms": 500,
-    "start_ms": 9157625,
+    "start_ms": 200543,
     "speed": 1.0
   },
   {
@@ -226,7 +226,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_24.mp3",
     "duration_ms": 11400,
     "trailing_silence_ms": 300,
-    "start_ms": 9161033,
+    "start_ms": 203951,
     "speed": 1.0
   },
   {
@@ -236,7 +236,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_25.mp3",
     "duration_ms": 1080,
     "trailing_silence_ms": 300,
-    "start_ms": 9172433,
+    "start_ms": 215351,
     "speed": 1.0
   },
   {
@@ -246,7 +246,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_26.mp3",
     "duration_ms": 4560,
     "trailing_silence_ms": 300,
-    "start_ms": 9173513,
+    "start_ms": 216431,
     "speed": 1.0
   },
   {
@@ -256,7 +256,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_27.mp3",
     "duration_ms": 1560,
     "trailing_silence_ms": 300,
-    "start_ms": 9178073,
+    "start_ms": 220991,
     "speed": 1.0
   },
   {
@@ -266,7 +266,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_28.mp3",
     "duration_ms": 10200,
     "trailing_silence_ms": 300,
-    "start_ms": 9179633,
+    "start_ms": 222551,
     "speed": 1.0
   },
   {
@@ -276,7 +276,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_29.mp3",
     "duration_ms": 2472,
     "trailing_silence_ms": 300,
-    "start_ms": 9189833,
+    "start_ms": 232751,
     "speed": 1.0
   },
   {
@@ -286,7 +286,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_30.mp3",
     "duration_ms": 4992,
     "trailing_silence_ms": 300,
-    "start_ms": 9192305,
+    "start_ms": 235223,
     "speed": 1.0
   },
   {
@@ -296,7 +296,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_31.mp3",
     "duration_ms": 1608,
     "trailing_silence_ms": 300,
-    "start_ms": 9197297,
+    "start_ms": 240215,
     "speed": 1.0
   },
   {
@@ -306,7 +306,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_32.mp3",
     "duration_ms": 2592,
     "trailing_silence_ms": 300,
-    "start_ms": 9198905,
+    "start_ms": 241823,
     "speed": 1.0
   },
   {
@@ -316,7 +316,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_33.mp3",
     "duration_ms": 1560,
     "trailing_silence_ms": 300,
-    "start_ms": 9201497,
+    "start_ms": 244415,
     "speed": 1.0
   },
   {
@@ -326,7 +326,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_34.mp3",
     "duration_ms": 16079,
     "trailing_silence_ms": 600,
-    "start_ms": 9203057,
+    "start_ms": 245975,
     "speed": 1.0
   },
   {
@@ -336,7 +336,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_35.mp3",
     "duration_ms": 7224,
     "trailing_silence_ms": 300,
-    "start_ms": 9219136,
+    "start_ms": 262054,
     "speed": 1.0
   },
   {
@@ -346,7 +346,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_36.mp3",
     "duration_ms": 11328,
     "trailing_silence_ms": 700,
-    "start_ms": 9226360,
+    "start_ms": 269278,
     "speed": 1.0
   },
   {
@@ -356,7 +356,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_37.mp3",
     "duration_ms": 18480,
     "trailing_silence_ms": 300,
-    "start_ms": 9237688,
+    "start_ms": 280606,
     "speed": 1.0
   },
   {
@@ -366,7 +366,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_38.mp3",
     "duration_ms": 13872,
     "trailing_silence_ms": 600,
-    "start_ms": 9256168,
+    "start_ms": 299086,
     "speed": 1.0
   },
   {
@@ -376,7 +376,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_39.mp3",
     "duration_ms": 11784,
     "trailing_silence_ms": 300,
-    "start_ms": 9270040,
+    "start_ms": 312958,
     "speed": 1.0
   },
   {
@@ -386,7 +386,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_40.mp3",
     "duration_ms": 6192,
     "trailing_silence_ms": 600,
-    "start_ms": 9281824,
+    "start_ms": 324742,
     "speed": 1.0
   },
   {
@@ -396,7 +396,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_41.mp3",
     "duration_ms": 18624,
     "trailing_silence_ms": 300,
-    "start_ms": 9288016,
+    "start_ms": 330934,
     "speed": 1.0
   },
   {
@@ -406,7 +406,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_42.mp3",
     "duration_ms": 16992,
     "trailing_silence_ms": 300,
-    "start_ms": 9306640,
+    "start_ms": 349558,
     "speed": 1.0
   },
   {
@@ -416,7 +416,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_43.mp3",
     "duration_ms": 33384,
     "trailing_silence_ms": 300,
-    "start_ms": 9323632,
+    "start_ms": 366550,
     "speed": 1.0
   },
   {
@@ -426,7 +426,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_44.mp3",
     "duration_ms": 21432,
     "trailing_silence_ms": 300,
-    "start_ms": 9357016,
+    "start_ms": 399934,
     "speed": 1.0
   },
   {
@@ -436,7 +436,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_45.mp3",
     "duration_ms": 7536,
     "trailing_silence_ms": 400,
-    "start_ms": 9378448,
+    "start_ms": 421366,
     "speed": 1.0
   },
   {
@@ -446,7 +446,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_46.mp3",
     "duration_ms": 5064,
     "trailing_silence_ms": 300,
-    "start_ms": 9385984,
+    "start_ms": 428902,
     "speed": 1.0
   },
   {
@@ -456,7 +456,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_47.mp3",
     "duration_ms": 1920,
     "trailing_silence_ms": 300,
-    "start_ms": 9391048,
+    "start_ms": 433966,
     "speed": 1.0
   },
   {
@@ -466,7 +466,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_48.mp3",
     "duration_ms": 9384,
     "trailing_silence_ms": 200,
-    "start_ms": 9392968,
+    "start_ms": 435886,
     "speed": 1.0
   },
   {
@@ -476,7 +476,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_49.mp3",
     "duration_ms": 2088,
     "trailing_silence_ms": 300,
-    "start_ms": 9402352,
+    "start_ms": 445270,
     "speed": 1.0
   },
   {
@@ -486,7 +486,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_50.mp3",
     "duration_ms": 4008,
     "trailing_silence_ms": 300,
-    "start_ms": 9404440,
+    "start_ms": 447358,
     "speed": 1.0
   },
   {
@@ -496,7 +496,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_51.mp3",
     "duration_ms": 3696,
     "trailing_silence_ms": 300,
-    "start_ms": 9408448,
+    "start_ms": 451366,
     "speed": 1.0
   },
   {
@@ -506,7 +506,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_52.mp3",
     "duration_ms": 8352,
     "trailing_silence_ms": 400,
-    "start_ms": 9412144,
+    "start_ms": 455062,
     "speed": 1.0
   },
   {
@@ -516,7 +516,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_53.mp3",
     "duration_ms": 3696,
     "trailing_silence_ms": 200,
-    "start_ms": 9420496,
+    "start_ms": 463414,
     "speed": 1.0
   },
   {
@@ -526,7 +526,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_54.mp3",
     "duration_ms": 3048,
     "trailing_silence_ms": 300,
-    "start_ms": 9424192,
+    "start_ms": 467110,
     "speed": 1.0
   },
   {
@@ -536,7 +536,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_55.mp3",
     "duration_ms": 4680,
     "trailing_silence_ms": 300,
-    "start_ms": 9427240,
+    "start_ms": 470158,
     "speed": 1.0
   },
   {
@@ -546,7 +546,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_56.mp3",
     "duration_ms": 1248,
     "trailing_silence_ms": 300,
-    "start_ms": 9431920,
+    "start_ms": 474838,
     "speed": 1.0
   },
   {
@@ -556,7 +556,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_57.mp3",
     "duration_ms": 4056,
     "trailing_silence_ms": 300,
-    "start_ms": 9433168,
+    "start_ms": 476086,
     "speed": 1.0
   },
   {
@@ -566,7 +566,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_58.mp3",
     "duration_ms": 6336,
     "trailing_silence_ms": 800,
-    "start_ms": 9437224,
+    "start_ms": 480142,
     "speed": 1.0
   },
   {
@@ -576,7 +576,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_59.mp3",
     "duration_ms": 27240,
     "trailing_silence_ms": 300,
-    "start_ms": 9443560,
+    "start_ms": 486478,
     "speed": 1.0
   },
   {
@@ -586,7 +586,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_60.mp3",
     "duration_ms": 6408,
     "trailing_silence_ms": 300,
-    "start_ms": 9470800,
+    "start_ms": 513718,
     "speed": 1.0
   },
   {
@@ -596,7 +596,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_61.mp3",
     "duration_ms": 2664,
     "trailing_silence_ms": 200,
-    "start_ms": 9477208,
+    "start_ms": 520126,
     "speed": 1.0
   },
   {
@@ -606,7 +606,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_62.mp3",
     "duration_ms": 3144,
     "trailing_silence_ms": 300,
-    "start_ms": 9479872,
+    "start_ms": 522790,
     "speed": 1.0
   },
   {
@@ -616,7 +616,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_63.mp3",
     "duration_ms": 1128,
     "trailing_silence_ms": 300,
-    "start_ms": 9483016,
+    "start_ms": 525934,
     "speed": 1.0
   },
   {
@@ -626,7 +626,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_64.mp3",
     "duration_ms": 1680,
     "trailing_silence_ms": 300,
-    "start_ms": 9484144,
+    "start_ms": 527062,
     "speed": 1.0
   },
   {
@@ -636,7 +636,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_65.mp3",
     "duration_ms": 5640,
     "trailing_silence_ms": 300,
-    "start_ms": 9485824,
+    "start_ms": 528742,
     "speed": 1.0
   },
   {
@@ -646,7 +646,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_66.mp3",
     "duration_ms": 5016,
     "trailing_silence_ms": 400,
-    "start_ms": 9491464,
+    "start_ms": 534382,
     "speed": 1.0
   },
   {
@@ -656,7 +656,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_67.mp3",
     "duration_ms": 18264,
     "trailing_silence_ms": 300,
-    "start_ms": 9496480,
+    "start_ms": 539398,
     "speed": 1.0
   },
   {
@@ -666,7 +666,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_68.mp3",
     "duration_ms": 1392,
     "trailing_silence_ms": 400,
-    "start_ms": 9514744,
+    "start_ms": 557662,
     "speed": 1.0
   },
   {
@@ -676,7 +676,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_69.mp3",
     "duration_ms": 11328,
     "trailing_silence_ms": 300,
-    "start_ms": 9516136,
+    "start_ms": 559054,
     "speed": 1.0
   },
   {
@@ -686,7 +686,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_70.mp3",
     "duration_ms": 3048,
     "trailing_silence_ms": 300,
-    "start_ms": 9527464,
+    "start_ms": 570382,
     "speed": 1.0
   },
   {
@@ -696,7 +696,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_71.mp3",
     "duration_ms": 6408,
     "trailing_silence_ms": 500,
-    "start_ms": 9530512,
+    "start_ms": 573430,
     "speed": 1.0
   },
   {
@@ -706,7 +706,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_72.mp3",
     "duration_ms": 20112,
     "trailing_silence_ms": 300,
-    "start_ms": 9536920,
+    "start_ms": 579838,
     "speed": 1.0
   },
   {
@@ -716,7 +716,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_73.mp3",
     "duration_ms": 11424,
     "trailing_silence_ms": 300,
-    "start_ms": 9557032,
+    "start_ms": 599950,
     "speed": 1.0
   },
   {
@@ -726,7 +726,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_74.mp3",
     "duration_ms": 13728,
     "trailing_silence_ms": 300,
-    "start_ms": 9568456,
+    "start_ms": 611374,
     "speed": 1.0
   },
   {
@@ -736,7 +736,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_75.mp3",
     "duration_ms": 10344,
     "trailing_silence_ms": 300,
-    "start_ms": 9582184,
+    "start_ms": 625102,
     "speed": 1.0
   },
   {
@@ -746,7 +746,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_76.mp3",
     "duration_ms": 4320,
     "trailing_silence_ms": 300,
-    "start_ms": 9592528,
+    "start_ms": 635446,
     "speed": 1.0
   },
   {
@@ -756,7 +756,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_77.mp3",
     "duration_ms": 4152,
     "trailing_silence_ms": 300,
-    "start_ms": 9596848,
+    "start_ms": 639766,
     "speed": 1.0
   },
   {
@@ -766,7 +766,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_78.mp3",
     "duration_ms": 5664,
     "trailing_silence_ms": 400,
-    "start_ms": 9601000,
+    "start_ms": 643918,
     "speed": 1.0
   },
   {
@@ -776,7 +776,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_79.mp3",
     "duration_ms": 7608,
     "trailing_silence_ms": 300,
-    "start_ms": 9606664,
+    "start_ms": 649582,
     "speed": 1.0
   },
   {
@@ -786,7 +786,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_80.mp3",
     "duration_ms": 2328,
     "trailing_silence_ms": 300,
-    "start_ms": 9614272,
+    "start_ms": 657190,
     "speed": 1.0
   },
   {
@@ -796,7 +796,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_81.mp3",
     "duration_ms": 7416,
     "trailing_silence_ms": 200,
-    "start_ms": 9616600,
+    "start_ms": 659518,
     "speed": 1.0
   },
   {
@@ -806,7 +806,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_82.mp3",
     "duration_ms": 7224,
     "trailing_silence_ms": 300,
-    "start_ms": 9624016,
+    "start_ms": 666934,
     "speed": 1.0
   },
   {
@@ -816,7 +816,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_83.mp3",
     "duration_ms": 3624,
     "trailing_silence_ms": 600,
-    "start_ms": 9631240,
+    "start_ms": 674158,
     "speed": 1.0
   },
   {
@@ -826,7 +826,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_84.mp3",
     "duration_ms": 12408,
     "trailing_silence_ms": 300,
-    "start_ms": 9634864,
+    "start_ms": 677782,
     "speed": 1.0
   },
   {
@@ -836,7 +836,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_85.mp3",
     "duration_ms": 24504,
     "trailing_silence_ms": 800,
-    "start_ms": 9647272,
+    "start_ms": 690190,
     "speed": 1.0
   },
   {
@@ -846,7 +846,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_86.mp3",
     "duration_ms": 5688,
     "trailing_silence_ms": 300,
-    "start_ms": 9671776,
+    "start_ms": 714694,
     "speed": 1.0
   },
   {
@@ -856,7 +856,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_87.mp3",
     "duration_ms": 49272,
     "trailing_silence_ms": 300,
-    "start_ms": 9677464,
+    "start_ms": 720382,
     "speed": 1.0
   },
   {
@@ -866,7 +866,7 @@
     "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio/dialogue_88.mp3",
     "duration_ms": 21240,
     "trailing_silence_ms": 300,
-    "start_ms": 9726736,
+    "start_ms": 769654,
     "speed": 1.0
   }
 ]
