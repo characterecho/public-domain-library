@@ -7,8 +7,8 @@
     "audio_description": "",
     "trailing_silence_ms": 1000,
     "start_ms": 0,
-    "end_ms": 3800,
-    "duration_ms": 3800
+    "end_ms": 3800000,
+    "duration_ms": 3800000
   },
   {
     "character_identifier": "NARRATOR",
@@ -17,9 +17,9 @@
     "speed": 1.0,
     "audio_description": "ominous, foreboding",
     "trailing_silence_ms": 300,
-    "start_ms": 3800,
-    "end_ms": 16700,
-    "duration_ms": 12900
+    "start_ms": 3800000,
+    "end_ms": 16700000,
+    "duration_ms": 12900000
   },
   {
     "character_identifier": "NARRATOR",
@@ -28,9 +28,9 @@
     "speed": 1.0,
     "audio_description": "descriptive, eerie",
     "trailing_silence_ms": 300,
-    "start_ms": 16700,
-    "end_ms": 33560,
-    "duration_ms": 16860
+    "start_ms": 16700000,
+    "end_ms": 33560000,
+    "duration_ms": 16860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -39,9 +39,9 @@
     "speed": 1.0,
     "audio_description": "tense, hushed",
     "trailing_silence_ms": 300,
-    "start_ms": 33560,
-    "end_ms": 45380,
-    "duration_ms": 11820
+    "start_ms": 33560000,
+    "end_ms": 45380000,
+    "duration_ms": 11820000
   },
   {
     "character_identifier": "SCROOGE",
@@ -50,9 +50,9 @@
     "speed": 1.0,
     "audio_description": "fearful, reverent",
     "trailing_silence_ms": 700,
-    "start_ms": 45380,
-    "end_ms": 49306,
-    "duration_ms": 3926
+    "start_ms": 45380000,
+    "end_ms": 49306000,
+    "duration_ms": 3926000
   },
   {
     "character_identifier": "NARRATOR",
@@ -61,9 +61,9 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_ms": 300,
-    "start_ms": 49306,
-    "end_ms": 53246,
-    "duration_ms": 3940
+    "start_ms": 49306000,
+    "end_ms": 53246000,
+    "duration_ms": 3940000
   },
   {
     "character_identifier": "SCROOGE",
@@ -72,9 +72,9 @@
     "speed": 1.0,
     "audio_description": "trembling, pleading",
     "trailing_silence_ms": 700,
-    "start_ms": 53246,
-    "end_ms": 61932,
-    "duration_ms": 8686
+    "start_ms": 53246000,
+    "end_ms": 61932000,
+    "duration_ms": 8686000
   },
   {
     "character_identifier": "NARRATOR",
@@ -83,9 +83,9 @@
     "speed": 1.0,
     "audio_description": "quiet, ominous",
     "trailing_silence_ms": 300,
-    "start_ms": 61932,
-    "end_ms": 71432,
-    "duration_ms": 9500
+    "start_ms": 61932000,
+    "end_ms": 71432000,
+    "duration_ms": 9500000
   },
   {
     "character_identifier": "NARRATOR",
@@ -94,9 +94,9 @@
     "speed": 1.0,
     "audio_description": "measured, tense",
     "trailing_silence_ms": 300,
-    "start_ms": 71432,
-    "end_ms": 89252,
-    "duration_ms": 17820
+    "start_ms": 71432000,
+    "end_ms": 89252000,
+    "duration_ms": 17820000
   },
   {
     "character_identifier": "NARRATOR",
@@ -105,9 +105,9 @@
     "speed": 1.0,
     "audio_description": "chilling, suspenseful",
     "trailing_silence_ms": 300,
-    "start_ms": 89252,
-    "end_ms": 106952,
-    "duration_ms": 17700
+    "start_ms": 89252000,
+    "end_ms": 106952000,
+    "duration_ms": 17700000
   },
   {
     "character_identifier": "SCROOGE",
@@ -116,9 +116,9 @@
     "speed": 1.0,
     "audio_description": "desperate, pleading",
     "trailing_silence_ms": 700,
-    "start_ms": 106952,
-    "end_ms": 123345,
-    "duration_ms": 16393
+    "start_ms": 106952000,
+    "end_ms": 123345000,
+    "duration_ms": 16393000
   },
   {
     "character_identifier": "NARRATOR",
@@ -127,9 +127,9 @@
     "speed": 1.0,
     "audio_description": "stark, final",
     "trailing_silence_ms": 300,
-    "start_ms": 123345,
-    "end_ms": 127245,
-    "duration_ms": 3900
+    "start_ms": 123345000,
+    "end_ms": 127245000,
+    "duration_ms": 3900000
   },
   {
     "character_identifier": "SCROOGE",
@@ -138,9 +138,9 @@
     "speed": 1.0,
     "audio_description": "urgent, determined",
     "trailing_silence_ms": 800,
-    "start_ms": 127245,
-    "end_ms": 134671,
-    "duration_ms": 7426
+    "start_ms": 127245000,
+    "end_ms": 134671000,
+    "duration_ms": 7426000
   },
   {
     "character_identifier": "NARRATOR",
@@ -149,9 +149,9 @@
     "speed": 1.0,
     "audio_description": "mysterious, flowing",
     "trailing_silence_ms": 300,
-    "start_ms": 134671,
-    "end_ms": 144131,
-    "duration_ms": 9460
+    "start_ms": 134671000,
+    "end_ms": 144131000,
+    "duration_ms": 9460000
   },
   {
     "character_identifier": "NARRATOR",
@@ -160,9 +160,9 @@
     "speed": 1.0,
     "audio_description": "descriptive, bustling",
     "trailing_silence_ms": 300,
-    "start_ms": 144131,
-    "end_ms": 169151,
-    "duration_ms": 25020
+    "start_ms": 144131000,
+    "end_ms": 169151000,
+    "duration_ms": 25020000
   },
   {
     "character_identifier": "NARRATOR",
@@ -171,9 +171,9 @@
     "speed": 1.0,
     "audio_description": "measured",
     "trailing_silence_ms": 300,
-    "start_ms": 169151,
-    "end_ms": 177571,
-    "duration_ms": 8420
+    "start_ms": 169151000,
+    "end_ms": 177571000,
+    "duration_ms": 8420000
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -182,9 +182,9 @@
     "speed": 1.0,
     "audio_description": "indifferent, yawning",
     "trailing_silence_ms": 400,
-    "start_ms": 177571,
-    "end_ms": 183157,
-    "duration_ms": 5586
+    "start_ms": 177571000,
+    "end_ms": 183157000,
+    "duration_ms": 5586000
   },
   {
     "character_identifier": "BUSINESSMAN_2",
@@ -193,9 +193,9 @@
     "speed": 1.0,
     "audio_description": "casual",
     "trailing_silence_ms": 100,
-    "start_ms": 183157,
-    "end_ms": 184323,
-    "duration_ms": 1166
+    "start_ms": 183157000,
+    "end_ms": 184323000,
+    "duration_ms": 1166000
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -204,9 +204,9 @@
     "speed": 1.0,
     "audio_description": "disinterested",
     "trailing_silence_ms": 400,
-    "start_ms": 184323,
-    "end_ms": 186069,
-    "duration_ms": 1746
+    "start_ms": 184323000,
+    "end_ms": 186069000,
+    "duration_ms": 1746000
   },
   {
     "character_identifier": "BUSINESSMAN_3",
@@ -215,9 +215,9 @@
     "speed": 1.0,
     "audio_description": "surprised, casual",
     "trailing_silence_ms": 400,
-    "start_ms": 186069,
-    "end_ms": 189975,
-    "duration_ms": 3906
+    "start_ms": 186069000,
+    "end_ms": 189975000,
+    "duration_ms": 3906000
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -226,9 +226,9 @@
     "speed": 1.0,
     "audio_description": "yawning, bored",
     "trailing_silence_ms": 400,
-    "start_ms": 189975,
-    "end_ms": 191521,
-    "duration_ms": 1546
+    "start_ms": 189975000,
+    "end_ms": 191521000,
+    "duration_ms": 1546000
   },
   {
     "character_identifier": "RED_FACED_GENTLEMAN",
@@ -237,9 +237,9 @@
     "speed": 1.0,
     "audio_description": "greedy, curious",
     "trailing_silence_ms": 400,
-    "start_ms": 191521,
-    "end_ms": 193987,
-    "duration_ms": 2466
+    "start_ms": 191521000,
+    "end_ms": 193987000,
+    "duration_ms": 2466000
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -248,9 +248,9 @@
     "speed": 1.0,
     "audio_description": "yawning, dismissive",
     "trailing_silence_ms": 500,
-    "start_ms": 193987,
-    "end_ms": 200273,
-    "duration_ms": 6286
+    "start_ms": 193987000,
+    "end_ms": 200273000,
+    "duration_ms": 6286000
   },
   {
     "character_identifier": "NARRATOR",
@@ -259,9 +259,9 @@
     "speed": 1.0,
     "audio_description": "observational",
     "trailing_silence_ms": 300,
-    "start_ms": 200273,
-    "end_ms": 203133,
-    "duration_ms": 2860
+    "start_ms": 200273000,
+    "end_ms": 203133000,
+    "duration_ms": 2860000
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -270,9 +270,9 @@
     "speed": 1.0,
     "audio_description": "amused, sardonic",
     "trailing_silence_ms": 400,
-    "start_ms": 203133,
-    "end_ms": 211759,
-    "duration_ms": 8626
+    "start_ms": 203133000,
+    "end_ms": 211759000,
+    "duration_ms": 8626000
   },
   {
     "character_identifier": "RED_FACED_GENTLEMAN",
@@ -281,9 +281,9 @@
     "speed": 1.0,
     "audio_description": "mercenary, blunt",
     "trailing_silence_ms": 500,
-    "start_ms": 211759,
-    "end_ms": 217925,
-    "duration_ms": 6166
+    "start_ms": 211759000,
+    "end_ms": 217925000,
+    "duration_ms": 6166000
   },
   {
     "character_identifier": "NARRATOR",
@@ -292,9 +292,9 @@
     "speed": 1.0,
     "audio_description": "brief",
     "trailing_silence_ms": 300,
-    "start_ms": 217925,
-    "end_ms": 219065,
-    "duration_ms": 1140
+    "start_ms": 217925000,
+    "end_ms": 219065000,
+    "duration_ms": 1140000
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -303,9 +303,9 @@
     "speed": 1.0,
     "audio_description": "mock-serious, cheerful",
     "trailing_silence_ms": 300,
-    "start_ms": 219065,
-    "end_ms": 238018,
-    "duration_ms": 18953
+    "start_ms": 219065000,
+    "end_ms": 238018000,
+    "duration_ms": 18953000
   },
   {
     "character_identifier": "NARRATOR",
@@ -314,9 +314,9 @@
     "speed": 1.0,
     "audio_description": "measured",
     "trailing_silence_ms": 300,
-    "start_ms": 238018,
-    "end_ms": 246518,
-    "duration_ms": 8500
+    "start_ms": 238018000,
+    "end_ms": 246518000,
+    "duration_ms": 8500000
   },
   {
     "character_identifier": "NARRATOR",
@@ -325,9 +325,9 @@
     "speed": 1.0,
     "audio_description": "mysterious",
     "trailing_silence_ms": 300,
-    "start_ms": 246518,
-    "end_ms": 255898,
-    "duration_ms": 9380
+    "start_ms": 246518000,
+    "end_ms": 255898000,
+    "duration_ms": 9380000
   },
   {
     "character_identifier": "NARRATOR",
@@ -336,9 +336,9 @@
     "speed": 1.0,
     "audio_description": "informative",
     "trailing_silence_ms": 300,
-    "start_ms": 255898,
-    "end_ms": 271038,
-    "duration_ms": 15140
+    "start_ms": 255898000,
+    "end_ms": 271038000,
+    "duration_ms": 15140000
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_1",
@@ -347,9 +347,9 @@
     "speed": 1.0,
     "audio_description": "perfunctory",
     "trailing_silence_ms": 300,
-    "start_ms": 271038,
-    "end_ms": 272084,
-    "duration_ms": 1046
+    "start_ms": 271038000,
+    "end_ms": 272084000,
+    "duration_ms": 1046000
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_2",
@@ -358,9 +358,9 @@
     "speed": 1.0,
     "audio_description": "polite, distant",
     "trailing_silence_ms": 300,
-    "start_ms": 272084,
-    "end_ms": 273570,
-    "duration_ms": 1486
+    "start_ms": 272084000,
+    "end_ms": 273570000,
+    "duration_ms": 1486000
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_1",
@@ -369,9 +369,9 @@
     "speed": 1.0,
     "audio_description": "cryptic, knowing",
     "trailing_silence_ms": 400,
-    "start_ms": 273570,
-    "end_ms": 277316,
-    "duration_ms": 3746
+    "start_ms": 273570000,
+    "end_ms": 277316000,
+    "duration_ms": 3746000
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_2",
@@ -380,9 +380,9 @@
     "speed": 1.0,
     "audio_description": "deflecting, casual",
     "trailing_silence_ms": 100,
-    "start_ms": 277316,
-    "end_ms": 279722,
-    "duration_ms": 2406
+    "start_ms": 277316000,
+    "end_ms": 279722000,
+    "duration_ms": 2406000
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_1",
@@ -391,9 +391,9 @@
     "speed": 1.0,
     "audio_description": "conversational",
     "trailing_silence_ms": 300,
-    "start_ms": 279722,
-    "end_ms": 283768,
-    "duration_ms": 4046
+    "start_ms": 279722000,
+    "end_ms": 283768000,
+    "duration_ms": 4046000
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_2",
@@ -402,9 +402,9 @@
     "speed": 1.0,
     "audio_description": "terse, dismissive",
     "trailing_silence_ms": 600,
-    "start_ms": 283768,
-    "end_ms": 287594,
-    "duration_ms": 3826
+    "start_ms": 283768000,
+    "end_ms": 287594000,
+    "duration_ms": 3826000
   },
   {
     "character_identifier": "NARRATOR",
@@ -413,9 +413,9 @@
     "speed": 1.0,
     "audio_description": "stark, pointed",
     "trailing_silence_ms": 300,
-    "start_ms": 287594,
-    "end_ms": 292534,
-    "duration_ms": 4940
+    "start_ms": 287594000,
+    "end_ms": 292534000,
+    "duration_ms": 4940000
   },
   {
     "character_identifier": "NARRATOR",
@@ -424,9 +424,9 @@
     "speed": 1.0,
     "audio_description": "thoughtful, introspective",
     "trailing_silence_ms": 300,
-    "start_ms": 292534,
-    "end_ms": 347474,
-    "duration_ms": 54940
+    "start_ms": 292534000,
+    "end_ms": 347474000,
+    "duration_ms": 54940000
   },
   {
     "character_identifier": "NARRATOR",
@@ -435,9 +435,9 @@
     "speed": 1.0,
     "audio_description": "contemplative",
     "trailing_silence_ms": 300,
-    "start_ms": 347474,
-    "end_ms": 372214,
-    "duration_ms": 24740
+    "start_ms": 347474000,
+    "end_ms": 372214000,
+    "duration_ms": 24740000
   },
   {
     "character_identifier": "NARRATOR",
@@ -446,9 +446,9 @@
     "speed": 1.0,
     "audio_description": "eerie, chilling",
     "trailing_silence_ms": 300,
-    "start_ms": 372214,
-    "end_ms": 390074,
-    "duration_ms": 17860
+    "start_ms": 372214000,
+    "end_ms": 390074000,
+    "duration_ms": 17860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -457,9 +457,9 @@
     "speed": 1.0,
     "audio_description": "grim, disgusted",
     "trailing_silence_ms": 300,
-    "start_ms": 390074,
-    "end_ms": 419094,
-    "duration_ms": 29020
+    "start_ms": 390074000,
+    "end_ms": 419094000,
+    "duration_ms": 29020000
   },
   {
     "character_identifier": "NARRATOR",
@@ -468,9 +468,9 @@
     "speed": 1.0,
     "audio_description": "revolting, descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 419094,
-    "end_ms": 467474,
-    "duration_ms": 48380
+    "start_ms": 419094000,
+    "end_ms": 467474000,
+    "duration_ms": 48380000
   },
   {
     "character_identifier": "NARRATOR",
@@ -479,9 +479,9 @@
     "speed": 1.0,
     "audio_description": "wry, sinister",
     "trailing_silence_ms": 300,
-    "start_ms": 467474,
-    "end_ms": 495574,
-    "duration_ms": 28100
+    "start_ms": 467474000,
+    "end_ms": 495574000,
+    "duration_ms": 28100000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -490,9 +490,9 @@
     "speed": 1.0,
     "audio_description": "boastful, laughing",
     "trailing_silence_ms": 300,
-    "start_ms": 495574,
-    "end_ms": 508220,
-    "duration_ms": 12646
+    "start_ms": 495574000,
+    "end_ms": 508220000,
+    "duration_ms": 12646000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -501,9 +501,9 @@
     "speed": 1.0,
     "audio_description": "cackling, jovial",
     "trailing_silence_ms": 700,
-    "start_ms": 508220,
-    "end_ms": 534293,
-    "duration_ms": 26073
+    "start_ms": 508220000,
+    "end_ms": 534293000,
+    "duration_ms": 26073000
   },
   {
     "character_identifier": "NARRATOR",
@@ -512,9 +512,9 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_ms": 300,
-    "start_ms": 534293,
-    "end_ms": 547633,
-    "duration_ms": 13340
+    "start_ms": 534293000,
+    "end_ms": 547633000,
+    "duration_ms": 13340000
   },
   {
     "character_identifier": "NARRATOR",
@@ -523,9 +523,9 @@
     "speed": 1.0,
     "audio_description": "contemptuous",
     "trailing_silence_ms": 300,
-    "start_ms": 547633,
-    "end_ms": 560973,
-    "duration_ms": 13340
+    "start_ms": 547633000,
+    "end_ms": 560973000,
+    "duration_ms": 13340000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -534,9 +534,9 @@
     "speed": 1.0,
     "audio_description": "defiant, bold",
     "trailing_silence_ms": 200,
-    "start_ms": 560973,
-    "end_ms": 567439,
-    "duration_ms": 6466
+    "start_ms": 560973000,
+    "end_ms": 567439000,
+    "duration_ms": 6466000
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -545,9 +545,9 @@
     "speed": 1.0,
     "audio_description": "agreeing, nervous",
     "trailing_silence_ms": 100,
-    "start_ms": 567439,
-    "end_ms": 570085,
-    "duration_ms": 2646
+    "start_ms": 567439000,
+    "end_ms": 570085000,
+    "duration_ms": 2646000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -556,9 +556,9 @@
     "speed": 1.0,
     "audio_description": "brazen, challenging",
     "trailing_silence_ms": 300,
-    "start_ms": 570085,
-    "end_ms": 578211,
-    "duration_ms": 8126
+    "start_ms": 570085000,
+    "end_ms": 578211000,
+    "duration_ms": 8126000
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -567,9 +567,9 @@
     "speed": 1.0,
     "audio_description": "neutral",
     "trailing_silence_ms": 200,
-    "start_ms": 578211,
-    "end_ms": 580437,
-    "duration_ms": 2226
+    "start_ms": 578211000,
+    "end_ms": 580437000,
+    "duration_ms": 2226000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -578,9 +578,9 @@
     "speed": 1.0,
     "audio_description": "callous, matter-of-fact",
     "trailing_silence_ms": 500,
-    "start_ms": 580437,
-    "end_ms": 587443,
-    "duration_ms": 7006
+    "start_ms": 580437000,
+    "end_ms": 587443000,
+    "duration_ms": 7006000
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -589,9 +589,9 @@
     "speed": 1.0,
     "audio_description": "laughing, agreeable",
     "trailing_silence_ms": 400,
-    "start_ms": 587443,
-    "end_ms": 589949,
-    "duration_ms": 2506
+    "start_ms": 587443000,
+    "end_ms": 589949000,
+    "duration_ms": 2506000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -600,9 +600,9 @@
     "speed": 1.0,
     "audio_description": "harsh, bitter",
     "trailing_silence_ms": 300,
-    "start_ms": 589949,
-    "end_ms": 605622,
-    "duration_ms": 15673
+    "start_ms": 589949000,
+    "end_ms": 605622000,
+    "duration_ms": 15673000
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -611,9 +611,9 @@
     "speed": 1.0,
     "audio_description": "vindictive, emphatic",
     "trailing_silence_ms": 200,
-    "start_ms": 605622,
-    "end_ms": 610128,
-    "duration_ms": 4506
+    "start_ms": 605622000,
+    "end_ms": 610128000,
+    "duration_ms": 4506000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -622,9 +622,9 @@
     "speed": 1.0,
     "audio_description": "brazen, challenging",
     "trailing_silence_ms": 600,
-    "start_ms": 610128,
-    "end_ms": 635381,
-    "duration_ms": 25253
+    "start_ms": 610128000,
+    "end_ms": 635381000,
+    "duration_ms": 25253000
   },
   {
     "character_identifier": "NARRATOR",
@@ -633,9 +633,9 @@
     "speed": 1.0,
     "audio_description": "clinical, detached",
     "trailing_silence_ms": 300,
-    "start_ms": 635381,
-    "end_ms": 663041,
-    "duration_ms": 27660
+    "start_ms": 635381000,
+    "end_ms": 663041000,
+    "duration_ms": 27660000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -644,9 +644,9 @@
     "speed": 1.0,
     "audio_description": "shrewd, firm",
     "trailing_silence_ms": 200,
-    "start_ms": 663041,
-    "end_ms": 670387,
-    "duration_ms": 7346
+    "start_ms": 663041000,
+    "end_ms": 670387000,
+    "duration_ms": 7346000
   },
   {
     "character_identifier": "NARRATOR",
@@ -655,9 +655,9 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_ms": 300,
-    "start_ms": 670387,
-    "end_ms": 683327,
-    "duration_ms": 12940
+    "start_ms": 670387000,
+    "end_ms": 683327000,
+    "duration_ms": 12940000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -666,9 +666,9 @@
     "speed": 1.0,
     "audio_description": "mock-generous, sly",
     "trailing_silence_ms": 500,
-    "start_ms": 683327,
-    "end_ms": 698133,
-    "duration_ms": 14806
+    "start_ms": 683327000,
+    "end_ms": 698133000,
+    "duration_ms": 14806000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -677,9 +677,9 @@
     "speed": 1.0,
     "audio_description": "commanding",
     "trailing_silence_ms": 500,
-    "start_ms": 698133,
-    "end_ms": 701299,
-    "duration_ms": 3166
+    "start_ms": 698133000,
+    "end_ms": 701299000,
+    "duration_ms": 3166000
   },
   {
     "character_identifier": "NARRATOR",
@@ -688,9 +688,9 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 701299,
-    "end_ms": 712159,
-    "duration_ms": 10860
+    "start_ms": 701299000,
+    "end_ms": 712159000,
+    "duration_ms": 10860000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -699,9 +699,9 @@
     "speed": 1.0,
     "audio_description": "surprised, knowing",
     "trailing_silence_ms": 400,
-    "start_ms": 712159,
-    "end_ms": 715425,
-    "duration_ms": 3266
+    "start_ms": 712159000,
+    "end_ms": 715425000,
+    "duration_ms": 3266000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -710,9 +710,9 @@
     "speed": 1.0,
     "audio_description": "laughing, defiant",
     "trailing_silence_ms": 400,
-    "start_ms": 715425,
-    "end_ms": 719211,
-    "duration_ms": 3786
+    "start_ms": 715425000,
+    "end_ms": 719211000,
+    "duration_ms": 3786000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -721,9 +721,9 @@
     "speed": 1.0,
     "audio_description": "shocked, amused",
     "trailing_silence_ms": 400,
-    "start_ms": 719211,
-    "end_ms": 724117,
-    "duration_ms": 4906
+    "start_ms": 719211000,
+    "end_ms": 724117000,
+    "duration_ms": 4906000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -732,9 +732,9 @@
     "speed": 1.0,
     "audio_description": "brazen, matter-of-fact",
     "trailing_silence_ms": 400,
-    "start_ms": 724117,
-    "end_ms": 726183,
-    "duration_ms": 2066
+    "start_ms": 724117000,
+    "end_ms": 726183000,
+    "duration_ms": 2066000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -743,9 +743,9 @@
     "speed": 1.0,
     "audio_description": "admiring, cackling",
     "trailing_silence_ms": 400,
-    "start_ms": 726183,
-    "end_ms": 730489,
-    "duration_ms": 4306
+    "start_ms": 726183000,
+    "end_ms": 730489000,
+    "duration_ms": 4306000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -754,9 +754,9 @@
     "speed": 1.0,
     "audio_description": "cold, practical",
     "trailing_silence_ms": 400,
-    "start_ms": 730489,
-    "end_ms": 741315,
-    "duration_ms": 10826
+    "start_ms": 730489000,
+    "end_ms": 741315000,
+    "duration_ms": 10826000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -765,9 +765,9 @@
     "speed": 1.0,
     "audio_description": "surprised, questioning",
     "trailing_silence_ms": 300,
-    "start_ms": 741315,
-    "end_ms": 743161,
-    "duration_ms": 1846
+    "start_ms": 741315000,
+    "end_ms": 743161000,
+    "duration_ms": 1846000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -776,9 +776,9 @@
     "speed": 1.0,
     "audio_description": "sarcastic, cold",
     "trailing_silence_ms": 500,
-    "start_ms": 743161,
-    "end_ms": 748487,
-    "duration_ms": 5326
+    "start_ms": 743161000,
+    "end_ms": 748487000,
+    "duration_ms": 5326000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -787,9 +787,9 @@
     "speed": 1.0,
     "audio_description": "worried",
     "trailing_silence_ms": 200,
-    "start_ms": 748487,
-    "end_ms": 752433,
-    "duration_ms": 3946
+    "start_ms": 748487000,
+    "end_ms": 752433000,
+    "duration_ms": 3946000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -798,9 +798,9 @@
     "speed": 1.0,
     "audio_description": "defiant, proud",
     "trailing_silence_ms": 500,
-    "start_ms": 752433,
-    "end_ms": 771666,
-    "duration_ms": 19233
+    "start_ms": 752433000,
+    "end_ms": 771666000,
+    "duration_ms": 19233000
   },
   {
     "character_identifier": "OLD_JOE",
@@ -809,9 +809,9 @@
     "speed": 1.0,
     "audio_description": "curious",
     "trailing_silence_ms": 300,
-    "start_ms": 771666,
-    "end_ms": 774432,
-    "duration_ms": 2766
+    "start_ms": 771666000,
+    "end_ms": 774432000,
+    "duration_ms": 2766000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -820,9 +820,9 @@
     "speed": 1.0,
     "audio_description": "callous, laughing",
     "trailing_silence_ms": 300,
-    "start_ms": 774432,
-    "end_ms": 789105,
-    "duration_ms": 14673
+    "start_ms": 774432000,
+    "end_ms": 789105000,
+    "duration_ms": 14673000
   },
   {
     "character_identifier": "NARRATOR",
@@ -831,9 +831,9 @@
     "speed": 1.0,
     "audio_description": "revolted, horrified",
     "trailing_silence_ms": 300,
-    "start_ms": 789105,
-    "end_ms": 806765,
-    "duration_ms": 17660
+    "start_ms": 789105000,
+    "end_ms": 806765000,
+    "duration_ms": 17660000
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -842,9 +842,9 @@
     "speed": 1.0,
     "audio_description": "laughing, triumphant",
     "trailing_silence_ms": 300,
-    "start_ms": 806765,
-    "end_ms": 814771,
-    "duration_ms": 8006
+    "start_ms": 806765000,
+    "end_ms": 814771000,
+    "duration_ms": 8006000
   },
   {
     "character_identifier": "SCROOGE",
@@ -853,9 +853,9 @@
     "speed": 1.0,
     "audio_description": "agonized, shuddering",
     "trailing_silence_ms": 500,
-    "start_ms": 814771,
-    "end_ms": 824017,
-    "duration_ms": 9246
+    "start_ms": 814771000,
+    "end_ms": 824017000,
+    "duration_ms": 9246000
   },
   {
     "character_identifier": "NARRATOR",
@@ -864,9 +864,9 @@
     "speed": 1.0,
     "audio_description": "chilling, dreadful",
     "trailing_silence_ms": 300,
-    "start_ms": 824017,
-    "end_ms": 839077,
-    "duration_ms": 15060
+    "start_ms": 824017000,
+    "end_ms": 839077000,
+    "duration_ms": 15060000
   },
   {
     "character_identifier": "NARRATOR",
@@ -875,9 +875,9 @@
     "speed": 1.0,
     "audio_description": "solemn, eerie",
     "trailing_silence_ms": 300,
-    "start_ms": 839077,
-    "end_ms": 860137,
-    "duration_ms": 21060
+    "start_ms": 839077000,
+    "end_ms": 860137000,
+    "duration_ms": 21060000
   },
   {
     "character_identifier": "NARRATOR",
@@ -886,9 +886,9 @@
     "speed": 1.0,
     "audio_description": "tense, fearful",
     "trailing_silence_ms": 300,
-    "start_ms": 860137,
-    "end_ms": 882597,
-    "duration_ms": 22460
+    "start_ms": 860137000,
+    "end_ms": 882597000,
+    "duration_ms": 22460000
   },
   {
     "character_identifier": "NARRATOR",
@@ -897,9 +897,9 @@
     "speed": 1.0,
     "audio_description": "passionate, defiant",
     "trailing_silence_ms": 300,
-    "start_ms": 882597,
-    "end_ms": 920497,
-    "duration_ms": 37900
+    "start_ms": 882597000,
+    "end_ms": 920497000,
+    "duration_ms": 37900000
   },
   {
     "character_identifier": "NARRATOR",
@@ -908,9 +908,9 @@
     "speed": 1.0,
     "audio_description": "bitter, sorrowful",
     "trailing_silence_ms": 300,
-    "start_ms": 920497,
-    "end_ms": 937757,
-    "duration_ms": 17260
+    "start_ms": 920497000,
+    "end_ms": 937757000,
+    "duration_ms": 17260000
   },
   {
     "character_identifier": "NARRATOR",
@@ -919,9 +919,9 @@
     "speed": 1.0,
     "audio_description": "grim, disturbing",
     "trailing_silence_ms": 300,
-    "start_ms": 937757,
-    "end_ms": 962057,
-    "duration_ms": 24300
+    "start_ms": 937757000,
+    "end_ms": 962057000,
+    "duration_ms": 24300000
   },
   {
     "character_identifier": "SCROOGE",
@@ -930,9 +930,9 @@
     "speed": 1.0,
     "audio_description": "desperate, pleading",
     "trailing_silence_ms": 600,
-    "start_ms": 962057,
-    "end_ms": 969443,
-    "duration_ms": 7386
+    "start_ms": 962057000,
+    "end_ms": 969443000,
+    "duration_ms": 7386000
   },
   {
     "character_identifier": "NARRATOR",
@@ -941,9 +941,9 @@
     "speed": 1.0,
     "audio_description": "stark, ominous",
     "trailing_silence_ms": 300,
-    "start_ms": 969443,
-    "end_ms": 973023,
-    "duration_ms": 3580
+    "start_ms": 969443000,
+    "end_ms": 973023000,
+    "duration_ms": 3580000
   },
   {
     "character_identifier": "SCROOGE",
@@ -952,9 +952,9 @@
     "speed": 1.0,
     "audio_description": "trembling, helpless",
     "trailing_silence_ms": 600,
-    "start_ms": 973023,
-    "end_ms": 981929,
-    "duration_ms": 8906
+    "start_ms": 973023000,
+    "end_ms": 981929000,
+    "duration_ms": 8906000
   },
   {
     "character_identifier": "NARRATOR",
@@ -963,9 +963,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 981929,
-    "end_ms": 983829,
-    "duration_ms": 1900
+    "start_ms": 981929000,
+    "end_ms": 983829000,
+    "duration_ms": 1900000
   },
   {
     "character_identifier": "SCROOGE",
@@ -974,9 +974,9 @@
     "speed": 1.0,
     "audio_description": "agonized, begging",
     "trailing_silence_ms": 900,
-    "start_ms": 983829,
-    "end_ms": 992955,
-    "duration_ms": 9126
+    "start_ms": 983829000,
+    "end_ms": 992955000,
+    "duration_ms": 9126000
   },
   {
     "character_identifier": "NARRATOR",
@@ -985,9 +985,9 @@
     "speed": 1.0,
     "audio_description": "mysterious, swift",
     "trailing_silence_ms": 300,
-    "start_ms": 992955,
-    "end_ms": 1002775,
-    "duration_ms": 9820
+    "start_ms": 992955000,
+    "end_ms": 1002775000,
+    "duration_ms": 9820000
   },
   {
     "character_identifier": "NARRATOR",
@@ -996,9 +996,9 @@
     "speed": 1.0,
     "audio_description": "anxious, tense",
     "trailing_silence_ms": 300,
-    "start_ms": 1002775,
-    "end_ms": 1019395,
-    "duration_ms": 16620
+    "start_ms": 1002775000,
+    "end_ms": 1019395000,
+    "duration_ms": 16620000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1007,9 +1007,9 @@
     "speed": 1.0,
     "audio_description": "measured, careful",
     "trailing_silence_ms": 300,
-    "start_ms": 1019395,
-    "end_ms": 1037095,
-    "duration_ms": 17700
+    "start_ms": 1019395000,
+    "end_ms": 1037095000,
+    "duration_ms": 17700000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1018,9 +1018,9 @@
     "speed": 1.0,
     "audio_description": "somber, uncertain ",
     "trailing_silence_ms": 300,
-    "start_ms": 1037095,
-    "end_ms": 1048355,
-    "duration_ms": 11260
+    "start_ms": 1037095000,
+    "end_ms": 1048355000,
+    "duration_ms": 11260000
   },
   {
     "character_identifier": "CAROLINE",
@@ -1029,9 +1029,9 @@
     "speed": 1.0,
     "audio_description": "faint, fearful",
     "trailing_silence_ms": 500,
-    "start_ms": 1048355,
-    "end_ms": 1050961,
-    "duration_ms": 2606
+    "start_ms": 1048355000,
+    "end_ms": 1050961000,
+    "duration_ms": 2606000
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1040,9 +1040,9 @@
     "speed": 1.0,
     "audio_description": "heavy, reluctant",
     "trailing_silence_ms": 400,
-    "start_ms": 1050961,
-    "end_ms": 1051947,
-    "duration_ms": 986
+    "start_ms": 1050961000,
+    "end_ms": 1051947000,
+    "duration_ms": 986000
   },
   {
     "character_identifier": "CAROLINE",
@@ -1051,9 +1051,9 @@
     "speed": 1.0,
     "audio_description": "despairing",
     "trailing_silence_ms": 400,
-    "start_ms": 1051947,
-    "end_ms": 1053693,
-    "duration_ms": 1746
+    "start_ms": 1051947000,
+    "end_ms": 1053693000,
+    "duration_ms": 1746000
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1062,9 +1062,9 @@
     "speed": 1.0,
     "audio_description": "gentle, hopeful",
     "trailing_silence_ms": 500,
-    "start_ms": 1053693,
-    "end_ms": 1056459,
-    "duration_ms": 2766
+    "start_ms": 1053693000,
+    "end_ms": 1056459000,
+    "duration_ms": 2766000
   },
   {
     "character_identifier": "CAROLINE",
@@ -1073,9 +1073,9 @@
     "speed": 1.0,
     "audio_description": "amazed, disbelieving",
     "trailing_silence_ms": 500,
-    "start_ms": 1056459,
-    "end_ms": 1062105,
-    "duration_ms": 5646
+    "start_ms": 1056459000,
+    "end_ms": 1062105000,
+    "duration_ms": 5646000
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1084,9 +1084,9 @@
     "speed": 1.0,
     "audio_description": "solemn, final",
     "trailing_silence_ms": 500,
-    "start_ms": 1062105,
-    "end_ms": 1065431,
-    "duration_ms": 3326
+    "start_ms": 1062105000,
+    "end_ms": 1065431000,
+    "duration_ms": 3326000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1095,9 +1095,9 @@
     "speed": 1.0,
     "audio_description": "measured, conflicted",
     "trailing_silence_ms": 300,
-    "start_ms": 1065431,
-    "end_ms": 1081011,
-    "duration_ms": 15580
+    "start_ms": 1065431000,
+    "end_ms": 1081011000,
+    "duration_ms": 15580000
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1106,9 +1106,9 @@
     "speed": 1.0,
     "audio_description": "explaining, relieved",
     "trailing_silence_ms": 300,
-    "start_ms": 1081011,
-    "end_ms": 1094177,
-    "duration_ms": 13166
+    "start_ms": 1081011000,
+    "end_ms": 1094177000,
+    "duration_ms": 13166000
   },
   {
     "character_identifier": "CAROLINE",
@@ -1117,9 +1117,9 @@
     "speed": 1.0,
     "audio_description": "worried, practical",
     "trailing_silence_ms": 400,
-    "start_ms": 1094177,
-    "end_ms": 1096883,
-    "duration_ms": 2706
+    "start_ms": 1094177000,
+    "end_ms": 1096883000,
+    "duration_ms": 2706000
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1128,9 +1128,9 @@
     "speed": 1.0,
     "audio_description": "reassuring, hopeful",
     "trailing_silence_ms": 700,
-    "start_ms": 1096883,
-    "end_ms": 1109089,
-    "duration_ms": 12206
+    "start_ms": 1096883000,
+    "end_ms": 1109089000,
+    "duration_ms": 12206000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1139,9 +1139,9 @@
     "speed": 1.0,
     "audio_description": "pointed, bitter",
     "trailing_silence_ms": 300,
-    "start_ms": 1109089,
-    "end_ms": 1128589,
-    "duration_ms": 19500
+    "start_ms": 1109089000,
+    "end_ms": 1128589000,
+    "duration_ms": 19500000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1150,9 +1150,9 @@
     "speed": 1.0,
     "audio_description": "pleading, desperate",
     "trailing_silence_ms": 500,
-    "start_ms": 1128589,
-    "end_ms": 1139515,
-    "duration_ms": 10926
+    "start_ms": 1128589000,
+    "end_ms": 1139515000,
+    "duration_ms": 10926000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1161,9 +1161,9 @@
     "speed": 1.0,
     "audio_description": "somber, reverent",
     "trailing_silence_ms": 300,
-    "start_ms": 1139515,
-    "end_ms": 1157775,
-    "duration_ms": 18260
+    "start_ms": 1139515000,
+    "end_ms": 1157775000,
+    "duration_ms": 18260000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1172,9 +1172,9 @@
     "speed": 1.0,
     "audio_description": "hushed, mournful",
     "trailing_silence_ms": 300,
-    "start_ms": 1157775,
-    "end_ms": 1171955,
-    "duration_ms": 14180
+    "start_ms": 1157775000,
+    "end_ms": 1171955000,
+    "duration_ms": 14180000
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1183,9 +1183,9 @@
     "speed": 1.0,
     "audio_description": "soft, reading",
     "trailing_silence_ms": 800,
-    "start_ms": 1171955,
-    "end_ms": 1176181,
-    "duration_ms": 4226
+    "start_ms": 1171955000,
+    "end_ms": 1176181000,
+    "duration_ms": 4226000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1194,9 +1194,9 @@
     "speed": 1.0,
     "audio_description": "questioning, gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 1176181,
-    "end_ms": 1185881,
-    "duration_ms": 9700
+    "start_ms": 1176181000,
+    "end_ms": 1185881000,
+    "duration_ms": 9700000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1205,9 +1205,9 @@
     "speed": 1.0,
     "audio_description": "quiet, sad",
     "trailing_silence_ms": 300,
-    "start_ms": 1185881,
-    "end_ms": 1190421,
-    "duration_ms": 4540
+    "start_ms": 1185881000,
+    "end_ms": 1190421000,
+    "duration_ms": 4540000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1216,9 +1216,9 @@
     "speed": 1.0,
     "audio_description": "tearful, covering",
     "trailing_silence_ms": 500,
-    "start_ms": 1190421,
-    "end_ms": 1192587,
-    "duration_ms": 2166
+    "start_ms": 1190421000,
+    "end_ms": 1192587000,
+    "duration_ms": 2166000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1227,9 +1227,9 @@
     "speed": 1.0,
     "audio_description": "sorrowful, understanding",
     "trailing_silence_ms": 400,
-    "start_ms": 1192587,
-    "end_ms": 1195187,
-    "duration_ms": 2600
+    "start_ms": 1192587000,
+    "end_ms": 1195187000,
+    "duration_ms": 2600000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1238,9 +1238,9 @@
     "speed": 1.0,
     "audio_description": "steady, brave",
     "trailing_silence_ms": 200,
-    "start_ms": 1195187,
-    "end_ms": 1205173,
-    "duration_ms": 9986
+    "start_ms": 1195187000,
+    "end_ms": 1205173000,
+    "duration_ms": 9986000
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1249,9 +1249,9 @@
     "speed": 1.0,
     "audio_description": "gentle, observant",
     "trailing_silence_ms": 600,
-    "start_ms": 1205173,
-    "end_ms": 1211679,
-    "duration_ms": 6506
+    "start_ms": 1205173000,
+    "end_ms": 1211679000,
+    "duration_ms": 6506000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1260,9 +1260,9 @@
     "speed": 1.0,
     "audio_description": "somber, careful",
     "trailing_silence_ms": 300,
-    "start_ms": 1211679,
-    "end_ms": 1218539,
-    "duration_ms": 6860
+    "start_ms": 1211679000,
+    "end_ms": 1218539000,
+    "duration_ms": 6860000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1271,9 +1271,9 @@
     "speed": 1.0,
     "audio_description": "faltering, brave",
     "trailing_silence_ms": 600,
-    "start_ms": 1218539,
-    "end_ms": 1226685,
-    "duration_ms": 8146
+    "start_ms": 1218539000,
+    "end_ms": 1226685000,
+    "duration_ms": 8146000
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1282,9 +1282,9 @@
     "speed": 1.0,
     "audio_description": "neutral",
     "trailing_silence_ms": 300,
-    "start_ms": 1226685,
-    "end_ms": 1229491,
-    "duration_ms": 2806
+    "start_ms": 1226685000,
+    "end_ms": 1229491000,
+    "duration_ms": 2806000
   },
   {
     "character_identifier": "MARTHA_CRATCHIT",
@@ -1293,9 +1293,9 @@
     "speed": 1.0,
     "audio_description": "sad",
     "trailing_silence_ms": 300,
-    "start_ms": 1229491,
-    "end_ms": 1230897,
-    "duration_ms": 1406
+    "start_ms": 1229491000,
+    "end_ms": 1230897000,
+    "duration_ms": 1406000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1304,9 +1304,9 @@
     "speed": 1.0,
     "audio_description": "",
     "trailing_silence_ms": 500,
-    "start_ms": 1230897,
-    "end_ms": 1232237,
-    "duration_ms": 1340
+    "start_ms": 1230897000,
+    "end_ms": 1232237000,
+    "duration_ms": 1340000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1315,9 +1315,9 @@
     "speed": 1.0,
     "audio_description": "gentle, breaking",
     "trailing_silence_ms": 600,
-    "start_ms": 1232237,
-    "end_ms": 1242423,
-    "duration_ms": 10186
+    "start_ms": 1232237000,
+    "end_ms": 1242423000,
+    "duration_ms": 10186000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1326,9 +1326,9 @@
     "speed": 1.0,
     "audio_description": "tender, sorrowful",
     "trailing_silence_ms": 300,
-    "start_ms": 1242423,
-    "end_ms": 1264523,
-    "duration_ms": 22100
+    "start_ms": 1242423000,
+    "end_ms": 1264523000,
+    "duration_ms": 22100000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1337,9 +1337,9 @@
     "speed": 1.0,
     "audio_description": "gentle, measured",
     "trailing_silence_ms": 300,
-    "start_ms": 1264523,
-    "end_ms": 1278743,
-    "duration_ms": 14220
+    "start_ms": 1264523000,
+    "end_ms": 1278743000,
+    "duration_ms": 14220000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1348,9 +1348,9 @@
     "speed": 1.0,
     "audio_description": "quiet, realizing",
     "trailing_silence_ms": 500,
-    "start_ms": 1278743,
-    "end_ms": 1282549,
-    "duration_ms": 3806
+    "start_ms": 1278743000,
+    "end_ms": 1282549000,
+    "duration_ms": 3806000
   },
   {
     "character_identifier": "CLERK",
@@ -1359,9 +1359,9 @@
     "speed": 1.0,
     "audio_description": "breaking down, sobbing",
     "trailing_silence_ms": 900,
-    "start_ms": 1282549,
-    "end_ms": 1299235,
-    "duration_ms": 16686
+    "start_ms": 1282549000,
+    "end_ms": 1299235000,
+    "duration_ms": 16686000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1370,9 +1370,9 @@
     "speed": 1.0,
     "audio_description": "sorrowful, gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 1299235,
-    "end_ms": 1308135,
-    "duration_ms": 8900
+    "start_ms": 1299235000,
+    "end_ms": 1308135000,
+    "duration_ms": 8900000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1381,9 +1381,9 @@
     "speed": 1.0,
     "audio_description": "tender, reverent",
     "trailing_silence_ms": 300,
-    "start_ms": 1308135,
-    "end_ms": 1333275,
-    "duration_ms": 25140
+    "start_ms": 1308135000,
+    "end_ms": 1333275000,
+    "duration_ms": 25140000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1392,9 +1392,9 @@
     "speed": 1.0,
     "audio_description": "warm, grateful",
     "trailing_silence_ms": 300,
-    "start_ms": 1333275,
-    "end_ms": 1354895,
-    "duration_ms": 21620
+    "start_ms": 1333275000,
+    "end_ms": 1354895000,
+    "duration_ms": 21620000
   },
   {
     "character_identifier": "CLERK",
@@ -1403,9 +1403,9 @@
     "speed": 1.0,
     "audio_description": "warm, grateful",
     "trailing_silence_ms": 500,
-    "start_ms": 1354895,
-    "end_ms": 1370221,
-    "duration_ms": 15326
+    "start_ms": 1354895000,
+    "end_ms": 1370221000,
+    "duration_ms": 15326000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1414,9 +1414,9 @@
     "speed": 1.0,
     "audio_description": "curious",
     "trailing_silence_ms": 300,
-    "start_ms": 1370221,
-    "end_ms": 1372507,
-    "duration_ms": 2286
+    "start_ms": 1370221000,
+    "end_ms": 1372507000,
+    "duration_ms": 2286000
   },
   {
     "character_identifier": "CLERK",
@@ -1425,9 +1425,9 @@
     "speed": 1.0,
     "audio_description": "gentle, loving",
     "trailing_silence_ms": 400,
-    "start_ms": 1372507,
-    "end_ms": 1375253,
-    "duration_ms": 2746
+    "start_ms": 1372507000,
+    "end_ms": 1375253000,
+    "duration_ms": 2746000
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1436,9 +1436,9 @@
     "speed": 1.0,
     "audio_description": "earnest, defensive",
     "trailing_silence_ms": 400,
-    "start_ms": 1375253,
-    "end_ms": 1377079,
-    "duration_ms": 1826
+    "start_ms": 1375253000,
+    "end_ms": 1377079000,
+    "duration_ms": 1826000
   },
   {
     "character_identifier": "CLERK",
@@ -1447,9 +1447,9 @@
     "speed": 1.0,
     "audio_description": "warm, moved",
     "trailing_silence_ms": 600,
-    "start_ms": 1377079,
-    "end_ms": 1403892,
-    "duration_ms": 26813
+    "start_ms": 1377079000,
+    "end_ms": 1403892000,
+    "duration_ms": 26813000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1458,9 +1458,9 @@
     "speed": 1.0,
     "audio_description": "earnest, grateful",
     "trailing_silence_ms": 200,
-    "start_ms": 1403892,
-    "end_ms": 1405878,
-    "duration_ms": 1986
+    "start_ms": 1403892000,
+    "end_ms": 1405878000,
+    "duration_ms": 1986000
   },
   {
     "character_identifier": "CLERK",
@@ -1469,9 +1469,9 @@
     "speed": 1.0,
     "audio_description": "hopeful, encouraging",
     "trailing_silence_ms": 500,
-    "start_ms": 1405878,
-    "end_ms": 1415924,
-    "duration_ms": 10046
+    "start_ms": 1405878000,
+    "end_ms": 1415924000,
+    "duration_ms": 10046000
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1480,9 +1480,9 @@
     "speed": 1.0,
     "audio_description": "pleased, motherly",
     "trailing_silence_ms": 400,
-    "start_ms": 1415924,
-    "end_ms": 1417830,
-    "duration_ms": 1906
+    "start_ms": 1415924000,
+    "end_ms": 1417830000,
+    "duration_ms": 1906000
   },
   {
     "character_identifier": "MARTHA_CRATCHIT",
@@ -1491,8 +1491,8 @@
     "speed": 1.0,
     "audio_description": "teasing, playful",
     "trailing_silence_ms": 400,
-    "start_ms": 1417830,
-    "end_ms": 1417830,
+    "start_ms": 1417830000,
+    "end_ms": 1417830000,
     "duration_ms": 0
   },
   {
@@ -1502,9 +1502,9 @@
     "speed": 1.0,
     "audio_description": "embarrassed, grinning",
     "trailing_silence_ms": 500,
-    "start_ms": 1417830,
-    "end_ms": 1419876,
-    "duration_ms": 2046
+    "start_ms": 1417830000,
+    "end_ms": 1419876000,
+    "duration_ms": 2046000
   },
   {
     "character_identifier": "CLERK",
@@ -1513,9 +1513,9 @@
     "speed": 1.0,
     "audio_description": "solemn, loving",
     "trailing_silence_ms": 600,
-    "start_ms": 1419876,
-    "end_ms": 1438649,
-    "duration_ms": 18773
+    "start_ms": 1419876000,
+    "end_ms": 1438649000,
+    "duration_ms": 18773000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1524,9 +1524,9 @@
     "speed": 1.0,
     "audio_description": "neutral",
     "trailing_silence_ms": 500,
-    "start_ms": 1438649,
-    "end_ms": 1440789,
-    "duration_ms": 2140
+    "start_ms": 1438649000,
+    "end_ms": 1440789000,
+    "duration_ms": 2140000
   },
   {
     "character_identifier": "CLERK",
@@ -1535,9 +1535,9 @@
     "speed": 1.0,
     "audio_description": "gentle, earnest",
     "trailing_silence_ms": 600,
-    "start_ms": 1440789,
-    "end_ms": 1456895,
-    "duration_ms": 16106
+    "start_ms": 1440789000,
+    "end_ms": 1456895000,
+    "duration_ms": 16106000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1546,9 +1546,9 @@
     "speed": 1.0,
     "audio_description": "neutral",
     "trailing_silence_ms": 500,
-    "start_ms": 1456895,
-    "end_ms": 1460075,
-    "duration_ms": 3180
+    "start_ms": 1456895000,
+    "end_ms": 1460075000,
+    "duration_ms": 3180000
   },
   {
     "character_identifier": "CLERK",
@@ -1557,9 +1557,9 @@
     "speed": 1.0,
     "audio_description": "tearful, grateful",
     "trailing_silence_ms": 700,
-    "start_ms": 1460075,
-    "end_ms": 1463721,
-    "duration_ms": 3646
+    "start_ms": 1460075000,
+    "end_ms": 1463721000,
+    "duration_ms": 3646000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1568,9 +1568,9 @@
     "speed": 1.0,
     "audio_description": "reverent, tender",
     "trailing_silence_ms": 300,
-    "start_ms": 1463721,
-    "end_ms": 1476181,
-    "duration_ms": 12460
+    "start_ms": 1463721000,
+    "end_ms": 1476181000,
+    "duration_ms": 12460000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1579,9 +1579,9 @@
     "speed": 1.0,
     "audio_description": "urgent, desperate",
     "trailing_silence_ms": 800,
-    "start_ms": 1476181,
-    "end_ms": 1484967,
-    "duration_ms": 8786
+    "start_ms": 1476181000,
+    "end_ms": 1484967000,
+    "duration_ms": 8786000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1590,9 +1590,9 @@
     "speed": 1.0,
     "audio_description": "measured, ominous",
     "trailing_silence_ms": 300,
-    "start_ms": 1484967,
-    "end_ms": 1510707,
-    "duration_ms": 25740
+    "start_ms": 1484967000,
+    "end_ms": 1510707000,
+    "duration_ms": 25740000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1601,9 +1601,9 @@
     "speed": 1.0,
     "audio_description": "urgent, pleading",
     "trailing_silence_ms": 600,
-    "start_ms": 1510707,
-    "end_ms": 1521173,
-    "duration_ms": 10466
+    "start_ms": 1510707000,
+    "end_ms": 1521173000,
+    "duration_ms": 10466000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1612,9 +1612,9 @@
     "speed": 1.0,
     "audio_description": "stark",
     "trailing_silence_ms": 300,
-    "start_ms": 1521173,
-    "end_ms": 1524193,
-    "duration_ms": 3020
+    "start_ms": 1521173000,
+    "end_ms": 1524193000,
+    "duration_ms": 3020000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1623,9 +1623,9 @@
     "speed": 1.0,
     "audio_description": "confused, fearful",
     "trailing_silence_ms": 500,
-    "start_ms": 1524193,
-    "end_ms": 1527839,
-    "duration_ms": 3646
+    "start_ms": 1524193000,
+    "end_ms": 1527839000,
+    "duration_ms": 3646000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1634,9 +1634,9 @@
     "speed": 1.0,
     "audio_description": "ominous",
     "trailing_silence_ms": 300,
-    "start_ms": 1527839,
-    "end_ms": 1530739,
-    "duration_ms": 2900
+    "start_ms": 1527839000,
+    "end_ms": 1530739000,
+    "duration_ms": 2900000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1645,9 +1645,9 @@
     "speed": 1.0,
     "audio_description": "tense, foreboding",
     "trailing_silence_ms": 300,
-    "start_ms": 1530739,
-    "end_ms": 1543519,
-    "duration_ms": 12780
+    "start_ms": 1530739000,
+    "end_ms": 1543519000,
+    "duration_ms": 12780000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1656,9 +1656,9 @@
     "speed": 1.0,
     "audio_description": "somber",
     "trailing_silence_ms": 300,
-    "start_ms": 1543519,
-    "end_ms": 1553619,
-    "duration_ms": 10100
+    "start_ms": 1543519000,
+    "end_ms": 1553619000,
+    "duration_ms": 10100000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1667,9 +1667,9 @@
     "speed": 1.0,
     "audio_description": "bitter, grim",
     "trailing_silence_ms": 300,
-    "start_ms": 1553619,
-    "end_ms": 1573519,
-    "duration_ms": 19900
+    "start_ms": 1553619000,
+    "end_ms": 1573519000,
+    "duration_ms": 19900000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1678,9 +1678,9 @@
     "speed": 1.0,
     "audio_description": "dreadful, ominous",
     "trailing_silence_ms": 300,
-    "start_ms": 1573519,
-    "end_ms": 1585019,
-    "duration_ms": 11500
+    "start_ms": 1573519000,
+    "end_ms": 1585019000,
+    "duration_ms": 11500000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1689,9 +1689,9 @@
     "speed": 1.0,
     "audio_description": "desperate, trembling",
     "trailing_silence_ms": 700,
-    "start_ms": 1585019,
-    "end_ms": 1595825,
-    "duration_ms": 10806
+    "start_ms": 1585019000,
+    "end_ms": 1595825000,
+    "duration_ms": 10806000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1700,9 +1700,9 @@
     "speed": 1.0,
     "audio_description": "inexorable",
     "trailing_silence_ms": 300,
-    "start_ms": 1595825,
-    "end_ms": 1599365,
-    "duration_ms": 3540
+    "start_ms": 1595825000,
+    "end_ms": 1599365000,
+    "duration_ms": 3540000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1711,9 +1711,9 @@
     "speed": 1.0,
     "audio_description": "pleading, desperate",
     "trailing_silence_ms": 700,
-    "start_ms": 1599365,
-    "end_ms": 1611771,
-    "duration_ms": 12406
+    "start_ms": 1599365000,
+    "end_ms": 1611771000,
+    "duration_ms": 12406000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1722,9 +1722,9 @@
     "speed": 1.0,
     "audio_description": "cold, final",
     "trailing_silence_ms": 300,
-    "start_ms": 1611771,
-    "end_ms": 1613871,
-    "duration_ms": 2100
+    "start_ms": 1611771000,
+    "end_ms": 1613871000,
+    "duration_ms": 2100000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1733,8 +1733,8 @@
     "speed": 1.0,
     "audio_description": "dreadful, climactic",
     "trailing_silence_ms": 300,
-    "start_ms": 1613871,
-    "end_ms": 1623851,
-    "duration_ms": 9980
+    "start_ms": 1613871000,
+    "end_ms": 1623851000,
+    "duration_ms": 9980000
   }
 ]
