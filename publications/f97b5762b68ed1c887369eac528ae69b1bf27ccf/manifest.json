@@ -5,7 +5,7 @@
   "epub_source": "http://www.gutenberg.org/46",
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
-  "total_duration_s": 9410.582865999999,
+  "total_duration_s": 9410.522866,
   "characters": [
     {
       "identifier": "NARRATOR",
@@ -33,7 +33,7 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 439,
+      "dialogue_count": 440,
       "image_key": null,
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NARRATOR.mp3"
     },
@@ -1382,7 +1382,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio.mp3",
-      "duration_s": 745.7937269999999
+      "duration_s": 745.7337269999998
     }
   ]
 }
