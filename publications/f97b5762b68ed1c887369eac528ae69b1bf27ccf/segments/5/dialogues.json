@@ -5,10 +5,10 @@
     "text": "STAVE FIVE. — THE END OF IT.",
     "speed": 1.0,
     "audio_description": "",
-    "trailing_silence_ms": 1000,
-    "start_ms": 0,
-    "end_ms": 3000000,
-    "duration_ms": 3000000
+    "trailing_silence_s": 1.0,
+    "start_s": 0.0,
+    "end_s": 3000.0,
+    "duration_s": 3000
   },
   {
     "character_identifier": "NARRATOR",
@@ -16,10 +16,10 @@
     "text": "Yes! and the bedpost was his own. The bed was his own, the room was his own. Best and happiest of all, the Time before him was his own, to make amends in!",
     "speed": 1.0,
     "audio_description": "triumphant, joyful",
-    "trailing_silence_ms": 300,
-    "start_ms": 3000000,
-    "end_ms": 13100000,
-    "duration_ms": 10100000
+    "trailing_silence_s": 0.3,
+    "start_s": 3000.0,
+    "end_s": 13100.0,
+    "duration_s": 10100
   },
   {
     "character_identifier": "SCROOGE",
@@ -27,10 +27,10 @@
     "text": "I will live in the Past, the Present, and the Future!",
     "speed": 1.0,
     "audio_description": "passionate, declaring",
-    "trailing_silence_ms": 0,
-    "start_ms": 13100000,
-    "end_ms": 16406000,
-    "duration_ms": 3306000
+    "trailing_silence_s": 0.0,
+    "start_s": 13100.0,
+    "end_s": 16406.0,
+    "duration_s": 3306
   },
   {
     "character_identifier": "NARRATOR",
@@ -38,10 +38,10 @@
     "text": "Scrooge repeated, as he scrambled out of bed.",
     "speed": 1.0,
     "audio_description": "descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 16406000,
-    "end_ms": 19266000,
-    "duration_ms": 2860000
+    "trailing_silence_s": 0.3,
+    "start_s": 16406.0,
+    "end_s": 19266.0,
+    "duration_s": 2860
   },
   {
     "character_identifier": "SCROOGE",
@@ -49,10 +49,10 @@
     "text": "The Spirits of all Three shall strive within me. Oh Jacob Marley! Heaven, and the Christmas Time be praised for this! I say it on my knees, old Jacob; on my knees!",
     "speed": 1.0,
     "audio_description": "reverent, breathless, grateful",
-    "trailing_silence_ms": 400,
-    "start_ms": 19266000,
-    "end_ms": 29492000,
-    "duration_ms": 10226000
+    "trailing_silence_s": 0.4,
+    "start_s": 19266.0,
+    "end_s": 29492.0,
+    "duration_s": 10226
   },
   {
     "character_identifier": "NARRATOR",
@@ -60,10 +60,10 @@
     "text": "He was so fluttered and so glowing with his good intentions, that his broken voice would scarcely answer to his call. He had been sobbing violently in his conflict with the Spirit, and his face was wet with tears.",
     "speed": 1.0,
     "audio_description": "warm, descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 29492000,
-    "end_ms": 43352000,
-    "duration_ms": 13860000
+    "trailing_silence_s": 0.3,
+    "start_s": 29492.0,
+    "end_s": 43352.0,
+    "duration_s": 13860
   },
   {
     "character_identifier": "SCROOGE",
@@ -71,10 +71,10 @@
     "text": "They are not torn down. They are not torn down, rings and all. They are here—I am here—the shadows of the things that would have been, may be dispelled. They will be. I know they will!",
     "speed": 1.0,
     "audio_description": "crying, relieved, euphoric",
-    "trailing_silence_ms": 400,
-    "start_ms": 43352000,
-    "end_ms": 54538000,
-    "duration_ms": 11186000
+    "trailing_silence_s": 0.4,
+    "start_s": 43352.0,
+    "end_s": 54538.0,
+    "duration_s": 11186
   },
   {
     "character_identifier": "NARRATOR",
@@ -82,10 +82,10 @@
     "text": "Scrooge cried, folding one of his bed-curtains in his arms. His hands were busy with his garments all this time; turning them inside out, putting them on upside down, tearing them, mislaying them, making them parties to every kind of extravagance.",
     "speed": 1.0,
     "audio_description": "amused, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 54538000,
-    "end_ms": 70558000,
-    "duration_ms": 16020000
+    "trailing_silence_s": 0.3,
+    "start_s": 54538.0,
+    "end_s": 70558.0,
+    "duration_s": 16020
   },
   {
     "character_identifier": "SCROOGE",
@@ -93,10 +93,10 @@
     "text": "I don't know what to do!",
     "speed": 1.0,
     "audio_description": "laughing, crying, giddy",
-    "trailing_silence_ms": 300,
-    "start_ms": 70558000,
-    "end_ms": 72884000,
-    "duration_ms": 2326000
+    "trailing_silence_s": 0.3,
+    "start_s": 70558.0,
+    "end_s": 72884.0,
+    "duration_s": 2326
   },
   {
     "character_identifier": "NARRATOR",
@@ -104,10 +104,10 @@
     "text": "Scrooge cried, laughing and crying in the same breath; and making a perfect Laocoön of himself with his stockings.",
     "speed": 1.0,
     "audio_description": "playful",
-    "trailing_silence_ms": 300,
-    "start_ms": 72884000,
-    "end_ms": 79744000,
-    "duration_ms": 6860000
+    "trailing_silence_s": 0.3,
+    "start_s": 72884.0,
+    "end_s": 79744.0,
+    "duration_s": 6860
   },
   {
     "character_identifier": "SCROOGE",
@@ -115,10 +115,10 @@
     "text": "I am as light as a feather, I am as happy as an angel, I am as merry as a schoolboy. I am as giddy as a drunken man. A merry Christmas to everybody! A happy New Year to all the world. Hallo here! Whoop! Hallo!",
     "speed": 1.0,
     "audio_description": "ecstatic, breathless, laughing",
-    "trailing_silence_ms": 500,
-    "start_ms": 79744000,
-    "end_ms": 92590000,
-    "duration_ms": 12846000
+    "trailing_silence_s": 0.5,
+    "start_s": 79744.0,
+    "end_s": 92590.0,
+    "duration_s": 12846
   },
   {
     "character_identifier": "NARRATOR",
@@ -126,10 +126,10 @@
     "text": "He had frisked into the sitting-room, and was now standing there: perfectly winded.",
     "speed": 1.0,
     "audio_description": "amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 92590000,
-    "end_ms": 97090000,
-    "duration_ms": 4500000
+    "trailing_silence_s": 0.3,
+    "start_s": 92590.0,
+    "end_s": 97090.0,
+    "duration_s": 4500
   },
   {
     "character_identifier": "SCROOGE",
@@ -137,10 +137,10 @@
     "text": "There's the saucepan that the gruel was in! There's the door, by which the Ghost of Jacob Marley entered! There's the corner where the Ghost of Christmas Present, sat! There's the window where I saw the wandering Spirits! It's all right, it's all true, it all happened. Haha!",
     "speed": 1.0,
     "audio_description": "excited, marveling, laughing",
-    "trailing_silence_ms": 0,
-    "start_ms": 97090000,
-    "end_ms": 111743000,
-    "duration_ms": 14653000
+    "trailing_silence_s": 0.0,
+    "start_s": 97090.0,
+    "end_s": 111743.0,
+    "duration_s": 14653
   },
   {
     "character_identifier": "NARRATOR",
@@ -148,10 +148,10 @@
     "text": "Scrooge cried, starting off again, and going round the fireplace. Really, for a man who had been out of practice for so many years, it was a splendid laugh, a most illustrious laugh. The father of a long, long line of brilliant laughs!",
     "speed": 1.0,
     "audio_description": "delighted, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 111743000,
-    "end_ms": 126483000,
-    "duration_ms": 14740000
+    "trailing_silence_s": 0.3,
+    "start_s": 111743.0,
+    "end_s": 126483.0,
+    "duration_s": 14740
   },
   {
     "character_identifier": "SCROOGE",
@@ -159,10 +159,10 @@
     "text": "I don't know what day of the month it is! I don't know how long I've been among the Spirits. I don't know anything. I'm quite a baby. Never mind. I don't care. I'd rather be a baby. Hallo! Whoop! Hallo here!",
     "speed": 1.0,
     "audio_description": "giddy, laughing, breathless",
-    "trailing_silence_ms": 700,
-    "start_ms": 126483000,
-    "end_ms": 139329000,
-    "duration_ms": 12846000
+    "trailing_silence_s": 0.7,
+    "start_s": 126483.0,
+    "end_s": 139329.0,
+    "duration_s": 12846
   },
   {
     "character_identifier": "NARRATOR",
@@ -170,10 +170,10 @@
     "text": "He was checked in his transports by the churches ringing out the lustiest peals he had ever heard. Clash, clang, hammer; ding, dong, bell. Bell, dong, ding; hammer, clang, clash! Oh, glorious, glorious!",
     "speed": 1.0,
     "audio_description": "joyful, celebratory",
-    "trailing_silence_ms": 300,
-    "start_ms": 139329000,
-    "end_ms": 152349000,
-    "duration_ms": 13020000
+    "trailing_silence_s": 0.3,
+    "start_s": 139329.0,
+    "end_s": 152349.0,
+    "duration_s": 13020
   },
   {
     "character_identifier": "NARRATOR",
@@ -181,10 +181,10 @@
     "text": "Running to the window, he opened it, and put out his head. No fog, no mist; clear, bright, jovial, stirring, cold; cold, piping for the blood to dance to; Golden sunlight; Heavenly sky; sweet fresh air; merry bells. Oh, glorious! Glorious!",
     "speed": 1.0,
     "audio_description": "exuberant, painting scene",
-    "trailing_silence_ms": 300,
-    "start_ms": 152349000,
-    "end_ms": 169249000,
-    "duration_ms": 16900000
+    "trailing_silence_s": 0.3,
+    "start_s": 152349.0,
+    "end_s": 169249.0,
+    "duration_s": 16900
   },
   {
     "character_identifier": "SCROOGE",
@@ -192,10 +192,10 @@
     "text": "What's to-day!",
     "speed": 1.0,
     "audio_description": "calling down, eager",
-    "trailing_silence_ms": 300,
-    "start_ms": 169249000,
-    "end_ms": 170655000,
-    "duration_ms": 1406000
+    "trailing_silence_s": 0.3,
+    "start_s": 169249.0,
+    "end_s": 170655.0,
+    "duration_s": 1406
   },
   {
     "character_identifier": "NARRATOR",
@@ -203,10 +203,10 @@
     "text": "Scrooge cried, calling downward to a boy in Sunday clothes, who perhaps had loitered in to look about him.",
     "speed": 1.0,
     "audio_description": "descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 170655000,
-    "end_ms": 177395000,
-    "duration_ms": 6740000
+    "trailing_silence_s": 0.3,
+    "start_s": 170655.0,
+    "end_s": 177395.0,
+    "duration_s": 6740
   },
   {
     "character_identifier": "CAROLER",
@@ -214,10 +214,10 @@
     "text": "Huh?",
     "speed": 1.0,
     "audio_description": "confused, wondering",
-    "trailing_silence_ms": 0,
-    "start_ms": 177395000,
-    "end_ms": 178075000,
-    "duration_ms": 680000
+    "trailing_silence_s": 0.0,
+    "start_s": 177395.0,
+    "end_s": 178075.0,
+    "duration_s": 680
   },
   {
     "character_identifier": "NARRATOR",
@@ -225,10 +225,10 @@
     "text": "the boy returned, with all his might of wonder.",
     "speed": 1.0,
     "audio_description": "amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 178075000,
-    "end_ms": 181175000,
-    "duration_ms": 3100000
+    "trailing_silence_s": 0.3,
+    "start_s": 178075.0,
+    "end_s": 181175.0,
+    "duration_s": 3100
   },
   {
     "character_identifier": "SCROOGE",
@@ -236,10 +236,10 @@
     "text": "What's to-day, my fine fellow?",
     "speed": 1.0,
     "audio_description": "eager, friendly",
-    "trailing_silence_ms": 300,
-    "start_ms": 181175000,
-    "end_ms": 183501000,
-    "duration_ms": 2326000
+    "trailing_silence_s": 0.3,
+    "start_s": 181175.0,
+    "end_s": 183501.0,
+    "duration_s": 2326
   },
   {
     "character_identifier": "CAROLER",
@@ -247,10 +247,10 @@
     "text": "To-day! Why, Christmas Day.",
     "speed": 1.0,
     "audio_description": "obvious, innocent",
-    "trailing_silence_ms": 500,
-    "start_ms": 183501000,
-    "end_ms": 186235000,
-    "duration_ms": 2734000
+    "trailing_silence_s": 0.5,
+    "start_s": 183501.0,
+    "end_s": 186235.0,
+    "duration_s": 2734
   },
   {
     "character_identifier": "SCROOGE",
@@ -258,10 +258,10 @@
     "text": "It's Christmas Day! I haven't missed it. The Spirits have done it all in one night. They can do anything they like. Of course they can. Of course they can. Hallo, my fine fellow!",
     "speed": 1.0,
     "audio_description": "relieved, ecstatic, calling",
-    "trailing_silence_ms": 300,
-    "start_ms": 186235000,
-    "end_ms": 197681000,
-    "duration_ms": 11446000
+    "trailing_silence_s": 0.3,
+    "start_s": 186235.0,
+    "end_s": 197681.0,
+    "duration_s": 11446
   },
   {
     "character_identifier": "CAROLER",
@@ -269,10 +269,10 @@
     "text": "Hallo!",
     "speed": 1.0,
     "audio_description": "cheerful",
-    "trailing_silence_ms": 300,
-    "start_ms": 197681000,
-    "end_ms": 198522000,
-    "duration_ms": 841000
+    "trailing_silence_s": 0.3,
+    "start_s": 197681.0,
+    "end_s": 198522.0,
+    "duration_s": 841
   },
   {
     "character_identifier": "SCROOGE",
@@ -280,10 +280,10 @@
     "text": "Do you know the Poulterer's, in the next street but one, at the corner?",
     "speed": 1.0,
     "audio_description": "eager, inquiring",
-    "trailing_silence_ms": 0,
-    "start_ms": 198522000,
-    "end_ms": 202748000,
-    "duration_ms": 4226000
+    "trailing_silence_s": 0.0,
+    "start_s": 198522.0,
+    "end_s": 202748.0,
+    "duration_s": 4226
   },
   {
     "character_identifier": "CAROLER",
@@ -291,10 +291,10 @@
     "text": "I should hope I did.",
     "speed": 1.0,
     "audio_description": "confident, proud",
-    "trailing_silence_ms": 300,
-    "start_ms": 202748000,
-    "end_ms": 204211000,
-    "duration_ms": 1463000
+    "trailing_silence_s": 0.3,
+    "start_s": 202748.0,
+    "end_s": 204211.0,
+    "duration_s": 1463
   },
   {
     "character_identifier": "SCROOGE",
@@ -302,10 +302,10 @@
     "text": "An intelligent boy! A remarkable boy! Do you know whether they've sold the prize Turkey that was hanging up there?—Not the little prize Turkey: the big one?",
     "speed": 1.0,
     "audio_description": "delighted, conspiratorial",
-    "trailing_silence_ms": 300,
-    "start_ms": 204211000,
-    "end_ms": 213497000,
-    "duration_ms": 9286000
+    "trailing_silence_s": 0.3,
+    "start_s": 204211.0,
+    "end_s": 213497.0,
+    "duration_s": 9286
   },
   {
     "character_identifier": "CAROLER",
@@ -313,10 +313,10 @@
     "text": "What, the one as big as me?",
     "speed": 1.0,
     "audio_description": "amazed, questioning",
-    "trailing_silence_ms": 300,
-    "start_ms": 213497000,
-    "end_ms": 215409000,
-    "duration_ms": 1912000
+    "trailing_silence_s": 0.3,
+    "start_s": 213497.0,
+    "end_s": 215409.0,
+    "duration_s": 1912
   },
   {
     "character_identifier": "SCROOGE",
@@ -324,10 +324,10 @@
     "text": "What a delightful boy! It's a pleasure to talk to him. Yes, my buck!",
     "speed": 1.0,
     "audio_description": "laughing, eager",
-    "trailing_silence_ms": 300,
-    "start_ms": 215409000,
-    "end_ms": 220015000,
-    "duration_ms": 4606000
+    "trailing_silence_s": 0.3,
+    "start_s": 215409.0,
+    "end_s": 220015.0,
+    "duration_s": 4606
   },
   {
     "character_identifier": "CAROLER",
@@ -335,10 +335,10 @@
     "text": "It's hanging there now.",
     "speed": 1.0,
     "audio_description": "matter-of-fact",
-    "trailing_silence_ms": 300,
-    "start_ms": 220015000,
-    "end_ms": 221443000,
-    "duration_ms": 1428000
+    "trailing_silence_s": 0.3,
+    "start_s": 220015.0,
+    "end_s": 221443.0,
+    "duration_s": 1428
   },
   {
     "character_identifier": "SCROOGE",
@@ -346,10 +346,10 @@
     "text": "Is it? Go and buy it.",
     "speed": 1.0,
     "audio_description": "excited, commanding",
-    "trailing_silence_ms": 300,
-    "start_ms": 221443000,
-    "end_ms": 223289000,
-    "duration_ms": 1846000
+    "trailing_silence_s": 0.3,
+    "start_s": 221443.0,
+    "end_s": 223289.0,
+    "duration_s": 1846
   },
   {
     "character_identifier": "CAROLER",
@@ -357,10 +357,10 @@
     "text": "Walk-er!",
     "speed": 1.0,
     "audio_description": "disbelieving, shocked",
-    "trailing_silence_ms": 300,
-    "start_ms": 223289000,
-    "end_ms": 224614000,
-    "duration_ms": 1325000
+    "trailing_silence_s": 0.3,
+    "start_s": 223289.0,
+    "end_s": 224614.0,
+    "duration_s": 1325
   },
   {
     "character_identifier": "SCROOGE",
@@ -368,10 +368,10 @@
     "text": "No, no, I am in earnest. Go and buy it, and tell 'em to bring it here, that I may give them the direction where to take it. Come back with the man, and I'll give you a shilling. Come back with him in less than five minutes and I'll give you half-a-crown!",
     "speed": 1.0,
     "audio_description": "urgent, generous, excited",
-    "trailing_silence_ms": 600,
-    "start_ms": 224614000,
-    "end_ms": 237667000,
-    "duration_ms": 13053000
+    "trailing_silence_s": 0.6,
+    "start_s": 224614.0,
+    "end_s": 237667.0,
+    "duration_s": 13053
   },
   {
     "character_identifier": "NARRATOR",
@@ -379,10 +379,10 @@
     "text": "The boy was off like a shot. He must have had a steady hand at a trigger who could have got a shot off half so fast.",
     "speed": 1.0,
     "audio_description": "amused, playful",
-    "trailing_silence_ms": 300,
-    "start_ms": 237667000,
-    "end_ms": 244847000,
-    "duration_ms": 7180000
+    "trailing_silence_s": 0.3,
+    "start_s": 237667.0,
+    "end_s": 244847.0,
+    "duration_s": 7180
   },
   {
     "character_identifier": "SCROOGE",
@@ -390,10 +390,10 @@
     "text": "I'll send it to Bob Cratchit's! He sha'n't know who sends it. It's twice the size of Tiny Tim. Joe Miller never made such a joke as sending it to Bob's will be!",
     "speed": 1.0,
     "audio_description": "whispering, gleeful, laughing",
-    "trailing_silence_ms": 700,
-    "start_ms": 244847000,
-    "end_ms": 255173000,
-    "duration_ms": 10326000
+    "trailing_silence_s": 0.7,
+    "start_s": 244847.0,
+    "end_s": 255173.0,
+    "duration_s": 10326
   },
   {
     "character_identifier": "NARRATOR",
@@ -401,10 +401,10 @@
     "text": "Scrooge rubbed his hands, and split with a laugh. The hand in which he wrote the address was not a steady one, but write it he did, somehow, and went down-stairs to open the street door, ready for the coming of the poulterer's man. As he stood there, waiting his arrival, the knocker caught his eye.",
     "speed": 1.0,
     "audio_description": "warm, descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 255173000,
-    "end_ms": 274073000,
-    "duration_ms": 18900000
+    "trailing_silence_s": 0.3,
+    "start_s": 255173.0,
+    "end_s": 274073.0,
+    "duration_s": 18900
   },
   {
     "character_identifier": "SCROOGE",
@@ -412,10 +412,10 @@
     "text": "I shall love it, as long as I live! I scarcely ever looked at it before. What an honest expression it has in its face! It's a wonderful knocker!—Here's the Turkey! Hallo! Whoop! How are you! Merry Christmas!",
     "speed": 1.0,
     "audio_description": "affectionate, excited, laughing",
-    "trailing_silence_ms": 0,
-    "start_ms": 274073000,
-    "end_ms": 286459000,
-    "duration_ms": 12386000
+    "trailing_silence_s": 0.0,
+    "start_s": 274073.0,
+    "end_s": 286459.0,
+    "duration_s": 12386
   },
   {
     "character_identifier": "NARRATOR",
@@ -423,10 +423,10 @@
     "text": "Scrooge cried, patting it with his hand. It <i>was</i> a Turkey! He never could have stood upon his legs, that bird. He would have snapped 'em short off in a minute, like sticks of sealing-wax.",
     "speed": 1.0,
     "audio_description": "delighted, amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 286459000,
-    "end_ms": 297679000,
-    "duration_ms": 11220000
+    "trailing_silence_s": 0.3,
+    "start_s": 286459.0,
+    "end_s": 297679.0,
+    "duration_s": 11220
   },
   {
     "character_identifier": "SCROOGE",
@@ -434,10 +434,10 @@
     "text": "Why, it's impossible to carry that to Camden Town. You must have a cab.",
     "speed": 1.0,
     "audio_description": "amazed, chuckling",
-    "trailing_silence_ms": 600,
-    "start_ms": 297679000,
-    "end_ms": 302345000,
-    "duration_ms": 4666000
+    "trailing_silence_s": 0.6,
+    "start_s": 297679.0,
+    "end_s": 302345.0,
+    "duration_s": 4666
   },
   {
     "character_identifier": "NARRATOR",
@@ -445,10 +445,10 @@
     "text": "The chuckle with which he said this, and the chuckle with which he paid for the Turkey, and the chuckle with which he paid for the cab, and the chuckle with which he recompensed the boy, were only to be exceeded by the chuckle with which he sat down breathless in his chair again, and chuckled till he cried.",
     "speed": 1.0,
     "audio_description": "warm, joyful",
-    "trailing_silence_ms": 300,
-    "start_ms": 302345000,
-    "end_ms": 320605000,
-    "duration_ms": 18260000
+    "trailing_silence_s": 0.3,
+    "start_s": 302345.0,
+    "end_s": 320605.0,
+    "duration_s": 18260
   },
   {
     "character_identifier": "NARRATOR",
@@ -456,10 +456,10 @@
     "text": "Shaving was not an easy task, for his hand continued to shake very much; and shaving requires attention, even when you don't dance while you are at it. But if he had cut the end of his nose off, he would have put a piece of sticking-plaister over it, and been quite satisfied.",
     "speed": 1.0,
     "audio_description": "amused, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 320605000,
-    "end_ms": 337905000,
-    "duration_ms": 17300000
+    "trailing_silence_s": 0.3,
+    "start_s": 320605.0,
+    "end_s": 337905.0,
+    "duration_s": 17300
   },
   {
     "character_identifier": "NARRATOR",
@@ -467,10 +467,10 @@
     "text": "He dressed himself \"all in his best,\" and at last got out into the streets. The people were by this time pouring forth, as he had seen them with the Ghost of Christmas Present; and walking with his hands behind him, Scrooge regarded every one with a delighted smile. He looked so irresistibly pleasant, in a word, that three or four good-humoured fellows said, \"Good morning, sir! A merry Christmas to you!\" And Scrooge said often afterwards, that of all the blithe sounds he had ever heard, those were the blithest in his ears.",
     "speed": 1.0,
     "audio_description": "heartwarming, gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 337905000,
-    "end_ms": 370005000,
-    "duration_ms": 32100000
+    "trailing_silence_s": 0.3,
+    "start_s": 337905.0,
+    "end_s": 370005.0,
+    "duration_s": 32100
   },
   {
     "character_identifier": "NARRATOR",
@@ -478,10 +478,10 @@
     "text": "He had not gone far, when coming on towards him he beheld the portly gentleman, who had walked into his counting-house the day before, and said, \"Scrooge and Marley's, I believe?\" It sent a pang across his heart to think how this old gentleman would look upon him when they met; but he knew what path lay straight before him, and he took it.",
     "speed": 1.0,
     "audio_description": "serious, thoughtful",
-    "trailing_silence_ms": 300,
-    "start_ms": 370005000,
-    "end_ms": 389665000,
-    "duration_ms": 19660000
+    "trailing_silence_s": 0.3,
+    "start_s": 370005.0,
+    "end_s": 389665.0,
+    "duration_s": 19660
   },
   {
     "character_identifier": "SCROOGE",
@@ -489,10 +489,10 @@
     "text": "My dear sir, how do you do? I hope you succeeded yesterday. It was very kind of you. A merry Christmas to you, sir!",
     "speed": 1.0,
     "audio_description": "warm, eager, earnest",
-    "trailing_silence_ms": 0,
-    "start_ms": 389665000,
-    "end_ms": 397171000,
-    "duration_ms": 7506000
+    "trailing_silence_s": 0.0,
+    "start_s": 389665.0,
+    "end_s": 397171.0,
+    "duration_s": 7506
   },
   {
     "character_identifier": "NARRATOR",
@@ -500,10 +500,10 @@
     "text": "Scrooge said, quickening his pace, and taking the old gentleman by both his hands.",
     "speed": 1.0,
     "audio_description": "warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 397171000,
-    "end_ms": 401951000,
-    "duration_ms": 4780000
+    "trailing_silence_s": 0.3,
+    "start_s": 397171.0,
+    "end_s": 401951.0,
+    "duration_s": 4780
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -511,10 +511,10 @@
     "text": "Mr. Scrooge?",
     "speed": 1.0,
     "audio_description": "surprised, questioning",
-    "trailing_silence_ms": 300,
-    "start_ms": 401951000,
-    "end_ms": 403797000,
-    "duration_ms": 1846000
+    "trailing_silence_s": 0.3,
+    "start_s": 401951.0,
+    "end_s": 403797.0,
+    "duration_s": 1846
   },
   {
     "character_identifier": "SCROOGE",
@@ -522,10 +522,10 @@
     "text": "Yes, that is my name, and I fear it may not be pleasant to you. Allow me to ask your pardon. And will you have the goodness",
     "speed": 1.0,
     "audio_description": "humble, sincere",
-    "trailing_silence_ms": 200,
-    "start_ms": 403797000,
-    "end_ms": 411823000,
-    "duration_ms": 8026000
+    "trailing_silence_s": 0.2,
+    "start_s": 403797.0,
+    "end_s": 411823.0,
+    "duration_s": 8026
   },
   {
     "character_identifier": "NARRATOR",
@@ -533,10 +533,10 @@
     "text": "—here Scrooge whispered in his ear.",
     "speed": 1.0,
     "audio_description": "conspiratorial",
-    "trailing_silence_ms": 300,
-    "start_ms": 411823000,
-    "end_ms": 413843000,
-    "duration_ms": 2020000
+    "trailing_silence_s": 0.3,
+    "start_s": 411823.0,
+    "end_s": 413843.0,
+    "duration_s": 2020
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -544,10 +544,10 @@
     "text": "Lord bless me! My dear Mr. Scrooge, are you serious?",
     "speed": 1.0,
     "audio_description": "breathless, astonished",
-    "trailing_silence_ms": 0,
-    "start_ms": 413843000,
-    "end_ms": 417349000,
-    "duration_ms": 3506000
+    "trailing_silence_s": 0.0,
+    "start_s": 413843.0,
+    "end_s": 417349.0,
+    "duration_s": 3506
   },
   {
     "character_identifier": "NARRATOR",
@@ -555,10 +555,10 @@
     "text": "The gentleman cried, as if his breath were taken away.",
     "speed": 1.0,
     "audio_description": "amazed",
-    "trailing_silence_ms": 300,
-    "start_ms": 417349000,
-    "end_ms": 420409000,
-    "duration_ms": 3060000
+    "trailing_silence_s": 0.3,
+    "start_s": 417349.0,
+    "end_s": 420409.0,
+    "duration_s": 3060
   },
   {
     "character_identifier": "SCROOGE",
@@ -566,10 +566,10 @@
     "text": "If you please. Not a farthing less. A great many back-payments are included in it, I assure you. Will you do me that favour?",
     "speed": 1.0,
     "audio_description": "earnest, insistent",
-    "trailing_silence_ms": 400,
-    "start_ms": 420409000,
-    "end_ms": 427875000,
-    "duration_ms": 7466000
+    "trailing_silence_s": 0.4,
+    "start_s": 420409.0,
+    "end_s": 427875.0,
+    "duration_s": 7466
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -577,10 +577,10 @@
     "text": "My dear sir, I don't know what to say to such munif—",
     "speed": 1.0,
     "audio_description": "overwhelmed, grateful",
-    "trailing_silence_ms": 0,
-    "start_ms": 427875000,
-    "end_ms": 432021000,
-    "duration_ms": 4146000
+    "trailing_silence_s": 0.0,
+    "start_s": 427875.0,
+    "end_s": 432021.0,
+    "duration_s": 4146
   },
   {
     "character_identifier": "NARRATOR",
@@ -588,10 +588,10 @@
     "text": "The gentleman said, shaking hands with him.",
     "speed": 1.0,
     "audio_description": "warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 432021000,
-    "end_ms": 434801000,
-    "duration_ms": 2780000
+    "trailing_silence_s": 0.3,
+    "start_s": 432021.0,
+    "end_s": 434801.0,
+    "duration_s": 2780
   },
   {
     "character_identifier": "SCROOGE",
@@ -599,10 +599,10 @@
     "text": "Don't say anything, please. Come and see me. Will you come and see me?",
     "speed": 1.0,
     "audio_description": "eager, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 434801000,
-    "end_ms": 438527000,
-    "duration_ms": 3726000
+    "trailing_silence_s": 0.3,
+    "start_s": 434801.0,
+    "end_s": 438527.0,
+    "duration_s": 3726
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -610,10 +610,10 @@
     "text": "I will!",
     "speed": 1.0,
     "audio_description": "enthusiastic, sincere",
-    "trailing_silence_ms": 0,
-    "start_ms": 438527000,
-    "end_ms": 439353000,
-    "duration_ms": 826000
+    "trailing_silence_s": 0.0,
+    "start_s": 438527.0,
+    "end_s": 439353.0,
+    "duration_s": 826
   },
   {
     "character_identifier": "NARRATOR",
@@ -621,10 +621,10 @@
     "text": "The old gentleman cried. And it was clear he meant to do it.",
     "speed": 1.0,
     "audio_description": "warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 439353000,
-    "end_ms": 443293000,
-    "duration_ms": 3940000
+    "trailing_silence_s": 0.3,
+    "start_s": 439353.0,
+    "end_s": 443293.0,
+    "duration_s": 3940
   },
   {
     "character_identifier": "SCROOGE",
@@ -632,10 +632,10 @@
     "text": "Thank'ee, I am much obliged to you. I thank you fifty times. Bless you!",
     "speed": 1.0,
     "audio_description": "grateful, joyful",
-    "trailing_silence_ms": 800,
-    "start_ms": 443293000,
-    "end_ms": 449279000,
-    "duration_ms": 5986000
+    "trailing_silence_s": 0.8,
+    "start_s": 443293.0,
+    "end_s": 449279.0,
+    "duration_s": 5986
   },
   {
     "character_identifier": "NARRATOR",
@@ -643,10 +643,10 @@
     "text": "He went to church, and walked about the streets, and watched the people hurrying to and fro, and patted children on the head, and questioned beggars, and looked down into the kitchens of houses, and up to the windows, and found that everything could yield him pleasure. He had never dreamed that any walk—that anything—could give him so much happiness. In the afternoon he turned his steps towards his nephew's house.",
     "speed": 1.0,
     "audio_description": "warm, joyful, peaceful",
-    "trailing_silence_ms": 300,
-    "start_ms": 449279000,
-    "end_ms": 475659000,
-    "duration_ms": 26380000
+    "trailing_silence_s": 0.3,
+    "start_s": 449279.0,
+    "end_s": 475659.0,
+    "duration_s": 26380
   },
   {
     "character_identifier": "NARRATOR",
@@ -654,10 +654,10 @@
     "text": "He passed the door a dozen times, before he had the courage to go up and knock. But he made a dash, and did it:",
     "speed": 1.0,
     "audio_description": "gentle, understanding",
-    "trailing_silence_ms": 300,
-    "start_ms": 475659000,
-    "end_ms": 482279000,
-    "duration_ms": 6620000
+    "trailing_silence_s": 0.3,
+    "start_s": 475659.0,
+    "end_s": 482279.0,
+    "duration_s": 6620
   },
   {
     "character_identifier": "SCROOGE",
@@ -665,10 +665,10 @@
     "text": "Is your master at home, my dear?",
     "speed": 1.0,
     "audio_description": "gentle, nervous",
-    "trailing_silence_ms": 200,
-    "start_ms": 482279000,
-    "end_ms": 484905000,
-    "duration_ms": 2626000
+    "trailing_silence_s": 0.2,
+    "start_s": 482279.0,
+    "end_s": 484905.0,
+    "duration_s": 2626
   },
   {
     "character_identifier": "NARRATOR",
@@ -676,10 +676,10 @@
     "text": "Scrooge said to the girl. Nice girl! Very.",
     "speed": 1.0,
     "audio_description": "approving, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 484905000,
-    "end_ms": 487925000,
-    "duration_ms": 3020000
+    "trailing_silence_s": 0.3,
+    "start_s": 484905.0,
+    "end_s": 487925.0,
+    "duration_s": 3020
   },
   {
     "character_identifier": "SERVANT_GIRL",
@@ -687,10 +687,10 @@
     "text": "Yes, sir.",
     "speed": 1.0,
     "audio_description": "polite",
-    "trailing_silence_ms": 300,
-    "start_ms": 487925000,
-    "end_ms": 489051000,
-    "duration_ms": 1126000
+    "trailing_silence_s": 0.3,
+    "start_s": 487925.0,
+    "end_s": 489051.0,
+    "duration_s": 1126
   },
   {
     "character_identifier": "SCROOGE",
@@ -698,10 +698,10 @@
     "text": "Where is he, my love?",
     "speed": 1.0,
     "audio_description": "gentle, eager",
-    "trailing_silence_ms": 300,
-    "start_ms": 489051000,
-    "end_ms": 490897000,
-    "duration_ms": 1846000
+    "trailing_silence_s": 0.3,
+    "start_s": 489051.0,
+    "end_s": 490897.0,
+    "duration_s": 1846
   },
   {
     "character_identifier": "SERVANT_GIRL",
@@ -709,10 +709,10 @@
     "text": "He's in the dining-room, sir, along with mistress. I'll show you up-stairs, if you please.",
     "speed": 1.0,
     "audio_description": "polite, helpful",
-    "trailing_silence_ms": 300,
-    "start_ms": 490897000,
-    "end_ms": 496303000,
-    "duration_ms": 5406000
+    "trailing_silence_s": 0.3,
+    "start_s": 490897.0,
+    "end_s": 496303.0,
+    "duration_s": 5406
   },
   {
     "character_identifier": "SCROOGE",
@@ -720,10 +720,10 @@
     "text": "Thank'ee. He knows me. I'll go in here, my dear.",
     "speed": 1.0,
     "audio_description": "nervous, gentle",
-    "trailing_silence_ms": 0,
-    "start_ms": 496303000,
-    "end_ms": 500689000,
-    "duration_ms": 4386000
+    "trailing_silence_s": 0.0,
+    "start_s": 496303.0,
+    "end_s": 500689.0,
+    "duration_s": 4386
   },
   {
     "character_identifier": "NARRATOR",
@@ -731,10 +731,10 @@
     "text": "Scrooge had his hand already on the dining-room lock. He turned it gently, and sidled his face in, round the door. They were looking at the table (which was spread out in great array); for these young housekeepers are always nervous on such points, and like to see that everything is right.",
     "speed": 1.0,
     "audio_description": "warm, gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 500689000,
-    "end_ms": 517469000,
-    "duration_ms": 16780000
+    "trailing_silence_s": 0.3,
+    "start_s": 500689.0,
+    "end_s": 517469.0,
+    "duration_s": 16780
   },
   {
     "character_identifier": "SCROOGE",
@@ -742,10 +742,10 @@
     "text": "Fred!",
     "speed": 1.0,
     "audio_description": "tentative, hopeful",
-    "trailing_silence_ms": 200,
-    "start_ms": 517469000,
-    "end_ms": 518535000,
-    "duration_ms": 1066000
+    "trailing_silence_s": 0.2,
+    "start_s": 517469.0,
+    "end_s": 518535.0,
+    "duration_s": 1066
   },
   {
     "character_identifier": "NARRATOR",
@@ -753,10 +753,10 @@
     "text": "Dear heart alive, how his niece by marriage started! Scrooge had forgotten, for the moment, about her sitting in the corner with the footstool, or he wouldn't have done it, on any account.",
     "speed": 1.0,
     "audio_description": "amused, sympathetic",
-    "trailing_silence_ms": 300,
-    "start_ms": 518535000,
-    "end_ms": 529915000,
-    "duration_ms": 11380000
+    "trailing_silence_s": 0.3,
+    "start_s": 518535.0,
+    "end_s": 529915.0,
+    "duration_s": 11380
   },
   {
     "character_identifier": "NEPHEW",
@@ -764,10 +764,10 @@
     "text": "Why bless my soul! Who's that?",
     "speed": 1.0,
     "audio_description": "shocked, surprised",
-    "trailing_silence_ms": 300,
-    "start_ms": 529915000,
-    "end_ms": 532721000,
-    "duration_ms": 2806000
+    "trailing_silence_s": 0.3,
+    "start_s": 529915.0,
+    "end_s": 532721.0,
+    "duration_s": 2806
   },
   {
     "character_identifier": "SCROOGE",
@@ -775,10 +775,10 @@
     "text": "It's I. Your uncle Scrooge. I have come to dinner. Will you let me in, Fred?",
     "speed": 1.0,
     "audio_description": "humble, hopeful",
-    "trailing_silence_ms": 500,
-    "start_ms": 532721000,
-    "end_ms": 538487000,
-    "duration_ms": 5766000
+    "trailing_silence_s": 0.5,
+    "start_s": 532721.0,
+    "end_s": 538487.0,
+    "duration_s": 5766
   },
   {
     "character_identifier": "NARRATOR",
@@ -786,10 +786,10 @@
     "text": "Let him in? It is a mercy he didn't shake his arm off. He was at home in five minutes. Nothing could be heartier. His niece looked just the same. So did Topper when <i>he</i> came. So did the plump sister when <i>she</i> came. So did every one when <i>they</i> came. Wonderful party, wonderful games, wonderful unanimity, won-der-ful happiness!",
     "speed": 1.0,
     "audio_description": "joyful, celebratory, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 538487000,
-    "end_ms": 559027000,
-    "duration_ms": 20540000
+    "trailing_silence_s": 0.3,
+    "start_s": 538487.0,
+    "end_s": 559027.0,
+    "duration_s": 20540
   },
   {
     "character_identifier": "NARRATOR",
@@ -797,10 +797,10 @@
     "text": "But he was early at the office next morning. Oh, he was early there. If he could only be there first, and catch Bob Cratchit coming late! That was the thing he had set his heart upon.",
     "speed": 1.0,
     "audio_description": "playful, conspiratorial",
-    "trailing_silence_ms": 300,
-    "start_ms": 559027000,
-    "end_ms": 570927000,
-    "duration_ms": 11900000
+    "trailing_silence_s": 0.3,
+    "start_s": 559027.0,
+    "end_s": 570927.0,
+    "duration_s": 11900
   },
   {
     "character_identifier": "NARRATOR",
@@ -808,10 +808,10 @@
     "text": "And he did it; yes, he did! The clock struck nine. No Bob. A quarter past. No Bob. He was full eighteen minutes and a half behind his time. Scrooge sat with his door wide open, that he might see him come into the Tank.",
     "speed": 1.0,
     "audio_description": "anticipatory, amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 570927000,
-    "end_ms": 585147000,
-    "duration_ms": 14220000
+    "trailing_silence_s": 0.3,
+    "start_s": 570927.0,
+    "end_s": 585147.0,
+    "duration_s": 14220
   },
   {
     "character_identifier": "NARRATOR",
@@ -819,10 +819,10 @@
     "text": "His hat was off, before he opened the door; his comforter too. He was on his stool in a jiffy; driving away with his pen, as if he were trying to overtake nine o'clock.",
     "speed": 1.0,
     "audio_description": "quick, urgent",
-    "trailing_silence_ms": 300,
-    "start_ms": 585147000,
-    "end_ms": 596007000,
-    "duration_ms": 10860000
+    "trailing_silence_s": 0.3,
+    "start_s": 585147.0,
+    "end_s": 596007.0,
+    "duration_s": 10860
   },
   {
     "character_identifier": "SCROOGE",
@@ -830,10 +830,10 @@
     "text": "Hallo! What do you mean by coming here at this time of day?",
     "speed": 1.0,
     "audio_description": "growling, feigning anger",
-    "trailing_silence_ms": 300,
-    "start_ms": 596007000,
-    "end_ms": 599813000,
-    "duration_ms": 3806000
+    "trailing_silence_s": 0.3,
+    "start_s": 596007.0,
+    "end_s": 599813.0,
+    "duration_s": 3806
   },
   {
     "character_identifier": "CLERK",
@@ -841,10 +841,10 @@
     "text": "I am very sorry, sir. I <i>am</i> behind my time.",
     "speed": 1.0,
     "audio_description": "apologetic, nervous",
-    "trailing_silence_ms": 300,
-    "start_ms": 599813000,
-    "end_ms": 603459000,
-    "duration_ms": 3646000
+    "trailing_silence_s": 0.3,
+    "start_s": 599813.0,
+    "end_s": 603459.0,
+    "duration_s": 3646
   },
   {
     "character_identifier": "SCROOGE",
@@ -852,10 +852,10 @@
     "text": "You are? Yes. I think you are. Step this way, sir, if you please.",
     "speed": 1.0,
     "audio_description": "stern, ominous",
-    "trailing_silence_ms": 400,
-    "start_ms": 603459000,
-    "end_ms": 608845000,
-    "duration_ms": 5386000
+    "trailing_silence_s": 0.4,
+    "start_s": 603459.0,
+    "end_s": 608845.0,
+    "duration_s": 5386
   },
   {
     "character_identifier": "CLERK",
@@ -863,10 +863,10 @@
     "text": "It's only once a year, sir. It shall not be repeated. I was making rather merry yesterday, sir.",
     "speed": 1.0,
     "audio_description": "pleading, apologetic",
-    "trailing_silence_ms": 0,
-    "start_ms": 608845000,
-    "end_ms": 616831000,
-    "duration_ms": 7986000
+    "trailing_silence_s": 0.0,
+    "start_s": 608845.0,
+    "end_s": 616831.0,
+    "duration_s": 7986
   },
   {
     "character_identifier": "NARRATOR",
@@ -874,10 +874,10 @@
     "text": "Bob pleaded, appearing from the Tank.",
     "speed": 1.0,
     "audio_description": "sympathetic",
-    "trailing_silence_ms": 300,
-    "start_ms": 616831000,
-    "end_ms": 619051000,
-    "duration_ms": 2220000
+    "trailing_silence_s": 0.3,
+    "start_s": 616831.0,
+    "end_s": 619051.0,
+    "duration_s": 2220
   },
   {
     "character_identifier": "SCROOGE",
@@ -885,10 +885,10 @@
     "text": "Now, I'll tell you what, my friend. I am not going to stand this sort of thing any longer. And therefore",
     "speed": 1.0,
     "audio_description": "stern, building",
-    "trailing_silence_ms": 200,
-    "start_ms": 619051000,
-    "end_ms": 625757000,
-    "duration_ms": 6706000
+    "trailing_silence_s": 0.2,
+    "start_s": 619051.0,
+    "end_s": 625757.0,
+    "duration_s": 6706
   },
   {
     "character_identifier": "NARRATOR",
@@ -896,10 +896,10 @@
     "text": "—he continued, leaping from his stool, and giving Bob such a dig in the waistcoat that he staggered back into the Tank again—",
     "speed": 1.0,
     "audio_description": "energetic, playful",
-    "trailing_silence_ms": 300,
-    "start_ms": 625757000,
-    "end_ms": 632977000,
-    "duration_ms": 7220000
+    "trailing_silence_s": 0.3,
+    "start_s": 625757.0,
+    "end_s": 632977.0,
+    "duration_s": 7220
   },
   {
     "character_identifier": "SCROOGE",
@@ -907,10 +907,10 @@
     "text": "and therefore I am about to raise your salary!",
     "speed": 1.0,
     "audio_description": "triumphant, delighted",
-    "trailing_silence_ms": 600,
-    "start_ms": 632977000,
-    "end_ms": 636643000,
-    "duration_ms": 3666000
+    "trailing_silence_s": 0.6,
+    "start_s": 632977.0,
+    "end_s": 636643.0,
+    "duration_s": 3666
   },
   {
     "character_identifier": "NARRATOR",
@@ -918,10 +918,10 @@
     "text": "Bob trembled, and got a little nearer to the ruler. He had a momentary idea of knocking Scrooge down with it, holding him, and calling to the people in the court for help and a strait-waistcoat.",
     "speed": 1.0,
     "audio_description": "amused, dramatic",
-    "trailing_silence_ms": 300,
-    "start_ms": 636643000,
-    "end_ms": 649343000,
-    "duration_ms": 12700000
+    "trailing_silence_s": 0.3,
+    "start_s": 636643.0,
+    "end_s": 649343.0,
+    "duration_s": 12700
   },
   {
     "character_identifier": "SCROOGE",
@@ -929,10 +929,10 @@
     "text": "A merry Christmas, Bob! A merrier Christmas, Bob, my good fellow, than I have given you, for many a year! I'll raise your salary, and endeavour to assist your struggling family, and we will discuss your affairs this very afternoon, over a Christmas bowl of smoking bishop, Bob! Make up the fires, and buy another coal-scuttle before you dot another i, Bob Cratchit!",
     "speed": 1.0,
     "audio_description": "warm, earnest, joyful",
-    "trailing_silence_ms": 800,
-    "start_ms": 649343000,
-    "end_ms": 673223000,
-    "duration_ms": 23880000
+    "trailing_silence_s": 0.8,
+    "start_s": 649343.0,
+    "end_s": 673223.0,
+    "duration_s": 23880
   },
   {
     "character_identifier": "NARRATOR",
@@ -940,10 +940,10 @@
     "text": "Scrooge had an earnestness that could not be mistaken, as he clapped him on the back.",
     "speed": 1.0,
     "audio_description": "warm, sincere",
-    "trailing_silence_ms": 300,
-    "start_ms": 673223000,
-    "end_ms": 678523000,
-    "duration_ms": 5300000
+    "trailing_silence_s": 0.3,
+    "start_s": 673223.0,
+    "end_s": 678523.0,
+    "duration_s": 5300
   },
   {
     "character_identifier": "NARRATOR",
@@ -951,10 +951,10 @@
     "text": "Scrooge was better than his word. He did it all, and infinitely more; and to Tiny Tim, who did not die, he was a second father. He became as good a friend, as good a master, and as good a man, as the good old city knew, or any other good old city, town, or borough, in the good old world. Some people laughed to see the alteration in him, but he let them laugh, and little heeded them; for he was wise enough to know that nothing ever happened on this globe for good, at which some people did not have their fill of laughter in the outset; and knowing that such as these would be blind anyway, he thought it quite as well that they should wrinkle up their eyes in grins, as have the malady in less attractive forms. His own heart laughed: and that was quite enough for him.",
     "speed": 1.0,
     "audio_description": "warm, wise, peaceful",
-    "trailing_silence_ms": 300,
-    "start_ms": 678523000,
-    "end_ms": 725903000,
-    "duration_ms": 47380000
+    "trailing_silence_s": 0.3,
+    "start_s": 678523.0,
+    "end_s": 725903.0,
+    "duration_s": 47380
   },
   {
     "character_identifier": "NARRATOR",
@@ -962,9 +962,9 @@
     "text": "He had no further intercourse with Spirits, but lived upon the Total Abstinence Principle, ever afterwards; and it was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge. May that be truly said of us, and all of us! And so, as Tiny Tim observed, God bless Us, Every One!",
     "speed": 1.0,
     "audio_description": "gentle, reverent, hopeful",
-    "trailing_silence_ms": 300,
-    "start_ms": 725903000,
-    "end_ms": 745763000,
-    "duration_ms": 19860000
+    "trailing_silence_s": 0.3,
+    "start_s": 725903.0,
+    "end_s": 745763.0,
+    "duration_s": 19860
   }
 ]

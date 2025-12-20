@@ -5,10 +5,10 @@
     "text": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
     "speed": 1.0,
     "audio_description": "",
-    "trailing_silence_ms": 1000,
-    "start_ms": 0,
-    "end_ms": 3800000,
-    "duration_ms": 3800000
+    "trailing_silence_s": 1.0,
+    "start_s": 0.0,
+    "end_s": 3800.0,
+    "duration_s": 3800
   },
   {
     "character_identifier": "NARRATOR",
@@ -16,10 +16,10 @@
     "text": "The Phantom slowly, gravely, silently, approached. When it came near him, Scrooge bent down upon his knee; for in the very air through which this Spirit moved it seemed to scatter gloom and mystery.",
     "speed": 1.0,
     "audio_description": "ominous, foreboding",
-    "trailing_silence_ms": 300,
-    "start_ms": 3800000,
-    "end_ms": 16700000,
-    "duration_ms": 12900000
+    "trailing_silence_s": 0.3,
+    "start_s": 3800.0,
+    "end_s": 16700.0,
+    "duration_s": 12900
   },
   {
     "character_identifier": "NARRATOR",
@@ -27,10 +27,10 @@
     "text": "It was shrouded in a deep black garment, which concealed its head, its face, its form, and left nothing of it visible save one outstretched hand. But for this it would have been difficult to detach its figure from the night, and separate it from the darkness by which it was surrounded.",
     "speed": 1.0,
     "audio_description": "descriptive, eerie",
-    "trailing_silence_ms": 300,
-    "start_ms": 16700000,
-    "end_ms": 33560000,
-    "duration_ms": 16860000
+    "trailing_silence_s": 0.3,
+    "start_s": 16700.0,
+    "end_s": 33560.0,
+    "duration_s": 16860
   },
   {
     "character_identifier": "NARRATOR",
@@ -38,10 +38,10 @@
     "text": "He felt that it was tall and stately when it came beside him, and that its mysterious presence filled him with a solemn dread. He knew no more, for the Spirit neither spoke nor moved.",
     "speed": 1.0,
     "audio_description": "tense, hushed",
-    "trailing_silence_ms": 300,
-    "start_ms": 33560000,
-    "end_ms": 45380000,
-    "duration_ms": 11820000
+    "trailing_silence_s": 0.3,
+    "start_s": 33560.0,
+    "end_s": 45380.0,
+    "duration_s": 11820
   },
   {
     "character_identifier": "SCROOGE",
@@ -49,10 +49,10 @@
     "text": "I am in the presence of the Ghost of Christmas Yet To Come?",
     "speed": 1.0,
     "audio_description": "fearful, reverent",
-    "trailing_silence_ms": 700,
-    "start_ms": 45380000,
-    "end_ms": 49306000,
-    "duration_ms": 3926000
+    "trailing_silence_s": 0.7,
+    "start_s": 45380.0,
+    "end_s": 49306.0,
+    "duration_s": 3926
   },
   {
     "character_identifier": "NARRATOR",
@@ -60,10 +60,10 @@
     "text": "The Spirit answered not, but pointed onward with its hand.",
     "speed": 1.0,
     "audio_description": "matter-of-fact",
-    "trailing_silence_ms": 300,
-    "start_ms": 49306000,
-    "end_ms": 53246000,
-    "duration_ms": 3940000
+    "trailing_silence_s": 0.3,
+    "start_s": 49306.0,
+    "end_s": 53246.0,
+    "duration_s": 3940
   },
   {
     "character_identifier": "SCROOGE",
@@ -71,10 +71,10 @@
     "text": "You are about to show me shadows of the things that have not happened, but will happen in the time before us. Is that so, Spirit?",
     "speed": 1.0,
     "audio_description": "trembling, pleading",
-    "trailing_silence_ms": 700,
-    "start_ms": 53246000,
-    "end_ms": 61932000,
-    "duration_ms": 8686000
+    "trailing_silence_s": 0.7,
+    "start_s": 53246.0,
+    "end_s": 61932.0,
+    "duration_s": 8686
   },
   {
     "character_identifier": "NARRATOR",
@@ -82,10 +82,10 @@
     "text": "The upper portion of the garment was contracted for an instant in its folds, as if the Spirit had inclined its head. That was the only answer he received.",
     "speed": 1.0,
     "audio_description": "quiet, ominous",
-    "trailing_silence_ms": 300,
-    "start_ms": 61932000,
-    "end_ms": 71432000,
-    "duration_ms": 9500000
+    "trailing_silence_s": 0.3,
+    "start_s": 61932.0,
+    "end_s": 71432.0,
+    "duration_s": 9500
   },
   {
     "character_identifier": "NARRATOR",
@@ -93,10 +93,10 @@
     "text": "Although well used to ghostly company by this time, Scrooge feared the silent shape so much that his legs trembled beneath him, and he found that he could hardly stand when he prepared to follow it. The Spirit paused a moment, as observing his condition, and giving him time to recover.",
     "speed": 1.0,
     "audio_description": "measured, tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 71432000,
-    "end_ms": 89252000,
-    "duration_ms": 17820000
+    "trailing_silence_s": 0.3,
+    "start_s": 71432.0,
+    "end_s": 89252.0,
+    "duration_s": 17820
   },
   {
     "character_identifier": "NARRATOR",
@@ -104,10 +104,10 @@
     "text": "But Scrooge was all the worse for this. It thrilled him with a vague uncertain horror, to know that behind the dusky shroud, there were ghostly eyes intently fixed upon him, while he, though he stretched his own to the utmost, could see nothing but a spectral hand and one great heap of black.",
     "speed": 1.0,
     "audio_description": "chilling, suspenseful",
-    "trailing_silence_ms": 300,
-    "start_ms": 89252000,
-    "end_ms": 106952000,
-    "duration_ms": 17700000
+    "trailing_silence_s": 0.3,
+    "start_s": 89252.0,
+    "end_s": 106952.0,
+    "duration_s": 17700
   },
   {
     "character_identifier": "SCROOGE",
@@ -115,10 +115,10 @@
     "text": "Ghost of the Future! I fear you more than any spectre I have seen. But as I know your purpose is to do me good, and as I hope to live to be another man from what I was, I am prepared to bear you company, and do it with a thankful heart. Will you not speak to me?",
     "speed": 1.0,
     "audio_description": "desperate, pleading",
-    "trailing_silence_ms": 700,
-    "start_ms": 106952000,
-    "end_ms": 123345000,
-    "duration_ms": 16393000
+    "trailing_silence_s": 0.7,
+    "start_s": 106952.0,
+    "end_s": 123345.0,
+    "duration_s": 16393
   },
   {
     "character_identifier": "NARRATOR",
@@ -126,10 +126,10 @@
     "text": "It gave him no reply. The hand was pointed straight before them.",
     "speed": 1.0,
     "audio_description": "stark, final",
-    "trailing_silence_ms": 300,
-    "start_ms": 123345000,
-    "end_ms": 127245000,
-    "duration_ms": 3900000
+    "trailing_silence_s": 0.3,
+    "start_s": 123345.0,
+    "end_s": 127245.0,
+    "duration_s": 3900
   },
   {
     "character_identifier": "SCROOGE",
@@ -137,10 +137,10 @@
     "text": "Lead on! Lead on! The night is waning fast, and it is precious time to me, I know. Lead on, Spirit!",
     "speed": 1.0,
     "audio_description": "urgent, determined",
-    "trailing_silence_ms": 800,
-    "start_ms": 127245000,
-    "end_ms": 134671000,
-    "duration_ms": 7426000
+    "trailing_silence_s": 0.8,
+    "start_s": 127245.0,
+    "end_s": 134671.0,
+    "duration_s": 7426
   },
   {
     "character_identifier": "NARRATOR",
@@ -148,10 +148,10 @@
     "text": "The Phantom moved away as it had come towards him. Scrooge followed in the shadow of its dress, which bore him up, he thought, and carried him along.",
     "speed": 1.0,
     "audio_description": "mysterious, flowing",
-    "trailing_silence_ms": 300,
-    "start_ms": 134671000,
-    "end_ms": 144131000,
-    "duration_ms": 9460000
+    "trailing_silence_s": 0.3,
+    "start_s": 134671.0,
+    "end_s": 144131.0,
+    "duration_s": 9460
   },
   {
     "character_identifier": "NARRATOR",
@@ -159,10 +159,10 @@
     "text": "They scarcely seemed to enter the city; for the city rather seemed to spring up about them, and encompass them of its own act. But there they were, in the heart of it; on 'Change, amongst the merchants; who hurried up and down, and chinked the money in their pockets, and conversed in groups, and looked at their watches, and trifled thoughtfully with their great gold seals; and so forth, as Scrooge had seen them often.",
     "speed": 1.0,
     "audio_description": "descriptive, bustling",
-    "trailing_silence_ms": 300,
-    "start_ms": 144131000,
-    "end_ms": 169151000,
-    "duration_ms": 25020000
+    "trailing_silence_s": 0.3,
+    "start_s": 144131.0,
+    "end_s": 169151.0,
+    "duration_s": 25020
   },
   {
     "character_identifier": "NARRATOR",
@@ -170,10 +170,10 @@
     "text": "The Spirit stopped beside one little knot of business men. Observing that the hand was pointed to them, Scrooge advanced to listen to their talk.",
     "speed": 1.0,
     "audio_description": "measured",
-    "trailing_silence_ms": 300,
-    "start_ms": 169151000,
-    "end_ms": 177571000,
-    "duration_ms": 8420000
+    "trailing_silence_s": 0.3,
+    "start_s": 169151.0,
+    "end_s": 177571.0,
+    "duration_s": 8420
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -181,10 +181,10 @@
     "text": "No, I don't know much about it, either way. I only know he's dead.",
     "speed": 1.0,
     "audio_description": "indifferent, yawning",
-    "trailing_silence_ms": 400,
-    "start_ms": 177571000,
-    "end_ms": 183157000,
-    "duration_ms": 5586000
+    "trailing_silence_s": 0.4,
+    "start_s": 177571.0,
+    "end_s": 183157.0,
+    "duration_s": 5586
   },
   {
     "character_identifier": "BUSINESSMAN_2",
@@ -192,10 +192,10 @@
     "text": "When did he die?",
     "speed": 1.0,
     "audio_description": "casual",
-    "trailing_silence_ms": 100,
-    "start_ms": 183157000,
-    "end_ms": 184323000,
-    "duration_ms": 1166000
+    "trailing_silence_s": 0.1,
+    "start_s": 183157.0,
+    "end_s": 184323.0,
+    "duration_s": 1166
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -203,10 +203,10 @@
     "text": "Last night, I believe.",
     "speed": 1.0,
     "audio_description": "disinterested",
-    "trailing_silence_ms": 400,
-    "start_ms": 184323000,
-    "end_ms": 186069000,
-    "duration_ms": 1746000
+    "trailing_silence_s": 0.4,
+    "start_s": 184323.0,
+    "end_s": 186069.0,
+    "duration_s": 1746
   },
   {
     "character_identifier": "BUSINESSMAN_3",
@@ -214,10 +214,10 @@
     "text": "Why, what was the matter with him? I thought he'd never die.",
     "speed": 1.0,
     "audio_description": "surprised, casual",
-    "trailing_silence_ms": 400,
-    "start_ms": 186069000,
-    "end_ms": 189975000,
-    "duration_ms": 3906000
+    "trailing_silence_s": 0.4,
+    "start_s": 186069.0,
+    "end_s": 189975.0,
+    "duration_s": 3906
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -225,10 +225,10 @@
     "text": "God knows.",
     "speed": 1.0,
     "audio_description": "yawning, bored",
-    "trailing_silence_ms": 400,
-    "start_ms": 189975000,
-    "end_ms": 191521000,
-    "duration_ms": 1546000
+    "trailing_silence_s": 0.4,
+    "start_s": 189975.0,
+    "end_s": 191521.0,
+    "duration_s": 1546
   },
   {
     "character_identifier": "RED_FACED_GENTLEMAN",
@@ -236,10 +236,10 @@
     "text": "What has he done with his money?",
     "speed": 1.0,
     "audio_description": "greedy, curious",
-    "trailing_silence_ms": 400,
-    "start_ms": 191521000,
-    "end_ms": 193987000,
-    "duration_ms": 2466000
+    "trailing_silence_s": 0.4,
+    "start_s": 191521.0,
+    "end_s": 193987.0,
+    "duration_s": 2466
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -247,10 +247,10 @@
     "text": "I haven't heard. Left it to his company, perhaps. He hasn't left it to <i>me</i>. That's all I know.",
     "speed": 1.0,
     "audio_description": "yawning, dismissive",
-    "trailing_silence_ms": 500,
-    "start_ms": 193987000,
-    "end_ms": 200273000,
-    "duration_ms": 6286000
+    "trailing_silence_s": 0.5,
+    "start_s": 193987.0,
+    "end_s": 200273.0,
+    "duration_s": 6286
   },
   {
     "character_identifier": "NARRATOR",
@@ -258,10 +258,10 @@
     "text": "This pleasantry was received with a general laugh.",
     "speed": 1.0,
     "audio_description": "observational",
-    "trailing_silence_ms": 300,
-    "start_ms": 200273000,
-    "end_ms": 203133000,
-    "duration_ms": 2860000
+    "trailing_silence_s": 0.3,
+    "start_s": 200273.0,
+    "end_s": 203133.0,
+    "duration_s": 2860
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -269,10 +269,10 @@
     "text": "It's likely to be a very cheap funeral, for upon my life I don't know of anybody to go to it. Suppose we make up a party and volunteer?",
     "speed": 1.0,
     "audio_description": "amused, sardonic",
-    "trailing_silence_ms": 400,
-    "start_ms": 203133000,
-    "end_ms": 211759000,
-    "duration_ms": 8626000
+    "trailing_silence_s": 0.4,
+    "start_s": 203133.0,
+    "end_s": 211759.0,
+    "duration_s": 8626
   },
   {
     "character_identifier": "RED_FACED_GENTLEMAN",
@@ -280,10 +280,10 @@
     "text": "I don't mind going if a lunch is provided. But I must be fed, if I make one.",
     "speed": 1.0,
     "audio_description": "mercenary, blunt",
-    "trailing_silence_ms": 500,
-    "start_ms": 211759000,
-    "end_ms": 217925000,
-    "duration_ms": 6166000
+    "trailing_silence_s": 0.5,
+    "start_s": 211759.0,
+    "end_s": 217925.0,
+    "duration_s": 6166
   },
   {
     "character_identifier": "NARRATOR",
@@ -291,10 +291,10 @@
     "text": "Another laugh.",
     "speed": 1.0,
     "audio_description": "brief",
-    "trailing_silence_ms": 300,
-    "start_ms": 217925000,
-    "end_ms": 219065000,
-    "duration_ms": 1140000
+    "trailing_silence_s": 0.3,
+    "start_s": 217925.0,
+    "end_s": 219065.0,
+    "duration_s": 1140
   },
   {
     "character_identifier": "FAT_BUSINESSMAN",
@@ -302,10 +302,10 @@
     "text": "Well, I am the most disinterested among you, after all, for I never wear black gloves, and I never eat lunch. But I'll offer to go, if anybody else will. When I come to think of it, I'm not at all sure that I wasn't his most particular friend; for we used to stop and speak whenever we met.",
     "speed": 1.0,
     "audio_description": "mock-serious, cheerful",
-    "trailing_silence_ms": 300,
-    "start_ms": 219065000,
-    "end_ms": 238018000,
-    "duration_ms": 18953000
+    "trailing_silence_s": 0.3,
+    "start_s": 219065.0,
+    "end_s": 238018.0,
+    "duration_s": 18953
   },
   {
     "character_identifier": "NARRATOR",
@@ -313,10 +313,10 @@
     "text": "Speakers and listeners strolled away, and mixed with other groups. Scrooge knew the men, and looked towards the Spirit for an explanation.",
     "speed": 1.0,
     "audio_description": "measured",
-    "trailing_silence_ms": 300,
-    "start_ms": 238018000,
-    "end_ms": 246518000,
-    "duration_ms": 8500000
+    "trailing_silence_s": 0.3,
+    "start_s": 238018.0,
+    "end_s": 246518.0,
+    "duration_s": 8500
   },
   {
     "character_identifier": "NARRATOR",
@@ -324,10 +324,10 @@
     "text": "The Phantom glided on into a street. Its finger pointed to two persons meeting. Scrooge listened again, thinking that the explanation might lie here.",
     "speed": 1.0,
     "audio_description": "mysterious",
-    "trailing_silence_ms": 300,
-    "start_ms": 246518000,
-    "end_ms": 255898000,
-    "duration_ms": 9380000
+    "trailing_silence_s": 0.3,
+    "start_s": 246518.0,
+    "end_s": 255898.0,
+    "duration_s": 9380
   },
   {
     "character_identifier": "NARRATOR",
@@ -335,10 +335,10 @@
     "text": "He knew these men, also, perfectly. They were men of business: very wealthy, and of great importance. He had made a point always of standing well in their esteem: in a business point of view, that is; strictly in a business point of view.",
     "speed": 1.0,
     "audio_description": "informative",
-    "trailing_silence_ms": 300,
-    "start_ms": 255898000,
-    "end_ms": 271038000,
-    "duration_ms": 15140000
+    "trailing_silence_s": 0.3,
+    "start_s": 255898.0,
+    "end_s": 271038.0,
+    "duration_s": 15140
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_1",
@@ -346,10 +346,10 @@
     "text": "How are you?",
     "speed": 1.0,
     "audio_description": "perfunctory",
-    "trailing_silence_ms": 300,
-    "start_ms": 271038000,
-    "end_ms": 272084000,
-    "duration_ms": 1046000
+    "trailing_silence_s": 0.3,
+    "start_s": 271038.0,
+    "end_s": 272084.0,
+    "duration_s": 1046
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_2",
@@ -357,10 +357,10 @@
     "text": "How are you?",
     "speed": 1.0,
     "audio_description": "polite, distant",
-    "trailing_silence_ms": 300,
-    "start_ms": 272084000,
-    "end_ms": 273570000,
-    "duration_ms": 1486000
+    "trailing_silence_s": 0.3,
+    "start_s": 272084.0,
+    "end_s": 273570.0,
+    "duration_s": 1486
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_1",
@@ -368,10 +368,10 @@
     "text": "Well! Old Scratch has got his own at last, hey?",
     "speed": 1.0,
     "audio_description": "cryptic, knowing",
-    "trailing_silence_ms": 400,
-    "start_ms": 273570000,
-    "end_ms": 277316000,
-    "duration_ms": 3746000
+    "trailing_silence_s": 0.4,
+    "start_s": 273570.0,
+    "end_s": 277316.0,
+    "duration_s": 3746
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_2",
@@ -379,10 +379,10 @@
     "text": "So I am told. Cold, isn't it?",
     "speed": 1.0,
     "audio_description": "deflecting, casual",
-    "trailing_silence_ms": 100,
-    "start_ms": 277316000,
-    "end_ms": 279722000,
-    "duration_ms": 2406000
+    "trailing_silence_s": 0.1,
+    "start_s": 277316.0,
+    "end_s": 279722.0,
+    "duration_s": 2406
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_1",
@@ -390,10 +390,10 @@
     "text": "Seasonable for Christmas time. You're not a skater, I suppose?",
     "speed": 1.0,
     "audio_description": "conversational",
-    "trailing_silence_ms": 300,
-    "start_ms": 279722000,
-    "end_ms": 283768000,
-    "duration_ms": 4046000
+    "trailing_silence_s": 0.3,
+    "start_s": 279722.0,
+    "end_s": 283768.0,
+    "duration_s": 4046
   },
   {
     "character_identifier": "WEALTHY_BUSINESSMAN_2",
@@ -401,10 +401,10 @@
     "text": "No. No. Something else to think of. Good morning!",
     "speed": 1.0,
     "audio_description": "terse, dismissive",
-    "trailing_silence_ms": 600,
-    "start_ms": 283768000,
-    "end_ms": 287594000,
-    "duration_ms": 3826000
+    "trailing_silence_s": 0.6,
+    "start_s": 283768.0,
+    "end_s": 287594.0,
+    "duration_s": 3826
   },
   {
     "character_identifier": "NARRATOR",
@@ -412,10 +412,10 @@
     "text": "Not another word. That was their meeting, their conversation, and their parting.",
     "speed": 1.0,
     "audio_description": "stark, pointed",
-    "trailing_silence_ms": 300,
-    "start_ms": 287594000,
-    "end_ms": 292534000,
-    "duration_ms": 4940000
+    "trailing_silence_s": 0.3,
+    "start_s": 287594.0,
+    "end_s": 292534.0,
+    "duration_s": 4940
   },
   {
     "character_identifier": "NARRATOR",
@@ -423,10 +423,10 @@
     "text": "Scrooge was at first inclined to be surprised that the Spirit should attach importance to conversations apparently so trivial; but feeling assured that they must have some hidden purpose, he set himself to consider what it was likely to be. They could scarcely be supposed to have any bearing on the death of Jacob, his old partner, for that was Past, and this Ghost's province was the Future. Nor could he think of any one immediately connected with himself, to whom he could apply them. But nothing doubting that to whomsoever they applied they had some latent moral for his own improvement, he resolved to treasure up every word he heard, and everything he saw; and especially to observe the shadow of himself when it appeared. For he had an expectation that the conduct of his future self would give him the clue he missed, and would render the solution of these riddles easy.",
     "speed": 1.0,
     "audio_description": "thoughtful, introspective",
-    "trailing_silence_ms": 300,
-    "start_ms": 292534000,
-    "end_ms": 347474000,
-    "duration_ms": 54940000
+    "trailing_silence_s": 0.3,
+    "start_s": 292534.0,
+    "end_s": 347474.0,
+    "duration_s": 54940
   },
   {
     "character_identifier": "NARRATOR",
@@ -434,10 +434,10 @@
     "text": "He looked about in that very place for his own image; but another man stood in his accustomed corner, and though the clock pointed to his usual time of day for being there, he saw no likeness of himself among the multitudes that poured in through the Porch. It gave him little surprise, however; for he had been revolving in his mind a change of life, and thought and hoped he saw his new-born resolutions carried out in this.",
     "speed": 1.0,
     "audio_description": "contemplative",
-    "trailing_silence_ms": 300,
-    "start_ms": 347474000,
-    "end_ms": 372214000,
-    "duration_ms": 24740000
+    "trailing_silence_s": 0.3,
+    "start_s": 347474.0,
+    "end_s": 372214.0,
+    "duration_s": 24740
   },
   {
     "character_identifier": "NARRATOR",
@@ -445,10 +445,10 @@
     "text": "Quiet and dark, beside him stood the Phantom, with its outstretched hand. When he roused himself from his thoughtful quest, he fancied from the turn of the hand, and its situation in reference to himself, that the Unseen Eyes were looking at him keenly. It made him shudder, and feel very cold.",
     "speed": 1.0,
     "audio_description": "eerie, chilling",
-    "trailing_silence_ms": 300,
-    "start_ms": 372214000,
-    "end_ms": 390074000,
-    "duration_ms": 17860000
+    "trailing_silence_s": 0.3,
+    "start_s": 372214.0,
+    "end_s": 390074.0,
+    "duration_s": 17860
   },
   {
     "character_identifier": "NARRATOR",
@@ -456,10 +456,10 @@
     "text": "They left the busy scene, and went into an obscure part of the town, where Scrooge had never penetrated before, although he recognised its situation, and its bad repute. The ways were foul and narrow; the shops and houses wretched; the people half-naked, drunken, slipshod, ugly. Alleys and archways, like so many cesspools, disgorged their offences of smell, and dirt, and life, upon the straggling streets; and the whole quarter reeked with crime, with filth, and misery.",
     "speed": 1.0,
     "audio_description": "grim, disgusted",
-    "trailing_silence_ms": 300,
-    "start_ms": 390074000,
-    "end_ms": 419094000,
-    "duration_ms": 29020000
+    "trailing_silence_s": 0.3,
+    "start_s": 390074.0,
+    "end_s": 419094.0,
+    "duration_s": 29020
   },
   {
     "character_identifier": "NARRATOR",
@@ -467,10 +467,10 @@
     "text": "Far in this den of infamous resort, there was a low-browed, beetling shop, below a pent-house roof, where iron, old rags, bottles, bones, and greasy offal, were bought. Upon the floor within, were piled up heaps of rusty keys, nails, chains, hinges, files, scales, weights, and refuse iron of all kinds. Secrets that few would like to scrutinise were bred and hidden in mountains of unseemly rags, masses of corrupted fat, and sepulchres of bones. Sitting in among the wares he dealt in, by a charcoal stove, made of old bricks, was a grey-haired rascal, nearly seventy years of age; who had screened himself from the cold air without, by a frousy curtaining of miscellaneous tatters, hung upon a line; and smoked his pipe in all the luxury of calm retirement.",
     "speed": 1.0,
     "audio_description": "revolting, descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 419094000,
-    "end_ms": 467474000,
-    "duration_ms": 48380000
+    "trailing_silence_s": 0.3,
+    "start_s": 419094.0,
+    "end_s": 467474.0,
+    "duration_s": 48380
   },
   {
     "character_identifier": "NARRATOR",
@@ -478,10 +478,10 @@
     "text": "Scrooge and the Phantom came into the presence of this man, just as a woman with a heavy bundle slunk into the shop. But she had scarcely entered, when another woman, similarly laden, came in too; and she was closely followed by a man in faded black, who was no less startled by the sight of them, than they had been upon the recognition of each other. After a short period of blank astonishment, in which the old man with the pipe had joined them, they all three burst into a laugh.",
     "speed": 1.0,
     "audio_description": "wry, sinister",
-    "trailing_silence_ms": 300,
-    "start_ms": 467474000,
-    "end_ms": 495574000,
-    "duration_ms": 28100000
+    "trailing_silence_s": 0.3,
+    "start_s": 467474.0,
+    "end_s": 495574.0,
+    "duration_s": 28100
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -489,10 +489,10 @@
     "text": "Let the charwoman alone to be the first! Let the laundress alone to be the second; and let the undertaker's man alone to be the third. Look here, old Joe, here's a chance! If we haven't all three met here without meaning it!",
     "speed": 1.0,
     "audio_description": "boastful, laughing",
-    "trailing_silence_ms": 300,
-    "start_ms": 495574000,
-    "end_ms": 508220000,
-    "duration_ms": 12646000
+    "trailing_silence_s": 0.3,
+    "start_s": 495574.0,
+    "end_s": 508220.0,
+    "duration_s": 12646
   },
   {
     "character_identifier": "OLD_JOE",
@@ -500,10 +500,10 @@
     "text": "You couldn't have met in a better place. Come into the parlour. You were made free of it long ago, you know; and the other two an't strangers. Stop till I shut the door of the shop. Ah! How it skreeks! There an't such a rusty bit of metal in the place as its own hinges, I believe; and I'm sure there's no such old bones here, as mine. Haha! We're all suitable to our calling, we're well matched. Come into the parlour. Come into the parlour.",
     "speed": 1.0,
     "audio_description": "cackling, jovial",
-    "trailing_silence_ms": 700,
-    "start_ms": 508220000,
-    "end_ms": 534293000,
-    "duration_ms": 26073000
+    "trailing_silence_s": 0.7,
+    "start_s": 508220.0,
+    "end_s": 534293.0,
+    "duration_s": 26073
   },
   {
     "character_identifier": "NARRATOR",
@@ -511,10 +511,10 @@
     "text": "The parlour was the space behind the screen of rags. The old man raked the fire together with an old stair-rod, and having trimmed his smoky lamp (for it was night), with the stem of his pipe, put it in his mouth again.",
     "speed": 1.0,
     "audio_description": "matter-of-fact",
-    "trailing_silence_ms": 300,
-    "start_ms": 534293000,
-    "end_ms": 547633000,
-    "duration_ms": 13340000
+    "trailing_silence_s": 0.3,
+    "start_s": 534293.0,
+    "end_s": 547633.0,
+    "duration_s": 13340
   },
   {
     "character_identifier": "NARRATOR",
@@ -522,10 +522,10 @@
     "text": "While he did this, the woman who had already spoken threw her bundle on the floor, and sat down in a flaunting manner on a stool; crossing her elbows on her knees, and looking with a bold defiance at the other two.",
     "speed": 1.0,
     "audio_description": "contemptuous",
-    "trailing_silence_ms": 300,
-    "start_ms": 547633000,
-    "end_ms": 560973000,
-    "duration_ms": 13340000
+    "trailing_silence_s": 0.3,
+    "start_s": 547633.0,
+    "end_s": 560973.0,
+    "duration_s": 13340
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -533,10 +533,10 @@
     "text": "What odds then! What odds, Mrs. Dilber? Every person has a right to take care of themselves. <i>He</i> always did.",
     "speed": 1.0,
     "audio_description": "defiant, bold",
-    "trailing_silence_ms": 200,
-    "start_ms": 560973000,
-    "end_ms": 567439000,
-    "duration_ms": 6466000
+    "trailing_silence_s": 0.2,
+    "start_s": 560973.0,
+    "end_s": 567439.0,
+    "duration_s": 6466
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -544,10 +544,10 @@
     "text": "That's true, indeed! No man more so.",
     "speed": 1.0,
     "audio_description": "agreeing, nervous",
-    "trailing_silence_ms": 100,
-    "start_ms": 567439000,
-    "end_ms": 570085000,
-    "duration_ms": 2646000
+    "trailing_silence_s": 0.1,
+    "start_s": 567439.0,
+    "end_s": 570085.0,
+    "duration_s": 2646
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -555,10 +555,10 @@
     "text": "Why then, don't stand staring as if you was afraid, woman; who's the wiser? We're not going to pick holes in each other's coats, I suppose?",
     "speed": 1.0,
     "audio_description": "brazen, challenging",
-    "trailing_silence_ms": 300,
-    "start_ms": 570085000,
-    "end_ms": 578211000,
-    "duration_ms": 8126000
+    "trailing_silence_s": 0.3,
+    "start_s": 570085.0,
+    "end_s": 578211.0,
+    "duration_s": 8126
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -566,10 +566,10 @@
     "text": "No, indeed! We should hope not.",
     "speed": 1.0,
     "audio_description": "neutral",
-    "trailing_silence_ms": 200,
-    "start_ms": 578211000,
-    "end_ms": 580437000,
-    "duration_ms": 2226000
+    "trailing_silence_s": 0.2,
+    "start_s": 578211.0,
+    "end_s": 580437.0,
+    "duration_s": 2226
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -577,10 +577,10 @@
     "text": "Very well, then! That's enough. Who's the worse for the loss of a few things like these? Not a dead man, I suppose.",
     "speed": 1.0,
     "audio_description": "callous, matter-of-fact",
-    "trailing_silence_ms": 500,
-    "start_ms": 580437000,
-    "end_ms": 587443000,
-    "duration_ms": 7006000
+    "trailing_silence_s": 0.5,
+    "start_s": 580437.0,
+    "end_s": 587443.0,
+    "duration_s": 7006
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -588,10 +588,10 @@
     "text": "No, indeed.",
     "speed": 1.0,
     "audio_description": "laughing, agreeable",
-    "trailing_silence_ms": 400,
-    "start_ms": 587443000,
-    "end_ms": 589949000,
-    "duration_ms": 2506000
+    "trailing_silence_s": 0.4,
+    "start_s": 587443.0,
+    "end_s": 589949.0,
+    "duration_s": 2506
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -599,10 +599,10 @@
     "text": "If he wanted to keep 'em after he was dead, a wicked old screw, why wasn't he natural in his lifetime? If he had been, he'd have had somebody to look after him when he was struck with Death, instead of lying gasping out his last there, alone by himself.",
     "speed": 1.0,
     "audio_description": "harsh, bitter",
-    "trailing_silence_ms": 300,
-    "start_ms": 589949000,
-    "end_ms": 605622000,
-    "duration_ms": 15673000
+    "trailing_silence_s": 0.3,
+    "start_s": 589949.0,
+    "end_s": 605622.0,
+    "duration_s": 15673
   },
   {
     "character_identifier": "MRS_DILBER",
@@ -610,10 +610,10 @@
     "text": "It's the truest word that ever was spoke. It's a judgment on him.",
     "speed": 1.0,
     "audio_description": "vindictive, emphatic",
-    "trailing_silence_ms": 200,
-    "start_ms": 605622000,
-    "end_ms": 610128000,
-    "duration_ms": 4506000
+    "trailing_silence_s": 0.2,
+    "start_s": 605622.0,
+    "end_s": 610128.0,
+    "duration_s": 4506
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -621,10 +621,10 @@
     "text": "I wish it was a little heavier judgment, and it should have been, you may depend upon it, if I could have laid my hands on anything else. Open that bundle, old Joe, and let me know the value of it. Speak out plain. I'm not afraid to be the first, nor afraid for them to see it. We know pretty well that we were helping ourselves, before we met here, I believe. It's no sin. Open the bundle, Joe.",
     "speed": 1.0,
     "audio_description": "brazen, challenging",
-    "trailing_silence_ms": 600,
-    "start_ms": 610128000,
-    "end_ms": 635381000,
-    "duration_ms": 25253000
+    "trailing_silence_s": 0.6,
+    "start_s": 610128.0,
+    "end_s": 635381.0,
+    "duration_s": 25253
   },
   {
     "character_identifier": "NARRATOR",
@@ -632,10 +632,10 @@
     "text": "But the gallantry of her friends would not allow of this; and the man in faded black, mounting the breach first, produced <i>his</i> plunder. It was not extensive. A seal or two, a pencil-case, a pair of sleeve-buttons, and a brooch of no great value, were all. They were severally examined and appraised by old Joe, who chalked the sums he was disposed to give for each, upon the wall, and added them up into a total when he found there was nothing more to come.",
     "speed": 1.0,
     "audio_description": "clinical, detached",
-    "trailing_silence_ms": 300,
-    "start_ms": 635381000,
-    "end_ms": 663041000,
-    "duration_ms": 27660000
+    "trailing_silence_s": 0.3,
+    "start_s": 635381.0,
+    "end_s": 663041.0,
+    "duration_s": 27660
   },
   {
     "character_identifier": "OLD_JOE",
@@ -643,10 +643,10 @@
     "text": "That's your account, and I wouldn't give another sixpence, if I was to be boiled for not doing it. Who's next?",
     "speed": 1.0,
     "audio_description": "shrewd, firm",
-    "trailing_silence_ms": 200,
-    "start_ms": 663041000,
-    "end_ms": 670387000,
-    "duration_ms": 7346000
+    "trailing_silence_s": 0.2,
+    "start_s": 663041.0,
+    "end_s": 670387.0,
+    "duration_s": 7346
   },
   {
     "character_identifier": "NARRATOR",
@@ -654,10 +654,10 @@
     "text": "Mrs. Dilber was next. Sheets and towels, a little wearing apparel, two old-fashioned silver teaspoons, a pair of sugar-tongs, and a few boots. Her account was stated on the wall in the same manner.",
     "speed": 1.0,
     "audio_description": "matter-of-fact",
-    "trailing_silence_ms": 300,
-    "start_ms": 670387000,
-    "end_ms": 683327000,
-    "duration_ms": 12940000
+    "trailing_silence_s": 0.3,
+    "start_s": 670387.0,
+    "end_s": 683327.0,
+    "duration_s": 12940
   },
   {
     "character_identifier": "OLD_JOE",
@@ -665,10 +665,10 @@
     "text": "I always give too much to ladies. It's a weakness of mine, and that's the way I ruin myself. That's your account. If you asked me for another penny, and made it an open question, I'd repent of being so liberal and knock off half-a-crown.",
     "speed": 1.0,
     "audio_description": "mock-generous, sly",
-    "trailing_silence_ms": 500,
-    "start_ms": 683327000,
-    "end_ms": 698133000,
-    "duration_ms": 14806000
+    "trailing_silence_s": 0.5,
+    "start_s": 683327.0,
+    "end_s": 698133.0,
+    "duration_s": 14806
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -676,10 +676,10 @@
     "text": "And now undo <i>my</i> bundle, Joe.",
     "speed": 1.0,
     "audio_description": "commanding",
-    "trailing_silence_ms": 500,
-    "start_ms": 698133000,
-    "end_ms": 701299000,
-    "duration_ms": 3166000
+    "trailing_silence_s": 0.5,
+    "start_s": 698133.0,
+    "end_s": 701299.0,
+    "duration_s": 3166
   },
   {
     "character_identifier": "NARRATOR",
@@ -687,10 +687,10 @@
     "text": "Joe went down on his knees for the greater convenience of opening it, and having unfastened a great many knots, dragged out a large and heavy roll of some dark stuff.",
     "speed": 1.0,
     "audio_description": "descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 701299000,
-    "end_ms": 712159000,
-    "duration_ms": 10860000
+    "trailing_silence_s": 0.3,
+    "start_s": 701299.0,
+    "end_s": 712159.0,
+    "duration_s": 10860
   },
   {
     "character_identifier": "OLD_JOE",
@@ -698,10 +698,10 @@
     "text": "What do you call this? Bed-curtains!",
     "speed": 1.0,
     "audio_description": "surprised, knowing",
-    "trailing_silence_ms": 400,
-    "start_ms": 712159000,
-    "end_ms": 715425000,
-    "duration_ms": 3266000
+    "trailing_silence_s": 0.4,
+    "start_s": 712159.0,
+    "end_s": 715425.0,
+    "duration_s": 3266
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -709,10 +709,10 @@
     "text": "Ah! Bed-curtains!",
     "speed": 1.0,
     "audio_description": "laughing, defiant",
-    "trailing_silence_ms": 400,
-    "start_ms": 715425000,
-    "end_ms": 719211000,
-    "duration_ms": 3786000
+    "trailing_silence_s": 0.4,
+    "start_s": 715425.0,
+    "end_s": 719211.0,
+    "duration_s": 3786
   },
   {
     "character_identifier": "OLD_JOE",
@@ -720,10 +720,10 @@
     "text": "You don't mean to say you took 'em down, rings and all, with him lying there?",
     "speed": 1.0,
     "audio_description": "shocked, amused",
-    "trailing_silence_ms": 400,
-    "start_ms": 719211000,
-    "end_ms": 724117000,
-    "duration_ms": 4906000
+    "trailing_silence_s": 0.4,
+    "start_s": 719211.0,
+    "end_s": 724117.0,
+    "duration_s": 4906
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -731,10 +731,10 @@
     "text": "Yes I do. Why not?",
     "speed": 1.0,
     "audio_description": "brazen, matter-of-fact",
-    "trailing_silence_ms": 400,
-    "start_ms": 724117000,
-    "end_ms": 726183000,
-    "duration_ms": 2066000
+    "trailing_silence_s": 0.4,
+    "start_s": 724117.0,
+    "end_s": 726183.0,
+    "duration_s": 2066
   },
   {
     "character_identifier": "OLD_JOE",
@@ -742,10 +742,10 @@
     "text": "You were born to make your fortune, and you'll certainly do it.",
     "speed": 1.0,
     "audio_description": "admiring, cackling",
-    "trailing_silence_ms": 400,
-    "start_ms": 726183000,
-    "end_ms": 730489000,
-    "duration_ms": 4306000
+    "trailing_silence_s": 0.4,
+    "start_s": 726183.0,
+    "end_s": 730489.0,
+    "duration_s": 4306
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -753,10 +753,10 @@
     "text": "I certainly shan't hold my hand, when I can get anything in it by reaching it out, for the sake of such a man as He was, I promise you, Joe. Don't drop that oil upon the blankets, now.",
     "speed": 1.0,
     "audio_description": "cold, practical",
-    "trailing_silence_ms": 400,
-    "start_ms": 730489000,
-    "end_ms": 741315000,
-    "duration_ms": 10826000
+    "trailing_silence_s": 0.4,
+    "start_s": 730489.0,
+    "end_s": 741315.0,
+    "duration_s": 10826
   },
   {
     "character_identifier": "OLD_JOE",
@@ -764,10 +764,10 @@
     "text": "His blankets?",
     "speed": 1.0,
     "audio_description": "surprised, questioning",
-    "trailing_silence_ms": 300,
-    "start_ms": 741315000,
-    "end_ms": 743161000,
-    "duration_ms": 1846000
+    "trailing_silence_s": 0.3,
+    "start_s": 741315.0,
+    "end_s": 743161.0,
+    "duration_s": 1846
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -775,10 +775,10 @@
     "text": "Whose else's do you think? He isn't likely to take cold without 'em, I dare say.",
     "speed": 1.0,
     "audio_description": "sarcastic, cold",
-    "trailing_silence_ms": 500,
-    "start_ms": 743161000,
-    "end_ms": 748487000,
-    "duration_ms": 5326000
+    "trailing_silence_s": 0.5,
+    "start_s": 743161.0,
+    "end_s": 748487.0,
+    "duration_s": 5326
   },
   {
     "character_identifier": "OLD_JOE",
@@ -786,10 +786,10 @@
     "text": "I hope he didn't die of anything catching eh?",
     "speed": 1.0,
     "audio_description": "worried",
-    "trailing_silence_ms": 200,
-    "start_ms": 748487000,
-    "end_ms": 752433000,
-    "duration_ms": 3946000
+    "trailing_silence_s": 0.2,
+    "start_s": 748487.0,
+    "end_s": 752433.0,
+    "duration_s": 3946
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -797,10 +797,10 @@
     "text": "Don't you be afraid of that. I an't so fond of his company that I'd loiter about him for such things, if he did. Ah! you may look through that shirt till your eyes ache; but you won't find a hole in it, nor a threadbare place. It's the best he had, and a fine one too. They'd have wasted it, if it hadn't been for me.",
     "speed": 1.0,
     "audio_description": "defiant, proud",
-    "trailing_silence_ms": 500,
-    "start_ms": 752433000,
-    "end_ms": 771666000,
-    "duration_ms": 19233000
+    "trailing_silence_s": 0.5,
+    "start_s": 752433.0,
+    "end_s": 771666.0,
+    "duration_s": 19233
   },
   {
     "character_identifier": "OLD_JOE",
@@ -808,10 +808,10 @@
     "text": "What do you call wasting of it?",
     "speed": 1.0,
     "audio_description": "curious",
-    "trailing_silence_ms": 300,
-    "start_ms": 771666000,
-    "end_ms": 774432000,
-    "duration_ms": 2766000
+    "trailing_silence_s": 0.3,
+    "start_s": 771666.0,
+    "end_s": 774432.0,
+    "duration_s": 2766
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -819,10 +819,10 @@
     "text": "Putting it on him to be buried in, to be sure. Somebody was fool enough to do it, but I took it off again. If calico an't good enough for such a purpose, it isn't good enough for anything. It's quite as becoming to the body. He can't look uglier than he did in that one.",
     "speed": 1.0,
     "audio_description": "callous, laughing",
-    "trailing_silence_ms": 300,
-    "start_ms": 774432000,
-    "end_ms": 789105000,
-    "duration_ms": 14673000
+    "trailing_silence_s": 0.3,
+    "start_s": 774432.0,
+    "end_s": 789105.0,
+    "duration_s": 14673
   },
   {
     "character_identifier": "NARRATOR",
@@ -830,10 +830,10 @@
     "text": "Scrooge listened to this dialogue in horror. As they sat grouped about their spoil, in the scanty light afforded by the old man's lamp, he viewed them with a detestation and disgust, which could hardly have been greater, though they had been obscene demons, marketing the corpse itself.",
     "speed": 1.0,
     "audio_description": "revolted, horrified",
-    "trailing_silence_ms": 300,
-    "start_ms": 789105000,
-    "end_ms": 806765000,
-    "duration_ms": 17660000
+    "trailing_silence_s": 0.3,
+    "start_s": 789105.0,
+    "end_s": 806765.0,
+    "duration_s": 17660
   },
   {
     "character_identifier": "CHARWOMAN",
@@ -841,10 +841,10 @@
     "text": "Aha! This is the end of it, you see! He frightened every one away from him when he was alive, to profit us when he was dead!",
     "speed": 1.0,
     "audio_description": "laughing, triumphant",
-    "trailing_silence_ms": 300,
-    "start_ms": 806765000,
-    "end_ms": 814771000,
-    "duration_ms": 8006000
+    "trailing_silence_s": 0.3,
+    "start_s": 806765.0,
+    "end_s": 814771.0,
+    "duration_s": 8006
   },
   {
     "character_identifier": "SCROOGE",
@@ -852,10 +852,10 @@
     "text": "Spirit! I see, I see. The case of this unhappy man might be my own. My life tends that way, now. Merciful Heaven, what is this!",
     "speed": 1.0,
     "audio_description": "agonized, shuddering",
-    "trailing_silence_ms": 500,
-    "start_ms": 814771000,
-    "end_ms": 824017000,
-    "duration_ms": 9246000
+    "trailing_silence_s": 0.5,
+    "start_s": 814771.0,
+    "end_s": 824017.0,
+    "duration_s": 9246
   },
   {
     "character_identifier": "NARRATOR",
@@ -863,10 +863,10 @@
     "text": "He recoiled in terror, for the scene had changed, and now he almost touched a bed: a bare, uncurtained bed: on which, beneath a ragged sheet, there lay a something covered up, which, though it was dumb, announced itself in awful language.",
     "speed": 1.0,
     "audio_description": "chilling, dreadful",
-    "trailing_silence_ms": 300,
-    "start_ms": 824017000,
-    "end_ms": 839077000,
-    "duration_ms": 15060000
+    "trailing_silence_s": 0.3,
+    "start_s": 824017.0,
+    "end_s": 839077.0,
+    "duration_s": 15060
   },
   {
     "character_identifier": "NARRATOR",
@@ -874,10 +874,10 @@
     "text": "The room was very dark, too dark to be observed with any accuracy, though Scrooge glanced round it in obedience to a secret impulse, anxious to know what kind of room it was. A pale light, rising in the outer air, fell straight upon the bed; and on it, plundered and bereft, unwatched, unwept, uncared for, was the body of this man.",
     "speed": 1.0,
     "audio_description": "solemn, eerie",
-    "trailing_silence_ms": 300,
-    "start_ms": 839077000,
-    "end_ms": 860137000,
-    "duration_ms": 21060000
+    "trailing_silence_s": 0.3,
+    "start_s": 839077.0,
+    "end_s": 860137.0,
+    "duration_s": 21060
   },
   {
     "character_identifier": "NARRATOR",
@@ -885,10 +885,10 @@
     "text": "Scrooge glanced towards the Phantom. Its steady hand was pointed to the head. The cover was so carelessly adjusted that the slightest raising of it, the motion of a finger upon Scrooge's part, would have disclosed the face. He thought of it, felt how easy it would be to do, and longed to do it; but had no more power to withdraw the veil than to dismiss the spectre at his side.",
     "speed": 1.0,
     "audio_description": "tense, fearful",
-    "trailing_silence_ms": 300,
-    "start_ms": 860137000,
-    "end_ms": 882597000,
-    "duration_ms": 22460000
+    "trailing_silence_s": 0.3,
+    "start_s": 860137.0,
+    "end_s": 882597.0,
+    "duration_s": 22460
   },
   {
     "character_identifier": "NARRATOR",
@@ -896,10 +896,10 @@
     "text": "Oh cold, cold, rigid, dreadful Death, set up thine altar here, and dress it with such terrors as thou hast at thy command: for this is thy dominion! But of the loved, revered, and honoured head, thou canst not turn one hair to thy dread purposes, or make one feature odious. It is not that the hand is heavy and will fall down when released; it is not that the heart and pulse are still; but that the hand was open, generous, and true; the heart brave, warm, and tender; and the pulse a man's. Strike, Shadow, strike! And see his good deeds springing from the wound, to sow the world with life immortal!",
     "speed": 1.0,
     "audio_description": "passionate, defiant",
-    "trailing_silence_ms": 300,
-    "start_ms": 882597000,
-    "end_ms": 920497000,
-    "duration_ms": 37900000
+    "trailing_silence_s": 0.3,
+    "start_s": 882597.0,
+    "end_s": 920497.0,
+    "duration_s": 37900
   },
   {
     "character_identifier": "NARRATOR",
@@ -907,10 +907,10 @@
     "text": "No voice pronounced these words in Scrooge's ears, and yet he heard them when he looked upon the bed. He thought, if this man could be raised up now, what would be his foremost thoughts? Avarice, hard-dealing, griping cares? They have brought him to a rich end, truly!",
     "speed": 1.0,
     "audio_description": "bitter, sorrowful",
-    "trailing_silence_ms": 300,
-    "start_ms": 920497000,
-    "end_ms": 937757000,
-    "duration_ms": 17260000
+    "trailing_silence_s": 0.3,
+    "start_s": 920497.0,
+    "end_s": 937757.0,
+    "duration_s": 17260
   },
   {
     "character_identifier": "NARRATOR",
@@ -918,10 +918,10 @@
     "text": "He lay, in the dark empty house, with not a man, a woman, or a child, to say that he was kind to me in this or that, and for the memory of one kind word I will be kind to him. A cat was tearing at the door, and there was a sound of gnawing rats beneath the hearth-stone. What <i>they</i> wanted in the room of death, and why they were so restless and disturbed, Scrooge did not dare to think.",
     "speed": 1.0,
     "audio_description": "grim, disturbing",
-    "trailing_silence_ms": 300,
-    "start_ms": 937757000,
-    "end_ms": 962057000,
-    "duration_ms": 24300000
+    "trailing_silence_s": 0.3,
+    "start_s": 937757.0,
+    "end_s": 962057.0,
+    "duration_s": 24300
   },
   {
     "character_identifier": "SCROOGE",
@@ -929,10 +929,10 @@
     "text": "Spirit! this is a fearful place. In leaving it, I shall not leave its lesson, trust me. Let us go!",
     "speed": 1.0,
     "audio_description": "desperate, pleading",
-    "trailing_silence_ms": 600,
-    "start_ms": 962057000,
-    "end_ms": 969443000,
-    "duration_ms": 7386000
+    "trailing_silence_s": 0.6,
+    "start_s": 962057.0,
+    "end_s": 969443.0,
+    "duration_s": 7386
   },
   {
     "character_identifier": "NARRATOR",
@@ -940,10 +940,10 @@
     "text": "Still the Ghost pointed with an unmoved finger to the head.",
     "speed": 1.0,
     "audio_description": "stark, ominous",
-    "trailing_silence_ms": 300,
-    "start_ms": 969443000,
-    "end_ms": 973023000,
-    "duration_ms": 3580000
+    "trailing_silence_s": 0.3,
+    "start_s": 969443.0,
+    "end_s": 973023.0,
+    "duration_s": 3580
   },
   {
     "character_identifier": "SCROOGE",
@@ -951,10 +951,10 @@
     "text": "I understand you, and I would do it, if I could. But I have not the power, Spirit. I have not the power.",
     "speed": 1.0,
     "audio_description": "trembling, helpless",
-    "trailing_silence_ms": 600,
-    "start_ms": 973023000,
-    "end_ms": 981929000,
-    "duration_ms": 8906000
+    "trailing_silence_s": 0.6,
+    "start_s": 973023.0,
+    "end_s": 981929.0,
+    "duration_s": 8906
   },
   {
     "character_identifier": "NARRATOR",
@@ -962,10 +962,10 @@
     "text": "Again it seemed to look upon him.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 981929000,
-    "end_ms": 983829000,
-    "duration_ms": 1900000
+    "trailing_silence_s": 0.3,
+    "start_s": 981929.0,
+    "end_s": 983829.0,
+    "duration_s": 1900
   },
   {
     "character_identifier": "SCROOGE",
@@ -973,10 +973,10 @@
     "text": "If there is any person in the town, who feels emotion caused by this man's death, show that person to me, Spirit, I beseech you!",
     "speed": 1.0,
     "audio_description": "agonized, begging",
-    "trailing_silence_ms": 900,
-    "start_ms": 983829000,
-    "end_ms": 992955000,
-    "duration_ms": 9126000
+    "trailing_silence_s": 0.9,
+    "start_s": 983829.0,
+    "end_s": 992955.0,
+    "duration_s": 9126
   },
   {
     "character_identifier": "NARRATOR",
@@ -984,10 +984,10 @@
     "text": "The Phantom spread its dark robe before him for a moment, like a wing; and withdrawing it, revealed a room by daylight, where a mother and her children were.",
     "speed": 1.0,
     "audio_description": "mysterious, swift",
-    "trailing_silence_ms": 300,
-    "start_ms": 992955000,
-    "end_ms": 1002775000,
-    "duration_ms": 9820000
+    "trailing_silence_s": 0.3,
+    "start_s": 992955.0,
+    "end_s": 1002775.0,
+    "duration_s": 9820
   },
   {
     "character_identifier": "NARRATOR",
@@ -995,10 +995,10 @@
     "text": "She was expecting some one, and with anxious eagerness; for she walked up and down the room; started at every sound; looked out from the window; glanced at the clock; tried, but in vain, to work with her needle; and could hardly bear the voices of the children in their play.",
     "speed": 1.0,
     "audio_description": "anxious, tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 1002775000,
-    "end_ms": 1019395000,
-    "duration_ms": 16620000
+    "trailing_silence_s": 0.3,
+    "start_s": 1002775.0,
+    "end_s": 1019395.0,
+    "duration_s": 16620
   },
   {
     "character_identifier": "NARRATOR",
@@ -1006,10 +1006,10 @@
     "text": "At length the long-expected knock was heard. She hurried to the door, and met her husband; a man whose face was careworn and depressed, though he was young. There was a remarkable expression in it now; a kind of serious delight of which he felt ashamed, and which he struggled to repress.",
     "speed": 1.0,
     "audio_description": "measured, careful",
-    "trailing_silence_ms": 300,
-    "start_ms": 1019395000,
-    "end_ms": 1037095000,
-    "duration_ms": 17700000
+    "trailing_silence_s": 0.3,
+    "start_s": 1019395.0,
+    "end_s": 1037095.0,
+    "duration_s": 17700
   },
   {
     "character_identifier": "NARRATOR",
@@ -1017,10 +1017,10 @@
     "text": "He sat down to the dinner that had been hoarding for him by the fire; and when she asked him faintly what news (which was not until after a long silence), he appeared embarrassed how to answer.",
     "speed": 1.0,
     "audio_description": "somber, uncertain ",
-    "trailing_silence_ms": 300,
-    "start_ms": 1037095000,
-    "end_ms": 1048355000,
-    "duration_ms": 11260000
+    "trailing_silence_s": 0.3,
+    "start_s": 1037095.0,
+    "end_s": 1048355.0,
+    "duration_s": 11260
   },
   {
     "character_identifier": "CAROLINE",
@@ -1028,10 +1028,10 @@
     "text": "Is it good, or bad?",
     "speed": 1.0,
     "audio_description": "faint, fearful",
-    "trailing_silence_ms": 500,
-    "start_ms": 1048355000,
-    "end_ms": 1050961000,
-    "duration_ms": 2606000
+    "trailing_silence_s": 0.5,
+    "start_s": 1048355.0,
+    "end_s": 1050961.0,
+    "duration_s": 2606
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1039,10 +1039,10 @@
     "text": "Bad.",
     "speed": 1.0,
     "audio_description": "heavy, reluctant",
-    "trailing_silence_ms": 400,
-    "start_ms": 1050961000,
-    "end_ms": 1051947000,
-    "duration_ms": 986000
+    "trailing_silence_s": 0.4,
+    "start_s": 1050961.0,
+    "end_s": 1051947.0,
+    "duration_s": 986
   },
   {
     "character_identifier": "CAROLINE",
@@ -1050,10 +1050,10 @@
     "text": "We are quite ruined?",
     "speed": 1.0,
     "audio_description": "despairing",
-    "trailing_silence_ms": 400,
-    "start_ms": 1051947000,
-    "end_ms": 1053693000,
-    "duration_ms": 1746000
+    "trailing_silence_s": 0.4,
+    "start_s": 1051947.0,
+    "end_s": 1053693.0,
+    "duration_s": 1746
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1061,10 +1061,10 @@
     "text": "No. There is hope yet, Caroline.",
     "speed": 1.0,
     "audio_description": "gentle, hopeful",
-    "trailing_silence_ms": 500,
-    "start_ms": 1053693000,
-    "end_ms": 1056459000,
-    "duration_ms": 2766000
+    "trailing_silence_s": 0.5,
+    "start_s": 1053693.0,
+    "end_s": 1056459.0,
+    "duration_s": 2766
   },
   {
     "character_identifier": "CAROLINE",
@@ -1072,10 +1072,10 @@
     "text": "If <i>he</i> relents, there is! Nothing is past hope, if such a miracle has happened.",
     "speed": 1.0,
     "audio_description": "amazed, disbelieving",
-    "trailing_silence_ms": 500,
-    "start_ms": 1056459000,
-    "end_ms": 1062105000,
-    "duration_ms": 5646000
+    "trailing_silence_s": 0.5,
+    "start_s": 1056459.0,
+    "end_s": 1062105.0,
+    "duration_s": 5646
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1083,10 +1083,10 @@
     "text": "He is past relenting. He is dead.",
     "speed": 1.0,
     "audio_description": "solemn, final",
-    "trailing_silence_ms": 500,
-    "start_ms": 1062105000,
-    "end_ms": 1065431000,
-    "duration_ms": 3326000
+    "trailing_silence_s": 0.5,
+    "start_s": 1062105.0,
+    "end_s": 1065431.0,
+    "duration_s": 3326
   },
   {
     "character_identifier": "NARRATOR",
@@ -1094,10 +1094,10 @@
     "text": "She was a mild and patient creature if her face spoke truth; but she was thankful in her soul to hear it, and she said so, with clasped hands. She prayed forgiveness the next moment, and was sorry; but the first was the emotion of her heart.",
     "speed": 1.0,
     "audio_description": "measured, conflicted",
-    "trailing_silence_ms": 300,
-    "start_ms": 1065431000,
-    "end_ms": 1081011000,
-    "duration_ms": 15580000
+    "trailing_silence_s": 0.3,
+    "start_s": 1065431.0,
+    "end_s": 1081011.0,
+    "duration_s": 15580
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1105,10 +1105,10 @@
     "text": "What the half-drunken woman whom I told you of last night said to me, when I tried to see him and obtain a week's delay; and what I thought was a mere excuse to avoid me; turns out to have been quite true. He was not only very ill, but dying then.",
     "speed": 1.0,
     "audio_description": "explaining, relieved",
-    "trailing_silence_ms": 300,
-    "start_ms": 1081011000,
-    "end_ms": 1094177000,
-    "duration_ms": 13166000
+    "trailing_silence_s": 0.3,
+    "start_s": 1081011.0,
+    "end_s": 1094177.0,
+    "duration_s": 13166
   },
   {
     "character_identifier": "CAROLINE",
@@ -1116,10 +1116,10 @@
     "text": "To whom will our debt be transferred?",
     "speed": 1.0,
     "audio_description": "worried, practical",
-    "trailing_silence_ms": 400,
-    "start_ms": 1094177000,
-    "end_ms": 1096883000,
-    "duration_ms": 2706000
+    "trailing_silence_s": 0.4,
+    "start_s": 1094177.0,
+    "end_s": 1096883.0,
+    "duration_s": 2706
   },
   {
     "character_identifier": "CAROLINE_HUSBAND",
@@ -1127,10 +1127,10 @@
     "text": "I don't know. But before that time we shall be ready with the money; and even though we were not, it would be a bad fortune indeed to find so merciless a creditor in his successor. We may sleep to-night with light hearts, Caroline!",
     "speed": 1.0,
     "audio_description": "reassuring, hopeful",
-    "trailing_silence_ms": 700,
-    "start_ms": 1096883000,
-    "end_ms": 1109089000,
-    "duration_ms": 12206000
+    "trailing_silence_s": 0.7,
+    "start_s": 1096883.0,
+    "end_s": 1109089.0,
+    "duration_s": 12206
   },
   {
     "character_identifier": "NARRATOR",
@@ -1138,10 +1138,10 @@
     "text": "Yes. Soften it as they would, their hearts were lighter. The children's faces, hushed and clustered round to hear what they so little understood, were brighter; and it was a happier house for this man's death! The only emotion that the Ghost could show him, caused by the event, was one of pleasure.",
     "speed": 1.0,
     "audio_description": "pointed, bitter",
-    "trailing_silence_ms": 300,
-    "start_ms": 1109089000,
-    "end_ms": 1128589000,
-    "duration_ms": 19500000
+    "trailing_silence_s": 0.3,
+    "start_s": 1109089.0,
+    "end_s": 1128589.0,
+    "duration_s": 19500
   },
   {
     "character_identifier": "SCROOGE",
@@ -1149,10 +1149,10 @@
     "text": "Let me see some tenderness connected with a death, or that dark chamber, Spirit, which we left just now, will be for ever present to me.",
     "speed": 1.0,
     "audio_description": "pleading, desperate",
-    "trailing_silence_ms": 500,
-    "start_ms": 1128589000,
-    "end_ms": 1139515000,
-    "duration_ms": 10926000
+    "trailing_silence_s": 0.5,
+    "start_s": 1128589.0,
+    "end_s": 1139515.0,
+    "duration_s": 10926
   },
   {
     "character_identifier": "NARRATOR",
@@ -1160,10 +1160,10 @@
     "text": "The Ghost conducted him through several streets familiar to his feet; and as they went along, Scrooge looked here and there to find himself, but nowhere was he to be seen. They entered poor Bob Cratchit's house; the dwelling he had visited before; and found the mother and the children seated round the fire.",
     "speed": 1.0,
     "audio_description": "somber, reverent",
-    "trailing_silence_ms": 300,
-    "start_ms": 1139515000,
-    "end_ms": 1157775000,
-    "duration_ms": 18260000
+    "trailing_silence_s": 0.3,
+    "start_s": 1139515.0,
+    "end_s": 1157775.0,
+    "duration_s": 18260
   },
   {
     "character_identifier": "NARRATOR",
@@ -1171,10 +1171,10 @@
     "text": "Quiet. Very quiet. The noisy little Cratchits were as still as statues in one corner, and sat looking up at Peter, who had a book before him. The mother and her daughters were engaged in sewing. But surely they were very quiet!",
     "speed": 1.0,
     "audio_description": "hushed, mournful",
-    "trailing_silence_ms": 300,
-    "start_ms": 1157775000,
-    "end_ms": 1171955000,
-    "duration_ms": 14180000
+    "trailing_silence_s": 0.3,
+    "start_s": 1157775.0,
+    "end_s": 1171955.0,
+    "duration_s": 14180
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1182,10 +1182,10 @@
     "text": "And He took a child, and set him in the midst of them.",
     "speed": 1.0,
     "audio_description": "soft, reading",
-    "trailing_silence_ms": 800,
-    "start_ms": 1171955000,
-    "end_ms": 1176181000,
-    "duration_ms": 4226000
+    "trailing_silence_s": 0.8,
+    "start_s": 1171955.0,
+    "end_s": 1176181.0,
+    "duration_s": 4226
   },
   {
     "character_identifier": "NARRATOR",
@@ -1193,10 +1193,10 @@
     "text": "Where had Scrooge heard those words? He had not dreamed them. The boy must have read them out, as he and the Spirit crossed the threshold. Why did he not go on?",
     "speed": 1.0,
     "audio_description": "questioning, gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 1176181000,
-    "end_ms": 1185881000,
-    "duration_ms": 9700000
+    "trailing_silence_s": 0.3,
+    "start_s": 1176181.0,
+    "end_s": 1185881.0,
+    "duration_s": 9700
   },
   {
     "character_identifier": "NARRATOR",
@@ -1204,10 +1204,10 @@
     "text": "The mother laid her work upon the table, and put her hand up to her face.",
     "speed": 1.0,
     "audio_description": "quiet, sad",
-    "trailing_silence_ms": 300,
-    "start_ms": 1185881000,
-    "end_ms": 1190421000,
-    "duration_ms": 4540000
+    "trailing_silence_s": 0.3,
+    "start_s": 1185881.0,
+    "end_s": 1190421.0,
+    "duration_s": 4540
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1215,10 +1215,10 @@
     "text": "The colour hurts my eyes.",
     "speed": 1.0,
     "audio_description": "tearful, covering",
-    "trailing_silence_ms": 500,
-    "start_ms": 1190421000,
-    "end_ms": 1192587000,
-    "duration_ms": 2166000
+    "trailing_silence_s": 0.5,
+    "start_s": 1190421.0,
+    "end_s": 1192587.0,
+    "duration_s": 2166
   },
   {
     "character_identifier": "NARRATOR",
@@ -1226,10 +1226,10 @@
     "text": "The colour? Ah, poor Tiny Tim !     ",
     "speed": 1.0,
     "audio_description": "sorrowful, understanding",
-    "trailing_silence_ms": 400,
-    "start_ms": 1192587000,
-    "end_ms": 1195187000,
-    "duration_ms": 2600000
+    "trailing_silence_s": 0.4,
+    "start_s": 1192587.0,
+    "end_s": 1195187.0,
+    "duration_s": 2600
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1237,10 +1237,10 @@
     "text": "They're better now again. It makes them weak by candle-light; and I wouldn't show weak eyes to your father when he comes home for the world. It must be near his time.",
     "speed": 1.0,
     "audio_description": "steady, brave",
-    "trailing_silence_ms": 200,
-    "start_ms": 1195187000,
-    "end_ms": 1205173000,
-    "duration_ms": 9986000
+    "trailing_silence_s": 0.2,
+    "start_s": 1195187.0,
+    "end_s": 1205173.0,
+    "duration_s": 9986
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1248,10 +1248,10 @@
     "text": "Past it rather. But I think he has walked a little slower than he used, these few last evenings, mother.",
     "speed": 1.0,
     "audio_description": "gentle, observant",
-    "trailing_silence_ms": 600,
-    "start_ms": 1205173000,
-    "end_ms": 1211679000,
-    "duration_ms": 6506000
+    "trailing_silence_s": 0.6,
+    "start_s": 1205173.0,
+    "end_s": 1211679.0,
+    "duration_s": 6506
   },
   {
     "character_identifier": "NARRATOR",
@@ -1259,10 +1259,10 @@
     "text": "They were very quiet again. At last she said, and in a steady, cheerful voice, that only faltered once:",
     "speed": 1.0,
     "audio_description": "somber, careful",
-    "trailing_silence_ms": 300,
-    "start_ms": 1211679000,
-    "end_ms": 1218539000,
-    "duration_ms": 6860000
+    "trailing_silence_s": 0.3,
+    "start_s": 1211679.0,
+    "end_s": 1218539.0,
+    "duration_s": 6860
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1270,10 +1270,10 @@
     "text": "I have known him walk with—I have known him walk with Tiny Tim upon his shoulder, very fast indeed.",
     "speed": 1.0,
     "audio_description": "faltering, brave",
-    "trailing_silence_ms": 600,
-    "start_ms": 1218539000,
-    "end_ms": 1226685000,
-    "duration_ms": 8146000
+    "trailing_silence_s": 0.6,
+    "start_s": 1218539.0,
+    "end_s": 1226685.0,
+    "duration_s": 8146
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1281,10 +1281,10 @@
     "text": "And so have I. Often.",
     "speed": 1.0,
     "audio_description": "neutral",
-    "trailing_silence_ms": 300,
-    "start_ms": 1226685000,
-    "end_ms": 1229491000,
-    "duration_ms": 2806000
+    "trailing_silence_s": 0.3,
+    "start_s": 1226685.0,
+    "end_s": 1229491.0,
+    "duration_s": 2806
   },
   {
     "character_identifier": "MARTHA_CRATCHIT",
@@ -1292,10 +1292,10 @@
     "text": "And so have I.",
     "speed": 1.0,
     "audio_description": "sad",
-    "trailing_silence_ms": 300,
-    "start_ms": 1229491000,
-    "end_ms": 1230897000,
-    "duration_ms": 1406000
+    "trailing_silence_s": 0.3,
+    "start_s": 1229491.0,
+    "end_s": 1230897.0,
+    "duration_s": 1406
   },
   {
     "character_identifier": "NARRATOR",
@@ -1303,10 +1303,10 @@
     "text": "So had all.",
     "speed": 1.0,
     "audio_description": "",
-    "trailing_silence_ms": 500,
-    "start_ms": 1230897000,
-    "end_ms": 1232237000,
-    "duration_ms": 1340000
+    "trailing_silence_s": 0.5,
+    "start_s": 1230897.0,
+    "end_s": 1232237.0,
+    "duration_s": 1340
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1314,10 +1314,10 @@
     "text": "But he was very light to carry, and his father loved him so, that it was no trouble: no trouble. And there is your father at the door!",
     "speed": 1.0,
     "audio_description": "gentle, breaking",
-    "trailing_silence_ms": 600,
-    "start_ms": 1232237000,
-    "end_ms": 1242423000,
-    "duration_ms": 10186000
+    "trailing_silence_s": 0.6,
+    "start_s": 1232237.0,
+    "end_s": 1242423.0,
+    "duration_s": 10186
   },
   {
     "character_identifier": "NARRATOR",
@@ -1325,10 +1325,10 @@
     "text": "She hurried out to meet him; and little Bob in his comforter—he had need of it, poor fellow—came in. His tea was ready for him on the hob, and they all tried who should help him to it most. Then the two young Cratchits got upon his knees and laid, each child a little cheek, against his face, as if they said, \"Don't mind it, father. Don't be grieved!\"",
     "speed": 1.0,
     "audio_description": "tender, sorrowful",
-    "trailing_silence_ms": 300,
-    "start_ms": 1242423000,
-    "end_ms": 1264523000,
-    "duration_ms": 22100000
+    "trailing_silence_s": 0.3,
+    "start_s": 1242423.0,
+    "end_s": 1264523.0,
+    "duration_s": 22100
   },
   {
     "character_identifier": "NARRATOR",
@@ -1336,10 +1336,10 @@
     "text": "Bob was very cheerful with them, and spoke pleasantly to all the family. He looked at the work upon the table, and praised the industry and speed of Mrs. Cratchit and the girls. They would be done long before Sunday, he said.",
     "speed": 1.0,
     "audio_description": "gentle, measured",
-    "trailing_silence_ms": 300,
-    "start_ms": 1264523000,
-    "end_ms": 1278743000,
-    "duration_ms": 14220000
+    "trailing_silence_s": 0.3,
+    "start_s": 1264523.0,
+    "end_s": 1278743.0,
+    "duration_s": 14220
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1347,10 +1347,10 @@
     "text": "Sunday! You went to-day, then, Robert?",
     "speed": 1.0,
     "audio_description": "quiet, realizing",
-    "trailing_silence_ms": 500,
-    "start_ms": 1278743000,
-    "end_ms": 1282549000,
-    "duration_ms": 3806000
+    "trailing_silence_s": 0.5,
+    "start_s": 1278743.0,
+    "end_s": 1282549.0,
+    "duration_s": 3806
   },
   {
     "character_identifier": "CLERK",
@@ -1358,10 +1358,10 @@
     "text": "Yes, my dear. I wish you could have gone. It would have done you good to see how green a place it is. But you'll see it often. I promised him that I would walk there on a Sunday. My little, little child! My little child!",
     "speed": 1.0,
     "audio_description": "breaking down, sobbing",
-    "trailing_silence_ms": 900,
-    "start_ms": 1282549000,
-    "end_ms": 1299235000,
-    "duration_ms": 16686000
+    "trailing_silence_s": 0.9,
+    "start_s": 1282549.0,
+    "end_s": 1299235.0,
+    "duration_s": 16686
   },
   {
     "character_identifier": "NARRATOR",
@@ -1369,10 +1369,10 @@
     "text": "He broke down all at once. He couldn't help it. If he could have helped it, he and his child would have been farther apart perhaps than they were.",
     "speed": 1.0,
     "audio_description": "sorrowful, gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 1299235000,
-    "end_ms": 1308135000,
-    "duration_ms": 8900000
+    "trailing_silence_s": 0.3,
+    "start_s": 1299235.0,
+    "end_s": 1308135.0,
+    "duration_s": 8900
   },
   {
     "character_identifier": "NARRATOR",
@@ -1380,10 +1380,10 @@
     "text": "He left the room, and went up-stairs into the room above, which was lighted cheerfully, and hung with Christmas. There was a chair set close beside the child, and there were signs of some one having been there, lately. Poor Bob sat down in it, and when he had thought a little and composed himself, he kissed the little face. He was reconciled to what had happened, and went down again quite happy.",
     "speed": 1.0,
     "audio_description": "tender, reverent",
-    "trailing_silence_ms": 300,
-    "start_ms": 1308135000,
-    "end_ms": 1333275000,
-    "duration_ms": 25140000
+    "trailing_silence_s": 0.3,
+    "start_s": 1308135.0,
+    "end_s": 1333275.0,
+    "duration_s": 25140
   },
   {
     "character_identifier": "NARRATOR",
@@ -1391,10 +1391,10 @@
     "text": "They drew about the fire, and talked; the girls and mother working still. Bob told them of the extraordinary kindness of Mr. Scrooge's nephew, whom he had scarcely seen but once, and who, meeting him in the street that day, and seeing that he looked a little—just a little down you know, said Bob, inquired what had happened to distress him.",
     "speed": 1.0,
     "audio_description": "warm, grateful",
-    "trailing_silence_ms": 300,
-    "start_ms": 1333275000,
-    "end_ms": 1354895000,
-    "duration_ms": 21620000
+    "trailing_silence_s": 0.3,
+    "start_s": 1333275.0,
+    "end_s": 1354895.0,
+    "duration_s": 21620
   },
   {
     "character_identifier": "CLERK",
@@ -1402,10 +1402,10 @@
     "text": "On which, for he is the pleasantest-spoken gentleman you ever heard, I told him. 'I am heartily sorry for it, Mr. Cratchit,' he said, 'and heartily sorry for your good wife.' By the bye, how he ever knew <i>that</i>, I don't know.",
     "speed": 1.0,
     "audio_description": "warm, grateful",
-    "trailing_silence_ms": 500,
-    "start_ms": 1354895000,
-    "end_ms": 1370221000,
-    "duration_ms": 15326000
+    "trailing_silence_s": 0.5,
+    "start_s": 1354895.0,
+    "end_s": 1370221.0,
+    "duration_s": 15326
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1413,10 +1413,10 @@
     "text": "Knew what, my dear?",
     "speed": 1.0,
     "audio_description": "curious",
-    "trailing_silence_ms": 300,
-    "start_ms": 1370221000,
-    "end_ms": 1372507000,
-    "duration_ms": 2286000
+    "trailing_silence_s": 0.3,
+    "start_s": 1370221.0,
+    "end_s": 1372507.0,
+    "duration_s": 2286
   },
   {
     "character_identifier": "CLERK",
@@ -1424,10 +1424,10 @@
     "text": "Why, that you were a good wife.",
     "speed": 1.0,
     "audio_description": "gentle, loving",
-    "trailing_silence_ms": 400,
-    "start_ms": 1372507000,
-    "end_ms": 1375253000,
-    "duration_ms": 2746000
+    "trailing_silence_s": 0.4,
+    "start_s": 1372507.0,
+    "end_s": 1375253.0,
+    "duration_s": 2746
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1435,10 +1435,10 @@
     "text": "Everybody knows that!",
     "speed": 1.0,
     "audio_description": "earnest, defensive",
-    "trailing_silence_ms": 400,
-    "start_ms": 1375253000,
-    "end_ms": 1377079000,
-    "duration_ms": 1826000
+    "trailing_silence_s": 0.4,
+    "start_s": 1375253.0,
+    "end_s": 1377079.0,
+    "duration_s": 1826
   },
   {
     "character_identifier": "CLERK",
@@ -1446,10 +1446,10 @@
     "text": "Very well observed, my boy! I hope they do. 'Heartily sorry,' he said, 'for your good wife. If I can be of service to you in any way,' he said, giving me his card, 'that's where I live. Pray come to me.' Now, it wasn't, for the sake of anything he might be able to do for us, so much as for his kind way, that this was quite delightful. It really seemed as if he had known our Tiny Tim, and felt with us.",
     "speed": 1.0,
     "audio_description": "warm, moved",
-    "trailing_silence_ms": 600,
-    "start_ms": 1377079000,
-    "end_ms": 1403892000,
-    "duration_ms": 26813000
+    "trailing_silence_s": 0.6,
+    "start_s": 1377079.0,
+    "end_s": 1403892.0,
+    "duration_s": 26813
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1457,10 +1457,10 @@
     "text": "I'm sure he's a good soul!",
     "speed": 1.0,
     "audio_description": "earnest, grateful",
-    "trailing_silence_ms": 200,
-    "start_ms": 1403892000,
-    "end_ms": 1405878000,
-    "duration_ms": 1986000
+    "trailing_silence_s": 0.2,
+    "start_s": 1403892.0,
+    "end_s": 1405878.0,
+    "duration_s": 1986
   },
   {
     "character_identifier": "CLERK",
@@ -1468,10 +1468,10 @@
     "text": "You would be surer of it, my dear, if you saw and spoke to him. I shouldn't be at all surprised—mark what I say!—if he got Peter a better situation.",
     "speed": 1.0,
     "audio_description": "hopeful, encouraging",
-    "trailing_silence_ms": 500,
-    "start_ms": 1405878000,
-    "end_ms": 1415924000,
-    "duration_ms": 10046000
+    "trailing_silence_s": 0.5,
+    "start_s": 1405878.0,
+    "end_s": 1415924.0,
+    "duration_s": 10046
   },
   {
     "character_identifier": "MRS_CRATCHIT",
@@ -1479,10 +1479,10 @@
     "text": "Only hear that, Peter.",
     "speed": 1.0,
     "audio_description": "pleased, motherly",
-    "trailing_silence_ms": 400,
-    "start_ms": 1415924000,
-    "end_ms": 1417830000,
-    "duration_ms": 1906000
+    "trailing_silence_s": 0.4,
+    "start_s": 1415924.0,
+    "end_s": 1417830.0,
+    "duration_s": 1906
   },
   {
     "character_identifier": "MARTHA_CRATCHIT",
@@ -1490,10 +1490,10 @@
     "text": "And then, Peter will be keeping company with some one, and setting up for himself.",
     "speed": 1.0,
     "audio_description": "teasing, playful",
-    "trailing_silence_ms": 400,
-    "start_ms": 1417830000,
-    "end_ms": 1417830000,
-    "duration_ms": 0
+    "trailing_silence_s": 0.4,
+    "start_s": 1417830.0,
+    "end_s": 1417830.0,
+    "duration_s": 0.0
   },
   {
     "character_identifier": "PETER_CRATCHIT",
@@ -1501,10 +1501,10 @@
     "text": "Get along with you!",
     "speed": 1.0,
     "audio_description": "embarrassed, grinning",
-    "trailing_silence_ms": 500,
-    "start_ms": 1417830000,
-    "end_ms": 1419876000,
-    "duration_ms": 2046000
+    "trailing_silence_s": 0.5,
+    "start_s": 1417830.0,
+    "end_s": 1419876.0,
+    "duration_s": 2046
   },
   {
     "character_identifier": "CLERK",
@@ -1512,10 +1512,10 @@
     "text": "It's just as likely as not, one of these days; though there's plenty of time for that, my dear. But however and whenever we part from one another, I am sure we shall none of us forget poor Tiny Tim—shall we—or this first parting that there was among us?",
     "speed": 1.0,
     "audio_description": "solemn, loving",
-    "trailing_silence_ms": 600,
-    "start_ms": 1419876000,
-    "end_ms": 1438649000,
-    "duration_ms": 18773000
+    "trailing_silence_s": 0.6,
+    "start_s": 1419876.0,
+    "end_s": 1438649.0,
+    "duration_s": 18773
   },
   {
     "character_identifier": "NARRATOR",
@@ -1523,10 +1523,10 @@
     "text": "\"Never, father!\" cried they all.",
     "speed": 1.0,
     "audio_description": "neutral",
-    "trailing_silence_ms": 500,
-    "start_ms": 1438649000,
-    "end_ms": 1440789000,
-    "duration_ms": 2140000
+    "trailing_silence_s": 0.5,
+    "start_s": 1438649.0,
+    "end_s": 1440789.0,
+    "duration_s": 2140
   },
   {
     "character_identifier": "CLERK",
@@ -1534,10 +1534,10 @@
     "text": "And I know, I know, my dears, that when we recollect how patient and how mild he was; although he was a little, little child; we shall not quarrel easily among ourselves, and forget poor Tiny Tim in doing it.",
     "speed": 1.0,
     "audio_description": "gentle, earnest",
-    "trailing_silence_ms": 600,
-    "start_ms": 1440789000,
-    "end_ms": 1456895000,
-    "duration_ms": 16106000
+    "trailing_silence_s": 0.6,
+    "start_s": 1440789.0,
+    "end_s": 1456895.0,
+    "duration_s": 16106
   },
   {
     "character_identifier": "NARRATOR",
@@ -1545,10 +1545,10 @@
     "text": "\"No, never, father!\" they all cried again.",
     "speed": 1.0,
     "audio_description": "neutral",
-    "trailing_silence_ms": 500,
-    "start_ms": 1456895000,
-    "end_ms": 1460075000,
-    "duration_ms": 3180000
+    "trailing_silence_s": 0.5,
+    "start_s": 1456895.0,
+    "end_s": 1460075.0,
+    "duration_s": 3180
   },
   {
     "character_identifier": "CLERK",
@@ -1556,10 +1556,10 @@
     "text": "I am very happy. I am very happy!",
     "speed": 1.0,
     "audio_description": "tearful, grateful",
-    "trailing_silence_ms": 700,
-    "start_ms": 1460075000,
-    "end_ms": 1463721000,
-    "duration_ms": 3646000
+    "trailing_silence_s": 0.7,
+    "start_s": 1460075.0,
+    "end_s": 1463721.0,
+    "duration_s": 3646
   },
   {
     "character_identifier": "NARRATOR",
@@ -1567,10 +1567,10 @@
     "text": "Mrs. Cratchit kissed him, his daughters kissed him, the two young Cratchits kissed him, and Peter and himself shook hands. Spirit of Tiny Tim, thy childish essence was from God!",
     "speed": 1.0,
     "audio_description": "reverent, tender",
-    "trailing_silence_ms": 300,
-    "start_ms": 1463721000,
-    "end_ms": 1476181000,
-    "duration_ms": 12460000
+    "trailing_silence_s": 0.3,
+    "start_s": 1463721.0,
+    "end_s": 1476181.0,
+    "duration_s": 12460
   },
   {
     "character_identifier": "SCROOGE",
@@ -1578,10 +1578,10 @@
     "text": "Spectre, something informs me that our parting moment is at hand. I know it, but I know not how. Tell me what man that was whom we saw lying dead?",
     "speed": 1.0,
     "audio_description": "urgent, desperate",
-    "trailing_silence_ms": 800,
-    "start_ms": 1476181000,
-    "end_ms": 1484967000,
-    "duration_ms": 8786000
+    "trailing_silence_s": 0.8,
+    "start_s": 1476181.0,
+    "end_s": 1484967.0,
+    "duration_s": 8786
   },
   {
     "character_identifier": "NARRATOR",
@@ -1589,10 +1589,10 @@
     "text": "The Ghost of Christmas Yet To Come conveyed him, as before—though at a different time, he thought: indeed, there seemed no order in these latter visions, save that they were in the Future—into the resorts of business men, but showed him not himself. Indeed, the Spirit did not stay for anything, but went straight on, as to the end just now desired, until besought by Scrooge to tarry for a moment.",
     "speed": 1.0,
     "audio_description": "measured, ominous",
-    "trailing_silence_ms": 300,
-    "start_ms": 1484967000,
-    "end_ms": 1510707000,
-    "duration_ms": 25740000
+    "trailing_silence_s": 0.3,
+    "start_s": 1484967.0,
+    "end_s": 1510707.0,
+    "duration_s": 25740
   },
   {
     "character_identifier": "SCROOGE",
@@ -1600,10 +1600,10 @@
     "text": "This court, through which we hurry now, is where my place of occupation is, and has been for a length of time. I see the house. Let me behold what I shall be, in days to come!",
     "speed": 1.0,
     "audio_description": "urgent, pleading",
-    "trailing_silence_ms": 600,
-    "start_ms": 1510707000,
-    "end_ms": 1521173000,
-    "duration_ms": 10466000
+    "trailing_silence_s": 0.6,
+    "start_s": 1510707.0,
+    "end_s": 1521173.0,
+    "duration_s": 10466
   },
   {
     "character_identifier": "NARRATOR",
@@ -1611,10 +1611,10 @@
     "text": "The Spirit stopped; the hand was pointed elsewhere.",
     "speed": 1.0,
     "audio_description": "stark",
-    "trailing_silence_ms": 300,
-    "start_ms": 1521173000,
-    "end_ms": 1524193000,
-    "duration_ms": 3020000
+    "trailing_silence_s": 0.3,
+    "start_s": 1521173.0,
+    "end_s": 1524193.0,
+    "duration_s": 3020
   },
   {
     "character_identifier": "SCROOGE",
@@ -1622,10 +1622,10 @@
     "text": "The house is yonder. Why do you point away?",
     "speed": 1.0,
     "audio_description": "confused, fearful",
-    "trailing_silence_ms": 500,
-    "start_ms": 1524193000,
-    "end_ms": 1527839000,
-    "duration_ms": 3646000
+    "trailing_silence_s": 0.5,
+    "start_s": 1524193.0,
+    "end_s": 1527839.0,
+    "duration_s": 3646
   },
   {
     "character_identifier": "NARRATOR",
@@ -1633,10 +1633,10 @@
     "text": "The inexorable finger underwent no change.",
     "speed": 1.0,
     "audio_description": "ominous",
-    "trailing_silence_ms": 300,
-    "start_ms": 1527839000,
-    "end_ms": 1530739000,
-    "duration_ms": 2900000
+    "trailing_silence_s": 0.3,
+    "start_s": 1527839.0,
+    "end_s": 1530739.0,
+    "duration_s": 2900
   },
   {
     "character_identifier": "NARRATOR",
@@ -1644,10 +1644,10 @@
     "text": "Scrooge hastened to the window of his office, and looked in. It was an office still, but not his. The furniture was not the same, and the figure in the chair was not himself. The Phantom pointed as before.",
     "speed": 1.0,
     "audio_description": "tense, foreboding",
-    "trailing_silence_ms": 300,
-    "start_ms": 1530739000,
-    "end_ms": 1543519000,
-    "duration_ms": 12780000
+    "trailing_silence_s": 0.3,
+    "start_s": 1530739.0,
+    "end_s": 1543519.0,
+    "duration_s": 12780
   },
   {
     "character_identifier": "NARRATOR",
@@ -1655,10 +1655,10 @@
     "text": "He joined it once again, and wondering why and whither he had gone, accompanied it until they reached an iron gate. He paused to look round before entering.",
     "speed": 1.0,
     "audio_description": "somber",
-    "trailing_silence_ms": 300,
-    "start_ms": 1543519000,
-    "end_ms": 1553619000,
-    "duration_ms": 10100000
+    "trailing_silence_s": 0.3,
+    "start_s": 1543519.0,
+    "end_s": 1553619.0,
+    "duration_s": 10100
   },
   {
     "character_identifier": "NARRATOR",
@@ -1666,10 +1666,10 @@
     "text": "A churchyard. Here, then; the wretched man whose name he had now to learn, lay underneath the ground. It was a worthy place. Walled in by houses; overrun by grass and weeds, the growth of vegetation's death, not life; choked up with too much burying; fat with repleted appetite. A worthy place!",
     "speed": 1.0,
     "audio_description": "bitter, grim",
-    "trailing_silence_ms": 300,
-    "start_ms": 1553619000,
-    "end_ms": 1573519000,
-    "duration_ms": 19900000
+    "trailing_silence_s": 0.3,
+    "start_s": 1553619.0,
+    "end_s": 1573519.0,
+    "duration_s": 19900
   },
   {
     "character_identifier": "NARRATOR",
@@ -1677,10 +1677,10 @@
     "text": "The Spirit stood among the graves, and pointed down to One. He advanced towards it trembling. The Phantom was exactly as it had been, but he dreaded that he saw new meaning in its solemn shape.",
     "speed": 1.0,
     "audio_description": "dreadful, ominous",
-    "trailing_silence_ms": 300,
-    "start_ms": 1573519000,
-    "end_ms": 1585019000,
-    "duration_ms": 11500000
+    "trailing_silence_s": 0.3,
+    "start_s": 1573519.0,
+    "end_s": 1585019.0,
+    "duration_s": 11500
   },
   {
     "character_identifier": "SCROOGE",
@@ -1688,10 +1688,10 @@
     "text": "Before I draw nearer to that stone to which you point, answer me one question. Are these the shadows of the things that Will be, or are they shadows of things that May be only?",
     "speed": 1.0,
     "audio_description": "desperate, trembling",
-    "trailing_silence_ms": 700,
-    "start_ms": 1585019000,
-    "end_ms": 1595825000,
-    "duration_ms": 10806000
+    "trailing_silence_s": 0.7,
+    "start_s": 1585019.0,
+    "end_s": 1595825.0,
+    "duration_s": 10806
   },
   {
     "character_identifier": "NARRATOR",
@@ -1699,10 +1699,10 @@
     "text": "Still the Ghost pointed downward to the grave by which it stood.",
     "speed": 1.0,
     "audio_description": "inexorable",
-    "trailing_silence_ms": 300,
-    "start_ms": 1595825000,
-    "end_ms": 1599365000,
-    "duration_ms": 3540000
+    "trailing_silence_s": 0.3,
+    "start_s": 1595825.0,
+    "end_s": 1599365.0,
+    "duration_s": 3540
   },
   {
     "character_identifier": "SCROOGE",
@@ -1710,10 +1710,10 @@
     "text": "Men's courses will foreshadow certain ends, to which, if persevered in, they must lead. But if the courses be departed from, the ends will change. Say it is thus with what you show me!",
     "speed": 1.0,
     "audio_description": "pleading, desperate",
-    "trailing_silence_ms": 700,
-    "start_ms": 1599365000,
-    "end_ms": 1611771000,
-    "duration_ms": 12406000
+    "trailing_silence_s": 0.7,
+    "start_s": 1599365.0,
+    "end_s": 1611771.0,
+    "duration_s": 12406
   },
   {
     "character_identifier": "NARRATOR",
@@ -1721,10 +1721,10 @@
     "text": "The Spirit was immovable as ever.",
     "speed": 1.0,
     "audio_description": "cold, final",
-    "trailing_silence_ms": 300,
-    "start_ms": 1611771000,
-    "end_ms": 1613871000,
-    "duration_ms": 2100000
+    "trailing_silence_s": 0.3,
+    "start_s": 1611771.0,
+    "end_s": 1613871.0,
+    "duration_s": 2100
   },
   {
     "character_identifier": "NARRATOR",
@@ -1732,9 +1732,9 @@
     "text": "Scrooge crept towards it, trembling as he went; and following the finger, read upon the stone of the neglected grave his own name, Ebenezer Scrooge.",
     "speed": 1.0,
     "audio_description": "dreadful, climactic",
-    "trailing_silence_ms": 300,
-    "start_ms": 1613871000,
-    "end_ms": 1623851000,
-    "duration_ms": 9980000
+    "trailing_silence_s": 0.3,
+    "start_s": 1613871.0,
+    "end_s": 1623851.0,
+    "duration_s": 9980
   }
 ]
