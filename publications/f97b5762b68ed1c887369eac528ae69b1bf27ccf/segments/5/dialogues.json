@@ -959,12 +959,23 @@
   {
     "character_identifier": "NARRATOR",
     "ordinal": 88,
-    "text": "He had no further intercourse with Spirits, but lived upon the Total Abstinence Principle, ever afterwards; and it was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge. May that be truly said of us, and all of us! And so, as Tiny Tim observed, God bless Us, Every One!",
+    "text": "He had no further intercourse with Spirits, but lived upon the Total Abstinence Principle, ever afterwards; and it was always said of him, that he knew how to keep Christmas well, if any man alive possessed the knowledge. May that be truly said of us, and all of us! ",
     "speed": 1.0,
     "audio_description": "gentle, reverent, hopeful",
     "trailing_silence_s": 0.3,
     "start_s": 725.9337269999999,
-    "end_s": 745.7937269999999,
-    "duration_s": 19.86
+    "end_s": 742.1137269999998,
+    "duration_s": 16.18
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "ordinal": 89,
+    "text": "And so, as Tiny Tim observed, God bless Us, Every One!",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 0.5,
+    "start_s": 742.1137269999998,
+    "end_s": 745.7337269999998,
+    "duration_s": 3.62
   }
 ]
