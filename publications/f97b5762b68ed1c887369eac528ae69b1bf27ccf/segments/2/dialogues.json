@@ -7,8 +7,8 @@
     "audio_description": "",
     "trailing_silence_ms": 1000,
     "start_ms": 0,
-    "end_ms": 4560,
-    "duration_ms": 4560
+    "end_ms": 4560000,
+    "duration_ms": 4560000
   },
   {
     "character_identifier": "NARRATOR",
@@ -17,9 +17,9 @@
     "speed": 1.0,
     "audio_description": "hushed, mysterious",
     "trailing_silence_ms": 300,
-    "start_ms": 4560,
-    "end_ms": 23540,
-    "duration_ms": 18980
+    "start_ms": 4560000,
+    "end_ms": 23540000,
+    "duration_ms": 18980000
   },
   {
     "character_identifier": "NARRATOR",
@@ -28,9 +28,9 @@
     "speed": 1.0,
     "audio_description": "bewildered",
     "trailing_silence_ms": 300,
-    "start_ms": 23540,
-    "end_ms": 39160,
-    "duration_ms": 15620
+    "start_ms": 23540000,
+    "end_ms": 39160000,
+    "duration_ms": 15620000
   },
   {
     "character_identifier": "NARRATOR",
@@ -39,9 +39,9 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_ms": 300,
-    "start_ms": 39160,
-    "end_ms": 47180,
-    "duration_ms": 8020
+    "start_ms": 39160000,
+    "end_ms": 47180000,
+    "duration_ms": 8020000
   },
   {
     "character_identifier": "SCROOGE",
@@ -50,9 +50,9 @@
     "speed": 1.0,
     "audio_description": "alarmed, confused",
     "trailing_silence_ms": 500,
-    "start_ms": 47180,
-    "end_ms": 57066,
-    "duration_ms": 9886
+    "start_ms": 47180000,
+    "end_ms": 57066000,
+    "duration_ms": 9886000
   },
   {
     "character_identifier": "NARRATOR",
@@ -61,9 +61,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 57066,
-    "end_ms": 87606,
-    "duration_ms": 30540
+    "start_ms": 57066000,
+    "end_ms": 87606000,
+    "duration_ms": 30540000
   },
   {
     "character_identifier": "NARRATOR",
@@ -72,9 +72,9 @@
     "speed": 1.0,
     "audio_description": "dryly amused",
     "trailing_silence_ms": 300,
-    "start_ms": 87606,
-    "end_ms": 101906,
-    "duration_ms": 14300
+    "start_ms": 87606000,
+    "end_ms": 101906000,
+    "duration_ms": 14300000
   },
   {
     "character_identifier": "NARRATOR",
@@ -83,9 +83,9 @@
     "speed": 1.0,
     "audio_description": "thoughtful",
     "trailing_silence_ms": 300,
-    "start_ms": 101906,
-    "end_ms": 116926,
-    "duration_ms": 15020
+    "start_ms": 101906000,
+    "end_ms": 116926000,
+    "duration_ms": 15020000
   },
   {
     "character_identifier": "NARRATOR",
@@ -94,9 +94,9 @@
     "speed": 1.0,
     "audio_description": "troubled",
     "trailing_silence_ms": 300,
-    "start_ms": 116926,
-    "end_ms": 136506,
-    "duration_ms": 19580
+    "start_ms": 116926000,
+    "end_ms": 136506000,
+    "duration_ms": 19580000
   },
   {
     "character_identifier": "NARRATOR",
@@ -105,9 +105,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 136506,
-    "end_ms": 157606,
-    "duration_ms": 21100
+    "start_ms": 136506000,
+    "end_ms": 157606000,
+    "duration_ms": 21100000
   },
   {
     "character_identifier": "NARRATOR",
@@ -116,9 +116,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 157606,
-    "end_ms": 167786,
-    "duration_ms": 10180
+    "start_ms": 157606000,
+    "end_ms": 167786000,
+    "duration_ms": 10180000
   },
   {
     "character_identifier": "NARRATOR",
@@ -127,9 +127,9 @@
     "speed": 1.0,
     "audio_description": "bell-like",
     "trailing_silence_ms": 300,
-    "start_ms": 167786,
-    "end_ms": 168926,
-    "duration_ms": 1140
+    "start_ms": 167786000,
+    "end_ms": 168926000,
+    "duration_ms": 1140000
   },
   {
     "character_identifier": "SCROOGE",
@@ -138,9 +138,9 @@
     "speed": 1.0,
     "audio_description": "counting, focused",
     "trailing_silence_ms": 300,
-    "start_ms": 168926,
-    "end_ms": 170532,
-    "duration_ms": 1606
+    "start_ms": 168926000,
+    "end_ms": 170532000,
+    "duration_ms": 1606000
   },
   {
     "character_identifier": "NARRATOR",
@@ -149,9 +149,9 @@
     "speed": 1.0,
     "audio_description": "bell-like",
     "trailing_silence_ms": 300,
-    "start_ms": 170532,
-    "end_ms": 171552,
-    "duration_ms": 1020
+    "start_ms": 170532000,
+    "end_ms": 171552000,
+    "duration_ms": 1020000
   },
   {
     "character_identifier": "SCROOGE",
@@ -160,9 +160,9 @@
     "speed": 1.0,
     "audio_description": "counting",
     "trailing_silence_ms": 300,
-    "start_ms": 171552,
-    "end_ms": 173118,
-    "duration_ms": 1566
+    "start_ms": 171552000,
+    "end_ms": 173118000,
+    "duration_ms": 1566000
   },
   {
     "character_identifier": "NARRATOR",
@@ -171,9 +171,9 @@
     "speed": 1.0,
     "audio_description": "bell-like",
     "trailing_silence_ms": 300,
-    "start_ms": 173118,
-    "end_ms": 174178,
-    "duration_ms": 1060
+    "start_ms": 173118000,
+    "end_ms": 174178000,
+    "duration_ms": 1060000
   },
   {
     "character_identifier": "SCROOGE",
@@ -182,9 +182,9 @@
     "speed": 1.0,
     "audio_description": "counting",
     "trailing_silence_ms": 300,
-    "start_ms": 174178,
-    "end_ms": 175744,
-    "duration_ms": 1566
+    "start_ms": 174178000,
+    "end_ms": 175744000,
+    "duration_ms": 1566000
   },
   {
     "character_identifier": "NARRATOR",
@@ -193,9 +193,9 @@
     "speed": 1.0,
     "audio_description": "bell-like",
     "trailing_silence_ms": 300,
-    "start_ms": 175744,
-    "end_ms": 176844,
-    "duration_ms": 1100
+    "start_ms": 175744000,
+    "end_ms": 176844000,
+    "duration_ms": 1100000
   },
   {
     "character_identifier": "SCROOGE",
@@ -204,9 +204,9 @@
     "speed": 1.0,
     "audio_description": "triumphant",
     "trailing_silence_ms": 500,
-    "start_ms": 176844,
-    "end_ms": 180170,
-    "duration_ms": 3326
+    "start_ms": 176844000,
+    "end_ms": 180170000,
+    "duration_ms": 3326000
   },
   {
     "character_identifier": "NARRATOR",
@@ -215,9 +215,9 @@
     "speed": 1.0,
     "audio_description": "dramatic",
     "trailing_silence_ms": 300,
-    "start_ms": 180170,
-    "end_ms": 192030,
-    "duration_ms": 11860
+    "start_ms": 180170000,
+    "end_ms": 192030000,
+    "duration_ms": 11860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -226,9 +226,9 @@
     "speed": 1.0,
     "audio_description": "urgent, intimate",
     "trailing_silence_ms": 300,
-    "start_ms": 192030,
-    "end_ms": 217530,
-    "duration_ms": 25500
+    "start_ms": 192030000,
+    "end_ms": 217530000,
+    "duration_ms": 25500000
   },
   {
     "character_identifier": "NARRATOR",
@@ -237,9 +237,9 @@
     "speed": 1.0,
     "audio_description": "wondrous, descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 217530,
-    "end_ms": 286950,
-    "duration_ms": 69420
+    "start_ms": 217530000,
+    "end_ms": 286950000,
+    "duration_ms": 69420000
   },
   {
     "character_identifier": "NARRATOR",
@@ -248,9 +248,9 @@
     "speed": 1.0,
     "audio_description": "eerie, amazed",
     "trailing_silence_ms": 300,
-    "start_ms": 286950,
-    "end_ms": 325970,
-    "duration_ms": 39020
+    "start_ms": 286950000,
+    "end_ms": 325970000,
+    "duration_ms": 39020000
   },
   {
     "character_identifier": "SCROOGE",
@@ -259,9 +259,9 @@
     "speed": 1.0,
     "audio_description": "cautious, polite",
     "trailing_silence_ms": 400,
-    "start_ms": 325970,
-    "end_ms": 330356,
-    "duration_ms": 4386
+    "start_ms": 325970000,
+    "end_ms": 330356000,
+    "duration_ms": 4386000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -270,9 +270,9 @@
     "speed": 1.0,
     "audio_description": "soft, distant",
     "trailing_silence_ms": 500,
-    "start_ms": 330356,
-    "end_ms": 331562,
-    "duration_ms": 1206
+    "start_ms": 330356000,
+    "end_ms": 331562000,
+    "duration_ms": 1206000
   },
   {
     "character_identifier": "NARRATOR",
@@ -281,9 +281,9 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 331562,
-    "end_ms": 338782,
-    "duration_ms": 7220
+    "start_ms": 331562000,
+    "end_ms": 338782000,
+    "duration_ms": 7220000
   },
   {
     "character_identifier": "SCROOGE",
@@ -292,9 +292,9 @@
     "speed": 1.0,
     "audio_description": "demanding",
     "trailing_silence_ms": 400,
-    "start_ms": 338782,
-    "end_ms": 341008,
-    "duration_ms": 2226
+    "start_ms": 338782000,
+    "end_ms": 341008000,
+    "duration_ms": 2226000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -303,9 +303,9 @@
     "speed": 1.0,
     "audio_description": "gentle, clear",
     "trailing_silence_ms": 200,
-    "start_ms": 341008,
-    "end_ms": 343934,
-    "duration_ms": 2926
+    "start_ms": 341008000,
+    "end_ms": 343934000,
+    "duration_ms": 2926000
   },
   {
     "character_identifier": "SCROOGE",
@@ -314,9 +314,9 @@
     "speed": 1.0,
     "audio_description": "curious",
     "trailing_silence_ms": 300,
-    "start_ms": 343934,
-    "end_ms": 345540,
-    "duration_ms": 1606
+    "start_ms": 343934000,
+    "end_ms": 345540000,
+    "duration_ms": 1606000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -325,9 +325,9 @@
     "speed": 1.0,
     "audio_description": "gentle, direct",
     "trailing_silence_ms": 300,
-    "start_ms": 345540,
-    "end_ms": 347866,
-    "duration_ms": 2326
+    "start_ms": 345540000,
+    "end_ms": 347866000,
+    "duration_ms": 2326000
   },
   {
     "character_identifier": "NARRATOR",
@@ -336,9 +336,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 347866,
-    "end_ms": 358166,
-    "duration_ms": 10300
+    "start_ms": 347866000,
+    "end_ms": 358166000,
+    "duration_ms": 10300000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -347,9 +347,9 @@
     "speed": 1.0,
     "audio_description": "reproachful, pained",
     "trailing_silence_ms": 800,
-    "start_ms": 358166,
-    "end_ms": 369672,
-    "duration_ms": 11506
+    "start_ms": 358166000,
+    "end_ms": 369672000,
+    "duration_ms": 11506000
   },
   {
     "character_identifier": "NARRATOR",
@@ -358,9 +358,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 369672,
-    "end_ms": 381852,
-    "duration_ms": 12180
+    "start_ms": 369672000,
+    "end_ms": 381852000,
+    "duration_ms": 12180000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -369,9 +369,9 @@
     "speed": 1.0,
     "audio_description": "firm",
     "trailing_silence_ms": 600,
-    "start_ms": 381852,
-    "end_ms": 383438,
-    "duration_ms": 1586
+    "start_ms": 381852000,
+    "end_ms": 383438000,
+    "duration_ms": 1586000
   },
   {
     "character_identifier": "NARRATOR",
@@ -380,9 +380,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 383438,
-    "end_ms": 396138,
-    "duration_ms": 12700
+    "start_ms": 383438000,
+    "end_ms": 396138000,
+    "duration_ms": 12700000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -391,9 +391,9 @@
     "speed": 1.0,
     "audio_description": "commanding, serious",
     "trailing_silence_ms": 400,
-    "start_ms": 396138,
-    "end_ms": 399164,
-    "duration_ms": 3026
+    "start_ms": 396138000,
+    "end_ms": 399164000,
+    "duration_ms": 3026000
   },
   {
     "character_identifier": "NARRATOR",
@@ -402,9 +402,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 399164,
-    "end_ms": 404264,
-    "duration_ms": 5100
+    "start_ms": 399164000,
+    "end_ms": 404264000,
+    "duration_ms": 5100000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -413,9 +413,9 @@
     "speed": 1.0,
     "audio_description": "commanding",
     "trailing_silence_ms": 700,
-    "start_ms": 404264,
-    "end_ms": 407190,
-    "duration_ms": 2926
+    "start_ms": 404264000,
+    "end_ms": 407190000,
+    "duration_ms": 2926000
   },
   {
     "character_identifier": "NARRATOR",
@@ -424,9 +424,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 407190,
-    "end_ms": 436890,
-    "duration_ms": 29700
+    "start_ms": 407190000,
+    "end_ms": 436890000,
+    "duration_ms": 29700000
   },
   {
     "character_identifier": "SCROOGE",
@@ -435,9 +435,9 @@
     "speed": 1.0,
     "audio_description": "pleading, fearful",
     "trailing_silence_ms": 400,
-    "start_ms": 436890,
-    "end_ms": 440276,
-    "duration_ms": 3386
+    "start_ms": 436890000,
+    "end_ms": 440276000,
+    "duration_ms": 3386000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -446,9 +446,9 @@
     "speed": 1.0,
     "audio_description": "reassuring",
     "trailing_silence_ms": 800,
-    "start_ms": 440276,
-    "end_ms": 446022,
-    "duration_ms": 5746
+    "start_ms": 440276000,
+    "end_ms": 446022000,
+    "duration_ms": 5746000
   },
   {
     "character_identifier": "NARRATOR",
@@ -457,9 +457,9 @@
     "speed": 1.0,
     "audio_description": "wondrous",
     "trailing_silence_ms": 300,
-    "start_ms": 446022,
-    "end_ms": 464762,
-    "duration_ms": 18740
+    "start_ms": 446022000,
+    "end_ms": 464762000,
+    "duration_ms": 18740000
   },
   {
     "character_identifier": "SCROOGE",
@@ -468,9 +468,9 @@
     "speed": 1.0,
     "audio_description": "astonished, emotional",
     "trailing_silence_ms": 300,
-    "start_ms": 464762,
-    "end_ms": 468848,
-    "duration_ms": 4086
+    "start_ms": 464762000,
+    "end_ms": 468848000,
+    "duration_ms": 4086000
   },
   {
     "character_identifier": "NARRATOR",
@@ -479,9 +479,9 @@
     "speed": 1.0,
     "audio_description": "tender",
     "trailing_silence_ms": 300,
-    "start_ms": 468848,
-    "end_ms": 488268,
-    "duration_ms": 19420
+    "start_ms": 468848000,
+    "end_ms": 488268000,
+    "duration_ms": 19420000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -490,9 +490,9 @@
     "speed": 1.0,
     "audio_description": "gentle, knowing",
     "trailing_silence_ms": 500,
-    "start_ms": 488268,
-    "end_ms": 492554,
-    "duration_ms": 4286
+    "start_ms": 488268000,
+    "end_ms": 492554000,
+    "duration_ms": 4286000
   },
   {
     "character_identifier": "NARRATOR",
@@ -501,9 +501,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 492554,
-    "end_ms": 500294,
-    "duration_ms": 7740
+    "start_ms": 492554000,
+    "end_ms": 500294000,
+    "duration_ms": 7740000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -512,9 +512,9 @@
     "speed": 1.0,
     "audio_description": "mild",
     "trailing_silence_ms": 300,
-    "start_ms": 500294,
-    "end_ms": 502700,
-    "duration_ms": 2406
+    "start_ms": 500294000,
+    "end_ms": 502700000,
+    "duration_ms": 2406000
   },
   {
     "character_identifier": "SCROOGE",
@@ -523,9 +523,9 @@
     "speed": 1.0,
     "audio_description": "fervent",
     "trailing_silence_ms": 400,
-    "start_ms": 502700,
-    "end_ms": 505886,
-    "duration_ms": 3186
+    "start_ms": 502700000,
+    "end_ms": 505886000,
+    "duration_ms": 3186000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -534,9 +534,9 @@
     "speed": 1.0,
     "audio_description": "observant, gentle",
     "trailing_silence_ms": 800,
-    "start_ms": 505886,
-    "end_ms": 511192,
-    "duration_ms": 5306
+    "start_ms": 505886000,
+    "end_ms": 511192000,
+    "duration_ms": 5306000
   },
   {
     "character_identifier": "NARRATOR",
@@ -545,9 +545,9 @@
     "speed": 1.0,
     "audio_description": "joyful, nostalgic",
     "trailing_silence_ms": 300,
-    "start_ms": 511192,
-    "end_ms": 541252,
-    "duration_ms": 30060
+    "start_ms": 511192000,
+    "end_ms": 541252000,
+    "duration_ms": 30060000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -556,9 +556,9 @@
     "speed": 1.0,
     "audio_description": "soft, explanatory",
     "trailing_silence_ms": 700,
-    "start_ms": 541252,
-    "end_ms": 547098,
-    "duration_ms": 5846
+    "start_ms": 541252000,
+    "end_ms": 547098000,
+    "duration_ms": 5846000
   },
   {
     "character_identifier": "NARRATOR",
@@ -567,9 +567,9 @@
     "speed": 1.0,
     "audio_description": "emotional, questioning",
     "trailing_silence_ms": 300,
-    "start_ms": 547098,
-    "end_ms": 576838,
-    "duration_ms": 29740
+    "start_ms": 547098000,
+    "end_ms": 576838000,
+    "duration_ms": 29740000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -578,9 +578,9 @@
     "speed": 1.0,
     "audio_description": "somber",
     "trailing_silence_ms": 700,
-    "start_ms": 576838,
-    "end_ms": 583844,
-    "duration_ms": 7006
+    "start_ms": 576838000,
+    "end_ms": 583844000,
+    "duration_ms": 7006000
   },
   {
     "character_identifier": "NARRATOR",
@@ -589,9 +589,9 @@
     "speed": 1.0,
     "audio_description": "heavy",
     "trailing_silence_ms": 300,
-    "start_ms": 583844,
-    "end_ms": 586824,
-    "duration_ms": 2980
+    "start_ms": 583844000,
+    "end_ms": 586824000,
+    "duration_ms": 2980000
   },
   {
     "character_identifier": "NARRATOR",
@@ -600,9 +600,9 @@
     "speed": 1.0,
     "audio_description": "melancholy, descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 586824,
-    "end_ms": 634364,
-    "duration_ms": 47540
+    "start_ms": 586824000,
+    "end_ms": 634364000,
+    "duration_ms": 47540000
   },
   {
     "character_identifier": "NARRATOR",
@@ -611,9 +611,9 @@
     "speed": 1.0,
     "audio_description": "sorrowful",
     "trailing_silence_ms": 300,
-    "start_ms": 634364,
-    "end_ms": 657784,
-    "duration_ms": 23420
+    "start_ms": 634364000,
+    "end_ms": 657784000,
+    "duration_ms": 23420000
   },
   {
     "character_identifier": "NARRATOR",
@@ -622,9 +622,9 @@
     "speed": 1.0,
     "audio_description": "tender, poetic",
     "trailing_silence_ms": 300,
-    "start_ms": 657784,
-    "end_ms": 683644,
-    "duration_ms": 25860
+    "start_ms": 657784000,
+    "end_ms": 683644000,
+    "duration_ms": 25860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -633,9 +633,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 683644,
-    "end_ms": 700944,
-    "duration_ms": 17300
+    "start_ms": 683644000,
+    "end_ms": 700944000,
+    "duration_ms": 17300000
   },
   {
     "character_identifier": "SCROOGE",
@@ -644,9 +644,9 @@
     "speed": 1.0,
     "audio_description": "ecstatic, childlike",
     "trailing_silence_ms": 700,
-    "start_ms": 700944,
-    "end_ms": 732484,
-    "duration_ms": 31540
+    "start_ms": 700944000,
+    "end_ms": 732484000,
+    "duration_ms": 31540000
   },
   {
     "character_identifier": "NARRATOR",
@@ -655,9 +655,9 @@
     "speed": 1.0,
     "audio_description": "amused",
     "trailing_silence_ms": 300,
-    "start_ms": 732484,
-    "end_ms": 747904,
-    "duration_ms": 15420
+    "start_ms": 732484000,
+    "end_ms": 747904000,
+    "duration_ms": 15420000
   },
   {
     "character_identifier": "SCROOGE",
@@ -666,9 +666,9 @@
     "speed": 1.0,
     "audio_description": "excited, animated",
     "trailing_silence_ms": 400,
-    "start_ms": 747904,
-    "end_ms": 772557,
-    "duration_ms": 24653
+    "start_ms": 747904000,
+    "end_ms": 772557000,
+    "duration_ms": 24653000
   },
   {
     "character_identifier": "NARRATOR",
@@ -677,9 +677,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 772557,
-    "end_ms": 781857,
-    "duration_ms": 9300
+    "start_ms": 772557000,
+    "end_ms": 781857000,
+    "duration_ms": 9300000
   },
   {
     "character_identifier": "NARRATOR",
@@ -688,9 +688,9 @@
     "speed": 1.0,
     "audio_description": "regretful",
     "trailing_silence_ms": 300,
-    "start_ms": 781857,
-    "end_ms": 790277,
-    "duration_ms": 8420
+    "start_ms": 781857000,
+    "end_ms": 790277000,
+    "duration_ms": 8420000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -699,9 +699,9 @@
     "speed": 1.0,
     "audio_description": "inquiring",
     "trailing_silence_ms": 300,
-    "start_ms": 790277,
-    "end_ms": 791963,
-    "duration_ms": 1686
+    "start_ms": 790277000,
+    "end_ms": 791963000,
+    "duration_ms": 1686000
   },
   {
     "character_identifier": "SCROOGE",
@@ -710,9 +710,9 @@
     "speed": 1.0,
     "audio_description": "regretful, quiet",
     "trailing_silence_ms": 700,
-    "start_ms": 791963,
-    "end_ms": 800969,
-    "duration_ms": 9006
+    "start_ms": 791963000,
+    "end_ms": 800969000,
+    "duration_ms": 9006000
   },
   {
     "character_identifier": "NARRATOR",
@@ -721,9 +721,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 800969,
-    "end_ms": 805629,
-    "duration_ms": 4660
+    "start_ms": 800969000,
+    "end_ms": 805629000,
+    "duration_ms": 4660000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PRESENT",
@@ -732,9 +732,9 @@
     "speed": 1.0,
     "audio_description": "thoughtful",
     "trailing_silence_ms": 500,
-    "start_ms": 805629,
-    "end_ms": 808115,
-    "duration_ms": 2486
+    "start_ms": 805629000,
+    "end_ms": 808115000,
+    "duration_ms": 2486000
   },
   {
     "character_identifier": "NARRATOR",
@@ -743,9 +743,9 @@
     "speed": 1.0,
     "audio_description": "somber",
     "trailing_silence_ms": 300,
-    "start_ms": 808115,
-    "end_ms": 835815,
-    "duration_ms": 27700
+    "start_ms": 808115000,
+    "end_ms": 835815000,
+    "duration_ms": 27700000
   },
   {
     "character_identifier": "NARRATOR",
@@ -754,9 +754,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 835815,
-    "end_ms": 846435,
-    "duration_ms": 10620
+    "start_ms": 835815000,
+    "end_ms": 846435000,
+    "duration_ms": 10620000
   },
   {
     "character_identifier": "NARRATOR",
@@ -765,9 +765,9 @@
     "speed": 1.0,
     "audio_description": "joyful",
     "trailing_silence_ms": 300,
-    "start_ms": 846435,
-    "end_ms": 857415,
-    "duration_ms": 10980
+    "start_ms": 846435000,
+    "end_ms": 857415000,
+    "duration_ms": 10980000
   },
   {
     "character_identifier": "FAN",
@@ -776,9 +776,9 @@
     "speed": 1.0,
     "audio_description": "gleeful, bright",
     "trailing_silence_ms": 100,
-    "start_ms": 857415,
-    "end_ms": 861666,
-    "duration_ms": 4251
+    "start_ms": 857415000,
+    "end_ms": 861666000,
+    "duration_ms": 4251000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_CHILD",
@@ -787,9 +787,9 @@
     "speed": 1.0,
     "audio_description": "hopeful, tentative",
     "trailing_silence_ms": 300,
-    "start_ms": 861666,
-    "end_ms": 863267,
-    "duration_ms": 1601
+    "start_ms": 861666000,
+    "end_ms": 863267000,
+    "duration_ms": 1601000
   },
   {
     "character_identifier": "FAN",
@@ -798,9 +798,9 @@
     "speed": 1.0,
     "audio_description": "brimming with glee",
     "trailing_silence_ms": 300,
-    "start_ms": 863267,
-    "end_ms": 892075,
-    "duration_ms": 28808
+    "start_ms": 863267000,
+    "end_ms": 892075000,
+    "duration_ms": 28808000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_CHILD",
@@ -809,9 +809,9 @@
     "speed": 1.0,
     "audio_description": "affectionate, amused",
     "trailing_silence_ms": 500,
-    "start_ms": 892075,
-    "end_ms": 894463,
-    "duration_ms": 2388
+    "start_ms": 892075000,
+    "end_ms": 894463000,
+    "duration_ms": 2388000
   },
   {
     "character_identifier": "NARRATOR",
@@ -820,9 +820,9 @@
     "speed": 1.0,
     "audio_description": "warm",
     "trailing_silence_ms": 300,
-    "start_ms": 894463,
-    "end_ms": 910842,
-    "duration_ms": 16379
+    "start_ms": 894463000,
+    "end_ms": 910842000,
+    "duration_ms": 16379000
   },
   {
     "character_identifier": "SCHOOLMASTER",
@@ -831,9 +831,9 @@
     "speed": 1.0,
     "audio_description": "booming, authoritative",
     "trailing_silence_ms": 600,
-    "start_ms": 910842,
-    "end_ms": 914188,
-    "duration_ms": 3346
+    "start_ms": 910842000,
+    "end_ms": 914188000,
+    "duration_ms": 3346000
   },
   {
     "character_identifier": "NARRATOR",
@@ -842,9 +842,9 @@
     "speed": 1.0,
     "audio_description": "narrative, vivid",
     "trailing_silence_ms": 300,
-    "start_ms": 914188,
-    "end_ms": 978448,
-    "duration_ms": 64260
+    "start_ms": 914188000,
+    "end_ms": 978448000,
+    "duration_ms": 64260000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -853,9 +853,9 @@
     "speed": 1.0,
     "audio_description": "tender, sad",
     "trailing_silence_ms": 300,
-    "start_ms": 978448,
-    "end_ms": 984574,
-    "duration_ms": 6126
+    "start_ms": 978448000,
+    "end_ms": 984574000,
+    "duration_ms": 6126000
   },
   {
     "character_identifier": "SCROOGE",
@@ -864,9 +864,9 @@
     "speed": 1.0,
     "audio_description": "emotional, earnest",
     "trailing_silence_ms": 300,
-    "start_ms": 984574,
-    "end_ms": 990100,
-    "duration_ms": 5526
+    "start_ms": 984574000,
+    "end_ms": 990100000,
+    "duration_ms": 5526000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -875,9 +875,9 @@
     "speed": 1.0,
     "audio_description": "gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 990100,
-    "end_ms": 994386,
-    "duration_ms": 4286
+    "start_ms": 990100000,
+    "end_ms": 994386000,
+    "duration_ms": 4286000
   },
   {
     "character_identifier": "SCROOGE",
@@ -886,9 +886,9 @@
     "speed": 1.0,
     "audio_description": "quiet",
     "trailing_silence_ms": 300,
-    "start_ms": 994386,
-    "end_ms": 995672,
-    "duration_ms": 1286
+    "start_ms": 994386000,
+    "end_ms": 995672000,
+    "duration_ms": 1286000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -897,9 +897,9 @@
     "speed": 1.0,
     "audio_description": "knowing",
     "trailing_silence_ms": 300,
-    "start_ms": 995672,
-    "end_ms": 997998,
-    "duration_ms": 2326
+    "start_ms": 995672000,
+    "end_ms": 997998000,
+    "duration_ms": 2326000
   },
   {
     "character_identifier": "NARRATOR",
@@ -908,9 +908,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 997998,
-    "end_ms": 1001778,
-    "duration_ms": 3780
+    "start_ms": 997998000,
+    "end_ms": 1001778000,
+    "duration_ms": 3780000
   },
   {
     "character_identifier": "NARRATOR",
@@ -919,9 +919,9 @@
     "speed": 1.0,
     "audio_description": "vivid",
     "trailing_silence_ms": 300,
-    "start_ms": 1001778,
-    "end_ms": 1027638,
-    "duration_ms": 25860
+    "start_ms": 1001778000,
+    "end_ms": 1027638000,
+    "duration_ms": 25860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -930,9 +930,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 1027638,
-    "end_ms": 1031818,
-    "duration_ms": 4180
+    "start_ms": 1027638000,
+    "end_ms": 1031818000,
+    "duration_ms": 4180000
   },
   {
     "character_identifier": "SCROOGE",
@@ -941,9 +941,9 @@
     "speed": 1.0,
     "audio_description": "amazed",
     "trailing_silence_ms": 300,
-    "start_ms": 1031818,
-    "end_ms": 1034264,
-    "duration_ms": 2446
+    "start_ms": 1031818000,
+    "end_ms": 1034264000,
+    "duration_ms": 2446000
   },
   {
     "character_identifier": "NARRATOR",
@@ -952,9 +952,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 1034264,
-    "end_ms": 1047444,
-    "duration_ms": 13180
+    "start_ms": 1034264000,
+    "end_ms": 1047444000,
+    "duration_ms": 13180000
   },
   {
     "character_identifier": "SCROOGE",
@@ -963,9 +963,9 @@
     "speed": 1.0,
     "audio_description": "delighted, excited",
     "trailing_silence_ms": 600,
-    "start_ms": 1047444,
-    "end_ms": 1052630,
-    "duration_ms": 5186
+    "start_ms": 1047444000,
+    "end_ms": 1052630000,
+    "duration_ms": 5186000
   },
   {
     "character_identifier": "NARRATOR",
@@ -974,9 +974,9 @@
     "speed": 1.0,
     "audio_description": "warm",
     "trailing_silence_ms": 300,
-    "start_ms": 1052630,
-    "end_ms": 1070010,
-    "duration_ms": 17380
+    "start_ms": 1052630000,
+    "end_ms": 1070010000,
+    "duration_ms": 17380000
   },
   {
     "character_identifier": "FEZZIWIG",
@@ -985,9 +985,9 @@
     "speed": 1.0,
     "audio_description": "jovial, booming",
     "trailing_silence_ms": 600,
-    "start_ms": 1070010,
-    "end_ms": 1073796,
-    "duration_ms": 3786
+    "start_ms": 1070010000,
+    "end_ms": 1073796000,
+    "duration_ms": 3786000
   },
   {
     "character_identifier": "NARRATOR",
@@ -996,9 +996,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 1073796,
-    "end_ms": 1079776,
-    "duration_ms": 5980
+    "start_ms": 1073796000,
+    "end_ms": 1079776000,
+    "duration_ms": 5980000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1007,9 +1007,9 @@
     "speed": 1.0,
     "audio_description": "nostalgic, warm",
     "trailing_silence_ms": 500,
-    "start_ms": 1079776,
-    "end_ms": 1088622,
-    "duration_ms": 8846
+    "start_ms": 1079776000,
+    "end_ms": 1088622000,
+    "duration_ms": 8846000
   },
   {
     "character_identifier": "FEZZIWIG",
@@ -1018,9 +1018,9 @@
     "speed": 1.0,
     "audio_description": "cheerful, energetic",
     "trailing_silence_ms": 600,
-    "start_ms": 1088622,
-    "end_ms": 1098968,
-    "duration_ms": 10346
+    "start_ms": 1088622000,
+    "end_ms": 1098968000,
+    "duration_ms": 10346000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1029,9 +1029,9 @@
     "speed": 1.0,
     "audio_description": "energetic, amused",
     "trailing_silence_ms": 300,
-    "start_ms": 1098968,
-    "end_ms": 1116828,
-    "duration_ms": 17860
+    "start_ms": 1098968000,
+    "end_ms": 1116828000,
+    "duration_ms": 17860000
   },
   {
     "character_identifier": "FEZZIWIG",
@@ -1040,9 +1040,9 @@
     "speed": 1.0,
     "audio_description": "gleeful, commanding",
     "trailing_silence_ms": 600,
-    "start_ms": 1116828,
-    "end_ms": 1123894,
-    "duration_ms": 7066
+    "start_ms": 1116828000,
+    "end_ms": 1123894000,
+    "duration_ms": 7066000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1051,9 +1051,9 @@
     "speed": 1.0,
     "audio_description": "delighted",
     "trailing_silence_ms": 300,
-    "start_ms": 1123894,
-    "end_ms": 1150354,
-    "duration_ms": 26460
+    "start_ms": 1123894000,
+    "end_ms": 1150354000,
+    "duration_ms": 26460000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1062,9 +1062,9 @@
     "speed": 1.0,
     "audio_description": "joyful, rhythmic",
     "trailing_silence_ms": 300,
-    "start_ms": 1150354,
-    "end_ms": 1205574,
-    "duration_ms": 55220
+    "start_ms": 1150354000,
+    "end_ms": 1205574000,
+    "duration_ms": 55220000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1073,9 +1073,9 @@
     "speed": 1.0,
     "audio_description": "lively, breathless",
     "trailing_silence_ms": 300,
-    "start_ms": 1205574,
-    "end_ms": 1255114,
-    "duration_ms": 49540
+    "start_ms": 1205574000,
+    "end_ms": 1255114000,
+    "duration_ms": 49540000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1084,9 +1084,9 @@
     "speed": 1.0,
     "audio_description": "jovial",
     "trailing_silence_ms": 300,
-    "start_ms": 1255114,
-    "end_ms": 1299814,
-    "duration_ms": 44700
+    "start_ms": 1255114000,
+    "end_ms": 1299814000,
+    "duration_ms": 44700000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1095,9 +1095,9 @@
     "speed": 1.0,
     "audio_description": "admiring, amused",
     "trailing_silence_ms": 300,
-    "start_ms": 1299814,
-    "end_ms": 1347674,
-    "duration_ms": 47860
+    "start_ms": 1299814000,
+    "end_ms": 1347674000,
+    "duration_ms": 47860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1106,9 +1106,9 @@
     "speed": 1.0,
     "audio_description": "warm, nostalgic",
     "trailing_silence_ms": 300,
-    "start_ms": 1347674,
-    "end_ms": 1375974,
-    "duration_ms": 28300
+    "start_ms": 1347674000,
+    "end_ms": 1375974000,
+    "duration_ms": 28300000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1117,9 +1117,9 @@
     "speed": 1.0,
     "audio_description": "reflective",
     "trailing_silence_ms": 300,
-    "start_ms": 1375974,
-    "end_ms": 1404794,
-    "duration_ms": 28820
+    "start_ms": 1375974000,
+    "end_ms": 1404794000,
+    "duration_ms": 28820000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1128,9 +1128,9 @@
     "speed": 1.0,
     "audio_description": "testing, mild",
     "trailing_silence_ms": 400,
-    "start_ms": 1404794,
-    "end_ms": 1409220,
-    "duration_ms": 4426
+    "start_ms": 1404794000,
+    "end_ms": 1409220000,
+    "duration_ms": 4426000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1139,9 +1139,9 @@
     "speed": 1.0,
     "audio_description": "defensive",
     "trailing_silence_ms": 500,
-    "start_ms": 1409220,
-    "end_ms": 1410506,
-    "duration_ms": 1286
+    "start_ms": 1409220000,
+    "end_ms": 1410506000,
+    "duration_ms": 1286000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1150,9 +1150,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 1410506,
-    "end_ms": 1419126,
-    "duration_ms": 8620
+    "start_ms": 1410506000,
+    "end_ms": 1419126000,
+    "duration_ms": 8620000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1161,9 +1161,9 @@
     "speed": 1.0,
     "audio_description": "probing",
     "trailing_silence_ms": 500,
-    "start_ms": 1419126,
-    "end_ms": 1428372,
-    "duration_ms": 9246
+    "start_ms": 1419126000,
+    "end_ms": 1428372000,
+    "duration_ms": 9246000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1172,9 +1172,9 @@
     "speed": 1.0,
     "audio_description": "heated, passionate",
     "trailing_silence_ms": 700,
-    "start_ms": 1428372,
-    "end_ms": 1451845,
-    "duration_ms": 23473
+    "start_ms": 1428372000,
+    "end_ms": 1451845000,
+    "duration_ms": 23473000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1183,9 +1183,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 1451845,
-    "end_ms": 1454945,
-    "duration_ms": 3100
+    "start_ms": 1451845000,
+    "end_ms": 1454945000,
+    "duration_ms": 3100000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1194,9 +1194,9 @@
     "speed": 1.0,
     "audio_description": "knowing",
     "trailing_silence_ms": 300,
-    "start_ms": 1454945,
-    "end_ms": 1456431,
-    "duration_ms": 1486
+    "start_ms": 1454945000,
+    "end_ms": 1456431000,
+    "duration_ms": 1486000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1205,9 +1205,9 @@
     "speed": 1.0,
     "audio_description": "evasive",
     "trailing_silence_ms": 300,
-    "start_ms": 1456431,
-    "end_ms": 1457917,
-    "duration_ms": 1486
+    "start_ms": 1456431000,
+    "end_ms": 1457917000,
+    "duration_ms": 1486000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1216,9 +1216,9 @@
     "speed": 1.0,
     "audio_description": "insistent, gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 1457917,
-    "end_ms": 1459803,
-    "duration_ms": 1886
+    "start_ms": 1457917000,
+    "end_ms": 1459803000,
+    "duration_ms": 1886000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1227,9 +1227,9 @@
     "speed": 1.0,
     "audio_description": "regretful, quiet",
     "trailing_silence_ms": 800,
-    "start_ms": 1459803,
-    "end_ms": 1468229,
-    "duration_ms": 8426
+    "start_ms": 1459803000,
+    "end_ms": 1468229000,
+    "duration_ms": 8426000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1238,9 +1238,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 1468229,
-    "end_ms": 1476889,
-    "duration_ms": 8660
+    "start_ms": 1468229000,
+    "end_ms": 1476889000,
+    "duration_ms": 8660000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1249,9 +1249,9 @@
     "speed": 1.0,
     "audio_description": "urgent",
     "trailing_silence_ms": 400,
-    "start_ms": 1476889,
-    "end_ms": 1479715,
-    "duration_ms": 2826
+    "start_ms": 1476889000,
+    "end_ms": 1479715000,
+    "duration_ms": 2826000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1260,9 +1260,9 @@
     "speed": 1.0,
     "audio_description": "ominous",
     "trailing_silence_ms": 300,
-    "start_ms": 1479715,
-    "end_ms": 1507575,
-    "duration_ms": 27860
+    "start_ms": 1479715000,
+    "end_ms": 1507575000,
+    "duration_ms": 27860000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1271,9 +1271,9 @@
     "speed": 1.0,
     "audio_description": "sorrowful",
     "trailing_silence_ms": 300,
-    "start_ms": 1507575,
-    "end_ms": 1518835,
-    "duration_ms": 11260
+    "start_ms": 1507575000,
+    "end_ms": 1518835000,
+    "duration_ms": 11260000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1282,9 +1282,9 @@
     "speed": 1.0,
     "audio_description": "soft, resigned",
     "trailing_silence_ms": 500,
-    "start_ms": 1518835,
-    "end_ms": 1531961,
-    "duration_ms": 13126
+    "start_ms": 1518835000,
+    "end_ms": 1531961000,
+    "duration_ms": 13126000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1293,9 +1293,9 @@
     "speed": 1.0,
     "audio_description": "defensive",
     "trailing_silence_ms": 300,
-    "start_ms": 1531961,
-    "end_ms": 1534367,
-    "duration_ms": 2406
+    "start_ms": 1531961000,
+    "end_ms": 1534367000,
+    "duration_ms": 2406000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1304,9 +1304,9 @@
     "speed": 1.0,
     "audio_description": "gentle, firm",
     "trailing_silence_ms": 600,
-    "start_ms": 1534367,
-    "end_ms": 1535993,
-    "duration_ms": 1626
+    "start_ms": 1534367000,
+    "end_ms": 1535993000,
+    "duration_ms": 1626000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1315,9 +1315,9 @@
     "speed": 1.0,
     "audio_description": "bitter, defensive",
     "trailing_silence_ms": 500,
-    "start_ms": 1535993,
-    "end_ms": 1545559,
-    "duration_ms": 9566
+    "start_ms": 1535993000,
+    "end_ms": 1545559000,
+    "duration_ms": 9566000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1326,9 +1326,9 @@
     "speed": 1.0,
     "audio_description": "gentle, sad",
     "trailing_silence_ms": 500,
-    "start_ms": 1545559,
-    "end_ms": 1562565,
-    "duration_ms": 17006
+    "start_ms": 1545559000,
+    "end_ms": 1562565000,
+    "duration_ms": 17006000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1337,9 +1337,9 @@
     "speed": 1.0,
     "audio_description": "retorting, sharp",
     "trailing_silence_ms": 400,
-    "start_ms": 1562565,
-    "end_ms": 1568631,
-    "duration_ms": 6066
+    "start_ms": 1562565000,
+    "end_ms": 1568631000,
+    "duration_ms": 6066000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1348,9 +1348,9 @@
     "speed": 1.0,
     "audio_description": "soft",
     "trailing_silence_ms": 500,
-    "start_ms": 1568631,
-    "end_ms": 1570051,
-    "duration_ms": 1420
+    "start_ms": 1568631000,
+    "end_ms": 1570051000,
+    "duration_ms": 1420000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1359,9 +1359,9 @@
     "speed": 1.0,
     "audio_description": "challenging",
     "trailing_silence_ms": 200,
-    "start_ms": 1570051,
-    "end_ms": 1571237,
-    "duration_ms": 1186
+    "start_ms": 1570051000,
+    "end_ms": 1571237000,
+    "duration_ms": 1186000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1370,9 +1370,9 @@
     "speed": 1.0,
     "audio_description": "steady, resolute",
     "trailing_silence_ms": 500,
-    "start_ms": 1571237,
-    "end_ms": 1585763,
-    "duration_ms": 14526
+    "start_ms": 1571237000,
+    "end_ms": 1585763000,
+    "duration_ms": 14526000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1381,9 +1381,9 @@
     "speed": 1.0,
     "audio_description": "impatient, dismissive",
     "trailing_silence_ms": 400,
-    "start_ms": 1585763,
-    "end_ms": 1587629,
-    "duration_ms": 1866
+    "start_ms": 1585763000,
+    "end_ms": 1587629000,
+    "duration_ms": 1866000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1392,9 +1392,9 @@
     "speed": 1.0,
     "audio_description": "gentle, final",
     "trailing_silence_ms": 500,
-    "start_ms": 1587629,
-    "end_ms": 1607982,
-    "duration_ms": 20353
+    "start_ms": 1587629000,
+    "end_ms": 1607982000,
+    "duration_ms": 20353000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1403,9 +1403,9 @@
     "speed": 1.0,
     "audio_description": "defensive",
     "trailing_silence_ms": 300,
-    "start_ms": 1607982,
-    "end_ms": 1609788,
-    "duration_ms": 1806
+    "start_ms": 1607982000,
+    "end_ms": 1609788000,
+    "duration_ms": 1806000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1414,9 +1414,9 @@
     "speed": 1.0,
     "audio_description": "measured",
     "trailing_silence_ms": 300,
-    "start_ms": 1609788,
-    "end_ms": 1612754,
-    "duration_ms": 2966
+    "start_ms": 1609788000,
+    "end_ms": 1612754000,
+    "duration_ms": 2966000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1425,9 +1425,9 @@
     "speed": 1.0,
     "audio_description": "sharp",
     "trailing_silence_ms": 400,
-    "start_ms": 1612754,
-    "end_ms": 1614460,
-    "duration_ms": 1706
+    "start_ms": 1612754000,
+    "end_ms": 1614460000,
+    "duration_ms": 1706000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1436,9 +1436,9 @@
     "speed": 1.0,
     "audio_description": "steady, knowing",
     "trailing_silence_ms": 600,
-    "start_ms": 1614460,
-    "end_ms": 1634233,
-    "duration_ms": 19773
+    "start_ms": 1614460000,
+    "end_ms": 1634233000,
+    "duration_ms": 19773000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1447,9 +1447,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_ms": 300,
-    "start_ms": 1634233,
-    "end_ms": 1640413,
-    "duration_ms": 6180
+    "start_ms": 1634233000,
+    "end_ms": 1640413000,
+    "duration_ms": 6180000
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1458,9 +1458,9 @@
     "speed": 1.0,
     "audio_description": "struggling, weak",
     "trailing_silence_ms": 300,
-    "start_ms": 1640413,
-    "end_ms": 1642339,
-    "duration_ms": 1926
+    "start_ms": 1640413000,
+    "end_ms": 1642339000,
+    "duration_ms": 1926000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1469,9 +1469,9 @@
     "speed": 1.0,
     "audio_description": "sorrowful, dignified",
     "trailing_silence_ms": 800,
-    "start_ms": 1642339,
-    "end_ms": 1680538,
-    "duration_ms": 38199
+    "start_ms": 1642339000,
+    "end_ms": 1680538000,
+    "duration_ms": 38199000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1480,9 +1480,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 1680538,
-    "end_ms": 1684878,
-    "duration_ms": 4340
+    "start_ms": 1680538000,
+    "end_ms": 1684878000,
+    "duration_ms": 4340000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1491,9 +1491,9 @@
     "speed": 1.0,
     "audio_description": "final, bittersweet",
     "trailing_silence_ms": 800,
-    "start_ms": 1684878,
-    "end_ms": 1702971,
-    "duration_ms": 18093
+    "start_ms": 1684878000,
+    "end_ms": 1702971000,
+    "duration_ms": 18093000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1502,9 +1502,9 @@
     "speed": 1.0,
     "audio_description": "heavy",
     "trailing_silence_ms": 300,
-    "start_ms": 1702971,
-    "end_ms": 1705191,
-    "duration_ms": 2220
+    "start_ms": 1702971000,
+    "end_ms": 1705191000,
+    "duration_ms": 2220000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1513,9 +1513,9 @@
     "speed": 1.0,
     "audio_description": "anguished, pleading",
     "trailing_silence_ms": 500,
-    "start_ms": 1705191,
-    "end_ms": 1711037,
-    "duration_ms": 5846
+    "start_ms": 1705191000,
+    "end_ms": 1711037000,
+    "duration_ms": 5846000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1524,9 +1524,9 @@
     "speed": 1.0,
     "audio_description": "firm",
     "trailing_silence_ms": 400,
-    "start_ms": 1711037,
-    "end_ms": 1713023,
-    "duration_ms": 1986
+    "start_ms": 1711037000,
+    "end_ms": 1713023000,
+    "duration_ms": 1986000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1535,9 +1535,9 @@
     "speed": 1.0,
     "audio_description": "desperate, broken",
     "trailing_silence_ms": 600,
-    "start_ms": 1713023,
-    "end_ms": 1718129,
-    "duration_ms": 5106
+    "start_ms": 1713023000,
+    "end_ms": 1718129000,
+    "duration_ms": 5106000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1546,9 +1546,9 @@
     "speed": 1.0,
     "audio_description": "firm",
     "trailing_silence_ms": 300,
-    "start_ms": 1718129,
-    "end_ms": 1724429,
-    "duration_ms": 6300
+    "start_ms": 1718129000,
+    "end_ms": 1724429000,
+    "duration_ms": 6300000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1557,9 +1557,9 @@
     "speed": 1.0,
     "audio_description": "lively, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 1724429,
-    "end_ms": 1758889,
-    "duration_ms": 34460
+    "start_ms": 1724429000,
+    "end_ms": 1758889000,
+    "duration_ms": 34460000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1568,9 +1568,9 @@
     "speed": 1.0,
     "audio_description": "wistful, longing",
     "trailing_silence_ms": 300,
-    "start_ms": 1758889,
-    "end_ms": 1828829,
-    "duration_ms": 69940
+    "start_ms": 1758889000,
+    "end_ms": 1828829000,
+    "duration_ms": 69940000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1579,9 +1579,9 @@
     "speed": 1.0,
     "audio_description": "joyful, breathless",
     "trailing_silence_ms": 300,
-    "start_ms": 1828829,
-    "end_ms": 1890409,
-    "duration_ms": 61580
+    "start_ms": 1828829000,
+    "end_ms": 1890409000,
+    "duration_ms": 61580000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1590,9 +1590,9 @@
     "speed": 1.0,
     "audio_description": "gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 1890409,
-    "end_ms": 1901589,
-    "duration_ms": 11180
+    "start_ms": 1890409000,
+    "end_ms": 1901589000,
+    "duration_ms": 11180000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1601,9 +1601,9 @@
     "speed": 1.0,
     "audio_description": "melancholy",
     "trailing_silence_ms": 300,
-    "start_ms": 1901589,
-    "end_ms": 1925489,
-    "duration_ms": 23900
+    "start_ms": 1901589000,
+    "end_ms": 1925489000,
+    "duration_ms": 23900000
   },
   {
     "character_identifier": "BELLE_HUSBAND",
@@ -1612,9 +1612,9 @@
     "speed": 1.0,
     "audio_description": "conversational",
     "trailing_silence_ms": 300,
-    "start_ms": 1925489,
-    "end_ms": 1929055,
-    "duration_ms": 3566
+    "start_ms": 1925489000,
+    "end_ms": 1929055000,
+    "duration_ms": 3566000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1623,9 +1623,9 @@
     "speed": 1.0,
     "audio_description": "curious",
     "trailing_silence_ms": 200,
-    "start_ms": 1929055,
-    "end_ms": 1930201,
-    "duration_ms": 1146
+    "start_ms": 1929055000,
+    "end_ms": 1930201000,
+    "duration_ms": 1146000
   },
   {
     "character_identifier": "BELLE_HUSBAND",
@@ -1634,9 +1634,9 @@
     "speed": 1.0,
     "audio_description": "playful",
     "trailing_silence_ms": 200,
-    "start_ms": 1930201,
-    "end_ms": 1931607,
-    "duration_ms": 1406
+    "start_ms": 1930201000,
+    "end_ms": 1931607000,
+    "duration_ms": 1406000
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1645,9 +1645,9 @@
     "speed": 1.0,
     "audio_description": "laughing, knowing",
     "trailing_silence_ms": 200,
-    "start_ms": 1931607,
-    "end_ms": 1937673,
-    "duration_ms": 6066
+    "start_ms": 1931607000,
+    "end_ms": 1937673000,
+    "duration_ms": 6066000
   },
   {
     "character_identifier": "BELLE_HUSBAND",
@@ -1656,9 +1656,9 @@
     "speed": 1.0,
     "audio_description": "somber, pitying",
     "trailing_silence_ms": 300,
-    "start_ms": 1937673,
-    "end_ms": 1954066,
-    "duration_ms": 16393
+    "start_ms": 1937673000,
+    "end_ms": 1954066000,
+    "duration_ms": 16393000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1667,9 +1667,9 @@
     "speed": 1.0,
     "audio_description": "broken, desperate",
     "trailing_silence_ms": 500,
-    "start_ms": 1954066,
-    "end_ms": 1957432,
-    "duration_ms": 3366
+    "start_ms": 1954066000,
+    "end_ms": 1957432000,
+    "duration_ms": 3366000
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1678,9 +1678,9 @@
     "speed": 1.0,
     "audio_description": "firm, unyielding",
     "trailing_silence_ms": 500,
-    "start_ms": 1957432,
-    "end_ms": 1963598,
-    "duration_ms": 6166
+    "start_ms": 1957432000,
+    "end_ms": 1963598000,
+    "duration_ms": 6166000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1689,9 +1689,9 @@
     "speed": 1.0,
     "audio_description": "anguished",
     "trailing_silence_ms": 600,
-    "start_ms": 1963598,
-    "end_ms": 1966504,
-    "duration_ms": 2906
+    "start_ms": 1963598000,
+    "end_ms": 1966504000,
+    "duration_ms": 2906000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1700,9 +1700,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 1966504,
-    "end_ms": 1977244,
-    "duration_ms": 10740
+    "start_ms": 1966504000,
+    "end_ms": 1977244000,
+    "duration_ms": 10740000
   },
   {
     "character_identifier": "SCROOGE",
@@ -1711,9 +1711,9 @@
     "speed": 1.0,
     "audio_description": "desperate, struggling",
     "trailing_silence_ms": 700,
-    "start_ms": 1977244,
-    "end_ms": 1981090,
-    "duration_ms": 3846
+    "start_ms": 1977244000,
+    "end_ms": 1981090000,
+    "duration_ms": 3846000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1722,9 +1722,9 @@
     "speed": 1.0,
     "audio_description": "dramatic",
     "trailing_silence_ms": 300,
-    "start_ms": 1981090,
-    "end_ms": 2002510,
-    "duration_ms": 21420
+    "start_ms": 1981090000,
+    "end_ms": 2002510000,
+    "duration_ms": 21420000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1733,9 +1733,9 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_ms": 300,
-    "start_ms": 2002510,
-    "end_ms": 2016850,
-    "duration_ms": 14340
+    "start_ms": 2002510000,
+    "end_ms": 2016850000,
+    "duration_ms": 14340000
   },
   {
     "character_identifier": "NARRATOR",
@@ -1744,8 +1744,8 @@
     "speed": 1.0,
     "audio_description": "exhausted, fading",
     "trailing_silence_ms": 300,
-    "start_ms": 2016850,
-    "end_ms": 2033190,
-    "duration_ms": 16340
+    "start_ms": 2016850000,
+    "end_ms": 2033190000,
+    "duration_ms": 16340000
   }
 ]

@@ -7,8 +7,8 @@
     "audio_description": "",
     "trailing_silence_ms": 1000,
     "start_ms": 0,
-    "end_ms": 3000,
-    "duration_ms": 3000
+    "end_ms": 3000000,
+    "duration_ms": 3000000
   },
   {
     "character_identifier": "NARRATOR",
@@ -17,9 +17,9 @@
     "speed": 1.0,
     "audio_description": "triumphant, joyful",
     "trailing_silence_ms": 300,
-    "start_ms": 3000,
-    "end_ms": 13100,
-    "duration_ms": 10100
+    "start_ms": 3000000,
+    "end_ms": 13100000,
+    "duration_ms": 10100000
   },
   {
     "character_identifier": "SCROOGE",
@@ -28,9 +28,9 @@
     "speed": 1.0,
     "audio_description": "passionate, declaring",
     "trailing_silence_ms": 0,
-    "start_ms": 13100,
-    "end_ms": 16406,
-    "duration_ms": 3306
+    "start_ms": 13100000,
+    "end_ms": 16406000,
+    "duration_ms": 3306000
   },
   {
     "character_identifier": "NARRATOR",
@@ -39,9 +39,9 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 16406,
-    "end_ms": 19266,
-    "duration_ms": 2860
+    "start_ms": 16406000,
+    "end_ms": 19266000,
+    "duration_ms": 2860000
   },
   {
     "character_identifier": "SCROOGE",
@@ -50,9 +50,9 @@
     "speed": 1.0,
     "audio_description": "reverent, breathless, grateful",
     "trailing_silence_ms": 400,
-    "start_ms": 19266,
-    "end_ms": 29492,
-    "duration_ms": 10226
+    "start_ms": 19266000,
+    "end_ms": 29492000,
+    "duration_ms": 10226000
   },
   {
     "character_identifier": "NARRATOR",
@@ -61,9 +61,9 @@
     "speed": 1.0,
     "audio_description": "warm, descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 29492,
-    "end_ms": 43352,
-    "duration_ms": 13860
+    "start_ms": 29492000,
+    "end_ms": 43352000,
+    "duration_ms": 13860000
   },
   {
     "character_identifier": "SCROOGE",
@@ -72,9 +72,9 @@
     "speed": 1.0,
     "audio_description": "crying, relieved, euphoric",
     "trailing_silence_ms": 400,
-    "start_ms": 43352,
-    "end_ms": 54538,
-    "duration_ms": 11186
+    "start_ms": 43352000,
+    "end_ms": 54538000,
+    "duration_ms": 11186000
   },
   {
     "character_identifier": "NARRATOR",
@@ -83,9 +83,9 @@
     "speed": 1.0,
     "audio_description": "amused, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 54538,
-    "end_ms": 70558,
-    "duration_ms": 16020
+    "start_ms": 54538000,
+    "end_ms": 70558000,
+    "duration_ms": 16020000
   },
   {
     "character_identifier": "SCROOGE",
@@ -94,9 +94,9 @@
     "speed": 1.0,
     "audio_description": "laughing, crying, giddy",
     "trailing_silence_ms": 300,
-    "start_ms": 70558,
-    "end_ms": 72884,
-    "duration_ms": 2326
+    "start_ms": 70558000,
+    "end_ms": 72884000,
+    "duration_ms": 2326000
   },
   {
     "character_identifier": "NARRATOR",
@@ -105,9 +105,9 @@
     "speed": 1.0,
     "audio_description": "playful",
     "trailing_silence_ms": 300,
-    "start_ms": 72884,
-    "end_ms": 79744,
-    "duration_ms": 6860
+    "start_ms": 72884000,
+    "end_ms": 79744000,
+    "duration_ms": 6860000
   },
   {
     "character_identifier": "SCROOGE",
@@ -116,9 +116,9 @@
     "speed": 1.0,
     "audio_description": "ecstatic, breathless, laughing",
     "trailing_silence_ms": 500,
-    "start_ms": 79744,
-    "end_ms": 92590,
-    "duration_ms": 12846
+    "start_ms": 79744000,
+    "end_ms": 92590000,
+    "duration_ms": 12846000
   },
   {
     "character_identifier": "NARRATOR",
@@ -127,9 +127,9 @@
     "speed": 1.0,
     "audio_description": "amused",
     "trailing_silence_ms": 300,
-    "start_ms": 92590,
-    "end_ms": 97090,
-    "duration_ms": 4500
+    "start_ms": 92590000,
+    "end_ms": 97090000,
+    "duration_ms": 4500000
   },
   {
     "character_identifier": "SCROOGE",
@@ -138,9 +138,9 @@
     "speed": 1.0,
     "audio_description": "excited, marveling, laughing",
     "trailing_silence_ms": 0,
-    "start_ms": 97090,
-    "end_ms": 111743,
-    "duration_ms": 14653
+    "start_ms": 97090000,
+    "end_ms": 111743000,
+    "duration_ms": 14653000
   },
   {
     "character_identifier": "NARRATOR",
@@ -149,9 +149,9 @@
     "speed": 1.0,
     "audio_description": "delighted, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 111743,
-    "end_ms": 126483,
-    "duration_ms": 14740
+    "start_ms": 111743000,
+    "end_ms": 126483000,
+    "duration_ms": 14740000
   },
   {
     "character_identifier": "SCROOGE",
@@ -160,9 +160,9 @@
     "speed": 1.0,
     "audio_description": "giddy, laughing, breathless",
     "trailing_silence_ms": 700,
-    "start_ms": 126483,
-    "end_ms": 139329,
-    "duration_ms": 12846
+    "start_ms": 126483000,
+    "end_ms": 139329000,
+    "duration_ms": 12846000
   },
   {
     "character_identifier": "NARRATOR",
@@ -171,9 +171,9 @@
     "speed": 1.0,
     "audio_description": "joyful, celebratory",
     "trailing_silence_ms": 300,
-    "start_ms": 139329,
-    "end_ms": 152349,
-    "duration_ms": 13020
+    "start_ms": 139329000,
+    "end_ms": 152349000,
+    "duration_ms": 13020000
   },
   {
     "character_identifier": "NARRATOR",
@@ -182,9 +182,9 @@
     "speed": 1.0,
     "audio_description": "exuberant, painting scene",
     "trailing_silence_ms": 300,
-    "start_ms": 152349,
-    "end_ms": 169249,
-    "duration_ms": 16900
+    "start_ms": 152349000,
+    "end_ms": 169249000,
+    "duration_ms": 16900000
   },
   {
     "character_identifier": "SCROOGE",
@@ -193,9 +193,9 @@
     "speed": 1.0,
     "audio_description": "calling down, eager",
     "trailing_silence_ms": 300,
-    "start_ms": 169249,
-    "end_ms": 170655,
-    "duration_ms": 1406
+    "start_ms": 169249000,
+    "end_ms": 170655000,
+    "duration_ms": 1406000
   },
   {
     "character_identifier": "NARRATOR",
@@ -204,9 +204,9 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 170655,
-    "end_ms": 177395,
-    "duration_ms": 6740
+    "start_ms": 170655000,
+    "end_ms": 177395000,
+    "duration_ms": 6740000
   },
   {
     "character_identifier": "CAROLER",
@@ -215,9 +215,9 @@
     "speed": 1.0,
     "audio_description": "confused, wondering",
     "trailing_silence_ms": 0,
-    "start_ms": 177395,
-    "end_ms": 178075,
-    "duration_ms": 680
+    "start_ms": 177395000,
+    "end_ms": 178075000,
+    "duration_ms": 680000
   },
   {
     "character_identifier": "NARRATOR",
@@ -226,9 +226,9 @@
     "speed": 1.0,
     "audio_description": "amused",
     "trailing_silence_ms": 300,
-    "start_ms": 178075,
-    "end_ms": 181175,
-    "duration_ms": 3100
+    "start_ms": 178075000,
+    "end_ms": 181175000,
+    "duration_ms": 3100000
   },
   {
     "character_identifier": "SCROOGE",
@@ -237,9 +237,9 @@
     "speed": 1.0,
     "audio_description": "eager, friendly",
     "trailing_silence_ms": 300,
-    "start_ms": 181175,
-    "end_ms": 183501,
-    "duration_ms": 2326
+    "start_ms": 181175000,
+    "end_ms": 183501000,
+    "duration_ms": 2326000
   },
   {
     "character_identifier": "CAROLER",
@@ -248,9 +248,9 @@
     "speed": 1.0,
     "audio_description": "obvious, innocent",
     "trailing_silence_ms": 500,
-    "start_ms": 183501,
-    "end_ms": 186235,
-    "duration_ms": 2734
+    "start_ms": 183501000,
+    "end_ms": 186235000,
+    "duration_ms": 2734000
   },
   {
     "character_identifier": "SCROOGE",
@@ -259,9 +259,9 @@
     "speed": 1.0,
     "audio_description": "relieved, ecstatic, calling",
     "trailing_silence_ms": 300,
-    "start_ms": 186235,
-    "end_ms": 197681,
-    "duration_ms": 11446
+    "start_ms": 186235000,
+    "end_ms": 197681000,
+    "duration_ms": 11446000
   },
   {
     "character_identifier": "CAROLER",
@@ -270,9 +270,9 @@
     "speed": 1.0,
     "audio_description": "cheerful",
     "trailing_silence_ms": 300,
-    "start_ms": 197681,
-    "end_ms": 198522,
-    "duration_ms": 841
+    "start_ms": 197681000,
+    "end_ms": 198522000,
+    "duration_ms": 841000
   },
   {
     "character_identifier": "SCROOGE",
@@ -281,9 +281,9 @@
     "speed": 1.0,
     "audio_description": "eager, inquiring",
     "trailing_silence_ms": 0,
-    "start_ms": 198522,
-    "end_ms": 202748,
-    "duration_ms": 4226
+    "start_ms": 198522000,
+    "end_ms": 202748000,
+    "duration_ms": 4226000
   },
   {
     "character_identifier": "CAROLER",
@@ -292,9 +292,9 @@
     "speed": 1.0,
     "audio_description": "confident, proud",
     "trailing_silence_ms": 300,
-    "start_ms": 202748,
-    "end_ms": 204211,
-    "duration_ms": 1463
+    "start_ms": 202748000,
+    "end_ms": 204211000,
+    "duration_ms": 1463000
   },
   {
     "character_identifier": "SCROOGE",
@@ -303,9 +303,9 @@
     "speed": 1.0,
     "audio_description": "delighted, conspiratorial",
     "trailing_silence_ms": 300,
-    "start_ms": 204211,
-    "end_ms": 213497,
-    "duration_ms": 9286
+    "start_ms": 204211000,
+    "end_ms": 213497000,
+    "duration_ms": 9286000
   },
   {
     "character_identifier": "CAROLER",
@@ -314,9 +314,9 @@
     "speed": 1.0,
     "audio_description": "amazed, questioning",
     "trailing_silence_ms": 300,
-    "start_ms": 213497,
-    "end_ms": 215409,
-    "duration_ms": 1912
+    "start_ms": 213497000,
+    "end_ms": 215409000,
+    "duration_ms": 1912000
   },
   {
     "character_identifier": "SCROOGE",
@@ -325,9 +325,9 @@
     "speed": 1.0,
     "audio_description": "laughing, eager",
     "trailing_silence_ms": 300,
-    "start_ms": 215409,
-    "end_ms": 220015,
-    "duration_ms": 4606
+    "start_ms": 215409000,
+    "end_ms": 220015000,
+    "duration_ms": 4606000
   },
   {
     "character_identifier": "CAROLER",
@@ -336,9 +336,9 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_ms": 300,
-    "start_ms": 220015,
-    "end_ms": 221443,
-    "duration_ms": 1428
+    "start_ms": 220015000,
+    "end_ms": 221443000,
+    "duration_ms": 1428000
   },
   {
     "character_identifier": "SCROOGE",
@@ -347,9 +347,9 @@
     "speed": 1.0,
     "audio_description": "excited, commanding",
     "trailing_silence_ms": 300,
-    "start_ms": 221443,
-    "end_ms": 223289,
-    "duration_ms": 1846
+    "start_ms": 221443000,
+    "end_ms": 223289000,
+    "duration_ms": 1846000
   },
   {
     "character_identifier": "CAROLER",
@@ -358,9 +358,9 @@
     "speed": 1.0,
     "audio_description": "disbelieving, shocked",
     "trailing_silence_ms": 300,
-    "start_ms": 223289,
-    "end_ms": 224614,
-    "duration_ms": 1325
+    "start_ms": 223289000,
+    "end_ms": 224614000,
+    "duration_ms": 1325000
   },
   {
     "character_identifier": "SCROOGE",
@@ -369,9 +369,9 @@
     "speed": 1.0,
     "audio_description": "urgent, generous, excited",
     "trailing_silence_ms": 600,
-    "start_ms": 224614,
-    "end_ms": 237667,
-    "duration_ms": 13053
+    "start_ms": 224614000,
+    "end_ms": 237667000,
+    "duration_ms": 13053000
   },
   {
     "character_identifier": "NARRATOR",
@@ -380,9 +380,9 @@
     "speed": 1.0,
     "audio_description": "amused, playful",
     "trailing_silence_ms": 300,
-    "start_ms": 237667,
-    "end_ms": 244847,
-    "duration_ms": 7180
+    "start_ms": 237667000,
+    "end_ms": 244847000,
+    "duration_ms": 7180000
   },
   {
     "character_identifier": "SCROOGE",
@@ -391,9 +391,9 @@
     "speed": 1.0,
     "audio_description": "whispering, gleeful, laughing",
     "trailing_silence_ms": 700,
-    "start_ms": 244847,
-    "end_ms": 255173,
-    "duration_ms": 10326
+    "start_ms": 244847000,
+    "end_ms": 255173000,
+    "duration_ms": 10326000
   },
   {
     "character_identifier": "NARRATOR",
@@ -402,9 +402,9 @@
     "speed": 1.0,
     "audio_description": "warm, descriptive",
     "trailing_silence_ms": 300,
-    "start_ms": 255173,
-    "end_ms": 274073,
-    "duration_ms": 18900
+    "start_ms": 255173000,
+    "end_ms": 274073000,
+    "duration_ms": 18900000
   },
   {
     "character_identifier": "SCROOGE",
@@ -413,9 +413,9 @@
     "speed": 1.0,
     "audio_description": "affectionate, excited, laughing",
     "trailing_silence_ms": 0,
-    "start_ms": 274073,
-    "end_ms": 286459,
-    "duration_ms": 12386
+    "start_ms": 274073000,
+    "end_ms": 286459000,
+    "duration_ms": 12386000
   },
   {
     "character_identifier": "NARRATOR",
@@ -424,9 +424,9 @@
     "speed": 1.0,
     "audio_description": "delighted, amused",
     "trailing_silence_ms": 300,
-    "start_ms": 286459,
-    "end_ms": 297679,
-    "duration_ms": 11220
+    "start_ms": 286459000,
+    "end_ms": 297679000,
+    "duration_ms": 11220000
   },
   {
     "character_identifier": "SCROOGE",
@@ -435,9 +435,9 @@
     "speed": 1.0,
     "audio_description": "amazed, chuckling",
     "trailing_silence_ms": 600,
-    "start_ms": 297679,
-    "end_ms": 302345,
-    "duration_ms": 4666
+    "start_ms": 297679000,
+    "end_ms": 302345000,
+    "duration_ms": 4666000
   },
   {
     "character_identifier": "NARRATOR",
@@ -446,9 +446,9 @@
     "speed": 1.0,
     "audio_description": "warm, joyful",
     "trailing_silence_ms": 300,
-    "start_ms": 302345,
-    "end_ms": 320605,
-    "duration_ms": 18260
+    "start_ms": 302345000,
+    "end_ms": 320605000,
+    "duration_ms": 18260000
   },
   {
     "character_identifier": "NARRATOR",
@@ -457,9 +457,9 @@
     "speed": 1.0,
     "audio_description": "amused, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 320605,
-    "end_ms": 337905,
-    "duration_ms": 17300
+    "start_ms": 320605000,
+    "end_ms": 337905000,
+    "duration_ms": 17300000
   },
   {
     "character_identifier": "NARRATOR",
@@ -468,9 +468,9 @@
     "speed": 1.0,
     "audio_description": "heartwarming, gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 337905,
-    "end_ms": 370005,
-    "duration_ms": 32100
+    "start_ms": 337905000,
+    "end_ms": 370005000,
+    "duration_ms": 32100000
   },
   {
     "character_identifier": "NARRATOR",
@@ -479,9 +479,9 @@
     "speed": 1.0,
     "audio_description": "serious, thoughtful",
     "trailing_silence_ms": 300,
-    "start_ms": 370005,
-    "end_ms": 389665,
-    "duration_ms": 19660
+    "start_ms": 370005000,
+    "end_ms": 389665000,
+    "duration_ms": 19660000
   },
   {
     "character_identifier": "SCROOGE",
@@ -490,9 +490,9 @@
     "speed": 1.0,
     "audio_description": "warm, eager, earnest",
     "trailing_silence_ms": 0,
-    "start_ms": 389665,
-    "end_ms": 397171,
-    "duration_ms": 7506
+    "start_ms": 389665000,
+    "end_ms": 397171000,
+    "duration_ms": 7506000
   },
   {
     "character_identifier": "NARRATOR",
@@ -501,9 +501,9 @@
     "speed": 1.0,
     "audio_description": "warm",
     "trailing_silence_ms": 300,
-    "start_ms": 397171,
-    "end_ms": 401951,
-    "duration_ms": 4780
+    "start_ms": 397171000,
+    "end_ms": 401951000,
+    "duration_ms": 4780000
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -512,9 +512,9 @@
     "speed": 1.0,
     "audio_description": "surprised, questioning",
     "trailing_silence_ms": 300,
-    "start_ms": 401951,
-    "end_ms": 403797,
-    "duration_ms": 1846
+    "start_ms": 401951000,
+    "end_ms": 403797000,
+    "duration_ms": 1846000
   },
   {
     "character_identifier": "SCROOGE",
@@ -523,9 +523,9 @@
     "speed": 1.0,
     "audio_description": "humble, sincere",
     "trailing_silence_ms": 200,
-    "start_ms": 403797,
-    "end_ms": 411823,
-    "duration_ms": 8026
+    "start_ms": 403797000,
+    "end_ms": 411823000,
+    "duration_ms": 8026000
   },
   {
     "character_identifier": "NARRATOR",
@@ -534,9 +534,9 @@
     "speed": 1.0,
     "audio_description": "conspiratorial",
     "trailing_silence_ms": 300,
-    "start_ms": 411823,
-    "end_ms": 413843,
-    "duration_ms": 2020
+    "start_ms": 411823000,
+    "end_ms": 413843000,
+    "duration_ms": 2020000
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -545,9 +545,9 @@
     "speed": 1.0,
     "audio_description": "breathless, astonished",
     "trailing_silence_ms": 0,
-    "start_ms": 413843,
-    "end_ms": 417349,
-    "duration_ms": 3506
+    "start_ms": 413843000,
+    "end_ms": 417349000,
+    "duration_ms": 3506000
   },
   {
     "character_identifier": "NARRATOR",
@@ -556,9 +556,9 @@
     "speed": 1.0,
     "audio_description": "amazed",
     "trailing_silence_ms": 300,
-    "start_ms": 417349,
-    "end_ms": 420409,
-    "duration_ms": 3060
+    "start_ms": 417349000,
+    "end_ms": 420409000,
+    "duration_ms": 3060000
   },
   {
     "character_identifier": "SCROOGE",
@@ -567,9 +567,9 @@
     "speed": 1.0,
     "audio_description": "earnest, insistent",
     "trailing_silence_ms": 400,
-    "start_ms": 420409,
-    "end_ms": 427875,
-    "duration_ms": 7466
+    "start_ms": 420409000,
+    "end_ms": 427875000,
+    "duration_ms": 7466000
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -578,9 +578,9 @@
     "speed": 1.0,
     "audio_description": "overwhelmed, grateful",
     "trailing_silence_ms": 0,
-    "start_ms": 427875,
-    "end_ms": 432021,
-    "duration_ms": 4146
+    "start_ms": 427875000,
+    "end_ms": 432021000,
+    "duration_ms": 4146000
   },
   {
     "character_identifier": "NARRATOR",
@@ -589,9 +589,9 @@
     "speed": 1.0,
     "audio_description": "warm",
     "trailing_silence_ms": 300,
-    "start_ms": 432021,
-    "end_ms": 434801,
-    "duration_ms": 2780
+    "start_ms": 432021000,
+    "end_ms": 434801000,
+    "duration_ms": 2780000
   },
   {
     "character_identifier": "SCROOGE",
@@ -600,9 +600,9 @@
     "speed": 1.0,
     "audio_description": "eager, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 434801,
-    "end_ms": 438527,
-    "duration_ms": 3726
+    "start_ms": 434801000,
+    "end_ms": 438527000,
+    "duration_ms": 3726000
   },
   {
     "character_identifier": "GENTLEMAN_1",
@@ -611,9 +611,9 @@
     "speed": 1.0,
     "audio_description": "enthusiastic, sincere",
     "trailing_silence_ms": 0,
-    "start_ms": 438527,
-    "end_ms": 439353,
-    "duration_ms": 826
+    "start_ms": 438527000,
+    "end_ms": 439353000,
+    "duration_ms": 826000
   },
   {
     "character_identifier": "NARRATOR",
@@ -622,9 +622,9 @@
     "speed": 1.0,
     "audio_description": "warm",
     "trailing_silence_ms": 300,
-    "start_ms": 439353,
-    "end_ms": 443293,
-    "duration_ms": 3940
+    "start_ms": 439353000,
+    "end_ms": 443293000,
+    "duration_ms": 3940000
   },
   {
     "character_identifier": "SCROOGE",
@@ -633,9 +633,9 @@
     "speed": 1.0,
     "audio_description": "grateful, joyful",
     "trailing_silence_ms": 800,
-    "start_ms": 443293,
-    "end_ms": 449279,
-    "duration_ms": 5986
+    "start_ms": 443293000,
+    "end_ms": 449279000,
+    "duration_ms": 5986000
   },
   {
     "character_identifier": "NARRATOR",
@@ -644,9 +644,9 @@
     "speed": 1.0,
     "audio_description": "warm, joyful, peaceful",
     "trailing_silence_ms": 300,
-    "start_ms": 449279,
-    "end_ms": 475659,
-    "duration_ms": 26380
+    "start_ms": 449279000,
+    "end_ms": 475659000,
+    "duration_ms": 26380000
   },
   {
     "character_identifier": "NARRATOR",
@@ -655,9 +655,9 @@
     "speed": 1.0,
     "audio_description": "gentle, understanding",
     "trailing_silence_ms": 300,
-    "start_ms": 475659,
-    "end_ms": 482279,
-    "duration_ms": 6620
+    "start_ms": 475659000,
+    "end_ms": 482279000,
+    "duration_ms": 6620000
   },
   {
     "character_identifier": "SCROOGE",
@@ -666,9 +666,9 @@
     "speed": 1.0,
     "audio_description": "gentle, nervous",
     "trailing_silence_ms": 200,
-    "start_ms": 482279,
-    "end_ms": 484905,
-    "duration_ms": 2626
+    "start_ms": 482279000,
+    "end_ms": 484905000,
+    "duration_ms": 2626000
   },
   {
     "character_identifier": "NARRATOR",
@@ -677,9 +677,9 @@
     "speed": 1.0,
     "audio_description": "approving, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 484905,
-    "end_ms": 487925,
-    "duration_ms": 3020
+    "start_ms": 484905000,
+    "end_ms": 487925000,
+    "duration_ms": 3020000
   },
   {
     "character_identifier": "SERVANT_GIRL",
@@ -688,9 +688,9 @@
     "speed": 1.0,
     "audio_description": "polite",
     "trailing_silence_ms": 300,
-    "start_ms": 487925,
-    "end_ms": 489051,
-    "duration_ms": 1126
+    "start_ms": 487925000,
+    "end_ms": 489051000,
+    "duration_ms": 1126000
   },
   {
     "character_identifier": "SCROOGE",
@@ -699,9 +699,9 @@
     "speed": 1.0,
     "audio_description": "gentle, eager",
     "trailing_silence_ms": 300,
-    "start_ms": 489051,
-    "end_ms": 490897,
-    "duration_ms": 1846
+    "start_ms": 489051000,
+    "end_ms": 490897000,
+    "duration_ms": 1846000
   },
   {
     "character_identifier": "SERVANT_GIRL",
@@ -710,9 +710,9 @@
     "speed": 1.0,
     "audio_description": "polite, helpful",
     "trailing_silence_ms": 300,
-    "start_ms": 490897,
-    "end_ms": 496303,
-    "duration_ms": 5406
+    "start_ms": 490897000,
+    "end_ms": 496303000,
+    "duration_ms": 5406000
   },
   {
     "character_identifier": "SCROOGE",
@@ -721,9 +721,9 @@
     "speed": 1.0,
     "audio_description": "nervous, gentle",
     "trailing_silence_ms": 0,
-    "start_ms": 496303,
-    "end_ms": 500689,
-    "duration_ms": 4386
+    "start_ms": 496303000,
+    "end_ms": 500689000,
+    "duration_ms": 4386000
   },
   {
     "character_identifier": "NARRATOR",
@@ -732,9 +732,9 @@
     "speed": 1.0,
     "audio_description": "warm, gentle",
     "trailing_silence_ms": 300,
-    "start_ms": 500689,
-    "end_ms": 517469,
-    "duration_ms": 16780
+    "start_ms": 500689000,
+    "end_ms": 517469000,
+    "duration_ms": 16780000
   },
   {
     "character_identifier": "SCROOGE",
@@ -743,9 +743,9 @@
     "speed": 1.0,
     "audio_description": "tentative, hopeful",
     "trailing_silence_ms": 200,
-    "start_ms": 517469,
-    "end_ms": 518535,
-    "duration_ms": 1066
+    "start_ms": 517469000,
+    "end_ms": 518535000,
+    "duration_ms": 1066000
   },
   {
     "character_identifier": "NARRATOR",
@@ -754,9 +754,9 @@
     "speed": 1.0,
     "audio_description": "amused, sympathetic",
     "trailing_silence_ms": 300,
-    "start_ms": 518535,
-    "end_ms": 529915,
-    "duration_ms": 11380
+    "start_ms": 518535000,
+    "end_ms": 529915000,
+    "duration_ms": 11380000
   },
   {
     "character_identifier": "NEPHEW",
@@ -765,9 +765,9 @@
     "speed": 1.0,
     "audio_description": "shocked, surprised",
     "trailing_silence_ms": 300,
-    "start_ms": 529915,
-    "end_ms": 532721,
-    "duration_ms": 2806
+    "start_ms": 529915000,
+    "end_ms": 532721000,
+    "duration_ms": 2806000
   },
   {
     "character_identifier": "SCROOGE",
@@ -776,9 +776,9 @@
     "speed": 1.0,
     "audio_description": "humble, hopeful",
     "trailing_silence_ms": 500,
-    "start_ms": 532721,
-    "end_ms": 538487,
-    "duration_ms": 5766
+    "start_ms": 532721000,
+    "end_ms": 538487000,
+    "duration_ms": 5766000
   },
   {
     "character_identifier": "NARRATOR",
@@ -787,9 +787,9 @@
     "speed": 1.0,
     "audio_description": "joyful, celebratory, warm",
     "trailing_silence_ms": 300,
-    "start_ms": 538487,
-    "end_ms": 559027,
-    "duration_ms": 20540
+    "start_ms": 538487000,
+    "end_ms": 559027000,
+    "duration_ms": 20540000
   },
   {
     "character_identifier": "NARRATOR",
@@ -798,9 +798,9 @@
     "speed": 1.0,
     "audio_description": "playful, conspiratorial",
     "trailing_silence_ms": 300,
-    "start_ms": 559027,
-    "end_ms": 570927,
-    "duration_ms": 11900
+    "start_ms": 559027000,
+    "end_ms": 570927000,
+    "duration_ms": 11900000
   },
   {
     "character_identifier": "NARRATOR",
@@ -809,9 +809,9 @@
     "speed": 1.0,
     "audio_description": "anticipatory, amused",
     "trailing_silence_ms": 300,
-    "start_ms": 570927,
-    "end_ms": 585147,
-    "duration_ms": 14220
+    "start_ms": 570927000,
+    "end_ms": 585147000,
+    "duration_ms": 14220000
   },
   {
     "character_identifier": "NARRATOR",
@@ -820,9 +820,9 @@
     "speed": 1.0,
     "audio_description": "quick, urgent",
     "trailing_silence_ms": 300,
-    "start_ms": 585147,
-    "end_ms": 596007,
-    "duration_ms": 10860
+    "start_ms": 585147000,
+    "end_ms": 596007000,
+    "duration_ms": 10860000
   },
   {
     "character_identifier": "SCROOGE",
@@ -831,9 +831,9 @@
     "speed": 1.0,
     "audio_description": "growling, feigning anger",
     "trailing_silence_ms": 300,
-    "start_ms": 596007,
-    "end_ms": 599813,
-    "duration_ms": 3806
+    "start_ms": 596007000,
+    "end_ms": 599813000,
+    "duration_ms": 3806000
   },
   {
     "character_identifier": "CLERK",
@@ -842,9 +842,9 @@
     "speed": 1.0,
     "audio_description": "apologetic, nervous",
     "trailing_silence_ms": 300,
-    "start_ms": 599813,
-    "end_ms": 603459,
-    "duration_ms": 3646
+    "start_ms": 599813000,
+    "end_ms": 603459000,
+    "duration_ms": 3646000
   },
   {
     "character_identifier": "SCROOGE",
@@ -853,9 +853,9 @@
     "speed": 1.0,
     "audio_description": "stern, ominous",
     "trailing_silence_ms": 400,
-    "start_ms": 603459,
-    "end_ms": 608845,
-    "duration_ms": 5386
+    "start_ms": 603459000,
+    "end_ms": 608845000,
+    "duration_ms": 5386000
   },
   {
     "character_identifier": "CLERK",
@@ -864,9 +864,9 @@
     "speed": 1.0,
     "audio_description": "pleading, apologetic",
     "trailing_silence_ms": 0,
-    "start_ms": 608845,
-    "end_ms": 616831,
-    "duration_ms": 7986
+    "start_ms": 608845000,
+    "end_ms": 616831000,
+    "duration_ms": 7986000
   },
   {
     "character_identifier": "NARRATOR",
@@ -875,9 +875,9 @@
     "speed": 1.0,
     "audio_description": "sympathetic",
     "trailing_silence_ms": 300,
-    "start_ms": 616831,
-    "end_ms": 619051,
-    "duration_ms": 2220
+    "start_ms": 616831000,
+    "end_ms": 619051000,
+    "duration_ms": 2220000
   },
   {
     "character_identifier": "SCROOGE",
@@ -886,9 +886,9 @@
     "speed": 1.0,
     "audio_description": "stern, building",
     "trailing_silence_ms": 200,
-    "start_ms": 619051,
-    "end_ms": 625757,
-    "duration_ms": 6706
+    "start_ms": 619051000,
+    "end_ms": 625757000,
+    "duration_ms": 6706000
   },
   {
     "character_identifier": "NARRATOR",
@@ -897,9 +897,9 @@
     "speed": 1.0,
     "audio_description": "energetic, playful",
     "trailing_silence_ms": 300,
-    "start_ms": 625757,
-    "end_ms": 632977,
-    "duration_ms": 7220
+    "start_ms": 625757000,
+    "end_ms": 632977000,
+    "duration_ms": 7220000
   },
   {
     "character_identifier": "SCROOGE",
@@ -908,9 +908,9 @@
     "speed": 1.0,
     "audio_description": "triumphant, delighted",
     "trailing_silence_ms": 600,
-    "start_ms": 632977,
-    "end_ms": 636643,
-    "duration_ms": 3666
+    "start_ms": 632977000,
+    "end_ms": 636643000,
+    "duration_ms": 3666000
   },
   {
     "character_identifier": "NARRATOR",
@@ -919,9 +919,9 @@
     "speed": 1.0,
     "audio_description": "amused, dramatic",
     "trailing_silence_ms": 300,
-    "start_ms": 636643,
-    "end_ms": 649343,
-    "duration_ms": 12700
+    "start_ms": 636643000,
+    "end_ms": 649343000,
+    "duration_ms": 12700000
   },
   {
     "character_identifier": "SCROOGE",
@@ -930,9 +930,9 @@
     "speed": 1.0,
     "audio_description": "warm, earnest, joyful",
     "trailing_silence_ms": 800,
-    "start_ms": 649343,
-    "end_ms": 673223,
-    "duration_ms": 23880
+    "start_ms": 649343000,
+    "end_ms": 673223000,
+    "duration_ms": 23880000
   },
   {
     "character_identifier": "NARRATOR",
@@ -941,9 +941,9 @@
     "speed": 1.0,
     "audio_description": "warm, sincere",
     "trailing_silence_ms": 300,
-    "start_ms": 673223,
-    "end_ms": 678523,
-    "duration_ms": 5300
+    "start_ms": 673223000,
+    "end_ms": 678523000,
+    "duration_ms": 5300000
   },
   {
     "character_identifier": "NARRATOR",
@@ -952,9 +952,9 @@
     "speed": 1.0,
     "audio_description": "warm, wise, peaceful",
     "trailing_silence_ms": 300,
-    "start_ms": 678523,
-    "end_ms": 725903,
-    "duration_ms": 47380
+    "start_ms": 678523000,
+    "end_ms": 725903000,
+    "duration_ms": 47380000
   },
   {
     "character_identifier": "NARRATOR",
@@ -963,8 +963,8 @@
     "speed": 1.0,
     "audio_description": "gentle, reverent, hopeful",
     "trailing_silence_ms": 300,
-    "start_ms": 725903,
-    "end_ms": 745763,
-    "duration_ms": 19860
+    "start_ms": 725903000,
+    "end_ms": 745763000,
+    "duration_ms": 19860000
   }
 ]
