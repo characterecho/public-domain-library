@@ -5,10 +5,10 @@
     "text": "STAVE TWO. — THE FIRST OF THE THREE SPIRITS.",
     "speed": 1.0,
     "audio_description": "",
-    "trailing_silence_ms": 1000,
-    "start_ms": 0,
-    "end_ms": 4560000,
-    "duration_ms": 4560000
+    "trailing_silence_s": 1.0,
+    "start_s": 0.0,
+    "end_s": 4.56,
+    "duration_s": 4.56
   },
   {
     "character_identifier": "NARRATOR",
@@ -16,10 +16,10 @@
     "text": "When Scrooge awoke, it was so dark, that looking out of bed, he could scarcely distinguish the transparent window from the opaque walls of his chamber. He was endeavouring to pierce the darkness with his ferret eyes, when the chimes of a neighbouring church struck the four quarters. So he listened for the hour.",
     "speed": 1.0,
     "audio_description": "hushed, mysterious",
-    "trailing_silence_ms": 300,
-    "start_ms": 4560000,
-    "end_ms": 23540000,
-    "duration_ms": 18980000
+    "trailing_silence_s": 0.3,
+    "start_s": 4.56,
+    "end_s": 23.54,
+    "duration_s": 18.98
   },
   {
     "character_identifier": "NARRATOR",
@@ -27,10 +27,10 @@
     "text": "To his great astonishment the heavy bell went on from six to seven, and from seven to eight, and regularly up to twelve; then stopped. Twelve! It was past two when he went to bed. The clock was wrong. An icicle must have got into the works.",
     "speed": 1.0,
     "audio_description": "bewildered",
-    "trailing_silence_ms": 300,
-    "start_ms": 23540000,
-    "end_ms": 39160000,
-    "duration_ms": 15620000
+    "trailing_silence_s": 0.3,
+    "start_s": 23.54,
+    "end_s": 39.16,
+    "duration_s": 15.62
   },
   {
     "character_identifier": "NARRATOR",
@@ -38,10 +38,10 @@
     "text": "He touched the spring of his repeater, to correct this most preposterous clock. Its rapid little pulse beat twelve: and stopped.",
     "speed": 1.0,
     "audio_description": "matter-of-fact",
-    "trailing_silence_ms": 300,
-    "start_ms": 39160000,
-    "end_ms": 47180000,
-    "duration_ms": 8020000
+    "trailing_silence_s": 0.3,
+    "start_s": 39.16,
+    "end_s": 47.180657999999994,
+    "duration_s": 8.020658
   },
   {
     "character_identifier": "SCROOGE",
@@ -49,10 +49,10 @@
     "text": "Why, it isn't possible that I can have slept through a whole day and far into another night. It isn't possible that anything has happened to the sun, and this is twelve at noon!",
     "speed": 1.0,
     "audio_description": "alarmed, confused",
-    "trailing_silence_ms": 500,
-    "start_ms": 47180000,
-    "end_ms": 57066000,
-    "duration_ms": 9886000
+    "trailing_silence_s": 0.5,
+    "start_s": 47.180657999999994,
+    "end_s": 57.067302,
+    "duration_s": 9.886644
   },
   {
     "character_identifier": "NARRATOR",
@@ -60,10 +60,10 @@
     "text": "The idea being an alarming one, he scrambled out of bed, and groped his way to the window. He was obliged to rub the frost off with the sleeve of his dressing-gown before he could see anything; and could see very little then. All he could make out was, that it was still very foggy and extremely cold, and that there was no noise of people running to and fro, and making a great stir, as there unquestionably would have been if night had beaten off bright day, and taken possession of the world.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 57066000,
-    "end_ms": 87606000,
-    "duration_ms": 30540000
+    "trailing_silence_s": 0.3,
+    "start_s": 57.067302,
+    "end_s": 87.607302,
+    "duration_s": 30.54
   },
   {
     "character_identifier": "NARRATOR",
@@ -71,10 +71,10 @@
     "text": "This was a great relief, because \"three days after sight of this First of Exchange pay to Mr. Ebenezer Scrooge or his order,\" and so forth, would have become a mere United States' security if there were no days to count by.",
     "speed": 1.0,
     "audio_description": "dryly amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 87606000,
-    "end_ms": 101906000,
-    "duration_ms": 14300000
+    "trailing_silence_s": 0.3,
+    "start_s": 87.607302,
+    "end_s": 101.907302,
+    "duration_s": 14.3
   },
   {
     "character_identifier": "NARRATOR",
@@ -82,10 +82,10 @@
     "text": "Scrooge went to bed again, and thought, and thought, and thought it over and over and over, and could make nothing of it. The more he thought, the more perplexed he was; and the more he endeavoured not to think, the more he thought.",
     "speed": 1.0,
     "audio_description": "thoughtful",
-    "trailing_silence_ms": 300,
-    "start_ms": 101906000,
-    "end_ms": 116926000,
-    "duration_ms": 15020000
+    "trailing_silence_s": 0.3,
+    "start_s": 101.907302,
+    "end_s": 116.927302,
+    "duration_s": 15.02
   },
   {
     "character_identifier": "NARRATOR",
@@ -93,10 +93,10 @@
     "text": "Marley's Ghost bothered him exceedingly. Every time he resolved within himself, after mature inquiry, that it was all a dream, his mind flew back again, like a strong spring released, to its first position, and presented the same problem to be worked all through, \"Was it a dream or not?\"",
     "speed": 1.0,
     "audio_description": "troubled",
-    "trailing_silence_ms": 300,
-    "start_ms": 116926000,
-    "end_ms": 136506000,
-    "duration_ms": 19580000
+    "trailing_silence_s": 0.3,
+    "start_s": 116.927302,
+    "end_s": 136.50730199999998,
+    "duration_s": 19.58
   },
   {
     "character_identifier": "NARRATOR",
@@ -104,10 +104,10 @@
     "text": "Scrooge lay in this state until the chime had gone three quarters more, when he remembered, on a sudden, that the Ghost had warned him of a visitation when the bell tolled one. He resolved to lie awake until the hour was passed; and, considering that he could no more go to sleep than go to Heaven, this was perhaps the wisest resolution in his power.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 136506000,
-    "end_ms": 157606000,
-    "duration_ms": 21100000
+    "trailing_silence_s": 0.3,
+    "start_s": 136.50730199999998,
+    "end_s": 157.60730199999998,
+    "duration_s": 21.1
   },
   {
     "character_identifier": "NARRATOR",
@@ -115,10 +115,10 @@
     "text": "The quarter was so long, that he was more than once convinced he must have sunk into a doze unconsciously, and missed the clock. At length it broke upon his listening ear.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 157606000,
-    "end_ms": 167786000,
-    "duration_ms": 10180000
+    "trailing_silence_s": 0.3,
+    "start_s": 157.60730199999998,
+    "end_s": 167.78730199999998,
+    "duration_s": 10.18
   },
   {
     "character_identifier": "NARRATOR",
@@ -126,10 +126,10 @@
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
     "audio_description": "bell-like",
-    "trailing_silence_ms": 300,
-    "start_ms": 167786000,
-    "end_ms": 168926000,
-    "duration_ms": 1140000
+    "trailing_silence_s": 0.3,
+    "start_s": 167.78730199999998,
+    "end_s": 168.92730199999997,
+    "duration_s": 1.14
   },
   {
     "character_identifier": "SCROOGE",
@@ -137,10 +137,10 @@
     "text": "A quarter past.",
     "speed": 1.0,
     "audio_description": "counting, focused",
-    "trailing_silence_ms": 300,
-    "start_ms": 168926000,
-    "end_ms": 170532000,
-    "duration_ms": 1606000
+    "trailing_silence_s": 0.3,
+    "start_s": 168.92730199999997,
+    "end_s": 170.53396899999996,
+    "duration_s": 1.606667
   },
   {
     "character_identifier": "NARRATOR",
@@ -148,10 +148,10 @@
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
     "audio_description": "bell-like",
-    "trailing_silence_ms": 300,
-    "start_ms": 170532000,
-    "end_ms": 171552000,
-    "duration_ms": 1020000
+    "trailing_silence_s": 0.3,
+    "start_s": 170.53396899999996,
+    "end_s": 171.55396899999997,
+    "duration_s": 1.02
   },
   {
     "character_identifier": "SCROOGE",
@@ -159,10 +159,10 @@
     "text": "Half-past!",
     "speed": 1.0,
     "audio_description": "counting",
-    "trailing_silence_ms": 300,
-    "start_ms": 171552000,
-    "end_ms": 173118000,
-    "duration_ms": 1566000
+    "trailing_silence_s": 0.3,
+    "start_s": 171.55396899999997,
+    "end_s": 173.12063599999996,
+    "duration_s": 1.566667
   },
   {
     "character_identifier": "NARRATOR",
@@ -170,10 +170,10 @@
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
     "audio_description": "bell-like",
-    "trailing_silence_ms": 300,
-    "start_ms": 173118000,
-    "end_ms": 174178000,
-    "duration_ms": 1060000
+    "trailing_silence_s": 0.3,
+    "start_s": 173.12063599999996,
+    "end_s": 174.18063599999996,
+    "duration_s": 1.06
   },
   {
     "character_identifier": "SCROOGE",
@@ -181,10 +181,10 @@
     "text": "A quarter to it.",
     "speed": 1.0,
     "audio_description": "counting",
-    "trailing_silence_ms": 300,
-    "start_ms": 174178000,
-    "end_ms": 175744000,
-    "duration_ms": 1566000
+    "trailing_silence_s": 0.3,
+    "start_s": 174.18063599999996,
+    "end_s": 175.74730299999996,
+    "duration_s": 1.566667
   },
   {
     "character_identifier": "NARRATOR",
@@ -192,10 +192,10 @@
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
     "audio_description": "bell-like",
-    "trailing_silence_ms": 300,
-    "start_ms": 175744000,
-    "end_ms": 176844000,
-    "duration_ms": 1100000
+    "trailing_silence_s": 0.3,
+    "start_s": 175.74730299999996,
+    "end_s": 176.84730299999995,
+    "duration_s": 1.1
   },
   {
     "character_identifier": "SCROOGE",
@@ -203,10 +203,10 @@
     "text": "The hour itself, and nothing else!",
     "speed": 1.0,
     "audio_description": "triumphant",
-    "trailing_silence_ms": 500,
-    "start_ms": 176844000,
-    "end_ms": 180170000,
-    "duration_ms": 3326000
+    "trailing_silence_s": 0.5,
+    "start_s": 176.84730299999995,
+    "end_s": 180.17396999999994,
+    "duration_s": 3.326667
   },
   {
     "character_identifier": "NARRATOR",
@@ -214,10 +214,10 @@
     "text": "He spoke before the hour bell sounded, which it now did with a deep, dull, hollow, melancholy One. Light flashed up in the room upon the instant, and the curtains of his bed were drawn.",
     "speed": 1.0,
     "audio_description": "dramatic",
-    "trailing_silence_ms": 300,
-    "start_ms": 180170000,
-    "end_ms": 192030000,
-    "duration_ms": 11860000
+    "trailing_silence_s": 0.3,
+    "start_s": 180.17396999999994,
+    "end_s": 192.03462799999994,
+    "duration_s": 11.860658
   },
   {
     "character_identifier": "NARRATOR",
@@ -225,10 +225,10 @@
     "text": "The curtains of his bed were drawn aside, I tell you, by a hand. Not the curtains at his feet, nor the curtains at his back, but those to which his face was addressed. The curtains of his bed were drawn aside; and Scrooge, starting up into a half-recumbent attitude, found himself face to face with the unearthly visitor who drew them: as close to it as I am now to you, and I am standing in the spirit at your elbow.",
     "speed": 1.0,
     "audio_description": "urgent, intimate",
-    "trailing_silence_ms": 300,
-    "start_ms": 192030000,
-    "end_ms": 217530000,
-    "duration_ms": 25500000
+    "trailing_silence_s": 0.3,
+    "start_s": 192.03462799999994,
+    "end_s": 217.53462799999994,
+    "duration_s": 25.5
   },
   {
     "character_identifier": "NARRATOR",
@@ -236,10 +236,10 @@
     "text": "It was a strange figure—like a child: yet not so like a child as like an old man, viewed through some supernatural medium, which gave him the appearance of having receded from the view, and being diminished to a child's proportions. Its hair, which hung about its neck and down its back, was white as if with age; and yet the face had not a wrinkle in it, and the tenderest bloom was on the skin. The arms were very long and muscular; the hands the same, as if its hold were of uncommon strength. Its legs and feet, most delicately formed, were, like those upper members, bare. It wore a tunic of the purest white; and round its waist was bound a lustrous belt, the sheen of which was beautiful. It held a branch of fresh green holly in its hand; and, in singular contradiction of that wintry emblem, had its dress trimmed with summer flowers. But the strangest thing about it was, that from the crown of its head there sprung a bright clear jet of light, by which all this was visible; and which was doubtless the occasion of its using, in its duller moments, a great extinguisher for a cap, which it now held under its arm.",
     "speed": 1.0,
     "audio_description": "wondrous, descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 217530000,
-    "end_ms": 286950000,
-    "duration_ms": 69420000
+    "trailing_silence_s": 0.3,
+    "start_s": 217.53462799999994,
+    "end_s": 286.95462799999996,
+    "duration_s": 69.42
   },
   {
     "character_identifier": "NARRATOR",
@@ -247,10 +247,10 @@
     "text": "Even this, though, when Scrooge looked at it with increasing steadiness, was <i>not</i> its strangest quality. For as its belt sparkled and glittered now in one part and now in another, and what was light one instant, at another time was dark, so the figure itself fluctuated in its distinctness: being now a thing with one arm, now with one leg, now with twenty legs, now a pair of legs without a head, now a head without a body: of which dissolving parts, no outline would be visible in the dense gloom wherein they melted away. And in the very wonder of this, it would be itself again; distinct and clear as ever.",
     "speed": 1.0,
     "audio_description": "eerie, amazed",
-    "trailing_silence_ms": 300,
-    "start_ms": 286950000,
-    "end_ms": 325970000,
-    "duration_ms": 39020000
+    "trailing_silence_s": 0.3,
+    "start_s": 286.95462799999996,
+    "end_s": 325.97462799999994,
+    "duration_s": 39.02
   },
   {
     "character_identifier": "SCROOGE",
@@ -258,10 +258,10 @@
     "text": "Are you the Spirit, sir, whose coming was foretold to me?",
     "speed": 1.0,
     "audio_description": "cautious, polite",
-    "trailing_silence_ms": 400,
-    "start_ms": 325970000,
-    "end_ms": 330356000,
-    "duration_ms": 4386000
+    "trailing_silence_s": 0.4,
+    "start_s": 325.97462799999994,
+    "end_s": 330.3612949999999,
+    "duration_s": 4.386667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -269,10 +269,10 @@
     "text": "I am!",
     "speed": 1.0,
     "audio_description": "soft, distant",
-    "trailing_silence_ms": 500,
-    "start_ms": 330356000,
-    "end_ms": 331562000,
-    "duration_ms": 1206000
+    "trailing_silence_s": 0.5,
+    "start_s": 330.3612949999999,
+    "end_s": 331.5679159999999,
+    "duration_s": 1.206621
   },
   {
     "character_identifier": "NARRATOR",
@@ -280,10 +280,10 @@
     "text": "The voice was soft and gentle. Singularly low, as if instead of being so close beside him, it were at a distance.",
     "speed": 1.0,
     "audio_description": "descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 331562000,
-    "end_ms": 338782000,
-    "duration_ms": 7220000
+    "trailing_silence_s": 0.3,
+    "start_s": 331.5679159999999,
+    "end_s": 338.78791599999994,
+    "duration_s": 7.22
   },
   {
     "character_identifier": "SCROOGE",
@@ -291,10 +291,10 @@
     "text": "Who, and what are you?",
     "speed": 1.0,
     "audio_description": "demanding",
-    "trailing_silence_ms": 400,
-    "start_ms": 338782000,
-    "end_ms": 341008000,
-    "duration_ms": 2226000
+    "trailing_silence_s": 0.4,
+    "start_s": 338.78791599999994,
+    "end_s": 341.01458299999996,
+    "duration_s": 2.226667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -302,10 +302,10 @@
     "text": "I am the Ghost of Christmas Past.",
     "speed": 1.0,
     "audio_description": "gentle, clear",
-    "trailing_silence_ms": 200,
-    "start_ms": 341008000,
-    "end_ms": 343934000,
-    "duration_ms": 2926000
+    "trailing_silence_s": 0.2,
+    "start_s": 341.01458299999996,
+    "end_s": 343.94136299999997,
+    "duration_s": 2.92678
   },
   {
     "character_identifier": "SCROOGE",
@@ -313,10 +313,10 @@
     "text": "Long Past?",
     "speed": 1.0,
     "audio_description": "curious",
-    "trailing_silence_ms": 300,
-    "start_ms": 343934000,
-    "end_ms": 345540000,
-    "duration_ms": 1606000
+    "trailing_silence_s": 0.3,
+    "start_s": 343.94136299999997,
+    "end_s": 345.54803,
+    "duration_s": 1.606667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -324,10 +324,10 @@
     "text": "No. Your past.",
     "speed": 1.0,
     "audio_description": "gentle, direct",
-    "trailing_silence_ms": 300,
-    "start_ms": 345540000,
-    "end_ms": 347866000,
-    "duration_ms": 2326000
+    "trailing_silence_s": 0.3,
+    "start_s": 345.54803,
+    "end_s": 347.87469699999997,
+    "duration_s": 2.326667
   },
   {
     "character_identifier": "NARRATOR",
@@ -335,10 +335,10 @@
     "text": "Perhaps, Scrooge could not have told anybody why, if anybody could have asked him; but he had a special desire to see the Spirit in his cap; and begged him to be covered.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 347866000,
-    "end_ms": 358166000,
-    "duration_ms": 10300000
+    "trailing_silence_s": 0.3,
+    "start_s": 347.87469699999997,
+    "end_s": 358.174697,
+    "duration_s": 10.3
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -346,10 +346,10 @@
     "text": "What! would you so soon put out, with worldly hands, the light I give? Is it not enough that you are one of those whose passions made this cap, and force me through whole trains of years to wear it low upon my brow!",
     "speed": 1.0,
     "audio_description": "reproachful, pained",
-    "trailing_silence_ms": 800,
-    "start_ms": 358166000,
-    "end_ms": 369672000,
-    "duration_ms": 11506000
+    "trailing_silence_s": 0.8,
+    "start_s": 358.174697,
+    "end_s": 369.681364,
+    "duration_s": 11.506667
   },
   {
     "character_identifier": "NARRATOR",
@@ -357,10 +357,10 @@
     "text": "Scrooge reverently disclaimed all intention to offend or any knowledge of having wilfully \"bonneted\" the Spirit at any period of his life. He then made bold to inquire what business brought him there.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 369672000,
-    "end_ms": 381852000,
-    "duration_ms": 12180000
+    "trailing_silence_s": 0.3,
+    "start_s": 369.681364,
+    "end_s": 381.861364,
+    "duration_s": 12.18
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -368,10 +368,10 @@
     "text": "Your welfare!",
     "speed": 1.0,
     "audio_description": "firm",
-    "trailing_silence_ms": 600,
-    "start_ms": 381852000,
-    "end_ms": 383438000,
-    "duration_ms": 1586000
+    "trailing_silence_s": 0.6,
+    "start_s": 381.861364,
+    "end_s": 383.44803099999996,
+    "duration_s": 1.586667
   },
   {
     "character_identifier": "NARRATOR",
@@ -379,10 +379,10 @@
     "text": "Scrooge expressed himself much obliged, but could not help thinking that a night of unbroken rest would have been more conducive to that end. The Spirit must have heard him thinking, for it said immediately:",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 383438000,
-    "end_ms": 396138000,
-    "duration_ms": 12700000
+    "trailing_silence_s": 0.3,
+    "start_s": 383.44803099999996,
+    "end_s": 396.14803099999995,
+    "duration_s": 12.7
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -390,10 +390,10 @@
     "text": "Your reclamation, then. Take heed!",
     "speed": 1.0,
     "audio_description": "commanding, serious",
-    "trailing_silence_ms": 400,
-    "start_ms": 396138000,
-    "end_ms": 399164000,
-    "duration_ms": 3026000
+    "trailing_silence_s": 0.4,
+    "start_s": 396.14803099999995,
+    "end_s": 399.1746519999999,
+    "duration_s": 3.026621
   },
   {
     "character_identifier": "NARRATOR",
@@ -401,10 +401,10 @@
     "text": "It put out its strong hand as it spoke, and clasped him gently by the arm.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 399164000,
-    "end_ms": 404264000,
-    "duration_ms": 5100000
+    "trailing_silence_s": 0.3,
+    "start_s": 399.1746519999999,
+    "end_s": 404.27465199999995,
+    "duration_s": 5.1
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -412,10 +412,10 @@
     "text": "Rise! and walk with me!",
     "speed": 1.0,
     "audio_description": "commanding",
-    "trailing_silence_ms": 700,
-    "start_ms": 404264000,
-    "end_ms": 407190000,
-    "duration_ms": 2926000
+    "trailing_silence_s": 0.7,
+    "start_s": 404.27465199999995,
+    "end_s": 407.20143199999995,
+    "duration_s": 2.92678
   },
   {
     "character_identifier": "NARRATOR",
@@ -423,10 +423,10 @@
     "text": "It would have been in vain for Scrooge to plead that the weather and the hour were not adapted to pedestrian purposes; that bed was warm, and the thermometer a long way below freezing; that he was clad but lightly in his slippers, dressing-gown, and nightcap; and that he had a cold upon him at that time. The grasp, though gentle as a woman's hand, was not to be resisted. He rose: but finding that the Spirit made towards the window, clasped his robe in supplication.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 407190000,
-    "end_ms": 436890000,
-    "duration_ms": 29700000
+    "trailing_silence_s": 0.3,
+    "start_s": 407.20143199999995,
+    "end_s": 436.90143199999994,
+    "duration_s": 29.7
   },
   {
     "character_identifier": "SCROOGE",
@@ -434,10 +434,10 @@
     "text": "I am a mortal, and liable to fall.",
     "speed": 1.0,
     "audio_description": "pleading, fearful",
-    "trailing_silence_ms": 400,
-    "start_ms": 436890000,
-    "end_ms": 440276000,
-    "duration_ms": 3386000
+    "trailing_silence_s": 0.4,
+    "start_s": 436.90143199999994,
+    "end_s": 440.28809899999993,
+    "duration_s": 3.386667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -445,10 +445,10 @@
     "text": "Bear but a touch of my hand <i>there</i>, and you shall be upheld in more than this!",
     "speed": 1.0,
     "audio_description": "reassuring",
-    "trailing_silence_ms": 800,
-    "start_ms": 440276000,
-    "end_ms": 446022000,
-    "duration_ms": 5746000
+    "trailing_silence_s": 0.8,
+    "start_s": 440.28809899999993,
+    "end_s": 446.03476599999993,
+    "duration_s": 5.746667
   },
   {
     "character_identifier": "NARRATOR",
@@ -456,10 +456,10 @@
     "text": "As the words were spoken, they passed through the wall, and stood upon an open country road, with fields on either hand. The city had entirely vanished. Not a vestige of it was to be seen. The darkness and the mist had vanished with it, for it was a clear, cold, winter day, with snow upon the ground.",
     "speed": 1.0,
     "audio_description": "wondrous",
-    "trailing_silence_ms": 300,
-    "start_ms": 446022000,
-    "end_ms": 464762000,
-    "duration_ms": 18740000
+    "trailing_silence_s": 0.3,
+    "start_s": 446.03476599999993,
+    "end_s": 464.77476599999994,
+    "duration_s": 18.74
   },
   {
     "character_identifier": "SCROOGE",
@@ -467,10 +467,10 @@
     "text": "Good Heaven! I was bred in this place. I was a boy here!",
     "speed": 1.0,
     "audio_description": "astonished, emotional",
-    "trailing_silence_ms": 300,
-    "start_ms": 464762000,
-    "end_ms": 468848000,
-    "duration_ms": 4086000
+    "trailing_silence_s": 0.3,
+    "start_s": 464.77476599999994,
+    "end_s": 468.8614329999999,
+    "duration_s": 4.086667
   },
   {
     "character_identifier": "NARRATOR",
@@ -478,10 +478,10 @@
     "text": "The Spirit gazed upon him mildly. Its gentle touch, though it had been light and instantaneous, appeared still present to the old man's sense of feeling. He was conscious of a thousand odours floating in the air, each one connected with a thousand thoughts, and hopes, and joys, and cares long, long, forgotten!",
     "speed": 1.0,
     "audio_description": "tender",
-    "trailing_silence_ms": 300,
-    "start_ms": 468848000,
-    "end_ms": 488268000,
-    "duration_ms": 19420000
+    "trailing_silence_s": 0.3,
+    "start_s": 468.8614329999999,
+    "end_s": 488.28143299999994,
+    "duration_s": 19.42
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -489,10 +489,10 @@
     "text": "Your lip is trembling. And what is that upon your cheek?",
     "speed": 1.0,
     "audio_description": "gentle, knowing",
-    "trailing_silence_ms": 500,
-    "start_ms": 488268000,
-    "end_ms": 492554000,
-    "duration_ms": 4286000
+    "trailing_silence_s": 0.5,
+    "start_s": 488.28143299999994,
+    "end_s": 492.56809999999996,
+    "duration_s": 4.286667
   },
   {
     "character_identifier": "NARRATOR",
@@ -500,10 +500,10 @@
     "text": "Scrooge muttered, with an unusual catching in his voice, that it was a pimple; and begged the Ghost to lead him where he would.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 492554000,
-    "end_ms": 500294000,
-    "duration_ms": 7740000
+    "trailing_silence_s": 0.3,
+    "start_s": 492.56809999999996,
+    "end_s": 500.30809999999997,
+    "duration_s": 7.74
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -511,10 +511,10 @@
     "text": "You recollect the way?",
     "speed": 1.0,
     "audio_description": "mild",
-    "trailing_silence_ms": 300,
-    "start_ms": 500294000,
-    "end_ms": 502700000,
-    "duration_ms": 2406000
+    "trailing_silence_s": 0.3,
+    "start_s": 500.30809999999997,
+    "end_s": 502.714767,
+    "duration_s": 2.406667
   },
   {
     "character_identifier": "SCROOGE",
@@ -522,10 +522,10 @@
     "text": "Remember it! I could walk it blindfold.",
     "speed": 1.0,
     "audio_description": "fervent",
-    "trailing_silence_ms": 400,
-    "start_ms": 502700000,
-    "end_ms": 505886000,
-    "duration_ms": 3186000
+    "trailing_silence_s": 0.4,
+    "start_s": 502.714767,
+    "end_s": 505.901434,
+    "duration_s": 3.186667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -533,10 +533,10 @@
     "text": "Strange to have forgotten it for so many years! Let us go on.",
     "speed": 1.0,
     "audio_description": "observant, gentle",
-    "trailing_silence_ms": 800,
-    "start_ms": 505886000,
-    "end_ms": 511192000,
-    "duration_ms": 5306000
+    "trailing_silence_s": 0.8,
+    "start_s": 505.901434,
+    "end_s": 511.208101,
+    "duration_s": 5.306667
   },
   {
     "character_identifier": "NARRATOR",
@@ -544,10 +544,10 @@
     "text": "They walked along the road, Scrooge recognising every gate, and post, and tree; until a little market-town appeared in the distance, with its bridge, its church, and winding river. Some shaggy ponies now were seen trotting towards them with boys upon their backs, who called to other boys in country gigs and carts, driven by farmers. All these boys were in great spirits, and shouted to each other, until the broad fields were so full of merry music, that the crisp air laughed to hear it!",
     "speed": 1.0,
     "audio_description": "joyful, nostalgic",
-    "trailing_silence_ms": 300,
-    "start_ms": 511192000,
-    "end_ms": 541252000,
-    "duration_ms": 30060000
+    "trailing_silence_s": 0.3,
+    "start_s": 511.208101,
+    "end_s": 541.268101,
+    "duration_s": 30.06
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -555,10 +555,10 @@
     "text": "These are but shadows of the things that have been. They have no consciousness of us.",
     "speed": 1.0,
     "audio_description": "soft, explanatory",
-    "trailing_silence_ms": 700,
-    "start_ms": 541252000,
-    "end_ms": 547098000,
-    "duration_ms": 5846000
+    "trailing_silence_s": 0.7,
+    "start_s": 541.268101,
+    "end_s": 547.114768,
+    "duration_s": 5.846667
   },
   {
     "character_identifier": "NARRATOR",
@@ -566,10 +566,10 @@
     "text": "The jocund travellers came on; and as they came, Scrooge knew and named them every one. Why was he rejoiced beyond all bounds to see them! Why did his cold eye glisten, and his heart leap up as they went past! Why was he filled with gladness when he heard them give each other Merry Christmas, as they parted at cross-roads and bye-ways, for their several homes! What was merry Christmas to Scrooge? Out upon merry Christmas! What good had it ever done to him?",
     "speed": 1.0,
     "audio_description": "emotional, questioning",
-    "trailing_silence_ms": 300,
-    "start_ms": 547098000,
-    "end_ms": 576838000,
-    "duration_ms": 29740000
+    "trailing_silence_s": 0.3,
+    "start_s": 547.114768,
+    "end_s": 576.854768,
+    "duration_s": 29.74
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -577,10 +577,10 @@
     "text": "The school is not quite deserted. A solitary child, neglected by his friends, is left there still.",
     "speed": 1.0,
     "audio_description": "somber",
-    "trailing_silence_ms": 700,
-    "start_ms": 576838000,
-    "end_ms": 583844000,
-    "duration_ms": 7006000
+    "trailing_silence_s": 0.7,
+    "start_s": 576.854768,
+    "end_s": 583.861435,
+    "duration_s": 7.006667
   },
   {
     "character_identifier": "NARRATOR",
@@ -588,10 +588,10 @@
     "text": "Scrooge said he knew it. And he sobbed.",
     "speed": 1.0,
     "audio_description": "heavy",
-    "trailing_silence_ms": 300,
-    "start_ms": 583844000,
-    "end_ms": 586824000,
-    "duration_ms": 2980000
+    "trailing_silence_s": 0.3,
+    "start_s": 583.861435,
+    "end_s": 586.841435,
+    "duration_s": 2.98
   },
   {
     "character_identifier": "NARRATOR",
@@ -599,10 +599,10 @@
     "text": "They left the high-road, by a well-remembered lane, and soon approached a mansion of dull red brick, with a little weathercock-surmounted cupola, on the roof, and a bell hanging in it. It was a large house, but one of broken fortunes; for the spacious offices were little used, their walls were damp and mossy, their windows broken, and their gates decayed. Fowls clucked and strutted in the stables; and the coach-houses and sheds were over-run with grass. Nor was it more retentive of its ancient state, within; for entering the dreary hall, and glancing through the open doors of many rooms, they found them poorly furnished, cold, and vast. There was an earthy savour in the air, a chilly bareness in the place, which associated itself somehow with too much getting up by candle-light, and not too much to eat.",
     "speed": 1.0,
     "audio_description": "melancholy, descriptive",
-    "trailing_silence_ms": 300,
-    "start_ms": 586824000,
-    "end_ms": 634364000,
-    "duration_ms": 47540000
+    "trailing_silence_s": 0.3,
+    "start_s": 586.841435,
+    "end_s": 634.381435,
+    "duration_s": 47.54
   },
   {
     "character_identifier": "NARRATOR",
@@ -610,10 +610,10 @@
     "text": "They went, the Ghost and Scrooge, across the hall, to a door at the back of the house. It opened before them, and disclosed a long, bare, melancholy room, made barer still by lines of plain deal forms and desks. At one of these a lonely boy was reading near a feeble fire; and Scrooge sat down upon a form, and wept to see his poor forgotten self as he used to be.",
     "speed": 1.0,
     "audio_description": "sorrowful",
-    "trailing_silence_ms": 300,
-    "start_ms": 634364000,
-    "end_ms": 657784000,
-    "duration_ms": 23420000
+    "trailing_silence_s": 0.3,
+    "start_s": 634.381435,
+    "end_s": 657.801435,
+    "duration_s": 23.42
   },
   {
     "character_identifier": "NARRATOR",
@@ -621,10 +621,10 @@
     "text": "Not a latent echo in the house, not a squeak and scuffle from the mice behind the panelling, not a drip from the half-thawed water-spout in the dull yard behind, not a sigh among the leafless boughs of one despondent poplar, not the idle swinging of an empty store-house door, no, not a clicking in the fire, but fell upon the heart of Scrooge with a softening influence, and gave a freer passage to his tears.",
     "speed": 1.0,
     "audio_description": "tender, poetic",
-    "trailing_silence_ms": 300,
-    "start_ms": 657784000,
-    "end_ms": 683644000,
-    "duration_ms": 25860000
+    "trailing_silence_s": 0.3,
+    "start_s": 657.801435,
+    "end_s": 683.661435,
+    "duration_s": 25.86
   },
   {
     "character_identifier": "NARRATOR",
@@ -632,10 +632,10 @@
     "text": "The Spirit touched him on the arm, and pointed to his younger self, intent upon his reading. Suddenly a man, in foreign garments: wonderfully real and distinct to look at: stood outside the window, with an axe stuck in his belt, and leading by the bridle an ass laden with wood.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 683644000,
-    "end_ms": 700944000,
-    "duration_ms": 17300000
+    "trailing_silence_s": 0.3,
+    "start_s": 683.661435,
+    "end_s": 700.9614349999999,
+    "duration_s": 17.3
   },
   {
     "character_identifier": "SCROOGE",
@@ -643,10 +643,10 @@
     "text": "Why, it's Ali Baba! It's dear old honest Ali Baba! Yes, yes, I know! One Christmas time, when yonder solitary child was left here all alone, he <i>did</i> come, for the first time, just like that. Poor boy! And Valentine, and his wild brother, Orson; there they go! And what's his name, who was put down in his drawers, asleep, at the Gate of Damascus; don't you see him! And the Sultan's Groom turned upside down by the Genii; there he is upon his head! Serve him right. I'm glad of it. What business had <i>he</i> to be married to the Princess!",
     "speed": 1.0,
     "audio_description": "ecstatic, childlike",
-    "trailing_silence_ms": 700,
-    "start_ms": 700944000,
-    "end_ms": 732484000,
-    "duration_ms": 31540000
+    "trailing_silence_s": 0.7,
+    "start_s": 700.9614349999999,
+    "end_s": 732.5014349999999,
+    "duration_s": 31.54
   },
   {
     "character_identifier": "NARRATOR",
@@ -654,10 +654,10 @@
     "text": "To hear Scrooge expending all the earnestness of his nature on such subjects, in a most extraordinary voice between laughing and crying; and to see his heightened and excited face; would have been a surprise to his business friends in the city indeed.",
     "speed": 1.0,
     "audio_description": "amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 732484000,
-    "end_ms": 747904000,
-    "duration_ms": 15420000
+    "trailing_silence_s": 0.3,
+    "start_s": 732.5014349999999,
+    "end_s": 747.9214349999999,
+    "duration_s": 15.42
   },
   {
     "character_identifier": "SCROOGE",
@@ -665,10 +665,10 @@
     "text": "There's the Parrot! Green body and yellow tail, with a thing like a lettuce growing out of the top of his head; there he is! Poor Robin Crusoe he called him, when he came home again after sailing round the island. 'Poor Robin Crusoe, where have you been, Robin Crusoe?' The man thought he was dreaming, but he wasn't. It was the Parrot, you know. There goes Friday, running for his life to the little creek! Halloa! Hoop! Halloo!",
     "speed": 1.0,
     "audio_description": "excited, animated",
-    "trailing_silence_ms": 400,
-    "start_ms": 747904000,
-    "end_ms": 772557000,
-    "duration_ms": 24653000
+    "trailing_silence_s": 0.4,
+    "start_s": 747.9214349999999,
+    "end_s": 772.5747679999998,
+    "duration_s": 24.653333
   },
   {
     "character_identifier": "NARRATOR",
@@ -676,10 +676,10 @@
     "text": "Then, with a rapidity of transition very foreign to his usual character, he said, in pity for his former self, \"Poor boy!\" and cried again.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 772557000,
-    "end_ms": 781857000,
-    "duration_ms": 9300000
+    "trailing_silence_s": 0.3,
+    "start_s": 772.5747679999998,
+    "end_s": 781.8754259999998,
+    "duration_s": 9.300658
   },
   {
     "character_identifier": "NARRATOR",
@@ -687,10 +687,10 @@
     "text": "Scrooge muttered, putting his hand in his pocket, and looking about him, after drying his eyes with his cuff: \"but it's too late now.\"",
     "speed": 1.0,
     "audio_description": "regretful",
-    "trailing_silence_ms": 300,
-    "start_ms": 781857000,
-    "end_ms": 790277000,
-    "duration_ms": 8420000
+    "trailing_silence_s": 0.3,
+    "start_s": 781.8754259999998,
+    "end_s": 790.2954259999998,
+    "duration_s": 8.42
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -698,10 +698,10 @@
     "text": "What is the matter?",
     "speed": 1.0,
     "audio_description": "inquiring",
-    "trailing_silence_ms": 300,
-    "start_ms": 790277000,
-    "end_ms": 791963000,
-    "duration_ms": 1686000
+    "trailing_silence_s": 0.3,
+    "start_s": 790.2954259999998,
+    "end_s": 791.9820929999998,
+    "duration_s": 1.686667
   },
   {
     "character_identifier": "SCROOGE",
@@ -709,10 +709,10 @@
     "text": "Nothing. Nothing. There was a boy singing a Christmas Carol at my door last night. I should like to have given him something: that's all.",
     "speed": 1.0,
     "audio_description": "regretful, quiet",
-    "trailing_silence_ms": 700,
-    "start_ms": 791963000,
-    "end_ms": 800969000,
-    "duration_ms": 9006000
+    "trailing_silence_s": 0.7,
+    "start_s": 791.9820929999998,
+    "end_s": 800.9887599999998,
+    "duration_s": 9.006667
   },
   {
     "character_identifier": "NARRATOR",
@@ -720,10 +720,10 @@
     "text": "The Ghost smiled thoughtfully, and waved its hand: saying as it did so: ",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 800969000,
-    "end_ms": 805629000,
-    "duration_ms": 4660000
+    "trailing_silence_s": 0.3,
+    "start_s": 800.9887599999998,
+    "end_s": 805.6487599999998,
+    "duration_s": 4.66
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PRESENT",
@@ -731,10 +731,10 @@
     "text": "Let us see another Christmas!",
     "speed": 1.0,
     "audio_description": "thoughtful",
-    "trailing_silence_ms": 500,
-    "start_ms": 805629000,
-    "end_ms": 808115000,
-    "duration_ms": 2486000
+    "trailing_silence_s": 0.5,
+    "start_s": 805.6487599999998,
+    "end_s": 808.1353589999998,
+    "duration_s": 2.486599
   },
   {
     "character_identifier": "NARRATOR",
@@ -742,10 +742,10 @@
     "text": "Scrooge's former self grew larger at the words, and the room became a little darker and more dirty. The panels shrunk, the windows cracked; fragments of plaster fell out of the ceiling, and the naked laths were shown instead; but how all this was brought about, Scrooge knew no more than you do. He only knew that it was quite correct; that everything had happened so; that there he was, alone again, when all the other boys had gone home for the jolly holidays.",
     "speed": 1.0,
     "audio_description": "somber",
-    "trailing_silence_ms": 300,
-    "start_ms": 808115000,
-    "end_ms": 835815000,
-    "duration_ms": 27700000
+    "trailing_silence_s": 0.3,
+    "start_s": 808.1353589999998,
+    "end_s": 835.8353589999998,
+    "duration_s": 27.7
   },
   {
     "character_identifier": "NARRATOR",
@@ -753,10 +753,10 @@
     "text": "He was not reading now, but walking up and down despairingly. Scrooge looked at the Ghost, and with a mournful shaking of his head, glanced anxiously towards the door.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 835815000,
-    "end_ms": 846435000,
-    "duration_ms": 10620000
+    "trailing_silence_s": 0.3,
+    "start_s": 835.8353589999998,
+    "end_s": 846.4553589999998,
+    "duration_s": 10.62
   },
   {
     "character_identifier": "NARRATOR",
@@ -764,10 +764,10 @@
     "text": "It opened; and a little girl, much younger than the boy, came darting in, and putting her arms about his neck, and often kissing him, addressed him as her \"Dear, dear brother.\"",
     "speed": 1.0,
     "audio_description": "joyful",
-    "trailing_silence_ms": 300,
-    "start_ms": 846435000,
-    "end_ms": 857415000,
-    "duration_ms": 10980000
+    "trailing_silence_s": 0.3,
+    "start_s": 846.4553589999998,
+    "end_s": 857.4353589999998,
+    "duration_s": 10.98
   },
   {
     "character_identifier": "FAN",
@@ -775,10 +775,10 @@
     "text": "I have come to bring you home, dear brother! To bring you home, home, home!",
     "speed": 1.0,
     "audio_description": "gleeful, bright",
-    "trailing_silence_ms": 100,
-    "start_ms": 857415000,
-    "end_ms": 861666000,
-    "duration_ms": 4251000
+    "trailing_silence_s": 0.1,
+    "start_s": 857.4353589999998,
+    "end_s": 861.6872859999999,
+    "duration_s": 4.251927
   },
   {
     "character_identifier": "YOUNG_SCROOGE_CHILD",
@@ -786,10 +786,10 @@
     "text": "Home, little Fan?",
     "speed": 1.0,
     "audio_description": "hopeful, tentative",
-    "trailing_silence_ms": 300,
-    "start_ms": 861666000,
-    "end_ms": 863267000,
-    "duration_ms": 1601000
+    "trailing_silence_s": 0.3,
+    "start_s": 861.6872859999999,
+    "end_s": 863.2888049999999,
+    "duration_s": 1.601519
   },
   {
     "character_identifier": "FAN",
@@ -797,10 +797,10 @@
     "text": "Yes! Home, for good and all. Home, for ever and ever. Father is so much kinder than he used to be, that home's like Heaven! He spoke so gently to me one dear night when I was going to bed, that I was not afraid to ask him once more if you might come home; and he said Yes, you should; and sent me in a coach to bring you. And you're to be a man! and are never to come back here; but first, we're to be together all the Christmas long, and have the merriest time in all the world.",
     "speed": 1.0,
     "audio_description": "brimming with glee",
-    "trailing_silence_ms": 300,
-    "start_ms": 863267000,
-    "end_ms": 892075000,
-    "duration_ms": 28808000
+    "trailing_silence_s": 0.3,
+    "start_s": 863.2888049999999,
+    "end_s": 892.096923,
+    "duration_s": 28.808118
   },
   {
     "character_identifier": "YOUNG_SCROOGE_CHILD",
@@ -808,10 +808,10 @@
     "text": "You are quite a woman, little Fan!",
     "speed": 1.0,
     "audio_description": "affectionate, amused",
-    "trailing_silence_ms": 500,
-    "start_ms": 892075000,
-    "end_ms": 894463000,
-    "duration_ms": 2388000
+    "trailing_silence_s": 0.5,
+    "start_s": 892.096923,
+    "end_s": 894.4858569999999,
+    "duration_s": 2.388934
   },
   {
     "character_identifier": "NARRATOR",
@@ -819,10 +819,10 @@
     "text": "She clapped her hands and laughed, and tried to touch his head; but being too little, laughed again, and stood on tiptoe to embrace him. Then she began to drag him, in her childish eagerness, towards the door; and he, nothing loth to go, accompanied her.",
     "speed": 1.0,
     "audio_description": "warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 894463000,
-    "end_ms": 910842000,
-    "duration_ms": 16379000
+    "trailing_silence_s": 0.3,
+    "start_s": 894.4858569999999,
+    "end_s": 910.8658569999999,
+    "duration_s": 16.38
   },
   {
     "character_identifier": "SCHOOLMASTER",
@@ -830,10 +830,10 @@
     "text": "Bring down Master Scrooge's box, there!",
     "speed": 1.0,
     "audio_description": "booming, authoritative",
-    "trailing_silence_ms": 600,
-    "start_ms": 910842000,
-    "end_ms": 914188000,
-    "duration_ms": 3346000
+    "trailing_silence_s": 0.6,
+    "start_s": 910.8658569999999,
+    "end_s": 914.2125239999999,
+    "duration_s": 3.346667
   },
   {
     "character_identifier": "NARRATOR",
@@ -841,10 +841,10 @@
     "text": "In the hall appeared the schoolmaster himself, who glared on Master Scrooge with a ferocious condescension, and threw him into a dreadful state of mind by shaking hands with him. He then conveyed him and his sister into the veriest old well of a shivering best-parlour that ever was seen, where the maps upon the wall, and the celestial and terrestrial globes in the windows, were waxy with cold. Here he produced a decanter of curiously light wine, and a block of curiously heavy cake, and administered instalments of those dainties to the young people. At the same time, sending out a meagre servant to offer a glass of something to the postboy, who answered that he thanked the gentleman, but if it was the same tap as he had tasted before, he had rather not. Master Scrooge's trunk being by this time tied on to the top of the chaise, the children bade the schoolmaster good-bye right willingly; and getting into it, drove gaily down the garden-sweep: the quick wheels dashing the hoar-frost and snow from off the dark leaves of the evergreens like spray.",
     "speed": 1.0,
     "audio_description": "narrative, vivid",
-    "trailing_silence_ms": 300,
-    "start_ms": 914188000,
-    "end_ms": 978448000,
-    "duration_ms": 64260000
+    "trailing_silence_s": 0.3,
+    "start_s": 914.2125239999999,
+    "end_s": 978.4725239999999,
+    "duration_s": 64.26
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -852,10 +852,10 @@
     "text": "Always a delicate creature, whom a breath might have withered. But she had a large heart!",
     "speed": 1.0,
     "audio_description": "tender, sad",
-    "trailing_silence_ms": 300,
-    "start_ms": 978448000,
-    "end_ms": 984574000,
-    "duration_ms": 6126000
+    "trailing_silence_s": 0.3,
+    "start_s": 978.4725239999999,
+    "end_s": 984.5991909999999,
+    "duration_s": 6.126667
   },
   {
     "character_identifier": "SCROOGE",
@@ -863,10 +863,10 @@
     "text": "So she had. You're right. I will not gainsay it, Spirit. God forbid!",
     "speed": 1.0,
     "audio_description": "emotional, earnest",
-    "trailing_silence_ms": 300,
-    "start_ms": 984574000,
-    "end_ms": 990100000,
-    "duration_ms": 5526000
+    "trailing_silence_s": 0.3,
+    "start_s": 984.5991909999999,
+    "end_s": 990.1258579999999,
+    "duration_s": 5.526667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -874,10 +874,10 @@
     "text": "She died a woman, and had, as I think, children.",
     "speed": 1.0,
     "audio_description": "gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 990100000,
-    "end_ms": 994386000,
-    "duration_ms": 4286000
+    "trailing_silence_s": 0.3,
+    "start_s": 990.1258579999999,
+    "end_s": 994.4125249999998,
+    "duration_s": 4.286667
   },
   {
     "character_identifier": "SCROOGE",
@@ -885,10 +885,10 @@
     "text": "One child.",
     "speed": 1.0,
     "audio_description": "quiet",
-    "trailing_silence_ms": 300,
-    "start_ms": 994386000,
-    "end_ms": 995672000,
-    "duration_ms": 1286000
+    "trailing_silence_s": 0.3,
+    "start_s": 994.4125249999998,
+    "end_s": 995.6991689999999,
+    "duration_s": 1.286644
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -896,10 +896,10 @@
     "text": "True. Your nephew!",
     "speed": 1.0,
     "audio_description": "knowing",
-    "trailing_silence_ms": 300,
-    "start_ms": 995672000,
-    "end_ms": 997998000,
-    "duration_ms": 2326000
+    "trailing_silence_s": 0.3,
+    "start_s": 995.6991689999999,
+    "end_s": 998.0258359999999,
+    "duration_s": 2.326667
   },
   {
     "character_identifier": "NARRATOR",
@@ -907,10 +907,10 @@
     "text": "Scrooge seemed uneasy in his mind; and answered briefly, \"Yes.\"",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 997998000,
-    "end_ms": 1001778000,
-    "duration_ms": 3780000
+    "trailing_silence_s": 0.3,
+    "start_s": 998.0258359999999,
+    "end_s": 1001.8058359999999,
+    "duration_s": 3.78
   },
   {
     "character_identifier": "NARRATOR",
@@ -918,10 +918,10 @@
     "text": "Although they had but that moment left the school behind them, they were now in the busy thoroughfares of a city, where shadowy passengers passed and repassed; where shadowy carts and coaches battled for the way, and all the strife and tumult of a real city were. It was made plain enough, by the dressing of the shops, that here too it was Christmas time again; but it was evening, and the streets were lighted up.",
     "speed": 1.0,
     "audio_description": "vivid",
-    "trailing_silence_ms": 300,
-    "start_ms": 1001778000,
-    "end_ms": 1027638000,
-    "duration_ms": 25860000
+    "trailing_silence_s": 0.3,
+    "start_s": 1001.8058359999999,
+    "end_s": 1027.665836,
+    "duration_s": 25.86
   },
   {
     "character_identifier": "NARRATOR",
@@ -929,10 +929,10 @@
     "text": "The Ghost stopped at a certain warehouse door, and asked Scrooge if he knew it.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 1027638000,
-    "end_ms": 1031818000,
-    "duration_ms": 4180000
+    "trailing_silence_s": 0.3,
+    "start_s": 1027.665836,
+    "end_s": 1031.846494,
+    "duration_s": 4.180658
   },
   {
     "character_identifier": "SCROOGE",
@@ -940,10 +940,10 @@
     "text": "Know it! I was apprenticed here!",
     "speed": 1.0,
     "audio_description": "amazed",
-    "trailing_silence_ms": 300,
-    "start_ms": 1031818000,
-    "end_ms": 1034264000,
-    "duration_ms": 2446000
+    "trailing_silence_s": 0.3,
+    "start_s": 1031.846494,
+    "end_s": 1034.2931609999998,
+    "duration_s": 2.446667
   },
   {
     "character_identifier": "NARRATOR",
@@ -951,10 +951,10 @@
     "text": "They went in. At sight of an old gentleman in a Welsh wig, sitting behind such a high desk, that if he had been two inches taller he must have knocked his head against the ceiling, Scrooge cried in great excitement:",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 1034264000,
-    "end_ms": 1047444000,
-    "duration_ms": 13180000
+    "trailing_silence_s": 0.3,
+    "start_s": 1034.2931609999998,
+    "end_s": 1047.473161,
+    "duration_s": 13.18
   },
   {
     "character_identifier": "SCROOGE",
@@ -962,10 +962,10 @@
     "text": "Why, it's old Fezziwig! Bless his heart; it's Fezziwig alive again!",
     "speed": 1.0,
     "audio_description": "delighted, excited",
-    "trailing_silence_ms": 600,
-    "start_ms": 1047444000,
-    "end_ms": 1052630000,
-    "duration_ms": 5186000
+    "trailing_silence_s": 0.6,
+    "start_s": 1047.473161,
+    "end_s": 1052.6598279999998,
+    "duration_s": 5.186667
   },
   {
     "character_identifier": "NARRATOR",
@@ -973,10 +973,10 @@
     "text": "Old Fezziwig laid down his pen, and looked up at the clock, which pointed to the hour of seven. He rubbed his hands; adjusted his capacious waistcoat; laughed all over himself, from his shoes to his organ of benevolence; and called out in a comfortable, oily, rich, fat, jovial voice:",
     "speed": 1.0,
     "audio_description": "warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 1052630000,
-    "end_ms": 1070010000,
-    "duration_ms": 17380000
+    "trailing_silence_s": 0.3,
+    "start_s": 1052.6598279999998,
+    "end_s": 1070.039828,
+    "duration_s": 17.38
   },
   {
     "character_identifier": "FEZZIWIG",
@@ -984,10 +984,10 @@
     "text": "Yo ho, there! Ebenezer! Dick!",
     "speed": 1.0,
     "audio_description": "jovial, booming",
-    "trailing_silence_ms": 600,
-    "start_ms": 1070010000,
-    "end_ms": 1073796000,
-    "duration_ms": 3786000
+    "trailing_silence_s": 0.6,
+    "start_s": 1070.039828,
+    "end_s": 1073.826495,
+    "duration_s": 3.786667
   },
   {
     "character_identifier": "NARRATOR",
@@ -995,10 +995,10 @@
     "text": "Scrooge's former self, now grown a young man, came briskly in, accompanied by his fellow-'prentice.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 1073796000,
-    "end_ms": 1079776000,
-    "duration_ms": 5980000
+    "trailing_silence_s": 0.3,
+    "start_s": 1073.826495,
+    "end_s": 1079.806495,
+    "duration_s": 5.98
   },
   {
     "character_identifier": "SCROOGE",
@@ -1006,10 +1006,10 @@
     "text": "Dick Wilkins, to be sure! Bless me, yes. There he is. He was very much attached to me, was Dick. Poor Dick! Dear, dear!",
     "speed": 1.0,
     "audio_description": "nostalgic, warm",
-    "trailing_silence_ms": 500,
-    "start_ms": 1079776000,
-    "end_ms": 1088622000,
-    "duration_ms": 8846000
+    "trailing_silence_s": 0.5,
+    "start_s": 1079.806495,
+    "end_s": 1088.653162,
+    "duration_s": 8.846667
   },
   {
     "character_identifier": "FEZZIWIG",
@@ -1017,10 +1017,10 @@
     "text": "Yo ho, my boys! No more work to-night. Christmas Eve, Dick. Christmas, Ebenezer! Let's have the shutters up, before a man can say Jack Robinson!",
     "speed": 1.0,
     "audio_description": "cheerful, energetic",
-    "trailing_silence_ms": 600,
-    "start_ms": 1088622000,
-    "end_ms": 1098968000,
-    "duration_ms": 10346000
+    "trailing_silence_s": 0.6,
+    "start_s": 1088.653162,
+    "end_s": 1098.999829,
+    "duration_s": 10.346667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1028,10 +1028,10 @@
     "text": "You wouldn't believe how those two fellows went at it! They charged into the street with the shutters—one, two, three—had them up in their places—four, five, six—barred them and pinned them—seven, eight, nine—and came back before you could have got to twelve, panting like race-horses.",
     "speed": 1.0,
     "audio_description": "energetic, amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 1098968000,
-    "end_ms": 1116828000,
-    "duration_ms": 17860000
+    "trailing_silence_s": 0.3,
+    "start_s": 1098.999829,
+    "end_s": 1116.859829,
+    "duration_s": 17.86
   },
   {
     "character_identifier": "FEZZIWIG",
@@ -1039,10 +1039,10 @@
     "text": "Hilli-ho! Clear away, my lads, and let's have lots of room here! Hilli-ho, Dick! Chirrup, Ebenezer!",
     "speed": 1.0,
     "audio_description": "gleeful, commanding",
-    "trailing_silence_ms": 600,
-    "start_ms": 1116828000,
-    "end_ms": 1123894000,
-    "duration_ms": 7066000
+    "trailing_silence_s": 0.6,
+    "start_s": 1116.859829,
+    "end_s": 1123.926496,
+    "duration_s": 7.066667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1050,10 +1050,10 @@
     "text": "Clear away! There was nothing they wouldn't have cleared away, or couldn't have cleared away, with old Fezziwig looking on. It was done in a minute. Every movable was packed off, as if it were dismissed from public life for evermore; the floor was swept and watered, the lamps were trimmed, fuel was heaped upon the fire; and the warehouse was as snug, and warm, and dry, and bright a ball-room as you would desire to see upon a winter's night.",
     "speed": 1.0,
     "audio_description": "delighted",
-    "trailing_silence_ms": 300,
-    "start_ms": 1123894000,
-    "end_ms": 1150354000,
-    "duration_ms": 26460000
+    "trailing_silence_s": 0.3,
+    "start_s": 1123.926496,
+    "end_s": 1150.386496,
+    "duration_s": 26.46
   },
   {
     "character_identifier": "NARRATOR",
@@ -1061,10 +1061,10 @@
     "text": "In came a fiddler with a music-book, and went up to the lofty desk, and made an orchestra of it and tuned like fifty stomach-aches. In came Mrs. Fezziwig, one vast substantial smile. In came the three Miss Fezziwigs, beaming and lovable. In came the six young followers whose hearts they broke. In came all the young men and women employed in the business. In came the housemaid, with her cousin, the baker. In came the cook, with her brother's particular friend, the milkman. In came the boy from over the way, who was suspected of not having board enough from his master; trying to hide himself behind the girl from next door but one, who was proved to have had her ears pulled by her mistress. In they all came, one after another; some shyly, some boldly, some gracefully, some awkwardly, some pushing, some pulling; in they all came, anyhow and everyhow.",
     "speed": 1.0,
     "audio_description": "joyful, rhythmic",
-    "trailing_silence_ms": 300,
-    "start_ms": 1150354000,
-    "end_ms": 1205574000,
-    "duration_ms": 55220000
+    "trailing_silence_s": 0.3,
+    "start_s": 1150.386496,
+    "end_s": 1205.606496,
+    "duration_s": 55.22
   },
   {
     "character_identifier": "NARRATOR",
@@ -1072,10 +1072,10 @@
     "text": "Away they all went, twenty couple at once; hands half round and back again the other way; down the middle and up again; round and round in various stages of affectionate grouping; old top couple always turning up in the wrong place; new top couple starting off again, as soon as they got there; all top couples at last, and not a bottom one to help them! When this result was brought about, old Fezziwig, clapping his hands to stop the dance, cried out, \"Well done!\" and the fiddler plunged his hot face into a pot of porter, especially provided for that purpose. But scorning rest, upon his reappearance, he instantly began again, though there were no dancers yet, as if the other fiddler had been carried home, exhausted, on a shutter, and he were a bran-new man resolved to beat him out of sight, or perish.",
     "speed": 1.0,
     "audio_description": "lively, breathless",
-    "trailing_silence_ms": 300,
-    "start_ms": 1205574000,
-    "end_ms": 1255114000,
-    "duration_ms": 49540000
+    "trailing_silence_s": 0.3,
+    "start_s": 1205.606496,
+    "end_s": 1255.146496,
+    "duration_s": 49.54
   },
   {
     "character_identifier": "NARRATOR",
@@ -1083,10 +1083,10 @@
     "text": "There were more dances, and there were forfeits, and more dances, and there was cake, and there was negus, and there was a great piece of Cold Roast, and there was a great piece of Cold Boiled, and there were mince-pies, and plenty of beer. But the great effect of the evening came after the Roast and Boiled, when the fiddler (an artful dog, mind! The sort of man who knew his business better than you or I could have told it him!) struck up \"Sir Roger de Coverley.\" Then old Fezziwig stood out to dance with Mrs. Fezziwig. Top couple, too; with a good stiff piece of work cut out for them; three or four and twenty pair of partners; people who were not to be trifled with; people who <i>would</i> dance, and had no notion of walking.",
     "speed": 1.0,
     "audio_description": "jovial",
-    "trailing_silence_ms": 300,
-    "start_ms": 1255114000,
-    "end_ms": 1299814000,
-    "duration_ms": 44700000
+    "trailing_silence_s": 0.3,
+    "start_s": 1255.146496,
+    "end_s": 1299.8464960000001,
+    "duration_s": 44.7
   },
   {
     "character_identifier": "NARRATOR",
@@ -1094,10 +1094,10 @@
     "text": "But if they had been twice as many—ah, four times—old Fezziwig would have been a match for them, and so would Mrs. Fezziwig. As to <i>her</i>, she was worthy to be his partner in every sense of the term. If that's not high praise, tell me higher, and I'll use it. A positive light appeared to issue from Fezziwig's calves. They shone in every part of the dance like moons. You couldn't have predicted, at any given time, what would have become of them next. And when old Fezziwig and Mrs. Fezziwig had gone all through the dance; advance and retire, both hands to your partner, bow and curtsey, corkscrew, thread-the-needle, and back again to your place; Fezziwig \"cut\"—cut so deftly, that he appeared to wink with his legs, and came upon his feet again without a stagger.",
     "speed": 1.0,
     "audio_description": "admiring, amused",
-    "trailing_silence_ms": 300,
-    "start_ms": 1299814000,
-    "end_ms": 1347674000,
-    "duration_ms": 47860000
+    "trailing_silence_s": 0.3,
+    "start_s": 1299.8464960000001,
+    "end_s": 1347.706496,
+    "duration_s": 47.86
   },
   {
     "character_identifier": "NARRATOR",
@@ -1105,10 +1105,10 @@
     "text": "When the clock struck eleven, this domestic ball broke up. Mr. and Mrs. Fezziwig took their stations, one on either side of the door, and shaking hands with every person individually as he or she went out, wished him or her a Merry Christmas. When everybody had retired but the two 'prentices, they did the same to them; and thus the cheerful voices died away, and the lads were left to their beds; which were under a counter in the back-shop.",
     "speed": 1.0,
     "audio_description": "warm, nostalgic",
-    "trailing_silence_ms": 300,
-    "start_ms": 1347674000,
-    "end_ms": 1375974000,
-    "duration_ms": 28300000
+    "trailing_silence_s": 0.3,
+    "start_s": 1347.706496,
+    "end_s": 1376.006496,
+    "duration_s": 28.3
   },
   {
     "character_identifier": "NARRATOR",
@@ -1116,10 +1116,10 @@
     "text": "During the whole of this time, Scrooge had acted like a man out of his wits. His heart and soul were in the scene, and with his former self. He corroborated everything, remembered everything, enjoyed everything, and underwent the strangest agitation. It was not until now, when the bright faces of his former self and Dick were turned from them, that he remembered the Ghost, and became conscious that it was looking full upon him, while the light upon its head burnt very clear.",
     "speed": 1.0,
     "audio_description": "reflective",
-    "trailing_silence_ms": 300,
-    "start_ms": 1375974000,
-    "end_ms": 1404794000,
-    "duration_ms": 28820000
+    "trailing_silence_s": 0.3,
+    "start_s": 1376.006496,
+    "end_s": 1404.826496,
+    "duration_s": 28.82
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1127,10 +1127,10 @@
     "text": "A small matter, to make these silly folks so full of gratitude.",
     "speed": 1.0,
     "audio_description": "testing, mild",
-    "trailing_silence_ms": 400,
-    "start_ms": 1404794000,
-    "end_ms": 1409220000,
-    "duration_ms": 4426000
+    "trailing_silence_s": 0.4,
+    "start_s": 1404.826496,
+    "end_s": 1409.2531629999999,
+    "duration_s": 4.426667
   },
   {
     "character_identifier": "SCROOGE",
@@ -1138,10 +1138,10 @@
     "text": "Small!",
     "speed": 1.0,
     "audio_description": "defensive",
-    "trailing_silence_ms": 500,
-    "start_ms": 1409220000,
-    "end_ms": 1410506000,
-    "duration_ms": 1286000
+    "trailing_silence_s": 0.5,
+    "start_s": 1409.2531629999999,
+    "end_s": 1410.5397839999998,
+    "duration_s": 1.286621
   },
   {
     "character_identifier": "NARRATOR",
@@ -1149,10 +1149,10 @@
     "text": "The Spirit signed to him to listen to the two apprentices, who were pouring out their hearts in praise of Fezziwig: and when he had done so, said,",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 1410506000,
-    "end_ms": 1419126000,
-    "duration_ms": 8620000
+    "trailing_silence_s": 0.3,
+    "start_s": 1410.5397839999998,
+    "end_s": 1419.1597839999997,
+    "duration_s": 8.62
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1160,10 +1160,10 @@
     "text": "Why! Is it not? He has spent but a few pounds of your mortal money: three or four perhaps. Is that so much that he deserves this praise?",
     "speed": 1.0,
     "audio_description": "probing",
-    "trailing_silence_ms": 500,
-    "start_ms": 1419126000,
-    "end_ms": 1428372000,
-    "duration_ms": 9246000
+    "trailing_silence_s": 0.5,
+    "start_s": 1419.1597839999997,
+    "end_s": 1428.4064509999996,
+    "duration_s": 9.246667
   },
   {
     "character_identifier": "SCROOGE",
@@ -1171,10 +1171,10 @@
     "text": "It isn't that. It isn't that, Spirit. He has the power to render us happy or unhappy; to make our service light or burdensome; a pleasure or a toil. Say that his power lies in words and looks; in things so slight and insignificant that it is impossible to add and count 'em up: what then? The happiness he gives, is quite as great as if it cost a fortune.",
     "speed": 1.0,
     "audio_description": "heated, passionate",
-    "trailing_silence_ms": 700,
-    "start_ms": 1428372000,
-    "end_ms": 1451845000,
-    "duration_ms": 23473000
+    "trailing_silence_s": 0.7,
+    "start_s": 1428.4064509999996,
+    "end_s": 1451.8797839999995,
+    "duration_s": 23.473333
   },
   {
     "character_identifier": "NARRATOR",
@@ -1182,10 +1182,10 @@
     "text": "He felt the Spirit's glance, and stopped.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 1451845000,
-    "end_ms": 1454945000,
-    "duration_ms": 3100000
+    "trailing_silence_s": 0.3,
+    "start_s": 1451.8797839999995,
+    "end_s": 1454.9797839999994,
+    "duration_s": 3.1
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1193,10 +1193,10 @@
     "text": "What is the matter?",
     "speed": 1.0,
     "audio_description": "knowing",
-    "trailing_silence_ms": 300,
-    "start_ms": 1454945000,
-    "end_ms": 1456431000,
-    "duration_ms": 1486000
+    "trailing_silence_s": 0.3,
+    "start_s": 1454.9797839999994,
+    "end_s": 1456.4664509999993,
+    "duration_s": 1.486667
   },
   {
     "character_identifier": "SCROOGE",
@@ -1204,10 +1204,10 @@
     "text": "Nothing particular.",
     "speed": 1.0,
     "audio_description": "evasive",
-    "trailing_silence_ms": 300,
-    "start_ms": 1456431000,
-    "end_ms": 1457917000,
-    "duration_ms": 1486000
+    "trailing_silence_s": 0.3,
+    "start_s": 1456.4664509999993,
+    "end_s": 1457.9531179999992,
+    "duration_s": 1.486667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1215,10 +1215,10 @@
     "text": "Something, I think?",
     "speed": 1.0,
     "audio_description": "insistent, gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 1457917000,
-    "end_ms": 1459803000,
-    "duration_ms": 1886000
+    "trailing_silence_s": 0.3,
+    "start_s": 1457.9531179999992,
+    "end_s": 1459.8397849999992,
+    "duration_s": 1.886667
   },
   {
     "character_identifier": "SCROOGE",
@@ -1226,10 +1226,10 @@
     "text": "No. No. I should like to be able to say a word or two to my clerk just now. That's all.",
     "speed": 1.0,
     "audio_description": "regretful, quiet",
-    "trailing_silence_ms": 800,
-    "start_ms": 1459803000,
-    "end_ms": 1468229000,
-    "duration_ms": 8426000
+    "trailing_silence_s": 0.8,
+    "start_s": 1459.8397849999992,
+    "end_s": 1468.2664519999992,
+    "duration_s": 8.426667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1237,10 +1237,10 @@
     "text": "His former self turned down the lamps as he gave utterance to the wish; and Scrooge and the Ghost again stood side by side in the open air.",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 1468229000,
-    "end_ms": 1476889000,
-    "duration_ms": 8660000
+    "trailing_silence_s": 0.3,
+    "start_s": 1468.2664519999992,
+    "end_s": 1476.9264519999992,
+    "duration_s": 8.66
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1248,10 +1248,10 @@
     "text": "My time grows short. Quick!",
     "speed": 1.0,
     "audio_description": "urgent",
-    "trailing_silence_ms": 400,
-    "start_ms": 1476889000,
-    "end_ms": 1479715000,
-    "duration_ms": 2826000
+    "trailing_silence_s": 0.4,
+    "start_s": 1476.9264519999992,
+    "end_s": 1479.7531189999993,
+    "duration_s": 2.826667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1259,10 +1259,10 @@
     "text": "This was not addressed to Scrooge, or to any one whom he could see, but it produced an immediate effect. For again Scrooge saw himself. He was older now; a man in the prime of life. His face had not the harsh and rigid lines of later years; but it had begun to wear the signs of care and avarice. There was an eager, greedy, restless motion in the eye, which showed the passion that had taken root, and where the shadow of the growing tree would fall.",
     "speed": 1.0,
     "audio_description": "ominous",
-    "trailing_silence_ms": 300,
-    "start_ms": 1479715000,
-    "end_ms": 1507575000,
-    "duration_ms": 27860000
+    "trailing_silence_s": 0.3,
+    "start_s": 1479.7531189999993,
+    "end_s": 1507.6131189999992,
+    "duration_s": 27.86
   },
   {
     "character_identifier": "NARRATOR",
@@ -1270,10 +1270,10 @@
     "text": "He was not alone, but sat by the side of a fair young girl in a mourning-dress: in whose eyes there were tears, which sparkled in the light that shone out of the Ghost of Christmas Past.",
     "speed": 1.0,
     "audio_description": "sorrowful",
-    "trailing_silence_ms": 300,
-    "start_ms": 1507575000,
-    "end_ms": 1518835000,
-    "duration_ms": 11260000
+    "trailing_silence_s": 0.3,
+    "start_s": 1507.6131189999992,
+    "end_s": 1518.8731189999992,
+    "duration_s": 11.26
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1281,10 +1281,10 @@
     "text": "It matters little. To you, very little. Another idol has displaced me; and if it can cheer and comfort you in time to come, as I would have tried to do, I have no just cause to grieve.",
     "speed": 1.0,
     "audio_description": "soft, resigned",
-    "trailing_silence_ms": 500,
-    "start_ms": 1518835000,
-    "end_ms": 1531961000,
-    "duration_ms": 13126000
+    "trailing_silence_s": 0.5,
+    "start_s": 1518.8731189999992,
+    "end_s": 1531.9997859999992,
+    "duration_s": 13.126667
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1292,10 +1292,10 @@
     "text": "What Idol has displaced you?",
     "speed": 1.0,
     "audio_description": "defensive",
-    "trailing_silence_ms": 300,
-    "start_ms": 1531961000,
-    "end_ms": 1534367000,
-    "duration_ms": 2406000
+    "trailing_silence_s": 0.3,
+    "start_s": 1531.9997859999992,
+    "end_s": 1534.4064529999991,
+    "duration_s": 2.406667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1303,10 +1303,10 @@
     "text": "A golden one.",
     "speed": 1.0,
     "audio_description": "gentle, firm",
-    "trailing_silence_ms": 600,
-    "start_ms": 1534367000,
-    "end_ms": 1535993000,
-    "duration_ms": 1626000
+    "trailing_silence_s": 0.6,
+    "start_s": 1534.4064529999991,
+    "end_s": 1536.0331199999991,
+    "duration_s": 1.626667
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1314,10 +1314,10 @@
     "text": "This is the even-handed dealing of the world! There is nothing on which it is so hard as poverty; and there is nothing it professes to condemn with such severity as the pursuit of wealth!",
     "speed": 1.0,
     "audio_description": "bitter, defensive",
-    "trailing_silence_ms": 500,
-    "start_ms": 1535993000,
-    "end_ms": 1545559000,
-    "duration_ms": 9566000
+    "trailing_silence_s": 0.5,
+    "start_s": 1536.0331199999991,
+    "end_s": 1545.5997869999992,
+    "duration_s": 9.566667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1325,10 +1325,10 @@
     "text": "You fear the world too much. All your other hopes have merged into the hope of being beyond the chance of its sordid reproach. I have seen your nobler aspirations fall off one by one, until the master-passion, Gain, engrosses you. Have I not?",
     "speed": 1.0,
     "audio_description": "gentle, sad",
-    "trailing_silence_ms": 500,
-    "start_ms": 1545559000,
-    "end_ms": 1562565000,
-    "duration_ms": 17006000
+    "trailing_silence_s": 0.5,
+    "start_s": 1545.5997869999992,
+    "end_s": 1562.6065669999991,
+    "duration_s": 17.00678
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1336,10 +1336,10 @@
     "text": "What then? Even if I have grown so much wiser, what then? I am not changed towards you.",
     "speed": 1.0,
     "audio_description": "retorting, sharp",
-    "trailing_silence_ms": 400,
-    "start_ms": 1562565000,
-    "end_ms": 1568631000,
-    "duration_ms": 6066000
+    "trailing_silence_s": 0.4,
+    "start_s": 1562.6065669999991,
+    "end_s": 1568.6732339999992,
+    "duration_s": 6.066667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1347,10 +1347,10 @@
     "text": "She shook her head.",
     "speed": 1.0,
     "audio_description": "soft",
-    "trailing_silence_ms": 500,
-    "start_ms": 1568631000,
-    "end_ms": 1570051000,
-    "duration_ms": 1420000
+    "trailing_silence_s": 0.5,
+    "start_s": 1568.6732339999992,
+    "end_s": 1570.0932339999993,
+    "duration_s": 1.42
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1358,10 +1358,10 @@
     "text": "Am I?",
     "speed": 1.0,
     "audio_description": "challenging",
-    "trailing_silence_ms": 200,
-    "start_ms": 1570051000,
-    "end_ms": 1571237000,
-    "duration_ms": 1186000
+    "trailing_silence_s": 0.2,
+    "start_s": 1570.0932339999993,
+    "end_s": 1571.2799009999992,
+    "duration_s": 1.186667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1369,10 +1369,10 @@
     "text": "Our contract is an old one. It was made when we were both poor and content to be so, until, in good season, we could improve our worldly fortune by our patient industry. You <i>are</i> changed. When it was made, you were another man.",
     "speed": 1.0,
     "audio_description": "steady, resolute",
-    "trailing_silence_ms": 500,
-    "start_ms": 1571237000,
-    "end_ms": 1585763000,
-    "duration_ms": 14526000
+    "trailing_silence_s": 0.5,
+    "start_s": 1571.2799009999992,
+    "end_s": 1585.8065679999993,
+    "duration_s": 14.526667
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1380,10 +1380,10 @@
     "text": "I was a boy.",
     "speed": 1.0,
     "audio_description": "impatient, dismissive",
-    "trailing_silence_ms": 400,
-    "start_ms": 1585763000,
-    "end_ms": 1587629000,
-    "duration_ms": 1866000
+    "trailing_silence_s": 0.4,
+    "start_s": 1585.8065679999993,
+    "end_s": 1587.6732349999993,
+    "duration_s": 1.866667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1391,10 +1391,10 @@
     "text": "Your own feeling tells you that you were not what you are. I am. That which promised happiness when we were one in heart, is fraught with misery now that we are two. How often and how keenly I have thought of this, I will not say. It is enough that I <i>have</i> thought of it, and can release you.",
     "speed": 1.0,
     "audio_description": "gentle, final",
-    "trailing_silence_ms": 500,
-    "start_ms": 1587629000,
-    "end_ms": 1607982000,
-    "duration_ms": 20353000
+    "trailing_silence_s": 0.5,
+    "start_s": 1587.6732349999993,
+    "end_s": 1608.0265679999993,
+    "duration_s": 20.353333
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1402,10 +1402,10 @@
     "text": "Have I ever sought release?",
     "speed": 1.0,
     "audio_description": "defensive",
-    "trailing_silence_ms": 300,
-    "start_ms": 1607982000,
-    "end_ms": 1609788000,
-    "duration_ms": 1806000
+    "trailing_silence_s": 0.3,
+    "start_s": 1608.0265679999993,
+    "end_s": 1609.8332349999994,
+    "duration_s": 1.806667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1413,10 +1413,10 @@
     "text": "In words. No. Never.",
     "speed": 1.0,
     "audio_description": "measured",
-    "trailing_silence_ms": 300,
-    "start_ms": 1609788000,
-    "end_ms": 1612754000,
-    "duration_ms": 2966000
+    "trailing_silence_s": 0.3,
+    "start_s": 1609.8332349999994,
+    "end_s": 1612.7999019999993,
+    "duration_s": 2.966667
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1424,10 +1424,10 @@
     "text": "In what, then?",
     "speed": 1.0,
     "audio_description": "sharp",
-    "trailing_silence_ms": 400,
-    "start_ms": 1612754000,
-    "end_ms": 1614460000,
-    "duration_ms": 1706000
+    "trailing_silence_s": 0.4,
+    "start_s": 1612.7999019999993,
+    "end_s": 1614.5065689999992,
+    "duration_s": 1.706667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1435,10 +1435,10 @@
     "text": "In a changed nature; in an altered spirit; in another atmosphere of life; another Hope as its great end. In everything that made my love of any worth or value in your sight. If this had never been between us, tell me, would you seek me out and try to win me now? Ah, no!",
     "speed": 1.0,
     "audio_description": "steady, knowing",
-    "trailing_silence_ms": 600,
-    "start_ms": 1614460000,
-    "end_ms": 1634233000,
-    "duration_ms": 19773000
+    "trailing_silence_s": 0.6,
+    "start_s": 1614.5065689999992,
+    "end_s": 1634.2799019999993,
+    "duration_s": 19.773333
   },
   {
     "character_identifier": "NARRATOR",
@@ -1446,10 +1446,10 @@
     "text": "He seemed to yield to the justice of this supposition, in spite of himself. But he said with a struggle,",
     "speed": 1.0,
     "audio_description": "narrative",
-    "trailing_silence_ms": 300,
-    "start_ms": 1634233000,
-    "end_ms": 1640413000,
-    "duration_ms": 6180000
+    "trailing_silence_s": 0.3,
+    "start_s": 1634.2799019999993,
+    "end_s": 1640.4599019999994,
+    "duration_s": 6.18
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -1457,10 +1457,10 @@
     "text": "You think not.",
     "speed": 1.0,
     "audio_description": "struggling, weak",
-    "trailing_silence_ms": 300,
-    "start_ms": 1640413000,
-    "end_ms": 1642339000,
-    "duration_ms": 1926000
+    "trailing_silence_s": 0.3,
+    "start_s": 1640.4599019999994,
+    "end_s": 1642.3864549999994,
+    "duration_s": 1.926553
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1468,10 +1468,10 @@
     "text": "I would gladly think otherwise if I could, Heaven knows! When <i>I</i> have learned a Truth like this, I know how strong and irresistible it must be. But if you were free to-day, to-morrow, yesterday, can even I believe that you would choose a dowerless girl—you who, in your very confidence with her, weigh everything by Gain: or, choosing her, if for a moment you were false enough to your one guiding principle to do so, do I not know that your repentance and regret would surely follow? I do; and I release you. With a full heart, for the love of him you once were.",
     "speed": 1.0,
     "audio_description": "sorrowful, dignified",
-    "trailing_silence_ms": 800,
-    "start_ms": 1642339000,
-    "end_ms": 1680538000,
-    "duration_ms": 38199000
+    "trailing_silence_s": 0.8,
+    "start_s": 1642.3864549999994,
+    "end_s": 1680.5863869999994,
+    "duration_s": 38.199932
   },
   {
     "character_identifier": "NARRATOR",
@@ -1479,10 +1479,10 @@
     "text": "He was about to speak; but with her head turned from him, she resumed.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 1680538000,
-    "end_ms": 1684878000,
-    "duration_ms": 4340000
+    "trailing_silence_s": 0.3,
+    "start_s": 1680.5863869999994,
+    "end_s": 1684.9263869999993,
+    "duration_s": 4.34
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1490,10 +1490,10 @@
     "text": "You may—the memory of what is past half makes me hope you will—have pain in this. A very, very brief time, and you will dismiss the recollection of it, gladly, as an unprofitable dream, from which it happened well that you awoke. May you be happy in the life you have chosen!",
     "speed": 1.0,
     "audio_description": "final, bittersweet",
-    "trailing_silence_ms": 800,
-    "start_ms": 1684878000,
-    "end_ms": 1702971000,
-    "duration_ms": 18093000
+    "trailing_silence_s": 0.8,
+    "start_s": 1684.9263869999993,
+    "end_s": 1703.0197199999993,
+    "duration_s": 18.093333
   },
   {
     "character_identifier": "NARRATOR",
@@ -1501,10 +1501,10 @@
     "text": "She left him, and they parted.",
     "speed": 1.0,
     "audio_description": "heavy",
-    "trailing_silence_ms": 300,
-    "start_ms": 1702971000,
-    "end_ms": 1705191000,
-    "duration_ms": 2220000
+    "trailing_silence_s": 0.3,
+    "start_s": 1703.0197199999993,
+    "end_s": 1705.2397199999994,
+    "duration_s": 2.22
   },
   {
     "character_identifier": "SCROOGE",
@@ -1512,10 +1512,10 @@
     "text": "Spirit! show me no more! Conduct me home. Why do you delight to torture me?",
     "speed": 1.0,
     "audio_description": "anguished, pleading",
-    "trailing_silence_ms": 500,
-    "start_ms": 1705191000,
-    "end_ms": 1711037000,
-    "duration_ms": 5846000
+    "trailing_silence_s": 0.5,
+    "start_s": 1705.2397199999994,
+    "end_s": 1711.0863869999994,
+    "duration_s": 5.846667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1523,10 +1523,10 @@
     "text": "One shadow more!",
     "speed": 1.0,
     "audio_description": "firm",
-    "trailing_silence_ms": 400,
-    "start_ms": 1711037000,
-    "end_ms": 1713023000,
-    "duration_ms": 1986000
+    "trailing_silence_s": 0.4,
+    "start_s": 1711.0863869999994,
+    "end_s": 1713.0730539999993,
+    "duration_s": 1.986667
   },
   {
     "character_identifier": "SCROOGE",
@@ -1534,10 +1534,10 @@
     "text": "No more! No more. I don't wish to see it. Show me no more!",
     "speed": 1.0,
     "audio_description": "desperate, broken",
-    "trailing_silence_ms": 600,
-    "start_ms": 1713023000,
-    "end_ms": 1718129000,
-    "duration_ms": 5106000
+    "trailing_silence_s": 0.6,
+    "start_s": 1713.0730539999993,
+    "end_s": 1718.1797209999993,
+    "duration_s": 5.106667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1545,10 +1545,10 @@
     "text": "But the relentless Ghost pinioned him in both his arms, and forced him to observe what happened next.",
     "speed": 1.0,
     "audio_description": "firm",
-    "trailing_silence_ms": 300,
-    "start_ms": 1718129000,
-    "end_ms": 1724429000,
-    "duration_ms": 6300000
+    "trailing_silence_s": 0.3,
+    "start_s": 1718.1797209999993,
+    "end_s": 1724.4797209999992,
+    "duration_s": 6.3
   },
   {
     "character_identifier": "NARRATOR",
@@ -1556,10 +1556,10 @@
     "text": "They were in another scene and place; a room, not very large or handsome, but full of comfort. Near to the winter fire sat a beautiful young girl, so like that last that Scrooge believed it was the same, until he saw <i>her</i>, now a comely matron, sitting opposite her daughter. The noise in this room was perfectly tumultuous, for there were more children there, than Scrooge in his agitated state of mind could count; and, unlike the celebrated herd in the poem, they were not forty children conducting themselves like one, but every child was conducting itself like forty.",
     "speed": 1.0,
     "audio_description": "lively, warm",
-    "trailing_silence_ms": 300,
-    "start_ms": 1724429000,
-    "end_ms": 1758889000,
-    "duration_ms": 34460000
+    "trailing_silence_s": 0.3,
+    "start_s": 1724.4797209999992,
+    "end_s": 1758.9397209999993,
+    "duration_s": 34.46
   },
   {
     "character_identifier": "NARRATOR",
@@ -1567,10 +1567,10 @@
     "text": "The consequences were uproarious beyond belief; but no one seemed to care; on the contrary, the mother and daughter laughed heartily, and enjoyed it very much; and the latter, soon beginning to mingle in the sports, got pillaged by the young brigands most ruthlessly. What would I not have given to be one of them! Though I never could have been so rude, no, no! I wouldn't for the wealth of all the world have crushed that braided hair, and torn it down; and for the precious little shoe, I wouldn't have plucked it off, God bless my soul! to save my life. As to measuring her waist in sport, as they did, bold young brood, I couldn't have done it; I should have expected my arm to have grown round it for a punishment, and never come straight again. And yet I should have dearly liked, I own, to have touched her lips; to have questioned her, that she might have opened them; to have looked upon the lashes of her downcast eyes, and never raised a blush; to have let loose waves of hair, an inch of which would be a keepsake beyond price: in short, I should have liked, I do confess, to have had the lightest licence of a child, and yet to have been man enough to know its value.",
     "speed": 1.0,
     "audio_description": "wistful, longing",
-    "trailing_silence_ms": 300,
-    "start_ms": 1758889000,
-    "end_ms": 1828829000,
-    "duration_ms": 69940000
+    "trailing_silence_s": 0.3,
+    "start_s": 1758.9397209999993,
+    "end_s": 1828.8797209999993,
+    "duration_s": 69.94
   },
   {
     "character_identifier": "NARRATOR",
@@ -1578,10 +1578,10 @@
     "text": "But now a knocking at the door was heard, and such a rush immediately ensued that she with laughing face and plundered dress was borne towards it the centre of a flushed and boisterous group, just in time to greet the father, who came home attended by a man laden with Christmas toys and presents. Then the shouting and the struggling, and the onslaught that was made on the defenceless porter! The scaling him with chairs for ladders to dive into his pockets, despoil him of brown-paper parcels, hold on tight by his cravat, hug him round his neck, pommel his back, and kick his legs in irrepressible affection! The shouts of wonder and delight with which the development of every package was received! The terrible announcement that the baby had been taken in the act of putting a doll's frying-pan into his mouth, and was more than suspected of having swallowed a fictitious turkey, glued on a wooden platter! The immense relief of finding this a false alarm! The joy, and gratitude, and ecstasy! They are all indescribable alike.",
     "speed": 1.0,
     "audio_description": "joyful, breathless",
-    "trailing_silence_ms": 300,
-    "start_ms": 1828829000,
-    "end_ms": 1890409000,
-    "duration_ms": 61580000
+    "trailing_silence_s": 0.3,
+    "start_s": 1828.8797209999993,
+    "end_s": 1890.4597209999993,
+    "duration_s": 61.58
   },
   {
     "character_identifier": "NARRATOR",
@@ -1589,10 +1589,10 @@
     "text": "It is enough that by degrees the children and their emotions got out of the parlour, and by one stair at a time, up to the top of the house; where they went to bed, and so subsided.",
     "speed": 1.0,
     "audio_description": "gentle",
-    "trailing_silence_ms": 300,
-    "start_ms": 1890409000,
-    "end_ms": 1901589000,
-    "duration_ms": 11180000
+    "trailing_silence_s": 0.3,
+    "start_s": 1890.4597209999993,
+    "end_s": 1901.6397209999993,
+    "duration_s": 11.18
   },
   {
     "character_identifier": "NARRATOR",
@@ -1600,10 +1600,10 @@
     "text": "And now Scrooge looked on more attentively than ever, when the master of the house, having his daughter leaning fondly on him, sat down with her and her mother at his own fireside; and when he thought that such another creature, quite as graceful and as full of promise, might have called him father, and been a spring-time in the haggard winter of his life, his sight grew very dim indeed.",
     "speed": 1.0,
     "audio_description": "melancholy",
-    "trailing_silence_ms": 300,
-    "start_ms": 1901589000,
-    "end_ms": 1925489000,
-    "duration_ms": 23900000
+    "trailing_silence_s": 0.3,
+    "start_s": 1901.6397209999993,
+    "end_s": 1925.5397209999994,
+    "duration_s": 23.9
   },
   {
     "character_identifier": "BELLE_HUSBAND",
@@ -1611,10 +1611,10 @@
     "text": "Belle, I saw an old friend of yours this afternoon.",
     "speed": 1.0,
     "audio_description": "conversational",
-    "trailing_silence_ms": 300,
-    "start_ms": 1925489000,
-    "end_ms": 1929055000,
-    "duration_ms": 3566000
+    "trailing_silence_s": 0.3,
+    "start_s": 1925.5397209999994,
+    "end_s": 1929.1063879999995,
+    "duration_s": 3.566667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1622,10 +1622,10 @@
     "text": "Who was it?",
     "speed": 1.0,
     "audio_description": "curious",
-    "trailing_silence_ms": 200,
-    "start_ms": 1929055000,
-    "end_ms": 1930201000,
-    "duration_ms": 1146000
+    "trailing_silence_s": 0.2,
+    "start_s": 1929.1063879999995,
+    "end_s": 1930.2530549999994,
+    "duration_s": 1.146667
   },
   {
     "character_identifier": "BELLE_HUSBAND",
@@ -1633,10 +1633,10 @@
     "text": "Guess!",
     "speed": 1.0,
     "audio_description": "playful",
-    "trailing_silence_ms": 200,
-    "start_ms": 1930201000,
-    "end_ms": 1931607000,
-    "duration_ms": 1406000
+    "trailing_silence_s": 0.2,
+    "start_s": 1930.2530549999994,
+    "end_s": 1931.6597219999994,
+    "duration_s": 1.406667
   },
   {
     "character_identifier": "BELLE_YOUNG",
@@ -1644,10 +1644,10 @@
     "text": "How can I? Tut, don't I know? Mr. Scrooge.",
     "speed": 1.0,
     "audio_description": "laughing, knowing",
-    "trailing_silence_ms": 200,
-    "start_ms": 1931607000,
-    "end_ms": 1937673000,
-    "duration_ms": 6066000
+    "trailing_silence_s": 0.2,
+    "start_s": 1931.6597219999994,
+    "end_s": 1937.7263889999995,
+    "duration_s": 6.066667
   },
   {
     "character_identifier": "BELLE_HUSBAND",
@@ -1655,10 +1655,10 @@
     "text": "Mr. Scrooge it was. I passed his office window; and as it was not shut up, and he had a candle inside, I could scarcely help seeing him. His partner lies upon the point of death, I hear; and there he sat alone. Quite alone in the world, I do believe.",
     "speed": 1.0,
     "audio_description": "somber, pitying",
-    "trailing_silence_ms": 300,
-    "start_ms": 1937673000,
-    "end_ms": 1954066000,
-    "duration_ms": 16393000
+    "trailing_silence_s": 0.3,
+    "start_s": 1937.7263889999995,
+    "end_s": 1954.1197219999995,
+    "duration_s": 16.393333
   },
   {
     "character_identifier": "SCROOGE",
@@ -1666,10 +1666,10 @@
     "text": "Spirit! remove me from this place.",
     "speed": 1.0,
     "audio_description": "broken, desperate",
-    "trailing_silence_ms": 500,
-    "start_ms": 1954066000,
-    "end_ms": 1957432000,
-    "duration_ms": 3366000
+    "trailing_silence_s": 0.5,
+    "start_s": 1954.1197219999995,
+    "end_s": 1957.4863889999995,
+    "duration_s": 3.366667
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
@@ -1677,10 +1677,10 @@
     "text": "I told you these were shadows of the things that have been. That they are what they are, do not blame me!",
     "speed": 1.0,
     "audio_description": "firm, unyielding",
-    "trailing_silence_ms": 500,
-    "start_ms": 1957432000,
-    "end_ms": 1963598000,
-    "duration_ms": 6166000
+    "trailing_silence_s": 0.5,
+    "start_s": 1957.4863889999995,
+    "end_s": 1963.6530559999994,
+    "duration_s": 6.166667
   },
   {
     "character_identifier": "SCROOGE",
@@ -1688,10 +1688,10 @@
     "text": "Remove me! I cannot bear it!",
     "speed": 1.0,
     "audio_description": "anguished",
-    "trailing_silence_ms": 600,
-    "start_ms": 1963598000,
-    "end_ms": 1966504000,
-    "duration_ms": 2906000
+    "trailing_silence_s": 0.6,
+    "start_s": 1963.6530559999994,
+    "end_s": 1966.5597229999994,
+    "duration_s": 2.906667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1699,10 +1699,10 @@
     "text": "He turned upon the Ghost, and seeing that it looked upon him with a face, in which in some strange way there were fragments of all the faces it had shown him, wrestled with it.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 1966504000,
-    "end_ms": 1977244000,
-    "duration_ms": 10740000
+    "trailing_silence_s": 0.3,
+    "start_s": 1966.5597229999994,
+    "end_s": 1977.2997229999994,
+    "duration_s": 10.74
   },
   {
     "character_identifier": "SCROOGE",
@@ -1710,10 +1710,10 @@
     "text": "Leave me! Take me back. Haunt me no longer!",
     "speed": 1.0,
     "audio_description": "desperate, struggling",
-    "trailing_silence_ms": 700,
-    "start_ms": 1977244000,
-    "end_ms": 1981090000,
-    "duration_ms": 3846000
+    "trailing_silence_s": 0.7,
+    "start_s": 1977.2997229999994,
+    "end_s": 1981.1462989999993,
+    "duration_s": 3.846576
   },
   {
     "character_identifier": "NARRATOR",
@@ -1721,10 +1721,10 @@
     "text": "In the struggle, if that can be called a struggle in which the Ghost with no visible resistance on its own part was undisturbed by any effort of its adversary, Scrooge observed that its light was burning high and bright; and dimly connecting that with its influence over him, he seized the extinguisher-cap, and by a sudden action pressed it down upon its head.",
     "speed": 1.0,
     "audio_description": "dramatic",
-    "trailing_silence_ms": 300,
-    "start_ms": 1981090000,
-    "end_ms": 2002510000,
-    "duration_ms": 21420000
+    "trailing_silence_s": 0.3,
+    "start_s": 1981.1462989999993,
+    "end_s": 2002.5662989999994,
+    "duration_s": 21.42
   },
   {
     "character_identifier": "NARRATOR",
@@ -1732,10 +1732,10 @@
     "text": "The Spirit dropped beneath it, so that the extinguisher covered its whole form; but though Scrooge pressed it down with all his force, he could not hide the light: which streamed from under it, in an unbroken flood upon the ground.",
     "speed": 1.0,
     "audio_description": "tense",
-    "trailing_silence_ms": 300,
-    "start_ms": 2002510000,
-    "end_ms": 2016850000,
-    "duration_ms": 14340000
+    "trailing_silence_s": 0.3,
+    "start_s": 2002.5662989999994,
+    "end_s": 2016.9062989999993,
+    "duration_s": 14.34
   },
   {
     "character_identifier": "NARRATOR",
@@ -1743,9 +1743,9 @@
     "text": "He was conscious of being exhausted, and overcome by an irresistible drowsiness; and, further, of being in his own bedroom. He gave the cap a parting squeeze, in which his hand relaxed; and had barely time to reel to bed, before he sank into a heavy sleep.",
     "speed": 1.0,
     "audio_description": "exhausted, fading",
-    "trailing_silence_ms": 300,
-    "start_ms": 2016850000,
-    "end_ms": 2033190000,
-    "duration_ms": 16340000
+    "trailing_silence_s": 0.3,
+    "start_s": 2016.9062989999993,
+    "end_s": 2033.2462989999992,
+    "duration_s": 16.34
   }
 ]

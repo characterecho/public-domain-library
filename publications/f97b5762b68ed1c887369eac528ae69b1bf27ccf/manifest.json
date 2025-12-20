@@ -5,7 +5,7 @@
   "epub_source": "http://www.gutenberg.org/46",
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
-  "total_duration_ms": 9410318000,
+  "total_duration_s": 9410.582865999999,
   "characters": [
     {
       "identifier": "NARRATOR",
@@ -1253,7 +1253,7 @@
       "metadata": {},
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/segment_0.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio.mp3",
-      "duration_ms": 9340000
+      "duration_s": 9.34
     },
     {
       "ordinal": 1,
@@ -1283,7 +1283,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio.mp3",
-      "duration_ms": 2196673000
+      "duration_s": 2196.7401950000003
     },
     {
       "ordinal": 2,
@@ -1314,7 +1314,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/audio.mp3",
-      "duration_ms": 2033190000
+      "duration_s": 2033.2462989999992
     },
     {
       "ordinal": 3,
@@ -1336,7 +1336,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/audio.mp3",
-      "duration_ms": 2801501000
+      "duration_s": 2801.5547789999996
     },
     {
       "ordinal": 4,
@@ -1358,7 +1358,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio.mp3",
-      "duration_ms": 1623851000
+      "duration_s": 1623.907866
     },
     {
       "ordinal": 5,
@@ -1382,7 +1382,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio.mp3",
-      "duration_ms": 745763000
+      "duration_s": 745.7937269999999
     }
   ]
 }
