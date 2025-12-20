@@ -33,7 +33,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 439
+      "dialogue_count": 439,
+      "image_key": null,
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NARRATOR.mp3"
     },
     {
       "identifier": "SCROOGE",
@@ -121,7 +123,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 148
+      "dialogue_count": 148,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCROOGE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCROOGE.mp3"
     },
     {
       "identifier": "MARLEY_GHOST",
@@ -158,7 +162,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 27
+      "dialogue_count": 27,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARLEY_GHOST.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARLEY_GHOST.mp3"
     },
     {
       "identifier": "GHOST_CHRISTMAS_PRESENT",
@@ -208,7 +214,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 26
+      "dialogue_count": 26,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PRESENT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PRESENT.mp3"
     },
     {
       "identifier": "NEPHEW",
@@ -261,7 +269,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 25
+      "dialogue_count": 25,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NEPHEW.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NEPHEW.mp3"
     },
     {
       "identifier": "GHOST_CHRISTMAS_PAST",
@@ -298,7 +308,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 24
+      "dialogue_count": 24,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PAST.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PAST.mp3"
     },
     {
       "identifier": "CLERK",
@@ -354,7 +366,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 20
+      "dialogue_count": 20,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CLERK.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CLERK.mp3"
     },
     {
       "identifier": "MRS_CRATCHIT",
@@ -398,7 +412,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 16
+      "dialogue_count": 16,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_CRATCHIT.mp3"
     },
     {
       "identifier": "CHARWOMAN",
@@ -431,7 +447,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 14
+      "dialogue_count": 14,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.mp3"
     },
     {
       "identifier": "BELLE_YOUNG",
@@ -459,7 +477,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 11
+      "dialogue_count": 11,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.mp3"
     },
     {
       "identifier": "GENTLEMAN_1",
@@ -489,7 +509,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 11
+      "dialogue_count": 11,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.mp3"
     },
     {
       "identifier": "OLD_JOE",
@@ -520,7 +542,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 9
+      "dialogue_count": 9,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.mp3"
     },
     {
       "identifier": "CAROLER",
@@ -545,7 +569,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 8
+      "dialogue_count": 8,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.mp3"
     },
     {
       "identifier": "YOUNG_SCROOGE_APPRENTICE",
@@ -573,7 +599,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 8
+      "dialogue_count": 8,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.mp3"
     },
     {
       "identifier": "FAT_BUSINESSMAN",
@@ -605,7 +633,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 6
+      "dialogue_count": 6,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.mp3"
     },
     {
       "identifier": "NIECE",
@@ -646,7 +676,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 6
+      "dialogue_count": 6,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.mp3"
     },
     {
       "identifier": "PETER_CRATCHIT",
@@ -682,7 +714,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 5
+      "dialogue_count": 5,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.mp3"
     },
     {
       "identifier": "CAROLINE_HUSBAND",
@@ -715,7 +749,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 5
+      "dialogue_count": 5,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.mp3"
     },
     {
       "identifier": "MARTHA_CRATCHIT",
@@ -740,7 +776,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.mp3"
     },
     {
       "identifier": "MRS_DILBER",
@@ -767,7 +805,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.mp3"
     },
     {
       "identifier": "CAROLINE",
@@ -798,7 +838,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 4
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.mp3"
     },
     {
       "identifier": "GENTLEMAN_2",
@@ -822,7 +864,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.mp3"
     },
     {
       "identifier": "BELLE_HUSBAND",
@@ -845,7 +889,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.mp3"
     },
     {
       "identifier": "FEZZIWIG",
@@ -875,7 +921,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.mp3"
     },
     {
       "identifier": "WEALTHY_BUSINESSMAN_2",
@@ -900,7 +948,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.mp3"
     },
     {
       "identifier": "WEALTHY_BUSINESSMAN_1",
@@ -925,7 +975,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.mp3"
     },
     {
       "identifier": "SERVANT_GIRL",
@@ -950,7 +1002,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.mp3"
     },
     {
       "identifier": "RED_FACED_GENTLEMAN",
@@ -978,7 +1032,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.mp3"
     },
     {
       "identifier": "PLUMP_SISTER",
@@ -1006,7 +1062,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.mp3"
     },
     {
       "identifier": "FAN",
@@ -1037,7 +1095,9 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAN.mp3"
     },
     {
       "identifier": "YOUNG_SCROOGE_CHILD",
@@ -1064,7 +1124,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 2
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.mp3"
     },
     {
       "identifier": "BUSINESSMAN_2",
@@ -1088,7 +1150,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.mp3"
     },
     {
       "identifier": "BUSINESSMAN_3",
@@ -1113,7 +1177,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.mp3"
     },
     {
       "identifier": "TINY_TIM",
@@ -1154,7 +1220,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.mp3"
     },
     {
       "identifier": "SCHOOLMASTER",
@@ -1173,7 +1241,9 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 1
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.mp3"
     }
   ],
   "segments": [
@@ -1181,6 +1251,8 @@
       "ordinal": 0,
       "title": "Introduction",
       "metadata": {},
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/segment_0.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio.mp3",
       "duration_ms": 9340
     },
     {
@@ -1209,6 +1281,8 @@
           ]
         }
       },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio.mp3",
       "duration_ms": 2196673
     },
     {
@@ -1238,6 +1312,8 @@
           ]
         }
       },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/audio.mp3",
       "duration_ms": 2033190
     },
     {
@@ -1258,6 +1334,8 @@
           ]
         }
       },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/audio.mp3",
       "duration_ms": 2801501
     },
     {
@@ -1278,6 +1356,8 @@
           ]
         }
       },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio.mp3",
       "duration_ms": 1623851
     },
     {
@@ -1300,6 +1380,8 @@
           ]
         }
       },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio.mp3",
       "duration_ms": 745763
     }
   ]
