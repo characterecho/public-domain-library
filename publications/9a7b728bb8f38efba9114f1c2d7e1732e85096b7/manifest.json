@@ -1,0 +1,1319 @@
+{
+  "title": "Romeo and Juliet",
+  "author_names": "William Shakespeare",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/1513.epub3.images",
+  "epub_source": "http://www.gutenberg.org/1513",
+  "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+  "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.jpg",
+  "total_duration_s": 9721.855728,
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [
+        "Chorus"
+      ],
+      "voice_attributes": [
+        "resonant",
+        "authoritative",
+        "somber",
+        "poetic",
+        "storyteller",
+        "articulate",
+        "evocative",
+        "steady",
+        "storytelling",
+        "clear",
+        "descriptive",
+        "immersive",
+        "observational",
+        "neutral",
+        "omniscient",
+        "observant",
+        "atmospheric"
+      ],
+      "visual_attributes": [
+        "Standing center stage in a pool of light",
+        "cloaked in dark period garments"
+      ],
+      "roles": [
+        "Storyteller",
+        "Mediator",
+        "storyteller",
+        "narrator",
+        "omniscient voice",
+        "omnipresent voice"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 233,
+      "image_key": null,
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "ROMEO",
+      "name": "Romeo",
+      "aliases": [
+        "Romeo Montague"
+      ],
+      "voice_attributes": [
+        "melancholy",
+        "poetic",
+        "distracted"
+      ],
+      "visual_attributes": [
+        "handsome",
+        "pensive expression"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 214,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ROMEO.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ROMEO.mp3"
+    },
+    {
+      "identifier": "JULIET",
+      "name": "Juliet",
+      "aliases": [
+        "Juliet Capulet"
+      ],
+      "voice_attributes": [
+        "innocent",
+        "bright",
+        "soft-spoken"
+      ],
+      "visual_attributes": [
+        "beautiful young girl",
+        "noble attire",
+        "gentle demeanor"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 160,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/JULIET.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/JULIET.mp3"
+    },
+    {
+      "identifier": "NURSE",
+      "name": "Nurse Angelica",
+      "aliases": [
+        "The Nurse",
+        "Nurse"
+      ],
+      "voice_attributes": [
+        "talkative",
+        "earthy",
+        "fond",
+        "wheezing"
+      ],
+      "visual_attributes": [
+        "stout",
+        "wearing simple linen garments",
+        "kindly but worn features"
+      ],
+      "roles": [
+        "servant",
+        "confidante"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 102,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/NURSE.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/NURSE.mp3"
+    },
+    {
+      "identifier": "FRIAR_LAWRENCE",
+      "name": "Friar Lawrence",
+      "aliases": [
+        "Ghostly father",
+        "Holy man"
+      ],
+      "voice_attributes": [
+        "wise",
+        "gentle",
+        "contemplative"
+      ],
+      "visual_attributes": [
+        "wearing monk robes",
+        "carrying a wicker basket"
+      ],
+      "roles": [
+        "confessor",
+        "mentor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 100,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/FRIAR_LAWRENCE.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/FRIAR_LAWRENCE.mp3"
+    },
+    {
+      "identifier": "MERCUTIO",
+      "name": "Mercutio",
+      "aliases": [
+        "Kinsman to the Prince"
+      ],
+      "voice_attributes": [
+        "theatrical",
+        "mercurial",
+        "witty",
+        "volatile"
+      ],
+      "visual_attributes": [
+        "extravagantly dressed",
+        "energetic",
+        "expressive hands"
+      ],
+      "roles": [
+        "friend",
+        "wit"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 79,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MERCUTIO.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MERCUTIO.mp3"
+    },
+    {
+      "identifier": "CAPULET",
+      "name": "Lord Capulet",
+      "aliases": [
+        "Old Capulet"
+      ],
+      "voice_attributes": [
+        "booming",
+        "impatient",
+        "gruff"
+      ],
+      "visual_attributes": [
+        "elderly patriarch",
+        "wearing a dressing gown"
+      ],
+      "roles": [
+        "patriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 77,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULET.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULET.mp3"
+    },
+    {
+      "identifier": "BENVOLIO",
+      "name": "Benvolio",
+      "aliases": [
+        "Benvolio Montague"
+      ],
+      "voice_attributes": [
+        "calm",
+        "rational",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "noble attire",
+        "youthful features"
+      ],
+      "roles": [
+        "peacemaker",
+        "kinsman"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 70,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/BENVOLIO.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/BENVOLIO.mp3"
+    },
+    {
+      "identifier": "LADY_CAPULET",
+      "name": "Lady Capulet",
+      "aliases": [],
+      "voice_attributes": [
+        "composed",
+        "sarcastic"
+      ],
+      "visual_attributes": [
+        "noblewoman"
+      ],
+      "roles": [
+        "matriarch"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 49,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/LADY_CAPULET.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/LADY_CAPULET.mp3"
+    },
+    {
+      "identifier": "PARIS",
+      "name": "Count Paris",
+      "aliases": [],
+      "voice_attributes": [
+        "refined",
+        "earnest",
+        "noble"
+      ],
+      "visual_attributes": [
+        "young nobleman",
+        "exquisitely dressed"
+      ],
+      "roles": [
+        "suitor",
+        "kinsman to the Prince"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 29,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS.mp3"
+    },
+    {
+      "identifier": "PRINCE_ESCALUS",
+      "name": "Prince Escalus",
+      "aliases": [
+        "The Prince"
+      ],
+      "voice_attributes": [
+        "commanding",
+        "furious",
+        "regal"
+      ],
+      "visual_attributes": [
+        "official robes",
+        "surrounded by guards"
+      ],
+      "roles": [
+        "ruler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 25,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PRINCE_ESCALUS.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PRINCE_ESCALUS.mp3"
+    },
+    {
+      "identifier": "SERVANT_CAPULET",
+      "name": "Peter",
+      "aliases": [
+        "Peter",
+        "Capulet Servant"
+      ],
+      "voice_attributes": [
+        "fuddled",
+        "earnest",
+        "uneducated"
+      ],
+      "visual_attributes": [
+        "wearing Capulet livery",
+        "looking overwhelmed"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/SERVANT_CAPULET.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/SERVANT_CAPULET.mp3"
+    },
+    {
+      "identifier": "SAMPSON",
+      "name": "Sampson",
+      "aliases": [
+        "Capulet Servant"
+      ],
+      "voice_attributes": [
+        "brash",
+        "aggressive",
+        "coarse"
+      ],
+      "visual_attributes": [
+        "wearing Capulet livery",
+        "armed with sword and buckler"
+      ],
+      "roles": [
+        "servant",
+        "instigator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 20,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/SAMPSON.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/SAMPSON.mp3"
+    },
+    {
+      "identifier": "TYBALT",
+      "name": "Tybalt",
+      "aliases": [
+        "Prince of Cats"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "haughty",
+        "vicious"
+      ],
+      "visual_attributes": [
+        "elegant fighting gear",
+        "dark hair",
+        "intense gaze"
+      ],
+      "roles": [
+        "antagonist",
+        "kinsman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 18,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/TYBALT.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/TYBALT.mp3"
+    },
+    {
+      "identifier": "GREGORY",
+      "name": "Gregory",
+      "aliases": [
+        "Capulet Servant"
+      ],
+      "voice_attributes": [
+        "witty",
+        "cautious",
+        "mocking"
+      ],
+      "visual_attributes": [
+        "wearing Capulet livery",
+        "armed with sword and buckler"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/GREGORY.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/GREGORY.mp3"
+    },
+    {
+      "identifier": "BALTHASAR",
+      "name": "Balthasar",
+      "aliases": [
+        "Romeo's Servant"
+      ],
+      "voice_attributes": [
+        "loyal",
+        "breathless",
+        "heavy-hearted"
+      ],
+      "visual_attributes": [
+        "dusty clothes",
+        "riding boots"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 13,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/BALTHASAR.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/BALTHASAR.mp3"
+    },
+    {
+      "identifier": "MONTAGUE",
+      "name": "Lord Montague",
+      "aliases": [],
+      "voice_attributes": [
+        "stern",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "elderly patriarch"
+      ],
+      "roles": [
+        "patriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 12,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MONTAGUE.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MONTAGUE.mp3"
+    },
+    {
+      "identifier": "MUSICIAN_1",
+      "name": "Simon Catling",
+      "aliases": [
+        "First Musician"
+      ],
+      "voice_attributes": [
+        "weary",
+        "practical"
+      ],
+      "visual_attributes": [
+        "carrying pipes"
+      ],
+      "roles": [
+        "musician"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "British"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_1.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_1.mp3"
+    },
+    {
+      "identifier": "WATCH_1",
+      "name": "First Watch",
+      "aliases": [
+        "First Watchman"
+      ],
+      "voice_attributes": [
+        "authoritative",
+        "harried"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_1.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_1.mp3"
+    },
+    {
+      "identifier": "CAPULETS_SECOND_SERVANT",
+      "name": "Capulet's Second Servant",
+      "aliases": [
+        "SECOND SERVANT"
+      ],
+      "voice_attributes": [
+        "cynical",
+        "brisk"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_SECOND_SERVANT.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_SECOND_SERVANT.mp3"
+    },
+    {
+      "identifier": "ABRAM",
+      "name": "Abram",
+      "aliases": [
+        "Montague Servant"
+      ],
+      "voice_attributes": [
+        "defensive",
+        "hostile"
+      ],
+      "visual_attributes": [
+        "wearing Montague livery"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "British"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ABRAM.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ABRAM.mp3"
+    },
+    {
+      "identifier": "PARIS_PAGE",
+      "name": "Paris's Page",
+      "aliases": [
+        "Page"
+      ],
+      "voice_attributes": [
+        "fearful",
+        "obedient"
+      ],
+      "visual_attributes": [
+        "holding a torch",
+        "small"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS_PAGE.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS_PAGE.mp3"
+    },
+    {
+      "identifier": "APOTHECARY",
+      "name": "The Apothecary",
+      "aliases": [],
+      "voice_attributes": [
+        "raspy",
+        "trembling",
+        "desperate"
+      ],
+      "visual_attributes": [
+        "gaunt",
+        "tattered clothing",
+        "hollow eyes"
+      ],
+      "roles": [
+        "vendor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "British"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/APOTHECARY.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/APOTHECARY.mp3"
+    },
+    {
+      "identifier": "CAPULETS_FIRST_SERVANT",
+      "name": "Capulet's First Servant",
+      "aliases": [],
+      "voice_attributes": [
+        "harried",
+        "bossy"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "Cockney"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_FIRST_SERVANT.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_FIRST_SERVANT.mp3"
+    },
+    {
+      "identifier": "FRIAR_JOHN",
+      "name": "Friar John",
+      "aliases": [
+        "Brother John"
+      ],
+      "voice_attributes": [
+        "humble",
+        "breathless",
+        "apologetic"
+      ],
+      "visual_attributes": [
+        "wearing travel-worn Franciscan robes"
+      ],
+      "roles": [
+        "messenger",
+        "monk"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/FRIAR_JOHN.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/FRIAR_JOHN.mp3"
+    },
+    {
+      "identifier": "CROWD",
+      "name": "First Citizen",
+      "aliases": [
+        "First Citizen"
+      ],
+      "voice_attributes": [
+        "chaotic",
+        "angry"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "bystanders"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CROWD.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CROWD.mp3"
+    },
+    {
+      "identifier": "MUSICIAN_2",
+      "name": "Hugh Rebeck",
+      "aliases": [
+        "Second Musician"
+      ],
+      "voice_attributes": [
+        "impatient",
+        "sharp"
+      ],
+      "visual_attributes": [
+        "carrying an instrument"
+      ],
+      "roles": [
+        "musician"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_2.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_2.mp3"
+    },
+    {
+      "identifier": "CAPULETS_COUSIN",
+      "name": "Capulet's Cousin",
+      "aliases": [
+        "Old Capulet's Cousin"
+      ],
+      "voice_attributes": [
+        "feeble",
+        "reminiscent"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "kinsman"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_COUSIN.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_COUSIN.mp3"
+    },
+    {
+      "identifier": "LADY_MONTAGUE",
+      "name": "Lady Montague",
+      "aliases": [],
+      "voice_attributes": [
+        "protective",
+        "weary"
+      ],
+      "visual_attributes": [
+        "noblewoman"
+      ],
+      "roles": [
+        "matriarch"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/LADY_MONTAGUE.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/LADY_MONTAGUE.mp3"
+    },
+    {
+      "identifier": "WATCH_3",
+      "name": "Third Watch",
+      "aliases": [
+        "Third Watchman"
+      ],
+      "voice_attributes": [
+        "observant"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_3.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_3.mp3"
+    },
+    {
+      "identifier": "WATCH_2",
+      "name": "Second Watch",
+      "aliases": [
+        "Second Watchman"
+      ],
+      "voice_attributes": [
+        "alert"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_2.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_2.mp3"
+    },
+    {
+      "identifier": "MUSICIAN_3",
+      "name": "James Soundpost",
+      "aliases": [
+        "Third Musician"
+      ],
+      "voice_attributes": [
+        "quiet",
+        "uncertain"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "musician",
+        "singer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_3.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_3.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/0/audio.mp3",
+      "duration_s": 6.72
+    },
+    {
+      "ordinal": 2,
+      "title": "THE PROLOGUE",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PROLOGUE",
+            "location_header": "VERONA - DUSK",
+            "visual_description": "A sweeping panoramic view of 16th-century Verona, Italy. The sun sets over terracotta rooftops, stone towers, and narrow cobblestone alleys, casting long, dramatic shadows over the quiet city squares."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/2/audio.mp3",
+      "duration_s": 43.86
+    },
+    {
+      "ordinal": 3,
+      "title": "ACT I",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/3/audio.mp3",
+      "duration_s": 1.68
+    },
+    {
+      "ordinal": 4,
+      "title": "SCENE I. A public place.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "A PUBLIC SQUARE IN VERONA",
+            "visual_description": "A bustling, sun-drenched public square in Verona, Italy, circa 1595. The architecture is Italian Renaissance with stone arches and dusty streets. A tense atmosphere hangs over the market stalls."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/4/audio.mp3",
+      "duration_s": 811.895144
+    },
+    {
+      "ordinal": 5,
+      "title": "SCENE II. A Street.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "A STREET IN VERONA",
+            "visual_description": "A sunny, stone-paved street in Verona during the late 16th century. Elegant Italian architecture with arched doorways and wrought-iron balconies lines the thoroughfare."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/5/audio.mp3",
+      "duration_s": 351.20481399999994
+    },
+    {
+      "ordinal": 6,
+      "title": "SCENE III. Room in Capulet’s House.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CAPULET_CHAMBER",
+            "location_header": "CAPULET'S HOUSE - AN INNER CHAMBER",
+            "visual_description": "A private, richly appointed inner chamber in a 14th-century Italian palazzo in Verona. Sunlight streams through high arched windows, illuminating ornate tapestries and heavy oak furniture. The atmosphere is domestic and quiet."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/6/audio.mp3",
+      "duration_s": 358.85422400000004
+    },
+    {
+      "ordinal": 7,
+      "title": "SCENE IV. A Street.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_STREET_NIGHT",
+            "location_header": "A STREET IN VERONA, AT NIGHT",
+            "visual_description": "Verona, Italy, circa 1590. A dark, narrow cobblestone street at night. A group of young men in Renaissance attire and decorative masks walk together. The scene is illuminated by the flickering, warm orange glow of hand-held torches which cast long, dancing shadows against the stone walls."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/7/audio.mp3",
+      "duration_s": 340.58542300000005
+    },
+    {
+      "ordinal": 8,
+      "title": "SCENE V. A Hall in Capulet’s House.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. CAPULET HOUSE - NIGHT",
+            "visual_description": "The Great Hall of the Capulet house, illuminated by dozens of torches and filled with the sound of tuning musicians."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/8/audio.mp3",
+      "duration_s": 452.77815499999997
+    },
+    {
+      "ordinal": 9,
+      "title": "ACT II",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ACT_2_PROLOGUE",
+            "location_header": "PROLOGUE",
+            "visual_description": "A transitional space between the scenes of Verona, where the atmosphere shifts from the violence of the streets to the clandestine tension of forbidden romance."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/9/audio.mp3",
+      "duration_s": 35.19
+    },
+    {
+      "ordinal": 10,
+      "title": "SCENE I. An open place adjoining Capulet’s Garden.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_02_01",
+            "location_header": "EXT. CAPULET'S ORCHARD WALL - NIGHT",
+            "visual_description": "A dark, narrow lane bordering the high stone walls of the Capulet orchard. Moonlight casts long shadows over the rough masonry."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/10/audio.mp3",
+      "duration_s": 154.741317
+    },
+    {
+      "ordinal": 11,
+      "title": "SCENE II. Capulet’s Garden.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BALCONY",
+            "location_header": "EXT. CAPULET ORCHARD - NIGHT",
+            "visual_description": "The walled orchard of the Capulet estate, bathed in moonlight. Shadows stretch across the manicured grass as Romeo moves toward the stone balcony."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/11/audio.mp3",
+      "duration_s": 558.3845240000002
+    },
+    {
+      "ordinal": 12,
+      "title": "SCENE III. Friar Lawrence’s Cell.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_II_III",
+            "location_header": "EXT. FRIAR LAWRENCE'S CELL - DAWN",
+            "visual_description": "A monastery garden at dawn. The air is cool and misty as the sun begins to rise over the stone walls, illuminating the dew-covered herbs."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/12/audio.mp3",
+      "duration_s": 296.8627969999999
+    },
+    {
+      "ordinal": 13,
+      "title": "SCENE IV. A Street.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "EXT. VERONA - STREET",
+            "visual_description": "A sun-drenched street in Verona, where the air is thick with heat and the lingering tension of the family feuds."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/13/audio.mp3",
+      "duration_s": 592.576981
+    },
+    {
+      "ordinal": 14,
+      "title": "SCENE V. Capulet’s Garden.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "EXT. CAPULET ORCHARD - DAY",
+            "visual_description": "The Capulet orchard is bathed in the heat of a late-morning sun. Juliet paces restlessly among the fruit trees, her eyes fixed on the garden gate as she awaits word from Romeo."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/14/audio.mp3",
+      "duration_s": 266.97027699999995
+    },
+    {
+      "ordinal": 15,
+      "title": "SCENE VI. Friar Lawrence’s Cell.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FRIAR LAWRENCE'S CELL",
+            "visual_description": "A quiet, sun-dappled stone chapel within the Friar's cell. The air is cool and smells of incense and old parchment."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/15/audio.mp3",
+      "duration_s": 125.410682
+    },
+    {
+      "ordinal": 16,
+      "title": "ACT III",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/16/audio.mp3",
+      "duration_s": 1.84
+    },
+    {
+      "ordinal": 17,
+      "title": "SCENE I. A public Place.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "EXT. VERONA - PUBLIC SQUARE",
+            "visual_description": "The scorching midday sun beats down on a public square in Verona, the air thick with tension and the threat of violence."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/17/audio.mp3",
+      "duration_s": 651.1245470000001
+    },
+    {
+      "ordinal": 18,
+      "title": "SCENE II. A Room in Capulet’s House.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_JULIETS_CHAMBER",
+            "location_header": "INT. CAPULET ESTATE - JULIET'S CHAMBER",
+            "visual_description": "Juliet's private chamber in the Capulet estate. The late afternoon light fades into a deep, warm twilight."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/18/audio.mp3",
+      "duration_s": 435.43186199999997
+    },
+    {
+      "ordinal": 19,
+      "title": "SCENE III. Friar Lawrence’s cell.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_03_03",
+            "location_header": "INT. FRIAR LAWRENCE'S CELL",
+            "visual_description": "Friar Lawrence's cell, a dim, stone-walled sanctuary. The air is heavy with the scent of herbs and the cold damp of the monastery."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/19/audio.mp3",
+      "duration_s": 549.677468
+    },
+    {
+      "ordinal": 20,
+      "title": "SCENE IV. A Room in Capulet’s House.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ACT_3_SCENE_4",
+            "location_header": "INT. CAPULET HOUSE - NIGHT",
+            "visual_description": "Inside the Capulet house, the air is heavy with mourning. Lord Capulet and Lady Capulet lead Count Paris into a quiet hall, the flickering candlelight casting long shadows against the stone walls."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/20/audio.mp3",
+      "duration_s": 128.67991
+    },
+    {
+      "ordinal": 21,
+      "title": "SCENE V. An open Gallery to Juliet’s Chamber, overlooking the Garden.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_03_05",
+            "location_header": "INT. JULIET'S CHAMBER - DAWN",
+            "visual_description": "In the soft, fading light of the bedchamber, Romeo and Juliet stand together by the open window, the morning air beginning to chill the room as the first grey streaks of dawn touch the horizon."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/21/audio.mp3",
+      "duration_s": 768.3472509999997
+    },
+    {
+      "ordinal": 22,
+      "title": "ACT IV",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/22/audio.mp3",
+      "duration_s": 1.84
+    },
+    {
+      "ordinal": 23,
+      "title": "SCENE I. Friar Lawrence’s Cell.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FRIAR LAWRENCE'S CELL",
+            "visual_description": "The stone-walled cell of Friar Lawrence, dim and quiet, scented with dried herbs and incense."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/23/audio.mp3",
+      "duration_s": 386.5947489999999
+    },
+    {
+      "ordinal": 24,
+      "title": "SCENE II. Hall in Capulet’s House.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. CAPULET HOUSE - DAY",
+            "visual_description": "A grand hall in the Capulet house, bustling with the frantic energy of wedding preparations. Servants scurry about with linens and lists."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/24/audio.mp3",
+      "duration_s": 186.37351799999993
+    },
+    {
+      "ordinal": 25,
+      "title": "SCENE III. Juliet’s Chamber.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. JULIET'S CHAMBER - NIGHT",
+            "visual_description": "Juliet's bedchamber at night, illuminated by the soft, flickering glow of candles as she prepares for the evening."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/25/audio.mp3",
+      "duration_s": 188.92628299999998
+    },
+    {
+      "ordinal": 26,
+      "title": "SCENE IV. Hall in Capulet’s House.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. CAPULET HOUSE - DAWN",
+            "visual_description": "The Capulet household is alive with frantic activity in the pre-dawn hours. The kitchen is a whirlwind of spices, meats, and hurried servants preparing for the wedding feast."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/26/audio.mp3",
+      "duration_s": 139.74419800000004
+    },
+    {
+      "ordinal": 27,
+      "title": "SCENE V. Juliet’s Chamber; Juliet on the bed.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. JULIET'S BEDCHAMBER",
+            "visual_description": "Juliet's bedchamber in the Capulet house. The morning sun filters through the windows, finding Juliet still and silent in her bed as the Nurse enters with bridal garments."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/27/audio.mp3",
+      "duration_s": 479.51599799999997
+    },
+    {
+      "ordinal": 28,
+      "title": "ACT V",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/28/audio.mp3",
+      "duration_s": 1.84
+    },
+    {
+      "ordinal": 29,
+      "title": "SCENE I. Mantua. A Street.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "EXT. MANTUA - STREET",
+            "visual_description": "A sun-bleached, quiet street in Mantua. The air is still and heavy with heat."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/29/audio.mp3",
+      "duration_s": 299.430208
+    },
+    {
+      "ordinal": 30,
+      "title": "SCENE II. Friar Lawrence’s Cell.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FRIAR LAWRENCE'S CELL - DAY",
+            "visual_description": "Friar Lawrence's austere stone cell, filled with the scent of dried herbs and the dim light of a flickering candle."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/30/audio.mp3",
+      "duration_s": 111.81648599999997
+    },
+    {
+      "ordinal": 31,
+      "title": "SCENE III. A churchyard; in it a Monument belonging to the Capulets.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_FINAL",
+            "location_header": "EXT. VERONA CHURCHYARD",
+            "visual_description": "A desolate graveyard at night. Cold stone monuments and tangled yew trees surround the entrance to the Capulet tomb."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/31/audio.mp3",
+      "duration_s": 992.958912
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+[
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 1,
+    "text": "ACT II",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 1.0,
+    "start_s": 0.0,
+    "end_s": 1.84,
+    "duration_s": 1.84
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 2,
+    "text": "The heavy air of Verona settles as the echoes of the first act fade, making way for the quiet, dangerous tension of a new and forbidden love.",
+    "speed": 1.0,
+    "audio_description": "atmospheric, scene-setting",
+    "trailing_silence_s": 0.5,
+    "start_s": 1.84,
+    "end_s": 11.379999999999999,
+    "duration_s": 9.54
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 3,
+    "text": "Now old desire doth in his deathbed lie, And young affection gapes to be his heir; That fair for which love groan’d for and would die, With tender Juliet match’d, is now not fair. Now Romeo is belov’d, and loves again, Alike bewitched by the charm of looks; But to his foe suppos’d he must complain, And she steal love’s sweet bait from fearful hooks:",
+    "speed": 1.0,
+    "audio_description": "rhythmic, solemn, evocative",
+    "trailing_silence_s": 0.3,
+    "start_s": 11.379999999999999,
+    "end_s": 16.95,
+    "duration_s": 5.57
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 4,
+    "text": "Being held a foe, he may not have access To breathe such vows as lovers use to swear; And she as much in love, her means much less To meet her new beloved anywhere. But passion lends them power, time means, to meet, Tempering extremities with extreme sweet.",
+    "speed": 1.0,
+    "audio_description": "rhythmic, hopeful yet ominous",
+    "trailing_silence_s": 1.0,
+    "start_s": 16.95,
+    "end_s": 35.19,
+    "duration_s": 18.24
+  }
+]
