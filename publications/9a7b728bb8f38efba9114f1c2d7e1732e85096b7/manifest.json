@@ -5,8 +5,35 @@
   "epub_source": "http://www.gutenberg.org/1513",
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
   "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
-  "total_duration_s": 9719.628424999999,
+  "total_duration_s": 9634.649536,
   "characters": [
+    {
+      "identifier": "ROMEO",
+      "name": "Romeo",
+      "aliases": [
+        "Romeo Montague"
+      ],
+      "voice_attributes": [
+        "melancholy",
+        "poetic",
+        "distracted"
+      ],
+      "visual_attributes": [
+        "handsome",
+        "pensive expression"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 214,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ROMEO.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ROMEO.mp3"
+    },
     {
       "identifier": "NARRATOR",
       "name": "Narrator",
@@ -49,36 +76,9 @@
         "gender": "male",
         "voice_accent": "british_rp"
       },
-      "dialogue_count": 232,
+      "dialogue_count": 207,
       "image_key": null,
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/NARRATOR.mp3"
-    },
-    {
-      "identifier": "ROMEO",
-      "name": "Romeo",
-      "aliases": [
-        "Romeo Montague"
-      ],
-      "voice_attributes": [
-        "melancholy",
-        "poetic",
-        "distracted"
-      ],
-      "visual_attributes": [
-        "handsome",
-        "pensive expression"
-      ],
-      "roles": [
-        "protagonist"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "british_rp"
-      },
-      "dialogue_count": 214,
-      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ROMEO.png",
-      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ROMEO.mp3"
     },
     {
       "identifier": "JULIET",
@@ -865,7 +865,7 @@
       "metadata": {},
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/0/audio.mp3",
-      "duration_s": 6.72
+      "duration_s": 6.88
     },
     {
       "ordinal": 1,
@@ -881,7 +881,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/1/audio.mp3",
-      "duration_s": 43.86
+      "duration_s": 42.519999999999996
     },
     {
       "ordinal": 2,
@@ -905,7 +905,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/3/audio.mp3",
-      "duration_s": 810.2796099999999
+      "duration_s": 807.3196099999999
     },
     {
       "ordinal": 4,
@@ -921,7 +921,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/4/audio.mp3",
-      "duration_s": 351.20481399999994
+      "duration_s": 348.44481399999995
     },
     {
       "ordinal": 5,
@@ -937,7 +937,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/5/audio.mp3",
-      "duration_s": 358.85422400000004
+      "duration_s": 355.33422400000006
     },
     {
       "ordinal": 6,
@@ -953,7 +953,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/6/audio.mp3",
-      "duration_s": 340.58542300000005
+      "duration_s": 338.2654230000001
     },
     {
       "ordinal": 7,
@@ -969,7 +969,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/7/audio.mp3",
-      "duration_s": 452.77815499999997
+      "duration_s": 449.138155
     },
     {
       "ordinal": 8,
@@ -1001,7 +1001,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/9/audio.mp3",
-      "duration_s": 154.741317
+      "duration_s": 150.70131700000002
     },
     {
       "ordinal": 10,
@@ -1017,7 +1017,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/10/audio.mp3",
-      "duration_s": 558.4245240000001
+      "duration_s": 555.3845240000002
     },
     {
       "ordinal": 11,
@@ -1033,7 +1033,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/11/audio.mp3",
-      "duration_s": 296.8627969999999
+      "duration_s": 293.8227969999999
     },
     {
       "ordinal": 12,
@@ -1049,7 +1049,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/12/audio.mp3",
-      "duration_s": 592.576981
+      "duration_s": 589.976981
     },
     {
       "ordinal": 13,
@@ -1065,7 +1065,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/13/audio.mp3",
-      "duration_s": 260.465651
+      "duration_s": 257.66565099999997
     },
     {
       "ordinal": 14,
@@ -1081,7 +1081,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/14/audio.mp3",
-      "duration_s": 125.410682
+      "duration_s": 119.172042
     },
     {
       "ordinal": 15,
@@ -1105,7 +1105,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/16/audio.mp3",
-      "duration_s": 651.1245470000001
+      "duration_s": 648.2845470000002
     },
     {
       "ordinal": 17,
@@ -1121,7 +1121,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/17/audio.mp3",
-      "duration_s": 435.43186199999997
+      "duration_s": 432.39186199999995
     },
     {
       "ordinal": 18,
@@ -1137,7 +1137,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/18/audio.mp3",
-      "duration_s": 549.677468
+      "duration_s": 546.5974679999999
     },
     {
       "ordinal": 19,
@@ -1152,8 +1152,8 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/19/audio.mp3",
-      "duration_s": 128.67991
+      "audio_key": null,
+      "duration_s": 125.51991
     },
     {
       "ordinal": 20,
@@ -1169,7 +1169,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/20/audio.mp3",
-      "duration_s": 768.3472509999997
+      "duration_s": 763.2272509999998
     },
     {
       "ordinal": 21,
@@ -1193,7 +1193,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/22/audio.mp3",
-      "duration_s": 386.5947489999999
+      "duration_s": 383.7147489999999
     },
     {
       "ordinal": 23,
@@ -1209,7 +1209,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/23/audio.mp3",
-      "duration_s": 186.37351799999993
+      "duration_s": 182.85351799999998
     },
     {
       "ordinal": 24,
@@ -1225,7 +1225,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/24/audio.mp3",
-      "duration_s": 188.92628299999998
+      "duration_s": 185.886283
     },
     {
       "ordinal": 25,
@@ -1241,7 +1241,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/25/audio.mp3",
-      "duration_s": 139.74419800000004
+      "duration_s": 136.10419800000003
     },
     {
       "ordinal": 26,
@@ -1257,7 +1257,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/26/audio.mp3",
-      "duration_s": 479.51599799999997
+      "duration_s": 475.03599799999995
     },
     {
       "ordinal": 27,
@@ -1281,7 +1281,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/28/audio.mp3",
-      "duration_s": 299.430208
+      "duration_s": 295.75020800000004
     },
     {
       "ordinal": 29,
@@ -1297,7 +1297,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/29/audio.mp3",
-      "duration_s": 111.81648599999997
+      "duration_s": 108.57623699999999
     },
     {
       "ordinal": 30,
@@ -1313,7 +1313,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/30/audio.mp3",
-      "duration_s": 992.958912
+      "duration_s": 987.838912
     }
   ]
 }
