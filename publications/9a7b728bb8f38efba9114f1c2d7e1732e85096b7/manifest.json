@@ -4,8 +4,8 @@
   "description": "EPUB imported from https://gutenberg.org/ebooks/1513.epub3.images",
   "epub_source": "http://www.gutenberg.org/1513",
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
-  "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.jpg",
-  "total_duration_s": 9721.855728,
+  "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
+  "total_duration_s": 9720.240194,
   "characters": [
     {
       "identifier": "NARRATOR",
@@ -868,7 +868,7 @@
       "duration_s": 6.72
     },
     {
-      "ordinal": 2,
+      "ordinal": 1,
       "title": "THE PROLOGUE",
       "metadata": {
         "scenes": [
@@ -880,19 +880,19 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/2/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/1/audio.mp3",
       "duration_s": 43.86
     },
     {
-      "ordinal": 3,
+      "ordinal": 2,
       "title": "ACT I",
       "metadata": {},
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/3/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/2/audio.mp3",
       "duration_s": 1.68
     },
     {
-      "ordinal": 4,
+      "ordinal": 3,
       "title": "SCENE I. A public place.",
       "metadata": {
         "scenes": [
@@ -904,11 +904,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/4/audio.mp3",
-      "duration_s": 811.895144
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/3/audio.mp3",
+      "duration_s": 810.2796099999999
     },
     {
-      "ordinal": 5,
+      "ordinal": 4,
       "title": "SCENE II. A Street.",
       "metadata": {
         "scenes": [
@@ -920,11 +920,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/5/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/4/audio.mp3",
       "duration_s": 351.20481399999994
     },
     {
-      "ordinal": 6,
+      "ordinal": 5,
       "title": "SCENE III. Room in Capulet’s House.",
       "metadata": {
         "scenes": [
@@ -936,11 +936,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/6/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/5/audio.mp3",
       "duration_s": 358.85422400000004
     },
     {
-      "ordinal": 7,
+      "ordinal": 6,
       "title": "SCENE IV. A Street.",
       "metadata": {
         "scenes": [
@@ -952,11 +952,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/7/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/6/audio.mp3",
       "duration_s": 340.58542300000005
     },
     {
-      "ordinal": 8,
+      "ordinal": 7,
       "title": "SCENE V. A Hall in Capulet’s House.",
       "metadata": {
         "scenes": [
@@ -968,11 +968,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/8/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/7/audio.mp3",
       "duration_s": 452.77815499999997
     },
     {
-      "ordinal": 9,
+      "ordinal": 8,
       "title": "ACT II",
       "metadata": {
         "scenes": [
@@ -984,11 +984,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/9/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/8/audio.mp3",
       "duration_s": 35.19
     },
     {
-      "ordinal": 10,
+      "ordinal": 9,
       "title": "SCENE I. An open place adjoining Capulet’s Garden.",
       "metadata": {
         "scenes": [
@@ -1000,11 +1000,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/10/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/9/audio.mp3",
       "duration_s": 154.741317
     },
     {
-      "ordinal": 11,
+      "ordinal": 10,
       "title": "SCENE II. Capulet’s Garden.",
       "metadata": {
         "scenes": [
@@ -1016,11 +1016,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/11/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/10/audio.mp3",
       "duration_s": 558.3845240000002
     },
     {
-      "ordinal": 12,
+      "ordinal": 11,
       "title": "SCENE III. Friar Lawrence’s Cell.",
       "metadata": {
         "scenes": [
@@ -1032,11 +1032,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/12/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/11/audio.mp3",
       "duration_s": 296.8627969999999
     },
     {
-      "ordinal": 13,
+      "ordinal": 12,
       "title": "SCENE IV. A Street.",
       "metadata": {
         "scenes": [
@@ -1048,11 +1048,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/13/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/12/audio.mp3",
       "duration_s": 592.576981
     },
     {
-      "ordinal": 14,
+      "ordinal": 13,
       "title": "SCENE V. Capulet’s Garden.",
       "metadata": {
         "scenes": [
@@ -1064,11 +1064,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/14/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/13/audio.mp3",
       "duration_s": 266.97027699999995
     },
     {
-      "ordinal": 15,
+      "ordinal": 14,
       "title": "SCENE VI. Friar Lawrence’s Cell.",
       "metadata": {
         "scenes": [
@@ -1080,19 +1080,19 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/15/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/14/audio.mp3",
       "duration_s": 125.410682
     },
     {
-      "ordinal": 16,
+      "ordinal": 15,
       "title": "ACT III",
       "metadata": {},
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/16/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/15/audio.mp3",
       "duration_s": 1.84
     },
     {
-      "ordinal": 17,
+      "ordinal": 16,
       "title": "SCENE I. A public Place.",
       "metadata": {
         "scenes": [
@@ -1104,11 +1104,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/17/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/16/audio.mp3",
       "duration_s": 651.1245470000001
     },
     {
-      "ordinal": 18,
+      "ordinal": 17,
       "title": "SCENE II. A Room in Capulet’s House.",
       "metadata": {
         "scenes": [
@@ -1120,11 +1120,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/18/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/17/audio.mp3",
       "duration_s": 435.43186199999997
     },
     {
-      "ordinal": 19,
+      "ordinal": 18,
       "title": "SCENE III. Friar Lawrence’s cell.",
       "metadata": {
         "scenes": [
@@ -1136,11 +1136,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/19/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/18/audio.mp3",
       "duration_s": 549.677468
     },
     {
-      "ordinal": 20,
+      "ordinal": 19,
       "title": "SCENE IV. A Room in Capulet’s House.",
       "metadata": {
         "scenes": [
@@ -1152,11 +1152,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/20/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/19/audio.mp3",
       "duration_s": 128.67991
     },
     {
-      "ordinal": 21,
+      "ordinal": 20,
       "title": "SCENE V. An open Gallery to Juliet’s Chamber, overlooking the Garden.",
       "metadata": {
         "scenes": [
@@ -1168,19 +1168,19 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/21/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/20/audio.mp3",
       "duration_s": 768.3472509999997
     },
     {
-      "ordinal": 22,
+      "ordinal": 21,
       "title": "ACT IV",
       "metadata": {},
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/22/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/21/audio.mp3",
       "duration_s": 1.84
     },
     {
-      "ordinal": 23,
+      "ordinal": 22,
       "title": "SCENE I. Friar Lawrence’s Cell.",
       "metadata": {
         "scenes": [
@@ -1192,11 +1192,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/23/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/22/audio.mp3",
       "duration_s": 386.5947489999999
     },
     {
-      "ordinal": 24,
+      "ordinal": 23,
       "title": "SCENE II. Hall in Capulet’s House.",
       "metadata": {
         "scenes": [
@@ -1208,11 +1208,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/24/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/23/audio.mp3",
       "duration_s": 186.37351799999993
     },
     {
-      "ordinal": 25,
+      "ordinal": 24,
       "title": "SCENE III. Juliet’s Chamber.",
       "metadata": {
         "scenes": [
@@ -1224,11 +1224,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/25/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/24/audio.mp3",
       "duration_s": 188.92628299999998
     },
     {
-      "ordinal": 26,
+      "ordinal": 25,
       "title": "SCENE IV. Hall in Capulet’s House.",
       "metadata": {
         "scenes": [
@@ -1240,11 +1240,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/26/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/25/audio.mp3",
       "duration_s": 139.74419800000004
     },
     {
-      "ordinal": 27,
+      "ordinal": 26,
       "title": "SCENE V. Juliet’s Chamber; Juliet on the bed.",
       "metadata": {
         "scenes": [
@@ -1256,19 +1256,19 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/27/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/26/audio.mp3",
       "duration_s": 479.51599799999997
     },
     {
-      "ordinal": 28,
+      "ordinal": 27,
       "title": "ACT V",
       "metadata": {},
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/28/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/27/audio.mp3",
       "duration_s": 1.84
     },
     {
-      "ordinal": 29,
+      "ordinal": 28,
       "title": "SCENE I. Mantua. A Street.",
       "metadata": {
         "scenes": [
@@ -1280,11 +1280,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/29/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/28/audio.mp3",
       "duration_s": 299.430208
     },
     {
-      "ordinal": 30,
+      "ordinal": 29,
       "title": "SCENE II. Friar Lawrence’s Cell.",
       "metadata": {
         "scenes": [
@@ -1296,11 +1296,11 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/30/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/29/audio.mp3",
       "duration_s": 111.81648599999997
     },
     {
-      "ordinal": 31,
+      "ordinal": 30,
       "title": "SCENE III. A churchyard; in it a Monument belonging to the Capulets.",
       "metadata": {
         "scenes": [
@@ -1312,7 +1312,7 @@
         ]
       },
       "background_key": null,
-      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/31/audio.mp3",
+      "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/30/audio.mp3",
       "duration_s": 992.958912
     }
   ]
