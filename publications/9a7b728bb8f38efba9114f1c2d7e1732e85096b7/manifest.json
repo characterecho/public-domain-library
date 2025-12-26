@@ -4,8 +4,8 @@
   "description": "EPUB imported from https://gutenberg.org/ebooks/1513.epub3.images",
   "epub_source": "http://www.gutenberg.org/1513",
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
-  "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.jpg",
-  "total_duration_s": 9721.855728,
+  "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
+  "total_duration_s": 9720.240194,
   "characters": [
     {
       "identifier": "NARRATOR",
@@ -905,7 +905,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/4/audio.mp3",
-      "duration_s": 811.895144
+      "duration_s": 810.2796099999999
     },
     {
       "ordinal": 5,
