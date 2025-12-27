@@ -1,0 +1,23 @@
+[
+  {
+    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+    "title": "Romeo and Juliet",
+    "author_names": "William Shakespeare",
+    "updated_at": "2025-12-27T12:39:37Z",
+    "data_checksum": "a877f47c3888af4ef3625c94940107c426ec20bec86989a3f314ffef49c2b375"
+  },
+  {
+    "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+    "title": "Heart of Darkness",
+    "author_names": "Joseph Conrad",
+    "updated_at": "2025-12-22T23:34:55Z",
+    "data_checksum": "310dd9faaae486e5e79b880d1dfbdeb6f8a86278b6e3a7dad42406288f32f86d"
+  },
+  {
+    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+    "title": "A Christmas Carol",
+    "author_names": "Charles Dickens",
+    "updated_at": "2025-12-20T20:45:04Z",
+    "data_checksum": "0aea6e1213b27766f5656fdf1284cf6ab0662f42ed7262efa22751f0d8605f56"
+  }
+]

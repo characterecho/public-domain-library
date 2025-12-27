@@ -1,0 +1,38 @@
+[
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 0,
+    "text": "ACT II",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 1.0,
+    "start_s": 0.0,
+    "end_s": 1.8,
+    "duration_s": 1.8
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 1,
+    "text": "Now old desire doth in his deathbed lie, And young affection gapes to be his heir; That fair for which love groan’d for and would die, With tender Juliet match’d, is now not fair. Now Romeo is belov’d, and loves again, Alike bewitched by the charm of looks; But to his foe suppos’d he must complain, And she steal love’s sweet bait from fearful hooks:",
+    "speed": 1.0,
+    "audio_description": "rhythmic, solemn, evocative",
+    "trailing_silence_s": 0.3,
+    "start_s": 1.8,
+    "end_s": 24.86,
+    "duration_s": 23.06
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "ACT_2_PROLOGUE",
+    "ordinal": 2,
+    "text": "Being held a foe, he may not have access To breathe such vows as lovers use to swear; And she as much in love, her means much less To meet her new beloved anywhere. But passion lends them power, time means, to meet, Tempering extremities with extreme sweet.",
+    "speed": 1.0,
+    "audio_description": "rhythmic, hopeful yet ominous",
+    "trailing_silence_s": 1.0,
+    "start_s": 24.86,
+    "end_s": 41.042857,
+    "duration_s": 16.182857
+  }
+]
