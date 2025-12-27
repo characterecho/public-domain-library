@@ -1,0 +1,26 @@
+name: Deploy Production
+on:
+  push:
+    branches: [ main ]
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # If you have a build step (npm install, etc), add it here.
+
+      - name: Deploy to Root
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: gh-pages
+          folder: .
+          clean: true
+          # CRITICAL: This prevents the 'main' deployment
+          # from deleting your staging folder!
+          clean-exclude: staging
