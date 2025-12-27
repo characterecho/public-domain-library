@@ -1,0 +1,912 @@
+{
+  "title": "Heart of Darkness",
+  "author_names": "Joseph Conrad",
+  "description": "EPUB imported from https://www.gutenberg.org/ebooks/219.epub3.images",
+  "epub_source": "http://www.gutenberg.org/219",
+  "identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+  "cover_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/cover.png",
+  "total_duration_s": 12512.178967000003,
+  "characters": [
+    {
+      "identifier": "MARLOW",
+      "name": "Marlow",
+      "aliases": [
+        "Charlie Marlow"
+      ],
+      "voice_attributes": [
+        "storyteller",
+        "weary",
+        "philosophical",
+        "introspective",
+        "sardonic"
+      ],
+      "visual_attributes": [
+        "sunken cheeks",
+        "yellow complexion",
+        "straight back",
+        "ascetic",
+        "lean face",
+        "hollow"
+      ],
+      "roles": [
+        "Protagonist",
+        "Seaman",
+        "Wanderer",
+        "Steamboat Captain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 335,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOW.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOW.mp3"
+    },
+    {
+      "identifier": "RUSSIAN_TRADER",
+      "name": "The Russian Trader",
+      "aliases": [
+        "the harlequin",
+        "the chap",
+        "the man of patches",
+        "Kurtz's last disciple"
+      ],
+      "voice_attributes": [
+        "cheerful",
+        "vivacious",
+        "garrulous",
+        "solemn",
+        "earnest",
+        "crestfallen"
+      ],
+      "visual_attributes": [
+        "harlequin-like patched clothes",
+        "beardless",
+        "boyish face",
+        "fair",
+        "peeling nose",
+        "little blue eyes"
+      ],
+      "roles": [
+        "Trader",
+        "Wanderer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "russian"
+      },
+      "dialogue_count": 48,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/RUSSIAN_TRADER.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/RUSSIAN_TRADER.mp3"
+    },
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [
+        "Unnamed crewman"
+      ],
+      "voice_attributes": [
+        "calm",
+        "observant",
+        "reflective",
+        "unobtrusive"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "Framing narrator",
+        "Frame Narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "Polish"
+      },
+      "dialogue_count": 28,
+      "image_key": null,
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "MANAGER",
+      "name": "The Central Station Manager",
+      "aliases": [
+        "The general manager",
+        "the nephew"
+      ],
+      "voice_attributes": [
+        "commonplace",
+        "cold",
+        "fidgety",
+        "quiet",
+        "indignant",
+        "sorrowful"
+      ],
+      "visual_attributes": [
+        "middle size",
+        "ordinary build",
+        "blue eyes",
+        "unconscious smile"
+      ],
+      "roles": [
+        "Antagonist",
+        "Administrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 27,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGER.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGER.mp3"
+    },
+    {
+      "identifier": "THE_INTENDED",
+      "name": "Kurtz's Intended",
+      "aliases": [
+        "the girl"
+      ],
+      "voice_attributes": [
+        "murmuring",
+        "eager",
+        "heart-broken",
+        "despairing",
+        "guileless"
+      ],
+      "visual_attributes": [
+        "pale head",
+        "fair hair",
+        "pure brow",
+        "dark eyes",
+        "dressed in black"
+      ],
+      "roles": [
+        "Fiancée",
+        "Mourner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 20,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/THE_INTENDED.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/THE_INTENDED.mp3"
+    },
+    {
+      "identifier": "KURTZ",
+      "name": "Mr. Kurtz",
+      "aliases": [
+        "Kurtz"
+      ],
+      "voice_attributes": [
+        "deep",
+        "profound",
+        "vibrating",
+        "whispering",
+        "commanding"
+      ],
+      "visual_attributes": [
+        "lank",
+        "bony",
+        "ivory face",
+        "emaciated",
+        "seven feet long"
+      ],
+      "roles": [
+        "Station Chief",
+        "Ivory Trader",
+        "Demigod"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ.mp3"
+    },
+    {
+      "identifier": "BRICKMAKER",
+      "name": "The Brickmaker",
+      "aliases": [
+        "The manager's spy",
+        "Papier-mache Mephistopheles"
+      ],
+      "voice_attributes": [
+        "supercilious",
+        "ingratiating",
+        "curious",
+        "reserved"
+      ],
+      "visual_attributes": [
+        "young",
+        "gentlemanly",
+        "forked little beard",
+        "hooked nose"
+      ],
+      "roles": [
+        "Agent",
+        "Spy"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BRICKMAKER.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BRICKMAKER.mp3"
+    },
+    {
+      "identifier": "MANAGERS_UNCLE",
+      "name": "The Manager's Uncle",
+      "aliases": [
+        "the uncle"
+      ],
+      "voice_attributes": [
+        "cunning",
+        "conspiratorial",
+        "grunting",
+        "rumbling"
+      ],
+      "visual_attributes": [
+        "resembles a butcher",
+        "fat paunch",
+        "short legs",
+        "fat man"
+      ],
+      "roles": [
+        "Expedition Leader"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_UNCLE.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_UNCLE.mp3"
+    },
+    {
+      "identifier": "CHIEF_ACCOUNTANT",
+      "name": "The Chief Accountant",
+      "aliases": [],
+      "voice_attributes": [
+        "composed",
+        "precise",
+        "calm",
+        "annoyed"
+      ],
+      "visual_attributes": [
+        "immaculately dressed",
+        "starched collar",
+        "white cuffs",
+        "varnished boots"
+      ],
+      "roles": [
+        "Company Official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CHIEF_ACCOUNTANT.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CHIEF_ACCOUNTANT.mp3"
+    },
+    {
+      "identifier": "DOCTOR",
+      "name": "The Doctor",
+      "aliases": [],
+      "voice_attributes": [
+        "matter-of-fact",
+        "mumbling",
+        "inquisitive",
+        "imperturbable"
+      ],
+      "visual_attributes": [
+        "unshaven",
+        "small",
+        "threadbare coat"
+      ],
+      "roles": [
+        "Company Doctor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DOCTOR.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DOCTOR.mp3"
+    },
+    {
+      "identifier": "SWEDE_CAPTAIN",
+      "name": "The Swede Captain",
+      "aliases": [],
+      "voice_attributes": [
+        "morose",
+        "bitter",
+        "contemptuous",
+        "precise"
+      ],
+      "visual_attributes": [
+        "young",
+        "lean",
+        "fair",
+        "lanky hair"
+      ],
+      "roles": [
+        "Steamer Captain"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "swedish"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SWEDE_CAPTAIN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SWEDE_CAPTAIN.mp3"
+    },
+    {
+      "identifier": "PILGRIM_FAT",
+      "name": "Fat Pilgrim",
+      "aliases": [
+        "the pilgrim in pink pyjamas"
+      ],
+      "voice_attributes": [
+        "stammering",
+        "agitated",
+        "impressed",
+        "official"
+      ],
+      "visual_attributes": [
+        "little fat man",
+        "sandy hair",
+        "red whiskers",
+        "sidespring boots",
+        "pink pyjamas"
+      ],
+      "roles": [
+        "Pilgrim",
+        "Agent"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_FAT.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_FAT.mp3"
+    },
+    {
+      "identifier": "FOREMAN",
+      "name": "The Foreman",
+      "aliases": [
+        "Boiler-maker"
+      ],
+      "voice_attributes": [
+        "enthusiastic",
+        "worried",
+        "intense"
+      ],
+      "visual_attributes": [
+        "lank",
+        "bony",
+        "yellow-faced",
+        "bald",
+        "long beard"
+      ],
+      "roles": [
+        "Mechanic"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/FOREMAN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/FOREMAN.mp3"
+    },
+    {
+      "identifier": "STOUT_MAN",
+      "name": "The Stout Man",
+      "aliases": [],
+      "voice_attributes": [
+        "excitable",
+        "voluble",
+        "servile"
+      ],
+      "visual_attributes": [
+        "stout",
+        "black moustaches"
+      ],
+      "roles": [
+        "Agent"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/STOUT_MAN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/STOUT_MAN.mp3"
+    },
+    {
+      "identifier": "JOURNALIST",
+      "name": "The Journalist",
+      "aliases": [],
+      "voice_attributes": [
+        "expansive",
+        "confident"
+      ],
+      "visual_attributes": [
+        "furry straight eyebrows",
+        "bristly cropped hair",
+        "eyeglass on a broad ribbon"
+      ],
+      "roles": [
+        "Colleague"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/JOURNALIST.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/JOURNALIST.mp3"
+    },
+    {
+      "identifier": "COMPANY_OFFICIAL",
+      "name": "Company Official",
+      "aliases": [
+        "clean-shaved man"
+      ],
+      "voice_attributes": [
+        "official",
+        "suavely pressing",
+        "menacing"
+      ],
+      "visual_attributes": [
+        "clean-shaved",
+        "gold-rimmed spectacles"
+      ],
+      "roles": [
+        "Official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_OFFICIAL.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_OFFICIAL.mp3"
+    },
+    {
+      "identifier": "HEADMAN",
+      "name": "The Headman",
+      "aliases": [],
+      "voice_attributes": [
+        "snapping",
+        "curt",
+        "dignified"
+      ],
+      "visual_attributes": [
+        "young",
+        "broad-chested",
+        "dark-blue fringed cloths",
+        "fierce nostrils",
+        "oily ringlets"
+      ],
+      "roles": [
+        "Cannibal Crew Leader"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "african"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/HEADMAN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/HEADMAN.mp3"
+    },
+    {
+      "identifier": "MARLOWS_AUNT",
+      "name": "Marlow's Aunt",
+      "aliases": [],
+      "voice_attributes": [
+        "enthusiastic",
+        "idealistic",
+        "earnest"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "Relative"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOWS_AUNT.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOWS_AUNT.mp3"
+    },
+    {
+      "identifier": "DIRECTOR",
+      "name": "The Director of Companies",
+      "aliases": [
+        "Captain",
+        "Host"
+      ],
+      "voice_attributes": [
+        "authoritative",
+        "calm",
+        "nautical"
+      ],
+      "visual_attributes": [
+        "resembles a pilot"
+      ],
+      "roles": [
+        "Captain",
+        "Companion"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DIRECTOR.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DIRECTOR.mp3"
+    },
+    {
+      "identifier": "PILGRIM_MURMURING",
+      "name": "Murmuring Pilgrim",
+      "aliases": [],
+      "voice_attributes": [
+        "murmuring",
+        "fearful",
+        "strained"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "Pilgrim",
+        "Agent"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_MURMURING.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_MURMURING.mp3"
+    },
+    {
+      "identifier": "MANAGERS_BOY",
+      "name": "Manager's Boy",
+      "aliases": [],
+      "voice_attributes": [
+        "scathing",
+        "contemptuous"
+      ],
+      "visual_attributes": [
+        "insolent",
+        "black head"
+      ],
+      "roles": [
+        "Servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "african"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_BOY.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_BOY.mp3"
+    },
+    {
+      "identifier": "CLERK",
+      "name": "The Clerk",
+      "aliases": [],
+      "voice_attributes": [
+        "jovial",
+        "then cool",
+        "sententious"
+      ],
+      "visual_attributes": [
+        "shabby",
+        "careless",
+        "ink-stained",
+        "billowy cravat"
+      ],
+      "roles": [
+        "Minor Official"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CLERK.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CLERK.mp3"
+    },
+    {
+      "identifier": "COMPANY_SECRETARY",
+      "name": "Company Secretary",
+      "aliases": [],
+      "voice_attributes": [
+        "sympathetic",
+        "desolate",
+        "formal"
+      ],
+      "visual_attributes": [
+        "white-haired",
+        "compassionate expression"
+      ],
+      "roles": [
+        "Minor Official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_SECRETARY.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_SECRETARY.mp3"
+    },
+    {
+      "identifier": "COMPANY_HEAD",
+      "name": "The Company Head",
+      "aliases": [
+        "The great man"
+      ],
+      "voice_attributes": [
+        "vague",
+        "perfunctory",
+        "powerful"
+      ],
+      "visual_attributes": [
+        "pale",
+        "plump",
+        "short",
+        "wears a frock-coat"
+      ],
+      "roles": [
+        "Executive"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_HEAD.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_HEAD.mp3"
+    },
+    {
+      "identifier": "PILGRIM_DECK",
+      "name": "Pilgrim on Deck",
+      "aliases": [
+        "some one on deck"
+      ],
+      "voice_attributes": [
+        "disconsolate",
+        "crying out"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "Pilgrim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_DECK.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_DECK.mp3"
+    },
+    {
+      "identifier": "LISTENER_1",
+      "name": "A Listener",
+      "aliases": [
+        "a voice"
+      ],
+      "voice_attributes": [
+        "growling",
+        "impatient",
+        "gruff"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "Companion"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/LISTENER_1.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/LISTENER_1.mp3"
+    },
+    {
+      "identifier": "KURTZS_COUSIN",
+      "name": "Kurtz's Cousin",
+      "aliases": [],
+      "voice_attributes": [
+        "anxious"
+      ],
+      "visual_attributes": [
+        "lank grey hair",
+        "greasy coat-collar"
+      ],
+      "roles": [
+        "Relative",
+        "Organist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZS_COUSIN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZS_COUSIN.mp3"
+    },
+    {
+      "identifier": "PILGRIM_RED_HAIRED",
+      "name": "Red-Haired Pilgrim",
+      "aliases": [],
+      "voice_attributes": [
+        "excited",
+        "bloodthirsty",
+        "indignant"
+      ],
+      "visual_attributes": [
+        "red-haired",
+        "gingery"
+      ],
+      "roles": [
+        "Pilgrim",
+        "Agent"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_RED_HAIRED.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_RED_HAIRED.mp3"
+    },
+    {
+      "identifier": "PILGRIM_AWED",
+      "name": "Awed Pilgrim",
+      "aliases": [],
+      "voice_attributes": [
+        "awed",
+        "whispering",
+        "fearful"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "Pilgrim",
+        "Agent"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "continental"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_AWED.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_AWED.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/0/segment_0.png",
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/0/audio.mp3",
+      "duration_s": 7.0
+    },
+    {
+      "ordinal": 1,
+      "title": "Part I.",
+      "metadata": {
+        "scene_summary": {
+          "description": "At sunset, five men aboard a cruising yawl named the Nellie are anchored in the Thames Estuary, waiting for the tide to turn. The mood is meditative and serene as the sky glows, but a mournful gloom hangs over London around the year 1900 in the distance, setting a contemplative and slightly ominous tone.",
+          "important_details": [
+            "Location: The Nellie, a yawl on the Thames Estuary",
+            "Time of Day: Sunset, turning to dusk",
+            "Weather: Calm, hazy",
+            "Atmosphere: Placid, meditative, with an undercurrent of darkness"
+          ],
+          "notable_characters": [
+            "NARRATOR",
+            "DIRECTOR",
+            "LAWYER",
+            "ACCOUNTANT",
+            "MARLOW"
+          ]
+        }
+      },
+      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/1/segment_1.png",
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/1/audio.mp3",
+      "duration_s": 4773.619772000003
+    },
+    {
+      "ordinal": 2,
+      "title": "Part II.",
+      "metadata": {
+        "scene_summary": {
+          "description": "On a steamboat deck, Marlow overhears a clandestine conversation about the mysterious Mr. Kurtz. The scene then shifts to the arduous and surreal journey up the Congo River, culminating in a tense, fog-bound halt and a sudden, violent attack before finally arriving at Kurtz's station.",
+          "important_details": [
+            "Location: On a steamboat on the Congo River",
+            "Atmosphere: Conspiratorial, oppressive, tense, surreal",
+            "Key Events: Eavesdropping, river journey, fog, native cries, arrow attack, arrival at Inner Station"
+          ],
+          "notable_characters": [
+            "MARLOW",
+            "MANAGER",
+            "MANAGERS_UNCLE",
+            "HEADMAN",
+            "RUSSIAN_TRADER",
+            "NARRATOR"
+          ]
+        }
+      },
+      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/2/segment_2.png",
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/2/audio.mp3",
+      "duration_s": 4017.1941710000006
+    },
+    {
+      "ordinal": 3,
+      "title": "Part III.",
+      "metadata": {
+        "scene_summary": {
+          "description": "On a steamboat deep in the Congo jungle, Marlow learns the disturbing truth about Kurtz from a devoted Russian trader. The scene transitions from the eerie stillness of the station, marked by severed heads on stakes, to a tense confrontation with Kurtz's native followers, his dramatic removal to the boat, his eventual death during the journey downriver, and finally to a somber, gas-lit drawing-room in Europe where Marlow confronts Kurtz's memory by lying to his fiancée.",
+          "important_details": [
+            "Congo River",
+            "Inner Station",
+            "Steamboat deck",
+            "European drawing-room",
+            "Late 19th Century"
+          ],
+          "notable_characters": [
+            "MARLOW",
+            "RUSSIAN_TRADER",
+            "KURTZ",
+            "MANAGER",
+            "THE_INTENDED",
+            "DIRECTOR",
+            "NARRATOR"
+          ]
+        }
+      },
+      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/3/segment_3.png",
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/3/audio.mp3",
+      "duration_s": 3714.3650239999993
+    }
+  ]
+}

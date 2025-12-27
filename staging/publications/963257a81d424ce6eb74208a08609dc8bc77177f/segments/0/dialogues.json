@@ -1,0 +1,35 @@
+[
+  {
+    "character_identifier": "NARRATOR",
+    "ordinal": 0,
+    "text": "Heart of Darkness",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 0.5,
+    "start_s": 0.0,
+    "end_s": 1.82,
+    "duration_s": 1.82
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "ordinal": 1,
+    "text": "by Joseph Conrad",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 0.8,
+    "start_s": 1.82,
+    "end_s": 3.8600000000000003,
+    "duration_s": 2.04
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "ordinal": 2,
+    "text": "A Character Echo Production",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 1.5,
+    "start_s": 3.8600000000000003,
+    "end_s": 7.0,
+    "duration_s": 3.14
+  }
+]

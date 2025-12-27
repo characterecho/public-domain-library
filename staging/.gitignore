@@ -1,0 +1,60 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+.pytest_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Pip / build
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Packaging
+*.egg
+*.whl
+
+# Misc
+*.sqlite3
+*.db
+
+# Local env files
+.env
+.env.local
+
+# GitHub Actions (runner caches / artifacts)
+.github/workflows/*.local
+
+# temp/test files
+tmp/
+
+# Ignore Python bytecode in tools if accidentally generated
+tools/__pycache__/
+

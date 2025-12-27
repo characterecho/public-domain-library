@@ -1,0 +1,1388 @@
+{
+  "title": "A Christmas Carol",
+  "author_names": "Charles Dickens",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/46.epub3.images",
+  "epub_source": "http://www.gutenberg.org/46",
+  "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+  "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
+  "total_duration_s": 9410.522866,
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [
+        "The Storyteller"
+      ],
+      "voice_attributes": [
+        "authoritative",
+        "warm",
+        "knowing",
+        "theatrical",
+        "expressive"
+      ],
+      "visual_attributes": [
+        "omniscient",
+        "unseen"
+      ],
+      "roles": [
+        "narrator",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 440,
+      "image_key": null,
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "SCROOGE",
+      "name": "Ebenezer Scrooge",
+      "aliases": [
+        "Old Scrooge",
+        "Uncle",
+        "Master Scrooge",
+        "Ebenezer",
+        "Mr. Scrooge",
+        "Uncle Scrooge",
+        "Scrooge the Baleful",
+        "the Ogre",
+        "the Founder of the Feast"
+      ],
+      "voice_attributes": [
+        "grating",
+        "cold",
+        "sharp",
+        "caustic",
+        "miserly",
+        "perplexed",
+        "trembling",
+        "broken",
+        "submissive",
+        "reverent",
+        "muttering",
+        "interested",
+        "penitent",
+        "fearful",
+        "pleading",
+        "agonized",
+        "desperate",
+        "fluttered",
+        "laughing",
+        "crying",
+        "breathless",
+        "giddy",
+        "euphoric",
+        "whispering",
+        "chuckling"
+      ],
+      "visual_attributes": [
+        "old",
+        "pointed nose",
+        "thin lips",
+        "shrivelled cheek",
+        "stiff gait",
+        "red eyes",
+        "frosty appearance",
+        "ferret eyes",
+        "wearing dressing-gown and nightcap",
+        "slippers",
+        "timid posture",
+        "hanging head",
+        "bending before rebuke",
+        "kneeling",
+        "legs trembling",
+        "hardly able to stand",
+        "shuddering from head to foot",
+        "wet face with tears",
+        "hands shaking",
+        "turning garments inside out",
+        "perfectly winded",
+        "glowing",
+        "irresistibly pleasant",
+        "delighted smile"
+      ],
+      "roles": [
+        "protagonist",
+        "miser",
+        "businessman",
+        "observer of his past",
+        "employer",
+        "uncle",
+        "transformed witness",
+        "observer of his future",
+        "penitent witness",
+        "transformed miser",
+        "generous benefactor",
+        "redeemed man"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 148,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCROOGE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCROOGE.mp3"
+    },
+    {
+      "identifier": "MARLEY_GHOST",
+      "name": "Jacob Marley's Ghost",
+      "aliases": [
+        "Marley",
+        "The Ghost",
+        "The Spectre",
+        "The Phantom",
+        "The Apparition"
+      ],
+      "voice_attributes": [
+        "hollow",
+        "disturbing",
+        "mournful",
+        "anguished",
+        "sepulchral"
+      ],
+      "visual_attributes": [
+        "transparent",
+        "pigtail",
+        "bound with kerchief",
+        "wearing chains",
+        "cash-boxes and ledgers",
+        "ghostly spectacles"
+      ],
+      "roles": [
+        "ghost",
+        "former partner",
+        "harbinger"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 27,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARLEY_GHOST.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARLEY_GHOST.mp3"
+    },
+    {
+      "identifier": "GHOST_CHRISTMAS_PRESENT",
+      "name": "Ghost of Christmas Present",
+      "aliases": [
+        "The Spirit",
+        "The Ghost",
+        "The Phantom",
+        "Christmas Present"
+      ],
+      "voice_attributes": [
+        "exclaiming",
+        "jovial",
+        "commanding",
+        "generous",
+        "cheery",
+        "unconstrained",
+        "joyful",
+        "mysterious",
+        "rebuking",
+        "sorrowful"
+      ],
+      "visual_attributes": [
+        "jolly Giant",
+        "glorious",
+        "green robe bordered with white fur",
+        "bare breast",
+        "bare feet",
+        "holly wreath with icicles",
+        "dark brown curls",
+        "sparkling eye",
+        "open hand",
+        "genial face",
+        "antique rusted scabbard",
+        "glowing torch like Plenty's horn",
+        "capacious palm",
+        "growing older"
+      ],
+      "roles": [
+        "supernatural guide",
+        "spirit of generosity",
+        "teacher",
+        "revealer of truth"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 26,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PRESENT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PRESENT.mp3"
+    },
+    {
+      "identifier": "NEPHEW",
+      "name": "Scrooge's Nephew",
+      "aliases": [
+        "Fred",
+        "Scrooge's nephew",
+        "Mr. Scrooge's nephew",
+        "pleasantest-spoken gentleman",
+        "master"
+      ],
+      "voice_attributes": [
+        "cheerful",
+        "warm",
+        "earnest",
+        "gaily",
+        "pleading",
+        "laughing heartily",
+        "holding sides",
+        "rolling head",
+        "extravagant",
+        "contagious",
+        "good-natured",
+        "joyous",
+        "revelling",
+        "heartily sorry",
+        "kind",
+        "pleasant-spoken",
+        "surprised",
+        "delighted"
+      ],
+      "visual_attributes": [
+        "ruddy face",
+        "handsome",
+        "glowing",
+        "sparkling eyes",
+        "twisting face into contortions",
+        "meeting Bob in street"
+      ],
+      "roles": [
+        "nephew",
+        "optimist",
+        "host",
+        "game player",
+        "compassionate gentleman",
+        "benefactor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 25,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NEPHEW.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NEPHEW.mp3"
+    },
+    {
+      "identifier": "GHOST_CHRISTMAS_PAST",
+      "name": "Ghost of Christmas Past",
+      "aliases": [
+        "The Spirit",
+        "The Ghost"
+      ],
+      "voice_attributes": [
+        "soft",
+        "gentle",
+        "singularly low",
+        "distant",
+        "mild",
+        "thoughtful"
+      ],
+      "visual_attributes": [
+        "child-like yet ancient",
+        "white hair",
+        "unwrinkled face",
+        "long muscular arms",
+        "white tunic",
+        "lustrous belt",
+        "bright light from crown",
+        "shape-shifting",
+        "fluctuating form"
+      ],
+      "roles": [
+        "supernatural guide",
+        "harbinger of memories"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 24,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PAST.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GHOST_CHRISTMAS_PAST.mp3"
+    },
+    {
+      "identifier": "CLERK",
+      "name": "Bob Cratchit",
+      "aliases": [
+        "The Clerk",
+        "Bob",
+        "Cratchit",
+        "little Bob",
+        "the father",
+        "Robert",
+        "my friend",
+        "my good fellow"
+      ],
+      "voice_attributes": [
+        "timid",
+        "mild",
+        "faint",
+        "tremulous",
+        "trembling",
+        "rampant",
+        "beaming",
+        "cheerful",
+        "pleasant",
+        "breaking down",
+        "sobbing",
+        "composed",
+        "apologetic",
+        "pleading"
+      ],
+      "visual_attributes": [
+        "thin",
+        "cold",
+        "wearing white comforter",
+        "threadbare clothes darned and brushed",
+        "three feet of comforter hanging down",
+        "in comforter",
+        "need of comforter",
+        "poor fellow",
+        "threadbare clothes",
+        "hat off",
+        "on stool"
+      ],
+      "roles": [
+        "clerk",
+        "employee",
+        "father",
+        "husband",
+        "mourner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 20,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CLERK.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CLERK.mp3"
+    },
+    {
+      "identifier": "MRS_CRATCHIT",
+      "name": "Mrs. Cratchit",
+      "aliases": [
+        "Cratchit's wife",
+        "mother",
+        "good wife"
+      ],
+      "voice_attributes": [
+        "questioning",
+        "kissing",
+        "officious",
+        "reddening",
+        "indignant",
+        "delighted",
+        "nervous",
+        "flushed",
+        "proud",
+        "steady",
+        "cheerful",
+        "faltering once",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "dressed poorly",
+        "twice-turned gown",
+        "brave in ribbons",
+        "hand up to face",
+        "weak eyes by candlelight"
+      ],
+      "roles": [
+        "wife",
+        "mother",
+        "homemaker",
+        "mourner",
+        "seamstress"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_CRATCHIT.mp3"
+    },
+    {
+      "identifier": "CHARWOMAN",
+      "name": "Charwoman",
+      "aliases": [
+        "woman who entered first",
+        "first woman",
+        "the woman"
+      ],
+      "voice_attributes": [
+        "bold",
+        "defiant",
+        "brazen",
+        "laughing",
+        "callous"
+      ],
+      "visual_attributes": [
+        "heavy bundle",
+        "flaunting manner",
+        "crossing elbows on knees",
+        "bold defiance"
+      ],
+      "roles": [
+        "charwoman",
+        "thief",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.mp3"
+    },
+    {
+      "identifier": "BELLE_YOUNG",
+      "name": "Belle",
+      "aliases": [
+        "Fair young girl"
+      ],
+      "voice_attributes": [
+        "soft",
+        "gentle",
+        "mild",
+        "steady"
+      ],
+      "visual_attributes": [
+        "fair",
+        "in mourning-dress",
+        "tears in eyes"
+      ],
+      "roles": [
+        "former fiancée",
+        "lost love"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.mp3"
+    },
+    {
+      "identifier": "GENTLEMAN_1",
+      "name": "Charity Gentleman",
+      "aliases": [
+        "Portly Gentleman",
+        "First Gentleman",
+        "old gentleman",
+        "dear sir"
+      ],
+      "voice_attributes": [
+        "pleasant",
+        "formal",
+        "earnest",
+        "breathless",
+        "astonished"
+      ],
+      "visual_attributes": [
+        "portly",
+        "pleasant to behold"
+      ],
+      "roles": [
+        "charity collector"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.mp3"
+    },
+    {
+      "identifier": "OLD_JOE",
+      "name": "Old Joe",
+      "aliases": [
+        "Joe",
+        "grey-haired rascal",
+        "old man with pipe"
+      ],
+      "voice_attributes": [
+        "cackling",
+        "shrewd",
+        "jovial"
+      ],
+      "visual_attributes": [
+        "grey-haired",
+        "nearly seventy years of age",
+        "smoking pipe",
+        "screened by frousy curtaining of tatters"
+      ],
+      "roles": [
+        "fence",
+        "receiver of stolen goods",
+        "shop owner"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.mp3"
+    },
+    {
+      "identifier": "CAROLER",
+      "name": "Carol Singer",
+      "aliases": [
+        "The Singer",
+        "Boy with Carol"
+      ],
+      "voice_attributes": [
+        "young",
+        "singing"
+      ],
+      "visual_attributes": [
+        "scant young nose",
+        "cold"
+      ],
+      "roles": [
+        "caroler"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.mp3"
+    },
+    {
+      "identifier": "YOUNG_SCROOGE_APPRENTICE",
+      "name": "Young Scrooge",
+      "aliases": [
+        "Ebenezer",
+        "Young man Scrooge"
+      ],
+      "voice_attributes": [
+        "brisk",
+        "heated",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "now grown a young man",
+        "eager greedy restless motion in eye",
+        "signs of care and avarice beginning"
+      ],
+      "roles": [
+        "apprentice",
+        "younger self"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.mp3"
+    },
+    {
+      "identifier": "FAT_BUSINESSMAN",
+      "name": "Fat Businessman",
+      "aliases": [
+        "great fat man",
+        "man with monstrous chin",
+        "man with large chin",
+        "first speaker"
+      ],
+      "voice_attributes": [
+        "indifferent",
+        "yawning",
+        "disinterested",
+        "casual"
+      ],
+      "visual_attributes": [
+        "great fat",
+        "monstrous chin",
+        "large chin"
+      ],
+      "roles": [
+        "businessman",
+        "merchant",
+        "callous acquaintance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.mp3"
+    },
+    {
+      "identifier": "NIECE",
+      "name": "Scrooge's Niece",
+      "aliases": [
+        "Fred's wife",
+        "Scrooge's niece by marriage",
+        "mistress"
+      ],
+      "voice_attributes": [
+        "indignant",
+        "earnest",
+        "laughing heartily",
+        "clapping hands",
+        "surprised",
+        "warm"
+      ],
+      "visual_attributes": [
+        "very pretty",
+        "exceedingly pretty",
+        "dimpled face",
+        "surprised-looking",
+        "capital face",
+        "ripe little mouth",
+        "good little dots about chin",
+        "sunniest pair of eyes",
+        "provoking",
+        "satisfactory"
+      ],
+      "roles": [
+        "niece by marriage",
+        "wife",
+        "hostess",
+        "harp player"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.mp3"
+    },
+    {
+      "identifier": "PETER_CRATCHIT",
+      "name": "Master Peter Cratchit",
+      "aliases": [
+        "Peter",
+        "Master Peter"
+      ],
+      "voice_attributes": [
+        "reading aloud",
+        "gentle",
+        "grinning"
+      ],
+      "visual_attributes": [
+        "monstrous shirt collar",
+        "Bob's private property collar",
+        "not proud",
+        "nearly choked by collar",
+        "thoughtful",
+        "looking at fire",
+        "book before him",
+        "reading scripture"
+      ],
+      "roles": [
+        "son",
+        "heir",
+        "future man of business",
+        "reader",
+        "mourner"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.mp3"
+    },
+    {
+      "identifier": "CAROLINE_HUSBAND",
+      "name": "Caroline's Husband",
+      "aliases": [
+        "the husband",
+        "young father"
+      ],
+      "voice_attributes": [
+        "careworn",
+        "depressed",
+        "ashamed",
+        "embarrassed"
+      ],
+      "visual_attributes": [
+        "careworn face",
+        "depressed",
+        "young",
+        "remarkable expression",
+        "serious delight",
+        "struggled to repress emotion"
+      ],
+      "roles": [
+        "debtor",
+        "husband",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.mp3"
+    },
+    {
+      "identifier": "MARTHA_CRATCHIT",
+      "name": "Martha",
+      "aliases": [
+        "Martha Cratchit"
+      ],
+      "voice_attributes": [
+        "[]"
+      ],
+      "visual_attributes": [
+        "wearing shawl and bonnet",
+        "poor apprentice at milliner's"
+      ],
+      "roles": [
+        "daughter",
+        "milliner's apprentice",
+        "worker"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.mp3"
+    },
+    {
+      "identifier": "MRS_DILBER",
+      "name": "Mrs. Dilber",
+      "aliases": [
+        "the laundress",
+        "laundress"
+      ],
+      "voice_attributes": [
+        "nervous",
+        "agreeable",
+        "laughing"
+      ],
+      "visual_attributes": [
+        "similarly laden with bundle"
+      ],
+      "roles": [
+        "laundress",
+        "thief",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.mp3"
+    },
+    {
+      "identifier": "CAROLINE",
+      "name": "Caroline",
+      "aliases": [
+        "the mother",
+        "young mother"
+      ],
+      "voice_attributes": [
+        "anxious",
+        "faint",
+        "amazed",
+        "thankful",
+        "sorry"
+      ],
+      "visual_attributes": [
+        "mild and patient face",
+        "clasped hands",
+        "praying"
+      ],
+      "roles": [
+        "debtor",
+        "wife",
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.mp3"
+    },
+    {
+      "identifier": "GENTLEMAN_2",
+      "name": "Second Charity Gentleman",
+      "aliases": [
+        "Second Gentleman"
+      ],
+      "voice_attributes": [
+        "measured",
+        "patient"
+      ],
+      "visual_attributes": [
+        "portly",
+        "pleasant to behold"
+      ],
+      "roles": [
+        "charity collector"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.mp3"
+    },
+    {
+      "identifier": "BELLE_HUSBAND",
+      "name": "Belle's Husband",
+      "aliases": [
+        "The master of the house"
+      ],
+      "voice_attributes": [
+        "[]"
+      ],
+      "visual_attributes": [
+        "laden with Christmas toys"
+      ],
+      "roles": [
+        "husband",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.mp3"
+    },
+    {
+      "identifier": "FEZZIWIG",
+      "name": "Old Fezziwig",
+      "aliases": [
+        "Mr. Fezziwig"
+      ],
+      "voice_attributes": [
+        "comfortable",
+        "oily",
+        "rich",
+        "fat",
+        "jovial"
+      ],
+      "visual_attributes": [
+        "Welsh wig",
+        "behind high desk",
+        "capacious waistcoat",
+        "laughed all over himself"
+      ],
+      "roles": [
+        "former employer",
+        "generous master"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.mp3"
+    },
+    {
+      "identifier": "WEALTHY_BUSINESSMAN_2",
+      "name": "Second Wealthy Businessman",
+      "aliases": [
+        "second of two wealthy men"
+      ],
+      "voice_attributes": [
+        "terse",
+        "dismissive"
+      ],
+      "visual_attributes": [
+        "very wealthy",
+        "of great importance"
+      ],
+      "roles": [
+        "businessman",
+        "man of importance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.mp3"
+    },
+    {
+      "identifier": "WEALTHY_BUSINESSMAN_1",
+      "name": "First Wealthy Businessman",
+      "aliases": [
+        "one of two wealthy men"
+      ],
+      "voice_attributes": [
+        "casual",
+        "cryptic"
+      ],
+      "visual_attributes": [
+        "very wealthy",
+        "of great importance"
+      ],
+      "roles": [
+        "businessman",
+        "man of importance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.mp3"
+    },
+    {
+      "identifier": "SERVANT_GIRL",
+      "name": "Fred's Servant",
+      "aliases": [
+        "the girl",
+        "my dear",
+        "my love"
+      ],
+      "voice_attributes": [
+        "polite",
+        "pleasant"
+      ],
+      "visual_attributes": [
+        "nice girl"
+      ],
+      "roles": [
+        "household servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.mp3"
+    },
+    {
+      "identifier": "RED_FACED_GENTLEMAN",
+      "name": "Red-Faced Gentleman",
+      "aliases": [
+        "gentleman with pendulous excrescence",
+        "gentleman with excrescence on nose"
+      ],
+      "voice_attributes": [
+        "greedy",
+        "mercenary"
+      ],
+      "visual_attributes": [
+        "red-faced",
+        "pendulous excrescence on end of nose",
+        "shook like gills of turkey-cock"
+      ],
+      "roles": [
+        "businessman",
+        "merchant",
+        "callous acquaintance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.mp3"
+    },
+    {
+      "identifier": "PLUMP_SISTER",
+      "name": "Plump Sister",
+      "aliases": [
+        "the plump one with the lace tucker",
+        "Scrooge's niece's sister"
+      ],
+      "voice_attributes": [
+        "crying out",
+        "blushing"
+      ],
+      "visual_attributes": [
+        "plump",
+        "lace tucker",
+        "silken rustlings",
+        "rapid flutterings"
+      ],
+      "roles": [
+        "guest",
+        "game player"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.mp3"
+    },
+    {
+      "identifier": "FAN",
+      "name": "Fan",
+      "aliases": [
+        "Little Fan",
+        "Dear brother's sister"
+      ],
+      "voice_attributes": [
+        "bright",
+        "gleeful",
+        "childish",
+        "eager",
+        "laughing"
+      ],
+      "visual_attributes": [
+        "much younger than the boy",
+        "tiny hands",
+        "too little to reach his head",
+        "delicate creature"
+      ],
+      "roles": [
+        "Scrooge's sister",
+        "rescuer"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAN.mp3"
+    },
+    {
+      "identifier": "YOUNG_SCROOGE_CHILD",
+      "name": "Young Scrooge",
+      "aliases": [
+        "The lonely boy",
+        "Poor boy",
+        "Solitary child"
+      ],
+      "voice_attributes": [],
+      "visual_attributes": [
+        "lonely",
+        "reading by feeble fire",
+        "intent",
+        "forgotten",
+        "despairing"
+      ],
+      "roles": [
+        "younger self",
+        "abandoned student"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.mp3"
+    },
+    {
+      "identifier": "BUSINESSMAN_2",
+      "name": "Second Businessman",
+      "aliases": [
+        "another businessman"
+      ],
+      "voice_attributes": [
+        "inquiring",
+        "casual"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "businessman",
+        "merchant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.mp3"
+    },
+    {
+      "identifier": "BUSINESSMAN_3",
+      "name": "Third Businessman",
+      "aliases": [
+        "snuff-taking gentleman"
+      ],
+      "voice_attributes": [
+        "questioning",
+        "surprised"
+      ],
+      "visual_attributes": [
+        "taking vast quantity of snuff",
+        "very large snuff-box"
+      ],
+      "roles": [
+        "businessman",
+        "merchant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.mp3"
+    },
+    {
+      "identifier": "TINY_TIM",
+      "name": "Tiny Tim",
+      "aliases": [
+        "Tim",
+        "little Tim",
+        "My little child",
+        "poor Tiny Tim"
+      ],
+      "voice_attributes": [
+        "plaintive",
+        "singing well",
+        "patient",
+        "mild",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "bearing little crutch",
+        "limbs supported by iron frame",
+        "withered little hand",
+        "thoughtful",
+        "cripple",
+        "growing strong and hearty",
+        "very light to carry",
+        "little cheek",
+        "little face",
+        "Spirit of Tiny Tim"
+      ],
+      "roles": [
+        "son",
+        "youngest child",
+        "symbol of innocence",
+        "deceased"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.mp3"
+    },
+    {
+      "identifier": "SCHOOLMASTER",
+      "name": "The Schoolmaster",
+      "aliases": [],
+      "voice_attributes": [
+        "terrible",
+        "ferocious"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "school authority"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/segment_0.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio.mp3",
+      "duration_s": 9.34
+    },
+    {
+      "ordinal": 1,
+      "title": "STAVE ONE. — MARLEY’S GHOST.",
+      "metadata": {
+        "scene_summary": {
+          "description": "A cold, foggy Christmas Eve in Victorian London. Ebenezer Scrooge sits in his counting-house, a miserly old man surrounded by shadows and chill. Later, he returns to his gloomy chambers where the supernatural begins to intrude upon his solitary evening.",
+          "important_details": [
+            "Christmas Eve",
+            "Victorian London",
+            "Dense fog and bitter cold",
+            "Dimly lit counting-house",
+            "Scrooge's isolated chambers",
+            "Seven years since Marley's death"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "NARRATOR",
+            "NEPHEW",
+            "CLERK",
+            "GENTLEMAN_1",
+            "GENTLEMAN_2",
+            "CAROLER",
+            "MARLEY_GHOST"
+          ]
+        }
+      },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio.mp3",
+      "duration_s": 2196.7401950000003
+    },
+    {
+      "ordinal": 2,
+      "title": "STAVE TWO. — THE FIRST OF THE THREE SPIRITS.",
+      "metadata": {
+        "scene_summary": {
+          "description": "Scrooge awakens in his dark bedroom, confused by the chiming clocks. After wrestling with time and memory, he encounters the Ghost of Christmas Past—a luminous, shape-shifting spirit. They journey through Scrooge's memories: his lonely schooldays, his sister Fan's joyful rescue, Fezziwig's generous Christmas party, and his lost love Belle. The scenes grow increasingly painful until Scrooge desperately fights to extinguish the Ghost's light.",
+          "important_details": [
+            "Setting shifts from Scrooge's dark bedroom to various locations from his past",
+            "Time is disoriented—clocks strike twelve when it should be early morning",
+            "Ghost emanates bright light from its head, wears white tunic with summer flowers",
+            "Locations include: countryside road, old school, Fezziwig's warehouse, Belle's parlour",
+            "Mood progresses from confusion to nostalgia to deep regret and anguish"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "GHOST_CHRISTMAS_PAST",
+            "YOUNG_SCROOGE_CHILD",
+            "FAN",
+            "SCHOOLMASTER",
+            "FEZZIWIG",
+            "YOUNG_SCROOGE_APPRENTICE",
+            "DICK_WILKINS",
+            "BELLE_YOUNG",
+            "BELLE_HUSBAND"
+          ]
+        }
+      },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/audio.mp3",
+      "duration_s": 2033.2462989999992
+    },
+    {
+      "ordinal": 3,
+      "title": "STAVE THREE. — THE SECOND OF THE THREE SPIRITS.",
+      "metadata": {
+        "scene_summary": {
+          "description": "Scrooge awakens in his bed at one o'clock, anxiously awaiting the second spirit. His room transforms into a festive grove adorned with holly, mistletoe, and abundant Christmas fare, illuminated by a blazing fire and ruddy light.",
+          "important_details": [
+            "Time: One o'clock in the morning",
+            "Location: Scrooge's bedroom, transformed into a festive chamber",
+            "Atmosphere: Anticipatory tension giving way to abundance and warmth",
+            "Lighting: Blazing fire and ghostly ruddy light"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "GHOST_CHRISTMAS_PRESENT"
+          ]
+        }
+      },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/audio.mp3",
+      "duration_s": 2801.5547789999996
+    },
+    {
+      "ordinal": 4,
+      "title": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
+      "metadata": {
+        "scene_summary": {
+          "description": "A shrouded phantom draped in deep black approaches Scrooge in darkness, extending only one outstretched hand. The spirit is tall, stately, and utterly silent, filling the air with gloom and mystery as Scrooge kneels in solemn dread.",
+          "important_details": [
+            "nighttime or complete darkness",
+            "phantom barely visible against darkness",
+            "solemn and terrifying atmosphere",
+            "Spirit of Christmas Yet To Come"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "GHOST_CHRISTMAS_YET_TO_COME"
+          ]
+        }
+      },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio.mp3",
+      "duration_s": 1623.907866
+    },
+    {
+      "ordinal": 5,
+      "title": "STAVE FIVE. — THE END OF IT.",
+      "metadata": {
+        "scene_summary": {
+          "description": "Scrooge's bedroom on Christmas morning, flooded with golden sunlight. The transformed miser awakens with euphoric joy, frantically dressing and rushing about his chambers in a state of giddy disbelief. Church bells ring outside as he discovers he hasn't missed Christmas Day.",
+          "important_details": [
+            "Christmas Day morning",
+            "Clear, bright, cold weather",
+            "Golden sunlight streaming in",
+            "Church bells ringing",
+            "Scrooge's bedroom and sitting-room",
+            "Victorian London street visible from window"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "BOY"
+          ]
+        }
+      },
+      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
+      "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio.mp3",
+      "duration_s": 745.7337269999998
+    }
+  ]
+}
