@@ -128,8 +128,8 @@
     "audio_description": "wary, hushed",
     "trailing_silence_s": 0.3,
     "start_s": 85.453675,
-    "end_s": 86.69068200000001,
-    "duration_s": 1.237007
+    "end_s": 88.44469500000001,
+    "duration_s": 2.99102
   },
   {
     "character_identifier": "MERCUTIO",
@@ -139,8 +139,8 @@
     "speed": 1.0,
     "audio_description": "defensive, irreverent",
     "trailing_silence_s": 0.5,
-    "start_s": 86.69068200000001,
-    "end_s": 105.08401500000001,
+    "start_s": 88.44469500000001,
+    "end_s": 106.83802800000001,
     "duration_s": 18.393333
   },
   {
@@ -151,8 +151,8 @@
     "speed": 1.0,
     "audio_description": "resigned, calm",
     "trailing_silence_s": 0.4,
-    "start_s": 105.08401500000001,
-    "end_s": 113.62102200000001,
+    "start_s": 106.83802800000001,
+    "end_s": 115.37503500000001,
     "duration_s": 8.537007
   },
   {
@@ -163,8 +163,8 @@
     "speed": 1.0,
     "audio_description": "cynical, bawdy",
     "trailing_silence_s": 0.2,
-    "start_s": 113.62102200000001,
-    "end_s": 123.16802900000002,
+    "start_s": 115.37503500000001,
+    "end_s": 124.922042,
     "duration_s": 9.547007
   },
   {
@@ -175,8 +175,8 @@
     "speed": 1.0,
     "audio_description": "shrugging, weary",
     "trailing_silence_s": 0.3,
-    "start_s": 123.16802900000002,
-    "end_s": 138.17465,
+    "start_s": 124.922042,
+    "end_s": 139.928663,
     "duration_s": 15.006621
   },
   {
@@ -187,8 +187,8 @@
     "speed": 1.0,
     "audio_description": "decisive, final",
     "trailing_silence_s": 0.5,
-    "start_s": 138.17465,
-    "end_s": 142.861317,
+    "start_s": 139.928663,
+    "end_s": 144.61533,
     "duration_s": 4.686667
   },
   {
@@ -199,8 +199,8 @@
     "speed": 1.0,
     "audio_description": "atmospheric",
     "trailing_silence_s": 1.0,
-    "start_s": 142.861317,
-    "end_s": 150.70131700000002,
+    "start_s": 144.61533,
+    "end_s": 152.45533,
     "duration_s": 7.84
   }
 ]

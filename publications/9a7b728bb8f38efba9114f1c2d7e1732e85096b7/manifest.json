@@ -5,7 +5,7 @@
   "epub_source": "http://www.gutenberg.org/1513",
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
   "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
-  "total_duration_s": 9634.649536,
+  "total_duration_s": 9740.87899,
   "characters": [
     {
       "identifier": "ROMEO",
@@ -953,7 +953,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/6/audio.mp3",
-      "duration_s": 338.2654230000001
+      "duration_s": 351.39474300000006
     },
     {
       "ordinal": 7,
@@ -969,7 +969,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/7/audio.mp3",
-      "duration_s": 449.138155
+      "duration_s": 450.496046
     },
     {
       "ordinal": 8,
@@ -1001,7 +1001,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/9/audio.mp3",
-      "duration_s": 150.70131700000002
+      "duration_s": 152.45533
     },
     {
       "ordinal": 10,
@@ -1017,7 +1017,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/10/audio.mp3",
-      "duration_s": 555.3845240000002
+      "duration_s": 566.7393070000002
     },
     {
       "ordinal": 11,
@@ -1033,7 +1033,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/11/audio.mp3",
-      "duration_s": 293.8227969999999
+      "duration_s": 310.9516409999999
     },
     {
       "ordinal": 12,
@@ -1049,7 +1049,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/12/audio.mp3",
-      "duration_s": 589.976981
+      "duration_s": 592.266641
     },
     {
       "ordinal": 13,
@@ -1137,7 +1137,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/18/audio.mp3",
-      "duration_s": 546.5974679999999
+      "duration_s": 547.797468
     },
     {
       "ordinal": 19,
@@ -1193,7 +1193,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/22/audio.mp3",
-      "duration_s": 383.7147489999999
+      "duration_s": 384.7624359999999
     },
     {
       "ordinal": 23,
@@ -1241,7 +1241,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/25/audio.mp3",
-      "duration_s": 136.10419800000003
+      "duration_s": 138.11562600000002
     },
     {
       "ordinal": 26,
@@ -1313,7 +1313,7 @@
       },
       "background_key": null,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/30/audio.mp3",
-      "duration_s": 987.838912
+      "duration_s": 1042.79474
     }
   ]
 }

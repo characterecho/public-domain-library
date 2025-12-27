@@ -51,13 +51,13 @@
     "character_identifier": "CAPULET",
     "scene_identifier": "SCENE_01",
     "ordinal": 4,
-    "text": "Come, stir, stir, stir! The second cock hath crow’d, The curfew bell hath rung, ’tis three o’clock. Look to the bak’d meats, good Angelica; Spare not for cost.",
+    "text": "Come, stir, stir, stir! The second cock hath crow’d, The curfew bell hath rung, ’tis three o’clock. Look to the bak'd meats, good Angelica; Spare not for cost.",
     "speed": 1.0,
     "audio_description": "boisterous, commanding",
     "trailing_silence_s": 0.2,
     "start_s": 20.673674000000002,
-    "end_s": 30.01245,
-    "duration_s": 9.338776
+    "end_s": 32.023878,
+    "duration_s": 11.350204
   },
   {
     "character_identifier": "NURSE",
@@ -67,8 +67,8 @@
     "speed": 1.0,
     "audio_description": "chastising, maternal",
     "trailing_silence_s": 0.2,
-    "start_s": 30.01245,
-    "end_s": 35.859457,
+    "start_s": 32.023878,
+    "end_s": 37.870885,
     "duration_s": 5.847007
   },
   {
@@ -79,8 +79,8 @@
     "speed": 1.0,
     "audio_description": "dismissive, prideful",
     "trailing_silence_s": 0.2,
-    "start_s": 35.859457,
-    "end_s": 42.286645,
+    "start_s": 37.870885,
+    "end_s": 44.298073,
     "duration_s": 6.427188
   },
   {
@@ -91,8 +91,8 @@
     "speed": 1.0,
     "audio_description": "wry, knowing",
     "trailing_silence_s": 0.4,
-    "start_s": 42.286645,
-    "end_s": 47.713266,
+    "start_s": 44.298073,
+    "end_s": 49.724694,
     "duration_s": 5.426621
   },
   {
@@ -103,8 +103,8 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_s": 0.3,
-    "start_s": 47.713266,
-    "end_s": 53.613265999999996,
+    "start_s": 49.724694,
+    "end_s": 55.624694,
     "duration_s": 5.9
   },
   {
@@ -115,8 +115,8 @@
     "speed": 1.0,
     "audio_description": "amused, muttering",
     "trailing_silence_s": 0.4,
-    "start_s": 53.613265999999996,
-    "end_s": 56.799932999999996,
+    "start_s": 55.624694,
+    "end_s": 58.811361,
     "duration_s": 3.186667
   },
   {
@@ -127,8 +127,8 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 56.799932999999996,
-    "end_s": 63.719933,
+    "start_s": 58.811361,
+    "end_s": 65.73136099999999,
     "duration_s": 6.92
   },
   {
@@ -139,8 +139,8 @@
     "speed": 1.0,
     "audio_description": "barking, inquisitive",
     "trailing_silence_s": 0.1,
-    "start_s": 63.719933,
-    "end_s": 65.8866,
+    "start_s": 65.73136099999999,
+    "end_s": 67.898028,
     "duration_s": 2.166667
   },
   {
@@ -151,8 +151,8 @@
     "speed": 1.0,
     "audio_description": "strained, harried",
     "trailing_silence_s": 0.2,
-    "start_s": 65.8866,
-    "end_s": 68.703607,
+    "start_s": 67.898028,
+    "end_s": 70.715035,
     "duration_s": 2.817007
   },
   {
@@ -163,8 +163,8 @@
     "speed": 1.0,
     "audio_description": "impatient",
     "trailing_silence_s": 0.3,
-    "start_s": 68.703607,
-    "end_s": 70.66061400000001,
+    "start_s": 70.715035,
+    "end_s": 72.672042,
     "duration_s": 1.957007
   },
   {
@@ -175,8 +175,8 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 70.66061400000001,
-    "end_s": 74.66061400000001,
+    "start_s": 72.672042,
+    "end_s": 76.672042,
     "duration_s": 4.0
   },
   {
@@ -187,8 +187,8 @@
     "speed": 1.0,
     "audio_description": "ordering",
     "trailing_silence_s": 0.1,
-    "start_s": 74.66061400000001,
-    "end_s": 79.90719000000001,
+    "start_s": 76.672042,
+    "end_s": 81.91861800000001,
     "duration_s": 5.246576
   },
   {
@@ -199,8 +199,8 @@
     "speed": 1.0,
     "audio_description": "cheeky, confident",
     "trailing_silence_s": 0.4,
-    "start_s": 79.90719000000001,
-    "end_s": 84.57385700000002,
+    "start_s": 81.91861800000001,
+    "end_s": 86.58528500000001,
     "duration_s": 4.666667
   },
   {
@@ -211,8 +211,8 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_s": 0.3,
-    "start_s": 84.57385700000002,
-    "end_s": 90.63385700000002,
+    "start_s": 86.58528500000001,
+    "end_s": 92.64528500000002,
     "duration_s": 6.06
   },
   {
@@ -223,8 +223,8 @@
     "speed": 1.0,
     "audio_description": "jovial, expectant",
     "trailing_silence_s": 0.5,
-    "start_s": 90.63385700000002,
-    "end_s": 103.52052400000002,
+    "start_s": 92.64528500000002,
+    "end_s": 105.53195200000002,
     "duration_s": 12.886667
   },
   {
@@ -235,8 +235,8 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_s": 0.3,
-    "start_s": 103.52052400000002,
-    "end_s": 112.54052400000002,
+    "start_s": 105.53195200000002,
+    "end_s": 114.55195200000001,
     "duration_s": 9.02
   },
   {
@@ -247,8 +247,8 @@
     "speed": 1.0,
     "audio_description": "shouting, beckoning",
     "trailing_silence_s": 0.4,
-    "start_s": 112.54052400000002,
-    "end_s": 116.76719100000003,
+    "start_s": 114.55195200000001,
+    "end_s": 118.77861900000002,
     "duration_s": 4.226667
   },
   {
@@ -259,8 +259,8 @@
     "speed": 1.0,
     "audio_description": "descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 116.76719100000003,
-    "end_s": 120.56719100000002,
+    "start_s": 118.77861900000002,
+    "end_s": 122.57861900000002,
     "duration_s": 3.8
   },
   {
@@ -271,8 +271,8 @@
     "speed": 1.0,
     "audio_description": "frenetic, joyful",
     "trailing_silence_s": 0.6,
-    "start_s": 120.56719100000002,
-    "end_s": 129.86419800000002,
+    "start_s": 122.57861900000002,
+    "end_s": 131.875626,
     "duration_s": 9.297007
   },
   {
@@ -283,8 +283,8 @@
     "speed": 1.0,
     "audio_description": "closing",
     "trailing_silence_s": 1.0,
-    "start_s": 129.86419800000002,
-    "end_s": 136.10419800000003,
+    "start_s": 131.875626,
+    "end_s": 138.11562600000002,
     "duration_s": 6.24
   }
 ]

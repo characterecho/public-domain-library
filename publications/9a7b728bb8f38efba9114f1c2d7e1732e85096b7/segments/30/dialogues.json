@@ -20,8 +20,8 @@
     "audio_description": "commanding, hushed",
     "trailing_silence_s": 0.2,
     "start_s": 11.42,
-    "end_s": 12.937007,
-    "duration_s": 1.517007
+    "end_s": 17.125125,
+    "duration_s": 5.705125
   },
   {
     "character_identifier": "PARIS",
@@ -31,9 +31,9 @@
     "speed": 1.0,
     "audio_description": "instructive, cautious",
     "trailing_silence_s": 0.2,
-    "start_s": 12.937007,
-    "end_s": 24.744014,
-    "duration_s": 11.807007
+    "start_s": 17.125125,
+    "end_s": 29.431792,
+    "duration_s": 12.306667
   },
   {
     "character_identifier": "PARIS",
@@ -43,8 +43,8 @@
     "speed": 1.0,
     "audio_description": "urgent",
     "trailing_silence_s": 0.2,
-    "start_s": 24.744014,
-    "end_s": 30.930681,
+    "start_s": 29.431792,
+    "end_s": 35.618459,
     "duration_s": 6.186667
   },
   {
@@ -55,8 +55,8 @@
     "speed": 1.0,
     "audio_description": "whispering, fearful",
     "trailing_silence_s": 0.4,
-    "start_s": 30.930681,
-    "end_s": 35.22372,
+    "start_s": 35.618459,
+    "end_s": 39.911498,
     "duration_s": 4.293039
   },
   {
@@ -67,8 +67,8 @@
     "speed": 1.0,
     "audio_description": "somber",
     "trailing_silence_s": 0.5,
-    "start_s": 35.22372,
-    "end_s": 44.84372,
+    "start_s": 39.911498,
+    "end_s": 49.531498,
     "duration_s": 9.62
   },
   {
@@ -79,9 +79,9 @@
     "speed": 1.0,
     "audio_description": "mournful, tender",
     "trailing_silence_s": 0.2,
-    "start_s": 44.84372,
-    "end_s": 54.510726999999996,
-    "duration_s": 9.667007
+    "start_s": 49.531498,
+    "end_s": 62.038165,
+    "duration_s": 12.506667
   },
   {
     "character_identifier": "PARIS",
@@ -91,8 +91,8 @@
     "speed": 1.0,
     "audio_description": "solemn",
     "trailing_silence_s": 0.4,
-    "start_s": 54.510726999999996,
-    "end_s": 60.117734,
+    "start_s": 62.038165,
+    "end_s": 67.645172,
     "duration_s": 5.607007
   },
   {
@@ -103,8 +103,8 @@
     "speed": 1.0,
     "audio_description": "alert",
     "trailing_silence_s": 0.2,
-    "start_s": 60.117734,
-    "end_s": 64.477734,
+    "start_s": 67.645172,
+    "end_s": 72.005172,
     "duration_s": 4.36
   },
   {
@@ -115,8 +115,8 @@
     "speed": 1.0,
     "audio_description": "startled, suspicious",
     "trailing_silence_s": 0.4,
-    "start_s": 64.477734,
-    "end_s": 74.704741,
+    "start_s": 72.005172,
+    "end_s": 82.232179,
     "duration_s": 10.227007
   },
   {
@@ -127,8 +127,8 @@
     "speed": 1.0,
     "audio_description": "tense",
     "trailing_silence_s": 0.5,
-    "start_s": 74.704741,
-    "end_s": 85.044741,
+    "start_s": 82.232179,
+    "end_s": 92.572179,
     "duration_s": 10.34
   },
   {
@@ -139,8 +139,8 @@
     "speed": 1.0,
     "audio_description": "determined, grim",
     "trailing_silence_s": 0.2,
-    "start_s": 85.044741,
-    "end_s": 91.411748,
+    "start_s": 92.572179,
+    "end_s": 98.939186,
     "duration_s": 6.367007
   },
   {
@@ -151,8 +151,8 @@
     "speed": 1.0,
     "audio_description": "threatening, intense",
     "trailing_silence_s": 0.2,
-    "start_s": 91.411748,
-    "end_s": 99.638755,
+    "start_s": 98.939186,
+    "end_s": 107.166193,
     "duration_s": 8.227007
   },
   {
@@ -163,8 +163,8 @@
     "speed": 1.0,
     "audio_description": "focused, desperate",
     "trailing_silence_s": 0.2,
-    "start_s": 99.638755,
-    "end_s": 109.625422,
+    "start_s": 107.166193,
+    "end_s": 117.15286,
     "duration_s": 9.986667
   },
   {
@@ -175,9 +175,9 @@
     "speed": 1.0,
     "audio_description": "savage, warning",
     "trailing_silence_s": 0.2,
-    "start_s": 109.625422,
-    "end_s": 111.222429,
-    "duration_s": 1.597007
+    "start_s": 117.15286,
+    "end_s": 127.771636,
+    "duration_s": 10.618776
   },
   {
     "character_identifier": "ROMEO",
@@ -187,8 +187,8 @@
     "speed": 1.0,
     "audio_description": "ferocious",
     "trailing_silence_s": 0.3,
-    "start_s": 111.222429,
-    "end_s": 118.84943600000001,
+    "start_s": 127.771636,
+    "end_s": 135.398643,
     "duration_s": 7.627007
   },
   {
@@ -199,9 +199,9 @@
     "speed": 1.0,
     "audio_description": "submissive, worried",
     "trailing_silence_s": 0.2,
-    "start_s": 118.84943600000001,
-    "end_s": 120.19644300000002,
-    "duration_s": 1.347007
+    "start_s": 135.398643,
+    "end_s": 138.54531,
+    "duration_s": 3.146667
   },
   {
     "character_identifier": "ROMEO",
@@ -211,8 +211,8 @@
     "speed": 1.0,
     "audio_description": "softening, generous",
     "trailing_silence_s": 0.3,
-    "start_s": 120.19644300000002,
-    "end_s": 127.04311000000001,
+    "start_s": 138.54531,
+    "end_s": 145.391977,
     "duration_s": 6.846667
   },
   {
@@ -223,8 +223,8 @@
     "speed": 1.0,
     "audio_description": "whispering, suspicious",
     "trailing_silence_s": 0.4,
-    "start_s": 127.04311000000001,
-    "end_s": 134.509777,
+    "start_s": 145.391977,
+    "end_s": 152.858644,
     "duration_s": 7.466667
   },
   {
@@ -235,9 +235,9 @@
     "speed": 1.0,
     "audio_description": "determined",
     "trailing_silence_s": 0.3,
-    "start_s": 134.509777,
-    "end_s": 136.049777,
-    "duration_s": 1.54
+    "start_s": 152.858644,
+    "end_s": 159.758644,
+    "duration_s": 6.9
   },
   {
     "character_identifier": "ROMEO",
@@ -247,8 +247,8 @@
     "speed": 1.0,
     "audio_description": "hating, straining",
     "trailing_silence_s": 0.2,
-    "start_s": 136.049777,
-    "end_s": 144.076444,
+    "start_s": 159.758644,
+    "end_s": 167.785311,
     "duration_s": 8.026667
   },
   {
@@ -259,9 +259,9 @@
     "speed": 1.0,
     "audio_description": "violent",
     "trailing_silence_s": 0.4,
-    "start_s": 144.076444,
-    "end_s": 148.426444,
-    "duration_s": 4.35
+    "start_s": 167.785311,
+    "end_s": 175.582862,
+    "duration_s": 7.797551
   },
   {
     "character_identifier": "PARIS",
@@ -271,8 +271,8 @@
     "speed": 1.0,
     "audio_description": "hateful, resolute",
     "trailing_silence_s": 0.3,
-    "start_s": 148.426444,
-    "end_s": 161.673111,
+    "start_s": 175.582862,
+    "end_s": 188.829529,
     "duration_s": 13.246667
   },
   {
@@ -283,8 +283,8 @@
     "speed": 1.0,
     "audio_description": "aggressive",
     "trailing_silence_s": 0.2,
-    "start_s": 161.673111,
-    "end_s": 164.713111,
+    "start_s": 188.829529,
+    "end_s": 191.869529,
     "duration_s": 3.04
   },
   {
@@ -295,9 +295,9 @@
     "speed": 1.0,
     "audio_description": "furious, commanding",
     "trailing_silence_s": 0.3,
-    "start_s": 164.713111,
-    "end_s": 167.510118,
-    "duration_s": 2.797007
+    "start_s": 191.869529,
+    "end_s": 202.174835,
+    "duration_s": 10.305306
   },
   {
     "character_identifier": "ROMEO",
@@ -307,9 +307,9 @@
     "speed": 1.0,
     "audio_description": "weary, pleading",
     "trailing_silence_s": 0.2,
-    "start_s": 167.510118,
-    "end_s": 176.357125,
-    "duration_s": 8.847007
+    "start_s": 202.174835,
+    "end_s": 212.561502,
+    "duration_s": 10.386667
   },
   {
     "character_identifier": "ROMEO",
@@ -319,8 +319,8 @@
     "speed": 1.0,
     "audio_description": "desperate, honest",
     "trailing_silence_s": 0.2,
-    "start_s": 176.357125,
-    "end_s": 186.46379199999998,
+    "start_s": 212.561502,
+    "end_s": 222.66816899999998,
     "duration_s": 10.106667
   },
   {
@@ -331,8 +331,8 @@
     "speed": 1.0,
     "audio_description": "warning",
     "trailing_silence_s": 0.3,
-    "start_s": 186.46379199999998,
-    "end_s": 192.07045899999997,
+    "start_s": 222.66816899999998,
+    "end_s": 228.27483599999996,
     "duration_s": 5.606667
   },
   {
@@ -343,8 +343,8 @@
     "speed": 1.0,
     "audio_description": "defiant, stern",
     "trailing_silence_s": 0.2,
-    "start_s": 192.07045899999997,
-    "end_s": 196.73712599999996,
+    "start_s": 228.27483599999996,
+    "end_s": 232.94150299999995,
     "duration_s": 4.666667
   },
   {
@@ -355,8 +355,8 @@
     "speed": 1.0,
     "audio_description": "explosive, violent",
     "trailing_silence_s": 0.3,
-    "start_s": 196.73712599999996,
-    "end_s": 199.78379299999997,
+    "start_s": 232.94150299999995,
+    "end_s": 235.98816999999997,
     "duration_s": 3.046667
   },
   {
@@ -367,8 +367,8 @@
     "speed": 1.0,
     "audio_description": "chaotic",
     "trailing_silence_s": 0.4,
-    "start_s": 199.78379299999997,
-    "end_s": 207.363793,
+    "start_s": 235.98816999999997,
+    "end_s": 243.56816999999998,
     "duration_s": 7.58
   },
   {
@@ -379,8 +379,8 @@
     "speed": 1.0,
     "audio_description": "screaming, panicked",
     "trailing_silence_s": 0.5,
-    "start_s": 207.363793,
-    "end_s": 210.616559,
+    "start_s": 243.56816999999998,
+    "end_s": 246.820936,
     "duration_s": 3.252766
   },
   {
@@ -391,8 +391,8 @@
     "speed": 1.0,
     "audio_description": "brutal",
     "trailing_silence_s": 0.4,
-    "start_s": 210.616559,
-    "end_s": 218.336559,
+    "start_s": 246.820936,
+    "end_s": 254.540936,
     "duration_s": 7.72
   },
   {
@@ -403,8 +403,8 @@
     "speed": 1.0,
     "audio_description": "gasping, dying",
     "trailing_silence_s": 0.5,
-    "start_s": 218.336559,
-    "end_s": 224.94322599999998,
+    "start_s": 254.540936,
+    "end_s": 261.147603,
     "duration_s": 6.606667
   },
   {
@@ -415,8 +415,8 @@
     "speed": 1.0,
     "audio_description": "panting, shocked",
     "trailing_silence_s": 0.4,
-    "start_s": 224.94322599999998,
-    "end_s": 230.903226,
+    "start_s": 261.147603,
+    "end_s": 267.107603,
     "duration_s": 5.96
   },
   {
@@ -427,9 +427,9 @@
     "speed": 1.0,
     "audio_description": "dazed, recognizing",
     "trailing_silence_s": 0.2,
-    "start_s": 230.903226,
-    "end_s": 237.260233,
-    "duration_s": 6.357007
+    "start_s": 267.107603,
+    "end_s": 277.45427,
+    "duration_s": 10.346667
   },
   {
     "character_identifier": "ROMEO",
@@ -439,8 +439,8 @@
     "speed": 1.0,
     "audio_description": "confused, sorrowful",
     "trailing_silence_s": 0.2,
-    "start_s": 237.260233,
-    "end_s": 247.3269,
+    "start_s": 277.45427,
+    "end_s": 287.520937,
     "duration_s": 10.066667
   },
   {
@@ -451,8 +451,8 @@
     "speed": 1.0,
     "audio_description": "solemn",
     "trailing_silence_s": 0.2,
-    "start_s": 247.3269,
-    "end_s": 254.99354399999999,
+    "start_s": 287.520937,
+    "end_s": 295.187581,
     "duration_s": 7.666644
   },
   {
@@ -463,8 +463,8 @@
     "speed": 1.0,
     "audio_description": "reverent, delusional",
     "trailing_silence_s": 0.4,
-    "start_s": 254.99354399999999,
-    "end_s": 267.520551,
+    "start_s": 295.187581,
+    "end_s": 307.71458800000005,
     "duration_s": 12.527007
   },
   {
@@ -475,8 +475,8 @@
     "speed": 1.0,
     "audio_description": "quiet, eerie",
     "trailing_silence_s": 0.5,
-    "start_s": 267.520551,
-    "end_s": 276.580551,
+    "start_s": 307.71458800000005,
+    "end_s": 316.77458800000005,
     "duration_s": 9.06
   },
   {
@@ -487,8 +487,8 @@
     "speed": 1.0,
     "audio_description": "bitter, reflective",
     "trailing_silence_s": 0.2,
-    "start_s": 276.580551,
-    "end_s": 285.607218,
+    "start_s": 316.77458800000005,
+    "end_s": 325.801255,
     "duration_s": 9.026667
   },
   {
@@ -499,8 +499,8 @@
     "speed": 1.0,
     "audio_description": "heartbroken, adoring",
     "trailing_silence_s": 0.2,
-    "start_s": 285.607218,
-    "end_s": 294.393613,
+    "start_s": 325.801255,
+    "end_s": 334.58765000000005,
     "duration_s": 8.786395
   },
   {
@@ -511,8 +511,8 @@
     "speed": 1.0,
     "audio_description": "tender",
     "trailing_silence_s": 0.3,
-    "start_s": 294.393613,
-    "end_s": 300.87062000000003,
+    "start_s": 334.58765000000005,
+    "end_s": 341.06465700000007,
     "duration_s": 6.477007
   },
   {
@@ -523,8 +523,8 @@
     "speed": 1.0,
     "audio_description": "guilt-ridden",
     "trailing_silence_s": 0.3,
-    "start_s": 300.87062000000003,
-    "end_s": 311.99728700000003,
+    "start_s": 341.06465700000007,
+    "end_s": 352.19132400000007,
     "duration_s": 11.126667
   },
   {
@@ -535,8 +535,8 @@
     "speed": 1.0,
     "audio_description": "obsessive, weeping",
     "trailing_silence_s": 0.2,
-    "start_s": 311.99728700000003,
-    "end_s": 322.004294,
+    "start_s": 352.19132400000007,
+    "end_s": 362.19833100000005,
     "duration_s": 10.007007
   },
   {
@@ -547,8 +547,8 @@
     "speed": 1.0,
     "audio_description": "resolved, manic",
     "trailing_silence_s": 0.2,
-    "start_s": 322.004294,
-    "end_s": 330.801301,
+    "start_s": 362.19833100000005,
+    "end_s": 370.99533800000006,
     "duration_s": 8.797007
   },
   {
@@ -559,8 +559,8 @@
     "speed": 1.0,
     "audio_description": "agonized",
     "trailing_silence_s": 0.2,
-    "start_s": 330.801301,
-    "end_s": 341.947968,
+    "start_s": 370.99533800000006,
+    "end_s": 382.14200500000004,
     "duration_s": 11.146667
   },
   {
@@ -571,8 +571,8 @@
     "speed": 1.0,
     "audio_description": "loving, final",
     "trailing_silence_s": 0.3,
-    "start_s": 341.947968,
-    "end_s": 348.964975,
+    "start_s": 382.14200500000004,
+    "end_s": 389.159012,
     "duration_s": 7.017007
   },
   {
@@ -583,8 +583,8 @@
     "speed": 1.0,
     "audio_description": "final",
     "trailing_silence_s": 0.3,
-    "start_s": 348.964975,
-    "end_s": 354.224975,
+    "start_s": 389.159012,
+    "end_s": 394.419012,
     "duration_s": 5.26
   },
   {
@@ -595,8 +595,8 @@
     "speed": 1.0,
     "audio_description": "reckless",
     "trailing_silence_s": 0.2,
-    "start_s": 354.224975,
-    "end_s": 362.091982,
+    "start_s": 394.419012,
+    "end_s": 402.286019,
     "duration_s": 7.867007
   },
   {
@@ -607,8 +607,8 @@
     "speed": 1.0,
     "audio_description": "choking, fading",
     "trailing_silence_s": 0.5,
-    "start_s": 362.091982,
-    "end_s": 368.268989,
+    "start_s": 402.286019,
+    "end_s": 408.463026,
     "duration_s": 6.177007
   },
   {
@@ -619,8 +619,8 @@
     "speed": 1.0,
     "audio_description": "hollow, quiet",
     "trailing_silence_s": 0.6,
-    "start_s": 368.268989,
-    "end_s": 379.90898899999996,
+    "start_s": 408.463026,
+    "end_s": 420.103026,
     "duration_s": 11.64
   },
   {
@@ -631,8 +631,8 @@
     "speed": 1.0,
     "audio_description": "shaky, nervous",
     "trailing_silence_s": 0.3,
-    "start_s": 379.90898899999996,
-    "end_s": 388.99411399999997,
+    "start_s": 420.103026,
+    "end_s": 429.188151,
     "duration_s": 9.085125
   },
   {
@@ -643,9 +643,9 @@
     "speed": 1.0,
     "audio_description": "weary",
     "trailing_silence_s": 0.2,
-    "start_s": 388.99411399999997,
-    "end_s": 390.01112099999995,
-    "duration_s": 1.017007
+    "start_s": 429.188151,
+    "end_s": 433.174772,
+    "duration_s": 3.986621
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
@@ -655,8 +655,8 @@
     "speed": 1.0,
     "audio_description": "curious, apprehensive",
     "trailing_silence_s": 0.3,
-    "start_s": 390.01112099999995,
-    "end_s": 400.93778799999995,
+    "start_s": 433.174772,
+    "end_s": 444.101439,
     "duration_s": 10.926667
   },
   {
@@ -667,8 +667,8 @@
     "speed": 1.0,
     "audio_description": "heavy-hearted",
     "trailing_silence_s": 0.2,
-    "start_s": 400.93778799999995,
-    "end_s": 406.68445499999996,
+    "start_s": 444.101439,
+    "end_s": 449.84810600000003,
     "duration_s": 5.746667
   },
   {
@@ -679,8 +679,8 @@
     "speed": 1.0,
     "audio_description": "anxious",
     "trailing_silence_s": 0.2,
-    "start_s": 406.68445499999996,
-    "end_s": 407.63044099999996,
+    "start_s": 449.84810600000003,
+    "end_s": 450.79409200000003,
     "duration_s": 0.945986
   },
   {
@@ -691,8 +691,8 @@
     "speed": 1.0,
     "audio_description": "flat",
     "trailing_silence_s": 0.2,
-    "start_s": 407.63044099999996,
-    "end_s": 408.401053,
+    "start_s": 450.79409200000003,
+    "end_s": 451.56470400000006,
     "duration_s": 0.770612
   },
   {
@@ -703,8 +703,8 @@
     "speed": 1.0,
     "audio_description": "breathless",
     "trailing_silence_s": 0.2,
-    "start_s": 408.401053,
-    "end_s": 410.30772,
+    "start_s": 451.56470400000006,
+    "end_s": 453.4713710000001,
     "duration_s": 1.906667
   },
   {
@@ -715,8 +715,8 @@
     "speed": 1.0,
     "audio_description": "numb",
     "trailing_silence_s": 0.2,
-    "start_s": 410.30772,
-    "end_s": 411.65438700000004,
+    "start_s": 453.4713710000001,
+    "end_s": 454.8180380000001,
     "duration_s": 1.346667
   },
   {
@@ -727,8 +727,8 @@
     "speed": 1.0,
     "audio_description": "insistent",
     "trailing_silence_s": 0.2,
-    "start_s": 411.65438700000004,
-    "end_s": 413.40105400000004,
+    "start_s": 454.8180380000001,
+    "end_s": 456.5647050000001,
     "duration_s": 1.746667
   },
   {
@@ -739,8 +739,8 @@
     "speed": 1.0,
     "audio_description": "frightened",
     "trailing_silence_s": 0.3,
-    "start_s": 413.40105400000004,
-    "end_s": 421.500079,
+    "start_s": 456.5647050000001,
+    "end_s": 464.6637300000001,
     "duration_s": 8.099025
   },
   {
@@ -751,8 +751,8 @@
     "speed": 1.0,
     "audio_description": "trembling, dreading",
     "trailing_silence_s": 0.3,
-    "start_s": 421.500079,
-    "end_s": 429.026746,
+    "start_s": 464.6637300000001,
+    "end_s": 472.1903970000001,
     "duration_s": 7.526667
   },
   {
@@ -763,8 +763,8 @@
     "speed": 1.0,
     "audio_description": "dazed",
     "trailing_silence_s": 0.4,
-    "start_s": 429.026746,
-    "end_s": 436.213753,
+    "start_s": 472.1903970000001,
+    "end_s": 479.37740400000007,
     "duration_s": 7.187007
   },
   {
@@ -775,8 +775,8 @@
     "speed": 1.0,
     "audio_description": "horrified",
     "trailing_silence_s": 0.3,
-    "start_s": 436.213753,
-    "end_s": 441.98042,
+    "start_s": 479.37740400000007,
+    "end_s": 485.14407100000005,
     "duration_s": 5.766667
   },
   {
@@ -787,8 +787,8 @@
     "speed": 1.0,
     "audio_description": "shocked",
     "trailing_silence_s": 0.4,
-    "start_s": 441.98042,
-    "end_s": 447.397427,
+    "start_s": 485.14407100000005,
+    "end_s": 490.56107800000007,
     "duration_s": 5.417007
   },
   {
@@ -799,8 +799,8 @@
     "speed": 1.0,
     "audio_description": "ominous",
     "trailing_silence_s": 0.4,
-    "start_s": 447.397427,
-    "end_s": 453.517427,
+    "start_s": 490.56107800000007,
+    "end_s": 496.68107800000007,
     "duration_s": 6.12
   },
   {
@@ -811,8 +811,8 @@
     "speed": 1.0,
     "audio_description": "wailing, frantic",
     "trailing_silence_s": 0.5,
-    "start_s": 453.517427,
-    "end_s": 464.363527,
+    "start_s": 496.68107800000007,
+    "end_s": 507.52717800000005,
     "duration_s": 10.8461
   },
   {
@@ -823,8 +823,8 @@
     "speed": 1.0,
     "audio_description": "ethereal, slow",
     "trailing_silence_s": 0.5,
-    "start_s": 464.363527,
-    "end_s": 470.583527,
+    "start_s": 507.52717800000005,
+    "end_s": 513.7471780000001,
     "duration_s": 6.22
   },
   {
@@ -835,8 +835,8 @@
     "speed": 1.0,
     "audio_description": "confused, hopeful",
     "trailing_silence_s": 0.4,
-    "start_s": 470.583527,
-    "end_s": 476.890194,
+    "start_s": 513.7471780000001,
+    "end_s": 520.053845,
     "duration_s": 6.306667
   },
   {
@@ -847,8 +847,8 @@
     "speed": 1.0,
     "audio_description": "urgent",
     "trailing_silence_s": 0.2,
-    "start_s": 476.890194,
-    "end_s": 481.650194,
+    "start_s": 520.053845,
+    "end_s": 524.813845,
     "duration_s": 4.76
   },
   {
@@ -859,8 +859,8 @@
     "speed": 1.0,
     "audio_description": "panicked, hurried",
     "trailing_silence_s": 0.2,
-    "start_s": 481.650194,
-    "end_s": 486.276861,
+    "start_s": 524.813845,
+    "end_s": 529.440512,
     "duration_s": 4.626667
   },
   {
@@ -871,8 +871,8 @@
     "speed": 1.0,
     "audio_description": "desperate, weeping",
     "trailing_silence_s": 0.2,
-    "start_s": 486.276861,
-    "end_s": 495.463868,
+    "start_s": 529.440512,
+    "end_s": 538.627519,
     "duration_s": 9.187007
   },
   {
@@ -883,8 +883,8 @@
     "speed": 1.0,
     "audio_description": "begging, terrified",
     "trailing_silence_s": 0.4,
-    "start_s": 495.463868,
-    "end_s": 506.32899299999997,
+    "start_s": 538.627519,
+    "end_s": 549.492644,
     "duration_s": 10.865125
   },
   {
@@ -895,8 +895,8 @@
     "speed": 1.0,
     "audio_description": "cold, resolute",
     "trailing_silence_s": 0.4,
-    "start_s": 506.32899299999997,
-    "end_s": 510.115614,
+    "start_s": 549.492644,
+    "end_s": 553.279265,
     "duration_s": 3.786621
   },
   {
@@ -907,8 +907,8 @@
     "speed": 1.0,
     "audio_description": "quiet, tragic",
     "trailing_silence_s": 0.5,
-    "start_s": 510.115614,
-    "end_s": 515.215614,
+    "start_s": 553.279265,
+    "end_s": 558.379265,
     "duration_s": 5.1
   },
   {
@@ -919,8 +919,8 @@
     "speed": 1.0,
     "audio_description": "whispering, observant",
     "trailing_silence_s": 0.3,
-    "start_s": 515.215614,
-    "end_s": 522.0222809999999,
+    "start_s": 558.379265,
+    "end_s": 565.185932,
     "duration_s": 6.806667
   },
   {
@@ -931,8 +931,8 @@
     "speed": 1.0,
     "audio_description": "bitter, loving",
     "trailing_silence_s": 0.4,
-    "start_s": 522.0222809999999,
-    "end_s": 533.6089479999999,
+    "start_s": 565.185932,
+    "end_s": 576.772599,
     "duration_s": 11.586667
   },
   {
@@ -943,8 +943,8 @@
     "speed": 1.0,
     "audio_description": "tender",
     "trailing_silence_s": 0.3,
-    "start_s": 533.6089479999999,
-    "end_s": 536.6289479999999,
+    "start_s": 576.772599,
+    "end_s": 579.792599,
     "duration_s": 3.02
   },
   {
@@ -955,8 +955,8 @@
     "speed": 1.0,
     "audio_description": "gasps, horrified",
     "trailing_silence_s": 0.4,
-    "start_s": 536.6289479999999,
-    "end_s": 538.3756149999999,
+    "start_s": 579.792599,
+    "end_s": 581.539266,
     "duration_s": 1.746667
   },
   {
@@ -967,8 +967,8 @@
     "speed": 1.0,
     "audio_description": "shouting, distant",
     "trailing_silence_s": 0.3,
-    "start_s": 538.3756149999999,
-    "end_s": 540.623211,
+    "start_s": 581.539266,
+    "end_s": 583.786862,
     "duration_s": 2.247596
   },
   {
@@ -979,8 +979,8 @@
     "speed": 1.0,
     "audio_description": "resolute, sharp",
     "trailing_silence_s": 0.3,
-    "start_s": 540.623211,
-    "end_s": 544.229878,
+    "start_s": 583.786862,
+    "end_s": 587.3935290000001,
     "duration_s": 3.606667
   },
   {
@@ -991,8 +991,8 @@
     "speed": 1.0,
     "audio_description": "violent",
     "trailing_silence_s": 0.3,
-    "start_s": 544.229878,
-    "end_s": 549.449878,
+    "start_s": 587.3935290000001,
+    "end_s": 592.6135290000001,
     "duration_s": 5.22
   },
   {
@@ -1003,8 +1003,8 @@
     "speed": 1.0,
     "audio_description": "determined, final",
     "trailing_silence_s": 0.5,
-    "start_s": 549.449878,
-    "end_s": 553.336499,
+    "start_s": 592.6135290000001,
+    "end_s": 596.5001500000001,
     "duration_s": 3.886621
   },
   {
@@ -1015,8 +1015,8 @@
     "speed": 1.0,
     "audio_description": "brutal, tragic",
     "trailing_silence_s": 0.6,
-    "start_s": 553.336499,
-    "end_s": 563.016499,
+    "start_s": 596.5001500000001,
+    "end_s": 606.18015,
     "duration_s": 9.68
   },
   {
@@ -1027,8 +1027,8 @@
     "speed": 1.0,
     "audio_description": "shaking, pointing",
     "trailing_silence_s": 0.3,
-    "start_s": 563.016499,
-    "end_s": 566.1038229999999,
+    "start_s": 606.18015,
+    "end_s": 609.267474,
     "duration_s": 3.087324
   },
   {
@@ -1039,8 +1039,8 @@
     "speed": 1.0,
     "audio_description": "authoritative, disgusted",
     "trailing_silence_s": 0.3,
-    "start_s": 566.1038229999999,
-    "end_s": 572.31049,
+    "start_s": 609.267474,
+    "end_s": 615.474141,
     "duration_s": 6.206667
   },
   {
@@ -1051,8 +1051,8 @@
     "speed": 1.0,
     "audio_description": "shocked, grim",
     "trailing_silence_s": 0.3,
-    "start_s": 572.31049,
-    "end_s": 580.107497,
+    "start_s": 615.474141,
+    "end_s": 623.271148,
     "duration_s": 7.797007
   },
   {
@@ -1063,8 +1063,8 @@
     "speed": 1.0,
     "audio_description": "shouting",
     "trailing_silence_s": 0.4,
-    "start_s": 580.107497,
-    "end_s": 585.494164,
+    "start_s": 623.271148,
+    "end_s": 628.657815,
     "duration_s": 5.386667
   },
   {
@@ -1075,8 +1075,8 @@
     "speed": 1.0,
     "audio_description": "somber",
     "trailing_silence_s": 0.5,
-    "start_s": 585.494164,
-    "end_s": 593.791171,
+    "start_s": 628.657815,
+    "end_s": 636.954822,
     "duration_s": 8.297007
   },
   {
@@ -1087,8 +1087,8 @@
     "speed": 1.0,
     "audio_description": "rough",
     "trailing_silence_s": 0.3,
-    "start_s": 593.791171,
-    "end_s": 597.011171,
+    "start_s": 636.954822,
+    "end_s": 640.1748220000001,
     "duration_s": 3.22
   },
   {
@@ -1099,8 +1099,8 @@
     "speed": 1.0,
     "audio_description": "stern",
     "trailing_silence_s": 0.2,
-    "start_s": 597.011171,
-    "end_s": 600.637838,
+    "start_s": 640.1748220000001,
+    "end_s": 643.8014890000001,
     "duration_s": 3.626667
   },
   {
@@ -1111,8 +1111,8 @@
     "speed": 1.0,
     "audio_description": "commanding",
     "trailing_silence_s": 0.3,
-    "start_s": 600.637838,
-    "end_s": 603.355638,
+    "start_s": 643.8014890000001,
+    "end_s": 646.5192890000001,
     "duration_s": 2.7178
   },
   {
@@ -1123,8 +1123,8 @@
     "speed": 1.0,
     "audio_description": "pathetic",
     "trailing_silence_s": 0.3,
-    "start_s": 603.355638,
-    "end_s": 607.445638,
+    "start_s": 646.5192890000001,
+    "end_s": 650.6092890000001,
     "duration_s": 4.09
   },
   {
@@ -1135,8 +1135,8 @@
     "speed": 1.0,
     "audio_description": "suspicious",
     "trailing_silence_s": 0.3,
-    "start_s": 607.445638,
-    "end_s": 615.402645,
+    "start_s": 650.6092890000001,
+    "end_s": 658.5662960000001,
     "duration_s": 7.957007
   },
   {
@@ -1147,8 +1147,8 @@
     "speed": 1.0,
     "audio_description": "grim",
     "trailing_silence_s": 0.4,
-    "start_s": 615.402645,
-    "end_s": 618.629312,
+    "start_s": 658.5662960000001,
+    "end_s": 661.7929630000001,
     "duration_s": 3.226667
   },
   {
@@ -1159,8 +1159,8 @@
     "speed": 1.0,
     "audio_description": "regal, chaotic",
     "trailing_silence_s": 0.5,
-    "start_s": 618.629312,
-    "end_s": 626.5893120000001,
+    "start_s": 661.7929630000001,
+    "end_s": 669.7529630000001,
     "duration_s": 7.96
   },
   {
@@ -1171,8 +1171,8 @@
     "speed": 1.0,
     "audio_description": "stern, weary",
     "trailing_silence_s": 0.3,
-    "start_s": 626.5893120000001,
-    "end_s": 632.1559790000001,
+    "start_s": 669.7529630000001,
+    "end_s": 675.3196300000002,
     "duration_s": 5.566667
   },
   {
@@ -1183,8 +1183,8 @@
     "speed": 1.0,
     "audio_description": "fearful, confused",
     "trailing_silence_s": 0.2,
-    "start_s": 632.1559790000001,
-    "end_s": 635.1825550000001,
+    "start_s": 675.3196300000002,
+    "end_s": 678.3462060000002,
     "duration_s": 3.026576
   },
   {
@@ -1195,8 +1195,8 @@
     "speed": 1.0,
     "audio_description": "panicked, breathless",
     "trailing_silence_s": 0.3,
-    "start_s": 635.1825550000001,
-    "end_s": 642.0595620000001,
+    "start_s": 678.3462060000002,
+    "end_s": 685.2232130000002,
     "duration_s": 6.877007
   },
   {
@@ -1207,8 +1207,8 @@
     "speed": 1.0,
     "audio_description": "demanding",
     "trailing_silence_s": 0.2,
-    "start_s": 642.0595620000001,
-    "end_s": 645.6062290000001,
+    "start_s": 685.2232130000002,
+    "end_s": 688.7698800000002,
     "duration_s": 3.546667
   },
   {
@@ -1219,8 +1219,8 @@
     "speed": 1.0,
     "audio_description": "formal, grim",
     "trailing_silence_s": 0.3,
-    "start_s": 645.6062290000001,
-    "end_s": 653.6128960000001,
+    "start_s": 688.7698800000002,
+    "end_s": 696.7765470000002,
     "duration_s": 8.006667
   },
   {
@@ -1231,8 +1231,8 @@
     "speed": 1.0,
     "audio_description": "furious",
     "trailing_silence_s": 0.2,
-    "start_s": 653.6128960000001,
-    "end_s": 657.0799030000001,
+    "start_s": 696.7765470000002,
+    "end_s": 700.2435540000001,
     "duration_s": 3.467007
   },
   {
@@ -1243,8 +1243,8 @@
     "speed": 1.0,
     "audio_description": "accusing",
     "trailing_silence_s": 0.3,
-    "start_s": 657.0799030000001,
-    "end_s": 663.9869100000001,
+    "start_s": 700.2435540000001,
+    "end_s": 707.1505610000002,
     "duration_s": 6.907007
   },
   {
@@ -1255,8 +1255,8 @@
     "speed": 1.0,
     "audio_description": "wailing, horrified",
     "trailing_silence_s": 0.4,
-    "start_s": 663.9869100000001,
-    "end_s": 675.893577,
+    "start_s": 707.1505610000002,
+    "end_s": 719.0572280000001,
     "duration_s": 11.906667
   },
   {
@@ -1267,8 +1267,8 @@
     "speed": 1.0,
     "audio_description": "frail, sobbing",
     "trailing_silence_s": 0.4,
-    "start_s": 675.893577,
-    "end_s": 682.7602440000001,
+    "start_s": 719.0572280000001,
+    "end_s": 725.9238950000001,
     "duration_s": 6.866667
   },
   {
@@ -1279,8 +1279,8 @@
     "speed": 1.0,
     "audio_description": "haggard",
     "trailing_silence_s": 0.3,
-    "start_s": 682.7602440000001,
-    "end_s": 686.7002440000001,
+    "start_s": 725.9238950000001,
+    "end_s": 729.8638950000002,
     "duration_s": 3.94
   },
   {
@@ -1291,8 +1291,8 @@
     "speed": 1.0,
     "audio_description": "solemn, sharp",
     "trailing_silence_s": 0.3,
-    "start_s": 686.7002440000001,
-    "end_s": 692.5072510000001,
+    "start_s": 729.8638950000002,
+    "end_s": 735.6709020000002,
     "duration_s": 5.807007
   },
   {
@@ -1303,8 +1303,8 @@
     "speed": 1.0,
     "audio_description": "broken, hollow",
     "trailing_silence_s": 0.3,
-    "start_s": 692.5072510000001,
-    "end_s": 702.9939180000001,
+    "start_s": 735.6709020000002,
+    "end_s": 746.1575690000002,
     "duration_s": 10.486667
   },
   {
@@ -1315,8 +1315,8 @@
     "speed": 1.0,
     "audio_description": "blunt",
     "trailing_silence_s": 0.3,
-    "start_s": 702.9939180000001,
-    "end_s": 705.0405850000001,
+    "start_s": 746.1575690000002,
+    "end_s": 748.2042360000002,
     "duration_s": 2.046667
   },
   {
@@ -1327,8 +1327,8 @@
     "speed": 1.0,
     "audio_description": "devastated",
     "trailing_silence_s": 0.4,
-    "start_s": 705.0405850000001,
-    "end_s": 710.8408340000001,
+    "start_s": 748.2042360000002,
+    "end_s": 754.0044850000002,
     "duration_s": 5.800249
   },
   {
@@ -1339,8 +1339,8 @@
     "speed": 1.0,
     "audio_description": "agonized, scolding",
     "trailing_silence_s": 0.4,
-    "start_s": 710.8408340000001,
-    "end_s": 716.8578410000001,
+    "start_s": 754.0044850000002,
+    "end_s": 760.0214920000002,
     "duration_s": 6.017007
   },
   {
@@ -1351,8 +1351,8 @@
     "speed": 1.0,
     "audio_description": "commanding",
     "trailing_silence_s": 0.2,
-    "start_s": 716.8578410000001,
-    "end_s": 725.2148480000001,
+    "start_s": 760.0214920000002,
+    "end_s": 768.3784990000001,
     "duration_s": 8.357007
   },
   {
@@ -1363,8 +1363,8 @@
     "speed": 1.0,
     "audio_description": "regal, resolute",
     "trailing_silence_s": 0.4,
-    "start_s": 725.2148480000001,
-    "end_s": 737.451855,
+    "start_s": 768.3784990000001,
+    "end_s": 780.6155060000001,
     "duration_s": 12.237007
   },
   {
@@ -1375,8 +1375,8 @@
     "speed": 1.0,
     "audio_description": "humbled, heavy",
     "trailing_silence_s": 0.2,
-    "start_s": 737.451855,
-    "end_s": 746.388862,
+    "start_s": 780.6155060000001,
+    "end_s": 789.5525130000001,
     "duration_s": 8.937007
   },
   {
@@ -1387,8 +1387,8 @@
     "speed": 1.0,
     "audio_description": "solemn",
     "trailing_silence_s": 0.3,
-    "start_s": 746.388862,
-    "end_s": 753.235529,
+    "start_s": 789.5525130000001,
+    "end_s": 796.3991800000001,
     "duration_s": 6.846667
   },
   {
@@ -1399,8 +1399,8 @@
     "speed": 1.0,
     "audio_description": "impatient",
     "trailing_silence_s": 0.2,
-    "start_s": 753.235529,
-    "end_s": 756.1821960000001,
+    "start_s": 796.3991800000001,
+    "end_s": 799.3458470000002,
     "duration_s": 2.946667
   },
   {
@@ -1411,8 +1411,8 @@
     "speed": 1.0,
     "audio_description": "shaky, explanatory",
     "trailing_silence_s": 0.3,
-    "start_s": 756.1821960000001,
-    "end_s": 769.2292030000001,
+    "start_s": 799.3458470000002,
+    "end_s": 812.3928540000002,
     "duration_s": 13.047007
   },
   {
@@ -1423,8 +1423,8 @@
     "speed": 1.0,
     "audio_description": "informative",
     "trailing_silence_s": 0.3,
-    "start_s": 769.2292030000001,
-    "end_s": 781.5562100000001,
+    "start_s": 812.3928540000002,
+    "end_s": 824.7198610000002,
     "duration_s": 12.327007
   },
   {
@@ -1435,8 +1435,8 @@
     "speed": 1.0,
     "audio_description": "earnest",
     "trailing_silence_s": 0.3,
-    "start_s": 781.5562100000001,
-    "end_s": 797.8192030000001,
+    "start_s": 824.7198610000002,
+    "end_s": 840.9828540000002,
     "duration_s": 16.262993
   },
   {
@@ -1447,8 +1447,8 @@
     "speed": 1.0,
     "audio_description": "guilty",
     "trailing_silence_s": 0.3,
-    "start_s": 797.8192030000001,
-    "end_s": 806.3962100000001,
+    "start_s": 840.9828540000002,
+    "end_s": 849.5598610000002,
     "duration_s": 8.577007
   },
   {
@@ -1459,8 +1459,8 @@
     "speed": 1.0,
     "audio_description": "explaining",
     "trailing_silence_s": 0.3,
-    "start_s": 806.3962100000001,
-    "end_s": 816.0428770000001,
+    "start_s": 849.5598610000002,
+    "end_s": 859.2065280000002,
     "duration_s": 9.646667
   },
   {
@@ -1471,9 +1471,9 @@
     "speed": 1.0,
     "audio_description": "pained",
     "trailing_silence_s": 0.3,
-    "start_s": 816.0428770000001,
-    "end_s": 822.9498840000001,
-    "duration_s": 6.907007
+    "start_s": 859.2065280000002,
+    "end_s": 871.0008140000002,
+    "duration_s": 11.794286
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
@@ -1483,9 +1483,9 @@
     "speed": 1.0,
     "audio_description": "sorrowful",
     "trailing_silence_s": 0.3,
-    "start_s": 822.9498840000001,
-    "end_s": 832.2568910000001,
-    "duration_s": 9.307007
+    "start_s": 871.0008140000002,
+    "end_s": 885.7730590000002,
+    "duration_s": 14.772245
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
@@ -1495,8 +1495,8 @@
     "speed": 1.0,
     "audio_description": "confessing",
     "trailing_silence_s": 0.3,
-    "start_s": 832.2568910000001,
-    "end_s": 845.7638980000002,
+    "start_s": 885.7730590000002,
+    "end_s": 899.2800660000003,
     "duration_s": 13.507007
   },
   {
@@ -1507,9 +1507,9 @@
     "speed": 1.0,
     "audio_description": "vulnerable, resigned",
     "trailing_silence_s": 0.4,
-    "start_s": 845.7638980000002,
-    "end_s": 857.8309050000001,
-    "duration_s": 12.067007
+    "start_s": 899.2800660000003,
+    "end_s": 912.7867330000003,
+    "duration_s": 13.506667
   },
   {
     "character_identifier": "PRINCE_ESCALUS",
@@ -1519,8 +1519,8 @@
     "speed": 1.0,
     "audio_description": "reflective",
     "trailing_silence_s": 0.3,
-    "start_s": 857.8309050000001,
-    "end_s": 863.6679120000001,
+    "start_s": 912.7867330000003,
+    "end_s": 918.6237400000002,
     "duration_s": 5.837007
   },
   {
@@ -1531,8 +1531,8 @@
     "speed": 1.0,
     "audio_description": "shaking, exhausted",
     "trailing_silence_s": 0.2,
-    "start_s": 863.6679120000001,
-    "end_s": 871.9745790000001,
+    "start_s": 918.6237400000002,
+    "end_s": 926.9304070000002,
     "duration_s": 8.306667
   },
   {
@@ -1543,8 +1543,8 @@
     "speed": 1.0,
     "audio_description": "earnest",
     "trailing_silence_s": 0.4,
-    "start_s": 871.9745790000001,
-    "end_s": 880.691586,
+    "start_s": 926.9304070000002,
+    "end_s": 935.6474140000001,
     "duration_s": 8.717007
   },
   {
@@ -1555,8 +1555,8 @@
     "speed": 1.0,
     "audio_description": "authoritative",
     "trailing_silence_s": 0.3,
-    "start_s": 880.691586,
-    "end_s": 888.218253,
+    "start_s": 935.6474140000001,
+    "end_s": 943.1740810000001,
     "duration_s": 7.526667
   },
   {
@@ -1567,8 +1567,8 @@
     "speed": 1.0,
     "audio_description": "small, trembling",
     "trailing_silence_s": 0.4,
-    "start_s": 888.218253,
-    "end_s": 899.49111,
+    "start_s": 943.1740810000001,
+    "end_s": 954.4469380000002,
     "duration_s": 11.272857
   },
   {
@@ -1579,8 +1579,8 @@
     "speed": 1.0,
     "audio_description": "solemn",
     "trailing_silence_s": 0.2,
-    "start_s": 899.49111,
-    "end_s": 906.188117,
+    "start_s": 954.4469380000002,
+    "end_s": 961.1439450000001,
     "duration_s": 6.697007
   },
   {
@@ -1591,8 +1591,8 @@
     "speed": 1.0,
     "audio_description": "sad, verifying",
     "trailing_silence_s": 0.3,
-    "start_s": 906.188117,
-    "end_s": 914.690974,
+    "start_s": 961.1439450000001,
+    "end_s": 969.6468020000001,
     "duration_s": 8.502857
   },
   {
@@ -1603,8 +1603,8 @@
     "speed": 1.0,
     "audio_description": "furious, condemning",
     "trailing_silence_s": 0.3,
-    "start_s": 914.690974,
-    "end_s": 923.697641,
+    "start_s": 969.6468020000001,
+    "end_s": 978.6534690000001,
     "duration_s": 9.006667
   },
   {
@@ -1615,8 +1615,8 @@
     "speed": 1.0,
     "audio_description": "heavy, regretful",
     "trailing_silence_s": 0.5,
-    "start_s": 923.697641,
-    "end_s": 931.344648,
+    "start_s": 978.6534690000001,
+    "end_s": 986.3004760000001,
     "duration_s": 7.647007
   },
   {
@@ -1627,8 +1627,8 @@
     "speed": 1.0,
     "audio_description": "weeping, reaching out",
     "trailing_silence_s": 0.4,
-    "start_s": 931.344648,
-    "end_s": 939.171315,
+    "start_s": 986.3004760000001,
+    "end_s": 994.1271430000002,
     "duration_s": 7.826667
   },
   {
@@ -1639,8 +1639,8 @@
     "speed": 1.0,
     "audio_description": "determined, grand",
     "trailing_silence_s": 0.4,
-    "start_s": 939.171315,
-    "end_s": 952.9979820000001,
+    "start_s": 994.1271430000002,
+    "end_s": 1007.9538100000002,
     "duration_s": 13.826667
   },
   {
@@ -1651,8 +1651,8 @@
     "speed": 1.0,
     "audio_description": "hushed, final",
     "trailing_silence_s": 0.5,
-    "start_s": 952.9979820000001,
-    "end_s": 959.085578,
+    "start_s": 1007.9538100000002,
+    "end_s": 1014.0414060000002,
     "duration_s": 6.087596
   },
   {
@@ -1663,8 +1663,8 @@
     "speed": 1.0,
     "audio_description": "regal, mournful",
     "trailing_silence_s": 0.3,
-    "start_s": 959.085578,
-    "end_s": 968.852245,
+    "start_s": 1014.0414060000002,
+    "end_s": 1023.8080730000001,
     "duration_s": 9.766667
   },
   {
@@ -1675,8 +1675,8 @@
     "speed": 1.0,
     "audio_description": "solemn, concluding",
     "trailing_silence_s": 0.6,
-    "start_s": 968.852245,
-    "end_s": 978.3189120000001,
+    "start_s": 1023.8080730000001,
+    "end_s": 1033.27474,
     "duration_s": 9.466667
   },
   {
@@ -1687,8 +1687,8 @@
     "speed": 1.0,
     "audio_description": "fading, peaceful",
     "trailing_silence_s": 0.8,
-    "start_s": 978.3189120000001,
-    "end_s": 987.838912,
+    "start_s": 1033.27474,
+    "end_s": 1042.79474,
     "duration_s": 9.52
   }
 ]
