@@ -656,8 +656,8 @@
     "audio_description": "urging, cautious",
     "trailing_silence_s": 0.2,
     "start_s": 373.06051,
-    "end_s": 374.66751700000003,
-    "duration_s": 1.607007
+    "end_s": 376.025408,
+    "duration_s": 2.964898
   },
   {
     "character_identifier": "ROMEO",
@@ -667,8 +667,8 @@
     "speed": 1.0,
     "audio_description": "troubled",
     "trailing_silence_s": 0.4,
-    "start_s": 374.66751700000003,
-    "end_s": 378.254184,
+    "start_s": 376.025408,
+    "end_s": 379.612075,
     "duration_s": 3.586667
   },
   {
@@ -679,8 +679,8 @@
     "speed": 1.0,
     "audio_description": "weary, hospitable",
     "trailing_silence_s": 0.6,
-    "start_s": 378.254184,
-    "end_s": 396.85717700000004,
+    "start_s": 379.612075,
+    "end_s": 398.21506800000003,
     "duration_s": 18.602993
   },
   {
@@ -691,8 +691,8 @@
     "speed": 1.0,
     "audio_description": "narrating",
     "trailing_silence_s": 0.5,
-    "start_s": 396.85717700000004,
-    "end_s": 401.997177,
+    "start_s": 398.21506800000003,
+    "end_s": 403.355068,
     "duration_s": 5.14
   },
   {
@@ -703,8 +703,8 @@
     "speed": 1.0,
     "audio_description": "curious, feigning indifference",
     "trailing_silence_s": 0.2,
-    "start_s": 401.997177,
-    "end_s": 405.023844,
+    "start_s": 403.355068,
+    "end_s": 406.381735,
     "duration_s": 3.026667
   },
   {
@@ -715,8 +715,8 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_s": 0.2,
-    "start_s": 405.023844,
-    "end_s": 407.310851,
+    "start_s": 406.381735,
+    "end_s": 408.668742,
     "duration_s": 2.287007
   },
   {
@@ -727,8 +727,8 @@
     "speed": 1.0,
     "audio_description": "pointing",
     "trailing_silence_s": 0.2,
-    "start_s": 407.310851,
-    "end_s": 409.697518,
+    "start_s": 408.668742,
+    "end_s": 411.055409,
     "duration_s": 2.386667
   },
   {
@@ -739,8 +739,8 @@
     "speed": 1.0,
     "audio_description": "uncertain",
     "trailing_silence_s": 0.2,
-    "start_s": 409.697518,
-    "end_s": 412.524185,
+    "start_s": 411.055409,
+    "end_s": 413.882076,
     "duration_s": 2.826667
   },
   {
@@ -751,8 +751,8 @@
     "speed": 1.0,
     "audio_description": "intense",
     "trailing_silence_s": 0.2,
-    "start_s": 412.524185,
-    "end_s": 415.230806,
+    "start_s": 413.882076,
+    "end_s": 416.58869699999997,
     "duration_s": 2.706621
   },
   {
@@ -763,8 +763,8 @@
     "speed": 1.0,
     "audio_description": "shrugging",
     "trailing_silence_s": 0.2,
-    "start_s": 415.230806,
-    "end_s": 416.577473,
+    "start_s": 416.58869699999997,
+    "end_s": 417.935364,
     "duration_s": 1.346667
   },
   {
@@ -775,8 +775,8 @@
     "speed": 1.0,
     "audio_description": "dramatic, heavy",
     "trailing_silence_s": 0.4,
-    "start_s": 416.577473,
-    "end_s": 421.56414,
+    "start_s": 417.935364,
+    "end_s": 422.922031,
     "duration_s": 4.986667
   },
   {
@@ -787,8 +787,8 @@
     "speed": 1.0,
     "audio_description": "grave",
     "trailing_silence_s": 0.3,
-    "start_s": 421.56414,
-    "end_s": 426.311147,
+    "start_s": 422.922031,
+    "end_s": 427.669038,
     "duration_s": 4.747007
   },
   {
@@ -799,8 +799,8 @@
     "speed": 1.0,
     "audio_description": "anguished, realization",
     "trailing_silence_s": 0.4,
-    "start_s": 426.311147,
-    "end_s": 436.857814,
+    "start_s": 427.669038,
+    "end_s": 438.215705,
     "duration_s": 10.546667
   },
   {
@@ -811,8 +811,8 @@
     "speed": 1.0,
     "audio_description": "confused",
     "trailing_silence_s": 0.2,
-    "start_s": 436.857814,
-    "end_s": 438.864821,
+    "start_s": 438.215705,
+    "end_s": 440.222712,
     "duration_s": 2.007007
   },
   {
@@ -823,8 +823,8 @@
     "speed": 1.0,
     "audio_description": "covering up",
     "trailing_silence_s": 0.2,
-    "start_s": 438.864821,
-    "end_s": 442.131488,
+    "start_s": 440.222712,
+    "end_s": 443.489379,
     "duration_s": 3.266667
   },
   {
@@ -835,8 +835,8 @@
     "speed": 1.0,
     "audio_description": "atmospheric",
     "trailing_silence_s": 0.2,
-    "start_s": 442.131488,
-    "end_s": 445.09148799999997,
+    "start_s": 443.489379,
+    "end_s": 446.44937899999996,
     "duration_s": 2.96
   },
   {
@@ -847,8 +847,8 @@
     "speed": 1.0,
     "audio_description": "hurrying",
     "trailing_silence_s": 0.5,
-    "start_s": 445.09148799999997,
-    "end_s": 449.138155,
+    "start_s": 446.44937899999996,
+    "end_s": 450.496046,
     "duration_s": 4.046667
   }
 ]
