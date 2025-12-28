@@ -5,7 +5,7 @@
   "epub_source": "http://www.gutenberg.org/46",
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
-  "total_duration_s": 9410.522866,
+  "total_duration_s": 9243.839735,
   "characters": [
     {
       "identifier": "NARRATOR",
@@ -452,36 +452,6 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.mp3"
     },
     {
-      "identifier": "BELLE_YOUNG",
-      "name": "Belle",
-      "aliases": [
-        "Fair young girl"
-      ],
-      "voice_attributes": [
-        "soft",
-        "gentle",
-        "mild",
-        "steady"
-      ],
-      "visual_attributes": [
-        "fair",
-        "in mourning-dress",
-        "tears in eyes"
-      ],
-      "roles": [
-        "former fiancée",
-        "lost love"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 11,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.mp3"
-    },
-    {
       "identifier": "GENTLEMAN_1",
       "name": "Charity Gentleman",
       "aliases": [
@@ -512,6 +482,36 @@
       "dialogue_count": 11,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.mp3"
+    },
+    {
+      "identifier": "BELLE_YOUNG",
+      "name": "Belle",
+      "aliases": [
+        "Fair young girl"
+      ],
+      "voice_attributes": [
+        "soft",
+        "gentle",
+        "mild",
+        "steady"
+      ],
+      "visual_attributes": [
+        "fair",
+        "in mourning-dress",
+        "tears in eyes"
+      ],
+      "roles": [
+        "former fiancée",
+        "lost love"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.mp3"
     },
     {
       "identifier": "OLD_JOE",
@@ -547,33 +547,6 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.mp3"
     },
     {
-      "identifier": "CAROLER",
-      "name": "Carol Singer",
-      "aliases": [
-        "The Singer",
-        "Boy with Carol"
-      ],
-      "voice_attributes": [
-        "young",
-        "singing"
-      ],
-      "visual_attributes": [
-        "scant young nose",
-        "cold"
-      ],
-      "roles": [
-        "caroler"
-      ],
-      "metadata": {
-        "age_group": "child",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 8,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.mp3"
-    },
-    {
       "identifier": "YOUNG_SCROOGE_APPRENTICE",
       "name": "Young Scrooge",
       "aliases": [
@@ -604,38 +577,31 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.mp3"
     },
     {
-      "identifier": "FAT_BUSINESSMAN",
-      "name": "Fat Businessman",
+      "identifier": "CAROLER",
+      "name": "Carol Singer",
       "aliases": [
-        "great fat man",
-        "man with monstrous chin",
-        "man with large chin",
-        "first speaker"
+        "The Singer",
+        "Boy with Carol"
       ],
       "voice_attributes": [
-        "indifferent",
-        "yawning",
-        "disinterested",
-        "casual"
+        "young",
+        "singing"
       ],
       "visual_attributes": [
-        "great fat",
-        "monstrous chin",
-        "large chin"
+        "scant young nose",
+        "cold"
       ],
       "roles": [
-        "businessman",
-        "merchant",
-        "callous acquaintance"
+        "caroler"
       ],
       "metadata": {
-        "age_group": "middle_aged",
+        "age_group": "child",
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 6,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.mp3"
+      "dialogue_count": 8,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.mp3"
     },
     {
       "identifier": "NIECE",
@@ -679,6 +645,40 @@
       "dialogue_count": 6,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NIECE.mp3"
+    },
+    {
+      "identifier": "FAT_BUSINESSMAN",
+      "name": "Fat Businessman",
+      "aliases": [
+        "great fat man",
+        "man with monstrous chin",
+        "man with large chin",
+        "first speaker"
+      ],
+      "voice_attributes": [
+        "indifferent",
+        "yawning",
+        "disinterested",
+        "casual"
+      ],
+      "visual_attributes": [
+        "great fat",
+        "monstrous chin",
+        "large chin"
+      ],
+      "roles": [
+        "businessman",
+        "merchant",
+        "callous acquaintance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.mp3"
     },
     {
       "identifier": "PETER_CRATCHIT",
@@ -754,33 +754,6 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.mp3"
     },
     {
-      "identifier": "MARTHA_CRATCHIT",
-      "name": "Martha",
-      "aliases": [
-        "Martha Cratchit"
-      ],
-      "voice_attributes": [
-        "[]"
-      ],
-      "visual_attributes": [
-        "wearing shawl and bonnet",
-        "poor apprentice at milliner's"
-      ],
-      "roles": [
-        "daughter",
-        "milliner's apprentice",
-        "worker"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.mp3"
-    },
-    {
       "identifier": "MRS_DILBER",
       "name": "Mrs. Dilber",
       "aliases": [
@@ -808,6 +781,33 @@
       "dialogue_count": 4,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.mp3"
+    },
+    {
+      "identifier": "MARTHA_CRATCHIT",
+      "name": "Martha",
+      "aliases": [
+        "Martha Cratchit"
+      ],
+      "voice_attributes": [
+        "[]"
+      ],
+      "visual_attributes": [
+        "wearing shawl and bonnet",
+        "poor apprentice at milliner's"
+      ],
+      "roles": [
+        "daughter",
+        "milliner's apprentice",
+        "worker"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.mp3"
     },
     {
       "identifier": "CAROLINE",
@@ -843,6 +843,33 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.mp3"
     },
     {
+      "identifier": "WEALTHY_BUSINESSMAN_2",
+      "name": "Second Wealthy Businessman",
+      "aliases": [
+        "second of two wealthy men"
+      ],
+      "voice_attributes": [
+        "terse",
+        "dismissive"
+      ],
+      "visual_attributes": [
+        "very wealthy",
+        "of great importance"
+      ],
+      "roles": [
+        "businessman",
+        "man of importance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.mp3"
+    },
+    {
       "identifier": "GENTLEMAN_2",
       "name": "Second Charity Gentleman",
       "aliases": [
@@ -867,6 +894,33 @@
       "dialogue_count": 3,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.mp3"
+    },
+    {
+      "identifier": "WEALTHY_BUSINESSMAN_1",
+      "name": "First Wealthy Businessman",
+      "aliases": [
+        "one of two wealthy men"
+      ],
+      "voice_attributes": [
+        "casual",
+        "cryptic"
+      ],
+      "visual_attributes": [
+        "very wealthy",
+        "of great importance"
+      ],
+      "roles": [
+        "businessman",
+        "man of importance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.mp3"
     },
     {
       "identifier": "BELLE_HUSBAND",
@@ -926,76 +980,25 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.mp3"
     },
     {
-      "identifier": "WEALTHY_BUSINESSMAN_2",
-      "name": "Second Wealthy Businessman",
+      "identifier": "PLUMP_SISTER",
+      "name": "Plump Sister",
       "aliases": [
-        "second of two wealthy men"
+        "the plump one with the lace tucker",
+        "Scrooge's niece's sister"
       ],
       "voice_attributes": [
-        "terse",
-        "dismissive"
+        "crying out",
+        "blushing"
       ],
       "visual_attributes": [
-        "very wealthy",
-        "of great importance"
+        "plump",
+        "lace tucker",
+        "silken rustlings",
+        "rapid flutterings"
       ],
       "roles": [
-        "businessman",
-        "man of importance"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.mp3"
-    },
-    {
-      "identifier": "WEALTHY_BUSINESSMAN_1",
-      "name": "First Wealthy Businessman",
-      "aliases": [
-        "one of two wealthy men"
-      ],
-      "voice_attributes": [
-        "casual",
-        "cryptic"
-      ],
-      "visual_attributes": [
-        "very wealthy",
-        "of great importance"
-      ],
-      "roles": [
-        "businessman",
-        "man of importance"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.mp3"
-    },
-    {
-      "identifier": "SERVANT_GIRL",
-      "name": "Fred's Servant",
-      "aliases": [
-        "the girl",
-        "my dear",
-        "my love"
-      ],
-      "voice_attributes": [
-        "polite",
-        "pleasant"
-      ],
-      "visual_attributes": [
-        "nice girl"
-      ],
-      "roles": [
-        "household servant"
+        "guest",
+        "game player"
       ],
       "metadata": {
         "age_group": "young",
@@ -1003,8 +1006,8 @@
         "voice_accent": "british"
       },
       "dialogue_count": 2,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.mp3"
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.mp3"
     },
     {
       "identifier": "RED_FACED_GENTLEMAN",
@@ -1035,36 +1038,6 @@
       "dialogue_count": 2,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.mp3"
-    },
-    {
-      "identifier": "PLUMP_SISTER",
-      "name": "Plump Sister",
-      "aliases": [
-        "the plump one with the lace tucker",
-        "Scrooge's niece's sister"
-      ],
-      "voice_attributes": [
-        "crying out",
-        "blushing"
-      ],
-      "visual_attributes": [
-        "plump",
-        "lace tucker",
-        "silken rustlings",
-        "rapid flutterings"
-      ],
-      "roles": [
-        "guest",
-        "game player"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.mp3"
     },
     {
       "identifier": "FAN",
@@ -1129,30 +1102,31 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.mp3"
     },
     {
-      "identifier": "BUSINESSMAN_2",
-      "name": "Second Businessman",
+      "identifier": "SERVANT_GIRL",
+      "name": "Fred's Servant",
       "aliases": [
-        "another businessman"
+        "the girl",
+        "my dear",
+        "my love"
       ],
       "voice_attributes": [
-        "inquiring",
-        "casual"
+        "polite",
+        "pleasant"
       ],
       "visual_attributes": [
-        "[]"
+        "nice girl"
       ],
       "roles": [
-        "businessman",
-        "merchant"
+        "household servant"
       ],
       "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
+        "age_group": "young",
+        "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 1,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.mp3"
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.mp3"
     },
     {
       "identifier": "BUSINESSMAN_3",
@@ -1180,6 +1154,53 @@
       "dialogue_count": 1,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_3.mp3"
+    },
+    {
+      "identifier": "BUSINESSMAN_2",
+      "name": "Second Businessman",
+      "aliases": [
+        "another businessman"
+      ],
+      "voice_attributes": [
+        "inquiring",
+        "casual"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "businessman",
+        "merchant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.mp3"
+    },
+    {
+      "identifier": "SCHOOLMASTER",
+      "name": "The Schoolmaster",
+      "aliases": [],
+      "voice_attributes": [
+        "terrible",
+        "ferocious"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "school authority"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.mp3"
     },
     {
       "identifier": "TINY_TIM",
@@ -1223,27 +1244,6 @@
       "dialogue_count": 1,
       "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.png",
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/TINY_TIM.mp3"
-    },
-    {
-      "identifier": "SCHOOLMASTER",
-      "name": "The Schoolmaster",
-      "aliases": [],
-      "voice_attributes": [
-        "terrible",
-        "ferocious"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "school authority"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.mp3"
     }
   ],
   "segments": [
@@ -1283,7 +1283,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio.mp3",
-      "duration_s": 2196.7401950000003
+      "duration_s": 2165.262713000001
     },
     {
       "ordinal": 2,
@@ -1314,7 +1314,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/audio.mp3",
-      "duration_s": 2033.2462989999992
+      "duration_s": 2001.6076799999994
     },
     {
       "ordinal": 3,
@@ -1336,7 +1336,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/audio.mp3",
-      "duration_s": 2801.5547789999996
+      "duration_s": 2736.374304999999
     },
     {
       "ordinal": 4,
@@ -1358,7 +1358,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio.mp3",
-      "duration_s": 1623.907866
+      "duration_s": 1601.027093
     },
     {
       "ordinal": 5,
@@ -1382,7 +1382,7 @@
       },
       "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio.mp3",
-      "duration_s": 745.7337269999998
+      "duration_s": 730.2279439999998
     }
   ]
 }
