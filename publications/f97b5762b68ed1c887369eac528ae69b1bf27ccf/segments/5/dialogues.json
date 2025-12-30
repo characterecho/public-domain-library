@@ -9,7 +9,8 @@
     "trailing_silence_s": 1.0,
     "start_s": 0.0,
     "end_s": 3.0,
-    "duration_s": 3.0
+    "duration_s": 3.0,
+    "title": true
   },
   {
     "character_identifier": "NARRATOR",
