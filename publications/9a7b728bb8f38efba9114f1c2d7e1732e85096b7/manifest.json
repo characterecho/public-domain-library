@@ -4,6 +4,7 @@
   "description": "EPUB imported from https://gutenberg.org/ebooks/1513.epub3.images",
   "epub_source": "http://www.gutenberg.org/1513",
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+  "publication_type": "play",
   "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
   "total_duration_s": 9740.87899,
   "characters": [
@@ -590,32 +591,6 @@
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/ABRAM.mp3"
     },
     {
-      "identifier": "PARIS_PAGE",
-      "name": "Paris's Page",
-      "aliases": [
-        "Page"
-      ],
-      "voice_attributes": [
-        "fearful",
-        "obedient"
-      ],
-      "visual_attributes": [
-        "holding a torch",
-        "small"
-      ],
-      "roles": [
-        "servant"
-      ],
-      "metadata": {
-        "age_group": "child",
-        "gender": "male",
-        "voice_accent": "british_rp"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS_PAGE.png",
-      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS_PAGE.mp3"
-    },
-    {
       "identifier": "APOTHECARY",
       "name": "The Apothecary",
       "aliases": [],
@@ -640,29 +615,6 @@
       "dialogue_count": 4,
       "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/APOTHECARY.png",
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/APOTHECARY.mp3"
-    },
-    {
-      "identifier": "CAPULETS_FIRST_SERVANT",
-      "name": "Capulet's First Servant",
-      "aliases": [],
-      "voice_attributes": [
-        "harried",
-        "bossy"
-      ],
-      "visual_attributes": [
-        "[]"
-      ],
-      "roles": [
-        "servant"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "Cockney"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_FIRST_SERVANT.png",
-      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_FIRST_SERVANT.mp3"
     },
     {
       "identifier": "FRIAR_JOHN",
@@ -692,29 +644,53 @@
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/FRIAR_JOHN.mp3"
     },
     {
-      "identifier": "CROWD",
-      "name": "First Citizen",
-      "aliases": [
-        "First Citizen"
-      ],
+      "identifier": "CAPULETS_FIRST_SERVANT",
+      "name": "Capulet's First Servant",
+      "aliases": [],
       "voice_attributes": [
-        "chaotic",
-        "angry"
+        "harried",
+        "bossy"
       ],
       "visual_attributes": [
         "[]"
       ],
       "roles": [
-        "bystanders"
+        "servant"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "british"
+        "voice_accent": "Cockney"
       },
-      "dialogue_count": 3,
-      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CROWD.png",
-      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CROWD.mp3"
+      "dialogue_count": 4,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_FIRST_SERVANT.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_FIRST_SERVANT.mp3"
+    },
+    {
+      "identifier": "PARIS_PAGE",
+      "name": "Paris's Page",
+      "aliases": [
+        "Page"
+      ],
+      "voice_attributes": [
+        "fearful",
+        "obedient"
+      ],
+      "visual_attributes": [
+        "holding a torch",
+        "small"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS_PAGE.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/PARIS_PAGE.mp3"
     },
     {
       "identifier": "MUSICIAN_2",
@@ -742,27 +718,29 @@
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_2.mp3"
     },
     {
-      "identifier": "CAPULETS_COUSIN",
-      "name": "Capulet's Cousin",
+      "identifier": "CROWD",
+      "name": "First Citizen",
       "aliases": [
-        "Old Capulet's Cousin"
+        "First Citizen"
       ],
       "voice_attributes": [
-        "feeble",
-        "reminiscent"
+        "chaotic",
+        "angry"
       ],
-      "visual_attributes": [],
+      "visual_attributes": [
+        "[]"
+      ],
       "roles": [
-        "kinsman"
+        "bystanders"
       ],
       "metadata": {
-        "age_group": "old",
+        "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "british_rp"
+        "voice_accent": "british"
       },
-      "dialogue_count": 2,
-      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_COUSIN.png",
-      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_COUSIN.mp3"
+      "dialogue_count": 3,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CROWD.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CROWD.mp3"
     },
     {
       "identifier": "LADY_MONTAGUE",
@@ -786,6 +764,55 @@
       "dialogue_count": 2,
       "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/LADY_MONTAGUE.png",
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/LADY_MONTAGUE.mp3"
+    },
+    {
+      "identifier": "CAPULETS_COUSIN",
+      "name": "Capulet's Cousin",
+      "aliases": [
+        "Old Capulet's Cousin"
+      ],
+      "voice_attributes": [
+        "feeble",
+        "reminiscent"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "kinsman"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rp"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_COUSIN.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/CAPULETS_COUSIN.mp3"
+    },
+    {
+      "identifier": "MUSICIAN_3",
+      "name": "James Soundpost",
+      "aliases": [
+        "Third Musician"
+      ],
+      "voice_attributes": [
+        "quiet",
+        "uncertain"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "musician",
+        "singer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_3.png",
+      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_3.mp3"
     },
     {
       "identifier": "WATCH_3",
@@ -830,32 +857,6 @@
       "dialogue_count": 1,
       "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_2.png",
       "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/WATCH_2.mp3"
-    },
-    {
-      "identifier": "MUSICIAN_3",
-      "name": "James Soundpost",
-      "aliases": [
-        "Third Musician"
-      ],
-      "voice_attributes": [
-        "quiet",
-        "uncertain"
-      ],
-      "visual_attributes": [
-        "[]"
-      ],
-      "roles": [
-        "musician",
-        "singer"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_3.png",
-      "voice_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/characters/MUSICIAN_3.mp3"
     }
   ],
   "segments": [
@@ -1315,5 +1316,234 @@
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/segments/30/audio.mp3",
       "duration_s": 1042.79474
     }
+  ],
+  "scenes": [
+    {
+      "identifier": "SEG_14_SCENE_01",
+      "ordinal": 0,
+      "location_header": "EXT. CAPULET ORCHARD - DAY",
+      "visual_description": "The Capulet orchard is bathed in the heat of a late-morning sun. Juliet paces restlessly among the fruit trees, her eyes fixed on the garden gate as she awaits word from Romeo.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_14_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_17_SCENE_01",
+      "ordinal": 0,
+      "location_header": "EXT. VERONA - PUBLIC SQUARE",
+      "visual_description": "The scorching midday sun beats down on a public square in Verona, the air thick with tension and the threat of violence.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_17_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_24_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. CAPULET HOUSE - DAY",
+      "visual_description": "A grand hall in the Capulet house, bustling with the frantic energy of wedding preparations. Servants scurry about with linens and lists.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_24_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SCENE_JULIETS_CHAMBER",
+      "ordinal": 0,
+      "location_header": "INT. CAPULET ESTATE - JULIET'S CHAMBER",
+      "visual_description": "Juliet's private chamber in the Capulet estate. The late afternoon light fades into a deep, warm twilight.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_JULIETS_CHAMBER.jpg"
+    },
+    {
+      "identifier": "SEG_29_SCENE_01",
+      "ordinal": 0,
+      "location_header": "EXT. MANTUA - STREET",
+      "visual_description": "A sun-bleached, quiet street in Mantua. The air is still and heavy with heat.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_29_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_30_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. FRIAR LAWRENCE'S CELL - DAY",
+      "visual_description": "Friar Lawrence's austere stone cell, filled with the scent of dried herbs and the dim light of a flickering candle.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_30_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SCENE_FINAL",
+      "ordinal": 0,
+      "location_header": "EXT. VERONA CHURCHYARD",
+      "visual_description": "A desolate graveyard at night. Cold stone monuments and tangled yew trees surround the entrance to the Capulet tomb.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_FINAL.jpg"
+    },
+    {
+      "identifier": "SCENE_CAPULET_CHAMBER",
+      "ordinal": 0,
+      "location_header": "CAPULET'S HOUSE - AN INNER CHAMBER",
+      "visual_description": "A private, richly appointed inner chamber in a 14th-century Italian palazzo in Verona. Sunlight streams through high arched windows, illuminating ornate tapestries and heavy oak furniture. The atmosphere is domestic and quiet.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_CAPULET_CHAMBER.jpg"
+    },
+    {
+      "identifier": "SCENE_01",
+      "ordinal": 0,
+      "location_header": "A PUBLIC SQUARE IN VERONA",
+      "visual_description": "A bustling, sun-drenched public square in Verona, Italy, circa 1595. The architecture is Italian Renaissance with stone arches and dusty streets. A tense atmosphere hangs over the market stalls.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SCENE_II_III",
+      "ordinal": 0,
+      "location_header": "EXT. FRIAR LAWRENCE'S CELL - DAWN",
+      "visual_description": "A monastery garden at dawn. The air is cool and misty as the sun begins to rise over the stone walls, illuminating the dew-covered herbs.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_II_III.jpg"
+    },
+    {
+      "identifier": "ACT_2_PROLOGUE",
+      "ordinal": 0,
+      "location_header": "PROLOGUE",
+      "visual_description": "A transitional space between the scenes of Verona, where the atmosphere shifts from the violence of the streets to the clandestine tension of forbidden romance.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_ACT_2_PROLOGUE.jpg"
+    },
+    {
+      "identifier": "SCENE_02_01",
+      "ordinal": 0,
+      "location_header": "EXT. CAPULET'S ORCHARD WALL - NIGHT",
+      "visual_description": "A dark, narrow lane bordering the high stone walls of the Capulet orchard. Moonlight casts long shadows over the rough masonry.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_02_01.jpg"
+    },
+    {
+      "identifier": "SCENE_BALCONY",
+      "ordinal": 0,
+      "location_header": "EXT. CAPULET ORCHARD - NIGHT",
+      "visual_description": "The walled orchard of the Capulet estate, bathed in moonlight. Shadows stretch across the manicured grass as Romeo moves toward the stone balcony.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_BALCONY.jpg"
+    },
+    {
+      "identifier": "SEG_5_SCENE_01",
+      "ordinal": 0,
+      "location_header": "A STREET IN VERONA",
+      "visual_description": "A sunny, stone-paved street in Verona during the late 16th century. Elegant Italian architecture with arched doorways and wrought-iron balconies lines the thoroughfare.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_5_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_8_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. CAPULET HOUSE - NIGHT",
+      "visual_description": "The Great Hall of the Capulet house, illuminated by dozens of torches and filled with the sound of tuning musicians.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_8_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_13_SCENE_01",
+      "ordinal": 0,
+      "location_header": "EXT. VERONA - STREET",
+      "visual_description": "A sun-drenched street in Verona, where the air is thick with heat and the lingering tension of the family feuds.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_13_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_15_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. FRIAR LAWRENCE'S CELL",
+      "visual_description": "A quiet, sun-dappled stone chapel within the Friar's cell. The air is cool and smells of incense and old parchment.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_15_SCENE_01.jpg"
+    },
+    {
+      "identifier": "ACT_3_SCENE_4",
+      "ordinal": 0,
+      "location_header": "INT. CAPULET HOUSE - NIGHT",
+      "visual_description": "Inside the Capulet house, the air is heavy with mourning. Lord Capulet and Lady Capulet lead Count Paris into a quiet hall, the flickering candlelight casting long shadows against the stone walls.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_ACT_3_SCENE_4.jpg"
+    },
+    {
+      "identifier": "SEG_23_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. FRIAR LAWRENCE'S CELL",
+      "visual_description": "The stone-walled cell of Friar Lawrence, dim and quiet, scented with dried herbs and incense.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_23_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_25_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. JULIET'S CHAMBER - NIGHT",
+      "visual_description": "Juliet's bedchamber at night, illuminated by the soft, flickering glow of candles as she prepares for the evening.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_25_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_26_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. CAPULET HOUSE - DAWN",
+      "visual_description": "The Capulet household is alive with frantic activity in the pre-dawn hours. The kitchen is a whirlwind of spices, meats, and hurried servants preparing for the wedding feast.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_26_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SEG_27_SCENE_01",
+      "ordinal": 0,
+      "location_header": "INT. JULIET'S BEDCHAMBER",
+      "visual_description": "Juliet's bedchamber in the Capulet house. The morning sun filters through the windows, finding Juliet still and silent in her bed as the Nurse enters with bridal garments.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SEG_27_SCENE_01.jpg"
+    },
+    {
+      "identifier": "SCENE_03_03",
+      "ordinal": 0,
+      "location_header": "INT. FRIAR LAWRENCE'S CELL",
+      "visual_description": "Friar Lawrence's cell, a dim, stone-walled sanctuary. The air is heavy with the scent of herbs and the cold damp of the monastery.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_03_03.jpg"
+    },
+    {
+      "identifier": "SCENE_03_05",
+      "ordinal": 0,
+      "location_header": "INT. JULIET'S CHAMBER - DAWN",
+      "visual_description": "In the soft, fading light of the bedchamber, Romeo and Juliet stand together by the open window, the morning air beginning to chill the room as the first grey streaks of dawn touch the horizon.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_03_05.jpg"
+    },
+    {
+      "identifier": "SCENE_STREET_NIGHT",
+      "ordinal": 0,
+      "location_header": "A STREET IN VERONA, AT NIGHT",
+      "visual_description": "Verona, Italy, circa 1590. A dark, narrow cobblestone street at night. A group of young men in Renaissance attire and decorative masks walk together. The scene is illuminated by the flickering, warm orange glow of hand-held torches which cast long, dancing shadows against the stone walls.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_STREET_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_PROLOGUE",
+      "ordinal": 0,
+      "location_header": "VERONA - DUSK",
+      "visual_description": "A sweeping panoramic view of 16th-century Verona, Italy. The sun sets over terracotta rooftops, stone towers, and narrow cobblestone alleys, casting long, dramatic shadows over the quiet city squares.",
+      "metadata": {},
+      "image_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/scenes/scene_SCENE_PROLOGUE.jpg"
+    }
+  ],
+  "subjects": [
+    "Vendetta -- Drama",
+    "Youth -- Drama",
+    "Verona (Italy) -- Drama",
+    "Juliet (Fictitious character) -- Drama",
+    "Romeo (Fictitious character) -- Drama",
+    "Conflict of generations -- Drama",
+    "Tragedies (Drama)"
   ]
 }
