@@ -1,7 +1,7 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 0,
     "text": "In the busy halls of the Capulet estate, Lady Capulet and the Nurse hurry through the early morning gloom, their arms full of supplies.",
     "speed": 1.0,
@@ -13,7 +13,7 @@
   },
   {
     "character_identifier": "LADY_CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 1,
     "text": "Hold, take these keys and fetch more spices, Nurse.",
     "speed": 1.0,
@@ -25,7 +25,7 @@
   },
   {
     "character_identifier": "NURSE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 2,
     "text": "They call for dates and quinces in the pastry.",
     "speed": 1.0,
@@ -37,7 +37,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 3,
     "text": "Lord Capulet bursts into the room, energized by the chaos of the wedding preparations.",
     "speed": 1.0,
@@ -49,7 +49,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 4,
     "text": "Come, stir, stir, stir! The second cock hath crow’d, The curfew bell hath rung, ’tis three o’clock. Look to the bak'd meats, good Angelica; Spare not for cost.",
     "speed": 1.0,
@@ -61,7 +61,7 @@
   },
   {
     "character_identifier": "NURSE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 5,
     "text": "Go, you cot-quean, go, Get you to bed; faith, you’ll be sick tomorrow For this night’s watching.",
     "speed": 1.0,
@@ -73,7 +73,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 6,
     "text": "No, not a whit. What! I have watch’d ere now All night for lesser cause, and ne’er been sick.",
     "speed": 1.0,
@@ -85,7 +85,7 @@
   },
   {
     "character_identifier": "LADY_CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 7,
     "text": "Ay, you have been a mouse-hunt in your time; But I will watch you from such watching now.",
     "speed": 1.0,
@@ -97,7 +97,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 8,
     "text": "Lady Capulet and the Nurse sweep out of the room. Capulet watches them go with a chuckle.",
     "speed": 1.0,
@@ -109,7 +109,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 9,
     "text": "A jealous-hood, a jealous-hood!",
     "speed": 1.0,
@@ -121,7 +121,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 10,
     "text": "A group of servants enters, struggling under the weight of roasting spits, heavy logs, and baskets of food.",
     "speed": 1.0,
@@ -133,7 +133,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 11,
     "text": "Now, fellow, what’s there?",
     "speed": 1.0,
@@ -145,7 +145,7 @@
   },
   {
     "character_identifier": "CAPULETS_FIRST_SERVANT",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 12,
     "text": "Things for the cook, sir; but I know not what.",
     "speed": 1.0,
@@ -157,7 +157,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 13,
     "text": "Make haste, make haste.",
     "speed": 1.0,
@@ -169,7 +169,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 14,
     "text": "The first servant scampers off. Capulet turns to another worker.",
     "speed": 1.0,
@@ -181,7 +181,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 15,
     "text": "Sirrah, fetch drier logs. Call Peter, he will show thee where they are.",
     "speed": 1.0,
@@ -193,7 +193,7 @@
   },
   {
     "character_identifier": "CAPULETS_SECOND_SERVANT",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 16,
     "text": "I have a head, sir, that will find out logs And never trouble Peter for the matter.",
     "speed": 1.0,
@@ -205,7 +205,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 17,
     "text": "The servant exits with a clever grin. Capulet laughs to himself as the sun begins to rise.",
     "speed": 1.0,
@@ -217,7 +217,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 18,
     "text": "Mass and well said; a merry whoreson, ha. Thou shalt be loggerhead.—Good faith, ’tis day. The County will be here with music straight, For so he said he would. I hear him near.",
     "speed": 1.0,
@@ -229,7 +229,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 19,
     "text": "The bright, melodic sound of musicians playing drifts through the windows from the courtyard. Capulet raises his voice to be heard over the tune.",
     "speed": 1.0,
@@ -241,7 +241,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 20,
     "text": "Nurse! Wife! What, ho! What, Nurse, I say!",
     "speed": 1.0,
@@ -253,7 +253,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 21,
     "text": "The Nurse rushes back into the room, smoothing her apron.",
     "speed": 1.0,
@@ -265,7 +265,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 22,
     "text": "Go waken Juliet, go and trim her up. I’ll go and chat with Paris. Hie, make haste, make haste; the bridegroom he is come already. Make haste I say.",
     "speed": 1.0,
@@ -277,7 +277,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_26_SCENE_01",
     "ordinal": 23,
     "text": "The household erupts into a final burst of speed as Capulet heads out to meet the groom.",
     "speed": 1.0,
