@@ -1,7 +1,7 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 0,
     "text": "STAVE TWO. — THE FIRST OF THE THREE SPIRITS.",
     "speed": 1.0,
@@ -13,7 +13,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 1,
     "text": "When Scrooge awoke, it was so dark, that looking out of bed, he could scarcely distinguish the transparent window from the opaque walls of his chamber. He was endeavouring to pierce the darkness with his ferret eyes, when the chimes of a neighbouring church struck the four quarters. So he listened for the hour.",
     "speed": 1.0,
@@ -25,7 +25,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 2,
     "text": "To his great astonishment the heavy bell went on from six to seven, and from seven to eight, and regularly up to twelve; then stopped. Twelve! It was past two when he went to bed. The clock was wrong. An icicle must have got into the works.",
     "speed": 1.0,
@@ -37,7 +37,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 3,
     "text": "He touched the spring of his repeater, to correct this most preposterous clock. Its rapid little pulse beat twelve: and stopped.",
     "speed": 1.0,
@@ -49,7 +49,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 4,
     "text": "Why, it isn't possible that I can have slept through a whole day and far into another night. It isn't possible that anything has happened to the sun, and this is twelve at noon!",
     "speed": 1.0,
@@ -61,7 +61,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 5,
     "text": "The idea being an alarming one, he scrambled out of bed, and groped his way to the window. He was obliged to rub the frost off with the sleeve of his dressing-gown before he could see anything; and could see very little then. All he could make out was, that it was still very foggy and extremely cold, and that there was no noise of people running to and fro, and making a great stir, as there unquestionably would have been if night had beaten off bright day, and taken possession of the world.",
     "speed": 1.0,
@@ -73,7 +73,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 6,
     "text": "This was a great relief, because \"three days after sight of this First of Exchange pay to Mr. Ebenezer Scrooge or his order,\" and so forth, would have become a mere United States' security if there were no days to count by.",
     "speed": 1.0,
@@ -85,7 +85,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 7,
     "text": "Scrooge went to bed again, and thought, and thought, and thought it over and over and over, and could make nothing of it. The more he thought, the more perplexed he was; and the more he endeavoured not to think, the more he thought.",
     "speed": 1.0,
@@ -97,7 +97,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 8,
     "text": "Marley's Ghost bothered him exceedingly. Every time he resolved within himself, after mature inquiry, that it was all a dream, his mind flew back again, like a strong spring released, to its first position, and presented the same problem to be worked all through, \"Was it a dream or not?\"",
     "speed": 1.0,
@@ -109,7 +109,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 9,
     "text": "Scrooge lay in this state until the chime had gone three quarters more, when he remembered, on a sudden, that the Ghost had warned him of a visitation when the bell tolled one. He resolved to lie awake until the hour was passed; and, considering that he could no more go to sleep than go to Heaven, this was perhaps the wisest resolution in his power.",
     "speed": 1.0,
@@ -121,7 +121,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 10,
     "text": "The quarter was so long, that he was more than once convinced he must have sunk into a doze unconsciously, and missed the clock. At length it broke upon his listening ear.",
     "speed": 1.0,
@@ -133,7 +133,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 11,
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
@@ -145,7 +145,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 12,
     "text": "A quarter past.",
     "speed": 1.0,
@@ -157,7 +157,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 13,
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
@@ -169,7 +169,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 14,
     "text": "Half-past!",
     "speed": 1.0,
@@ -181,7 +181,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 15,
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
@@ -193,7 +193,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 16,
     "text": "A quarter to it.",
     "speed": 1.0,
@@ -205,7 +205,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 17,
     "text": "\"Ding, dong!\"",
     "speed": 1.0,
@@ -217,7 +217,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 18,
     "text": "The hour itself, and nothing else!",
     "speed": 1.0,
@@ -229,7 +229,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 19,
     "text": "He spoke before the hour bell sounded, which it now did with a deep, dull, hollow, melancholy One. Light flashed up in the room upon the instant, and the curtains of his bed were drawn.",
     "speed": 1.0,
@@ -241,7 +241,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 20,
     "text": "The curtains of his bed were drawn aside, I tell you, by a hand. Not the curtains at his feet, nor the curtains at his back, but those to which his face was addressed. The curtains of his bed were drawn aside; and Scrooge, starting up into a half-recumbent attitude, found himself face to face with the unearthly visitor who drew them: as close to it as I am now to you, and I am standing in the spirit at your elbow.",
     "speed": 1.0,
@@ -253,7 +253,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 21,
     "text": "It was a strange figure—like a child: yet not so like a child as like an old man, viewed through some supernatural medium, which gave him the appearance of having receded from the view, and being diminished to a child's proportions. Its hair, which hung about its neck and down its back, was white as if with age; and yet the face had not a wrinkle in it, and the tenderest bloom was on the skin. The arms were very long and muscular; the hands the same, as if its hold were of uncommon strength. Its legs and feet, most delicately formed, were, like those upper members, bare. It wore a tunic of the purest white; and round its waist was bound a lustrous belt, the sheen of which was beautiful. It held a branch of fresh green holly in its hand; and, in singular contradiction of that wintry emblem, had its dress trimmed with summer flowers. But the strangest thing about it was, that from the crown of its head there sprung a bright clear jet of light, by which all this was visible; and which was doubtless the occasion of its using, in its duller moments, a great extinguisher for a cap, which it now held under its arm.",
     "speed": 1.0,
@@ -265,7 +265,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 22,
     "text": "Even this, though, when Scrooge looked at it with increasing steadiness, was <i>not</i> its strangest quality. For as its belt sparkled and glittered now in one part and now in another, and what was light one instant, at another time was dark, so the figure itself fluctuated in its distinctness: being now a thing with one arm, now with one leg, now with twenty legs, now a pair of legs without a head, now a head without a body: of which dissolving parts, no outline would be visible in the dense gloom wherein they melted away. And in the very wonder of this, it would be itself again; distinct and clear as ever.",
     "speed": 1.0,
@@ -277,7 +277,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 23,
     "text": "Are you the Spirit, sir, whose coming was foretold to me?",
     "speed": 1.0,
@@ -289,7 +289,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 24,
     "text": "I am!",
     "speed": 1.0,
@@ -301,7 +301,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 25,
     "text": "The voice was soft and gentle. Singularly low, as if instead of being so close beside him, it were at a distance.",
     "speed": 1.0,
@@ -313,7 +313,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 26,
     "text": "Who, and what are you?",
     "speed": 1.0,
@@ -325,7 +325,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 27,
     "text": "I am the Ghost of Christmas Past.",
     "speed": 1.0,
@@ -337,7 +337,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 28,
     "text": "Long Past?",
     "speed": 1.0,
@@ -349,7 +349,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 29,
     "text": "No. Your past.",
     "speed": 1.0,
@@ -361,7 +361,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 30,
     "text": "Perhaps, Scrooge could not have told anybody why, if anybody could have asked him; but he had a special desire to see the Spirit in his cap; and begged him to be covered.",
     "speed": 1.0,
@@ -373,7 +373,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 31,
     "text": "What! would you so soon put out, with worldly hands, the light I give? Is it not enough that you are one of those whose passions made this cap, and force me through whole trains of years to wear it low upon my brow!",
     "speed": 1.0,
@@ -385,7 +385,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 32,
     "text": "Scrooge reverently disclaimed all intention to offend or any knowledge of having wilfully \"bonneted\" the Spirit at any period of his life. He then made bold to inquire what business brought him there.",
     "speed": 1.0,
@@ -397,7 +397,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 33,
     "text": "Your welfare!",
     "speed": 1.0,
@@ -409,7 +409,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 34,
     "text": "Scrooge expressed himself much obliged, but could not help thinking that a night of unbroken rest would have been more conducive to that end. The Spirit must have heard him thinking, for it said immediately:",
     "speed": 1.0,
@@ -421,7 +421,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 35,
     "text": "Your reclamation, then. Take heed!",
     "speed": 1.0,
@@ -433,7 +433,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 36,
     "text": "It put out its strong hand as it spoke, and clasped him gently by the arm.",
     "speed": 1.0,
@@ -445,7 +445,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 37,
     "text": "Rise! and walk with me!",
     "speed": 1.0,
@@ -457,7 +457,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 38,
     "text": "It would have been in vain for Scrooge to plead that the weather and the hour were not adapted to pedestrian purposes; that bed was warm, and the thermometer a long way below freezing; that he was clad but lightly in his slippers, dressing-gown, and nightcap; and that he had a cold upon him at that time. The grasp, though gentle as a woman's hand, was not to be resisted. He rose: but finding that the Spirit made towards the window, clasped his robe in supplication.",
     "speed": 1.0,
@@ -469,7 +469,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 39,
     "text": "I am a mortal, and liable to fall.",
     "speed": 1.0,
@@ -481,7 +481,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 40,
     "text": "Bear but a touch of my hand <i>there</i>, and you shall be upheld in more than this!",
     "speed": 1.0,
@@ -493,7 +493,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 41,
     "text": "As the words were spoken, they passed through the wall, and stood upon an open country road, with fields on either hand. The city had entirely vanished. Not a vestige of it was to be seen. The darkness and the mist had vanished with it, for it was a clear, cold, winter day, with snow upon the ground.",
     "speed": 1.0,
@@ -505,7 +505,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 42,
     "text": "Good Heaven! I was bred in this place. I was a boy here!",
     "speed": 1.0,
@@ -517,7 +517,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 43,
     "text": "The Spirit gazed upon him mildly. Its gentle touch, though it had been light and instantaneous, appeared still present to the old man's sense of feeling. He was conscious of a thousand odours floating in the air, each one connected with a thousand thoughts, and hopes, and joys, and cares long, long, forgotten!",
     "speed": 1.0,
@@ -529,7 +529,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 44,
     "text": "Your lip is trembling. And what is that upon your cheek?",
     "speed": 1.0,
@@ -541,7 +541,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 45,
     "text": "Scrooge muttered, with an unusual catching in his voice, that it was a pimple; and begged the Ghost to lead him where he would.",
     "speed": 1.0,
@@ -553,7 +553,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 46,
     "text": "You recollect the way?",
     "speed": 1.0,
@@ -565,7 +565,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 47,
     "text": "Remember it! I could walk it blindfold.",
     "speed": 1.0,
@@ -577,7 +577,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 48,
     "text": "Strange to have forgotten it for so many years! Let us go on.",
     "speed": 1.0,
@@ -589,7 +589,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 49,
     "text": "They walked along the road, Scrooge recognising every gate, and post, and tree; until a little market-town appeared in the distance, with its bridge, its church, and winding river. Some shaggy ponies now were seen trotting towards them with boys upon their backs, who called to other boys in country gigs and carts, driven by farmers. All these boys were in great spirits, and shouted to each other, until the broad fields were so full of merry music, that the crisp air laughed to hear it!",
     "speed": 1.0,
@@ -601,7 +601,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 50,
     "text": "These are but shadows of the things that have been. They have no consciousness of us.",
     "speed": 1.0,
@@ -613,7 +613,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 51,
     "text": "The jocund travellers came on; and as they came, Scrooge knew and named them every one. Why was he rejoiced beyond all bounds to see them! Why did his cold eye glisten, and his heart leap up as they went past! Why was he filled with gladness when he heard them give each other Merry Christmas, as they parted at cross-roads and bye-ways, for their several homes! What was merry Christmas to Scrooge? Out upon merry Christmas! What good had it ever done to him?",
     "speed": 1.0,
@@ -625,7 +625,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 52,
     "text": "The school is not quite deserted. A solitary child, neglected by his friends, is left there still.",
     "speed": 1.0,
@@ -637,7 +637,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 53,
     "text": "Scrooge said he knew it. And he sobbed.",
     "speed": 1.0,
@@ -649,7 +649,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 54,
     "text": "They left the high-road, by a well-remembered lane, and soon approached a mansion of dull red brick, with a little weathercock-surmounted cupola, on the roof, and a bell hanging in it. It was a large house, but one of broken fortunes; for the spacious offices were little used, their walls were damp and mossy, their windows broken, and their gates decayed. Fowls clucked and strutted in the stables; and the coach-houses and sheds were over-run with grass. Nor was it more retentive of its ancient state, within; for entering the dreary hall, and glancing through the open doors of many rooms, they found them poorly furnished, cold, and vast. There was an earthy savour in the air, a chilly bareness in the place, which associated itself somehow with too much getting up by candle-light, and not too much to eat.",
     "speed": 1.0,
@@ -661,7 +661,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 55,
     "text": "They went, the Ghost and Scrooge, across the hall, to a door at the back of the house. It opened before them, and disclosed a long, bare, melancholy room, made barer still by lines of plain deal forms and desks. At one of these a lonely boy was reading near a feeble fire; and Scrooge sat down upon a form, and wept to see his poor forgotten self as he used to be.",
     "speed": 1.0,
@@ -673,7 +673,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 56,
     "text": "Not a latent echo in the house, not a squeak and scuffle from the mice behind the panelling, not a drip from the half-thawed water-spout in the dull yard behind, not a sigh among the leafless boughs of one despondent poplar, not the idle swinging of an empty store-house door, no, not a clicking in the fire, but fell upon the heart of Scrooge with a softening influence, and gave a freer passage to his tears.",
     "speed": 1.0,
@@ -685,7 +685,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 57,
     "text": "The Spirit touched him on the arm, and pointed to his younger self, intent upon his reading. Suddenly a man, in foreign garments: wonderfully real and distinct to look at: stood outside the window, with an axe stuck in his belt, and leading by the bridle an ass laden with wood.",
     "speed": 1.0,
@@ -697,7 +697,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 58,
     "text": "Why, it's Ali Baba! It's dear old honest Ali Baba! Yes, yes, I know! One Christmas time, when yonder solitary child was left here all alone, he <i>did</i> come, for the first time, just like that. Poor boy! And Valentine, and his wild brother, Orson; there they go! And what's his name, who was put down in his drawers, asleep, at the Gate of Damascus; don't you see him! And the Sultan's Groom turned upside down by the Genii; there he is upon his head! Serve him right. I'm glad of it. What business had <i>he</i> to be married to the Princess!",
     "speed": 1.0,
@@ -709,7 +709,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 59,
     "text": "To hear Scrooge expending all the earnestness of his nature on such subjects, in a most extraordinary voice between laughing and crying; and to see his heightened and excited face; would have been a surprise to his business friends in the city indeed.",
     "speed": 1.0,
@@ -721,7 +721,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 60,
     "text": "There's the Parrot! Green body and yellow tail, with a thing like a lettuce growing out of the top of his head; there he is! Poor Robin Crusoe he called him, when he came home again after sailing round the island. 'Poor Robin Crusoe, where have you been, Robin Crusoe?' The man thought he was dreaming, but he wasn't. It was the Parrot, you know. There goes Friday, running for his life to the little creek! Halloa! Hoop! Halloo!",
     "speed": 1.0,
@@ -733,7 +733,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 61,
     "text": "Then, with a rapidity of transition very foreign to his usual character, he said, in pity for his former self, \"Poor boy!\" and cried again.",
     "speed": 1.0,
@@ -745,7 +745,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 62,
     "text": "Scrooge muttered, putting his hand in his pocket, and looking about him, after drying his eyes with his cuff: \"but it's too late now.\"",
     "speed": 1.0,
@@ -757,7 +757,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 63,
     "text": "What is the matter?",
     "speed": 1.0,
@@ -769,7 +769,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 64,
     "text": "Nothing. Nothing. There was a boy singing a Christmas Carol at my door last night. I should like to have given him something: that's all.",
     "speed": 1.0,
@@ -781,7 +781,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 65,
     "text": "The Ghost smiled thoughtfully, and waved its hand: saying as it did so: ",
     "speed": 1.0,
@@ -793,7 +793,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PRESENT",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 66,
     "text": "Let us see another Christmas!",
     "speed": 1.0,
@@ -805,7 +805,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 67,
     "text": "Scrooge's former self grew larger at the words, and the room became a little darker and more dirty. The panels shrunk, the windows cracked; fragments of plaster fell out of the ceiling, and the naked laths were shown instead; but how all this was brought about, Scrooge knew no more than you do. He only knew that it was quite correct; that everything had happened so; that there he was, alone again, when all the other boys had gone home for the jolly holidays.",
     "speed": 1.0,
@@ -817,7 +817,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 68,
     "text": "He was not reading now, but walking up and down despairingly. Scrooge looked at the Ghost, and with a mournful shaking of his head, glanced anxiously towards the door.",
     "speed": 1.0,
@@ -829,7 +829,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 69,
     "text": "It opened; and a little girl, much younger than the boy, came darting in, and putting her arms about his neck, and often kissing him, addressed him as her \"Dear, dear brother.\"",
     "speed": 1.0,
@@ -841,7 +841,7 @@
   },
   {
     "character_identifier": "FAN",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 70,
     "text": "I have come to bring you home, dear brother! To bring you home, home, home!",
     "speed": 1.0,
@@ -853,7 +853,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_CHILD",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 71,
     "text": "Home, little Fan?",
     "speed": 1.0,
@@ -865,7 +865,7 @@
   },
   {
     "character_identifier": "FAN",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 72,
     "text": "Yes! Home, for good and all. Home, for ever and ever. Father is so much kinder than he used to be, that home's like Heaven! He spoke so gently to me one dear night when I was going to bed, that I was not afraid to ask him once more if you might come home; and he said Yes, you should; and sent me in a coach to bring you. And you're to be a man! and are never to come back here; but first, we're to be together all the Christmas long, and have the merriest time in all the world.",
     "speed": 1.0,
@@ -877,7 +877,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_CHILD",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 73,
     "text": "You are quite a woman, little Fan!",
     "speed": 1.0,
@@ -889,7 +889,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 74,
     "text": "She clapped her hands and laughed, and tried to touch his head; but being too little, laughed again, and stood on tiptoe to embrace him. Then she began to drag him, in her childish eagerness, towards the door; and he, nothing loth to go, accompanied her.",
     "speed": 1.0,
@@ -901,7 +901,7 @@
   },
   {
     "character_identifier": "SCHOOLMASTER",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 75,
     "text": "Bring down Master Scrooge's box, there!",
     "speed": 1.0,
@@ -913,7 +913,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 76,
     "text": "In the hall appeared the schoolmaster himself, who glared on Master Scrooge with a ferocious condescension, and threw him into a dreadful state of mind by shaking hands with him. He then conveyed him and his sister into the veriest old well of a shivering best-parlour that ever was seen, where the maps upon the wall, and the celestial and terrestrial globes in the windows, were waxy with cold. Here he produced a decanter of curiously light wine, and a block of curiously heavy cake, and administered instalments of those dainties to the young people. At the same time, sending out a meagre servant to offer a glass of something to the postboy, who answered that he thanked the gentleman, but if it was the same tap as he had tasted before, he had rather not. Master Scrooge's trunk being by this time tied on to the top of the chaise, the children bade the schoolmaster good-bye right willingly; and getting into it, drove gaily down the garden-sweep: the quick wheels dashing the hoar-frost and snow from off the dark leaves of the evergreens like spray.",
     "speed": 1.0,
@@ -925,7 +925,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 77,
     "text": "Always a delicate creature, whom a breath might have withered. But she had a large heart!",
     "speed": 1.0,
@@ -937,7 +937,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 78,
     "text": "So she had. You're right. I will not gainsay it, Spirit. God forbid!",
     "speed": 1.0,
@@ -949,7 +949,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 79,
     "text": "She died a woman, and had, as I think, children.",
     "speed": 1.0,
@@ -961,7 +961,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 80,
     "text": "One child.",
     "speed": 1.0,
@@ -973,7 +973,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 81,
     "text": "True. Your nephew!",
     "speed": 1.0,
@@ -985,7 +985,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 82,
     "text": "Scrooge seemed uneasy in his mind; and answered briefly, \"Yes.\"",
     "speed": 1.0,
@@ -997,7 +997,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 83,
     "text": "Although they had but that moment left the school behind them, they were now in the busy thoroughfares of a city, where shadowy passengers passed and repassed; where shadowy carts and coaches battled for the way, and all the strife and tumult of a real city were. It was made plain enough, by the dressing of the shops, that here too it was Christmas time again; but it was evening, and the streets were lighted up.",
     "speed": 1.0,
@@ -1009,7 +1009,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 84,
     "text": "The Ghost stopped at a certain warehouse door, and asked Scrooge if he knew it.",
     "speed": 1.0,
@@ -1021,7 +1021,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 85,
     "text": "Know it! I was apprenticed here!",
     "speed": 1.0,
@@ -1033,7 +1033,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 86,
     "text": "They went in. At sight of an old gentleman in a Welsh wig, sitting behind such a high desk, that if he had been two inches taller he must have knocked his head against the ceiling, Scrooge cried in great excitement:",
     "speed": 1.0,
@@ -1045,7 +1045,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 87,
     "text": "Why, it's old Fezziwig! Bless his heart; it's Fezziwig alive again!",
     "speed": 1.0,
@@ -1057,7 +1057,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 88,
     "text": "Old Fezziwig laid down his pen, and looked up at the clock, which pointed to the hour of seven. He rubbed his hands; adjusted his capacious waistcoat; laughed all over himself, from his shoes to his organ of benevolence; and called out in a comfortable, oily, rich, fat, jovial voice:",
     "speed": 1.0,
@@ -1069,7 +1069,7 @@
   },
   {
     "character_identifier": "FEZZIWIG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 89,
     "text": "Yo ho, there! Ebenezer! Dick!",
     "speed": 1.0,
@@ -1081,7 +1081,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 90,
     "text": "Scrooge's former self, now grown a young man, came briskly in, accompanied by his fellow-'prentice.",
     "speed": 1.0,
@@ -1093,7 +1093,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 91,
     "text": "Dick Wilkins, to be sure! Bless me, yes. There he is. He was very much attached to me, was Dick. Poor Dick! Dear, dear!",
     "speed": 1.0,
@@ -1105,7 +1105,7 @@
   },
   {
     "character_identifier": "FEZZIWIG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 92,
     "text": "Yo ho, my boys! No more work to-night. Christmas Eve, Dick. Christmas, Ebenezer! Let's have the shutters up, before a man can say Jack Robinson!",
     "speed": 1.0,
@@ -1117,7 +1117,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 93,
     "text": "You wouldn't believe how those two fellows went at it! They charged into the street with the shutters—one, two, three—had them up in their places—four, five, six—barred them and pinned them—seven, eight, nine—and came back before you could have got to twelve, panting like race-horses.",
     "speed": 1.0,
@@ -1129,7 +1129,7 @@
   },
   {
     "character_identifier": "FEZZIWIG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 94,
     "text": "Hilli-ho! Clear away, my lads, and let's have lots of room here! Hilli-ho, Dick! Chirrup, Ebenezer!",
     "speed": 1.0,
@@ -1141,7 +1141,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 95,
     "text": "Clear away! There was nothing they wouldn't have cleared away, or couldn't have cleared away, with old Fezziwig looking on. It was done in a minute. Every movable was packed off, as if it were dismissed from public life for evermore; the floor was swept and watered, the lamps were trimmed, fuel was heaped upon the fire; and the warehouse was as snug, and warm, and dry, and bright a ball-room as you would desire to see upon a winter's night.",
     "speed": 1.0,
@@ -1153,7 +1153,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 96,
     "text": "In came a fiddler with a music-book, and went up to the lofty desk, and made an orchestra of it and tuned like fifty stomach-aches. In came Mrs. Fezziwig, one vast substantial smile. In came the three Miss Fezziwigs, beaming and lovable. In came the six young followers whose hearts they broke. In came all the young men and women employed in the business. In came the housemaid, with her cousin, the baker. In came the cook, with her brother's particular friend, the milkman. In came the boy from over the way, who was suspected of not having board enough from his master; trying to hide himself behind the girl from next door but one, who was proved to have had her ears pulled by her mistress. In they all came, one after another; some shyly, some boldly, some gracefully, some awkwardly, some pushing, some pulling; in they all came, anyhow and everyhow.",
     "speed": 1.0,
@@ -1165,7 +1165,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 97,
     "text": "Away they all went, twenty couple at once; hands half round and back again the other way; down the middle and up again; round and round in various stages of affectionate grouping; old top couple always turning up in the wrong place; new top couple starting off again, as soon as they got there; all top couples at last, and not a bottom one to help them! When this result was brought about, old Fezziwig, clapping his hands to stop the dance, cried out, \"Well done!\" and the fiddler plunged his hot face into a pot of porter, especially provided for that purpose. But scorning rest, upon his reappearance, he instantly began again, though there were no dancers yet, as if the other fiddler had been carried home, exhausted, on a shutter, and he were a bran-new man resolved to beat him out of sight, or perish.",
     "speed": 1.0,
@@ -1177,7 +1177,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 98,
     "text": "There were more dances, and there were forfeits, and more dances, and there was cake, and there was negus, and there was a great piece of Cold Roast, and there was a great piece of Cold Boiled, and there were mince-pies, and plenty of beer. But the great effect of the evening came after the Roast and Boiled, when the fiddler (an artful dog, mind! The sort of man who knew his business better than you or I could have told it him!) struck up \"Sir Roger de Coverley.\" Then old Fezziwig stood out to dance with Mrs. Fezziwig. Top couple, too; with a good stiff piece of work cut out for them; three or four and twenty pair of partners; people who were not to be trifled with; people who <i>would</i> dance, and had no notion of walking.",
     "speed": 1.0,
@@ -1189,7 +1189,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 99,
     "text": "But if they had been twice as many—ah, four times—old Fezziwig would have been a match for them, and so would Mrs. Fezziwig. As to <i>her</i>, she was worthy to be his partner in every sense of the term. If that's not high praise, tell me higher, and I'll use it. A positive light appeared to issue from Fezziwig's calves. They shone in every part of the dance like moons. You couldn't have predicted, at any given time, what would have become of them next. And when old Fezziwig and Mrs. Fezziwig had gone all through the dance; advance and retire, both hands to your partner, bow and curtsey, corkscrew, thread-the-needle, and back again to your place; Fezziwig \"cut\"—cut so deftly, that he appeared to wink with his legs, and came upon his feet again without a stagger.",
     "speed": 1.0,
@@ -1201,7 +1201,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 100,
     "text": "When the clock struck eleven, this domestic ball broke up. Mr. and Mrs. Fezziwig took their stations, one on either side of the door, and shaking hands with every person individually as he or she went out, wished him or her a Merry Christmas. When everybody had retired but the two 'prentices, they did the same to them; and thus the cheerful voices died away, and the lads were left to their beds; which were under a counter in the back-shop.",
     "speed": 1.0,
@@ -1213,7 +1213,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 101,
     "text": "During the whole of this time, Scrooge had acted like a man out of his wits. His heart and soul were in the scene, and with his former self. He corroborated everything, remembered everything, enjoyed everything, and underwent the strangest agitation. It was not until now, when the bright faces of his former self and Dick were turned from them, that he remembered the Ghost, and became conscious that it was looking full upon him, while the light upon its head burnt very clear.",
     "speed": 1.0,
@@ -1225,7 +1225,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 102,
     "text": "A small matter, to make these silly folks so full of gratitude.",
     "speed": 1.0,
@@ -1237,7 +1237,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 103,
     "text": "Small!",
     "speed": 1.0,
@@ -1249,7 +1249,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 104,
     "text": "The Spirit signed to him to listen to the two apprentices, who were pouring out their hearts in praise of Fezziwig: and when he had done so, said,",
     "speed": 1.0,
@@ -1261,7 +1261,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 105,
     "text": "Why! Is it not? He has spent but a few pounds of your mortal money: three or four perhaps. Is that so much that he deserves this praise?",
     "speed": 1.0,
@@ -1273,7 +1273,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 106,
     "text": "It isn't that. It isn't that, Spirit. He has the power to render us happy or unhappy; to make our service light or burdensome; a pleasure or a toil. Say that his power lies in words and looks; in things so slight and insignificant that it is impossible to add and count 'em up: what then? The happiness he gives, is quite as great as if it cost a fortune.",
     "speed": 1.0,
@@ -1285,7 +1285,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 107,
     "text": "He felt the Spirit's glance, and stopped.",
     "speed": 1.0,
@@ -1297,7 +1297,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 108,
     "text": "What is the matter?",
     "speed": 1.0,
@@ -1309,7 +1309,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 109,
     "text": "Nothing particular.",
     "speed": 1.0,
@@ -1321,7 +1321,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 110,
     "text": "Something, I think?",
     "speed": 1.0,
@@ -1333,7 +1333,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 111,
     "text": "No. No. I should like to be able to say a word or two to my clerk just now. That's all.",
     "speed": 1.0,
@@ -1345,7 +1345,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 112,
     "text": "His former self turned down the lamps as he gave utterance to the wish; and Scrooge and the Ghost again stood side by side in the open air.",
     "speed": 1.0,
@@ -1357,7 +1357,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 113,
     "text": "My time grows short. Quick!",
     "speed": 1.0,
@@ -1369,7 +1369,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 114,
     "text": "This was not addressed to Scrooge, or to any one whom he could see, but it produced an immediate effect. For again Scrooge saw himself. He was older now; a man in the prime of life. His face had not the harsh and rigid lines of later years; but it had begun to wear the signs of care and avarice. There was an eager, greedy, restless motion in the eye, which showed the passion that had taken root, and where the shadow of the growing tree would fall.",
     "speed": 1.0,
@@ -1381,7 +1381,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 115,
     "text": "He was not alone, but sat by the side of a fair young girl in a mourning-dress: in whose eyes there were tears, which sparkled in the light that shone out of the Ghost of Christmas Past.",
     "speed": 1.0,
@@ -1393,7 +1393,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 116,
     "text": "It matters little. To you, very little. Another idol has displaced me; and if it can cheer and comfort you in time to come, as I would have tried to do, I have no just cause to grieve.",
     "speed": 1.0,
@@ -1405,7 +1405,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 117,
     "text": "What Idol has displaced you?",
     "speed": 1.0,
@@ -1417,7 +1417,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 118,
     "text": "A golden one.",
     "speed": 1.0,
@@ -1429,7 +1429,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 119,
     "text": "This is the even-handed dealing of the world! There is nothing on which it is so hard as poverty; and there is nothing it professes to condemn with such severity as the pursuit of wealth!",
     "speed": 1.0,
@@ -1441,7 +1441,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 120,
     "text": "You fear the world too much. All your other hopes have merged into the hope of being beyond the chance of its sordid reproach. I have seen your nobler aspirations fall off one by one, until the master-passion, Gain, engrosses you. Have I not?",
     "speed": 1.0,
@@ -1453,7 +1453,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 121,
     "text": "What then? Even if I have grown so much wiser, what then? I am not changed towards you.",
     "speed": 1.0,
@@ -1465,7 +1465,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 122,
     "text": "She shook her head.",
     "speed": 1.0,
@@ -1477,7 +1477,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 123,
     "text": "Am I?",
     "speed": 1.0,
@@ -1489,7 +1489,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 124,
     "text": "Our contract is an old one. It was made when we were both poor and content to be so, until, in good season, we could improve our worldly fortune by our patient industry. You <i>are</i> changed. When it was made, you were another man.",
     "speed": 1.0,
@@ -1501,7 +1501,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 125,
     "text": "I was a boy.",
     "speed": 1.0,
@@ -1513,7 +1513,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 126,
     "text": "Your own feeling tells you that you were not what you are. I am. That which promised happiness when we were one in heart, is fraught with misery now that we are two. How often and how keenly I have thought of this, I will not say. It is enough that I <i>have</i> thought of it, and can release you.",
     "speed": 1.0,
@@ -1525,7 +1525,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 127,
     "text": "Have I ever sought release?",
     "speed": 1.0,
@@ -1537,7 +1537,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 128,
     "text": "In words. No. Never.",
     "speed": 1.0,
@@ -1549,7 +1549,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 129,
     "text": "In what, then?",
     "speed": 1.0,
@@ -1561,7 +1561,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 130,
     "text": "In a changed nature; in an altered spirit; in another atmosphere of life; another Hope as its great end. In everything that made my love of any worth or value in your sight. If this had never been between us, tell me, would you seek me out and try to win me now? Ah, no!",
     "speed": 1.0,
@@ -1573,7 +1573,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 131,
     "text": "He seemed to yield to the justice of this supposition, in spite of himself. But he said with a struggle,",
     "speed": 1.0,
@@ -1585,7 +1585,7 @@
   },
   {
     "character_identifier": "YOUNG_SCROOGE_APPRENTICE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 132,
     "text": "You think not.",
     "speed": 1.0,
@@ -1597,7 +1597,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 133,
     "text": "I would gladly think otherwise if I could, Heaven knows! When <i>I</i> have learned a Truth like this, I know how strong and irresistible it must be. But if you were free to-day, to-morrow, yesterday, can even I believe that you would choose a dowerless girl—you who, in your very confidence with her, weigh everything by Gain: or, choosing her, if for a moment you were false enough to your one guiding principle to do so, do I not know that your repentance and regret would surely follow? I do; and I release you. With a full heart, for the love of him you once were.",
     "speed": 1.0,
@@ -1609,7 +1609,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 134,
     "text": "He was about to speak; but with her head turned from him, she resumed.",
     "speed": 1.0,
@@ -1621,7 +1621,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 135,
     "text": "You may—the memory of what is past half makes me hope you will—have pain in this. A very, very brief time, and you will dismiss the recollection of it, gladly, as an unprofitable dream, from which it happened well that you awoke. May you be happy in the life you have chosen!",
     "speed": 1.0,
@@ -1633,7 +1633,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 136,
     "text": "She left him, and they parted.",
     "speed": 1.0,
@@ -1645,7 +1645,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 137,
     "text": "Spirit! show me no more! Conduct me home. Why do you delight to torture me?",
     "speed": 1.0,
@@ -1657,7 +1657,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 138,
     "text": "One shadow more!",
     "speed": 1.0,
@@ -1669,7 +1669,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 139,
     "text": "No more! No more. I don't wish to see it. Show me no more!",
     "speed": 1.0,
@@ -1681,7 +1681,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 140,
     "text": "But the relentless Ghost pinioned him in both his arms, and forced him to observe what happened next.",
     "speed": 1.0,
@@ -1693,7 +1693,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 141,
     "text": "They were in another scene and place; a room, not very large or handsome, but full of comfort. Near to the winter fire sat a beautiful young girl, so like that last that Scrooge believed it was the same, until he saw <i>her</i>, now a comely matron, sitting opposite her daughter. The noise in this room was perfectly tumultuous, for there were more children there, than Scrooge in his agitated state of mind could count; and, unlike the celebrated herd in the poem, they were not forty children conducting themselves like one, but every child was conducting itself like forty.",
     "speed": 1.0,
@@ -1705,7 +1705,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 142,
     "text": "The consequences were uproarious beyond belief; but no one seemed to care; on the contrary, the mother and daughter laughed heartily, and enjoyed it very much; and the latter, soon beginning to mingle in the sports, got pillaged by the young brigands most ruthlessly. What would I not have given to be one of them! Though I never could have been so rude, no, no! I wouldn't for the wealth of all the world have crushed that braided hair, and torn it down; and for the precious little shoe, I wouldn't have plucked it off, God bless my soul! to save my life. As to measuring her waist in sport, as they did, bold young brood, I couldn't have done it; I should have expected my arm to have grown round it for a punishment, and never come straight again. And yet I should have dearly liked, I own, to have touched her lips; to have questioned her, that she might have opened them; to have looked upon the lashes of her downcast eyes, and never raised a blush; to have let loose waves of hair, an inch of which would be a keepsake beyond price: in short, I should have liked, I do confess, to have had the lightest licence of a child, and yet to have been man enough to know its value.",
     "speed": 1.0,
@@ -1717,7 +1717,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 143,
     "text": "But now a knocking at the door was heard, and such a rush immediately ensued that she with laughing face and plundered dress was borne towards it the centre of a flushed and boisterous group, just in time to greet the father, who came home attended by a man laden with Christmas toys and presents. Then the shouting and the struggling, and the onslaught that was made on the defenceless porter! The scaling him with chairs for ladders to dive into his pockets, despoil him of brown-paper parcels, hold on tight by his cravat, hug him round his neck, pommel his back, and kick his legs in irrepressible affection! The shouts of wonder and delight with which the development of every package was received! The terrible announcement that the baby had been taken in the act of putting a doll's frying-pan into his mouth, and was more than suspected of having swallowed a fictitious turkey, glued on a wooden platter! The immense relief of finding this a false alarm! The joy, and gratitude, and ecstasy! They are all indescribable alike.",
     "speed": 1.0,
@@ -1729,7 +1729,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 144,
     "text": "It is enough that by degrees the children and their emotions got out of the parlour, and by one stair at a time, up to the top of the house; where they went to bed, and so subsided.",
     "speed": 1.0,
@@ -1741,7 +1741,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 145,
     "text": "And now Scrooge looked on more attentively than ever, when the master of the house, having his daughter leaning fondly on him, sat down with her and her mother at his own fireside; and when he thought that such another creature, quite as graceful and as full of promise, might have called him father, and been a spring-time in the haggard winter of his life, his sight grew very dim indeed.",
     "speed": 1.0,
@@ -1753,7 +1753,7 @@
   },
   {
     "character_identifier": "BELLE_HUSBAND",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 146,
     "text": "Belle, I saw an old friend of yours this afternoon.",
     "speed": 1.0,
@@ -1765,7 +1765,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 147,
     "text": "Who was it?",
     "speed": 1.0,
@@ -1777,7 +1777,7 @@
   },
   {
     "character_identifier": "BELLE_HUSBAND",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 148,
     "text": "Guess!",
     "speed": 1.0,
@@ -1789,7 +1789,7 @@
   },
   {
     "character_identifier": "BELLE_YOUNG",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 149,
     "text": "How can I? Tut, don't I know? Mr. Scrooge.",
     "speed": 1.0,
@@ -1801,7 +1801,7 @@
   },
   {
     "character_identifier": "BELLE_HUSBAND",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 150,
     "text": "Mr. Scrooge it was. I passed his office window; and as it was not shut up, and he had a candle inside, I could scarcely help seeing him. His partner lies upon the point of death, I hear; and there he sat alone. Quite alone in the world, I do believe.",
     "speed": 1.0,
@@ -1813,7 +1813,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 151,
     "text": "Spirit! remove me from this place.",
     "speed": 1.0,
@@ -1825,7 +1825,7 @@
   },
   {
     "character_identifier": "GHOST_CHRISTMAS_PAST",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 152,
     "text": "I told you these were shadows of the things that have been. That they are what they are, do not blame me!",
     "speed": 1.0,
@@ -1837,7 +1837,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 153,
     "text": "Remove me! I cannot bear it!",
     "speed": 1.0,
@@ -1849,7 +1849,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 154,
     "text": "He turned upon the Ghost, and seeing that it looked upon him with a face, in which in some strange way there were fragments of all the faces it had shown him, wrestled with it.",
     "speed": 1.0,
@@ -1861,7 +1861,7 @@
   },
   {
     "character_identifier": "SCROOGE",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 155,
     "text": "Leave me! Take me back. Haunt me no longer!",
     "speed": 1.0,
@@ -1873,7 +1873,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 156,
     "text": "In the struggle, if that can be called a struggle in which the Ghost with no visible resistance on its own part was undisturbed by any effort of its adversary, Scrooge observed that its light was burning high and bright; and dimly connecting that with its influence over him, he seized the extinguisher-cap, and by a sudden action pressed it down upon its head.",
     "speed": 1.0,
@@ -1885,7 +1885,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 157,
     "text": "The Spirit dropped beneath it, so that the extinguisher covered its whole form; but though Scrooge pressed it down with all his force, he could not hide the light: which streamed from under it, in an unbroken flood upon the ground.",
     "speed": 1.0,
@@ -1897,7 +1897,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": null,
+    "scene_identifier": "SEGMENT_3",
     "ordinal": 158,
     "text": "He was conscious of being exhausted, and overcome by an irresistible drowsiness; and, further, of being in his own bedroom. He gave the cap a parting squeeze, in which his hand relaxed; and had barely time to reel to bed, before he sank into a heavy sleep.",
     "speed": 1.0,
