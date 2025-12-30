@@ -9,6 +9,7 @@
     "trailing_silence_s": 1.0,
     "start_s": 0.0,
     "end_s": 1.84,
-    "duration_s": 1.84
+    "duration_s": 1.84,
+    "title": true
   }
 ]
