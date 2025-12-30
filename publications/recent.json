@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+    "title": "A Christmas Carol",
+    "author_names": "Charles Dickens",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Gothic",
+      "Victorian",
+      "Christmas",
+      "Supernatural"
+    ],
+    "updated_at": "2025-12-30T19:30:47Z",
+    "data_checksum": "937b3761b31fadf356dba6f02046bc6f9e4cdc7dceccf66f7fdb0289565bf992"
+  },
+  {
     "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
     "title": "Romeo and Juliet",
     "author_names": "William Shakespeare",
@@ -13,13 +28,6 @@
     ],
     "updated_at": "2025-12-30T19:24:07Z",
     "data_checksum": "83c1bbc2b258ea9dcf83185d30408e1f6104c35d3c3dc61f766c7fe881151c9d"
-  },
-  {
-    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
-    "title": "A Christmas Carol",
-    "author_names": "Charles Dickens",
-    "updated_at": "2025-12-30T13:33:26Z",
-    "data_checksum": "b524992f49a9b7b3f86ea6d22981fab9a79f150524568827cfb826170e8c7bcd"
   },
   {
     "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
