@@ -1,7 +1,7 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 0,
     "text": "The grand hall of the Capulet estate is a hive of activity. Lord and Lady Capulet sweep into the room, followed by the Nurse and several harried servants.",
     "speed": 1.0,
@@ -13,7 +13,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 1,
     "text": "So many guests invite as here are writ.",
     "speed": 1.0,
@@ -25,7 +25,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 2,
     "text": "Capulet hands a guest list to the first servant, who bows and quickly retreats to carry out the order.",
     "speed": 1.0,
@@ -37,7 +37,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 3,
     "text": "Sirrah, go hire me twenty cunning cooks.",
     "speed": 1.0,
@@ -49,7 +49,7 @@
   },
   {
     "character_identifier": "CAPULETS_SECOND_SERVANT",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 4,
     "text": "You shall have none ill, sir; for I’ll try if they can lick their fingers.",
     "speed": 1.0,
@@ -61,7 +61,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 5,
     "text": "How canst thou try them so?",
     "speed": 1.0,
@@ -73,7 +73,7 @@
   },
   {
     "character_identifier": "CAPULETS_SECOND_SERVANT",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 6,
     "text": "Marry, sir, ’tis an ill cook that cannot lick his own fingers; therefore he that cannot lick his fingers goes not with me.",
     "speed": 1.0,
@@ -85,7 +85,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 7,
     "text": "Go, begone.",
     "speed": 1.0,
@@ -97,7 +97,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 8,
     "text": "The second servant chuckles and heads off to find the cooks. Capulet sighs, looking around the unfurnished hall.",
     "speed": 1.0,
@@ -109,7 +109,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 9,
     "text": "We shall be much unfurnish’d for this time. What, is my daughter gone to Friar Lawrence?",
     "speed": 1.0,
@@ -121,7 +121,7 @@
   },
   {
     "character_identifier": "NURSE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 10,
     "text": "Ay, forsooth.",
     "speed": 1.0,
@@ -133,7 +133,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 11,
     "text": "Well, he may chance to do some good on her. A peevish self-will’d harlotry it is.",
     "speed": 1.0,
@@ -145,7 +145,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 12,
     "text": "Juliet appears at the entrance of the hall, her step light and her expression serene.",
     "speed": 1.0,
@@ -157,7 +157,7 @@
   },
   {
     "character_identifier": "NURSE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 13,
     "text": "See where she comes from shrift with merry look.",
     "speed": 1.0,
@@ -169,7 +169,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 14,
     "text": "How now, my headstrong. Where have you been gadding?",
     "speed": 1.0,
@@ -181,7 +181,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 15,
     "text": "Where I have learnt me to repent the sin of disobedient opposition to you and your behests; and am enjoin’d by holy Lawrence to fall prostrate here, to beg your pardon.",
     "speed": 1.0,
@@ -193,7 +193,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 16,
     "text": "Juliet sinks to her knees before her father, her head bowed in a show of deep submission.",
     "speed": 1.0,
@@ -205,7 +205,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 17,
     "text": "Pardon, I beseech you. Henceforward I am ever rul’d by you.",
     "speed": 1.0,
@@ -217,7 +217,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 18,
     "text": "Send for the County, go tell him of this. I’ll have this knot knit up tomorrow morning.",
     "speed": 1.0,
@@ -229,7 +229,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 19,
     "text": "I met the youthful lord at Lawrence’ cell, and gave him what becomed love I might, not stepping o’er the bounds of modesty.",
     "speed": 1.0,
@@ -241,7 +241,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 20,
     "text": "Why, I am glad on’t. This is well. Stand up.",
     "speed": 1.0,
@@ -253,7 +253,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 21,
     "text": "Capulet reaches down and pulls his daughter to her feet, his previous anger vanished.",
     "speed": 1.0,
@@ -265,7 +265,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 22,
     "text": "This is as’t should be. Let me see the County. Ay, marry. Go, I say, and fetch him hither. Now afore God, this reverend holy Friar, all our whole city is much bound to him.",
     "speed": 1.0,
@@ -277,7 +277,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 23,
     "text": "Nurse, will you go with me into my closet, to help me sort such needful ornaments as you think fit to furnish me tomorrow?",
     "speed": 1.0,
@@ -289,7 +289,7 @@
   },
   {
     "character_identifier": "LADY_CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 24,
     "text": "No, not till Thursday. There is time enough.",
     "speed": 1.0,
@@ -301,7 +301,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 25,
     "text": "Go, Nurse, go with her. We’ll to church tomorrow.",
     "speed": 1.0,
@@ -313,7 +313,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 26,
     "text": "The Nurse and Juliet depart for the bedchambers, leaving Lord and Lady Capulet alone amidst the mounting chaos.",
     "speed": 1.0,
@@ -325,7 +325,7 @@
   },
   {
     "character_identifier": "LADY_CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 27,
     "text": "We shall be short in our provision, ’Tis now near night.",
     "speed": 1.0,
@@ -337,7 +337,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 28,
     "text": "Tush, I will stir about, and all things shall be well, I warrant thee, wife. Go thou to Juliet, help to deck up her.",
     "speed": 1.0,
@@ -349,7 +349,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 29,
     "text": "I’ll not to bed tonight, let me alone. I’ll play the housewife for this once.—What, ho!—",
     "speed": 1.0,
@@ -361,7 +361,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 30,
     "text": "He looks around for a servant, but the hall is momentarily empty of helpers.",
     "speed": 1.0,
@@ -373,7 +373,7 @@
   },
   {
     "character_identifier": "CAPULET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 31,
     "text": "They are all forth: well, I will walk myself to County Paris, to prepare him up against tomorrow. My heart is wondrous light since this same wayward girl is so reclaim’d.",
     "speed": 1.0,
@@ -385,7 +385,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_24_SCENE_01",
     "ordinal": 32,
     "text": "Lord Capulet strides toward the door with renewed vigor, as the household prepares for a sleepless night of labor.",
     "speed": 1.0,

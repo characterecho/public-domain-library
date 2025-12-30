@@ -1,7 +1,7 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 0,
     "text": "Inside the secluded chapel, Friar Lawrence and Romeo wait in the hallowed stillness for the bride to arrive.",
     "speed": 1.0,
@@ -13,7 +13,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 1,
     "text": "So smile the heavens upon this holy act That after-hours with sorrow chide us not.",
     "speed": 1.0,
@@ -25,7 +25,7 @@
   },
   {
     "character_identifier": "ROMEO",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 2,
     "text": "Amen, amen, but come what sorrow can, It cannot countervail the exchange of joy That one short minute gives me in her sight. Do thou but close our hands with holy words, Then love-devouring death do what he dare, It is enough I may but call her mine.",
     "speed": 1.0,
@@ -37,7 +37,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 3,
     "text": "These violent delights have violent ends, And in their triumph die; like fire and powder, Which as they kiss consume. The sweetest honey Is loathsome in his own deliciousness, And in the taste confounds the appetite. Therefore love moderately: long love doth so; Too swift arrives as tardy as too slow.",
     "speed": 1.0,
@@ -49,7 +49,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 4,
     "text": "Juliet appears at the entrance, her movement nearly silent as she glides across the stone floor.",
     "speed": 1.0,
@@ -61,7 +61,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 5,
     "text": "Here comes the lady. O, so light a foot Will ne’er wear out the everlasting flint. A lover may bestride the gossamers That idles in the wanton summer air And yet not fall; so light is vanity.",
     "speed": 1.0,
@@ -73,7 +73,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 6,
     "text": "Good even to my ghostly confessor.",
     "speed": 1.0,
@@ -85,7 +85,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 7,
     "text": "Romeo shall thank thee, daughter, for us both.",
     "speed": 1.0,
@@ -97,7 +97,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 8,
     "text": "As much to him, else is his thanks too much.",
     "speed": 1.0,
@@ -109,7 +109,7 @@
   },
   {
     "character_identifier": "ROMEO",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 9,
     "text": "Ah, Juliet, if the measure of thy joy Be heap’d like mine, and that thy skill be more To blazon it, then sweeten with thy breath This neighbour air, and let rich music’s tongue Unfold the imagin’d happiness that both Receive in either by this dear encounter.",
     "speed": 1.0,
@@ -121,7 +121,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 10,
     "text": "Conceit more rich in matter than in words, Brags of his substance, not of ornament. They are but beggars that can count their worth; But my true love is grown to such excess, I cannot sum up sum of half my wealth.",
     "speed": 1.0,
@@ -133,7 +133,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 11,
     "text": "Come, come with me, and we will make short work, For, by your leaves, you shall not stay alone Till holy church incorporate two in one.",
     "speed": 1.0,
@@ -145,7 +145,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_15_SCENE_01",
     "ordinal": 12,
     "text": "The Friar leads Romeo and Juliet toward the inner sanctum to be wed in haste and secrecy.",
     "speed": 1.0,
