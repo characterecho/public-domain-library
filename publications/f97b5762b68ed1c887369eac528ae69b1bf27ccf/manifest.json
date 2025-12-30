@@ -4,8 +4,16 @@
   "description": "EPUB imported from https://gutenberg.org/ebooks/46.epub3.images",
   "epub_source": "http://www.gutenberg.org/46",
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+  "publication_type": "novel",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
   "total_duration_s": 9243.839735,
+  "genre_tags": [
+    "Classics",
+    "Gothic",
+    "Victorian",
+    "Christmas",
+    "Supernatural"
+  ],
   "characters": [
     {
       "identifier": "NARRATOR",
@@ -1251,7 +1259,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "metadata": {},
-      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/segment_0.png",
+      "background_key": null,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/0/audio.mp3",
       "duration_s": 9.34
     },
@@ -1281,7 +1289,7 @@
           ]
         }
       },
-      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/segment_1.png",
+      "background_key": null,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/1/audio.mp3",
       "duration_s": 2165.262713000001
     },
@@ -1312,7 +1320,7 @@
           ]
         }
       },
-      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/segment_2.png",
+      "background_key": null,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/2/audio.mp3",
       "duration_s": 2001.6076799999994
     },
@@ -1334,7 +1342,7 @@
           ]
         }
       },
-      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/segment_3.png",
+      "background_key": null,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/3/audio.mp3",
       "duration_s": 2736.374304999999
     },
@@ -1356,7 +1364,7 @@
           ]
         }
       },
-      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/segment_4.png",
+      "background_key": null,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/4/audio.mp3",
       "duration_s": 1601.027093
     },
@@ -1380,9 +1388,164 @@
           ]
         }
       },
-      "background_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/segment_5.png",
+      "background_key": null,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/segments/5/audio.mp3",
       "duration_s": 730.2279439999998
     }
+  ],
+  "scenes": [
+    {
+      "identifier": "SEGMENT_1",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "Introduction",
+      "metadata": {
+        "migrated_from_segment_id": 1
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_1.png"
+    },
+    {
+      "identifier": "SEGMENT_2",
+      "ordinal": 1,
+      "location_header": null,
+      "visual_description": "A cold, foggy Christmas Eve in Victorian London. Ebenezer Scrooge sits in his counting-house, a miserly old man surrounded by shadows and chill. Later, he returns to his gloomy chambers where the supernatural begins to intrude upon his solitary evening.",
+      "metadata": {
+        "scene_summary": {
+          "description": "A cold, foggy Christmas Eve in Victorian London. Ebenezer Scrooge sits in his counting-house, a miserly old man surrounded by shadows and chill. Later, he returns to his gloomy chambers where the supernatural begins to intrude upon his solitary evening.",
+          "important_details": [
+            "Christmas Eve",
+            "Victorian London",
+            "Dense fog and bitter cold",
+            "Dimly lit counting-house",
+            "Scrooge's isolated chambers",
+            "Seven years since Marley's death"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "NARRATOR",
+            "NEPHEW",
+            "CLERK",
+            "GENTLEMAN_1",
+            "GENTLEMAN_2",
+            "CAROLER",
+            "MARLEY_GHOST"
+          ]
+        },
+        "migrated_from_segment_id": 2
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_2.png"
+    },
+    {
+      "identifier": "SEGMENT_3",
+      "ordinal": 2,
+      "location_header": null,
+      "visual_description": "Scrooge awakens in his dark bedroom, confused by the chiming clocks. After wrestling with time and memory, he encounters the Ghost of Christmas Past—a luminous, shape-shifting spirit. They journey through Scrooge's memories: his lonely schooldays, his sister Fan's joyful rescue, Fezziwig's generous Christmas party, and his lost love Belle. The scenes grow increasingly painful until Scrooge desperately fights to extinguish the Ghost's light.",
+      "metadata": {
+        "scene_summary": {
+          "description": "Scrooge awakens in his dark bedroom, confused by the chiming clocks. After wrestling with time and memory, he encounters the Ghost of Christmas Past—a luminous, shape-shifting spirit. They journey through Scrooge's memories: his lonely schooldays, his sister Fan's joyful rescue, Fezziwig's generous Christmas party, and his lost love Belle. The scenes grow increasingly painful until Scrooge desperately fights to extinguish the Ghost's light.",
+          "important_details": [
+            "Setting shifts from Scrooge's dark bedroom to various locations from his past",
+            "Time is disoriented—clocks strike twelve when it should be early morning",
+            "Ghost emanates bright light from its head, wears white tunic with summer flowers",
+            "Locations include: countryside road, old school, Fezziwig's warehouse, Belle's parlour",
+            "Mood progresses from confusion to nostalgia to deep regret and anguish"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "GHOST_CHRISTMAS_PAST",
+            "YOUNG_SCROOGE_CHILD",
+            "FAN",
+            "SCHOOLMASTER",
+            "FEZZIWIG",
+            "YOUNG_SCROOGE_APPRENTICE",
+            "DICK_WILKINS",
+            "BELLE_YOUNG",
+            "BELLE_HUSBAND"
+          ]
+        },
+        "migrated_from_segment_id": 3
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_3.png"
+    },
+    {
+      "identifier": "SEGMENT_4",
+      "ordinal": 3,
+      "location_header": null,
+      "visual_description": "Scrooge awakens in his bed at one o'clock, anxiously awaiting the second spirit. His room transforms into a festive grove adorned with holly, mistletoe, and abundant Christmas fare, illuminated by a blazing fire and ruddy light.",
+      "metadata": {
+        "scene_summary": {
+          "description": "Scrooge awakens in his bed at one o'clock, anxiously awaiting the second spirit. His room transforms into a festive grove adorned with holly, mistletoe, and abundant Christmas fare, illuminated by a blazing fire and ruddy light.",
+          "important_details": [
+            "Time: One o'clock in the morning",
+            "Location: Scrooge's bedroom, transformed into a festive chamber",
+            "Atmosphere: Anticipatory tension giving way to abundance and warmth",
+            "Lighting: Blazing fire and ghostly ruddy light"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "GHOST_CHRISTMAS_PRESENT"
+          ]
+        },
+        "migrated_from_segment_id": 4
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_4.png"
+    },
+    {
+      "identifier": "SEGMENT_5",
+      "ordinal": 4,
+      "location_header": null,
+      "visual_description": "A shrouded phantom draped in deep black approaches Scrooge in darkness, extending only one outstretched hand. The spirit is tall, stately, and utterly silent, filling the air with gloom and mystery as Scrooge kneels in solemn dread.",
+      "metadata": {
+        "scene_summary": {
+          "description": "A shrouded phantom draped in deep black approaches Scrooge in darkness, extending only one outstretched hand. The spirit is tall, stately, and utterly silent, filling the air with gloom and mystery as Scrooge kneels in solemn dread.",
+          "important_details": [
+            "nighttime or complete darkness",
+            "phantom barely visible against darkness",
+            "solemn and terrifying atmosphere",
+            "Spirit of Christmas Yet To Come"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "GHOST_CHRISTMAS_YET_TO_COME"
+          ]
+        },
+        "migrated_from_segment_id": 5
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_5.png"
+    },
+    {
+      "identifier": "SEGMENT_6",
+      "ordinal": 5,
+      "location_header": null,
+      "visual_description": "Scrooge's bedroom on Christmas morning, flooded with golden sunlight. The transformed miser awakens with euphoric joy, frantically dressing and rushing about his chambers in a state of giddy disbelief. Church bells ring outside as he discovers he hasn't missed Christmas Day.",
+      "metadata": {
+        "scene_summary": {
+          "description": "Scrooge's bedroom on Christmas morning, flooded with golden sunlight. The transformed miser awakens with euphoric joy, frantically dressing and rushing about his chambers in a state of giddy disbelief. Church bells ring outside as he discovers he hasn't missed Christmas Day.",
+          "important_details": [
+            "Christmas Day morning",
+            "Clear, bright, cold weather",
+            "Golden sunlight streaming in",
+            "Church bells ringing",
+            "Scrooge's bedroom and sitting-room",
+            "Victorian London street visible from window"
+          ],
+          "notable_characters": [
+            "SCROOGE",
+            "BOY"
+          ]
+        },
+        "migrated_from_segment_id": 6
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_6.png"
+    }
+  ],
+  "subjects": [
+    "Christmas stories",
+    "London (England) -- Fiction",
+    "Poor families -- Fiction",
+    "Ghost stories",
+    "Misers -- Fiction",
+    "Sick children -- Fiction",
+    "Scrooge, Ebenezer (Fictitious character) -- Fiction"
   ]
 }
