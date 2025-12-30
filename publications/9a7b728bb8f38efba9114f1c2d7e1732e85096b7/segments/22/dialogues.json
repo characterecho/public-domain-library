@@ -1,7 +1,7 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 0,
     "text": "Inside the quiet, stone-walled cell of Friar Lawrence, the air is thick with the scent of herbs and incense as he speaks with Count Paris.",
     "speed": 1.0,
@@ -13,7 +13,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 1,
     "text": "On Thursday, sir? The time is very short.",
     "speed": 1.0,
@@ -25,7 +25,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 2,
     "text": "My father Capulet will have it so; And I am nothing slow to slack his haste.",
     "speed": 1.0,
@@ -37,7 +37,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 3,
     "text": "You say you do not know the lady’s mind. Uneven is the course; I like it not.",
     "speed": 1.0,
@@ -49,7 +49,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 4,
     "text": "Immoderately she weeps for Tybalt’s death, And therefore have I little talk’d of love; For Venus smiles not in a house of tears.",
     "speed": 1.0,
@@ -61,7 +61,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 5,
     "text": "Now, sir, her father counts it dangerous That she do give her sorrow so much sway; And in his wisdom, hastes our marriage, To stop the inundation of her tears, Which, too much minded by herself alone, May be put from her by society. Now do you know the reason of this haste.",
     "speed": 1.0,
@@ -73,7 +73,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 6,
     "text": "Friar Lawrence turns slightly away, his voice dropping to a troubled murmur.",
     "speed": 1.0,
@@ -85,7 +85,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 7,
     "text": "I would I knew not why it should be slow’d.",
     "speed": 1.0,
@@ -97,7 +97,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 8,
     "text": "He looks up as the sound of light footsteps approaches the entrance of the cell.",
     "speed": 1.0,
@@ -109,7 +109,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 9,
     "text": "Look, sir, here comes the lady toward my cell.",
     "speed": 1.0,
@@ -121,7 +121,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 10,
     "text": "Juliet enters the cell, her face pale and her eyes bearing the weight of recent grief.",
     "speed": 1.0,
@@ -133,7 +133,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 11,
     "text": "Happily met, my lady and my wife!",
     "speed": 1.0,
@@ -145,7 +145,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 12,
     "text": "That may be, sir, when I may be a wife.",
     "speed": 1.0,
@@ -157,7 +157,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 13,
     "text": "That may be, must be, love, on Thursday next.",
     "speed": 1.0,
@@ -169,7 +169,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 14,
     "text": "What must be shall be.",
     "speed": 1.0,
@@ -181,7 +181,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 15,
     "text": "That’s a certain text.",
     "speed": 1.0,
@@ -193,7 +193,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 16,
     "text": "Come you to make confession to this father?",
     "speed": 1.0,
@@ -205,7 +205,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 17,
     "text": "To answer that, I should confess to you.",
     "speed": 1.0,
@@ -217,7 +217,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 18,
     "text": "Do not deny to him that you love me.",
     "speed": 1.0,
@@ -229,7 +229,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 19,
     "text": "I will confess to you that I love him.",
     "speed": 1.0,
@@ -241,7 +241,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 20,
     "text": "So will ye, I am sure, that you love me.",
     "speed": 1.0,
@@ -253,7 +253,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 21,
     "text": "If I do so, it will be of more price, Being spoke behind your back than to your face.",
     "speed": 1.0,
@@ -265,7 +265,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 22,
     "text": "Poor soul, thy face is much abus’d with tears.",
     "speed": 1.0,
@@ -277,7 +277,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 23,
     "text": "The tears have got small victory by that; For it was bad enough before their spite.",
     "speed": 1.0,
@@ -289,7 +289,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 24,
     "text": "Thou wrong’st it more than tears with that report.",
     "speed": 1.0,
@@ -301,7 +301,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 25,
     "text": "That is no slander, sir, which is a truth, And what I spake, I spake it to my face.",
     "speed": 1.0,
@@ -313,7 +313,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 26,
     "text": "Thy face is mine, and thou hast slander’d it.",
     "speed": 1.0,
@@ -325,7 +325,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 27,
     "text": "It may be so, for it is not mine own. Are you at leisure, holy father, now, Or shall I come to you at evening mass?",
     "speed": 1.0,
@@ -337,7 +337,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 28,
     "text": "My leisure serves me, pensive daughter, now.— My lord, we must entreat the time alone.",
     "speed": 1.0,
@@ -349,7 +349,7 @@
   },
   {
     "character_identifier": "PARIS",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 29,
     "text": "God shield I should disturb devotion!— Juliet, on Thursday early will I rouse ye, Till then, adieu; and keep this holy kiss.",
     "speed": 1.0,
@@ -361,7 +361,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 30,
     "text": "Paris presses a brief, formal kiss to Juliet's hand and departs, leaving her alone with the Friar.",
     "speed": 1.0,
@@ -373,7 +373,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 31,
     "text": "O shut the door, and when thou hast done so, Come weep with me, past hope, past cure, past help!",
     "speed": 1.0,
@@ -385,7 +385,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 32,
     "text": "O Juliet, I already know thy grief; It strains me past the compass of my wits. I hear thou must, and nothing may prorogue it, On Thursday next be married to this County.",
     "speed": 1.0,
@@ -397,7 +397,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 33,
     "text": "Tell me not, Friar, that thou hear’st of this, Unless thou tell me how I may prevent it. If in thy wisdom, thou canst give no help, Do thou but call my resolution wise, And with this knife I’ll help it presently.",
     "speed": 1.0,
@@ -409,7 +409,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 34,
     "text": "Juliet draws a sharp, glinting knife from her robes, holding it with trembling hands as if ready to strike.",
     "speed": 1.0,
@@ -421,7 +421,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 35,
     "text": "God join’d my heart and Romeo’s, thou our hands; And ere this hand, by thee to Romeo’s seal’d, Shall be the label to another deed, Or my true heart with treacherous revolt Turn to another, this shall slay them both.",
     "speed": 1.0,
@@ -433,7 +433,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 36,
     "text": "Therefore, out of thy long-experienc’d time, Give me some present counsel, or behold ’Twixt my extremes and me this bloody knife Shall play the empire, arbitrating that Which the commission of thy years and art Could to no issue of true honour bring.",
     "speed": 1.0,
@@ -445,7 +445,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 37,
     "text": "Be not so long to speak. I long to die, If what thou speak’st speak not of remedy.",
     "speed": 1.0,
@@ -457,7 +457,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 38,
     "text": "Hold, daughter. I do spy a kind of hope, Which craves as desperate an execution As that is desperate which we would prevent.",
     "speed": 1.0,
@@ -469,7 +469,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 39,
     "text": "If, rather than to marry County Paris Thou hast the strength of will to slay thyself, Then is it likely thou wilt undertake A thing like death to chide away this shame, That cop’st with death himself to scape from it. And if thou dar’st, I’ll give thee remedy.",
     "speed": 1.0,
@@ -481,7 +481,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 40,
     "text": "O, bid me leap, rather than marry Paris, From off the battlements of yonder tower, Or walk in thievish ways, or bid me lurk Where serpents are. Chain me with roaring bears; Or hide me nightly in a charnel-house, O’er-cover’d quite with dead men’s rattling bones, With reeky shanks and yellow chapless skulls.",
     "speed": 1.0,
@@ -493,7 +493,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 41,
     "text": "Or bid me go into a new-made grave, And hide me with a dead man in his shroud; Things that, to hear them told, have made me tremble, And I will do it without fear or doubt, To live an unstain’d wife to my sweet love.",
     "speed": 1.0,
@@ -505,7 +505,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 42,
     "text": "Hold then. Go home, be merry, give consent To marry Paris. Wednesday is tomorrow; Tomorrow night look that thou lie alone, Let not thy Nurse lie with thee in thy chamber.",
     "speed": 1.0,
@@ -517,7 +517,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 43,
     "text": "Take thou this vial, being then in bed, And this distilled liquor drink thou off, When presently through all thy veins shall run A cold and drowsy humour; for no pulse Shall keep his native progress, but surcease.",
     "speed": 1.0,
@@ -529,7 +529,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 44,
     "text": "No warmth, no breath shall testify thou livest, The roses in thy lips and cheeks shall fade To paly ashes; thy eyes’ windows fall, Like death when he shuts up the day of life.",
     "speed": 1.0,
@@ -541,7 +541,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 45,
     "text": "Each part depriv’d of supple government, Shall stiff and stark and cold appear like death. And in this borrow’d likeness of shrunk death Thou shalt continue two and forty hours, And then awake as from a pleasant sleep.",
     "speed": 1.0,
@@ -553,7 +553,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 46,
     "text": "Now when the bridegroom in the morning comes To rouse thee from thy bed, there art thou dead. Then as the manner of our country is, In thy best robes, uncover’d, on the bier, Thou shalt be borne to that same ancient vault Where all the kindred of the Capulets lie.",
     "speed": 1.0,
@@ -565,7 +565,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 47,
     "text": "In the meantime, against thou shalt awake, Shall Romeo by my letters know our drift, And hither shall he come, and he and I Will watch thy waking, and that very night Shall Romeo bear thee hence to Mantua.",
     "speed": 1.0,
@@ -577,7 +577,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 48,
     "text": "And this shall free thee from this present shame, If no inconstant toy nor womanish fear Abate thy valour in the acting it.",
     "speed": 1.0,
@@ -589,7 +589,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 49,
     "text": "Give me, give me! O tell not me of fear!",
     "speed": 1.0,
@@ -601,7 +601,7 @@
   },
   {
     "character_identifier": "FRIAR_LAWRENCE",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 50,
     "text": "Hold; get you gone, be strong and prosperous In this resolve. I’ll send a friar with speed To Mantua, with my letters to thy lord.",
     "speed": 1.0,
@@ -613,7 +613,7 @@
   },
   {
     "character_identifier": "JULIET",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 51,
     "text": "Love give me strength, and strength shall help afford. Farewell, dear father.",
     "speed": 1.0,
@@ -625,7 +625,7 @@
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SEG_23_SCENE_01",
     "ordinal": 52,
     "text": "Juliet hurries from the cell, the small vial clutched tightly in her hand, as the Friar watches her go with a heavy heart.",
     "speed": 1.0,
