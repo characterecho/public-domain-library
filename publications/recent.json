@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+    "title": "The Call of Cthulhu",
+    "author_names": "H. P. Lovecraft",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Horror",
+      "Cosmic Horror",
+      "Classics",
+      "Weird Fiction",
+      "Mystery"
+    ],
+    "updated_at": "2025-12-31T20:53:04Z",
+    "data_checksum": "f3d32a54e25d32c3d0c7f771ad88b195dbcdbd0d6e94e954e9b15208c4e96512"
+  },
+  {
     "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
     "title": "Romeo and Juliet",
     "author_names": "William Shakespeare",
