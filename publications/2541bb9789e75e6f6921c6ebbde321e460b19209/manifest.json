@@ -1,0 +1,175 @@
+{
+  "title": "The Call of Cthulhu",
+  "author_names": "H. P. Lovecraft",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/68283.epub3.images",
+  "epub_source": "http://www.gutenberg.org/68283",
+  "identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+  "publication_type": "novel",
+  "cover_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/cover.png",
+  "total_duration_s": 4168.610555000001,
+  "genre_tags": [
+    "Horror",
+    "Cosmic Horror",
+    "Classics",
+    "Weird Fiction",
+    "Mystery"
+  ],
+  "characters": [
+    {
+      "identifier": "FRANCIS_THURSTON",
+      "name": "Francis Thurston",
+      "aliases": [
+        "Narrator",
+        "Protagonist"
+      ],
+      "voice_attributes": [
+        "Rational",
+        "Academic",
+        "Disturbed"
+      ],
+      "visual_attributes": [
+        "Middle Aged",
+        "Well Dressed"
+      ],
+      "roles": [
+        "Storyteller",
+        "Investigator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american_boston"
+      },
+      "dialogue_count": 236,
+      "image_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/characters/FRANCIS_THURSTON.png",
+      "voice_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/characters/FRANCIS_THURSTON.mp3"
+    },
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [],
+      "visual_attributes": [],
+      "roles": [],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american_boston"
+      },
+      "dialogue_count": 21,
+      "image_key": null,
+      "voice_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "HENRY_ANTHONY_WILCOX",
+      "name": "Henry Anthony Wilcox",
+      "aliases": [
+        "Young Sculptor"
+      ],
+      "voice_attributes": [
+        "Dreamy",
+        "Stilted",
+        "Neurotic"
+      ],
+      "visual_attributes": [
+        "Thin",
+        "Dark",
+        "Young"
+      ],
+      "roles": [
+        "Artist",
+        "Witness"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american_new_england"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/characters/HENRY_ANTHONY_WILCOX.png",
+      "voice_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/characters/HENRY_ANTHONY_WILCOX.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/segments/0/audio.mp3",
+      "duration_s": 6.88
+    },
+    {
+      "ordinal": 1,
+      "title": "1. The Horror in Clay.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_1",
+            "location_header": "INT. THURSTON'S QUARTERS - NIGHT",
+            "visual_description": "A cluttered study in Boston, filled with boxes, files, and a strange clay bas-relief. 1927."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/segments/1/audio.mp3",
+      "duration_s": 1030.9285529999997
+    },
+    {
+      "ordinal": 2,
+      "title": "2. The Tale of Inspector Legrasse.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_1",
+            "location_header": "INT. THURSTON'S QUARTERS - NIGHT",
+            "visual_description": "A cluttered study in Boston, filled with boxes, files, and a strange clay bas-relief. 1927."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/segments/2/audio.mp3",
+      "duration_s": 1663.6024310000007
+    },
+    {
+      "ordinal": 3,
+      "title": "3. The Madness from the Sea.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_1",
+            "location_header": "INT. THURSTON'S QUARTERS - NIGHT",
+            "visual_description": "A cluttered study in Boston, filled with boxes, files, and a strange clay bas-relief. 1927."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/segments/3/audio.mp3",
+      "duration_s": 1467.1995710000003
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_1",
+      "ordinal": 0,
+      "location_header": "INT. THURSTON'S QUARTERS - NIGHT",
+      "visual_description": "A cluttered study in Boston, filled with boxes, files, and a strange clay bas-relief. 1927.",
+      "metadata": {},
+      "image_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/scenes/scene_SCENE_1.jpg"
+    }
+  ],
+  "subjects": [
+    "Horror tales",
+    "Cthulhu (Fictitious character) -- Fiction"
+  ]
+}
