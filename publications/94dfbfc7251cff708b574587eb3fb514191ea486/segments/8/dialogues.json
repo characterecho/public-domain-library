@@ -1,0 +1,87 @@
+[
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 0,
+    "text": "At Last! At Last!",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 1.0,
+    "start_s": 0.0,
+    "end_s": 2.36,
+    "duration_s": 2.36,
+    "title": true
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 1,
+    "text": "Autumn passed and Winter, and in the Spring, when the days grew warm and sunny, the Boy went out to play in the wood behind the house.",
+    "speed": 1.0,
+    "audio_description": "warm, narrative",
+    "trailing_silence_s": 0.5,
+    "start_s": 2.36,
+    "end_s": 10.418776,
+    "duration_s": 8.058776
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 2,
+    "text": "And while he was playing, two rabbits crept out from the bracken and peeped at him.",
+    "speed": 1.0,
+    "audio_description": "gentle, observant",
+    "trailing_silence_s": 0.5,
+    "start_s": 10.418776,
+    "end_s": 15.038775999999999,
+    "duration_s": 4.62
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 3,
+    "text": "One of them was brown all over, but the other had strange markings under his fur, as though long ago he had been spotted, and the spots still showed through.",
+    "speed": 1.0,
+    "audio_description": "descriptive, distinct",
+    "trailing_silence_s": 0.5,
+    "start_s": 15.038775999999999,
+    "end_s": 23.72449,
+    "duration_s": 8.685714
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 4,
+    "text": "And about his little soft nose and his round black eyes there was something familiar, so that the Boy thought to himself:",
+    "speed": 1.0,
+    "audio_description": "slow, realizing",
+    "trailing_silence_s": 0.2,
+    "start_s": 23.72449,
+    "end_s": 30.88449,
+    "duration_s": 7.16
+  },
+  {
+    "character_identifier": "THE_BOY",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 5,
+    "text": "Why, he looks just like my old Bunny that was lost when I had scarlet fever!",
+    "speed": 1.0,
+    "audio_description": "internal thought, whispered",
+    "trailing_silence_s": 0.5,
+    "start_s": 30.88449,
+    "end_s": 35.035646,
+    "duration_s": 4.151156
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "SCENE_03",
+    "ordinal": 6,
+    "text": "But he never knew that it really was his own Bunny, come back to look at the child who had first helped him to be Real.",
+    "speed": 1.0,
+    "audio_description": "poignant, finalizing",
+    "trailing_silence_s": 1.0,
+    "start_s": 35.035646,
+    "end_s": 42.101768,
+    "duration_s": 7.066122
+  }
+]
