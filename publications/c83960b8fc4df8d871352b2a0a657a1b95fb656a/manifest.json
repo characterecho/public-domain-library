@@ -1,0 +1,635 @@
+{
+  "title": "The Canterville Ghost",
+  "author_names": "Oscar Wilde",
+  "description": "Publication imported from https://gutenberg.org/ebooks/14522.epub3.images",
+  "epub_source": "http://www.gutenberg.org/14522",
+  "identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+  "publication_type": "novel",
+  "cover_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.png",
+  "total_duration_s": 3794.6420259999995,
+  "genre_tags": [
+    "Classics",
+    "Satire",
+    "Ghost Story",
+    "Gothic Parody",
+    "Supernatural"
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "storyteller"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 166,
+      "image_key": null,
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "VIRGINIA_OTIS",
+      "name": "Virginia Otis",
+      "aliases": [
+        "Virginia",
+        "Miss Virginia",
+        "The Duchess"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "grave",
+        "sweet",
+        "american"
+      ],
+      "visual_attributes": [
+        "golden hair",
+        "large blue eyes",
+        "pale face",
+        "torn dark riding habit",
+        "youthful purity"
+      ],
+      "roles": [
+        "protagonist",
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/VIRGINIA_OTIS.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/VIRGINIA_OTIS.mp3"
+    },
+    {
+      "identifier": "SIR_SIMON_DE_CANTERVILLE",
+      "name": "The Ghost",
+      "aliases": [
+        "Canterville Ghost",
+        "Sir Simon"
+      ],
+      "voice_attributes": [
+        "hollow",
+        "rasping",
+        "aristocratic",
+        "vengeful"
+      ],
+      "visual_attributes": [
+        "spectral human",
+        "burning red eyes",
+        "matted long grey hair",
+        "tattered antique garments",
+        "rusty chains and manacles",
+        "gaunt terrifying face"
+      ],
+      "roles": [
+        "antagonist",
+        "ghost"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/SIR_SIMON_DE_CANTERVILLE.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/SIR_SIMON_DE_CANTERVILLE.mp3"
+    },
+    {
+      "identifier": "MR_HIRAM_B_OTIS",
+      "name": "Mr. Hiram B. Otis",
+      "aliases": [
+        "The American Minister",
+        "Mr. Otis",
+        "The Minister"
+      ],
+      "voice_attributes": [
+        "confident",
+        "brusque",
+        "pragmatic",
+        "American"
+      ],
+      "visual_attributes": [
+        "broad face",
+        "mutton-chop whiskers",
+        "determined eyes",
+        "frock coat",
+        "middle-aged"
+      ],
+      "roles": [
+        "protagonist",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/MR_HIRAM_B_OTIS.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/MR_HIRAM_B_OTIS.mp3"
+    },
+    {
+      "identifier": "CECIL_THE_DUKE",
+      "name": "Cecil, the Duke of Cheshire",
+      "aliases": [
+        "The little Duke",
+        "Cecil",
+        "The young Duke"
+      ],
+      "voice_attributes": [
+        "breathless",
+        "eager",
+        "youthful",
+        "aristocratic"
+      ],
+      "visual_attributes": [
+        "young boy",
+        "flushed face",
+        "riding clothes",
+        "messy hair",
+        "no hat"
+      ],
+      "roles": [
+        "suitor",
+        "noble"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/CECIL_THE_DUKE.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/CECIL_THE_DUKE.mp3"
+    },
+    {
+      "identifier": "LORD_CANTERVILLE",
+      "name": "Lord Canterville",
+      "aliases": [
+        "My Lord"
+      ],
+      "voice_attributes": [
+        "refined",
+        "aristocratic",
+        "polite",
+        "grave"
+      ],
+      "visual_attributes": [
+        "tall",
+        "grey hair",
+        "impeccable suit",
+        "formal bearing",
+        "kindly eyes"
+      ],
+      "roles": [
+        "secondary"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/LORD_CANTERVILLE.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/LORD_CANTERVILLE.mp3"
+    },
+    {
+      "identifier": "MRS_OTIS",
+      "name": "Mrs. Otis",
+      "aliases": [
+        "Lucretia R. Tappan",
+        "Lucretia"
+      ],
+      "voice_attributes": [
+        "energetic",
+        "warm",
+        "vital"
+      ],
+      "visual_attributes": [
+        "handsome face",
+        "fine eyes",
+        "superb profile",
+        "fashionable Victorian dress"
+      ],
+      "roles": [
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/MRS_OTIS.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/MRS_OTIS.mp3"
+    },
+    {
+      "identifier": "MRS_UMNEY",
+      "name": "Mrs. Umney",
+      "aliases": [
+        "The Housekeeper"
+      ],
+      "voice_attributes": [
+        "frail",
+        "ominous",
+        "quivering"
+      ],
+      "visual_attributes": [
+        "old woman",
+        "black silk dress",
+        "white cap",
+        "apron",
+        "wrinkled face"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/MRS_UMNEY.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/MRS_UMNEY.mp3"
+    },
+    {
+      "identifier": "WASHINGTON_OTIS",
+      "name": "Washington Otis",
+      "aliases": [
+        "Washington",
+        "Eldest son"
+      ],
+      "voice_attributes": [
+        "youthful",
+        "sensible",
+        "confident"
+      ],
+      "visual_attributes": [
+        "fair hair",
+        "gardenia in buttonhole",
+        "good-looking",
+        "smart suit"
+      ],
+      "roles": [
+        "son"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/WASHINGTON_OTIS.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/WASHINGTON_OTIS.mp3"
+    },
+    {
+      "identifier": "CHIMNEY_ANIMALS",
+      "name": "Chimney Monsters",
+      "aliases": [
+        "Carved Animals"
+      ],
+      "voice_attributes": [
+        "rasping",
+        "wooden",
+        "ominous"
+      ],
+      "visual_attributes": [
+        "carved wooden monsters",
+        "goggle eyes",
+        "lizard tails",
+        "varnished wood texture",
+        "fixed expressions"
+      ],
+      "roles": [
+        "supernatural_entity"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/CHIMNEY_ANIMALS.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/CHIMNEY_ANIMALS.mp3"
+    },
+    {
+      "identifier": "TAPESTRY_HUNTSMEN",
+      "name": "The Huntsmen",
+      "aliases": [
+        "Embroidered Figures"
+      ],
+      "voice_attributes": [
+        "faint",
+        "tiny",
+        "urgent"
+      ],
+      "visual_attributes": [
+        "anthropomorphic embroidered figures",
+        "faded green thread",
+        "tiny tasselled horns",
+        "woven texture",
+        "flat appearance"
+      ],
+      "roles": [
+        "supernatural_entity"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/TAPESTRY_HUNTSMEN.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/TAPESTRY_HUNTSMEN.mp3"
+    },
+    {
+      "identifier": "ONE_OF_THE_TWINS",
+      "name": "One of the Twins",
+      "aliases": [
+        "The Twin"
+      ],
+      "voice_attributes": [
+        "loud",
+        "observant",
+        "american"
+      ],
+      "visual_attributes": [
+        "young boy",
+        "fair hair",
+        "victorian suit"
+      ],
+      "roles": [
+        "son"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/ONE_OF_THE_TWINS.png",
+      "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/ONE_OF_THE_TWINS.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/0/audio.mp3",
+      "duration_s": 6.800000000000001
+    },
+    {
+      "ordinal": 1,
+      "title": "I",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CANTERVILLE_STUDY",
+            "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
+            "visual_description": "A late Victorian gentleman's private study. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. Heavy velvet curtains partially block afternoon light. A large wooden desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and brown tones."
+          },
+          {
+            "identifier": "SCENE_EXT_DRIVE",
+            "location_header": "EXT. COUNTRY ROAD - EVENING",
+            "visual_description": "A lush English countryside landscape at sunset viewed from a moving carriage. Pine woods and ferns line the road. Golden hour light filtering through trees, transitioning into ominous grey clouds and shadows. A sense of movement through nature, turning from idyllic to slightly foreboding."
+          },
+          {
+            "identifier": "SCENE_LIBRARY",
+            "location_header": "INT. CANTERVILLE CHASE LIBRARY - EVENING",
+            "visual_description": "A grand Tudor library with low ceilings and black oak paneling. A large stained glass window dominates the far wall. In the foreground, a dark wooden floor features a distinct dull red stain near a stone fireplace. The room is dimly lit, casting long shadows, with a somber and mysterious atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/1/audio.mp3",
+      "duration_s": 479.13591899999994
+    },
+    {
+      "ordinal": 2,
+      "title": "II",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
+          },
+          {
+            "identifier": "SCENE_SECRET_CHAMBER",
+            "location_header": "INT. SECRET CHAMBER - NIGHT",
+            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow slit window, highlighting floating dust motes and cobwebs. Rough-hewn stone walls encompass the space. A heavy timber beam crosses the low ceiling. The atmosphere is ancient, claustrophobic, and cold."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/2/audio.mp3",
+      "duration_s": 410.18310599999995
+    },
+    {
+      "ordinal": 3,
+      "title": "III",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BREAKFAST_ROOM",
+            "location_header": "INT. BREAKFAST ROOM - MORNING",
+            "visual_description": "A sunny Victorian breakfast room with tall sash windows overlooking a garden. A large mahogany table is set with crisp white linens and gleaming silver service. Warm morning light floods the room, illuminating rich cream wallpaper and polished wood accents."
+          },
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
+          },
+          {
+            "identifier": "SCENE_SECRET_CHAMBER",
+            "location_header": "INT. SECRET CHAMBER - NIGHT",
+            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow slit window, highlighting floating dust motes and cobwebs. Rough-hewn stone walls encompass the space. A heavy timber beam crosses the low ceiling. The atmosphere is ancient, claustrophobic, and cold."
+          },
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR_DAWN",
+            "location_header": "INT. UPSTAIRS CORRIDOR - DAWN",
+            "visual_description": "The long Victorian corridor in the grey, flat light of early dawn. Shadows are softer but the air is cold and still. A makeshift scarecrow-like figure stands slumped against the wainscoting. The atmosphere is pale, quiet, and slightly absurd."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/3/audio.mp3",
+      "duration_s": 781.0924699999999
+    },
+    {
+      "ordinal": 4,
+      "title": "IV",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/4/audio.mp3",
+      "duration_s": 595.647756
+    },
+    {
+      "ordinal": 5,
+      "title": "V",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TAPESTRY_CHAMBER",
+            "location_header": "INT. TAPESTRY CHAMBER - LATE AFTERNOON",
+            "visual_description": "A gloomy, neglected chamber in a Victorian manor bathed in the ruined gold light of autumn twilight. Faded green tapestries depicting huntsmen line the walls. A heavy carved chimneypiece features grotesque wooden animals. A tall window overlooks a long avenue of trees shedding yellow leaves. The atmosphere is dusty, melancholic, and shadowed."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/5/audio.mp3",
+      "duration_s": 529.4775569999999
+    },
+    {
+      "ordinal": 6,
+      "title": "VI",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_EXT_DRIVE",
+            "location_header": "EXT. COUNTRY ROAD - NIGHT",
+            "visual_description": "A lush English countryside landscape at twilight transitioning into night. Pine woods and ferns line the road. Shadows lengthen across the path. The atmosphere is frantic and foreboding, lit by the last dregs of sunset and rising moonlight."
+          },
+          {
+            "identifier": "SCENE_GREAT_HALL",
+            "location_header": "INT. GREAT HALL - NIGHT",
+            "visual_description": "A grand Victorian entrance hall and staircase at midnight. A large clock tower is visible or audible nearby. Heavy oak panelling, a dining room visible in the background with leftover supper. The space is dimly lit by gas lamps and a sudden flash of lightning. Mood is tense, shifting to supernatural awe."
+          },
+          {
+            "identifier": "SCENE_SECRET_CHAMBER",
+            "location_header": "INT. SECRET CHAMBER - NIGHT",
+            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow grated window, illuminating a gaunt skeleton chained to the wall. Rough-hewn stone walls encompass the space. The atmosphere is ancient, tragic, and solemn."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/6/audio.mp3",
+      "duration_s": 487.83238299999994
+    },
+    {
+      "ordinal": 7,
+      "title": "VII",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CANTERVILLE_STUDY",
+            "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
+            "visual_description": "A late Victorian gentleman's private study bathed in warm afternoon light filtering through heavy damask curtains. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. A large leather-topped writing desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and forest green tones throughout."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/7/audio.mp3",
+      "duration_s": 504.4728349999999
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+      "ordinal": 0,
+      "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+      "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_UPSTAIRS_CORRIDOR.jpg"
+    },
+    {
+      "identifier": "SCENE_CANTERVILLE_STUDY",
+      "ordinal": 0,
+      "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
+      "visual_description": "A late Victorian gentleman's private study bathed in warm afternoon light filtering through heavy damask curtains. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. A large leather-topped writing desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and forest green tones throughout.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_CANTERVILLE_STUDY.jpg"
+    },
+    {
+      "identifier": "SCENE_EXT_DRIVE",
+      "ordinal": 0,
+      "location_header": "EXT. COUNTRY ROAD - NIGHT",
+      "visual_description": "A lush English countryside landscape at twilight transitioning into night. Pine woods and ferns line the road. Shadows lengthen across the path. The atmosphere is frantic and foreboding, lit by the last dregs of sunset and rising moonlight.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_EXT_DRIVE.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_BREAKFAST_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. BREAKFAST ROOM - MORNING",
+      "visual_description": "A sunny Victorian breakfast room with tall sash windows overlooking a garden. A large mahogany table is set with crisp white linens and gleaming silver service. Warm morning light floods the room, illuminating rich cream wallpaper and polished wood accents.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_BREAKFAST_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_TAPESTRY_CHAMBER",
+      "ordinal": 0,
+      "location_header": "INT. TAPESTRY CHAMBER - LATE AFTERNOON",
+      "visual_description": "A gloomy, neglected chamber in a Victorian manor bathed in the ruined gold light of autumn twilight. Faded green tapestries depicting huntsmen line the walls. A heavy carved chimneypiece features grotesque wooden animals. A tall window overlooks a long avenue of trees shedding yellow leaves. The atmosphere is dusty, melancholic, and shadowed.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_TAPESTRY_CHAMBER.jpg"
+    },
+    {
+      "identifier": "SCENE_GREAT_HALL",
+      "ordinal": 1,
+      "location_header": "INT. GREAT HALL - NIGHT",
+      "visual_description": "A grand Victorian entrance hall and staircase at midnight. A large clock tower is visible or audible nearby. Heavy oak panelling, a dining room visible in the background with leftover supper. The space is dimly lit by gas lamps and a sudden flash of lightning. Mood is tense, shifting to supernatural awe.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_GREAT_HALL.jpg"
+    },
+    {
+      "identifier": "SCENE_SECRET_CHAMBER",
+      "ordinal": 2,
+      "location_header": "INT. SECRET CHAMBER - NIGHT",
+      "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow grated window, illuminating a gaunt skeleton chained to the wall. Rough-hewn stone walls encompass the space. The atmosphere is ancient, tragic, and solemn.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_SECRET_CHAMBER.jpg"
+    },
+    {
+      "identifier": "SCENE_LIBRARY",
+      "ordinal": 2,
+      "location_header": "INT. CANTERVILLE CHASE LIBRARY - EVENING",
+      "visual_description": "A grand Tudor library with low ceilings and black oak paneling. A large stained glass window dominates the far wall. In the foreground, a dark wooden floor features a distinct dull red stain near a stone fireplace. The room is dimly lit, casting long shadows, with a somber and mysterious atmosphere.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_LIBRARY.jpg"
+    },
+    {
+      "identifier": "SCENE_UPSTAIRS_CORRIDOR_DAWN",
+      "ordinal": 3,
+      "location_header": "INT. UPSTAIRS CORRIDOR - DAWN",
+      "visual_description": "The long Victorian corridor in the grey, flat light of early dawn. Shadows are softer but the air is cold and still. A makeshift scarecrow-like figure stands slumped against the wainscoting. The atmosphere is pale, quiet, and slightly absurd.",
+      "metadata": {},
+      "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/scenes/scene_SCENE_UPSTAIRS_CORRIDOR_DAWN.jpg"
+    }
+  ],
+  "subjects": [
+    "England -- Fiction",
+    "Ghosts -- Fiction"
+  ]
+}
