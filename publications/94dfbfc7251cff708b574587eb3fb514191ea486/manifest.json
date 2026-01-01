@@ -1,0 +1,420 @@
+{
+  "title": "The Velveteen Rabbit",
+  "author_names": "Margery Williams Bianco",
+  "description": "Publication imported from https://gutenberg.org/cache/epub/11757/pg11757.txt",
+  "epub_source": "Unknown",
+  "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+  "publication_type": "short_stories",
+  "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
+  "total_duration_s": 1272.7195319999998,
+  "genre_tags": [
+    "Classics",
+    "Children's Literature",
+    "Fantasy",
+    "Fable"
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "warm",
+        "storytelling"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "Storyteller"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 100,
+      "image_key": null,
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "VELVETEEN_RABBIT",
+      "name": "The Velveteen Rabbit",
+      "aliases": [
+        "Bunny",
+        "Little Rabbit"
+      ],
+      "voice_attributes": [
+        "Silent",
+        "Shy",
+        "Naive",
+        "Soft-spoken"
+      ],
+      "visual_attributes": [
+        "Velveteen",
+        "Spotted Brown and White",
+        "Thread Whiskers",
+        "Brown Fur",
+        "Soft and Shiny",
+        "Real Rabbit"
+      ],
+      "roles": [
+        "Protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/VELVETEEN_RABBIT.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/VELVETEEN_RABBIT.mp3"
+    },
+    {
+      "identifier": "SKIN_HORSE",
+      "name": "The Skin Horse",
+      "aliases": [],
+      "voice_attributes": [
+        "Wise",
+        "Gentle",
+        "Gravelly"
+      ],
+      "visual_attributes": [
+        "Bald Patches",
+        "Seams Showing",
+        "Old Brown Coat"
+      ],
+      "roles": [
+        "Mentor",
+        "Old Toy"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/SKIN_HORSE.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/SKIN_HORSE.mp3"
+    },
+    {
+      "identifier": "WILD_RABBIT",
+      "name": "The Wild Rabbit",
+      "aliases": [
+        "The Furry Rabbit"
+      ],
+      "voice_attributes": [
+        "Energetic",
+        "Mocking",
+        "Fast"
+      ],
+      "visual_attributes": [
+        "Brown Fur",
+        "Long Whiskers"
+      ],
+      "roles": [
+        "Antagonist",
+        "Foil"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/WILD_RABBIT.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/WILD_RABBIT.mp3"
+    },
+    {
+      "identifier": "NANA",
+      "name": "Nana",
+      "aliases": [
+        "Nanny"
+      ],
+      "voice_attributes": [
+        "Brisk",
+        "Impatient",
+        "Loud"
+      ],
+      "visual_attributes": [
+        "Apron",
+        "Large"
+      ],
+      "roles": [
+        "Caretaker",
+        "Antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NANA.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NANA.mp3"
+    },
+    {
+      "identifier": "NURSERY_MAGIC_FAIRY",
+      "name": "The Nursery Magic Fairy",
+      "aliases": [
+        "The Fairy"
+      ],
+      "voice_attributes": [
+        "Musical",
+        "Kind",
+        "Motherly"
+      ],
+      "visual_attributes": [
+        "Pearl Dress",
+        "Flower Face",
+        "Dew Drops"
+      ],
+      "roles": [
+        "Magical Guardian"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NURSERY_MAGIC_FAIRY.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NURSERY_MAGIC_FAIRY.mp3"
+    },
+    {
+      "identifier": "THE_BOY",
+      "name": "The Boy",
+      "aliases": [],
+      "voice_attributes": [
+        "Excited"
+      ],
+      "visual_attributes": [
+        "Young"
+      ],
+      "roles": [
+        "Owner"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_BOY.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_BOY.mp3"
+    },
+    {
+      "identifier": "THE_DOCTOR",
+      "name": "The Doctor",
+      "aliases": [],
+      "voice_attributes": [
+        "Stern",
+        "Professional",
+        "Dismissive"
+      ],
+      "visual_attributes": [
+        "Suit",
+        "Medical Bag"
+      ],
+      "roles": [
+        "Authority Figure"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_DOCTOR.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_DOCTOR.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/0/audio.mp3",
+      "duration_s": 7.52
+    },
+    {
+      "ordinal": 1,
+      "title": "Prologue",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FAMILY ROOM",
+            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/1/audio.mp3",
+      "duration_s": 48.036735
+    },
+    {
+      "ordinal": 2,
+      "title": "Christmas Morning",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FAMILY ROOM",
+            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/2/audio.mp3",
+      "duration_s": 180.20177199999998
+    },
+    {
+      "ordinal": 3,
+      "title": "The Skin Horse Tells His Story",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FAMILY ROOM",
+            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+          },
+          {
+            "identifier": "SCENE_02",
+            "location_header": "EXT. GARDEN",
+            "visual_description": "A lush English garden with raspberry canes, flower borders, and a well-kept lawn."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/3/audio.mp3",
+      "duration_s": 199.160523
+    },
+    {
+      "ordinal": 4,
+      "title": "Spring Time",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FAMILY ROOM",
+            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+          },
+          {
+            "identifier": "SCENE_03",
+            "location_header": "EXT. WOODS",
+            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/4/audio.mp3",
+      "duration_s": 131.444921
+    },
+    {
+      "ordinal": 5,
+      "title": "Summer Days",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_03",
+            "location_header": "EXT. WOODS",
+            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+          },
+          {
+            "identifier": "SCENE_01",
+            "location_header": "INT. FAMILY ROOM",
+            "visual_description": "A nursery or family room, cluttered with toys and sickroom supplies."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/5/audio.mp3",
+      "duration_s": 349.2784369999999
+    },
+    {
+      "ordinal": 6,
+      "title": "Anxious Times",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_02",
+            "location_header": "EXT. GARDEN",
+            "visual_description": "A lush English garden with raspberry canes, flower borders, and a well-kept lawn."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/6/audio.mp3",
+      "duration_s": 208.28898099999998
+    },
+    {
+      "ordinal": 7,
+      "title": "The Fairy Flower",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_03",
+            "location_header": "EXT. WOODS",
+            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/7/audio.mp3",
+      "duration_s": 106.68639499999999
+    },
+    {
+      "ordinal": 8,
+      "title": "At Last! At Last!",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_03",
+            "location_header": "EXT. WOODS",
+            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/8/audio.mp3",
+      "duration_s": 42.101768
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_02",
+      "ordinal": 0,
+      "location_header": "EXT. GARDEN",
+      "visual_description": "A lush English garden with raspberry canes, flower borders, and a well-kept lawn.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_02.jpg"
+    },
+    {
+      "identifier": "SCENE_03",
+      "ordinal": 0,
+      "location_header": "EXT. WOODS",
+      "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_03.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_01",
+      "ordinal": 1,
+      "location_header": "INT. FAMILY ROOM",
+      "visual_description": "A nursery room from the 1920s, cluttered with toys and sickroom supplies.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_01.jpg"
+    }
+  ],
+  "subjects": []
+}
