@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+    "title": "The Call of Cthulhu",
+    "author_names": "H. P. Lovecraft",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Horror",
+      "Cosmic Horror",
+      "Classics",
+      "Weird Fiction",
+      "Mystery"
+    ],
+    "updated_at": "2026-01-02T23:04:39Z",
+    "data_checksum": "f15ce21e440127ec7cb1fb08e63c115f206962fccac88855712fdf7d50a751e4"
+  },
+  {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
     "title": "The Velveteen Rabbit",
     "author_names": "Margery Williams Bianco",
@@ -28,21 +43,6 @@
     ],
     "updated_at": "2026-01-02T14:16:23Z",
     "data_checksum": "8db946b695a940ece66a9e55636b1757072714c74fc01c822b704d613251111d"
-  },
-  {
-    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
-    "title": "The Call of Cthulhu",
-    "author_names": "H. P. Lovecraft",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Horror",
-      "Cosmic Horror",
-      "Classics",
-      "Weird Fiction",
-      "Mystery"
-    ],
-    "updated_at": "2025-12-31T21:31:51Z",
-    "data_checksum": "72386ef71fafba3714286040597a4de9b7981d213270182eb30e569af3cdd1cf"
   },
   {
     "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
