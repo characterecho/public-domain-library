@@ -8,8 +8,8 @@
     "audio_description": "",
     "trailing_silence_s": 0.5,
     "start_s": 0.0,
-    "end_s": 1.74,
-    "duration_s": 1.74,
+    "end_s": 1.54,
+    "duration_s": 1.54,
     "title": true
   },
   {
@@ -20,9 +20,9 @@
     "speed": 1.0,
     "audio_description": "",
     "trailing_silence_s": 0.8,
-    "start_s": 1.74,
-    "end_s": 4.34,
-    "duration_s": 2.6
+    "start_s": 1.54,
+    "end_s": 4.02,
+    "duration_s": 2.48
   },
   {
     "character_identifier": "NARRATOR",
@@ -32,8 +32,8 @@
     "speed": 1.0,
     "audio_description": "",
     "trailing_silence_s": 1.5,
-    "start_s": 4.34,
-    "end_s": 7.52,
-    "duration_s": 3.18
+    "start_s": 4.02,
+    "end_s": 7.279999999999999,
+    "duration_s": 3.26
   }
 ]
