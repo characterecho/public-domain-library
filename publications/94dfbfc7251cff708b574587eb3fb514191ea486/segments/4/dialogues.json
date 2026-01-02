@@ -42,11 +42,11 @@
     "ordinal": 3,
     "text": "Give me my Bunny! You mustn't say that. He isn't a toy. He's REAL!",
     "speed": 1.0,
-    "audio_description": "distressed, urgent, shouting",
+    "audio_description": "distressed, shouting",
     "trailing_silence_s": 0.5,
     "start_s": 8.686667,
-    "end_s": 12.539728,
-    "duration_s": 3.853061
+    "end_s": 13.166667,
+    "duration_s": 4.48
   },
   {
     "character_identifier": "NARRATOR",
@@ -56,8 +56,8 @@
     "speed": 1.0,
     "audio_description": "warm, magical",
     "trailing_silence_s": 0.5,
-    "start_s": 12.539728,
-    "end_s": 27.079728,
+    "start_s": 13.166667,
+    "end_s": 27.706667,
     "duration_s": 14.54
   },
   {
@@ -68,8 +68,8 @@
     "speed": 1.0,
     "audio_description": "gentle, affectionate",
     "trailing_silence_s": 0.2,
-    "start_s": 27.079728,
-    "end_s": 45.065034,
+    "start_s": 27.706667,
+    "end_s": 45.691973000000004,
     "duration_s": 17.985306
   },
   {
@@ -80,8 +80,8 @@
     "speed": 1.0,
     "audio_description": "surprised, warm",
     "trailing_silence_s": 0.8,
-    "start_s": 45.065034,
-    "end_s": 49.205442,
+    "start_s": 45.691973000000004,
+    "end_s": 49.832381000000005,
     "duration_s": 4.140408
   },
   {
@@ -92,8 +92,8 @@
     "speed": 1.0,
     "audio_description": "nostalgic, bright",
     "trailing_silence_s": 0.5,
-    "start_s": 49.205442,
-    "end_s": 51.256054,
+    "start_s": 49.832381000000005,
+    "end_s": 51.882993000000006,
     "duration_s": 2.050612
   },
   {
@@ -104,8 +104,8 @@
     "speed": 1.0,
     "audio_description": "narrative, descriptive",
     "trailing_silence_s": 0.5,
-    "start_s": 51.256054,
-    "end_s": 76.111564,
+    "start_s": 51.882993000000006,
+    "end_s": 76.73850300000001,
     "duration_s": 24.85551
   },
   {
@@ -116,8 +116,8 @@
     "speed": 1.0,
     "audio_description": "hushed, observational",
     "trailing_silence_s": 0.5,
-    "start_s": 76.111564,
-    "end_s": 88.767891,
+    "start_s": 76.73850300000001,
+    "end_s": 89.39483000000001,
     "duration_s": 12.656327
   },
   {
@@ -128,8 +128,8 @@
     "speed": 1.0,
     "audio_description": "curious, intrigued",
     "trailing_silence_s": 0.3,
-    "start_s": 88.767891,
-    "end_s": 106.96217700000001,
+    "start_s": 89.39483000000001,
+    "end_s": 107.58911600000002,
     "duration_s": 18.194286
   },
   {
@@ -140,8 +140,8 @@
     "speed": 1.0,
     "audio_description": "curious, realizing",
     "trailing_silence_s": 1.0,
-    "start_s": 106.96217700000001,
-    "end_s": 127.977687,
+    "start_s": 107.58911600000002,
+    "end_s": 128.60462600000002,
     "duration_s": 21.01551
   }
 ]
