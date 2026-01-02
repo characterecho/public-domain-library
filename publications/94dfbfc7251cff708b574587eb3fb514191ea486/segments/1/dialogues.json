@@ -1,62 +1,50 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SCENE_CHRISTMAS_MORNING",
     "ordinal": 0,
-    "text": "Here was once a velveteen rabbit, and in the beginning he was really splendid.",
+    "text": "HERE was once a velveteen rabbit, and in the beginning he was really splendid. He was fat and bunchy, as a rabbit should be; his coat was spotted brown and white, he had real thread whiskers, and his ears were lined with pink sateen.",
     "speed": 1.0,
-    "audio_description": "warm, introducing",
+    "audio_description": "warm, introductory",
     "trailing_silence_s": 0.2,
     "start_s": 0.0,
-    "end_s": 4.36,
-    "duration_s": 4.36
+    "end_s": 15.16,
+    "duration_s": 15.16
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
+    "scene_identifier": "SCENE_CHRISTMAS_MORNING",
     "ordinal": 1,
-    "text": "He was fat and bunchy, as a rabbit should be; his coat was spotted brown and white, he had real thread whiskers, and his ears were lined with pink sateen.",
-    "speed": 1.0,
-    "audio_description": "descriptive, fond",
-    "trailing_silence_s": 0.2,
-    "start_s": 4.36,
-    "end_s": 13.96,
-    "duration_s": 9.6
-  },
-  {
-    "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
-    "ordinal": 2,
     "text": "On Christmas morning, when he sat wedged in the top of the Boy's stocking, with a sprig of holly between his paws, the effect was charming.",
     "speed": 1.0,
-    "audio_description": "delighted, gentle",
-    "trailing_silence_s": 1.0,
-    "start_s": 13.96,
-    "end_s": 22.906939,
-    "duration_s": 8.946939
+    "audio_description": "fond, descriptive",
+    "trailing_silence_s": 0.5,
+    "start_s": 15.16,
+    "end_s": 24.002449,
+    "duration_s": 8.842449
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
-    "ordinal": 3,
+    "scene_identifier": "SCENE_CHRISTMAS_MORNING",
+    "ordinal": 2,
     "text": "There were other things in the stocking, nuts and oranges and a toy engine, and chocolate almonds and a clockwork mouse, but the Rabbit was quite the best of all.",
     "speed": 1.0,
-    "audio_description": "listing, admiring",
+    "audio_description": "enthusiastic, listed",
     "trailing_silence_s": 0.2,
-    "start_s": 22.906939,
-    "end_s": 32.898776,
-    "duration_s": 9.991837
+    "start_s": 24.002449,
+    "end_s": 33.550204,
+    "duration_s": 9.547755
   },
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "SCENE_01",
-    "ordinal": 4,
+    "scene_identifier": "SCENE_CHRISTMAS_MORNING",
+    "ordinal": 3,
     "text": "For at least two hours the Boy loved him, and then Aunts and Uncles came to dinner, and there was a great rustling of tissue paper and unwrapping of parcels, and in the excitement of looking at all the new presents the Velveteen Rabbit was forgotten.",
     "speed": 1.0,
-    "audio_description": "busy, then wistful",
-    "trailing_silence_s": 1.0,
-    "start_s": 32.898776,
-    "end_s": 48.036735,
-    "duration_s": 15.137959
+    "audio_description": "narrative, shifting to wistful",
+    "trailing_silence_s": 0.8,
+    "start_s": 33.550204,
+    "end_s": 48.453061,
+    "duration_s": 14.902857
   }
 ]

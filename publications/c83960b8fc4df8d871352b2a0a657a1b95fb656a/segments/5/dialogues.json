@@ -57,8 +57,8 @@
     "audio_description": "gentle, sympathetic",
     "trailing_silence_s": 0.3,
     "start_s": 71.930612,
-    "end_s": 80.93727899999999,
-    "duration_s": 9.006667
+    "end_s": 80.355102,
+    "duration_s": 8.42449
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -68,8 +68,8 @@
     "speed": 1.0,
     "audio_description": "hollow, indignant",
     "trailing_silence_s": 0.2,
-    "start_s": 80.93727899999999,
-    "end_s": 94.35115699999999,
+    "start_s": 80.355102,
+    "end_s": 93.76898,
     "duration_s": 13.413878
   },
   {
@@ -80,8 +80,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 94.35115699999999,
-    "end_s": 98.98789199999999,
+    "start_s": 93.76898,
+    "end_s": 98.405715,
     "duration_s": 4.636735
   },
   {
@@ -92,9 +92,9 @@
     "speed": 1.0,
     "audio_description": "firm, disapproving",
     "trailing_silence_s": 0.3,
-    "start_s": 98.98789199999999,
-    "end_s": 107.88258599999999,
-    "duration_s": 8.894694
+    "start_s": 98.405715,
+    "end_s": 107.84898,
+    "duration_s": 9.443265
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -104,8 +104,8 @@
     "speed": 1.0,
     "audio_description": "petulant, defensive",
     "trailing_silence_s": 0.3,
-    "start_s": 107.88258599999999,
-    "end_s": 113.27687199999998,
+    "start_s": 107.84898,
+    "end_s": 113.24326599999999,
     "duration_s": 5.394286
   },
   {
@@ -116,9 +116,9 @@
     "speed": 1.0,
     "audio_description": "grave, serious",
     "trailing_silence_s": 0.2,
-    "start_s": 113.27687199999998,
-    "end_s": 115.42353899999998,
-    "duration_s": 2.146667
+    "start_s": 113.24326599999999,
+    "end_s": 115.70993299999999,
+    "duration_s": 2.466667
   },
   {
     "character_identifier": "NARRATOR",
@@ -128,8 +128,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 115.42353899999998,
-    "end_s": 120.34353899999998,
+    "start_s": 115.70993299999999,
+    "end_s": 120.629933,
     "duration_s": 4.92
   },
   {
@@ -140,8 +140,8 @@
     "speed": 1.0,
     "audio_description": "dismissive, complaining",
     "trailing_silence_s": 0.5,
-    "start_s": 120.34353899999998,
-    "end_s": 145.19904899999997,
+    "start_s": 120.629933,
+    "end_s": 145.485443,
     "duration_s": 24.85551
   },
   {
@@ -152,9 +152,9 @@
     "speed": 1.0,
     "audio_description": "shocked, kindly",
     "trailing_silence_s": 0.3,
-    "start_s": 145.19904899999997,
-    "end_s": 151.55986499999997,
-    "duration_s": 6.360816
+    "start_s": 145.485443,
+    "end_s": 153.936055,
+    "duration_s": 8.450612
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -164,8 +164,8 @@
     "speed": 1.0,
     "audio_description": "melancholy, polite, then bitter",
     "trailing_silence_s": 0.3,
-    "start_s": 151.55986499999997,
-    "end_s": 162.72653199999996,
+    "start_s": 153.936055,
+    "end_s": 165.102722,
     "duration_s": 11.166667
   },
   {
@@ -176,9 +176,9 @@
     "speed": 1.0,
     "audio_description": "angry, shouting",
     "trailing_silence_s": 0.2,
-    "start_s": 162.72653199999996,
-    "end_s": 173.03319899999997,
-    "duration_s": 10.306667
+    "start_s": 165.102722,
+    "end_s": 175.904355,
+    "duration_s": 10.801633
   },
   {
     "character_identifier": "NARRATOR",
@@ -188,8 +188,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 173.03319899999997,
-    "end_s": 174.27319899999998,
+    "start_s": 175.904355,
+    "end_s": 177.14435500000002,
     "duration_s": 1.24
   },
   {
@@ -200,9 +200,9 @@
     "speed": 1.0,
     "audio_description": "indignant, fast-paced",
     "trailing_silence_s": 0.5,
-    "start_s": 174.27319899999998,
-    "end_s": 195.10585199999997,
-    "duration_s": 20.832653
+    "start_s": 177.14435500000002,
+    "end_s": 202.73129400000002,
+    "duration_s": 25.586939
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -212,8 +212,8 @@
     "speed": 1.0,
     "audio_description": "meek, explanatory, then haughty",
     "trailing_silence_s": 0.5,
-    "start_s": 195.10585199999997,
-    "end_s": 219.41913999999997,
+    "start_s": 202.73129400000002,
+    "end_s": 227.04458200000002,
     "duration_s": 24.313288
   },
   {
@@ -224,9 +224,9 @@
     "speed": 1.0,
     "audio_description": "pragmatic, confident",
     "trailing_silence_s": 0.2,
-    "start_s": 219.41913999999997,
-    "end_s": 234.95247299999997,
-    "duration_s": 15.533333
+    "start_s": 227.04458200000002,
+    "end_s": 242.548255,
+    "duration_s": 15.503673
   },
   {
     "character_identifier": "VIRGINIA_OTIS",
@@ -236,9 +236,9 @@
     "speed": 1.0,
     "audio_description": "persuasive, encouraging",
     "trailing_silence_s": 0.3,
-    "start_s": 234.95247299999997,
-    "end_s": 244.91913999999997,
-    "duration_s": 9.966667
+    "start_s": 242.548255,
+    "end_s": 253.31492200000002,
+    "duration_s": 10.766667
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -248,8 +248,8 @@
     "speed": 1.0,
     "audio_description": "weary, dismissive",
     "trailing_silence_s": 0.2,
-    "start_s": 244.91913999999997,
-    "end_s": 247.41383399999998,
+    "start_s": 253.31492200000002,
+    "end_s": 255.80961600000003,
     "duration_s": 2.494694
   },
   {
@@ -260,9 +260,9 @@
     "speed": 1.0,
     "audio_description": "satirical",
     "trailing_silence_s": 0.2,
-    "start_s": 247.41383399999998,
-    "end_s": 250.87505799999997,
-    "duration_s": 3.461224
+    "start_s": 255.80961600000003,
+    "end_s": 259.796011,
+    "duration_s": 3.986395
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -272,8 +272,8 @@
     "speed": 1.0,
     "audio_description": "sharp, witty",
     "trailing_silence_s": 0.3,
-    "start_s": 250.87505799999997,
-    "end_s": 255.51179299999995,
+    "start_s": 259.796011,
+    "end_s": 264.432746,
     "duration_s": 4.636735
   },
   {
@@ -284,9 +284,9 @@
     "speed": 1.0,
     "audio_description": "cold, dismissive",
     "trailing_silence_s": 0.3,
-    "start_s": 255.51179299999995,
-    "end_s": 259.63845999999995,
-    "duration_s": 4.126667
+    "start_s": 264.432746,
+    "end_s": 269.330705,
+    "duration_s": 4.897959
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -296,8 +296,8 @@
     "speed": 1.0,
     "audio_description": "desperate, pleading",
     "trailing_silence_s": 0.3,
-    "start_s": 259.63845999999995,
-    "end_s": 268.48090899999994,
+    "start_s": 269.330705,
+    "end_s": 278.173154,
     "duration_s": 8.842449
   },
   {
@@ -308,9 +308,9 @@
     "speed": 1.0,
     "audio_description": "practical, slightly scolding",
     "trailing_silence_s": 0.3,
-    "start_s": 268.48090899999994,
-    "end_s": 284.48090899999994,
-    "duration_s": 16.0
+    "start_s": 278.173154,
+    "end_s": 293.284991,
+    "duration_s": 15.111837
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -320,8 +320,8 @@
     "speed": 1.0,
     "audio_description": "sad, exhausted",
     "trailing_silence_s": 0.2,
-    "start_s": 284.48090899999994,
-    "end_s": 289.46757599999995,
+    "start_s": 293.284991,
+    "end_s": 298.271658,
     "duration_s": 4.986667
   },
   {
@@ -332,8 +332,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 289.46757599999995,
-    "end_s": 292.46757599999995,
+    "start_s": 298.271658,
+    "end_s": 301.271658,
     "duration_s": 3.0
   },
   {
@@ -344,8 +344,8 @@
     "speed": 1.0,
     "audio_description": "gentle, touching",
     "trailing_silence_s": 0.3,
-    "start_s": 292.46757599999995,
-    "end_s": 303.40757599999995,
+    "start_s": 301.271658,
+    "end_s": 312.211658,
     "duration_s": 10.94
   },
   {
@@ -356,9 +356,9 @@
     "speed": 1.0,
     "audio_description": "murmuring, compassionate",
     "trailing_silence_s": 0.5,
-    "start_s": 303.40757599999995,
-    "end_s": 307.814243,
-    "duration_s": 4.406667
+    "start_s": 312.211658,
+    "end_s": 316.038597,
+    "duration_s": 3.826939
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -368,8 +368,8 @@
     "speed": 1.0,
     "audio_description": "low, dreamy, poetic",
     "trailing_silence_s": 0.5,
-    "start_s": 307.814243,
-    "end_s": 329.1171,
+    "start_s": 316.038597,
+    "end_s": 337.341454,
     "duration_s": 21.302857
   },
   {
@@ -380,8 +380,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 329.1171,
-    "end_s": 333.9971,
+    "start_s": 337.341454,
+    "end_s": 342.221454,
     "duration_s": 4.88
   },
   {
@@ -392,9 +392,9 @@
     "speed": 1.0,
     "audio_description": "whispering, realizing",
     "trailing_silence_s": 0.3,
-    "start_s": 333.9971,
-    "end_s": 336.003767,
-    "duration_s": 2.006667
+    "start_s": 342.221454,
+    "end_s": 344.108121,
+    "duration_s": 1.886667
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -404,8 +404,8 @@
     "speed": 1.0,
     "audio_description": "longing, peaceful, urgent",
     "trailing_silence_s": 0.8,
-    "start_s": 336.003767,
-    "end_s": 364.77700999999996,
+    "start_s": 344.108121,
+    "end_s": 372.88136399999996,
     "duration_s": 28.773243
   },
   {
@@ -416,8 +416,8 @@
     "speed": 1.0,
     "audio_description": "atmospheric, eerie",
     "trailing_silence_s": 0.5,
-    "start_s": 364.77700999999996,
-    "end_s": 378.03415299999995,
+    "start_s": 372.88136399999996,
+    "end_s": 386.13850699999995,
     "duration_s": 13.257143
   },
   {
@@ -428,8 +428,8 @@
     "speed": 1.0,
     "audio_description": "wispy, sighing",
     "trailing_silence_s": 0.3,
-    "start_s": 378.03415299999995,
-    "end_s": 381.84081999999995,
+    "start_s": 386.13850699999995,
+    "end_s": 389.94517399999995,
     "duration_s": 3.806667
   },
   {
@@ -440,9 +440,9 @@
     "speed": 1.0,
     "audio_description": "earnest, helpful",
     "trailing_silence_s": 0.2,
-    "start_s": 381.84081999999995,
-    "end_s": 389.90748699999995,
-    "duration_s": 8.066667
+    "start_s": 389.94517399999995,
+    "end_s": 398.49184099999997,
+    "duration_s": 8.546667
   },
   {
     "character_identifier": "VIRGINIA_OTIS",
@@ -452,9 +452,9 @@
     "speed": 1.0,
     "audio_description": "reciting, clear",
     "trailing_silence_s": 0.2,
-    "start_s": 389.90748699999995,
-    "end_s": 401.41415399999994,
-    "duration_s": 11.506667
+    "start_s": 398.49184099999997,
+    "end_s": 411.11850799999996,
+    "duration_s": 12.626667
   },
   {
     "character_identifier": "VIRGINIA_OTIS",
@@ -464,9 +464,9 @@
     "speed": 1.0,
     "audio_description": "confused",
     "trailing_silence_s": 0.3,
-    "start_s": 401.41415399999994,
-    "end_s": 403.22082099999994,
-    "duration_s": 1.806667
+    "start_s": 411.11850799999996,
+    "end_s": 413.045175,
+    "duration_s": 1.926667
   },
   {
     "character_identifier": "SIR_SIMON_DE_CANTERVILLE",
@@ -476,8 +476,8 @@
     "speed": 1.0,
     "audio_description": "sad, explaining, solemn",
     "trailing_silence_s": 0.5,
-    "start_s": 403.22082099999994,
-    "end_s": 438.0289839999999,
+    "start_s": 413.045175,
+    "end_s": 447.85333799999995,
     "duration_s": 34.808163
   },
   {
@@ -488,8 +488,8 @@
     "speed": 1.0,
     "audio_description": "dramatic, tense",
     "trailing_silence_s": 0.3,
-    "start_s": 438.0289839999999,
-    "end_s": 450.44898399999994,
+    "start_s": 447.85333799999995,
+    "end_s": 460.27333799999997,
     "duration_s": 12.42
   },
   {
@@ -500,9 +500,9 @@
     "speed": 1.0,
     "audio_description": "firm, courageous",
     "trailing_silence_s": 0.5,
-    "start_s": 450.44898399999994,
-    "end_s": 454.51102499999996,
-    "duration_s": 4.062041
+    "start_s": 460.27333799999997,
+    "end_s": 464.680005,
+    "duration_s": 4.406667
   },
   {
     "character_identifier": "NARRATOR",
@@ -512,8 +512,8 @@
     "speed": 1.0,
     "audio_description": "magical, eerie",
     "trailing_silence_s": 0.3,
-    "start_s": 454.51102499999996,
-    "end_s": 478.687352,
+    "start_s": 464.680005,
+    "end_s": 488.856332,
     "duration_s": 24.176327
   },
   {
@@ -524,8 +524,8 @@
     "speed": 1.0,
     "audio_description": "tiny, faint, urgent",
     "trailing_silence_s": 0.3,
-    "start_s": 478.687352,
-    "end_s": 481.534019,
+    "start_s": 488.856332,
+    "end_s": 491.70299900000003,
     "duration_s": 2.846667
   },
   {
@@ -536,8 +536,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 481.534019,
-    "end_s": 493.654019,
+    "start_s": 491.70299900000003,
+    "end_s": 503.82299900000004,
     "duration_s": 12.12
   },
   {
@@ -548,8 +548,8 @@
     "speed": 1.0,
     "audio_description": "rasping, warning",
     "trailing_silence_s": 0.3,
-    "start_s": 493.654019,
-    "end_s": 499.580686,
+    "start_s": 503.82299900000004,
+    "end_s": 509.74966600000005,
     "duration_s": 5.926667
   },
   {
@@ -560,8 +560,8 @@
     "speed": 1.0,
     "audio_description": "mysterious, supernatural",
     "trailing_silence_s": 0.3,
-    "start_s": 499.580686,
-    "end_s": 521.405992,
+    "start_s": 509.74966600000005,
+    "end_s": 531.574972,
     "duration_s": 21.825306
   },
   {
@@ -572,8 +572,8 @@
     "speed": 1.0,
     "audio_description": "urgent, breathless",
     "trailing_silence_s": 0.2,
-    "start_s": 521.405992,
-    "end_s": 523.9526589999999,
+    "start_s": 531.574972,
+    "end_s": 534.121639,
     "duration_s": 2.546667
   },
   {
@@ -584,8 +584,8 @@
     "speed": 1.0,
     "audio_description": "final, echoing",
     "trailing_silence_s": 1.0,
-    "start_s": 523.9526589999999,
-    "end_s": 529.4775569999999,
+    "start_s": 534.121639,
+    "end_s": 539.646537,
     "duration_s": 5.524898
   }
 ]
