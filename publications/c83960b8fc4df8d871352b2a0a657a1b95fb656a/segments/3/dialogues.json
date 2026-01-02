@@ -33,8 +33,8 @@
     "audio_description": "pragmatic, serious",
     "trailing_silence_s": 0.3,
     "start_s": 12.678367000000001,
-    "end_s": 22.408979000000002,
-    "duration_s": 9.730612
+    "end_s": 22.304489000000004,
+    "duration_s": 9.626122
   },
   {
     "character_identifier": "NARRATOR",
@@ -44,8 +44,8 @@
     "speed": 1.0,
     "audio_description": "amused, apologetic",
     "trailing_silence_s": 0.2,
-    "start_s": 22.408979000000002,
-    "end_s": 28.328979000000004,
+    "start_s": 22.304489000000004,
+    "end_s": 28.224489000000005,
     "duration_s": 5.92
   },
   {
@@ -56,9 +56,9 @@
     "speed": 1.0,
     "audio_description": "firm, reasoning",
     "trailing_silence_s": 0.8,
-    "start_s": 28.328979000000004,
-    "end_s": 40.435646000000006,
-    "duration_s": 12.106667
+    "start_s": 28.224489000000005,
+    "end_s": 41.22040700000001,
+    "duration_s": 12.995918
   },
   {
     "character_identifier": "NARRATOR",
@@ -68,8 +68,8 @@
     "speed": 1.0,
     "audio_description": "narrative, intrigued",
     "trailing_silence_s": 0.2,
-    "start_s": 40.435646000000006,
-    "end_s": 63.435646000000006,
+    "start_s": 41.22040700000001,
+    "end_s": 64.22040700000001,
     "duration_s": 23.0
   },
   {
@@ -80,8 +80,8 @@
     "speed": 1.0,
     "audio_description": "narrative, descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 63.435646000000006,
-    "end_s": 87.515646,
+    "start_s": 64.22040700000001,
+    "end_s": 88.300407,
     "duration_s": 24.08
   },
   {
@@ -92,8 +92,8 @@
     "speed": 1.0,
     "audio_description": "narrative, gentle",
     "trailing_silence_s": 1.0,
-    "start_s": 87.515646,
-    "end_s": 102.000544,
+    "start_s": 88.300407,
+    "end_s": 102.78530500000001,
     "duration_s": 14.484898
   },
   {
@@ -104,8 +104,8 @@
     "speed": 1.0,
     "audio_description": "narrative, dramatic",
     "trailing_silence_s": 0.2,
-    "start_s": 102.000544,
-    "end_s": 126.98666600000001,
+    "start_s": 102.78530500000001,
+    "end_s": 127.77142700000002,
     "duration_s": 24.986122
   },
   {
@@ -116,8 +116,8 @@
     "speed": 1.0,
     "audio_description": "narrative, active",
     "trailing_silence_s": 0.2,
-    "start_s": 126.98666600000001,
-    "end_s": 147.923809,
+    "start_s": 127.77142700000002,
+    "end_s": 148.70857,
     "duration_s": 20.937143
   },
   {
@@ -128,8 +128,8 @@
     "speed": 1.0,
     "audio_description": "narrative, dramatic",
     "trailing_silence_s": 0.2,
-    "start_s": 147.923809,
-    "end_s": 172.083809,
+    "start_s": 148.70857,
+    "end_s": 172.86857,
     "duration_s": 24.16
   },
   {
@@ -140,8 +140,8 @@
     "speed": 1.0,
     "audio_description": "narrative, descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 172.083809,
-    "end_s": 198.483809,
+    "start_s": 172.86857,
+    "end_s": 199.26857,
     "duration_s": 26.4
   },
   {
@@ -152,9 +152,9 @@
     "speed": 1.0,
     "audio_description": "sincere, helpful, polite",
     "trailing_silence_s": 0.3,
-    "start_s": 198.483809,
-    "end_s": 207.639727,
-    "duration_s": 9.155918
+    "start_s": 199.26857,
+    "end_s": 208.76408,
+    "duration_s": 9.49551
   },
   {
     "character_identifier": "NARRATOR",
@@ -164,8 +164,8 @@
     "speed": 1.0,
     "audio_description": "narrative, tense",
     "trailing_silence_s": 0.2,
-    "start_s": 207.639727,
-    "end_s": 225.959727,
+    "start_s": 208.76408,
+    "end_s": 227.08408,
     "duration_s": 18.32
   },
   {
@@ -176,8 +176,8 @@
     "speed": 1.0,
     "audio_description": "narrative, spooky",
     "trailing_silence_s": 1.0,
-    "start_s": 225.959727,
-    "end_s": 240.23564499999998,
+    "start_s": 227.08408,
+    "end_s": 241.359998,
     "duration_s": 14.275918
   },
   {
@@ -188,8 +188,8 @@
     "speed": 1.0,
     "audio_description": "narrative, sympathetic",
     "trailing_silence_s": 0.2,
-    "start_s": 240.23564499999998,
-    "end_s": 256.47074699999996,
+    "start_s": 241.359998,
+    "end_s": 257.5951,
     "duration_s": 16.235102
   },
   {
@@ -200,8 +200,8 @@
     "speed": 1.0,
     "audio_description": "narrative, reflective",
     "trailing_silence_s": 0.2,
-    "start_s": 256.47074699999996,
-    "end_s": 276.80707399999994,
+    "start_s": 257.5951,
+    "end_s": 277.931427,
     "duration_s": 20.336327
   },
   {
@@ -212,8 +212,8 @@
     "speed": 1.0,
     "audio_description": "narrative, recounting",
     "trailing_silence_s": 0.5,
-    "start_s": 276.80707399999994,
-    "end_s": 300.3303389999999,
+    "start_s": 277.931427,
+    "end_s": 301.45469199999997,
     "duration_s": 23.523265
   },
   {
@@ -224,8 +224,8 @@
     "speed": 1.0,
     "audio_description": "narrative, transitional",
     "trailing_silence_s": 0.2,
-    "start_s": 300.3303389999999,
-    "end_s": 317.0617679999999,
+    "start_s": 301.45469199999997,
+    "end_s": 318.18612099999996,
     "duration_s": 16.731429
   },
   {
@@ -236,8 +236,8 @@
     "speed": 1.0,
     "audio_description": "narrative, descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 317.0617679999999,
-    "end_s": 341.8217679999999,
+    "start_s": 318.18612099999996,
+    "end_s": 342.94612099999995,
     "duration_s": 24.76
   },
   {
@@ -248,8 +248,8 @@
     "speed": 1.0,
     "audio_description": "narrative, scheming",
     "trailing_silence_s": 0.2,
-    "start_s": 341.8217679999999,
-    "end_s": 369.3417679999999,
+    "start_s": 342.94612099999995,
+    "end_s": 370.46612099999993,
     "duration_s": 27.52
   },
   {
@@ -260,8 +260,8 @@
     "speed": 1.0,
     "audio_description": "narrative, scheming",
     "trailing_silence_s": 0.2,
-    "start_s": 369.3417679999999,
-    "end_s": 388.3197269999999,
+    "start_s": 370.46612099999993,
+    "end_s": 389.44407999999993,
     "duration_s": 18.977959
   },
   {
@@ -272,8 +272,8 @@
     "speed": 1.0,
     "audio_description": "narrative, thoughtful",
     "trailing_silence_s": 0.2,
-    "start_s": 388.3197269999999,
-    "end_s": 407.4021759999999,
+    "start_s": 389.44407999999993,
+    "end_s": 408.5265289999999,
     "duration_s": 19.082449
   },
   {
@@ -284,8 +284,8 @@
     "speed": 1.0,
     "audio_description": "narrative, dramatic",
     "trailing_silence_s": 1.0,
-    "start_s": 407.4021759999999,
-    "end_s": 448.6364619999999,
+    "start_s": 408.5265289999999,
+    "end_s": 449.7608149999999,
     "duration_s": 41.234286
   },
   {
@@ -296,8 +296,8 @@
     "speed": 1.0,
     "audio_description": "narrative, hushed",
     "trailing_silence_s": 0.2,
-    "start_s": 448.6364619999999,
-    "end_s": 467.5564619999999,
+    "start_s": 449.7608149999999,
+    "end_s": 468.68081499999994,
     "duration_s": 18.92
   },
   {
@@ -308,8 +308,8 @@
     "speed": 1.0,
     "audio_description": "narrative, atmospheric",
     "trailing_silence_s": 0.2,
-    "start_s": 467.5564619999999,
-    "end_s": 485.4372779999999,
+    "start_s": 468.68081499999994,
+    "end_s": 486.5616309999999,
     "duration_s": 17.880816
   },
   {
@@ -320,8 +320,8 @@
     "speed": 1.0,
     "audio_description": "narrative, ominous",
     "trailing_silence_s": 0.2,
-    "start_s": 485.4372779999999,
-    "end_s": 507.83727799999986,
+    "start_s": 486.5616309999999,
+    "end_s": 508.9616309999999,
     "duration_s": 22.4
   },
   {
@@ -332,9 +332,9 @@
     "speed": 1.0,
     "audio_description": "narrative, suspenseful",
     "trailing_silence_s": 0.2,
-    "start_s": 507.83727799999986,
-    "end_s": 527.6250329999998,
-    "duration_s": 19.787755
+    "start_s": 508.9616309999999,
+    "end_s": 527.1925829999999,
+    "duration_s": 18.230952
   },
   {
     "character_identifier": "NARRATOR",
@@ -344,8 +344,8 @@
     "speed": 1.0,
     "audio_description": "narrative, dramatic",
     "trailing_silence_s": 0.2,
-    "start_s": 527.6250329999998,
-    "end_s": 543.6652819999998,
+    "start_s": 527.1925829999999,
+    "end_s": 543.2328319999999,
     "duration_s": 16.040249
   },
   {
@@ -356,8 +356,8 @@
     "speed": 1.0,
     "audio_description": "narrative, shocking",
     "trailing_silence_s": 0.2,
-    "start_s": 543.6652819999998,
-    "end_s": 562.0424249999999,
+    "start_s": 543.2328319999999,
+    "end_s": 561.609975,
     "duration_s": 18.377143
   },
   {
@@ -368,8 +368,8 @@
     "speed": 1.0,
     "audio_description": "narrative, descriptive, horror",
     "trailing_silence_s": 0.2,
-    "start_s": 562.0424249999999,
-    "end_s": 581.8024249999999,
+    "start_s": 561.609975,
+    "end_s": 581.369975,
     "duration_s": 19.76
   },
   {
@@ -380,8 +380,8 @@
     "speed": 1.0,
     "audio_description": "narrative, descriptive",
     "trailing_silence_s": 1.0,
-    "start_s": 581.8024249999999,
-    "end_s": 598.2824249999999,
+    "start_s": 581.369975,
+    "end_s": 597.849975,
     "duration_s": 16.48
   },
   {
@@ -392,8 +392,8 @@
     "speed": 1.0,
     "audio_description": "narrative, active",
     "trailing_silence_s": 0.2,
-    "start_s": 598.2824249999999,
-    "end_s": 617.1297719999999,
+    "start_s": 597.849975,
+    "end_s": 616.697322,
     "duration_s": 18.847347
   },
   {
@@ -404,8 +404,8 @@
     "speed": 1.0,
     "audio_description": "narrative, transitional",
     "trailing_silence_s": 0.2,
-    "start_s": 617.1297719999999,
-    "end_s": 633.7044659999999,
+    "start_s": 616.697322,
+    "end_s": 633.272016,
     "duration_s": 16.574694
   },
   {
@@ -416,8 +416,8 @@
     "speed": 1.0,
     "audio_description": "narrative, curious",
     "trailing_silence_s": 0.2,
-    "start_s": 633.7044659999999,
-    "end_s": 655.4244659999999,
+    "start_s": 633.272016,
+    "end_s": 654.992016,
     "duration_s": 21.72
   },
   {
@@ -428,8 +428,8 @@
     "speed": 1.0,
     "audio_description": "narrative, realization",
     "trailing_silence_s": 0.2,
-    "start_s": 655.4244659999999,
-    "end_s": 688.4644659999999,
+    "start_s": 654.992016,
+    "end_s": 688.032016,
     "duration_s": 33.04
   },
   {
@@ -440,8 +440,8 @@
     "speed": 1.0,
     "audio_description": "narrative, suspenseful",
     "trailing_silence_s": 0.5,
-    "start_s": 688.4644659999999,
-    "end_s": 699.284466,
+    "start_s": 688.032016,
+    "end_s": 698.852016,
     "duration_s": 10.82
   },
   {
@@ -452,8 +452,8 @@
     "speed": 1.0,
     "audio_description": "narrative, angry, dramatic",
     "trailing_silence_s": 0.5,
-    "start_s": 699.284466,
-    "end_s": 724.662425,
+    "start_s": 698.852016,
+    "end_s": 724.2299750000001,
     "duration_s": 25.377959
   },
   {
@@ -464,8 +464,8 @@
     "speed": 1.0,
     "audio_description": "narrative, bitter",
     "trailing_silence_s": 0.2,
-    "start_s": 724.662425,
-    "end_s": 740.142425,
+    "start_s": 724.2299750000001,
+    "end_s": 739.7099750000001,
     "duration_s": 15.48
   },
   {
@@ -476,8 +476,8 @@
     "speed": 1.0,
     "audio_description": "narrative, concluding",
     "trailing_silence_s": 0.3,
-    "start_s": 740.142425,
-    "end_s": 764.882425,
+    "start_s": 739.7099750000001,
+    "end_s": 764.4499750000001,
     "duration_s": 24.74
   },
   {
@@ -488,8 +488,8 @@
     "speed": 1.0,
     "audio_description": "muttering, vengeful, old",
     "trailing_silence_s": 0.3,
-    "start_s": 764.882425,
-    "end_s": 776.090021,
+    "start_s": 764.4499750000001,
+    "end_s": 775.6575710000001,
     "duration_s": 11.207596
   },
   {
@@ -500,8 +500,8 @@
     "speed": 1.0,
     "audio_description": "narrative, final",
     "trailing_silence_s": 1.0,
-    "start_s": 776.090021,
-    "end_s": 781.0924699999999,
-    "duration_s": 5.002449
+    "start_s": 775.6575710000001,
+    "end_s": 780.9212440000001,
+    "duration_s": 5.263673
   }
 ]

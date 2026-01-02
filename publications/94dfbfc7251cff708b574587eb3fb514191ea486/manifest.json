@@ -6,12 +6,13 @@
   "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
   "publication_type": "short_stories",
   "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
-  "total_duration_s": 1272.7195319999998,
+  "total_duration_s": 1244.601452,
   "genre_tags": [
     "Classics",
     "Children's Literature",
     "Fantasy",
-    "Fable"
+    "Fable",
+    "Toys"
   ],
   "characters": [
     {
@@ -20,18 +21,24 @@
       "aliases": [],
       "voice_attributes": [
         "warm",
-        "storytelling"
+        "storytelling",
+        "gentle",
+        "engaging",
+        "measured",
+        "storyteller",
+        "neutral"
       ],
       "visual_attributes": [],
       "roles": [
-        "Storyteller"
+        "narrator",
+        "storyteller"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 100,
+      "dialogue_count": 94,
       "image_key": null,
       "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NARRATOR.mp3"
     },
@@ -39,61 +46,30 @@
       "identifier": "VELVETEEN_RABBIT",
       "name": "The Velveteen Rabbit",
       "aliases": [
-        "Bunny",
-        "Little Rabbit"
+        "The Rabbit"
       ],
       "voice_attributes": [
-        "Silent",
-        "Shy",
-        "Naive",
-        "Soft-spoken"
+        "soft",
+        "quiet"
       ],
       "visual_attributes": [
-        "Velveteen",
-        "Spotted Brown and White",
-        "Thread Whiskers",
-        "Brown Fur",
-        "Soft and Shiny",
-        "Real Rabbit"
+        "spotted brown and white coat",
+        "thread whiskers",
+        "pink sateen ears",
+        "fat and bunchy"
       ],
       "roles": [
-        "Protagonist"
+        "protagonist",
+        "toy"
       ],
       "metadata": {
         "age_group": "young",
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 16,
+      "dialogue_count": 15,
       "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/VELVETEEN_RABBIT.png",
       "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/VELVETEEN_RABBIT.mp3"
-    },
-    {
-      "identifier": "SKIN_HORSE",
-      "name": "The Skin Horse",
-      "aliases": [],
-      "voice_attributes": [
-        "Wise",
-        "Gentle",
-        "Gravelly"
-      ],
-      "visual_attributes": [
-        "Bald Patches",
-        "Seams Showing",
-        "Old Brown Coat"
-      ],
-      "roles": [
-        "Mentor",
-        "Old Toy"
-      ],
-      "metadata": {
-        "age_group": "old",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 10,
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/SKIN_HORSE.png",
-      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/SKIN_HORSE.mp3"
     },
     {
       "identifier": "WILD_RABBIT",
@@ -102,20 +78,21 @@
         "The Furry Rabbit"
       ],
       "voice_attributes": [
-        "Energetic",
-        "Mocking",
-        "Fast"
+        "energetic",
+        "teasing",
+        "curious"
       ],
       "visual_attributes": [
-        "Brown Fur",
-        "Long Whiskers"
+        "real brown fur",
+        "long twitching whiskers",
+        "agile hind legs"
       ],
       "roles": [
-        "Antagonist",
-        "Foil"
+        "antagonist",
+        "mirror"
       ],
       "metadata": {
-        "age_group": "middle_aged",
+        "age_group": "young",
         "gender": "male",
         "voice_accent": "british"
       },
@@ -124,32 +101,32 @@
       "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/WILD_RABBIT.mp3"
     },
     {
-      "identifier": "NANA",
-      "name": "Nana",
-      "aliases": [
-        "Nanny"
-      ],
+      "identifier": "SKIN_HORSE",
+      "name": "The Skin Horse",
+      "aliases": [],
       "voice_attributes": [
-        "Brisk",
-        "Impatient",
-        "Loud"
+        "gentle",
+        "wise",
+        "gravelly"
       ],
       "visual_attributes": [
-        "Apron",
-        "Large"
+        "bald patches",
+        "showing seams",
+        "missing tail hair",
+        "brown coat"
       ],
       "roles": [
-        "Caretaker",
-        "Antagonist"
+        "mentor",
+        "toy"
       ],
       "metadata": {
-        "age_group": "middle_aged",
-        "gender": "female",
+        "age_group": "old",
+        "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 6,
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NANA.png",
-      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NANA.mp3"
+      "dialogue_count": 7,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/SKIN_HORSE.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/SKIN_HORSE.mp3"
     },
     {
       "identifier": "NURSERY_MAGIC_FAIRY",
@@ -158,64 +135,95 @@
         "The Fairy"
       ],
       "voice_attributes": [
-        "Musical",
-        "Kind",
-        "Motherly"
+        "gentle",
+        "magical",
+        "musical",
+        "comforting"
       ],
       "visual_attributes": [
-        "Pearl Dress",
-        "Flower Face",
-        "Dew Drops"
+        "dress of pearl and dew-drops",
+        "flowers in hair",
+        "perfect flower face",
+        "glowing"
       ],
       "roles": [
-        "Magical Guardian"
+        "savior",
+        "magical being"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NURSERY_MAGIC_FAIRY.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NURSERY_MAGIC_FAIRY.mp3"
+    },
+    {
+      "identifier": "NANA",
+      "name": "Nana",
+      "aliases": [],
+      "voice_attributes": [
+        "brisk",
+        "firm",
+        "impatient"
+      ],
+      "visual_attributes": [
+        "starched apron",
+        "nurse cap",
+        "stern face",
+        "strong hands"
+      ],
+      "roles": [
+        "caretaker"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 6,
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NURSERY_MAGIC_FAIRY.png",
-      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NURSERY_MAGIC_FAIRY.mp3"
+      "dialogue_count": 4,
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NANA.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NANA.mp3"
     },
     {
       "identifier": "THE_BOY",
       "name": "The Boy",
       "aliases": [],
       "voice_attributes": [
-        "Excited"
+        "young"
       ],
       "visual_attributes": [
-        "Young"
+        "child"
       ],
       "roles": [
-        "Owner"
+        "owner"
       ],
       "metadata": {
         "age_group": "child",
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3,
+      "dialogue_count": 2,
       "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_BOY.png",
       "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_BOY.mp3"
     },
     {
-      "identifier": "THE_DOCTOR",
+      "identifier": "DOCTOR",
       "name": "The Doctor",
       "aliases": [],
       "voice_attributes": [
-        "Stern",
-        "Professional",
-        "Dismissive"
+        "clinical",
+        "stern",
+        "dismissive"
       ],
       "visual_attributes": [
-        "Suit",
-        "Medical Bag"
+        "formal suit",
+        "medical bag",
+        "spectacles"
       ],
       "roles": [
-        "Authority Figure"
+        "authority"
       ],
       "metadata": {
         "age_group": "middle_aged",
@@ -223,8 +231,8 @@
         "voice_accent": "british"
       },
       "dialogue_count": 1,
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_DOCTOR.png",
-      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/THE_DOCTOR.mp3"
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/DOCTOR.png",
+      "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/DOCTOR.mp3"
     }
   ],
   "segments": [
@@ -234,7 +242,7 @@
       "metadata": {},
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/0/audio.mp3",
-      "duration_s": 7.52
+      "duration_s": 7.279999999999999
     },
     {
       "ordinal": 1,
@@ -242,15 +250,15 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_01",
-            "location_header": "INT. FAMILY ROOM",
-            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+            "identifier": "SCENE_CHRISTMAS_MORNING",
+            "location_header": "INT. SITTING ROOM - CHRISTMAS MORNING",
+            "visual_description": "An Edwardian family sitting room on Christmas morning. Warm, diffuse winter light filters through frosted windows. In the foreground, a knitted Christmas stocking hangs from a mantelpiece, stuffed with oranges and a brown and white velveteen rabbit. In the background, a decorated Christmas tree and discarded tissue paper are visible but soft. Rich festive reds, greens, and warm wood tones."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/1/audio.mp3",
-      "duration_s": 48.036735
+      "duration_s": 48.453061
     },
     {
       "ordinal": 2,
@@ -258,15 +266,15 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_01",
-            "location_header": "INT. FAMILY ROOM",
-            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/2/audio.mp3",
-      "duration_s": 180.20177199999998
+      "duration_s": 183.74176999999997
     },
     {
       "ordinal": 3,
@@ -274,20 +282,15 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_01",
-            "location_header": "INT. FAMILY ROOM",
-            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
-          },
-          {
-            "identifier": "SCENE_02",
-            "location_header": "EXT. GARDEN",
-            "visual_description": "A lush English garden with raspberry canes, flower borders, and a well-kept lawn."
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/3/audio.mp3",
-      "duration_s": 199.160523
+      "duration_s": 195.887346
     },
     {
       "ordinal": 4,
@@ -295,20 +298,20 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_01",
-            "location_header": "INT. FAMILY ROOM",
-            "visual_description": "A nursery or family room on Christmas morning, festive and cluttered with wrapping paper."
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
           },
           {
-            "identifier": "SCENE_03",
-            "location_header": "EXT. WOODS",
-            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - EVENING",
+            "visual_description": "A sun-dappled clearing in an English wood during a summer evening. Tall green bracken and ferns frame the foreground from a low, ground-level perspective (rabbit's eye view). Golden hour light filters through tree branches, creating soft dappled shadows on mossy ground. Vibrant greens, warm ambers, and earthy browns."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/4/audio.mp3",
-      "duration_s": 131.444921
+      "duration_s": 128.60462600000002
     },
     {
       "ordinal": 5,
@@ -316,20 +319,20 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_03",
-            "location_header": "EXT. WOODS",
-            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - EVENING",
+            "visual_description": "A sun-dappled clearing in an English wood during a summer evening. Tall green bracken and ferns frame the foreground from a low, ground-level perspective. Golden hour light filters through tree branches, creating soft dappled shadows on mossy ground. Vibrant greens, warm ambers, and earthy browns."
           },
           {
-            "identifier": "SCENE_01",
-            "location_header": "INT. FAMILY ROOM",
-            "visual_description": "A nursery or family room, cluttered with toys and sickroom supplies."
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/5/audio.mp3",
-      "duration_s": 349.2784369999999
+      "duration_s": 331.77172600000006
     },
     {
       "ordinal": 6,
@@ -337,15 +340,15 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_02",
-            "location_header": "EXT. GARDEN",
-            "visual_description": "A lush English garden with raspberry canes, flower borders, and a well-kept lawn."
+            "identifier": "SCENE_GARDEN_NIGHT",
+            "location_header": "EXT. GARDEN BEHIND FOWL-HOUSE - NIGHT",
+            "visual_description": "A moonlit garden corner behind a weathered wooden fowl-house. In the foreground, an untied sack sits among a tangle of raspberry canes and tall weeds. Deep blue shadows and cool silvery moonlight create a mysterious atmosphere. A single spot of magical light begins to glow near the ground. Earthy browns and greens in shadow."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/6/audio.mp3",
-      "duration_s": 208.28898099999998
+      "duration_s": 200.51360599999995
     },
     {
       "ordinal": 7,
@@ -353,15 +356,15 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_03",
-            "location_header": "EXT. WOODS",
-            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+            "identifier": "SCENE_MAGIC_WOOD",
+            "location_header": "EXT. THE WOOD - NIGHT",
+            "visual_description": "A mystical clearing in the woods under bright moonlight. In the foreground, bracken fronds glisten like frosted silver against the dark earth. A central glade of smooth velvet grass is bathed in cool, blue-white lunar light, contrasting with the deep, mysterious shadows of the surrounding ancient tree trunks. The atmosphere is magical and serene, with a palette of silver, midnight blue, and charcoal gray."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/7/audio.mp3",
-      "duration_s": 106.68639499999999
+      "duration_s": 103.759114
     },
     {
       "ordinal": 8,
@@ -369,34 +372,18 @@
       "metadata": {
         "scenes": [
           {
-            "identifier": "SCENE_03",
-            "location_header": "EXT. WOODS",
-            "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light."
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "An English woodland clearing in Spring, bathed in warm, bright sunlight. Fresh green ferns and bracken fronds frame the foreground from a low, ground-level perspective. Dappled light filters through new leaves on the trees. Soft earthy browns and vibrant fresh greens predominate."
           }
         ]
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/8/audio.mp3",
-      "duration_s": 42.101768
+      "duration_s": 44.590203
     }
   ],
   "scenes": [
-    {
-      "identifier": "SCENE_02",
-      "ordinal": 0,
-      "location_header": "EXT. GARDEN",
-      "visual_description": "A lush English garden with raspberry canes, flower borders, and a well-kept lawn.",
-      "metadata": {},
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_02.jpg"
-    },
-    {
-      "identifier": "SCENE_03",
-      "ordinal": 0,
-      "location_header": "EXT. WOODS",
-      "visual_description": "A wood near the house with tall bracken, trees, and long grass in the evening light.",
-      "metadata": {},
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_03.jpg"
-    },
     {
       "identifier": "SCENE_COVER_00",
       "ordinal": 0,
@@ -408,12 +395,44 @@
       "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_COVER_00.jpg"
     },
     {
-      "identifier": "SCENE_01",
-      "ordinal": 1,
-      "location_header": "INT. FAMILY ROOM",
-      "visual_description": "A nursery room from the 1920s, cluttered with toys and sickroom supplies.",
+      "identifier": "SCENE_WOOD",
+      "ordinal": 0,
+      "location_header": "EXT. THE WOOD - DAY",
+      "visual_description": "An English woodland clearing in Spring, bathed in warm, bright sunlight. Fresh green ferns and bracken fronds frame the foreground from a low, ground-level perspective. Dappled light filters through new leaves on the trees. Soft earthy browns and vibrant fresh greens predominate.",
       "metadata": {},
-      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_01.jpg"
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_WOOD.jpg"
+    },
+    {
+      "identifier": "SCENE_MAGIC_WOOD",
+      "ordinal": 0,
+      "location_header": "EXT. THE WOOD - NIGHT",
+      "visual_description": "A mystical clearing in the woods under bright moonlight. In the foreground, bracken fronds glisten like frosted silver against the dark earth. A central glade of smooth velvet grass is bathed in cool, blue-white lunar light, contrasting with the deep, mysterious shadows of the surrounding ancient tree trunks. The atmosphere is magical and serene, with a palette of silver, midnight blue, and charcoal gray.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_MAGIC_WOOD.jpg"
+    },
+    {
+      "identifier": "SCENE_CHRISTMAS_MORNING",
+      "ordinal": 0,
+      "location_header": "INT. SITTING ROOM - CHRISTMAS MORNING",
+      "visual_description": "An Edwardian family sitting room on Christmas morning. Warm, diffuse winter light filters through frosted windows. In the foreground, a knitted Christmas stocking hangs from a mantelpiece, stuffed with oranges and a brown and white velveteen rabbit. In the background, a decorated Christmas tree and discarded tissue paper are visible but soft. Rich festive reds, greens, and warm wood tones.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_CHRISTMAS_MORNING.jpg"
+    },
+    {
+      "identifier": "SCENE_GARDEN_NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. GARDEN BEHIND FOWL-HOUSE - NIGHT",
+      "visual_description": "A moonlit garden corner behind a weathered wooden fowl-house. In the foreground, an untied sack sits among a tangle of raspberry canes and tall weeds. Deep blue shadows and cool silvery moonlight create a mysterious atmosphere. A single spot of magical light begins to glow near the ground. Earthy browns and greens in shadow.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_GARDEN_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_NURSERY",
+      "ordinal": 1,
+      "location_header": "INT. NURSERY - DAY",
+      "visual_description": "A late Victorian nursery. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors.",
+      "metadata": {},
+      "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/scenes/scene_SCENE_NURSERY.jpg"
     }
   ],
   "subjects": []
