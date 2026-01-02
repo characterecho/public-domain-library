@@ -6,7 +6,7 @@
   "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
   "publication_type": "short_stories",
   "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
-  "total_duration_s": 1249.014513,
+  "total_duration_s": 1243.974513,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -38,7 +38,7 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 95,
+      "dialogue_count": 94,
       "image_key": null,
       "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/NARRATOR.mp3"
     },
@@ -246,7 +246,7 @@
     },
     {
       "ordinal": 1,
-      "title": "HERE was once a velveteen rabbit, and in the beginning he was really",
+      "title": "Prologue",
       "metadata": {
         "scenes": [
           {
@@ -258,7 +258,7 @@
       },
       "background_key": null,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/1/audio.mp3",
-      "duration_s": 53.493061
+      "duration_s": 48.453061
     },
     {
       "ordinal": 2,
