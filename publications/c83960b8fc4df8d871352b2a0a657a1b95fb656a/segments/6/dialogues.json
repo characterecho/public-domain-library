@@ -105,8 +105,8 @@
     "audio_description": "kind, yielding",
     "trailing_silence_s": 0.3,
     "start_s": 148.019591,
-    "end_s": 155.426258,
-    "duration_s": 7.406667
+    "end_s": 154.354285,
+    "duration_s": 6.334694
   },
   {
     "character_identifier": "CECIL_THE_DUKE",
@@ -116,8 +116,8 @@
     "speed": 1.0,
     "audio_description": "impatient, crying out, laughing",
     "trailing_silence_s": 0.2,
-    "start_s": 155.426258,
-    "end_s": 158.10380899999998,
+    "start_s": 154.354285,
+    "end_s": 157.031836,
     "duration_s": 2.677551
   },
   {
@@ -128,8 +128,8 @@
     "speed": 1.0,
     "audio_description": "narrative, fast-paced",
     "trailing_silence_s": 0.2,
-    "start_s": 158.10380899999998,
-    "end_s": 197.222176,
+    "start_s": 157.031836,
+    "end_s": 196.150203,
     "duration_s": 39.118367
   },
   {
@@ -140,8 +140,8 @@
     "speed": 1.0,
     "audio_description": "narrative, weary, somber",
     "trailing_silence_s": 0.2,
-    "start_s": 197.222176,
-    "end_s": 222.338911,
+    "start_s": 196.150203,
+    "end_s": 221.266938,
     "duration_s": 25.116735
   },
   {
@@ -152,8 +152,8 @@
     "speed": 1.0,
     "audio_description": "narrative, explanatory",
     "trailing_silence_s": 0.2,
-    "start_s": 222.338911,
-    "end_s": 256.938095,
+    "start_s": 221.266938,
+    "end_s": 255.86612200000002,
     "duration_s": 34.599184
   },
   {
@@ -164,8 +164,8 @@
     "speed": 1.0,
     "audio_description": "narrative, depressing",
     "trailing_silence_s": 0.2,
-    "start_s": 256.938095,
-    "end_s": 292.498095,
+    "start_s": 255.86612200000002,
+    "end_s": 291.426122,
     "duration_s": 35.56
   },
   {
@@ -176,8 +176,8 @@
     "speed": 1.0,
     "audio_description": "narrative, quiet, hopeless",
     "trailing_silence_s": 0.2,
-    "start_s": 292.498095,
-    "end_s": 316.30870699999997,
+    "start_s": 291.426122,
+    "end_s": 315.236734,
     "duration_s": 23.810612
   },
   {
@@ -188,8 +188,8 @@
     "speed": 1.0,
     "audio_description": "narrative, dramatic, crescendo",
     "trailing_silence_s": 0.3,
-    "start_s": 316.30870699999997,
-    "end_s": 342.49646199999995,
+    "start_s": 315.236734,
+    "end_s": 341.424489,
     "duration_s": 26.187755
   },
   {
@@ -200,8 +200,8 @@
     "speed": 1.0,
     "audio_description": "narrative, joyful, chaotic",
     "trailing_silence_s": 0.2,
-    "start_s": 342.49646199999995,
-    "end_s": 354.342993,
+    "start_s": 341.424489,
+    "end_s": 353.27102,
     "duration_s": 11.846531
   },
   {
@@ -212,9 +212,9 @@
     "speed": 1.0,
     "audio_description": "shocked, stern, relieved",
     "trailing_silence_s": 0.3,
-    "start_s": 354.342993,
-    "end_s": 365.58966,
-    "duration_s": 11.246667
+    "start_s": 353.27102,
+    "end_s": 363.524081,
+    "duration_s": 10.253061
   },
   {
     "character_identifier": "NARRATOR",
@@ -224,8 +224,8 @@
     "speed": 1.0,
     "audio_description": "narrative, loud",
     "trailing_silence_s": 0.2,
-    "start_s": 365.58966,
-    "end_s": 371.50966,
+    "start_s": 363.524081,
+    "end_s": 369.44408100000004,
     "duration_s": 5.92
   },
   {
@@ -236,9 +236,9 @@
     "speed": 1.0,
     "audio_description": "sobbing, relieved, loving",
     "trailing_silence_s": 0.2,
-    "start_s": 371.50966,
-    "end_s": 376.896327,
-    "duration_s": 5.386667
+    "start_s": 369.44408100000004,
+    "end_s": 375.39074800000003,
+    "duration_s": 5.946667
   },
   {
     "character_identifier": "NARRATOR",
@@ -248,8 +248,8 @@
     "speed": 1.0,
     "audio_description": "narrative, tender",
     "trailing_silence_s": 0.2,
-    "start_s": 376.896327,
-    "end_s": 381.776327,
+    "start_s": 375.39074800000003,
+    "end_s": 380.270748,
     "duration_s": 4.88
   },
   {
@@ -260,9 +260,9 @@
     "speed": 1.0,
     "audio_description": "quiet, serious, otherworldly",
     "trailing_silence_s": 0.5,
-    "start_s": 381.776327,
-    "end_s": 395.007347,
-    "duration_s": 13.23102
+    "start_s": 380.270748,
+    "end_s": 393.597415,
+    "duration_s": 13.326667
   },
   {
     "character_identifier": "NARRATOR",
@@ -272,8 +272,8 @@
     "speed": 1.0,
     "audio_description": "narrative, mysterious, slow",
     "trailing_silence_s": 0.2,
-    "start_s": 395.007347,
-    "end_s": 426.687347,
+    "start_s": 393.597415,
+    "end_s": 425.277415,
     "duration_s": 31.68
   },
   {
@@ -284,8 +284,8 @@
     "speed": 1.0,
     "audio_description": "narrative, grim, descriptive",
     "trailing_silence_s": 0.2,
-    "start_s": 426.687347,
-    "end_s": 452.48326499999996,
+    "start_s": 425.277415,
+    "end_s": 451.07333300000005,
     "duration_s": 25.795918
   },
   {
@@ -296,8 +296,8 @@
     "speed": 1.0,
     "audio_description": "narrative, solemn",
     "trailing_silence_s": 0.3,
-    "start_s": 452.48326499999996,
-    "end_s": 465.89714299999997,
+    "start_s": 451.07333300000005,
+    "end_s": 464.48721100000006,
     "duration_s": 13.413878
   },
   {
@@ -306,11 +306,11 @@
     "ordinal": 25,
     "text": "Hallo! Hallo! the old withered almond-tree has blossomed. I can see the flowers quite plainly in the moonlight.",
     "speed": 1.0,
-    "audio_description": "surprised, wondering",
+    "audio_description": "wondering",
     "trailing_silence_s": 0.3,
-    "start_s": 465.89714299999997,
-    "end_s": 471.395919,
-    "duration_s": 5.498776
+    "start_s": 464.48721100000006,
+    "end_s": 470.4039460000001,
+    "duration_s": 5.916735
   },
   {
     "character_identifier": "NARRATOR",
@@ -320,8 +320,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 471.395919,
-    "end_s": 477.49551099999996,
+    "start_s": 470.4039460000001,
+    "end_s": 476.50353800000005,
     "duration_s": 6.099592
   },
   {
@@ -332,9 +332,9 @@
     "speed": 1.0,
     "audio_description": "grave, radiant, soft",
     "trailing_silence_s": 0.3,
-    "start_s": 477.49551099999996,
-    "end_s": 479.222178,
-    "duration_s": 1.726667
+    "start_s": 476.50353800000005,
+    "end_s": 478.19020500000005,
+    "duration_s": 1.686667
   },
   {
     "character_identifier": "NARRATOR",
@@ -344,8 +344,8 @@
     "speed": 1.0,
     "audio_description": "narrative, spiritual",
     "trailing_silence_s": 0.2,
-    "start_s": 479.222178,
-    "end_s": 483.440954,
+    "start_s": 478.19020500000005,
+    "end_s": 482.40898100000004,
     "duration_s": 4.218776
   },
   {
@@ -356,8 +356,8 @@
     "speed": 1.0,
     "audio_description": "adoring, awestruck",
     "trailing_silence_s": 0.2,
-    "start_s": 483.440954,
-    "end_s": 484.81238299999995,
+    "start_s": 482.40898100000004,
+    "end_s": 483.78041,
     "duration_s": 1.371429
   },
   {
@@ -368,8 +368,8 @@
     "speed": 1.0,
     "audio_description": "narrative, tender",
     "trailing_silence_s": 0.5,
-    "start_s": 484.81238299999995,
-    "end_s": 487.83238299999994,
+    "start_s": 483.78041,
+    "end_s": 486.80041,
     "duration_s": 3.02
   }
 ]
