@@ -6,7 +6,7 @@
   "identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
   "publication_type": "novel",
   "cover_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.png",
-  "total_duration_s": 3794.6420259999995,
+  "total_duration_s": 3785.8685539999997,
   "genre_tags": [
     "Classics",
     "Satire",
@@ -32,7 +32,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 166,
+      "dialogue_count": 165,
       "image_key": null,
       "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/NARRATOR.mp3"
     },
@@ -415,7 +415,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/1/audio.mp3",
-      "duration_s": 479.13591899999994
+      "duration_s": 477.4476199999999
     },
     {
       "ordinal": 2,
@@ -436,7 +436,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/2/audio.mp3",
-      "duration_s": 410.18310599999995
+      "duration_s": 410.183106
     },
     {
       "ordinal": 3,
@@ -467,7 +467,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/3/audio.mp3",
-      "duration_s": 781.0924699999999
+      "duration_s": 780.9212440000001
     },
     {
       "ordinal": 4,
@@ -483,7 +483,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/4/audio.mp3",
-      "duration_s": 595.647756
+      "duration_s": 596.951429
     },
     {
       "ordinal": 5,
@@ -499,7 +499,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/5/audio.mp3",
-      "duration_s": 529.4775569999999
+      "duration_s": 539.646537
     },
     {
       "ordinal": 6,
@@ -525,7 +525,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/6/audio.mp3",
-      "duration_s": 487.83238299999994
+      "duration_s": 486.80041
     },
     {
       "ordinal": 7,
@@ -541,7 +541,7 @@
       },
       "background_key": null,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/7/audio.mp3",
-      "duration_s": 504.4728349999999
+      "duration_s": 487.11820799999987
     }
   ],
   "scenes": [
