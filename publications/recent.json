@@ -1,5 +1,50 @@
 [
   {
+    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+    "title": "Alice's Adventures in Wonderland",
+    "author_names": "Lewis Carroll",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Fantasy",
+      "Surrealism",
+      "Portal Fantasy",
+      "Children's Literature",
+      "Classic Literature"
+    ],
+    "updated_at": "2026-01-03T16:37:23Z",
+    "data_checksum": "4347abfbafde220d78fb386080bfad133477348a87f660965b96bf2bd106dcb1"
+  },
+  {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-03T15:16:23Z",
+    "data_checksum": "08bc80be6371efaf008328dad980b45f9ce91ade5d4676dd1d79a74455b1c1a5"
+  },
+  {
+    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+    "title": "Daisy Miller: A Study",
+    "author_names": "Henry James",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Realism",
+      "Social Manners",
+      "19th Century",
+      "Psychological Fiction"
+    ],
+    "updated_at": "2026-01-03T14:01:34Z",
+    "data_checksum": "8cd3e9da6ce1524fd383e6ea782d07a66ed590ba5c9a79d323759a1e05788dd2"
+  },
+  {
     "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
     "title": "The Call of Cthulhu",
     "author_names": "H. P. Lovecraft",
@@ -11,8 +56,8 @@
       "Weird Fiction",
       "Mystery"
     ],
-    "updated_at": "2026-01-02T23:04:39Z",
-    "data_checksum": "f15ce21e440127ec7cb1fb08e63c115f206962fccac88855712fdf7d50a751e4"
+    "updated_at": "2026-01-03T13:19:42Z",
+    "data_checksum": "6e81ebeada48eadda5781f6d2acd5061fb5019f9b7bcc1d5b7143fbec8528ac1"
   },
   {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",

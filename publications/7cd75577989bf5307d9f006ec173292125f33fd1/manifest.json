@@ -1,0 +1,1414 @@
+{
+  "title": "Alice's Adventures in Wonderland",
+  "author_names": "Lewis Carroll",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/11.epub3.images",
+  "epub_source": "http://www.gutenberg.org/11",
+  "identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+  "publication_type": "novel",
+  "cover_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/cover.png",
+  "total_duration_s": 7182.888091,
+  "genre_tags": [
+    "Fantasy",
+    "Surrealism",
+    "Portal Fantasy",
+    "Children's Literature",
+    "Classic Literature"
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "storytelling"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 427,
+      "image_key": null,
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "ALICE",
+      "name": "Alice",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "curious",
+        "earnest",
+        "British",
+        "child-like"
+      ],
+      "visual_attributes": [
+        "heart-shaped face",
+        "long blonde hair",
+        "wide blue eyes",
+        "blue dress",
+        "white pinafore",
+        "black headband"
+      ],
+      "roles": [
+        "protagonist",
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 313,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/ALICE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/ALICE.mp3"
+    },
+    {
+      "identifier": "THE_KING_OF_HEARTS",
+      "name": "The King of Hearts",
+      "aliases": [
+        "The King"
+      ],
+      "voice_attributes": [
+        "timid",
+        "mild",
+        "conciliatory",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic playing card",
+        "King of Hearts design",
+        "royal crown",
+        "smaller than Queen",
+        "nervous smile"
+      ],
+      "roles": [
+        "ruler",
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 56,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_KING_OF_HEARTS.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_KING_OF_HEARTS.mp3"
+    },
+    {
+      "identifier": "MOCK_TURTLE",
+      "name": "The Mock Turtle",
+      "aliases": [],
+      "voice_attributes": [
+        "deep",
+        "hollow",
+        "sobbing",
+        "melancholy",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic turtle",
+        "large shell",
+        "calf head",
+        "large weeping eyes",
+        "flippers",
+        "back legs with hooves",
+        "sorrowful expression"
+      ],
+      "roles": [
+        "storyteller",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 54,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/MOCK_TURTLE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/MOCK_TURTLE.mp3"
+    },
+    {
+      "identifier": "THE_HATTER",
+      "name": "The Hatter",
+      "aliases": [],
+      "voice_attributes": [
+        "eccentric",
+        "loud",
+        "abrupt",
+        "British",
+        "mad"
+      ],
+      "visual_attributes": [
+        "anthropomorphic human",
+        "large top hat with 10/6 card",
+        "wild orange hair",
+        "large pale eyes",
+        "spotted bow tie",
+        "manic grin"
+      ],
+      "roles": [
+        "host",
+        "madman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 43,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_HATTER.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_HATTER.mp3"
+    },
+    {
+      "identifier": "THE_GRYPHON",
+      "name": "The Gryphon",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "lazy",
+        "dismissive",
+        "Cockney"
+      ],
+      "visual_attributes": [
+        "anthropomorphic gryphon",
+        "eagle head and wings",
+        "lion body",
+        "sharp beak",
+        "feathers and fur",
+        "tattered plumage"
+      ],
+      "roles": [
+        "guide",
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 41,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_GRYPHON.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_GRYPHON.mp3"
+    },
+    {
+      "identifier": "WHITE_RABBIT",
+      "name": "The White Rabbit",
+      "aliases": [],
+      "voice_attributes": [
+        "high-pitched",
+        "nervous",
+        "hurried",
+        "breathless"
+      ],
+      "visual_attributes": [
+        "anthropomorphic rabbit",
+        "white fur",
+        "pink eyes",
+        "Victorian waistcoat",
+        "pocket watch",
+        "nervous expression"
+      ],
+      "roles": [
+        "herald"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 37,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/WHITE_RABBIT.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/WHITE_RABBIT.mp3"
+    },
+    {
+      "identifier": "THE_QUEEN_OF_HEARTS",
+      "name": "The Queen of Hearts",
+      "aliases": [
+        "The Queen"
+      ],
+      "voice_attributes": [
+        "shrill",
+        "loud",
+        "imperious",
+        "furious",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic playing card",
+        "imposing figure",
+        "large red heart motif",
+        "royal crown",
+        "crimson face",
+        "Victorian royal gown",
+        "furious expression"
+      ],
+      "roles": [
+        "antagonist",
+        "ruler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 33,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_QUEEN_OF_HEARTS.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_QUEEN_OF_HEARTS.mp3"
+    },
+    {
+      "identifier": "THE_DUCHESS",
+      "name": "The Duchess",
+      "aliases": [],
+      "voice_attributes": [
+        "hoarse",
+        "violent",
+        "commanding",
+        "gruff"
+      ],
+      "visual_attributes": [
+        "large headdress",
+        "ugly face",
+        "sharp chin",
+        "Victorian dress",
+        "imposing figure"
+      ],
+      "roles": [
+        "antagonist",
+        "noble"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 25,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DUCHESS.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DUCHESS.mp3"
+    },
+    {
+      "identifier": "CATERPILLAR",
+      "name": "The Caterpillar",
+      "aliases": [],
+      "voice_attributes": [
+        "languid",
+        "condescending",
+        "deep",
+        "slow"
+      ],
+      "visual_attributes": [
+        "anthropomorphic caterpillar",
+        "blue segmented body",
+        "many arms",
+        "heavy eyelids",
+        "smoking hookah"
+      ],
+      "roles": [
+        "advisor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 22,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CATERPILLAR.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CATERPILLAR.mp3"
+    },
+    {
+      "identifier": "THE_DORMOUSE",
+      "name": "The Dormouse",
+      "aliases": [],
+      "voice_attributes": [
+        "sleepy",
+        "mumbling",
+        "slow",
+        "quiet",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic dormouse",
+        "round sleepy face",
+        "closing eyes",
+        "small paws",
+        "waistcoat",
+        "whiskers"
+      ],
+      "roles": [
+        "guest",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DORMOUSE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DORMOUSE.mp3"
+    },
+    {
+      "identifier": "MARCH_HARE",
+      "name": "March Hare",
+      "aliases": [],
+      "voice_attributes": [
+        "nervous",
+        "twitchy",
+        "high-strung",
+        "British",
+        "mad"
+      ],
+      "visual_attributes": [
+        "anthropomorphic hare",
+        "long ears with straw",
+        "wide staring eyes",
+        "checkered waistcoat",
+        "nervous expression",
+        "holding teacup"
+      ],
+      "roles": [
+        "host",
+        "madman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 17,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/MARCH_HARE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/MARCH_HARE.mp3"
+    },
+    {
+      "identifier": "CHESHIRE_CAT",
+      "name": "Cheshire Cat",
+      "aliases": [],
+      "voice_attributes": [
+        "smooth",
+        "amused",
+        "philosophical",
+        "calm"
+      ],
+      "visual_attributes": [
+        "anthropomorphic cat",
+        "wide fixed grin",
+        "sharp teeth",
+        "large eyes",
+        "striped fur"
+      ],
+      "roles": [
+        "guide",
+        "trickster"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 17,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CHESHIRE_CAT.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CHESHIRE_CAT.mp3"
+    },
+    {
+      "identifier": "THE_MOUSE",
+      "name": "The Mouse",
+      "aliases": [],
+      "voice_attributes": [
+        "shrill",
+        "passionate",
+        "easily offended",
+        "squeaky",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic mouse",
+        "sleek grey fur",
+        "long pink tail",
+        "twitching whiskers",
+        "small black eyes",
+        "nervous expression"
+      ],
+      "roles": [
+        "guide",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_MOUSE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_MOUSE.mp3"
+    },
+    {
+      "identifier": "THE_PIGEON",
+      "name": "The Pigeon",
+      "aliases": [],
+      "voice_attributes": [
+        "shrill",
+        "hysterical",
+        "defensive",
+        "sobbing"
+      ],
+      "visual_attributes": [
+        "anthropomorphic pigeon",
+        "ruffled grey feathers",
+        "wild round eyes",
+        "sharp beak",
+        "nesting debris"
+      ],
+      "roles": [
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_PIGEON.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_PIGEON.mp3"
+    },
+    {
+      "identifier": "THE_DODO",
+      "name": "The Dodo",
+      "aliases": [],
+      "voice_attributes": [
+        "solemn",
+        "officious",
+        "pompous",
+        "stuttering"
+      ],
+      "visual_attributes": [
+        "anthropomorphic dodo",
+        "bulbous beak",
+        "grey feathers",
+        "tiny wings",
+        "holding a walking stick",
+        "solemn expression"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DODO.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DODO.mp3"
+    },
+    {
+      "identifier": "FROG_FOOTMAN",
+      "name": "Frog-Footman",
+      "aliases": [],
+      "voice_attributes": [
+        "croaking",
+        "solemn",
+        "slow"
+      ],
+      "visual_attributes": [
+        "anthropomorphic frog",
+        "livery uniform",
+        "powdered wig",
+        "round face",
+        "large bulbous eyes"
+      ],
+      "roles": [
+        "servant",
+        "gatekeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FROG_FOOTMAN.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FROG_FOOTMAN.mp3"
+    },
+    {
+      "identifier": "THE_LORY",
+      "name": "The Lory",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "stubborn",
+        "squawking"
+      ],
+      "visual_attributes": [
+        "anthropomorphic lory",
+        "bright tropical feathers",
+        "wet plumage",
+        "curved beak",
+        "haughty expression"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_LORY.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_LORY.mp3"
+    },
+    {
+      "identifier": "FIVE_OF_SPADES",
+      "name": "Five",
+      "aliases": [
+        "Five of Spades",
+        "The Gardener"
+      ],
+      "voice_attributes": [
+        "sulky",
+        "defensive",
+        "rough",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic playing card",
+        "flat rectangular body",
+        "Five of Spades face design",
+        "paint smears",
+        "holding paint pot"
+      ],
+      "roles": [
+        "servant",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FIVE_OF_SPADES.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FIVE_OF_SPADES.mp3"
+    },
+    {
+      "identifier": "PAT",
+      "name": "Pat",
+      "aliases": [
+        "The Gardener"
+      ],
+      "voice_attributes": [
+        "rough",
+        "servile",
+        "Irish accent"
+      ],
+      "visual_attributes": [
+        "anthropomorphic guinea pig",
+        "tattered gardening clothes",
+        "soil-stained hands",
+        "simple expression"
+      ],
+      "roles": [
+        "servant",
+        "gardener"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "irish"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/PAT.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/PAT.mp3"
+    },
+    {
+      "identifier": "TWO_OF_SPADES",
+      "name": "Two",
+      "aliases": [
+        "Two of Spades",
+        "The Gardener"
+      ],
+      "voice_attributes": [
+        "rough",
+        "anxious",
+        "working-class",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic playing card",
+        "flat rectangular body",
+        "Two of Spades face design",
+        "gardener's paint splashes",
+        "holding paint brush",
+        "nervous expression"
+      ],
+      "roles": [
+        "servant",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/TWO_OF_SPADES.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/TWO_OF_SPADES.mp3"
+    },
+    {
+      "identifier": "THE_COOK",
+      "name": "The Cook",
+      "aliases": [],
+      "voice_attributes": [
+        "angry",
+        "silent"
+      ],
+      "visual_attributes": [
+        "soot-covered face",
+        "apron",
+        "muscular build",
+        "holding cookware"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_COOK.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_COOK.mp3"
+    },
+    {
+      "identifier": "JUROR_01",
+      "name": "Juror",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "inquisitive",
+        "confused"
+      ],
+      "visual_attributes": [
+        "anthropomorphic bird",
+        "small round glasses",
+        "ruffled feathers",
+        "holding a slate pencil"
+      ],
+      "roles": [
+        "extra"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/JUROR_01.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/JUROR_01.mp3"
+    },
+    {
+      "identifier": "SEVEN_OF_SPADES",
+      "name": "Seven",
+      "aliases": [
+        "Seven of Spades",
+        "The Gardener"
+      ],
+      "voice_attributes": [
+        "accusatory",
+        "hasty",
+        "British"
+      ],
+      "visual_attributes": [
+        "anthropomorphic playing card",
+        "flat rectangular body",
+        "Seven of Spades face design",
+        "paint smears",
+        "flinging down brush"
+      ],
+      "roles": [
+        "servant",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/SEVEN_OF_SPADES.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/SEVEN_OF_SPADES.mp3"
+    },
+    {
+      "identifier": "THE_DUCK",
+      "name": "The Duck",
+      "aliases": [],
+      "voice_attributes": [
+        "quacking",
+        "literal",
+        "argumentative"
+      ],
+      "visual_attributes": [
+        "anthropomorphic duck",
+        "white feathers",
+        "orange beak",
+        "webbed feet",
+        "damp attire"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DUCK.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_DUCK.mp3"
+    },
+    {
+      "identifier": "ALICES_SISTER",
+      "name": "Alice's Sister",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "mature",
+        "British",
+        "warm"
+      ],
+      "visual_attributes": [
+        "young Victorian woman",
+        "gentle face",
+        "loosely pinned brown hair",
+        "simple day dress",
+        "sitting pose",
+        "soft expression"
+      ],
+      "roles": [
+        "caregiver",
+        "sister"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/ALICES_SISTER.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/ALICES_SISTER.mp3"
+    },
+    {
+      "identifier": "KNAVE_OF_HEARTS",
+      "name": "The Knave of Hearts",
+      "aliases": [
+        "The Knave"
+      ],
+      "voice_attributes": [
+        "submissive",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "anthropomorphic playing card",
+        "Jack of Hearts design",
+        "carrying crown on velvet cushion",
+        "fearful expression"
+      ],
+      "roles": [
+        "servant",
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/KNAVE_OF_HEARTS.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/KNAVE_OF_HEARTS.mp3"
+    },
+    {
+      "identifier": "YOUNG_CRAB",
+      "name": "Young Crab",
+      "aliases": [],
+      "voice_attributes": [
+        "snappish",
+        "rebellious"
+      ],
+      "visual_attributes": [
+        "anthropomorphic crab",
+        "small shell",
+        "impatient expression"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/YOUNG_CRAB.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/YOUNG_CRAB.mp3"
+    },
+    {
+      "identifier": "CANARY",
+      "name": "Canary",
+      "aliases": [],
+      "voice_attributes": [
+        "trembling",
+        "anxious",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "anthropomorphic canary",
+        "bright yellow feathers",
+        "fluttering wings"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CANARY.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CANARY.mp3"
+    },
+    {
+      "identifier": "OLD_CRAB",
+      "name": "Old Crab",
+      "aliases": [],
+      "voice_attributes": [
+        "motherly",
+        "fussy",
+        "crackly"
+      ],
+      "visual_attributes": [
+        "anthropomorphic crab",
+        "red shell",
+        "large claws",
+        "spectacles",
+        "bonnet"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_CRAB.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_CRAB.mp3"
+    },
+    {
+      "identifier": "THE_EAGLET",
+      "name": "The Eaglet",
+      "aliases": [],
+      "voice_attributes": [
+        "impatient",
+        "childish",
+        "shrill"
+      ],
+      "visual_attributes": [
+        "anthropomorphic eagle chick",
+        "fluffy grey feathers",
+        "sharp beak",
+        "large eyes"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_EAGLET.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_EAGLET.mp3"
+    },
+    {
+      "identifier": "BILL",
+      "name": "Bill",
+      "aliases": [
+        "The Lizard"
+      ],
+      "voice_attributes": [
+        "feeble",
+        "squeaky",
+        "trembling"
+      ],
+      "visual_attributes": [
+        "anthropomorphic lizard",
+        "green scales",
+        "workman's shirt",
+        "dazed expression"
+      ],
+      "roles": [
+        "laborer",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/BILL.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/BILL.mp3"
+    },
+    {
+      "identifier": "DISTANT_VOICE",
+      "name": "The Herald",
+      "aliases": [],
+      "voice_attributes": [
+        "shouting",
+        "urgent",
+        "distant"
+      ],
+      "visual_attributes": [
+        "unseen speaker"
+      ],
+      "roles": [
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/DISTANT_VOICE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/DISTANT_VOICE.mp3"
+    },
+    {
+      "identifier": "FISH_FOOTMAN",
+      "name": "Fish-Footman",
+      "aliases": [],
+      "voice_attributes": [
+        "gurgling",
+        "solemn",
+        "formal"
+      ],
+      "visual_attributes": [
+        "anthropomorphic fish",
+        "livery uniform",
+        "powdered wig",
+        "large fish eyes",
+        "scales"
+      ],
+      "roles": [
+        "servant",
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FISH_FOOTMAN.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FISH_FOOTMAN.mp3"
+    },
+    {
+      "identifier": "OLD_MAGPIE",
+      "name": "Old Magpie",
+      "aliases": [],
+      "voice_attributes": [
+        "hoarse",
+        "complaining"
+      ],
+      "visual_attributes": [
+        "anthropomorphic magpie",
+        "black and white feathers",
+        "wrapping a shawl"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_MAGPIE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_MAGPIE.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/0/audio.mp3",
+      "duration_s": 7.05102
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I. Down the Rabbit-Hole",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RABBIT_HOLE",
+            "location_header": "INT. RABBIT HOLE - DAY",
+            "visual_description": "A surreal, vertical Victorian well shaft descending into darkness. The curved earthen walls are lined with domestic clutter: dark wood cupboards, bookshelves, and hung maps. Dim, mysterious lighting from above fades into deep shadow below. Muted browns and cooler shadows create a disorienting, dreamlike atmosphere."
+          },
+          {
+            "identifier": "SCENE_LONG_HALL",
+            "location_header": "INT. LONG HALL - UNDERGROUND",
+            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/1/audio.mp3",
+      "duration_s": 600.243042
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II. The Pool of Tears",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONG_HALL",
+            "location_header": "INT. LONG HALL - UNDERGROUND",
+            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
+          },
+          {
+            "identifier": "SCENE_POOL_OF_TEARS",
+            "location_header": "INT. POOL OF TEARS - UNDERGROUND",
+            "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/2/audio.mp3",
+      "duration_s": 561.7973670000001
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III. A Caucus-Race and a Long Tale",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_POOL_OF_TEARS",
+            "location_header": "INT. POOL OF TEARS - UNDERGROUND",
+            "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/3/audio.mp3",
+      "duration_s": 471.9095239999999
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV. The Rabbit Sends in a Little Bill",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RABBIT_HOUSE",
+            "location_header": "EXT/INT. WHITE RABBIT'S HOUSE - DAY",
+            "visual_description": "A neat Victorian cottage seen first from the exterior, then shifting to a cramped upper bedroom. Sunlight streams through a small sash window, illuminating a looking-glass and tiny furniture. The perspective is claustrophobic, dominated by the sense of an oversized presence filling the space. Bright whites, pastel yellows, and wood tones contrast with the chaotic, cramped atmosphere."
+          },
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/4/audio.mp3",
+      "duration_s": 725.706331
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V. Advice from a Caterpillar",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/5/audio.mp3",
+      "duration_s": 577.5563319999999
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI. Pig and Pepper",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DUCHESS_EXT",
+            "location_header": "EXT. DUCHESS'S HOUSE - DAY",
+            "visual_description": "A chaotic Victorian cottage exterior nestled at the edge of a dark wood. The front door is large, imposing, and framed by heavy timber. Sunlight dapples the forest floor, contrasting with the solid, somewhat foreboding architecture of the house. Earthy browns, forest greens, and stone greys."
+          },
+          {
+            "identifier": "SCENE_DUCHESS_KITCHEN",
+            "location_header": "INT. DUCHESS'S KITCHEN - DAY",
+            "visual_description": "A chaotic Victorian kitchen filled with haze and pungent smoke. A large open fireplace with a bubbling cauldron dominates the wall, casting a flickering orange glow. A three-legged stool sits in the center of the soot-stained room. The atmosphere is stifling, cluttered, and tense."
+          },
+          {
+            "identifier": "SCENE_WOOD_PATH",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "A winding path through a dense English forest. Ancient trees with gnarled branches create a high canopy, allowing shafts of afternoon sunlight to filter through. Lush ferns and moss cover the ground. The atmosphere is surreal but calmer than the house, with rich greens and soft shadows."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/6/audio.mp3",
+      "duration_s": 649.5340399999995
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII. A Mad Tea-Party",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TEA_PARTY",
+            "location_header": "EXT. MAD TEA PARTY - DAY",
+            "visual_description": "A chaotic Victorian tea party set beneath a large ancient tree in a dappled forest clearing. A long table draped in white cloth stretches out, piled high with mismatched china, teapots, and half-eaten food. Sunlight filters through leaves, creating a whimsical but slightly unkempt atmosphere. Warm greens, creams, and porcelain whites."
+          },
+          {
+            "identifier": "SCENE_LONG_HALL",
+            "location_header": "INT. LONG HALL - UNDERGROUND",
+            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/7/audio.mp3",
+      "duration_s": 606.4204799999998
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII. The Queen’s Croquet-Ground",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CROQUET_GROUND",
+            "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
+            "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/8/audio.mp3",
+      "duration_s": 704.42082
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX. The Mock Turtle’s Story",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CROQUET_GROUND",
+            "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
+            "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds."
+          },
+          {
+            "identifier": "SCENE_ROCKY_LEDGE",
+            "location_header": "EXT. ROCKY LEDGE - DAY",
+            "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/9/audio.mp3",
+      "duration_s": 584.8927710000003
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X. The Lobster Quadrille",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ROCKY_LEDGE",
+            "location_header": "EXT. ROCKY LEDGE - DAY",
+            "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/10/audio.mp3",
+      "duration_s": 583.9447870000001
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER XI. Who Stole the Tarts?",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_COURTROOM",
+            "location_header": "INT. COURTROOM - DAY",
+            "visual_description": "A grand Victorian courtroom packed with a chaotic assembly of birds, beasts, and playing cards. The King and Queen of Hearts sit on an elevated crimson throne. A jury box is filled with small animals scribbling on slates. In the center stands a table displaying a large dish of tarts. The atmosphere is tense and absurd, lit by high windows."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/11/audio.mp3",
+      "duration_s": 512.901346
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XII. Alice’s Evidence",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_COURTROOM",
+            "location_header": "INT. COURTROOM - DAY",
+            "visual_description": "A chaotic Victorian courtroom in disarray. A wooden jury box is tipped over, spilling slate pencils and papers. The King and Queen sit on high crimson thrones in the background. High windows let in bright, harsh daylight. The atmosphere is frantic and absurd."
+          },
+          {
+            "identifier": "SCENE_RIVERBANK",
+            "location_header": "EXT. RIVERBANK - SUNSET",
+            "visual_description": "A peaceful English riverbank bathed in the golden light of a setting sun. Long green grass and reeds sway in the foreground. An old tree offers shade. The mood is nostalgic, warm, and pastoral with soft earth tones and amber light."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/12/audio.mp3",
+      "duration_s": 596.510231
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_COURTROOM",
+      "ordinal": 0,
+      "location_header": "INT. COURTROOM - DAY",
+      "visual_description": "A chaotic Victorian courtroom in disarray. A wooden jury box is tipped over, spilling slate pencils and papers. The King and Queen sit on high crimson thrones in the background. High windows let in bright, harsh daylight. The atmosphere is frantic and absurd.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_COURTROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_RABBIT_HOUSE",
+      "ordinal": 0,
+      "location_header": "EXT/INT. WHITE RABBIT'S HOUSE - DAY",
+      "visual_description": "A neat Victorian cottage seen first from the exterior, then shifting to a cramped upper bedroom. Sunlight streams through a small sash window, illuminating a looking-glass and tiny furniture. The perspective is claustrophobic, dominated by the sense of an oversized presence filling the space. Bright whites, pastel yellows, and wood tones contrast with the chaotic, cramped atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_RABBIT_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_DUCHESS_EXT",
+      "ordinal": 0,
+      "location_header": "EXT. DUCHESS'S HOUSE - DAY",
+      "visual_description": "A chaotic Victorian cottage exterior nestled at the edge of a dark wood. The front door is large, imposing, and framed by heavy timber. Sunlight dapples the forest floor, contrasting with the solid, somewhat foreboding architecture of the house. Earthy browns, forest greens, and stone greys.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_DUCHESS_EXT.jpg"
+    },
+    {
+      "identifier": "SCENE_RABBIT_HOLE",
+      "ordinal": 0,
+      "location_header": "INT. RABBIT HOLE - DAY",
+      "visual_description": "A surreal, vertical Victorian well shaft descending into darkness. The curved earthen walls are lined with domestic clutter: dark wood cupboards, bookshelves, and hung maps. Dim, mysterious lighting from above fades into deep shadow below. Muted browns and cooler shadows create a disorienting, dreamlike atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_RABBIT_HOLE.jpg"
+    },
+    {
+      "identifier": "SCENE_ROCKY_LEDGE",
+      "ordinal": 0,
+      "location_header": "EXT. ROCKY LEDGE - DAY",
+      "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_ROCKY_LEDGE.jpg"
+    },
+    {
+      "identifier": "SCENE_POOL_OF_TEARS",
+      "ordinal": 0,
+      "location_header": "INT. POOL OF TEARS - UNDERGROUND",
+      "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_POOL_OF_TEARS.jpg"
+    },
+    {
+      "identifier": "SCENE_WOOD",
+      "ordinal": 0,
+      "location_header": "EXT. THE WOOD - DAY",
+      "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_WOOD.jpg"
+    },
+    {
+      "identifier": "SCENE_CROQUET_GROUND",
+      "ordinal": 0,
+      "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
+      "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_CROQUET_GROUND.jpg"
+    },
+    {
+      "identifier": "SCENE_TEA_PARTY",
+      "ordinal": 0,
+      "location_header": "EXT. MAD TEA PARTY - DAY",
+      "visual_description": "A chaotic Victorian tea party set beneath a large ancient tree in a dappled forest clearing. A long table draped in white cloth stretches out, piled high with mismatched china, teapots, and half-eaten food. Sunlight filters through leaves, creating a whimsical but slightly unkempt atmosphere. Warm greens, creams, and porcelain whites.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_TEA_PARTY.jpg"
+    },
+    {
+      "identifier": "SCENE_LONG_HALL",
+      "ordinal": 1,
+      "location_header": "INT. LONG HALL - UNDERGROUND",
+      "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_LONG_HALL.jpg"
+    },
+    {
+      "identifier": "SCENE_DUCHESS_KITCHEN",
+      "ordinal": 1,
+      "location_header": "INT. DUCHESS'S KITCHEN - DAY",
+      "visual_description": "A chaotic Victorian kitchen filled with haze and pungent smoke. A large open fireplace with a bubbling cauldron dominates the wall, casting a flickering orange glow. A three-legged stool sits in the center of the soot-stained room. The atmosphere is stifling, cluttered, and tense.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_DUCHESS_KITCHEN.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVERBANK",
+      "ordinal": 1,
+      "location_header": "EXT. RIVERBANK - SUNSET",
+      "visual_description": "A peaceful English riverbank bathed in the golden light of a setting sun. Long green grass and reeds sway in the foreground. An old tree offers shade. The mood is nostalgic, warm, and pastoral with soft earth tones and amber light.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_RIVERBANK.jpg"
+    },
+    {
+      "identifier": "SCENE_WOOD_PATH",
+      "ordinal": 2,
+      "location_header": "EXT. THE WOOD - DAY",
+      "visual_description": "A winding path through a dense English forest. Ancient trees with gnarled branches create a high canopy, allowing shafts of afternoon sunlight to filter through. Lush ferns and moss cover the ground. The atmosphere is surreal but calmer than the house, with rich greens and soft shadows.",
+      "metadata": {},
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/scenes/scene_SCENE_WOOD_PATH.jpg"
+    }
+  ],
+  "subjects": [
+    "Fantasy fiction",
+    "Children's stories",
+    "Imaginary places -- Juvenile fiction",
+    "Alice (Fictitious character from Carroll) -- Juvenile fiction"
+  ]
+}
