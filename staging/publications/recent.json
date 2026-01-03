@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+    "title": "Alice's Adventures in Wonderland",
+    "author_names": "Lewis Carroll",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Fantasy",
+      "Surrealism",
+      "Portal Fantasy",
+      "Children's Literature",
+      "Classic Literature"
+    ],
+    "updated_at": "2026-01-03T16:37:23Z",
+    "data_checksum": "4347abfbafde220d78fb386080bfad133477348a87f660965b96bf2bd106dcb1"
+  },
+  {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
     "title": "A Midsummer Night's Dream",
     "author_names": "William Shakespeare",
