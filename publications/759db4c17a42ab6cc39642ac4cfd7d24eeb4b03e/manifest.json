@@ -1,0 +1,994 @@
+{
+  "title": "A Midsummer Night's Dream",
+  "author_names": "William Shakespeare",
+  "description": "Publication imported from https://gutenberg.org/ebooks/1514.epub3.images",
+  "epub_source": "http://www.gutenberg.org/1514",
+  "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+  "publication_type": "play",
+  "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
+  "total_duration_s": 6312.280364999999,
+  "genre_tags": [
+    "Classics",
+    "Play",
+    "Comedy",
+    "Romance",
+    "Mythology"
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "descriptive",
+        "clear",
+        "storytelling",
+        "storyteller"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 129,
+      "image_key": null,
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "THESEUS",
+      "name": "Duke Theseus",
+      "aliases": [
+        "Theseus",
+        "Duke"
+      ],
+      "voice_attributes": [
+        "commanding",
+        "authoritative",
+        "resonant"
+      ],
+      "visual_attributes": [
+        "strong square jaw",
+        "short grey-streaked hair",
+        "neatly trimmed beard",
+        "commanding brown eyes",
+        "golden laurel wreath",
+        "white toga with purple sash"
+      ],
+      "roles": [
+        "duke",
+        "ruler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 70,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/THESEUS.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/THESEUS.mp3"
+    },
+    {
+      "identifier": "LYSANDER",
+      "name": "Lysander",
+      "aliases": [],
+      "voice_attributes": [
+        "earnest",
+        "romantic",
+        "bold"
+      ],
+      "visual_attributes": [
+        "handsome open face",
+        "tousled brown hair",
+        "warm hazel eyes",
+        "earnest expression",
+        "youthful tunic"
+      ],
+      "roles": [
+        "lover",
+        "suitor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 62,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/LYSANDER.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/LYSANDER.mp3"
+    },
+    {
+      "identifier": "HERMIA",
+      "name": "Hermia",
+      "aliases": [],
+      "voice_attributes": [
+        "defiant",
+        "passionate",
+        "clear"
+      ],
+      "visual_attributes": [
+        "heart-shaped face",
+        "dark curly hair",
+        "large expressive dark eyes",
+        "petite stature",
+        "simple elegant Grecian dress"
+      ],
+      "roles": [
+        "lover",
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 59,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/HERMIA.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/HERMIA.mp3"
+    },
+    {
+      "identifier": "BOTTOM",
+      "name": "Nick Bottom",
+      "aliases": [
+        "Bottom",
+        "Pyramus"
+      ],
+      "voice_attributes": [
+        "boisterous",
+        "confident",
+        "loud",
+        "over-dramatic"
+      ],
+      "visual_attributes": [
+        "broad ruddy face",
+        "thick unruly hair",
+        "bright eager eyes",
+        "sturdy build",
+        "weaver's tunic",
+        "expressive mouth",
+        "badly fitting ancient Greek armor costume",
+        "sword on belt"
+      ],
+      "roles": [
+        "craftsman",
+        "comic_relief"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 57,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/BOTTOM.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/BOTTOM.mp3"
+    },
+    {
+      "identifier": "HELENA",
+      "name": "Helena",
+      "aliases": [],
+      "voice_attributes": [
+        "desperate",
+        "melancholy",
+        "envious"
+      ],
+      "visual_attributes": [
+        "long pale face",
+        "long blonde hair",
+        "sad grey eyes",
+        "tall stature",
+        "pale complexion",
+        "anxious expression"
+      ],
+      "roles": [
+        "lover",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 56,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/HELENA.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/HELENA.mp3"
+    },
+    {
+      "identifier": "DEMETRIUS",
+      "name": "Demetrius",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "confident",
+        "sharp"
+      ],
+      "visual_attributes": [
+        "sharp features",
+        "slicked dark hair",
+        "cold blue eyes",
+        "haughty expression",
+        "fine expensive tunic"
+      ],
+      "roles": [
+        "suitor",
+        "rival"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 50,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/DEMETRIUS.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/DEMETRIUS.mp3"
+    },
+    {
+      "identifier": "PUCK",
+      "name": "Puck",
+      "aliases": [
+        "Robin",
+        "Hobgoblin"
+      ],
+      "voice_attributes": [
+        "mischievous",
+        "energetic",
+        "raspy"
+      ],
+      "visual_attributes": [
+        "woodland sprite",
+        "wild tousled hair with twigs",
+        "pointed ears",
+        "glinting amber eyes",
+        "impish grin",
+        "ruddy skin with faint green tinge",
+        "rough fur-lined vest",
+        "holding a broom"
+      ],
+      "roles": [
+        "fairy",
+        "jester",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 48,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.mp3"
+    },
+    {
+      "identifier": "QUINCE",
+      "name": "Peter Quince",
+      "aliases": [
+        "Quince",
+        "Prologue"
+      ],
+      "voice_attributes": [
+        "fussy",
+        "organized",
+        "earnest",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "thin pinched face",
+        "spectacles perched on nose",
+        "thinning grey hair",
+        "carpenter's apron",
+        "holding parchment scroll",
+        "ink-stained fingers",
+        "makeshift laurel crown",
+        "clutching script"
+      ],
+      "roles": [
+        "craftsman",
+        "director"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 48,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.mp3"
+    },
+    {
+      "identifier": "OBERON",
+      "name": "King Oberon",
+      "aliases": [
+        "King of Shadows"
+      ],
+      "voice_attributes": [
+        "commanding",
+        "deep",
+        "menacing",
+        "ethereal"
+      ],
+      "visual_attributes": [
+        "commanding fairy king",
+        "sharp angular features",
+        "long dark flowing hair",
+        "piercing silver eyes",
+        "pointed ears",
+        "crown of dark thorns",
+        "cloak of woven shadows"
+      ],
+      "roles": [
+        "king",
+        "fairy"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 48,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.mp3"
+    },
+    {
+      "identifier": "TITANIA",
+      "name": "Queen Titania",
+      "aliases": [
+        "Queen of Fairies"
+      ],
+      "voice_attributes": [
+        "regal",
+        "passionate",
+        "melodic"
+      ],
+      "visual_attributes": [
+        "ethereal fairy queen",
+        "luminous pale skin",
+        "flowing golden hair with flowers",
+        "large violet eyes",
+        "delicate pointed ears",
+        "gossamer gown suggesting moonlight"
+      ],
+      "roles": [
+        "queen",
+        "fairy"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 32,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/TITANIA.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/TITANIA.mp3"
+    },
+    {
+      "identifier": "BOTTOM_TRANSFORMED",
+      "name": "Nick Bottom (Transformed)",
+      "aliases": [
+        "Bottom",
+        "Ass-head"
+      ],
+      "voice_attributes": [
+        "braying",
+        "confused",
+        "boisterous"
+      ],
+      "visual_attributes": [
+        "anthropomorphic donkey head on human body",
+        "grey fur with long ears",
+        "large bewildered brown eyes",
+        "human shoulders visible",
+        "rough craftsman's tunic"
+      ],
+      "roles": [
+        "craftsman",
+        "comic_relief"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 22,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/BOTTOM_TRANSFORMED.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/BOTTOM_TRANSFORMED.mp3"
+    },
+    {
+      "identifier": "FLUTE",
+      "name": "Francis Flute",
+      "aliases": [
+        "Flute",
+        "Thisbe"
+      ],
+      "voice_attributes": [
+        "reluctant",
+        "high-pitched",
+        "youthful",
+        "falsetto",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "smooth youthful face",
+        "wisp of beard",
+        "wide innocent eyes",
+        "sooty smudge on cheek",
+        "simple tunic",
+        "wearing a woman's wig and dress"
+      ],
+      "roles": [
+        "craftsman",
+        "bellows_mender"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/FLUTE.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/FLUTE.mp3"
+    },
+    {
+      "identifier": "HIPPOLYTA",
+      "name": "Hippolyta",
+      "aliases": [
+        "Queen of Amazons"
+      ],
+      "voice_attributes": [
+        "regal",
+        "calm",
+        "strong"
+      ],
+      "visual_attributes": [
+        "strong angular face",
+        "olive skin",
+        "long dark braided hair",
+        "fierce dark eyes",
+        "gold armbands",
+        "warrior-queen attire"
+      ],
+      "roles": [
+        "queen",
+        "amazon"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/HIPPOLYTA.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/HIPPOLYTA.mp3"
+    },
+    {
+      "identifier": "PEASEBLOSSOM",
+      "name": "Peaseblossom",
+      "aliases": [],
+      "voice_attributes": [
+        "musical",
+        "protective",
+        "clear"
+      ],
+      "visual_attributes": [
+        "ethereal fairy",
+        "luminescent pale skin",
+        "shimmering translucent wings",
+        "large almond-shaped eyes",
+        "delicate pointed ears",
+        "garments of woven spiderwebs"
+      ],
+      "roles": [
+        "fairy",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PEASEBLOSSOM.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PEASEBLOSSOM.mp3"
+    },
+    {
+      "identifier": "EGEUS",
+      "name": "Egeus",
+      "aliases": [],
+      "voice_attributes": [
+        "angry",
+        "insistent",
+        "harsh"
+      ],
+      "visual_attributes": [
+        "wrinkled face",
+        "white hair and beard",
+        "scowling expression",
+        "rich noble robes",
+        "clenched hands"
+      ],
+      "roles": [
+        "father",
+        "nobleman"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/EGEUS.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/EGEUS.mp3"
+    },
+    {
+      "identifier": "SNOUT",
+      "name": "Tom Snout",
+      "aliases": [
+        "Snout",
+        "Wall"
+      ],
+      "voice_attributes": [
+        "rough",
+        "plain",
+        "gruff",
+        "stiff"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "metal grime on skin",
+        "tinker's cap",
+        "rough hands",
+        "patched clothes",
+        "covered in lime and plaster",
+        "wearing a cardboard wall costume",
+        "rough hands holding fingers up",
+        "bewildered expression"
+      ],
+      "roles": [
+        "craftsman",
+        "tinker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNOUT.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNOUT.mp3"
+    },
+    {
+      "identifier": "STARVELING",
+      "name": "Robin Starveling",
+      "aliases": [
+        "Starveling",
+        "Moonshine"
+      ],
+      "voice_attributes": [
+        "thin",
+        "quiet",
+        "worrying",
+        "trembling"
+      ],
+      "visual_attributes": [
+        "gaunt face",
+        "hollow cheeks",
+        "wispy hair",
+        "sharp nose",
+        "measuring tape around neck",
+        "holding a lantern and thornbush",
+        "small dog on leash",
+        "nervous expression"
+      ],
+      "roles": [
+        "craftsman",
+        "tailor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/STARVELING.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/STARVELING.mp3"
+    },
+    {
+      "identifier": "MUSTARDSEED",
+      "name": "Mustardseed",
+      "aliases": [],
+      "voice_attributes": [
+        "alert",
+        "melodic",
+        "hushed"
+      ],
+      "visual_attributes": [
+        "woodland fairy",
+        "nut-brown complexion",
+        "wild mossy hair",
+        "bright green eyes",
+        "pointed ears",
+        "tunic of woven leaves"
+      ],
+      "roles": [
+        "fairy",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MUSTARDSEED.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MUSTARDSEED.mp3"
+    },
+    {
+      "identifier": "SNUG",
+      "name": "Snug",
+      "aliases": [
+        "The Joiner",
+        "Lion"
+      ],
+      "voice_attributes": [
+        "slow",
+        "deep",
+        "hesitant",
+        "muffled"
+      ],
+      "visual_attributes": [
+        "round confused face",
+        "sawdust in hair",
+        "heavy brow",
+        "timid eyes",
+        "leather apron",
+        "wearing a ragged lion mask",
+        "timid eyes visible through mask",
+        "clumsy posture"
+      ],
+      "roles": [
+        "craftsman",
+        "joiner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNUG.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNUG.mp3"
+    },
+    {
+      "identifier": "COBWEB",
+      "name": "Cobweb",
+      "aliases": [],
+      "voice_attributes": [
+        "delicate",
+        "whispering",
+        "light"
+      ],
+      "visual_attributes": [
+        "ethereal fairy",
+        "pale greyish skin",
+        "silvery gossamer wings",
+        "large dark eyes",
+        "clothing resembling spider silk",
+        "slender frame"
+      ],
+      "roles": [
+        "fairy",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/COBWEB.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/COBWEB.mp3"
+    },
+    {
+      "identifier": "MOTH",
+      "name": "Moth",
+      "aliases": [],
+      "voice_attributes": [
+        "soft",
+        "fluttering",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "nocturnal fairy",
+        "large dark eyes",
+        "patterned wings like a moth",
+        "fuzzy texture to clothing",
+        "muted brown and cream colors",
+        "small stature"
+      ],
+      "roles": [
+        "fairy",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MOTH.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MOTH.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/0/audio.mp3",
+      "duration_s": 6.89551
+    },
+    {
+      "ordinal": 1,
+      "title": "ACT I",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/1/audio.mp3",
+      "duration_s": 1.76
+    },
+    {
+      "ordinal": 2,
+      "title": "SCENE I. Athens. A room in the Palace of Theseus",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ATHENS_PALACE_DAY",
+            "location_header": "ACT I, SCENE 1",
+            "visual_description": "Ancient Athens, 1200 BC. A grand palace hall featuring towering white marble columns and open archways. Bright Mediterranean sunlight streams in, illuminating dancing dust motes. Rich purple banners drape from the stone walls. In the foreground, a polished marble floor reflects the light. Gold and ivory accents adorn the space. Majestic, formal, and airy atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/2/audio.mp3",
+      "duration_s": 750.1923409999998
+    },
+    {
+      "ordinal": 3,
+      "title": "SCENE II. The Same. A Room in a Cottage",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "QUINCE_WORKSHOP",
+            "location_header": "ACT I, SCENE 2",
+            "visual_description": "Ancient Athens, 1200 BC. A cramped carpenter's workshop filled with tools, wood shavings, and sawdust. Afternoon sunlight filters through a small, dusty window, illuminating floating motes. Rough wooden benches and scattered parchment scrolls clutter the space. Earthy browns, warm ambers, and dusty textures. Cluttered, rustic, and industrious atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/3/audio.mp3",
+      "duration_s": 294.74075199999993
+    },
+    {
+      "ordinal": 4,
+      "title": "ACT II",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/4/audio.mp3",
+      "duration_s": 1.84
+    },
+    {
+      "ordinal": 5,
+      "title": "SCENE I. A wood near Athens",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FOREST_MOONLIGHT",
+            "location_header": "ACT II, SCENE 1",
+            "visual_description": "Ancient Athens, 1200 BC. A mystical, ancient forest at night. Silver moonlight filters through the gnarled branches of massive oak trees, casting deep, dappled shadows on the mossy ground. Wildflowers glow faintly in the darkness. A raised grassy bank sits in the background. Deep blues, silvers, and forest greens dominate. Mysterious, magical, and organic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/5/audio.mp3",
+      "duration_s": 805.1154899999998
+    },
+    {
+      "ordinal": 6,
+      "title": "SCENE II. Another part of the wood",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FOREST_MOONLIGHT",
+            "location_header": "ACT II, SCENE 2",
+            "visual_description": "Ancient Athens, 1200 BC. A mystical, ancient forest at night. Silver moonlight filters through the gnarled branches of massive oak trees, casting deep, dappled shadows on the mossy ground. Wildflowers glow faintly in the darkness. A raised grassy bank sits in the background. Deep blues, silvers, and forest greens dominate. Mysterious, magical, and organic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/6/audio.mp3",
+      "duration_s": 489.43580699999995
+    },
+    {
+      "ordinal": 7,
+      "title": "ACT III",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/7/audio.mp3",
+      "duration_s": 1.8
+    },
+    {
+      "ordinal": 8,
+      "title": "SCENE I. The Wood.",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FOREST_MOONLIGHT",
+            "location_header": "ACT III, SCENE 1",
+            "visual_description": "Ancient Athens, 1200 BC. A mystical, ancient forest at night. Silver moonlight filters through the gnarled branches of massive oak trees, casting deep, dappled shadows on the mossy ground. Wildflowers glow faintly in the darkness. A raised grassy bank sits in the background. Deep blues, silvers, and forest greens dominate. Mysterious, magical, and organic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/8/audio.mp3",
+      "duration_s": 599.9350420000004
+    },
+    {
+      "ordinal": 9,
+      "title": "SCENE II. Another part of the wood",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FOREST_MOONLIGHT",
+            "location_header": "ACT III, SCENE 2",
+            "visual_description": "Ancient Athens, 1200 BC. A mystical, ancient forest at night. Silver moonlight filters through the gnarled branches of massive oak trees, casting deep, dappled shadows on the mossy ground. Wildflowers glow faintly in the darkness. A raised grassy bank sits in the background. Deep blues, silvers, and forest greens dominate. Mysterious, magical, and organic atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/9/audio.mp3",
+      "duration_s": 1405.8744059999992
+    },
+    {
+      "ordinal": 10,
+      "title": "ACT IV",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/10/audio.mp3",
+      "duration_s": 1.72
+    },
+    {
+      "ordinal": 11,
+      "title": "SCENE I. The Wood",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FOREST_MOONLIGHT",
+            "location_header": "ACT IV, SCENE 1 (Part 1)",
+            "visual_description": "Ancient Athens, 1200 BC. A mystical, ancient forest at night. Silver moonlight filters through the gnarled branches of massive oak trees, casting deep, dappled shadows on the mossy ground. Wildflowers glow faintly in the darkness. A raised grassy bank sits in the background. Deep blues, silvers, and forest greens dominate. Mysterious, magical, and organic atmosphere."
+          },
+          {
+            "identifier": "FOREST_DAWN",
+            "location_header": "ACT IV, SCENE 1 (Part 2)",
+            "visual_description": "The ancient forest near Athens awakening at dawn, 1200 BC. Golden shafts of morning light pierce through lifting mist. Dew glistens on ferns and wildflowers. A moss-covered boulder in the foreground catches the warm light. Soft golds, pale greens, and misty whites. Peaceful, transitional mood."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/11/audio.mp3",
+      "duration_s": 652.6947929999998
+    },
+    {
+      "ordinal": 12,
+      "title": "SCENE II. Athens. A Room in Quince’s House",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "QUINCE_WORKSHOP",
+            "location_header": "ACT IV, SCENE 2",
+            "visual_description": "Ancient Athens, 1200 BC. A cramped carpenter's workshop filled with tools, wood shavings, and sawdust. Afternoon sunlight filters through a small, dusty window, illuminating floating motes. Rough wooden benches and scattered parchment scrolls clutter the space. Earthy browns, warm ambers, and dusty textures. Cluttered, rustic, and industrious atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/12/audio.mp3",
+      "duration_s": 140.86254100000002
+    },
+    {
+      "ordinal": 13,
+      "title": "ACT V",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/13/audio.mp3",
+      "duration_s": 1.92
+    },
+    {
+      "ordinal": 14,
+      "title": "SCENE I. Athens. An Apartment in the Palace of Theseus",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ATHENS_PALACE_NIGHT",
+            "location_header": "ACT V",
+            "visual_description": "Ancient Athens, 1200 BC. The grand palace hall at night, illuminated by flickering torchlight and glowing braziers. Deep shadows play between the towering marble columns. Rich purple banners appear dark in the dim light. In the foreground, banquet tables are cleared but festive. Warm, regal, and intimate atmosphere."
+          },
+          {
+            "identifier": "ATHENS_PALACE_MAGIC",
+            "location_header": "ENTER PUCK",
+            "visual_description": "Ancient Athens, 1200 BC. The palace hall after midnight. The torches have burned low to dying embers, casting long, eerie shadows. Blue moonlight spills across the polished marble floor. Spectral, glowing fairy lights begin to manifest in the corners. A mystical, hushed, and otherworldly atmosphere."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/14/audio.mp3",
+      "duration_s": 1157.4936830000001
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "QUINCE_WORKSHOP",
+      "ordinal": 0,
+      "location_header": "ACT IV, SCENE 2",
+      "visual_description": "Ancient Athens, 1200 BC. A cramped carpenter's workshop filled with tools, wood shavings, and sawdust. Afternoon sunlight filters through a small, dusty window, illuminating floating motes. Rough wooden benches and scattered parchment scrolls clutter the space. Earthy browns, warm ambers, and dusty textures. Cluttered, rustic, and industrious atmosphere.",
+      "metadata": {},
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_QUINCE_WORKSHOP.jpg"
+    },
+    {
+      "identifier": "FOREST_MOONLIGHT",
+      "ordinal": 0,
+      "location_header": "ACT IV, SCENE 1 (Part 1)",
+      "visual_description": "Ancient Athens, 1200 BC. A mystical, ancient forest at night. Silver moonlight filters through the gnarled branches of massive oak trees, casting deep, dappled shadows on the mossy ground. Wildflowers glow faintly in the darkness. A raised grassy bank sits in the background. Deep blues, silvers, and forest greens dominate. Mysterious, magical, and organic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_FOREST_MOONLIGHT.jpg"
+    },
+    {
+      "identifier": "ATHENS_PALACE_NIGHT",
+      "ordinal": 0,
+      "location_header": "ACT V",
+      "visual_description": "Ancient Athens, 1200 BC. The grand palace hall at night, illuminated by flickering torchlight and glowing braziers. Deep shadows play between the towering marble columns. Rich purple banners appear dark in the dim light. In the foreground, banquet tables are cleared but festive. Warm, regal, and intimate atmosphere.",
+      "metadata": {},
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_ATHENS_PALACE_NIGHT.jpg"
+    },
+    {
+      "identifier": "ATHENS_PALACE_DAY",
+      "ordinal": 0,
+      "location_header": "ACT I, SCENE 1",
+      "visual_description": "Ancient Athens, 1200 BC. A grand palace hall featuring towering white marble columns and open archways. Bright Mediterranean sunlight streams in, illuminating dancing dust motes. Rich purple banners drape from the stone walls. In the foreground, a polished marble floor reflects the light. Gold and ivory accents adorn the space. Majestic, formal, and airy atmosphere.",
+      "metadata": {},
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_ATHENS_PALACE_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "FOREST_DAWN",
+      "ordinal": 1,
+      "location_header": "ACT IV, SCENE 1 (Part 2)",
+      "visual_description": "The ancient forest near Athens awakening at dawn, 1200 BC. Golden shafts of morning light pierce through lifting mist. Dew glistens on ferns and wildflowers. A moss-covered boulder in the foreground catches the warm light. Soft golds, pale greens, and misty whites. Peaceful, transitional mood.",
+      "metadata": {},
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_FOREST_DAWN.jpg"
+    },
+    {
+      "identifier": "ATHENS_PALACE_MAGIC",
+      "ordinal": 1,
+      "location_header": "ENTER PUCK",
+      "visual_description": "Ancient Athens, 1200 BC. The palace hall after midnight. The torches have burned low to dying embers, casting long, eerie shadows. Blue moonlight spills across the polished marble floor. Spectral, glowing fairy lights begin to manifest in the corners. A mystical, hushed, and otherworldly atmosphere.",
+      "metadata": {},
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_ATHENS_PALACE_MAGIC.jpg"
+    }
+  ],
+  "subjects": [
+    "Comedy plays",
+    "Courtship -- Drama",
+    "Athens (Greece) -- Drama",
+    "Fairy plays"
+  ]
+}

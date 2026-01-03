@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-03T14:34:27Z",
+    "data_checksum": "1512f49905a062037b69b49804e9e8a0ba449fc7c59d0222302beb7eabba1851"
+  },
+  {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
     "title": "Daisy Miller: A Study",
     "author_names": "Henry James",
