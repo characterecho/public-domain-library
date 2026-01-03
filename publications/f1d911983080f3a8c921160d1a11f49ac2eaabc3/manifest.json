@@ -1,0 +1,555 @@
+{
+  "title": "Daisy Miller: A Study",
+  "author_names": "Henry James",
+  "description": "Publication imported from https://gutenberg.org/ebooks/208.epub3.images",
+  "epub_source": "http://www.gutenberg.org/208",
+  "identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+  "publication_type": "novel",
+  "cover_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/cover.png",
+  "total_duration_s": 6444.401395000001,
+  "genre_tags": [
+    "Classics",
+    "Realism",
+    "Social Manners",
+    "19th Century",
+    "Psychological Fiction"
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "[]"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "[]"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 212,
+      "image_key": null,
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "WINTERBOURNE",
+      "name": "Winterbourne",
+      "aliases": [
+        "Frederick"
+      ],
+      "voice_attributes": [
+        "educated",
+        "calm",
+        "observant",
+        "polite"
+      ],
+      "visual_attributes": [
+        "young gentleman",
+        "clean-shaven chin",
+        "mustache",
+        "intelligent eyes",
+        "Victorian frock coat",
+        "high collar"
+      ],
+      "roles": [
+        "protagonist",
+        "traveler"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american_transatlantic"
+      },
+      "dialogue_count": 184,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/WINTERBOURNE.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/WINTERBOURNE.mp3"
+    },
+    {
+      "identifier": "DAISY_MILLER",
+      "name": "Daisy",
+      "aliases": [
+        "Annie P. Miller",
+        "Miss Miller"
+      ],
+      "voice_attributes": [
+        "soft",
+        "sociable",
+        "monotonous",
+        "clear"
+      ],
+      "visual_attributes": [
+        "beautiful young woman",
+        "white muslin dress",
+        "ribbons",
+        "pretty eyes",
+        "delicate features",
+        "parasol"
+      ],
+      "roles": [
+        "love_interest",
+        "tourist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 173,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/DAISY_MILLER.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/DAISY_MILLER.mp3"
+    },
+    {
+      "identifier": "MRS_MILLER",
+      "name": "Mrs. Miller",
+      "aliases": [],
+      "voice_attributes": [
+        "mild",
+        "vague",
+        "thin",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "small spare frame",
+        "large forehead",
+        "frizzled hair",
+        "diamond earrings",
+        "wandering eyes"
+      ],
+      "roles": [
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 42,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_MILLER.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_MILLER.mp3"
+    },
+    {
+      "identifier": "MRS_COSTELLO",
+      "name": "Mrs. Costello",
+      "aliases": [
+        "The Aunt"
+      ],
+      "voice_attributes": [
+        "haughty",
+        "distinguished",
+        "judgmental"
+      ],
+      "visual_attributes": [
+        "long pale face",
+        "high nose",
+        "white hair in puffs",
+        "expensive lace",
+        "regal bearing"
+      ],
+      "roles": [
+        "aunt",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american_transatlantic"
+      },
+      "dialogue_count": 40,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_COSTELLO.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_COSTELLO.mp3"
+    },
+    {
+      "identifier": "MRS_WALKER",
+      "name": "Mrs. Walker",
+      "aliases": [],
+      "voice_attributes": [
+        "earnest",
+        "social",
+        "concerned",
+        "indignant"
+      ],
+      "visual_attributes": [
+        "middle-aged wealthy woman",
+        "fashionable bonnet",
+        "silk visiting dress",
+        "expressive face",
+        "flushed cheeks"
+      ],
+      "roles": [
+        "socialite",
+        "moral_guardian"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american_transatlantic"
+      },
+      "dialogue_count": 36,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_WALKER.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_WALKER.mp3"
+    },
+    {
+      "identifier": "RANDOLPH_MILLER",
+      "name": "Randolph",
+      "aliases": [
+        "The Child"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "loud",
+        "hard",
+        "precocious"
+      ],
+      "visual_attributes": [
+        "pale complexion",
+        "sharp features",
+        "aged expression",
+        "knickerbockers",
+        "red cravat"
+      ],
+      "roles": [
+        "brother",
+        "tourist"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 34,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/RANDOLPH_MILLER.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/RANDOLPH_MILLER.mp3"
+    },
+    {
+      "identifier": "GIOVANELLI",
+      "name": "Mr. Giovanelli",
+      "aliases": [
+        "The Cavalier"
+      ],
+      "voice_attributes": [
+        "smooth",
+        "urbane",
+        "musical",
+        "ingratiating"
+      ],
+      "visual_attributes": [
+        "handsome italian man",
+        "waxed mustache",
+        "monocle",
+        "flower in buttonhole",
+        "brilliant smile",
+        "stylish suit"
+      ],
+      "roles": [
+        "suitor",
+        "musician"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "italian_accented"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/GIOVANELLI.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/GIOVANELLI.mp3"
+    },
+    {
+      "identifier": "EUGENIO",
+      "name": "Eugenio",
+      "aliases": [
+        "The Courier"
+      ],
+      "voice_attributes": [
+        "impertinent",
+        "smooth",
+        "ironic"
+      ],
+      "visual_attributes": [
+        "tall handsome man",
+        "superb whiskers",
+        "velvet morning coat",
+        "watch chain",
+        "sharp gaze"
+      ],
+      "roles": [
+        "servant",
+        "guide"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian_accented"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/EUGENIO.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/EUGENIO.mp3"
+    },
+    {
+      "identifier": "AMERICAN_FRIEND",
+      "name": "American Friend",
+      "aliases": [],
+      "voice_attributes": [
+        "cynical",
+        "casual"
+      ],
+      "visual_attributes": [
+        "tourist attire",
+        "traveling hat",
+        "mustache"
+      ],
+      "roles": [
+        "tourist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/AMERICAN_FRIEND.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/AMERICAN_FRIEND.mp3"
+    },
+    {
+      "identifier": "SERVANT",
+      "name": "The Servant",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "neutral"
+      ],
+      "visual_attributes": [
+        "liveried servant",
+        "impassive face",
+        "white gloves"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.png",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.mp3"
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "metadata": {},
+      "background_key": null,
+      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/segments/0/audio.mp3",
+      "duration_s": 7.032245
+    },
+    {
+      "ordinal": 1,
+      "title": "PART I",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_VEVEY_GARDEN",
+            "location_header": "EXT. HOTEL GARDEN - DAY",
+            "visual_description": "A grand 19th-century Swiss hotel garden overlooking Lake Geneva. Manicured gravel paths wind between flowerbeds and iron benches. In the foreground, a small iron table with coffee service. The background reveals the chalk-white facade of the hotel with balconies, while the distance shows the blue lake and the snowy crest of the Dent du Midi. Bright, clear summer morning light."
+          },
+          {
+            "identifier": "SCENE_COSTELLO_SUITE",
+            "location_header": "INT. PRIVATE SUITE - DAY",
+            "visual_description": "A private salon within a luxury Victorian hotel. Plush velvet armchairs and a chaise longue dominate the room. Heavy brocade curtains are partially drawn to block the harsh light, creating a dim, hushed atmosphere suitable for an invalid. Tables hold crystal smelling salts and camphor bottles. Pale colors with rich gold accents."
+          },
+          {
+            "identifier": "SCENE_VEVEY_GARDEN_NIGHT",
+            "location_header": "EXT. HOTEL GARDEN - NIGHT",
+            "visual_description": "The hotel garden terrace at night, lit by the warm glow of gas lamps and starlight. The lake beyond is a dark, shimmering expanse reflecting the stars. Silhouettes of mountains loom in the distance. In the foreground, the stone parapet and garden furniture are cast in deep shadows and soft highlights. Romantic and mysterious atmosphere."
+          },
+          {
+            "identifier": "SCENE_CHILLON",
+            "location_header": "INT. CASTLE OF CHILLON - DAY",
+            "visual_description": "The interior of an ancient medieval castle. Rough hewn stone walls and vaulted ceilings define the space. Narrow embrasures (windows) allow shafts of bright daylight to cut through the dusty, cool air. An antique stone fireplace stands in the background. The atmosphere is historic, cold, and imposing, contrasting with the bright day outside."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/segments/1/audio.mp3",
+      "duration_s": 2962.3947690000014
+    },
+    {
+      "ordinal": 2,
+      "title": "PART II",
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_COSTELLO_SUITE",
+            "location_header": "INT. COSTELLO SUITE - DAY",
+            "visual_description": "A lavish private hotel suite in late 19th-century Rome. Heavy gold-fringed drapery frames tall windows overlooking the city rooftops. The room is crowded with velvet upholstery, marble-topped tables, and intricate porcelain ornaments. Dim, sheltered lighting contrasts with the bright Italian sun outside. An atmosphere of exclusive, stuffy privilege."
+          },
+          {
+            "identifier": "SCENE_WALKER_DRAWING_ROOM",
+            "location_header": "INT. MRS WALKER'S APARTMENT - DAY",
+            "visual_description": "A sun-drenched crimson drawing room on the third floor of a Roman palazzo. Tall french windows admit brilliant southern sunshine. The walls are lined with red silk, and the furniture is gilded and delicate. A polished parquet floor reflects the light. The mood is bright, social, and slightly claustrophobic."
+          },
+          {
+            "identifier": "SCENE_PINCIO_GARDENS",
+            "location_header": "EXT. PINCIO GARDENS - LATE AFTERNOON",
+            "visual_description": "The Pincian Hill gardens in the late afternoon. Manicured gravel paths wind between umbrella pines and marble busts. In the distance, the dome of St. Peter's is visible against a golden sunset. Elegant horse-drawn carriages line the periphery. The light is warm, amber, and romantic, casting long shadows."
+          },
+          {
+            "identifier": "SCENE_WALKER_PARTY",
+            "location_header": "INT. MRS WALKER'S SALON - NIGHT",
+            "visual_description": "A cramped but elegant salon at night, lit by crystal chandeliers and wax candles. The room is filled with guests in evening dress. A grand piano stands in one corner. The atmosphere is stiflingly warm, buzzing with social tension and judgment. Rich colors of evening silks and black tailcoats."
+          },
+          {
+            "identifier": "SCENE_ST_PETERS",
+            "location_header": "INT. ST. PETER'S BASILICA - AFTERNOON",
+            "visual_description": "The vast, cavernous interior of St. Peter's Basilica. Immense stone pilasters rise into the shadowy vault. Shafts of dusty light cut through the incense-laden air. The scale is overwhelming, dwarfing the human figures below. The atmosphere is solemn, echoing, and ancient."
+          },
+          {
+            "identifier": "SCENE_PALATINE_HILL",
+            "location_header": "EXT. PALATINE HILL - DAY",
+            "visual_description": "The ruins of the Palace of the Caesars on a bright spring day. Ancient moss-covered brick arches and marble fragments are scattered among blooming wildflowers and fresh green grass. The sky is a piercing Roman blue. The setting combines the weight of antiquity with the freshness of spring."
+          },
+          {
+            "identifier": "SCENE_COLOSSEUM_NIGHT",
+            "location_header": "EXT. COLOSSEUM - NIGHT",
+            "visual_description": "The interior of the Colosseum under a waning moon. One half of the gigantic arena is plunged in deep, cavernous shadow; the other is bathed in pale, ghostly moonlight. The central cross stands silhouetted against the gloom. The atmosphere is ominous, cold, and heavy with history and decay."
+          },
+          {
+            "identifier": "SCENE_MILLER_HOTEL_ROOM",
+            "location_header": "INT. MILLER HOTEL SUITE - DAY",
+            "visual_description": "A cluttered hotel salon turned sickroom. Medicine bottles and glasses crowd the tables. The curtains are drawn, creating a perpetual twilight. The atmosphere is hushed, medicinal, and anxious."
+          },
+          {
+            "identifier": "SCENE_PROTESTANT_CEMETERY",
+            "location_header": "EXT. PROTESTANT CEMETERY - DAY",
+            "visual_description": "The Protestant Cemetery in Rome, nestled against the ancient city wall. Tall, dark cypress trees stand sentinel over white marble gravestones. Spring flowers—daisies and violets—grow thickly in the grass. The light is clear and gentle. A mood of quiet, sunlit melancholy."
+          }
+        ]
+      },
+      "background_key": null,
+      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/segments/2/audio.mp3",
+      "duration_s": 3474.9743809999995
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_VEVEY_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. HOTEL GARDEN - DAY",
+      "visual_description": "A grand 19th-century Swiss hotel garden overlooking Lake Geneva. Manicured gravel paths wind between flowerbeds and iron benches. In the foreground, a small iron table with coffee service. The background reveals the chalk-white facade of the hotel with balconies, while the distance shows the blue lake and the snowy crest of the Dent du Midi. Bright, clear summer morning light.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_VEVEY_GARDEN.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_COSTELLO_SUITE",
+      "ordinal": 0,
+      "location_header": "INT. COSTELLO SUITE - DAY",
+      "visual_description": "A lavish private hotel suite in late 19th-century Rome. Heavy gold-fringed drapery frames tall windows overlooking the city rooftops. The room is crowded with velvet upholstery, marble-topped tables, and intricate porcelain ornaments. Dim, sheltered lighting contrasts with the bright Italian sun outside. An atmosphere of exclusive, stuffy privilege.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COSTELLO_SUITE.jpg"
+    },
+    {
+      "identifier": "SCENE_WALKER_DRAWING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. MRS WALKER'S APARTMENT - DAY",
+      "visual_description": "A sun-drenched crimson drawing room on the third floor of a Roman palazzo. Tall french windows admit brilliant southern sunshine. The walls are lined with red silk, and the furniture is gilded and delicate. A polished parquet floor reflects the light. The mood is bright, social, and slightly claustrophobic.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_WALKER_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_VEVEY_GARDEN_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. HOTEL GARDEN - NIGHT",
+      "visual_description": "The hotel garden terrace at night, lit by the warm glow of gas lamps and starlight. The lake beyond is a dark, shimmering expanse reflecting the stars. Silhouettes of mountains loom in the distance. In the foreground, the stone parapet and garden furniture are cast in deep shadows and soft highlights. Romantic and mysterious atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_VEVEY_GARDEN_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_PINCIO_GARDENS",
+      "ordinal": 2,
+      "location_header": "EXT. PINCIO GARDENS - LATE AFTERNOON",
+      "visual_description": "The Pincian Hill gardens in the late afternoon. Manicured gravel paths wind between umbrella pines and marble busts. In the distance, the dome of St. Peter's is visible against a golden sunset. Elegant horse-drawn carriages line the periphery. The light is warm, amber, and romantic, casting long shadows.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PINCIO_GARDENS.jpg"
+    },
+    {
+      "identifier": "SCENE_WALKER_PARTY",
+      "ordinal": 3,
+      "location_header": "INT. MRS WALKER'S SALON - NIGHT",
+      "visual_description": "A cramped but elegant salon at night, lit by crystal chandeliers and wax candles. The room is filled with guests in evening dress. A grand piano stands in one corner. The atmosphere is stiflingly warm, buzzing with social tension and judgment. Rich colors of evening silks and black tailcoats.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_WALKER_PARTY.jpg"
+    },
+    {
+      "identifier": "SCENE_CHILLON",
+      "ordinal": 3,
+      "location_header": "INT. CASTLE OF CHILLON - DAY",
+      "visual_description": "The interior of an ancient medieval castle. Rough hewn stone walls and vaulted ceilings define the space. Narrow embrasures (windows) allow shafts of bright daylight to cut through the dusty, cool air. An antique stone fireplace stands in the background. The atmosphere is historic, cold, and imposing, contrasting with the bright day outside.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_CHILLON.jpg"
+    },
+    {
+      "identifier": "SCENE_ST_PETERS",
+      "ordinal": 4,
+      "location_header": "INT. ST. PETER'S BASILICA - AFTERNOON",
+      "visual_description": "The vast, cavernous interior of St. Peter's Basilica. Immense stone pilasters rise into the shadowy vault. Shafts of dusty light cut through the incense-laden air. The scale is overwhelming, dwarfing the human figures below. The atmosphere is solemn, echoing, and ancient.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_ST_PETERS.jpg"
+    },
+    {
+      "identifier": "SCENE_PALATINE_HILL",
+      "ordinal": 5,
+      "location_header": "EXT. PALATINE HILL - DAY",
+      "visual_description": "The ruins of the Palace of the Caesars on a bright spring day. Ancient moss-covered brick arches and marble fragments are scattered among blooming wildflowers and fresh green grass. The sky is a piercing Roman blue. The setting combines the weight of antiquity with the freshness of spring.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PALATINE_HILL.jpg"
+    },
+    {
+      "identifier": "SCENE_COLOSSEUM_NIGHT",
+      "ordinal": 6,
+      "location_header": "EXT. COLOSSEUM - NIGHT",
+      "visual_description": "The interior of the Colosseum under a waning moon. One half of the gigantic arena is plunged in deep, cavernous shadow; the other is bathed in pale, ghostly moonlight. The central cross stands silhouetted against the gloom. The atmosphere is ominous, cold, and heavy with history and decay.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COLOSSEUM_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_MILLER_HOTEL_ROOM",
+      "ordinal": 7,
+      "location_header": "INT. MILLER HOTEL SUITE - DAY",
+      "visual_description": "A cluttered hotel salon turned sickroom. Medicine bottles and glasses crowd the tables. The curtains are drawn, creating a perpetual twilight. The atmosphere is hushed, medicinal, and anxious.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_MILLER_HOTEL_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_PROTESTANT_CEMETERY",
+      "ordinal": 8,
+      "location_header": "EXT. PROTESTANT CEMETERY - DAY",
+      "visual_description": "The Protestant Cemetery in Rome, nestled against the ancient city wall. Tall, dark cypress trees stand sentinel over white marble gravestones. Spring flowers—daisies and violets—grow thickly in the grass. The light is clear and gentle. A mood of quiet, sunlit melancholy.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PROTESTANT_CEMETERY.jpg"
+    }
+  ],
+  "subjects": [
+    "Psychological fiction",
+    "Young women -- Fiction",
+    "Europe -- Fiction",
+    "Americans -- Europe -- Fiction"
+  ]
+}
