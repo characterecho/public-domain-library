@@ -6,7 +6,7 @@
   "identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
   "publication_type": "novel",
   "cover_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/cover.png",
-  "total_duration_s": 4165.280351000001,
+  "total_duration_s": 4159.804569000001,
   "genre_tags": [
     "Horror",
     "Cosmic Horror",
@@ -113,7 +113,7 @@
       },
       "background_key": null,
       "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/segments/1/audio.mp3",
-      "duration_s": 1029.470594
+      "duration_s": 1028.3530429999998
     },
     {
       "ordinal": 2,
@@ -129,7 +129,7 @@
       },
       "background_key": null,
       "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/segments/2/audio.mp3",
-      "duration_s": 1663.6024310000007
+      "duration_s": 1659.2442000000008
     },
     {
       "ordinal": 3,
