@@ -6,7 +6,7 @@
   "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
   "publication_type": "play",
   "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
-  "total_duration_s": 6313.370025999999,
+  "total_duration_s": 6372.026761999999,
   "genre_tags": [
     "Classics",
     "Play",
@@ -262,6 +262,40 @@
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.mp3"
     },
     {
+      "identifier": "OBERON",
+      "name": "King Oberon",
+      "aliases": [
+        "King of Shadows"
+      ],
+      "voice_attributes": [
+        "commanding",
+        "deep",
+        "menacing",
+        "ethereal"
+      ],
+      "visual_attributes": [
+        "commanding fairy king",
+        "sharp angular features",
+        "long dark flowing hair",
+        "piercing silver eyes",
+        "pointed ears",
+        "crown of dark thorns",
+        "cloak of woven shadows"
+      ],
+      "roles": [
+        "king",
+        "fairy"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 48,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.mp3"
+    },
+    {
       "identifier": "QUINCE",
       "name": "Peter Quince",
       "aliases": [
@@ -296,40 +330,6 @@
       "dialogue_count": 48,
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.png",
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.mp3"
-    },
-    {
-      "identifier": "OBERON",
-      "name": "King Oberon",
-      "aliases": [
-        "King of Shadows"
-      ],
-      "voice_attributes": [
-        "commanding",
-        "deep",
-        "menacing",
-        "ethereal"
-      ],
-      "visual_attributes": [
-        "commanding fairy king",
-        "sharp angular features",
-        "long dark flowing hair",
-        "piercing silver eyes",
-        "pointed ears",
-        "crown of dark thorns",
-        "cloak of woven shadows"
-      ],
-      "roles": [
-        "king",
-        "fairy"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "classical_british"
-      },
-      "dialogue_count": 48,
-      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.png",
-      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.mp3"
     },
     {
       "identifier": "TITANIA",
@@ -595,6 +595,32 @@
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/STARVELING.mp3"
     },
     {
+      "identifier": "PHILOSTRATE",
+      "name": "Philostrate",
+      "aliases": [],
+      "voice_attributes": [
+        "formal",
+        "courtly",
+        "critical"
+      ],
+      "visual_attributes": [
+        "well-dressed",
+        "court official",
+        "master of revels"
+      ],
+      "roles": [
+        "[]"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PHILOSTRATE.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PHILOSTRATE.mp3"
+    },
+    {
       "identifier": "MUSTARDSEED",
       "name": "Mustardseed",
       "aliases": [],
@@ -792,7 +818,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/5/audio.mp3",
-      "duration_s": 805.1154899999998
+      "duration_s": 804.3129049999998
     },
     {
       "ordinal": 6,
@@ -922,7 +948,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/14/audio.mp3",
-      "duration_s": 1157.4936830000001
+      "duration_s": 1216.9530040000002
     }
   ],
   "scenes": [
