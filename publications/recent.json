@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-04T23:04:23Z",
+    "data_checksum": "b36683117755259ff337a35fec35c3593d8b3ca2b4827629988bb64b989ac22e"
+  },
+  {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
     "title": "The Velveteen Rabbit",
     "author_names": "Margery Williams Bianco",
@@ -28,21 +43,6 @@
     ],
     "updated_at": "2026-01-03T16:37:23Z",
     "data_checksum": "4347abfbafde220d78fb386080bfad133477348a87f660965b96bf2bd106dcb1"
-  },
-  {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Play",
-      "Comedy",
-      "Romance",
-      "Mythology"
-    ],
-    "updated_at": "2026-01-03T15:16:23Z",
-    "data_checksum": "08bc80be6371efaf008328dad980b45f9ce91ade5d4676dd1d79a74455b1c1a5"
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
