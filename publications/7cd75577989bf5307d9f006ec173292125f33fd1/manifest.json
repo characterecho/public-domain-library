@@ -2,11 +2,11 @@
   "title": "Alice's Adventures in Wonderland",
   "author_names": "Lewis Carroll",
   "description": "EPUB imported from https://gutenberg.org/ebooks/11.epub3.images",
-  "epub_source": "http://www.gutenberg.org/11",
+  "epub_source": "https://gutenberg.org/ebooks/11.epub3.images",
   "identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
   "publication_type": "novel",
   "cover_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/cover.png",
-  "total_duration_s": 7182.888091,
+  "total_duration_s": 7177.089787,
   "genre_tags": [
     "Fantasy",
     "Surrealism",
@@ -32,7 +32,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 427,
+      "dialogue_count": 428,
       "image_key": null,
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/NARRATOR.mp3"
     },
@@ -64,7 +64,7 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 313,
+      "dialogue_count": 312,
       "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/ALICE.png",
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/ALICE.mp3"
     },
@@ -192,7 +192,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 41,
+      "dialogue_count": 42,
       "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_GRYPHON.png",
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_GRYPHON.mp3"
     },
@@ -222,7 +222,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 37,
+      "dialogue_count": 38,
       "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/WHITE_RABBIT.png",
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/WHITE_RABBIT.mp3"
     },
@@ -833,29 +833,88 @@
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/KNAVE_OF_HEARTS.mp3"
     },
     {
-      "identifier": "YOUNG_CRAB",
-      "name": "Young Crab",
+      "identifier": "FISH_FOOTMAN",
+      "name": "Fish-Footman",
       "aliases": [],
       "voice_attributes": [
-        "snappish",
-        "rebellious"
+        "gurgling",
+        "solemn",
+        "formal"
       ],
       "visual_attributes": [
-        "anthropomorphic crab",
-        "small shell",
-        "impatient expression"
+        "anthropomorphic fish",
+        "livery uniform",
+        "powdered wig",
+        "large fish eyes",
+        "scales"
+      ],
+      "roles": [
+        "servant",
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FISH_FOOTMAN.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FISH_FOOTMAN.mp3"
+    },
+    {
+      "identifier": "OLD_MAGPIE",
+      "name": "Old Magpie",
+      "aliases": [],
+      "voice_attributes": [
+        "hoarse",
+        "complaining"
+      ],
+      "visual_attributes": [
+        "anthropomorphic magpie",
+        "black and white feathers",
+        "wrapping a shawl"
       ],
       "roles": [
         "supporting"
       ],
       "metadata": {
-        "age_group": "young",
+        "age_group": "old",
         "gender": "female",
         "voice_accent": "british"
       },
       "dialogue_count": 1,
-      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/YOUNG_CRAB.png",
-      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/YOUNG_CRAB.mp3"
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_MAGPIE.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_MAGPIE.mp3"
+    },
+    {
+      "identifier": "BILL",
+      "name": "Bill",
+      "aliases": [
+        "The Lizard"
+      ],
+      "voice_attributes": [
+        "feeble",
+        "squeaky",
+        "trembling"
+      ],
+      "visual_attributes": [
+        "anthropomorphic lizard",
+        "green scales",
+        "workman's shirt",
+        "dazed expression"
+      ],
+      "roles": [
+        "laborer",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/BILL.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/BILL.mp3"
     },
     {
       "identifier": "CANARY",
@@ -882,6 +941,31 @@
       "dialogue_count": 1,
       "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CANARY.png",
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/CANARY.mp3"
+    },
+    {
+      "identifier": "YOUNG_CRAB",
+      "name": "Young Crab",
+      "aliases": [],
+      "voice_attributes": [
+        "snappish",
+        "rebellious"
+      ],
+      "visual_attributes": [
+        "anthropomorphic crab",
+        "small shell",
+        "impatient expression"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/YOUNG_CRAB.png",
+      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/YOUNG_CRAB.mp3"
     },
     {
       "identifier": "OLD_CRAB",
@@ -937,114 +1021,6 @@
       "dialogue_count": 1,
       "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_EAGLET.png",
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_EAGLET.mp3"
-    },
-    {
-      "identifier": "BILL",
-      "name": "Bill",
-      "aliases": [
-        "The Lizard"
-      ],
-      "voice_attributes": [
-        "feeble",
-        "squeaky",
-        "trembling"
-      ],
-      "visual_attributes": [
-        "anthropomorphic lizard",
-        "green scales",
-        "workman's shirt",
-        "dazed expression"
-      ],
-      "roles": [
-        "laborer",
-        "victim"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/BILL.png",
-      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/BILL.mp3"
-    },
-    {
-      "identifier": "DISTANT_VOICE",
-      "name": "The Herald",
-      "aliases": [],
-      "voice_attributes": [
-        "shouting",
-        "urgent",
-        "distant"
-      ],
-      "visual_attributes": [
-        "unseen speaker"
-      ],
-      "roles": [
-        "messenger"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/DISTANT_VOICE.png",
-      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/DISTANT_VOICE.mp3"
-    },
-    {
-      "identifier": "FISH_FOOTMAN",
-      "name": "Fish-Footman",
-      "aliases": [],
-      "voice_attributes": [
-        "gurgling",
-        "solemn",
-        "formal"
-      ],
-      "visual_attributes": [
-        "anthropomorphic fish",
-        "livery uniform",
-        "powdered wig",
-        "large fish eyes",
-        "scales"
-      ],
-      "roles": [
-        "servant",
-        "messenger"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FISH_FOOTMAN.png",
-      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/FISH_FOOTMAN.mp3"
-    },
-    {
-      "identifier": "OLD_MAGPIE",
-      "name": "Old Magpie",
-      "aliases": [],
-      "voice_attributes": [
-        "hoarse",
-        "complaining"
-      ],
-      "visual_attributes": [
-        "anthropomorphic magpie",
-        "black and white feathers",
-        "wrapping a shawl"
-      ],
-      "roles": [
-        "supporting"
-      ],
-      "metadata": {
-        "age_group": "old",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_MAGPIE.png",
-      "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/OLD_MAGPIE.mp3"
     }
   ],
   "segments": [
@@ -1075,7 +1051,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/1/audio.mp3",
-      "duration_s": 600.243042
+      "duration_s": 601.509686
     },
     {
       "ordinal": 2,
@@ -1096,7 +1072,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/2/audio.mp3",
-      "duration_s": 561.7973670000001
+      "duration_s": 554.3942610000001
     },
     {
       "ordinal": 3,
@@ -1112,7 +1088,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/3/audio.mp3",
-      "duration_s": 471.9095239999999
+      "duration_s": 474.9670759999999
     },
     {
       "ordinal": 4,
@@ -1133,7 +1109,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/4/audio.mp3",
-      "duration_s": 725.706331
+      "duration_s": 726.8428849999999
     },
     {
       "ordinal": 5,
@@ -1149,7 +1125,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/5/audio.mp3",
-      "duration_s": 577.5563319999999
+      "duration_s": 578.3402749999999
     },
     {
       "ordinal": 6,
@@ -1175,7 +1151,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/6/audio.mp3",
-      "duration_s": 649.5340399999995
+      "duration_s": 654.1368959999994
     },
     {
       "ordinal": 7,
@@ -1196,7 +1172,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/7/audio.mp3",
-      "duration_s": 606.4204799999998
+      "duration_s": 600.076057
     },
     {
       "ordinal": 8,
@@ -1212,7 +1188,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/8/audio.mp3",
-      "duration_s": 704.42082
+      "duration_s": 705.2281670000001
     },
     {
       "ordinal": 9,
@@ -1233,7 +1209,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/9/audio.mp3",
-      "duration_s": 584.8927710000003
+      "duration_s": 586.2999130000003
     },
     {
       "ordinal": 10,
@@ -1249,7 +1225,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/10/audio.mp3",
-      "duration_s": 583.9447870000001
+      "duration_s": 581.0386630000002
     },
     {
       "ordinal": 11,
@@ -1265,7 +1241,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/11/audio.mp3",
-      "duration_s": 512.901346
+      "duration_s": 512.557606
     },
     {
       "ordinal": 12,
@@ -1286,7 +1262,7 @@
       },
       "background_key": null,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/12/audio.mp3",
-      "duration_s": 596.510231
+      "duration_s": 594.6472819999999
     }
   ],
   "scenes": [
