@@ -465,8 +465,8 @@
     "audio_description": "narrative, chaotic",
     "trailing_silence_s": 0.3,
     "start_s": 227.54122599999994,
-    "end_s": 256.81911699999995,
-    "duration_s": 29.277891
+    "end_s": 258.92122599999993,
+    "duration_s": 31.38
   },
   {
     "character_identifier": "ALICE",
@@ -476,8 +476,8 @@
     "speed": 1.0,
     "audio_description": "terrified, shouting",
     "trailing_silence_s": 0.2,
-    "start_s": 256.81911699999995,
-    "end_s": 260.38483099999996,
+    "start_s": 258.92122599999993,
+    "end_s": 262.48693999999995,
     "duration_s": 3.565714
   },
   {
@@ -488,8 +488,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 260.38483099999996,
-    "end_s": 264.66483099999994,
+    "start_s": 262.48693999999995,
+    "end_s": 266.7669399999999,
     "duration_s": 4.28
   },
   {
@@ -500,8 +500,8 @@
     "speed": 1.0,
     "audio_description": "hoarse growl",
     "trailing_silence_s": 0.3,
-    "start_s": 264.66483099999994,
-    "end_s": 269.87625999999995,
+    "start_s": 266.7669399999999,
+    "end_s": 271.97836899999993,
     "duration_s": 5.211429
   },
   {
@@ -512,8 +512,8 @@
     "speed": 1.0,
     "audio_description": "knowledgeable, academic",
     "trailing_silence_s": 0.2,
-    "start_s": 269.87625999999995,
-    "end_s": 277.22972899999996,
+    "start_s": 271.97836899999993,
+    "end_s": 279.33183799999995,
     "duration_s": 7.353469
   },
   {
@@ -524,8 +524,8 @@
     "speed": 1.0,
     "audio_description": "violent, shouting",
     "trailing_silence_s": 0.3,
-    "start_s": 277.22972899999996,
-    "end_s": 279.750545,
+    "start_s": 279.33183799999995,
+    "end_s": 281.852654,
     "duration_s": 2.520816
   },
   {
@@ -536,8 +536,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 279.750545,
-    "end_s": 289.15054499999997,
+    "start_s": 281.852654,
+    "end_s": 291.25265399999995,
     "duration_s": 9.4
   },
   {
@@ -548,8 +548,8 @@
     "speed": 1.0,
     "audio_description": "hesitant",
     "trailing_silence_s": 0.1,
-    "start_s": 289.15054499999997,
-    "end_s": 293.81891199999995,
+    "start_s": 291.25265399999995,
+    "end_s": 295.92102099999994,
     "duration_s": 4.668367
   },
   {
@@ -560,8 +560,8 @@
     "speed": 1.0,
     "audio_description": "annoyed, dismissive",
     "trailing_silence_s": 0.2,
-    "start_s": 293.81891199999995,
-    "end_s": 296.70544299999995,
+    "start_s": 295.92102099999994,
+    "end_s": 298.80755199999993,
     "duration_s": 2.886531
   },
   {
@@ -572,8 +572,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 296.70544299999995,
-    "end_s": 305.38544299999995,
+    "start_s": 298.80755199999993,
+    "end_s": 307.48755199999994,
     "duration_s": 8.68
   },
   {
@@ -584,8 +584,8 @@
     "speed": 1.0,
     "audio_description": "singing, hoarse, violent",
     "trailing_silence_s": 0.3,
-    "start_s": 305.38544299999995,
-    "end_s": 312.87210999999996,
+    "start_s": 307.48755199999994,
+    "end_s": 314.97421899999995,
     "duration_s": 7.486667
   },
   {
@@ -594,11 +594,11 @@
     "ordinal": 49,
     "text": "Wow! wow! wow!",
     "speed": 1.0,
-    "audio_description": "singing",
+    "audio_description": "singing, flat",
     "trailing_silence_s": 0.3,
-    "start_s": 312.87210999999996,
-    "end_s": 316.038777,
-    "duration_s": 3.166667
+    "start_s": 314.97421899999995,
+    "end_s": 317.9408859999999,
+    "duration_s": 2.966667
   },
   {
     "character_identifier": "NARRATOR",
@@ -608,8 +608,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 316.038777,
-    "end_s": 326.278777,
+    "start_s": 317.9408859999999,
+    "end_s": 328.18088599999993,
     "duration_s": 10.24
   },
   {
@@ -620,8 +620,8 @@
     "speed": 1.0,
     "audio_description": "singing, hoarse",
     "trailing_silence_s": 0.3,
-    "start_s": 326.278777,
-    "end_s": 333.266532,
+    "start_s": 328.18088599999993,
+    "end_s": 335.1686409999999,
     "duration_s": 6.987755
   },
   {
@@ -632,9 +632,9 @@
     "speed": 1.0,
     "audio_description": "singing, hoarse",
     "trailing_silence_s": 0.3,
-    "start_s": 333.266532,
-    "end_s": 335.713199,
-    "duration_s": 2.446667
+    "start_s": 335.1686409999999,
+    "end_s": 338.45530799999995,
+    "duration_s": 3.286667
   },
   {
     "character_identifier": "THE_DUCHESS",
@@ -644,8 +644,8 @@
     "speed": 1.0,
     "audio_description": "abrupt, shouting",
     "trailing_silence_s": 0.2,
-    "start_s": 335.713199,
-    "end_s": 341.420954,
+    "start_s": 338.45530799999995,
+    "end_s": 344.16306299999997,
     "duration_s": 5.707755
   },
   {
@@ -656,8 +656,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 341.420954,
-    "end_s": 354.980954,
+    "start_s": 344.16306299999997,
+    "end_s": 357.72306299999997,
     "duration_s": 13.56
   },
   {
@@ -668,8 +668,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.1,
-    "start_s": 354.980954,
-    "end_s": 356.378505,
+    "start_s": 357.72306299999997,
+    "end_s": 359.120614,
     "duration_s": 1.397551
   },
   {
@@ -680,8 +680,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.5,
-    "start_s": 356.378505,
-    "end_s": 369.243811,
+    "start_s": 359.120614,
+    "end_s": 371.98591999999996,
     "duration_s": 12.865306
   },
   {
@@ -692,8 +692,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 369.243811,
-    "end_s": 383.123811,
+    "start_s": 371.98591999999996,
+    "end_s": 385.86591999999996,
     "duration_s": 13.88
   },
   {
@@ -704,8 +704,8 @@
     "speed": 1.0,
     "audio_description": "internal thought then spoken",
     "trailing_silence_s": 0.2,
-    "start_s": 383.123811,
-    "end_s": 388.962178,
+    "start_s": 385.86591999999996,
+    "end_s": 391.70428699999997,
     "duration_s": 5.838367
   },
   {
@@ -716,9 +716,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.1,
-    "start_s": 388.962178,
-    "end_s": 392.702178,
-    "duration_s": 3.74
+    "start_s": 391.70428699999997,
+    "end_s": 395.60428699999994,
+    "duration_s": 3.9
   },
   {
     "character_identifier": "ALICE",
@@ -728,8 +728,8 @@
     "speed": 1.0,
     "audio_description": "firm, admonishing",
     "trailing_silence_s": 0.2,
-    "start_s": 392.702178,
-    "end_s": 396.111158,
+    "start_s": 395.60428699999994,
+    "end_s": 399.0132669999999,
     "duration_s": 3.40898
   },
   {
@@ -740,8 +740,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 396.111158,
-    "end_s": 413.871158,
+    "start_s": 399.0132669999999,
+    "end_s": 416.7732669999999,
     "duration_s": 17.76
   },
   {
@@ -752,8 +752,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.1,
-    "start_s": 413.871158,
-    "end_s": 415.399321,
+    "start_s": 416.7732669999999,
+    "end_s": 418.3014299999999,
     "duration_s": 1.528163
   },
   {
@@ -764,8 +764,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 415.399321,
-    "end_s": 420.559321,
+    "start_s": 418.3014299999999,
+    "end_s": 423.46142999999995,
     "duration_s": 5.16
   },
   {
@@ -776,8 +776,8 @@
     "speed": 1.0,
     "audio_description": "serious, warning",
     "trailing_silence_s": 0.2,
-    "start_s": 420.559321,
-    "end_s": 425.403425,
+    "start_s": 423.46142999999995,
+    "end_s": 428.30553399999997,
     "duration_s": 4.844104
   },
   {
@@ -788,9 +788,9 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 425.403425,
-    "end_s": 434.923425,
-    "duration_s": 9.52
+    "start_s": 428.30553399999997,
+    "end_s": 437.70553399999994,
+    "duration_s": 9.4
   },
   {
     "character_identifier": "ALICE",
@@ -800,8 +800,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.1,
-    "start_s": 434.923425,
-    "end_s": 437.888323,
+    "start_s": 437.70553399999994,
+    "end_s": 440.67043199999995,
     "duration_s": 2.964898
   },
   {
@@ -812,8 +812,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
-    "start_s": 437.888323,
-    "end_s": 456.683425,
+    "start_s": 440.67043199999995,
+    "end_s": 459.46553399999993,
     "duration_s": 18.795102
   },
   {
@@ -824,8 +824,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.2,
-    "start_s": 456.683425,
-    "end_s": 462.338935,
+    "start_s": 459.46553399999993,
+    "end_s": 465.1210439999999,
     "duration_s": 5.65551
   },
   {
@@ -836,8 +836,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.1,
-    "start_s": 462.338935,
-    "end_s": 465.038618,
+    "start_s": 465.1210439999999,
+    "end_s": 467.8207269999999,
     "duration_s": 2.699683
   },
   {
@@ -848,8 +848,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
-    "start_s": 465.038618,
-    "end_s": 480.56841399999996,
+    "start_s": 467.8207269999999,
+    "end_s": 483.3505229999999,
     "duration_s": 15.529796
   },
   {
@@ -860,8 +860,8 @@
     "speed": 1.0,
     "audio_description": "timid, polite",
     "trailing_silence_s": 0.2,
-    "start_s": 480.56841399999996,
-    "end_s": 484.76106699999997,
+    "start_s": 483.3505229999999,
+    "end_s": 487.5431759999999,
     "duration_s": 4.192653
   },
   {
@@ -872,8 +872,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.1,
-    "start_s": 484.76106699999997,
-    "end_s": 486.46106699999996,
+    "start_s": 487.5431759999999,
+    "end_s": 489.2431759999999,
     "duration_s": 1.7
   },
   {
@@ -884,8 +884,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.1,
-    "start_s": 486.46106699999996,
-    "end_s": 488.172087,
+    "start_s": 489.2431759999999,
+    "end_s": 490.9541959999999,
     "duration_s": 1.71102
   },
   {
@@ -896,8 +896,8 @@
     "speed": 1.0,
     "audio_description": "smooth, calm",
     "trailing_silence_s": 0.2,
-    "start_s": 488.172087,
-    "end_s": 490.798754,
+    "start_s": 490.9541959999999,
+    "end_s": 493.5808629999999,
     "duration_s": 2.626667
   },
   {
@@ -908,8 +908,8 @@
     "speed": 1.0,
     "audio_description": "uncertain",
     "trailing_silence_s": 0.1,
-    "start_s": 490.798754,
-    "end_s": 492.28691699999996,
+    "start_s": 493.5808629999999,
+    "end_s": 495.0690259999999,
     "duration_s": 1.488163
   },
   {
@@ -920,8 +920,8 @@
     "speed": 1.0,
     "audio_description": "smooth, dismissive",
     "trailing_silence_s": 0.2,
-    "start_s": 492.28691699999996,
-    "end_s": 494.33752899999996,
+    "start_s": 495.0690259999999,
+    "end_s": 497.1196379999999,
     "duration_s": 2.050612
   },
   {
@@ -932,8 +932,8 @@
     "speed": 1.0,
     "audio_description": "explanatory",
     "trailing_silence_s": 0.2,
-    "start_s": 494.33752899999996,
-    "end_s": 496.039298,
+    "start_s": 497.1196379999999,
+    "end_s": 498.8214069999999,
     "duration_s": 1.701769
   },
   {
@@ -944,9 +944,9 @@
     "speed": 1.0,
     "audio_description": "reassuring, philosophical",
     "trailing_silence_s": 0.3,
-    "start_s": 496.039298,
-    "end_s": 498.80576099999996,
-    "duration_s": 2.766463
+    "start_s": 498.8214069999999,
+    "end_s": 502.67446799999993,
+    "duration_s": 3.853061
   },
   {
     "character_identifier": "NARRATOR",
@@ -956,8 +956,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 498.80576099999996,
-    "end_s": 502.64576099999994,
+    "start_s": 502.67446799999993,
+    "end_s": 506.5144679999999,
     "duration_s": 3.84
   },
   {
@@ -968,8 +968,8 @@
     "speed": 1.0,
     "audio_description": "curious",
     "trailing_silence_s": 0.2,
-    "start_s": 502.64576099999994,
-    "end_s": 504.38290399999994,
+    "start_s": 506.5144679999999,
+    "end_s": 508.2516109999999,
     "duration_s": 1.737143
   },
   {
@@ -980,8 +980,8 @@
     "speed": 1.0,
     "audio_description": "informative, casual",
     "trailing_silence_s": 0.4,
-    "start_s": 504.38290399999994,
-    "end_s": 510.61310799999995,
+    "start_s": 508.2516109999999,
+    "end_s": 514.4818149999999,
     "duration_s": 6.230204
   },
   {
@@ -992,8 +992,8 @@
     "speed": 1.0,
     "audio_description": "concerned",
     "trailing_silence_s": 0.2,
-    "start_s": 510.61310799999995,
-    "end_s": 512.8727,
+    "start_s": 514.4818149999999,
+    "end_s": 516.7414069999999,
     "duration_s": 2.259592
   },
   {
@@ -1004,8 +1004,8 @@
     "speed": 1.0,
     "audio_description": "matter-of-fact",
     "trailing_silence_s": 0.3,
-    "start_s": 512.8727,
-    "end_s": 517.535557,
+    "start_s": 516.7414069999999,
+    "end_s": 521.4042639999999,
     "duration_s": 4.662857
   },
   {
@@ -1016,8 +1016,8 @@
     "speed": 1.0,
     "audio_description": "skeptical",
     "trailing_silence_s": 0.2,
-    "start_s": 517.535557,
-    "end_s": 519.048029,
+    "start_s": 521.4042639999999,
+    "end_s": 522.9167359999999,
     "duration_s": 1.512472
   },
   {
@@ -1028,8 +1028,8 @@
     "speed": 1.0,
     "audio_description": "logical",
     "trailing_silence_s": 0.2,
-    "start_s": 519.048029,
-    "end_s": 521.177009,
+    "start_s": 522.9167359999999,
+    "end_s": 525.0457159999999,
     "duration_s": 2.12898
   },
   {
@@ -1040,8 +1040,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 521.177009,
-    "end_s": 524.577009,
+    "start_s": 525.0457159999999,
+    "end_s": 528.4457159999998,
     "duration_s": 3.4
   },
   {
@@ -1052,8 +1052,8 @@
     "speed": 1.0,
     "audio_description": "inquisitive",
     "trailing_silence_s": 0.2,
-    "start_s": 524.577009,
-    "end_s": 526.430206,
+    "start_s": 528.4457159999998,
+    "end_s": 530.2989129999999,
     "duration_s": 1.853197
   },
   {
@@ -1064,8 +1064,8 @@
     "speed": 1.0,
     "audio_description": "logical, engaging",
     "trailing_silence_s": 0.2,
-    "start_s": 526.430206,
-    "end_s": 529.8130629999999,
+    "start_s": 530.2989129999999,
+    "end_s": 533.6817699999998,
     "duration_s": 3.382857
   },
   {
@@ -1076,8 +1076,8 @@
     "speed": 1.0,
     "audio_description": "agreeing",
     "trailing_silence_s": 0.1,
-    "start_s": 529.8130629999999,
-    "end_s": 531.0362379999999,
+    "start_s": 533.6817699999998,
+    "end_s": 534.9049449999998,
     "duration_s": 1.223175
   },
   {
@@ -1088,8 +1088,8 @@
     "speed": 1.0,
     "audio_description": "explanatory, logical",
     "trailing_silence_s": 0.4,
-    "start_s": 531.0362379999999,
-    "end_s": 541.7029049999999,
+    "start_s": 534.9049449999998,
+    "end_s": 545.5716119999997,
     "duration_s": 10.666667
   },
   {
@@ -1100,8 +1100,8 @@
     "speed": 1.0,
     "audio_description": "correcting",
     "trailing_silence_s": 0.2,
-    "start_s": 541.7029049999999,
-    "end_s": 543.9624969999999,
+    "start_s": 545.5716119999997,
+    "end_s": 547.8312039999997,
     "duration_s": 2.259592
   },
   {
@@ -1112,8 +1112,8 @@
     "speed": 1.0,
     "audio_description": "dismissive, inquiring",
     "trailing_silence_s": 0.3,
-    "start_s": 543.9624969999999,
-    "end_s": 547.5020889999998,
+    "start_s": 547.8312039999997,
+    "end_s": 551.3707959999997,
     "duration_s": 3.539592
   },
   {
@@ -1124,8 +1124,8 @@
     "speed": 1.0,
     "audio_description": "polite, regretful",
     "trailing_silence_s": 0.2,
-    "start_s": 547.5020889999998,
-    "end_s": 551.1346739999998,
+    "start_s": 551.3707959999997,
+    "end_s": 555.0033809999996,
     "duration_s": 3.632585
   },
   {
@@ -1136,21 +1136,21 @@
     "speed": 1.0,
     "audio_description": "mysterious",
     "trailing_silence_s": 0.2,
-    "start_s": 551.1346739999998,
-    "end_s": 552.2971229999998,
+    "start_s": 555.0033809999996,
+    "end_s": 556.1658299999997,
     "duration_s": 1.162449
   },
   {
     "character_identifier": "NARRATOR",
     "scene_identifier": "SCENE_WOOD_PATH",
     "ordinal": 95,
-    "text": "And vanished. Alice was not much surprised at this, she was getting so used to queer things happening. While she was looking at the place where it had been, it suddenly appeared again.",
+    "text": "And the Cat vanished. Alice was not much surprised at this, she was getting so used to queer things happening. While she was looking at the place where it had been, it suddenly appeared again.",
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
-    "start_s": 552.2971229999998,
-    "end_s": 563.0465109999998,
-    "duration_s": 10.749388
+    "start_s": 556.1658299999997,
+    "end_s": 567.3458299999996,
+    "duration_s": 11.18
   },
   {
     "character_identifier": "CHESHIRE_CAT",
@@ -1160,8 +1160,8 @@
     "speed": 1.0,
     "audio_description": "casual, curious",
     "trailing_silence_s": 0.3,
-    "start_s": 563.0465109999998,
-    "end_s": 567.2391639999997,
+    "start_s": 567.3458299999996,
+    "end_s": 571.5384829999996,
     "duration_s": 4.192653
   },
   {
@@ -1172,8 +1172,8 @@
     "speed": 1.0,
     "audio_description": "quiet, matter-of-fact",
     "trailing_silence_s": 0.2,
-    "start_s": 567.2391639999997,
-    "end_s": 568.7137669999997,
+    "start_s": 571.5384829999996,
+    "end_s": 573.0130859999996,
     "duration_s": 1.474603
   },
   {
@@ -1184,21 +1184,21 @@
     "speed": 1.0,
     "audio_description": "unsurprised",
     "trailing_silence_s": 0.2,
-    "start_s": 568.7137669999997,
-    "end_s": 569.7456039999997,
+    "start_s": 573.0130859999996,
+    "end_s": 574.0449229999996,
     "duration_s": 1.031837
   },
   {
     "character_identifier": "NARRATOR",
     "scene_identifier": "SCENE_WOOD_PATH",
     "ordinal": 99,
-    "text": "And vanished again. Alice waited a little, half expecting to see it again, but it did not appear, and after a minute or two she walked on in the direction in which the March Hare was said to live.",
+    "text": "And the Cat vanished again. Alice waited a little, half expecting to see it again, but it did not appear, and after a minute or two she walked on in the direction in which the March Hare was said to live.",
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
-    "start_s": 569.7456039999997,
-    "end_s": 580.2076449999997,
-    "duration_s": 10.462041
+    "start_s": 574.0449229999996,
+    "end_s": 585.7049229999996,
+    "duration_s": 11.66
   },
   {
     "character_identifier": "ALICE",
@@ -1208,8 +1208,8 @@
     "speed": 1.0,
     "audio_description": "internal thought",
     "trailing_silence_s": 0.3,
-    "start_s": 580.2076449999997,
-    "end_s": 589.1023389999997,
+    "start_s": 585.7049229999996,
+    "end_s": 594.5996169999995,
     "duration_s": 8.894694
   },
   {
@@ -1220,8 +1220,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 589.1023389999997,
-    "end_s": 594.0223389999996,
+    "start_s": 594.5996169999995,
+    "end_s": 599.5196169999995,
     "duration_s": 4.92
   },
   {
@@ -1232,9 +1232,9 @@
     "speed": 1.0,
     "audio_description": "calm, inquiring",
     "trailing_silence_s": 0.2,
-    "start_s": 594.0223389999996,
-    "end_s": 596.9690059999997,
-    "duration_s": 2.946667
+    "start_s": 599.5196169999995,
+    "end_s": 601.4918619999995,
+    "duration_s": 1.972245
   },
   {
     "character_identifier": "ALICE",
@@ -1244,8 +1244,8 @@
     "speed": 1.0,
     "audio_description": "annoyed",
     "trailing_silence_s": 0.3,
-    "start_s": 596.9690059999997,
-    "end_s": 602.3894139999996,
+    "start_s": 601.4918619999995,
+    "end_s": 606.9122699999995,
     "duration_s": 5.420408
   },
   {
@@ -1256,9 +1256,9 @@
     "speed": 1.0,
     "audio_description": "obliging",
     "trailing_silence_s": 0.1,
-    "start_s": 602.3894139999996,
-    "end_s": 603.0360809999996,
-    "duration_s": 0.646667
+    "start_s": 606.9122699999995,
+    "end_s": 607.6389369999995,
+    "duration_s": 0.726667
   },
   {
     "character_identifier": "NARRATOR",
@@ -1268,8 +1268,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
-    "start_s": 603.0360809999996,
-    "end_s": 611.7740399999997,
+    "start_s": 607.6389369999995,
+    "end_s": 616.3768959999995,
     "duration_s": 8.737959
   },
   {
@@ -1280,8 +1280,8 @@
     "speed": 1.0,
     "audio_description": "internal thought, amazed",
     "trailing_silence_s": 0.3,
-    "start_s": 611.7740399999997,
-    "end_s": 618.6050599999996,
+    "start_s": 616.3768959999995,
+    "end_s": 623.2079159999995,
     "duration_s": 6.83102
   },
   {
@@ -1292,8 +1292,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.4,
-    "start_s": 618.6050599999996,
-    "end_s": 643.7217949999996,
+    "start_s": 623.2079159999995,
+    "end_s": 648.3246509999994,
     "duration_s": 25.116735
   },
   {
@@ -1304,8 +1304,8 @@
     "speed": 1.0,
     "audio_description": "internal thought, hesitant",
     "trailing_silence_s": 0.5,
-    "start_s": 643.7217949999996,
-    "end_s": 649.5340399999995,
+    "start_s": 648.3246509999994,
+    "end_s": 654.1368959999994,
     "duration_s": 5.812245
   }
 ]

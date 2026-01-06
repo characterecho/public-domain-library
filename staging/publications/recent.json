@@ -1,5 +1,20 @@
 [
   {
+    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+    "title": "Alice's Adventures in Wonderland",
+    "author_names": "Lewis Carroll",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Fantasy",
+      "Surrealism",
+      "Portal Fantasy",
+      "Children's Literature",
+      "Classic Literature"
+    ],
+    "updated_at": "2026-01-06T21:24:45Z",
+    "data_checksum": "5ef58b6def6162c908a4095c80ad36c7829811674738b55fbc754cedb1d0bded"
+  },
+  {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
     "title": "The Velveteen Rabbit",
     "author_names": "Margery Williams Bianco",
@@ -28,21 +43,6 @@
     ],
     "updated_at": "2026-01-04T23:04:23Z",
     "data_checksum": "b36683117755259ff337a35fec35c3593d8b3ca2b4827629988bb64b989ac22e"
-  },
-  {
-    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
-    "title": "Alice's Adventures in Wonderland",
-    "author_names": "Lewis Carroll",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Fantasy",
-      "Surrealism",
-      "Portal Fantasy",
-      "Children's Literature",
-      "Classic Literature"
-    ],
-    "updated_at": "2026-01-03T16:37:23Z",
-    "data_checksum": "4347abfbafde220d78fb386080bfad133477348a87f660965b96bf2bd106dcb1"
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
