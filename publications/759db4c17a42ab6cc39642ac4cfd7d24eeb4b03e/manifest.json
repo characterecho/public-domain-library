@@ -2,11 +2,11 @@
   "title": "A Midsummer Night's Dream",
   "author_names": "William Shakespeare",
   "description": "Publication imported from https://gutenberg.org/ebooks/1514.epub3.images",
-  "epub_source": "http://www.gutenberg.org/1514",
+  "epub_source": "https://gutenberg.org/ebooks/1514.epub3.images",
   "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
   "publication_type": "play",
   "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
-  "total_duration_s": 6372.026761999999,
+  "total_duration_s": 6371.2766919999995,
   "genre_tags": [
     "Classics",
     "Play",
@@ -35,7 +35,7 @@
         "gender": "male",
         "voice_accent": "classical_british"
       },
-      "dialogue_count": 129,
+      "dialogue_count": 130,
       "image_key": null,
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/NARRATOR.mp3"
     },
@@ -778,7 +778,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/2/audio.mp3",
-      "duration_s": 751.2820019999996
+      "duration_s": 751.6988719999998
     },
     {
       "ordinal": 3,
@@ -794,7 +794,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/3/audio.mp3",
-      "duration_s": 294.74075199999993
+      "duration_s": 295.00197599999996
     },
     {
       "ordinal": 4,
@@ -802,7 +802,7 @@
       "metadata": {},
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/4/audio.mp3",
-      "duration_s": 1.84
+      "duration_s": 1.68
     },
     {
       "ordinal": 5,
@@ -818,7 +818,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/5/audio.mp3",
-      "duration_s": 804.3129049999998
+      "duration_s": 803.0447409999999
     },
     {
       "ordinal": 6,
