@@ -2,11 +2,11 @@
   "title": "A Midsummer Night's Dream",
   "author_names": "William Shakespeare",
   "description": "Publication imported from https://gutenberg.org/ebooks/1514.epub3.images",
-  "epub_source": "http://www.gutenberg.org/1514",
+  "epub_source": "https://gutenberg.org/ebooks/1514.epub3.images",
   "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
   "publication_type": "play",
   "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
-  "total_duration_s": 6372.026761999999,
+  "total_duration_s": 6381.630415999999,
   "genre_tags": [
     "Classics",
     "Play",
@@ -226,31 +226,31 @@
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/DEMETRIUS.mp3"
     },
     {
-      "identifier": "PUCK",
-      "name": "Puck",
+      "identifier": "QUINCE",
+      "name": "Peter Quince",
       "aliases": [
-        "Robin",
-        "Hobgoblin"
+        "Quince",
+        "Prologue"
       ],
       "voice_attributes": [
-        "mischievous",
-        "energetic",
-        "raspy"
+        "fussy",
+        "organized",
+        "earnest",
+        "nervous"
       ],
       "visual_attributes": [
-        "woodland sprite",
-        "wild tousled hair with twigs",
-        "pointed ears",
-        "glinting amber eyes",
-        "impish grin",
-        "ruddy skin with faint green tinge",
-        "rough fur-lined vest",
-        "holding a broom"
+        "thin pinched face",
+        "spectacles perched on nose",
+        "thinning grey hair",
+        "carpenter's apron",
+        "holding parchment scroll",
+        "ink-stained fingers",
+        "makeshift laurel crown",
+        "clutching script"
       ],
       "roles": [
-        "fairy",
-        "jester",
-        "servant"
+        "craftsman",
+        "director"
       ],
       "metadata": {
         "age_group": "middle_aged",
@@ -258,8 +258,8 @@
         "voice_accent": "rustic_british"
       },
       "dialogue_count": 48,
-      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.png",
-      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.mp3"
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.mp3"
     },
     {
       "identifier": "OBERON",
@@ -296,31 +296,31 @@
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.mp3"
     },
     {
-      "identifier": "QUINCE",
-      "name": "Peter Quince",
+      "identifier": "PUCK",
+      "name": "Puck",
       "aliases": [
-        "Quince",
-        "Prologue"
+        "Robin",
+        "Hobgoblin"
       ],
       "voice_attributes": [
-        "fussy",
-        "organized",
-        "earnest",
-        "nervous"
+        "mischievous",
+        "energetic",
+        "raspy"
       ],
       "visual_attributes": [
-        "thin pinched face",
-        "spectacles perched on nose",
-        "thinning grey hair",
-        "carpenter's apron",
-        "holding parchment scroll",
-        "ink-stained fingers",
-        "makeshift laurel crown",
-        "clutching script"
+        "woodland sprite",
+        "wild tousled hair with twigs",
+        "pointed ears",
+        "glinting amber eyes",
+        "impish grin",
+        "ruddy skin with faint green tinge",
+        "rough fur-lined vest",
+        "holding a broom"
       ],
       "roles": [
-        "craftsman",
-        "director"
+        "fairy",
+        "jester",
+        "servant"
       ],
       "metadata": {
         "age_group": "middle_aged",
@@ -328,8 +328,8 @@
         "voice_accent": "rustic_british"
       },
       "dialogue_count": 48,
-      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.png",
-      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/QUINCE.mp3"
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.mp3"
     },
     {
       "identifier": "TITANIA",
@@ -559,6 +559,36 @@
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNOUT.mp3"
     },
     {
+      "identifier": "MUSTARDSEED",
+      "name": "Mustardseed",
+      "aliases": [],
+      "voice_attributes": [
+        "alert",
+        "melodic",
+        "hushed"
+      ],
+      "visual_attributes": [
+        "woodland fairy",
+        "nut-brown complexion",
+        "wild mossy hair",
+        "bright green eyes",
+        "pointed ears",
+        "tunic of woven leaves"
+      ],
+      "roles": [
+        "fairy",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "classical_british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MUSTARDSEED.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MUSTARDSEED.mp3"
+    },
+    {
       "identifier": "STARVELING",
       "name": "Robin Starveling",
       "aliases": [
@@ -621,21 +651,21 @@
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PHILOSTRATE.mp3"
     },
     {
-      "identifier": "MUSTARDSEED",
-      "name": "Mustardseed",
+      "identifier": "COBWEB",
+      "name": "Cobweb",
       "aliases": [],
       "voice_attributes": [
-        "alert",
-        "melodic",
-        "hushed"
+        "delicate",
+        "whispering",
+        "light"
       ],
       "visual_attributes": [
-        "woodland fairy",
-        "nut-brown complexion",
-        "wild mossy hair",
-        "bright green eyes",
-        "pointed ears",
-        "tunic of woven leaves"
+        "ethereal fairy",
+        "pale greyish skin",
+        "silvery gossamer wings",
+        "large dark eyes",
+        "clothing resembling spider silk",
+        "slender frame"
       ],
       "roles": [
         "fairy",
@@ -643,12 +673,12 @@
       ],
       "metadata": {
         "age_group": "young",
-        "gender": "female",
+        "gender": "male",
         "voice_accent": "classical_british"
       },
-      "dialogue_count": 6,
-      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MUSTARDSEED.png",
-      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/MUSTARDSEED.mp3"
+      "dialogue_count": 5,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/COBWEB.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/COBWEB.mp3"
     },
     {
       "identifier": "SNUG",
@@ -685,36 +715,6 @@
       "dialogue_count": 5,
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNUG.png",
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/SNUG.mp3"
-    },
-    {
-      "identifier": "COBWEB",
-      "name": "Cobweb",
-      "aliases": [],
-      "voice_attributes": [
-        "delicate",
-        "whispering",
-        "light"
-      ],
-      "visual_attributes": [
-        "ethereal fairy",
-        "pale greyish skin",
-        "silvery gossamer wings",
-        "large dark eyes",
-        "clothing resembling spider silk",
-        "slender frame"
-      ],
-      "roles": [
-        "fairy",
-        "servant"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "classical_british"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/COBWEB.png",
-      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/COBWEB.mp3"
     },
     {
       "identifier": "MOTH",
@@ -778,7 +778,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/2/audio.mp3",
-      "duration_s": 751.2820019999996
+      "duration_s": 751.6988719999998
     },
     {
       "ordinal": 3,
@@ -794,7 +794,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/3/audio.mp3",
-      "duration_s": 294.74075199999993
+      "duration_s": 295.00197599999996
     },
     {
       "ordinal": 4,
@@ -802,7 +802,7 @@
       "metadata": {},
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/4/audio.mp3",
-      "duration_s": 1.84
+      "duration_s": 1.68
     },
     {
       "ordinal": 5,
@@ -818,7 +818,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/5/audio.mp3",
-      "duration_s": 804.3129049999998
+      "duration_s": 797.7418839999999
     },
     {
       "ordinal": 6,
@@ -834,7 +834,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/6/audio.mp3",
-      "duration_s": 489.43580699999995
+      "duration_s": 505.72735099999994
     },
     {
       "ordinal": 7,
@@ -874,7 +874,7 @@
       },
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/9/audio.mp3",
-      "duration_s": 1405.8744059999992
+      "duration_s": 1405.159442999999
     },
     {
       "ordinal": 10,
@@ -882,7 +882,7 @@
       "metadata": {},
       "background_key": null,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/segments/10/audio.mp3",
-      "duration_s": 1.72
+      "duration_s": 1.8
     },
     {
       "ordinal": 11,

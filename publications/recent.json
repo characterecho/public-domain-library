@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-08T12:24:17Z",
+    "data_checksum": "454c4e4425eadfd23b16d5fcf620d578634ea7713db37bac3421201986f52914",
+    "file_size": 179577865
+  },
+  {
     "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
     "title": "Alice's Adventures in Wonderland",
     "author_names": "Lewis Carroll",
@@ -28,21 +44,6 @@
     ],
     "updated_at": "2026-01-05T18:24:58Z",
     "data_checksum": "dbc319fab3fb29ce3824f06958dccae8fbbdb36351ee34c7be0af8eca80cf628"
-  },
-  {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Play",
-      "Comedy",
-      "Romance",
-      "Mythology"
-    ],
-    "updated_at": "2026-01-04T23:04:23Z",
-    "data_checksum": "b36683117755259ff337a35fec35c3593d8b3ca2b4827629988bb64b989ac22e"
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
