@@ -1,4 +1,5 @@
 {
+  "manifest_version": 2,
   "title": "The Velveteen Rabbit",
   "author_names": "Margery Williams Bianco",
   "description": "Publication imported from https://gutenberg.org/cache/epub/11757/pg11757.txt",
@@ -6,13 +7,178 @@
   "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
   "publication_type": "short_stories",
   "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
-  "total_duration_s": 1244.409208,
+  "total_duration_s": 1244.4092080000005,
   "genre_tags": [
     "Classics",
     "Children's Literature",
     "Fantasy",
     "Fable",
     "Toys"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 1244.4092080000005
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.279999999999999,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Prologue",
+      "start_s": 7.279999999999999,
+      "end_s": 55.733061,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CHRISTMAS_MORNING",
+            "location_header": "INT. SITTING ROOM - CHRISTMAS MORNING",
+            "visual_description": "An Edwardian family sitting room on Christmas morning. Warm, diffuse winter light filters through frosted windows. In the foreground, a knitted Christmas stocking hangs from a mantelpiece, stuffed with oranges and a brown and white velveteen rabbit. In the background, a decorated Christmas tree and discarded tissue paper are visible but soft. Rich festive reds, greens, and warm wood tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Christmas Morning",
+      "start_s": 55.733061,
+      "end_s": 239.474831,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "The Skin Horse Tells His Story",
+      "start_s": 239.474831,
+      "end_s": 435.16993300000007,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Spring Time",
+      "start_s": 435.16993300000007,
+      "end_s": 563.7745590000001,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
+          },
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - EVENING",
+            "visual_description": "A sun-dappled clearing in an English wood during a summer evening. Tall green bracken and ferns frame the foreground from a low, ground-level perspective (rabbit's eye view). Golden hour light filters through tree branches, creating soft dappled shadows on mossy ground. Vibrant greens, warm ambers, and earthy browns."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "Summer Days",
+      "start_s": 563.7745590000001,
+      "end_s": 895.5462850000005,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - EVENING",
+            "visual_description": "A sun-dappled clearing in an English wood during a summer evening. Tall green bracken and ferns frame the foreground from a low, ground-level perspective. Golden hour light filters through tree branches, creating soft dappled shadows on mossy ground. Vibrant greens, warm ambers, and earthy browns."
+          },
+          {
+            "identifier": "SCENE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A late Victorian nursery. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "Anxious Times",
+      "start_s": 895.5462850000005,
+      "end_s": 1096.0598910000006,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GARDEN_NIGHT",
+            "location_header": "EXT. GARDEN BEHIND FOWL-HOUSE - NIGHT",
+            "visual_description": "A moonlit garden corner behind a weathered wooden fowl-house. In the foreground, an untied sack sits among a tangle of raspberry canes and tall weeds. Deep blue shadows and cool silvery moonlight create a mysterious atmosphere. A single spot of magical light begins to glow near the ground. Earthy browns and greens in shadow."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "The Fairy Flower",
+      "start_s": 1096.0598910000006,
+      "end_s": 1199.8190050000007,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MAGIC_WOOD",
+            "location_header": "EXT. THE WOOD - NIGHT",
+            "visual_description": "A mystical clearing in the woods under bright moonlight. In the foreground, bracken fronds glisten like frosted silver against the dark earth. A central glade of smooth velvet grass is bathed in cool, blue-white lunar light, contrasting with the deep, mysterious shadows of the surrounding ancient tree trunks. The atmosphere is magical and serene, with a palette of silver, midnight blue, and charcoal gray."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "At Last! At Last!",
+      "start_s": 1199.8190050000007,
+      "end_s": 1244.4092080000005,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "An English woodland clearing in Spring, bathed in warm, bright sunlight. Fresh green ferns and bracken fronds frame the foreground from a low, ground-level perspective. Dappled light filters through new leaves on the trees. Soft earthy browns and vibrant fresh greens predominate."
+          }
+        ]
+      },
+      "background_key": null
+    }
   ],
   "characters": [
     {
@@ -233,154 +399,6 @@
       "dialogue_count": 1,
       "image_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/DOCTOR.png",
       "voice_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/characters/DOCTOR.mp3"
-    }
-  ],
-  "segments": [
-    {
-      "ordinal": 0,
-      "title": "Introduction",
-      "metadata": {},
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/0/audio.mp3",
-      "duration_s": 7.279999999999999
-    },
-    {
-      "ordinal": 1,
-      "title": "Prologue",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_CHRISTMAS_MORNING",
-            "location_header": "INT. SITTING ROOM - CHRISTMAS MORNING",
-            "visual_description": "An Edwardian family sitting room on Christmas morning. Warm, diffuse winter light filters through frosted windows. In the foreground, a knitted Christmas stocking hangs from a mantelpiece, stuffed with oranges and a brown and white velveteen rabbit. In the background, a decorated Christmas tree and discarded tissue paper are visible but soft. Rich festive reds, greens, and warm wood tones."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/1/audio.mp3",
-      "duration_s": 48.453061
-    },
-    {
-      "ordinal": 2,
-      "title": "Christmas Morning",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_NURSERY",
-            "location_header": "INT. NURSERY - DAY",
-            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/2/audio.mp3",
-      "duration_s": 183.74176999999997
-    },
-    {
-      "ordinal": 3,
-      "title": "The Skin Horse Tells His Story",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_NURSERY",
-            "location_header": "INT. NURSERY - DAY",
-            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/3/audio.mp3",
-      "duration_s": 195.695102
-    },
-    {
-      "ordinal": 4,
-      "title": "Spring Time",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_NURSERY",
-            "location_header": "INT. NURSERY - DAY",
-            "visual_description": "A late Victorian nursery bathed in warm afternoon light. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
-          },
-          {
-            "identifier": "SCENE_WOOD",
-            "location_header": "EXT. THE WOOD - EVENING",
-            "visual_description": "A sun-dappled clearing in an English wood during a summer evening. Tall green bracken and ferns frame the foreground from a low, ground-level perspective (rabbit's eye view). Golden hour light filters through tree branches, creating soft dappled shadows on mossy ground. Vibrant greens, warm ambers, and earthy browns."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/4/audio.mp3",
-      "duration_s": 128.60462600000002
-    },
-    {
-      "ordinal": 5,
-      "title": "Summer Days",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_WOOD",
-            "location_header": "EXT. THE WOOD - EVENING",
-            "visual_description": "A sun-dappled clearing in an English wood during a summer evening. Tall green bracken and ferns frame the foreground from a low, ground-level perspective. Golden hour light filters through tree branches, creating soft dappled shadows on mossy ground. Vibrant greens, warm ambers, and earthy browns."
-          },
-          {
-            "identifier": "SCENE_NURSERY",
-            "location_header": "INT. NURSERY - DAY",
-            "visual_description": "A late Victorian nursery. A high metal fender guards a coal fireplace in the background. A wooden toy cupboard stands open near scuffed floorboards. In the foreground, a worn rug is scattered with toys. Soft browns, creams, and faded vintage colors."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/5/audio.mp3",
-      "duration_s": 331.77172600000006
-    },
-    {
-      "ordinal": 6,
-      "title": "Anxious Times",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_GARDEN_NIGHT",
-            "location_header": "EXT. GARDEN BEHIND FOWL-HOUSE - NIGHT",
-            "visual_description": "A moonlit garden corner behind a weathered wooden fowl-house. In the foreground, an untied sack sits among a tangle of raspberry canes and tall weeds. Deep blue shadows and cool silvery moonlight create a mysterious atmosphere. A single spot of magical light begins to glow near the ground. Earthy browns and greens in shadow."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/6/audio.mp3",
-      "duration_s": 200.51360599999995
-    },
-    {
-      "ordinal": 7,
-      "title": "The Fairy Flower",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_MAGIC_WOOD",
-            "location_header": "EXT. THE WOOD - NIGHT",
-            "visual_description": "A mystical clearing in the woods under bright moonlight. In the foreground, bracken fronds glisten like frosted silver against the dark earth. A central glade of smooth velvet grass is bathed in cool, blue-white lunar light, contrasting with the deep, mysterious shadows of the surrounding ancient tree trunks. The atmosphere is magical and serene, with a palette of silver, midnight blue, and charcoal gray."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/7/audio.mp3",
-      "duration_s": 103.759114
-    },
-    {
-      "ordinal": 8,
-      "title": "At Last! At Last!",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_WOOD",
-            "location_header": "EXT. THE WOOD - DAY",
-            "visual_description": "An English woodland clearing in Spring, bathed in warm, bright sunlight. Fresh green ferns and bracken fronds frame the foreground from a low, ground-level perspective. Dappled light filters through new leaves on the trees. Soft earthy browns and vibrant fresh greens predominate."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/segments/8/audio.mp3",
-      "duration_s": 44.590203
     }
   ],
   "scenes": [
