@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+    "title": "Romeo and Juliet",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Tragedy",
+      "Romance",
+      "Play",
+      "Shakespearean"
+    ],
+    "updated_at": "2026-01-08T22:43:50Z",
+    "data_checksum": "db08a65f946561165a64d40e2507952d45206be67f3da7ea3e829e0735236197",
+    "file_size": 416168462
+  },
+  {
     "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
     "title": "Alice's Adventures in Wonderland",
     "author_names": "Lewis Carroll",
@@ -94,22 +110,6 @@
     "updated_at": "2026-01-08T22:02:20Z",
     "data_checksum": "87e8c0c9711d564e036dd861a0a471df5360e450e39e6eab3f72a1ca8d65b90a",
     "file_size": 179583438
-  },
-  {
-    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
-    "title": "Romeo and Juliet",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Tragedy",
-      "Romance",
-      "Play",
-      "Shakespearean"
-    ],
-    "updated_at": "2025-12-30T21:35:27Z",
-    "data_checksum": "1e08c6818283f20c7bc23f585a6b50e3b6890b10fd659ce40f02768d42ed84f8",
-    "file_size": 416162761
   },
   {
     "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
