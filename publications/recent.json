@@ -28,7 +28,8 @@
       "Classic Literature"
     ],
     "updated_at": "2026-01-06T21:24:45Z",
-    "data_checksum": "5ef58b6def6162c908a4095c80ad36c7829811674738b55fbc754cedb1d0bded"
+    "data_checksum": "5ef58b6def6162c908a4095c80ad36c7829811674738b55fbc754cedb1d0bded",
+    "file_size": 260677968
   },
   {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
@@ -43,7 +44,8 @@
       "Toys"
     ],
     "updated_at": "2026-01-05T18:24:58Z",
-    "data_checksum": "dbc319fab3fb29ce3824f06958dccae8fbbdb36351ee34c7be0af8eca80cf628"
+    "data_checksum": "dbc319fab3fb29ce3824f06958dccae8fbbdb36351ee34c7be0af8eca80cf628",
+    "file_size": 79420501
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
@@ -58,7 +60,8 @@
       "Psychological Fiction"
     ],
     "updated_at": "2026-01-03T14:01:34Z",
-    "data_checksum": "8cd3e9da6ce1524fd383e6ea782d07a66ed590ba5c9a79d323759a1e05788dd2"
+    "data_checksum": "8cd3e9da6ce1524fd383e6ea782d07a66ed590ba5c9a79d323759a1e05788dd2",
+    "file_size": 223454049
   },
   {
     "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
@@ -73,7 +76,8 @@
       "Mystery"
     ],
     "updated_at": "2026-01-03T13:19:42Z",
-    "data_checksum": "6e81ebeada48eadda5781f6d2acd5061fb5019f9b7bcc1d5b7143fbec8528ac1"
+    "data_checksum": "6e81ebeada48eadda5781f6d2acd5061fb5019f9b7bcc1d5b7143fbec8528ac1",
+    "file_size": 86718387
   },
   {
     "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
@@ -88,7 +92,8 @@
       "Supernatural"
     ],
     "updated_at": "2026-01-02T14:16:23Z",
-    "data_checksum": "8db946b695a940ece66a9e55636b1757072714c74fc01c822b704d613251111d"
+    "data_checksum": "8db946b695a940ece66a9e55636b1757072714c74fc01c822b704d613251111d",
+    "file_size": 154852707
   },
   {
     "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
@@ -103,7 +108,8 @@
       "Shakespearean"
     ],
     "updated_at": "2025-12-30T21:35:27Z",
-    "data_checksum": "1e08c6818283f20c7bc23f585a6b50e3b6890b10fd659ce40f02768d42ed84f8"
+    "data_checksum": "1e08c6818283f20c7bc23f585a6b50e3b6890b10fd659ce40f02768d42ed84f8",
+    "file_size": 416162761
   },
   {
     "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
@@ -118,6 +124,7 @@
       "Supernatural"
     ],
     "updated_at": "2025-12-30T21:35:27Z",
-    "data_checksum": "07dd8601dbc51172a3960128631534be1765708757fc1c0b01904321a88dd34b"
+    "data_checksum": "07dd8601dbc51172a3960128631534be1765708757fc1c0b01904321a88dd34b",
+    "file_size": 221051236
   }
 ]
