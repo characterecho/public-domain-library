@@ -1,4 +1,5 @@
 {
+  "manifest_version": 2,
   "title": "Alice's Adventures in Wonderland",
   "author_names": "Lewis Carroll",
   "description": "EPUB imported from https://gutenberg.org/ebooks/11.epub3.images",
@@ -6,13 +7,282 @@
   "identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
   "publication_type": "novel",
   "cover_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/cover.png",
-  "total_duration_s": 7177.089787,
+  "total_duration_s": 7177.089787000006,
   "genre_tags": [
     "Fantasy",
     "Surrealism",
     "Portal Fantasy",
     "Children's Literature",
     "Classic Literature"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3597.242099000004
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/audio_part_1.mp3",
+      "start_s": 3597.242099000004,
+      "end_s": 7177.089787000006
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.05102,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I. Down the Rabbit-Hole",
+      "start_s": 7.05102,
+      "end_s": 608.560706,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RABBIT_HOLE",
+            "location_header": "INT. RABBIT HOLE - DAY",
+            "visual_description": "A surreal, vertical Victorian well shaft descending into darkness. The curved earthen walls are lined with domestic clutter: dark wood cupboards, bookshelves, and hung maps. Dim, mysterious lighting from above fades into deep shadow below. Muted browns and cooler shadows create a disorienting, dreamlike atmosphere."
+          },
+          {
+            "identifier": "SCENE_LONG_HALL",
+            "location_header": "INT. LONG HALL - UNDERGROUND",
+            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II. The Pool of Tears",
+      "start_s": 608.560706,
+      "end_s": 1162.9549670000001,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONG_HALL",
+            "location_header": "INT. LONG HALL - UNDERGROUND",
+            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
+          },
+          {
+            "identifier": "SCENE_POOL_OF_TEARS",
+            "location_header": "INT. POOL OF TEARS - UNDERGROUND",
+            "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III. A Caucus-Race and a Long Tale",
+      "start_s": 1162.9549670000001,
+      "end_s": 1637.9220430000003,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_POOL_OF_TEARS",
+            "location_header": "INT. POOL OF TEARS - UNDERGROUND",
+            "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV. The Rabbit Sends in a Little Bill",
+      "start_s": 1637.9220430000003,
+      "end_s": 2364.764928000001,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RABBIT_HOUSE",
+            "location_header": "EXT/INT. WHITE RABBIT'S HOUSE - DAY",
+            "visual_description": "A neat Victorian cottage seen first from the exterior, then shifting to a cramped upper bedroom. Sunlight streams through a small sash window, illuminating a looking-glass and tiny furniture. The perspective is claustrophobic, dominated by the sense of an oversized presence filling the space. Bright whites, pastel yellows, and wood tones contrast with the chaotic, cramped atmosphere."
+          },
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V. Advice from a Caterpillar",
+      "start_s": 2364.764928000001,
+      "end_s": 2943.1052030000037,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WOOD",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI. Pig and Pepper",
+      "start_s": 2943.1052030000037,
+      "end_s": 3597.242099000004,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DUCHESS_EXT",
+            "location_header": "EXT. DUCHESS'S HOUSE - DAY",
+            "visual_description": "A chaotic Victorian cottage exterior nestled at the edge of a dark wood. The front door is large, imposing, and framed by heavy timber. Sunlight dapples the forest floor, contrasting with the solid, somewhat foreboding architecture of the house. Earthy browns, forest greens, and stone greys."
+          },
+          {
+            "identifier": "SCENE_DUCHESS_KITCHEN",
+            "location_header": "INT. DUCHESS'S KITCHEN - DAY",
+            "visual_description": "A chaotic Victorian kitchen filled with haze and pungent smoke. A large open fireplace with a bubbling cauldron dominates the wall, casting a flickering orange glow. A three-legged stool sits in the center of the soot-stained room. The atmosphere is stifling, cluttered, and tense."
+          },
+          {
+            "identifier": "SCENE_WOOD_PATH",
+            "location_header": "EXT. THE WOOD - DAY",
+            "visual_description": "A winding path through a dense English forest. Ancient trees with gnarled branches create a high canopy, allowing shafts of afternoon sunlight to filter through. Lush ferns and moss cover the ground. The atmosphere is surreal but calmer than the house, with rich greens and soft shadows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII. A Mad Tea-Party",
+      "start_s": 3597.242099000004,
+      "end_s": 4197.318156000005,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TEA_PARTY",
+            "location_header": "EXT. MAD TEA PARTY - DAY",
+            "visual_description": "A chaotic Victorian tea party set beneath a large ancient tree in a dappled forest clearing. A long table draped in white cloth stretches out, piled high with mismatched china, teapots, and half-eaten food. Sunlight filters through leaves, creating a whimsical but slightly unkempt atmosphere. Warm greens, creams, and porcelain whites."
+          },
+          {
+            "identifier": "SCENE_LONG_HALL",
+            "location_header": "INT. LONG HALL - UNDERGROUND",
+            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII. The Queen’s Croquet-Ground",
+      "start_s": 4197.318156000005,
+      "end_s": 4902.546323000005,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CROQUET_GROUND",
+            "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
+            "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX. The Mock Turtle’s Story",
+      "start_s": 4902.546323000005,
+      "end_s": 5488.846236000005,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CROQUET_GROUND",
+            "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
+            "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds."
+          },
+          {
+            "identifier": "SCENE_ROCKY_LEDGE",
+            "location_header": "EXT. ROCKY LEDGE - DAY",
+            "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X. The Lobster Quadrille",
+      "start_s": 5488.846236000005,
+      "end_s": 6069.884899,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ROCKY_LEDGE",
+            "location_header": "EXT. ROCKY LEDGE - DAY",
+            "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER XI. Who Stole the Tarts?",
+      "start_s": 6069.884899,
+      "end_s": 6582.442505000004,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_COURTROOM",
+            "location_header": "INT. COURTROOM - DAY",
+            "visual_description": "A grand Victorian courtroom packed with a chaotic assembly of birds, beasts, and playing cards. The King and Queen of Hearts sit on an elevated crimson throne. A jury box is filled with small animals scribbling on slates. In the center stands a table displaying a large dish of tarts. The atmosphere is tense and absurd, lit by high windows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XII. Alice’s Evidence",
+      "start_s": 6582.442505000004,
+      "end_s": 7177.089787000006,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_COURTROOM",
+            "location_header": "INT. COURTROOM - DAY",
+            "visual_description": "A chaotic Victorian courtroom in disarray. A wooden jury box is tipped over, spilling slate pencils and papers. The King and Queen sit on high crimson thrones in the background. High windows let in bright, harsh daylight. The atmosphere is frantic and absurd."
+          },
+          {
+            "identifier": "SCENE_RIVERBANK",
+            "location_header": "EXT. RIVERBANK - SUNSET",
+            "visual_description": "A peaceful English riverbank bathed in the golden light of a setting sun. Long green grass and reeds sway in the foreground. An old tree offers shade. The mood is nostalgic, warm, and pastoral with soft earth tones and amber light."
+          }
+        ]
+      },
+      "background_key": null
+    }
   ],
   "characters": [
     {
@@ -1021,248 +1291,6 @@
       "dialogue_count": 1,
       "image_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_EAGLET.png",
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/THE_EAGLET.mp3"
-    }
-  ],
-  "segments": [
-    {
-      "ordinal": 0,
-      "title": "Introduction",
-      "metadata": {},
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/0/audio.mp3",
-      "duration_s": 7.05102
-    },
-    {
-      "ordinal": 1,
-      "title": "CHAPTER I. Down the Rabbit-Hole",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_RABBIT_HOLE",
-            "location_header": "INT. RABBIT HOLE - DAY",
-            "visual_description": "A surreal, vertical Victorian well shaft descending into darkness. The curved earthen walls are lined with domestic clutter: dark wood cupboards, bookshelves, and hung maps. Dim, mysterious lighting from above fades into deep shadow below. Muted browns and cooler shadows create a disorienting, dreamlike atmosphere."
-          },
-          {
-            "identifier": "SCENE_LONG_HALL",
-            "location_header": "INT. LONG HALL - UNDERGROUND",
-            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/1/audio.mp3",
-      "duration_s": 601.509686
-    },
-    {
-      "ordinal": 2,
-      "title": "CHAPTER II. The Pool of Tears",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_LONG_HALL",
-            "location_header": "INT. LONG HALL - UNDERGROUND",
-            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
-          },
-          {
-            "identifier": "SCENE_POOL_OF_TEARS",
-            "location_header": "INT. POOL OF TEARS - UNDERGROUND",
-            "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/2/audio.mp3",
-      "duration_s": 554.3942610000001
-    },
-    {
-      "ordinal": 3,
-      "title": "CHAPTER III. A Caucus-Race and a Long Tale",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_POOL_OF_TEARS",
-            "location_header": "INT. POOL OF TEARS - UNDERGROUND",
-            "visual_description": "A surreal, vast subterranean body of salt water filling the Victorian hall. The dark water stretches out, reflecting the dim light of hanging lamps high above. In the distance, a muddy shoreline is visible. Cool blues, murky greens, and deep shadows create a damp, melancholic atmosphere."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/3/audio.mp3",
-      "duration_s": 474.9670759999999
-    },
-    {
-      "ordinal": 4,
-      "title": "CHAPTER IV. The Rabbit Sends in a Little Bill",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_RABBIT_HOUSE",
-            "location_header": "EXT/INT. WHITE RABBIT'S HOUSE - DAY",
-            "visual_description": "A neat Victorian cottage seen first from the exterior, then shifting to a cramped upper bedroom. Sunlight streams through a small sash window, illuminating a looking-glass and tiny furniture. The perspective is claustrophobic, dominated by the sense of an oversized presence filling the space. Bright whites, pastel yellows, and wood tones contrast with the chaotic, cramped atmosphere."
-          },
-          {
-            "identifier": "SCENE_WOOD",
-            "location_header": "EXT. THE WOOD - DAY",
-            "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/4/audio.mp3",
-      "duration_s": 726.8428849999999
-    },
-    {
-      "ordinal": 5,
-      "title": "CHAPTER V. Advice from a Caterpillar",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_WOOD",
-            "location_header": "EXT. THE WOOD - DAY",
-            "visual_description": "A towering forest floor viewed from a microscopic perspective. Enormous blades of grass and wildflowers rise like trees above, creating a green canopy dappled with filtered sunlight. In the clearing stands a large mushroom with a blue tint. The atmosphere is vibrant but overwhelming, with rich greens, earthy browns, and soft diffused light."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/5/audio.mp3",
-      "duration_s": 578.3402749999999
-    },
-    {
-      "ordinal": 6,
-      "title": "CHAPTER VI. Pig and Pepper",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_DUCHESS_EXT",
-            "location_header": "EXT. DUCHESS'S HOUSE - DAY",
-            "visual_description": "A chaotic Victorian cottage exterior nestled at the edge of a dark wood. The front door is large, imposing, and framed by heavy timber. Sunlight dapples the forest floor, contrasting with the solid, somewhat foreboding architecture of the house. Earthy browns, forest greens, and stone greys."
-          },
-          {
-            "identifier": "SCENE_DUCHESS_KITCHEN",
-            "location_header": "INT. DUCHESS'S KITCHEN - DAY",
-            "visual_description": "A chaotic Victorian kitchen filled with haze and pungent smoke. A large open fireplace with a bubbling cauldron dominates the wall, casting a flickering orange glow. A three-legged stool sits in the center of the soot-stained room. The atmosphere is stifling, cluttered, and tense."
-          },
-          {
-            "identifier": "SCENE_WOOD_PATH",
-            "location_header": "EXT. THE WOOD - DAY",
-            "visual_description": "A winding path through a dense English forest. Ancient trees with gnarled branches create a high canopy, allowing shafts of afternoon sunlight to filter through. Lush ferns and moss cover the ground. The atmosphere is surreal but calmer than the house, with rich greens and soft shadows."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/6/audio.mp3",
-      "duration_s": 654.1368959999994
-    },
-    {
-      "ordinal": 7,
-      "title": "CHAPTER VII. A Mad Tea-Party",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_TEA_PARTY",
-            "location_header": "EXT. MAD TEA PARTY - DAY",
-            "visual_description": "A chaotic Victorian tea party set beneath a large ancient tree in a dappled forest clearing. A long table draped in white cloth stretches out, piled high with mismatched china, teapots, and half-eaten food. Sunlight filters through leaves, creating a whimsical but slightly unkempt atmosphere. Warm greens, creams, and porcelain whites."
-          },
-          {
-            "identifier": "SCENE_LONG_HALL",
-            "location_header": "INT. LONG HALL - UNDERGROUND",
-            "visual_description": "A long, low-ceilinged hallway lit by a row of warm hanging lamps. Lined with many locked wooden doors. In the foreground, a three-legged table made of solid glass with a tiny golden key on top. Warm artificial light contrasts with somewhat gloomy corners. Curious, slightly claustrophobic atmosphere."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/7/audio.mp3",
-      "duration_s": 600.076057
-    },
-    {
-      "ordinal": 8,
-      "title": "CHAPTER VIII. The Queen’s Croquet-Ground",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_CROQUET_GROUND",
-            "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
-            "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/8/audio.mp3",
-      "duration_s": 705.2281670000001
-    },
-    {
-      "ordinal": 9,
-      "title": "CHAPTER IX. The Mock Turtle’s Story",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_CROQUET_GROUND",
-            "location_header": "EXT. QUEEN'S CROQUET GROUND - DAY",
-            "visual_description": "A surreal Victorian formal garden under bright, somewhat harsh afternoon light. Manicured hedges and rigid furrows line the ground. A large rose-tree stands prominently, its blossoms a mix of natural white and dripping red paint. In the background, manicured lawns stretch out towards distant pavilions. Vibrant greens, stark whites, and blood reds."
-          },
-          {
-            "identifier": "SCENE_ROCKY_LEDGE",
-            "location_header": "EXT. ROCKY LEDGE - DAY",
-            "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/9/audio.mp3",
-      "duration_s": 586.2999130000003
-    },
-    {
-      "ordinal": 10,
-      "title": "CHAPTER X. The Lobster Quadrille",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_ROCKY_LEDGE",
-            "location_header": "EXT. ROCKY LEDGE - DAY",
-            "visual_description": "A lonely, sun-drenched rocky ledge overlooking a calm sea. Large, weathered boulders scatter the sandy foreground. To the side, jagged rocks form a natural seat. The light is bright but carries a melancholic stillness. Muted greys of the stone contrast with pale sand yellows and the soft blue of the distant horizon."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/10/audio.mp3",
-      "duration_s": 581.0386630000002
-    },
-    {
-      "ordinal": 11,
-      "title": "CHAPTER XI. Who Stole the Tarts?",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_COURTROOM",
-            "location_header": "INT. COURTROOM - DAY",
-            "visual_description": "A grand Victorian courtroom packed with a chaotic assembly of birds, beasts, and playing cards. The King and Queen of Hearts sit on an elevated crimson throne. A jury box is filled with small animals scribbling on slates. In the center stands a table displaying a large dish of tarts. The atmosphere is tense and absurd, lit by high windows."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/11/audio.mp3",
-      "duration_s": 512.557606
-    },
-    {
-      "ordinal": 12,
-      "title": "CHAPTER XII. Alice’s Evidence",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_COURTROOM",
-            "location_header": "INT. COURTROOM - DAY",
-            "visual_description": "A chaotic Victorian courtroom in disarray. A wooden jury box is tipped over, spilling slate pencils and papers. The King and Queen sit on high crimson thrones in the background. High windows let in bright, harsh daylight. The atmosphere is frantic and absurd."
-          },
-          {
-            "identifier": "SCENE_RIVERBANK",
-            "location_header": "EXT. RIVERBANK - SUNSET",
-            "visual_description": "A peaceful English riverbank bathed in the golden light of a setting sun. Long green grass and reeds sway in the foreground. An old tree offers shade. The mood is nostalgic, warm, and pastoral with soft earth tones and amber light."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/segments/12/audio.mp3",
-      "duration_s": 594.6472819999999
     }
   ],
   "scenes": [
