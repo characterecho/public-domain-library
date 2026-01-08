@@ -7,7 +7,7 @@
   "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
   "publication_type": "play",
   "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
-  "total_duration_s": 6381.6304160000145,
+  "total_duration_s": 6376.016485,
   "genre_tags": [
     "Classics",
     "Play",
@@ -20,13 +20,13 @@
       "ordinal": 0,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2962.2406350000015
+      "end_s": 2959.613605
     },
     {
       "ordinal": 1,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/audio_part_1.mp3",
-      "start_s": 2962.2406350000015,
-      "end_s": 6381.6304160000145
+      "start_s": 2959.613605,
+      "end_s": 6376.016485
     }
   ],
   "segments": [
