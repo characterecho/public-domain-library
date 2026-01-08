@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-08T23:02:06Z",
+    "data_checksum": "cb27c117014b57ef9ee129a189acb86bc17856a3c70721886b3ae88ccc8d6486",
+    "file_size": 179583452
+  },
+  {
     "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
     "title": "A Christmas Carol",
     "author_names": "Charles Dickens",
@@ -110,21 +126,5 @@
     "updated_at": "2026-01-08T22:37:18Z",
     "data_checksum": "5f86167556b0b2f9f711014da2df21c6fdad9232309ef1b871c4c1cfad49bf25",
     "file_size": 223453502
-  },
-  {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Play",
-      "Comedy",
-      "Romance",
-      "Mythology"
-    ],
-    "updated_at": "2026-01-08T22:02:20Z",
-    "data_checksum": "87e8c0c9711d564e036dd861a0a471df5360e450e39e6eab3f72a1ca8d65b90a",
-    "file_size": 179583438
   }
 ]
