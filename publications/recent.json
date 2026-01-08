@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+    "title": "Daisy Miller: A Study",
+    "author_names": "Henry James",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Realism",
+      "Social Manners",
+      "19th Century",
+      "Psychological Fiction"
+    ],
+    "updated_at": "2026-01-08T22:37:18Z",
+    "data_checksum": "5f86167556b0b2f9f711014da2df21c6fdad9232309ef1b871c4c1cfad49bf25",
+    "file_size": 223453502
+  },
+  {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
     "title": "A Midsummer Night's Dream",
     "author_names": "William Shakespeare",
@@ -46,22 +62,6 @@
     "updated_at": "2026-01-05T18:24:58Z",
     "data_checksum": "dbc319fab3fb29ce3824f06958dccae8fbbdb36351ee34c7be0af8eca80cf628",
     "file_size": 79420501
-  },
-  {
-    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
-    "title": "Daisy Miller: A Study",
-    "author_names": "Henry James",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Realism",
-      "Social Manners",
-      "19th Century",
-      "Psychological Fiction"
-    ],
-    "updated_at": "2026-01-03T14:01:34Z",
-    "data_checksum": "8cd3e9da6ce1524fd383e6ea782d07a66ed590ba5c9a79d323759a1e05788dd2",
-    "file_size": 223454049
   },
   {
     "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
