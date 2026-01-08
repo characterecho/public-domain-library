@@ -1,8 +1,20 @@
 [
   {
     "character_identifier": "NARRATOR",
-    "scene_identifier": "QUINCE_WORKSHOP",
+    "scene_identifier": null,
     "ordinal": 0,
+    "text": "",
+    "speed": 1.0,
+    "audio_description": "",
+    "trailing_silence_s": 0.5,
+    "start_s": 0.0,
+    "end_s": 0.0,
+    "duration_s": 0.0
+  },
+  {
+    "character_identifier": "NARRATOR",
+    "scene_identifier": "QUINCE_WORKSHOP",
+    "ordinal": 1,
     "text": "Sunlight streams into Peter Quince's workshop, but the mood is far from bright. Quince, Flute, Snout, and Starveling pace amidst the sawdust, their faces etched with worry.",
     "speed": 1.0,
     "audio_description": "narrative",
@@ -14,7 +26,7 @@
   {
     "character_identifier": "QUINCE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 1,
+    "ordinal": 2,
     "text": "Have you sent to Bottom’s house? Is he come home yet?",
     "speed": 1.0,
     "audio_description": "anxious, pacing",
@@ -26,7 +38,7 @@
   {
     "character_identifier": "STARVELING",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 2,
+    "ordinal": 3,
     "text": "He cannot be heard of. Out of doubt he is transported.",
     "speed": 1.0,
     "audio_description": "grave, worried",
@@ -38,7 +50,7 @@
   {
     "character_identifier": "FLUTE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 3,
+    "ordinal": 4,
     "text": "If he come not, then the play is marred. It goes not forward, doth it?",
     "speed": 1.0,
     "audio_description": "distressed, high-pitched",
@@ -50,7 +62,7 @@
   {
     "character_identifier": "QUINCE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 4,
+    "ordinal": 5,
     "text": "It is not possible. You have not a man in all Athens able to discharge Pyramus but he.",
     "speed": 1.0,
     "audio_description": "insistent, shaking head",
@@ -62,7 +74,7 @@
   {
     "character_identifier": "FLUTE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 5,
+    "ordinal": 6,
     "text": "No, he hath simply the best wit of any handicraft man in Athens.",
     "speed": 1.0,
     "audio_description": "admiring, earnest",
@@ -74,7 +86,7 @@
   {
     "character_identifier": "QUINCE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 6,
+    "ordinal": 7,
     "text": "Yea, and the best person too, and he is a very paramour for a sweet voice.",
     "speed": 1.0,
     "audio_description": "proud, praising",
@@ -86,7 +98,7 @@
   {
     "character_identifier": "FLUTE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 7,
+    "ordinal": 8,
     "text": "You must say paragon. A paramour is, God bless us, a thing of naught.",
     "speed": 1.0,
     "audio_description": "correcting, shocked",
@@ -98,7 +110,7 @@
   {
     "character_identifier": "NARRATOR",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 8,
+    "ordinal": 9,
     "text": "Snug the Joiner bursts through the workshop door, breathless and wide-eyed.",
     "speed": 1.0,
     "audio_description": "narrative",
@@ -110,7 +122,7 @@
   {
     "character_identifier": "SNUG",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 9,
+    "ordinal": 10,
     "text": "Masters, the Duke is coming from the temple, and there is two or three lords and ladies more married. If our sport had gone forward, we had all been made men.",
     "speed": 1.0,
     "audio_description": "breathless, excited",
@@ -122,7 +134,7 @@
   {
     "character_identifier": "FLUTE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 10,
+    "ordinal": 11,
     "text": "O sweet bully Bottom! Thus hath he lost sixpence a day during his life; he could not have ’scaped sixpence a day. An the Duke had not given him sixpence a day for playing Pyramus, I’ll be hanged. He would have deserved it: sixpence a day in Pyramus, or nothing.",
     "speed": 1.0,
     "audio_description": "mournful, lamenting",
@@ -134,7 +146,7 @@
   {
     "character_identifier": "NARRATOR",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 11,
+    "ordinal": 12,
     "text": "Suddenly, the door swings open again. Nick Bottom stands there, grinning broad and entirely human.",
     "speed": 1.0,
     "audio_description": "narrative",
@@ -146,7 +158,7 @@
   {
     "character_identifier": "BOTTOM",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 12,
+    "ordinal": 13,
     "text": "Where are these lads? Where are these hearts?",
     "speed": 1.0,
     "audio_description": "boisterous, cheerful",
@@ -158,7 +170,7 @@
   {
     "character_identifier": "QUINCE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 13,
+    "ordinal": 14,
     "text": "Bottom! O most courageous day! O most happy hour!",
     "speed": 1.0,
     "audio_description": "overjoyed, relieved",
@@ -170,7 +182,7 @@
   {
     "character_identifier": "BOTTOM",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 14,
+    "ordinal": 15,
     "text": "Masters, I am to discourse wonders: but ask me not what; for if I tell you, I am not true Athenian. I will tell you everything, right as it fell out.",
     "speed": 1.0,
     "audio_description": "mysterious, bursting",
@@ -182,7 +194,7 @@
   {
     "character_identifier": "QUINCE",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 15,
+    "ordinal": 16,
     "text": "Let us hear, sweet Bottom.",
     "speed": 1.0,
     "audio_description": "eager, leaning in",
@@ -194,7 +206,7 @@
   {
     "character_identifier": "BOTTOM",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 16,
+    "ordinal": 17,
     "text": "Not a word of me. All that I will tell you is, that the Duke hath dined. Get your apparel together, good strings to your beards, new ribbons to your pumps; meet presently at the palace; every man look o’er his part.",
     "speed": 1.0,
     "audio_description": "commanding, energetic",
@@ -206,7 +218,7 @@
   {
     "character_identifier": "BOTTOM",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 17,
+    "ordinal": 18,
     "text": "For the short and the long is, our play is preferred. In any case, let Thisbe have clean linen; and let not him that plays the lion pare his nails, for they shall hang out for the lion’s claws.",
     "speed": 1.0,
     "audio_description": "serious, instructing",
@@ -218,7 +230,7 @@
   {
     "character_identifier": "BOTTOM",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 18,
+    "ordinal": 19,
     "text": "And most dear actors, eat no onions nor garlick, for we are to utter sweet breath; and I do not doubt but to hear them say it is a sweet comedy. No more words. Away! Go, away!",
     "speed": 1.0,
     "audio_description": "urgent, triumphant",
@@ -230,7 +242,7 @@
   {
     "character_identifier": "NARRATOR",
     "scene_identifier": "QUINCE_WORKSHOP",
-    "ordinal": 19,
+    "ordinal": 20,
     "text": "Energized by their leader's return, the craftsmen scramble to gather their props and costumes, rushing out toward the palace.",
     "speed": 1.0,
     "audio_description": "narrative",
