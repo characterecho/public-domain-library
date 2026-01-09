@@ -34,7 +34,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.896,
+      "end_s": 6.889,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -42,8 +42,8 @@
     {
       "ordinal": 1,
       "title": "ACT I",
-      "start_s": 6.896,
-      "end_s": 8.656,
+      "start_s": 6.889,
+      "end_s": 8.648,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -51,8 +51,8 @@
     {
       "ordinal": 2,
       "title": "SCENE I. Athens. A room in the Palace of Theseus",
-      "start_s": 8.656,
-      "end_s": 760.354,
+      "start_s": 8.648,
+      "end_s": 759.68,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -68,8 +68,8 @@
     {
       "ordinal": 3,
       "title": "SCENE II. The Same. A Room in a Cottage",
-      "start_s": 760.354,
-      "end_s": 1055.356,
+      "start_s": 759.68,
+      "end_s": 1054.42,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -85,8 +85,8 @@
     {
       "ordinal": 4,
       "title": "ACT II",
-      "start_s": 1055.356,
-      "end_s": 1057.036,
+      "start_s": 1054.42,
+      "end_s": 1056.099,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -94,8 +94,8 @@
     {
       "ordinal": 5,
       "title": "SCENE I. A wood near Athens",
-      "start_s": 1057.036,
-      "end_s": 1854.778,
+      "start_s": 1056.099,
+      "end_s": 1853.133,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -111,8 +111,8 @@
     {
       "ordinal": 6,
       "title": "SCENE II. Another part of the wood",
-      "start_s": 1854.778,
-      "end_s": 2360.506,
+      "start_s": 1853.133,
+      "end_s": 2358.412,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -128,8 +128,8 @@
     {
       "ordinal": 7,
       "title": "ACT III",
-      "start_s": 2360.506,
-      "end_s": 2362.306,
+      "start_s": 2358.412,
+      "end_s": 2360.211,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -137,8 +137,8 @@
     {
       "ordinal": 8,
       "title": "SCENE I. The Wood.",
-      "start_s": 2362.306,
-      "end_s": 2962.241,
+      "start_s": 2360.211,
+      "end_s": 2959.614,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -155,7 +155,7 @@
       "ordinal": 9,
       "title": "SCENE II. Another part of the wood",
       "start_s": 2959.614,
-      "end_s": 4364.773,
+      "end_s": 4363.546,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -171,8 +171,8 @@
     {
       "ordinal": 10,
       "title": "ACT IV",
-      "start_s": 4364.773,
-      "end_s": 4366.573,
+      "start_s": 4363.546,
+      "end_s": 4365.344,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -180,8 +180,8 @@
     {
       "ordinal": 11,
       "title": "SCENE I. The Wood",
-      "start_s": 4366.573,
-      "end_s": 5019.268,
+      "start_s": 4365.344,
+      "end_s": 5017.469,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -202,8 +202,8 @@
     {
       "ordinal": 12,
       "title": "SCENE II. Athens. A Room in Quince’s House",
-      "start_s": 5019.268,
-      "end_s": 5160.13,
+      "start_s": 5017.469,
+      "end_s": 5158.208,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -219,8 +219,8 @@
     {
       "ordinal": 13,
       "title": "ACT V",
-      "start_s": 5160.13,
-      "end_s": 5162.05,
+      "start_s": 5158.208,
+      "end_s": 5160.127,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -228,8 +228,8 @@
     {
       "ordinal": 14,
       "title": "SCENE I. Athens. An Apartment in the Palace of Theseus",
-      "start_s": 5162.05,
-      "end_s": 6379.003,
+      "start_s": 5160.127,
+      "end_s": 6376.016,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
