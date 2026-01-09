@@ -7,7 +7,7 @@
   "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
   "publication_type": "short_stories",
   "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
-  "total_duration_s": 1244.4092080000005,
+  "total_duration_s": 1243.389592,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 1244.4092080000005
+      "end_s": 1243.389592
     }
   ],
   "segments": [
@@ -28,7 +28,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 7.279999999999999,
+      "end_s": 7.274,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -36,8 +36,8 @@
     {
       "ordinal": 1,
       "title": "Prologue",
-      "start_s": 7.279999999999999,
-      "end_s": 55.733061,
+      "start_s": 7.274,
+      "end_s": 55.687,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -53,8 +53,8 @@
     {
       "ordinal": 2,
       "title": "Christmas Morning",
-      "start_s": 55.733061,
-      "end_s": 239.474831,
+      "start_s": 55.687,
+      "end_s": 239.279,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -70,8 +70,8 @@
     {
       "ordinal": 3,
       "title": "The Skin Horse Tells His Story",
-      "start_s": 239.474831,
-      "end_s": 435.16993300000007,
+      "start_s": 239.279,
+      "end_s": 434.813,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -87,8 +87,8 @@
     {
       "ordinal": 4,
       "title": "Spring Time",
-      "start_s": 435.16993300000007,
-      "end_s": 563.7745590000001,
+      "start_s": 434.813,
+      "end_s": 563.313,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -109,8 +109,8 @@
     {
       "ordinal": 5,
       "title": "Summer Days",
-      "start_s": 563.7745590000001,
-      "end_s": 895.5462850000005,
+      "start_s": 563.313,
+      "end_s": 894.813,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -131,8 +131,8 @@
     {
       "ordinal": 6,
       "title": "Anxious Times",
-      "start_s": 895.5462850000005,
-      "end_s": 1096.0598910000006,
+      "start_s": 894.813,
+      "end_s": 1095.162,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -148,8 +148,8 @@
     {
       "ordinal": 7,
       "title": "The Fairy Flower",
-      "start_s": 1096.0598910000006,
-      "end_s": 1199.8190050000007,
+      "start_s": 1095.162,
+      "end_s": 1198.836,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -165,8 +165,8 @@
     {
       "ordinal": 8,
       "title": "At Last! At Last!",
-      "start_s": 1199.8190050000007,
-      "end_s": 1244.4092080000005,
+      "start_s": 1198.836,
+      "end_s": 1243.39,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
