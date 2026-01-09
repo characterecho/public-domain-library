@@ -7,7 +7,7 @@
   "identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
   "publication_type": "novel",
   "cover_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.png",
-  "total_duration_s": 3785.868554000003,
+  "total_duration_s": 3784.153197,
   "genre_tags": [
     "Classics",
     "Satire",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3785.868554000003
+      "end_s": 3784.153197
     }
   ],
   "segments": [
@@ -28,7 +28,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.800000000000001,
+      "end_s": 6.797,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -36,8 +36,8 @@
     {
       "ordinal": 1,
       "title": "I",
-      "start_s": 6.800000000000001,
-      "end_s": 484.24761999999987,
+      "start_s": 6.797,
+      "end_s": 484.028,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -63,8 +63,8 @@
     {
       "ordinal": 2,
       "title": "II",
-      "start_s": 484.24761999999987,
-      "end_s": 894.430726,
+      "start_s": 484.028,
+      "end_s": 894.025,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -85,8 +85,8 @@
     {
       "ordinal": 3,
       "title": "III",
-      "start_s": 894.430726,
-      "end_s": 1675.3519699999997,
+      "start_s": 894.025,
+      "end_s": 1674.593,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -117,8 +117,8 @@
     {
       "ordinal": 4,
       "title": "IV",
-      "start_s": 1675.3519699999997,
-      "end_s": 2272.3033990000004,
+      "start_s": 1674.593,
+      "end_s": 2271.274,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -134,8 +134,8 @@
     {
       "ordinal": 5,
       "title": "V",
-      "start_s": 2272.3033990000004,
-      "end_s": 2811.9499360000013,
+      "start_s": 2271.274,
+      "end_s": 2810.676,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -151,8 +151,8 @@
     {
       "ordinal": 6,
       "title": "VI",
-      "start_s": 2811.9499360000013,
-      "end_s": 3298.7503460000016,
+      "start_s": 2810.676,
+      "end_s": 3297.256,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -178,8 +178,8 @@
     {
       "ordinal": 7,
       "title": "VII",
-      "start_s": 3298.7503460000016,
-      "end_s": 3785.868554000003,
+      "start_s": 3297.256,
+      "end_s": 3784.153,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [

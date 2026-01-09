@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+    "title": "The Canterville Ghost",
+    "author_names": "Oscar Wilde",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Satire",
+      "Ghost Story",
+      "Gothic Parody",
+      "Supernatural"
+    ],
+    "updated_at": "2026-01-09T01:04:54Z",
+    "data_checksum": "e3ae99d544236570c2f72d43aefae25377c6efd88d6991ca397473cd17d99365",
+    "file_size": 154712235
+  },
+  {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
     "title": "Daisy Miller: A Study",
     "author_names": "Henry James",
@@ -110,21 +126,5 @@
     "updated_at": "2026-01-08T22:39:21Z",
     "data_checksum": "731e41b08df2ee686e768d9a8b99b1b149b28f91e1065f96bf9d8327eff56efa",
     "file_size": 79421362
-  },
-  {
-    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
-    "title": "The Canterville Ghost",
-    "author_names": "Oscar Wilde",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Satire",
-      "Ghost Story",
-      "Gothic Parody",
-      "Supernatural"
-    ],
-    "updated_at": "2026-01-08T22:38:40Z",
-    "data_checksum": "35f1b7e0f9a69923e4181ddeabfa0db053bde1312359d62fb4bb26e170b6f453",
-    "file_size": 154849862
   }
 ]
