@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+    "title": "The Velveteen Rabbit",
+    "author_names": "Margery Williams Bianco",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "Classics",
+      "Children's Literature",
+      "Fantasy",
+      "Fable",
+      "Toys"
+    ],
+    "updated_at": "2026-01-09T01:05:41Z",
+    "data_checksum": "d832fc4cdf4f40b1b52a5528beca206a78f4014940a76abe1a8525be27d577b3",
+    "file_size": 79385193
+  },
+  {
     "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
     "title": "The Canterville Ghost",
     "author_names": "Oscar Wilde",
@@ -110,21 +126,5 @@
     "updated_at": "2026-01-08T22:40:22Z",
     "data_checksum": "611ecb5542d3f06445d220d6d5e255e0e7c8476985e463f440cecd5e8a4c7193",
     "file_size": 86720614
-  },
-  {
-    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
-    "title": "The Velveteen Rabbit",
-    "author_names": "Margery Williams Bianco",
-    "publication_type": "short_stories",
-    "genre_tags": [
-      "Classics",
-      "Children's Literature",
-      "Fantasy",
-      "Fable",
-      "Toys"
-    ],
-    "updated_at": "2026-01-08T22:39:21Z",
-    "data_checksum": "731e41b08df2ee686e768d9a8b99b1b149b28f91e1065f96bf9d8327eff56efa",
-    "file_size": 79421362
   }
 ]
