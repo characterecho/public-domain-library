@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+    "title": "Romeo and Juliet",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Tragedy",
+      "Romance",
+      "Play",
+      "Shakespearean"
+    ],
+    "updated_at": "2026-01-09T12:04:14Z",
+    "data_checksum": "b801d0f6ab55b2e079260537a1cbe83bda5520e4c4daff351119ae2d8298756d",
+    "file_size": 416088355
+  },
+  {
     "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
     "title": "A Christmas Carol",
     "author_names": "Charles Dickens",
@@ -30,22 +46,6 @@
     "updated_at": "2026-01-09T01:31:46Z",
     "data_checksum": "756bf1377ad5a42d233b3e4fa90c8e1c74b6ffce4009087e014fdf6e315f214e",
     "file_size": 179485787
-  },
-  {
-    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
-    "title": "Romeo and Juliet",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Tragedy",
-      "Romance",
-      "Play",
-      "Shakespearean"
-    ],
-    "updated_at": "2026-01-09T01:17:10Z",
-    "data_checksum": "9afdab00f4ecdc0ed10cac918a536e735b3672b6217bd651c6cb6562667f2ba5",
-    "file_size": 416088256
   },
   {
     "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
