@@ -7,7 +7,7 @@
   "identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
   "publication_type": "novel",
   "cover_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/cover.png",
-  "total_duration_s": 7177.089787000006,
+  "total_duration_s": 7169.388662,
   "genre_tags": [
     "Fantasy",
     "Surrealism",
@@ -20,13 +20,13 @@
       "ordinal": 0,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3597.242099000004
+      "end_s": 3594.123265
     },
     {
       "ordinal": 1,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/audio_part_1.mp3",
-      "start_s": 3597.242099000004,
-      "end_s": 7177.089787000006
+      "start_s": 3594.123265,
+      "end_s": 7169.388662
     }
   ],
   "segments": [
@@ -34,7 +34,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 7.05102,
+      "end_s": 7.045,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -42,8 +42,8 @@
     {
       "ordinal": 1,
       "title": "CHAPTER I. Down the Rabbit-Hole",
-      "start_s": 7.05102,
-      "end_s": 608.560706,
+      "start_s": 7.045,
+      "end_s": 608.033,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -64,8 +64,8 @@
     {
       "ordinal": 2,
       "title": "CHAPTER II. The Pool of Tears",
-      "start_s": 608.560706,
-      "end_s": 1162.9549670000001,
+      "start_s": 608.033,
+      "end_s": 1161.947,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -86,8 +86,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER III. A Caucus-Race and a Long Tale",
-      "start_s": 1162.9549670000001,
-      "end_s": 1637.9220430000003,
+      "start_s": 1161.947,
+      "end_s": 1636.502,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -103,8 +103,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER IV. The Rabbit Sends in a Little Bill",
-      "start_s": 1637.9220430000003,
-      "end_s": 2364.764928000001,
+      "start_s": 1636.502,
+      "end_s": 2362.715,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -125,8 +125,8 @@
     {
       "ordinal": 5,
       "title": "CHAPTER V. Advice from a Caterpillar",
-      "start_s": 2364.764928000001,
-      "end_s": 2943.1052030000037,
+      "start_s": 2362.715,
+      "end_s": 2940.554,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -142,8 +142,8 @@
     {
       "ordinal": 6,
       "title": "CHAPTER VI. Pig and Pepper",
-      "start_s": 2943.1052030000037,
-      "end_s": 3597.242099000004,
+      "start_s": 2940.554,
+      "end_s": 3594.123,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -169,8 +169,8 @@
     {
       "ordinal": 7,
       "title": "CHAPTER VII. A Mad Tea-Party",
-      "start_s": 3597.242099000004,
-      "end_s": 4197.318156000005,
+      "start_s": 3594.123,
+      "end_s": 4193.431,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -191,8 +191,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VIII. The Queen’s Croquet-Ground",
-      "start_s": 4197.318156000005,
-      "end_s": 4902.546323000005,
+      "start_s": 4193.431,
+      "end_s": 4897.757,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -208,8 +208,8 @@
     {
       "ordinal": 9,
       "title": "CHAPTER IX. The Mock Turtle’s Story",
-      "start_s": 4902.546323000005,
-      "end_s": 5488.846236000005,
+      "start_s": 4897.757,
+      "end_s": 5483.306,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -230,8 +230,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER X. The Lobster Quadrille",
-      "start_s": 5488.846236000005,
-      "end_s": 6069.884899,
+      "start_s": 5483.306,
+      "end_s": 6063.601,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -247,8 +247,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER XI. Who Stole the Tarts?",
-      "start_s": 6069.884899,
-      "end_s": 6582.442505000004,
+      "start_s": 6063.601,
+      "end_s": 6575.503,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -264,8 +264,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER XII. Alice’s Evidence",
-      "start_s": 6582.442505000004,
-      "end_s": 7177.089787000006,
+      "start_s": 6575.503,
+      "end_s": 7169.389,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
