@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+    "title": "Alice's Adventures in Wonderland",
+    "author_names": "Lewis Carroll",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Fantasy",
+      "Surrealism",
+      "Portal Fantasy",
+      "Children's Literature",
+      "Classic Literature"
+    ],
+    "updated_at": "2026-01-09T01:13:53Z",
+    "data_checksum": "9e39e601f862f5879f37709d8827e64a364203b23b844ced78caa565b79bc613",
+    "file_size": 260161062
+  },
+  {
     "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
     "title": "The Call of Cthulhu",
     "author_names": "H. P. Lovecraft",
@@ -110,21 +126,5 @@
     "updated_at": "2026-01-08T22:43:50Z",
     "data_checksum": "db08a65f946561165a64d40e2507952d45206be67f3da7ea3e829e0735236197",
     "file_size": 416168462
-  },
-  {
-    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
-    "title": "Alice's Adventures in Wonderland",
-    "author_names": "Lewis Carroll",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Fantasy",
-      "Surrealism",
-      "Portal Fantasy",
-      "Children's Literature",
-      "Classic Literature"
-    ],
-    "updated_at": "2026-01-08T22:41:46Z",
-    "data_checksum": "c6b870c1e5de1f570f00bd9355b48be3ae604e4be79c883b27b2ec7170c16018",
-    "file_size": 260685479
   }
 ]
