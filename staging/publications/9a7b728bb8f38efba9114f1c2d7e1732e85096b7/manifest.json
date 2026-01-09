@@ -7,7 +7,7 @@
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
   "publication_type": "play",
   "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
-  "total_duration_s": 9740.87899000001,
+  "total_duration_s": 9740.231043,
   "genre_tags": [
     "Classics",
     "Tragedy",
@@ -20,19 +20,19 @@
       "ordinal": 0,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3435.2585720000006
+      "end_s": 3435.05458
     },
     {
       "ordinal": 1,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/audio_part_1.mp3",
-      "start_s": 3435.2585720000006,
-      "end_s": 6925.2639440000075
+      "start_s": 3435.05458,
+      "end_s": 6924.819977
     },
     {
       "ordinal": 2,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/audio_part_2.mp3",
-      "start_s": 6925.2639440000075,
-      "end_s": 9740.87899000001
+      "start_s": 6924.819977,
+      "end_s": 9740.231043
     }
   ],
   "segments": [
@@ -49,7 +49,7 @@
       "ordinal": 1,
       "title": "THE PROLOGUE",
       "start_s": 6.88,
-      "end_s": 49.400000000000006,
+      "end_s": 49.397,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -65,8 +65,8 @@
     {
       "ordinal": 2,
       "title": "ACT I",
-      "start_s": 49.400000000000006,
-      "end_s": 51.080000000000005,
+      "start_s": 49.397,
+      "end_s": 51.077,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -74,8 +74,8 @@
     {
       "ordinal": 3,
       "title": "SCENE I. A public place.",
-      "start_s": 51.080000000000005,
-      "end_s": 858.3996099999998,
+      "start_s": 51.077,
+      "end_s": 858.349,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -91,8 +91,8 @@
     {
       "ordinal": 4,
       "title": "SCENE II. A Street.",
-      "start_s": 858.3996099999998,
-      "end_s": 1206.8444240000003,
+      "start_s": 858.349,
+      "end_s": 1206.773,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -108,8 +108,8 @@
     {
       "ordinal": 5,
       "title": "SCENE III. Room in Capulet’s House.",
-      "start_s": 1206.8444240000003,
-      "end_s": 1562.178648000001,
+      "start_s": 1206.773,
+      "end_s": 1562.086,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -125,8 +125,8 @@
     {
       "ordinal": 6,
       "title": "SCENE IV. A Street.",
-      "start_s": 1562.178648000001,
-      "end_s": 1913.5733910000001,
+      "start_s": 1562.086,
+      "end_s": 1913.46,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -142,8 +142,8 @@
     {
       "ordinal": 7,
       "title": "SCENE V. A Hall in Capulet’s House.",
-      "start_s": 1913.5733910000001,
-      "end_s": 2364.0694370000015,
+      "start_s": 1913.46,
+      "end_s": 2363.929,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -159,8 +159,8 @@
     {
       "ordinal": 8,
       "title": "ACT II",
-      "start_s": 2364.0694370000015,
-      "end_s": 2405.1122940000014,
+      "start_s": 2363.929,
+      "end_s": 2404.969,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -176,8 +176,8 @@
     {
       "ordinal": 9,
       "title": "SCENE I. An open place adjoining Capulet’s Garden.",
-      "start_s": 2405.1122940000014,
-      "end_s": 2557.5676240000007,
+      "start_s": 2404.969,
+      "end_s": 2557.416,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -193,8 +193,8 @@
     {
       "ordinal": 10,
       "title": "SCENE II. Capulet’s Garden.",
-      "start_s": 2557.5676240000007,
-      "end_s": 3124.306931000001,
+      "start_s": 2557.416,
+      "end_s": 3124.121,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -210,8 +210,8 @@
     {
       "ordinal": 11,
       "title": "SCENE III. Friar Lawrence’s Cell.",
-      "start_s": 3124.306931000001,
-      "end_s": 3435.2585720000006,
+      "start_s": 3124.121,
+      "end_s": 3435.055,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -227,8 +227,8 @@
     {
       "ordinal": 12,
       "title": "SCENE IV. A Street.",
-      "start_s": 3435.2585720000006,
-      "end_s": 4027.525212999998,
+      "start_s": 3435.055,
+      "end_s": 4027.28,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -244,8 +244,8 @@
     {
       "ordinal": 13,
       "title": "SCENE V. Capulet’s Garden.",
-      "start_s": 4027.525212999998,
-      "end_s": 4285.190863999997,
+      "start_s": 4027.28,
+      "end_s": 4284.928,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -261,8 +261,8 @@
     {
       "ordinal": 14,
       "title": "SCENE VI. Friar Lawrence’s Cell.",
-      "start_s": 4285.190863999997,
-      "end_s": 4404.362905999997,
+      "start_s": 4284.928,
+      "end_s": 4404.092,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -278,8 +278,8 @@
     {
       "ordinal": 15,
       "title": "ACT III",
-      "start_s": 4404.362905999997,
-      "end_s": 4406.202905999997,
+      "start_s": 4404.092,
+      "end_s": 4405.932,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -287,8 +287,8 @@
     {
       "ordinal": 16,
       "title": "SCENE I. A public Place.",
-      "start_s": 4406.202905999997,
-      "end_s": 5054.487453,
+      "start_s": 4405.932,
+      "end_s": 5054.172,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -304,8 +304,8 @@
     {
       "ordinal": 17,
       "title": "SCENE II. A Room in Capulet’s House.",
-      "start_s": 5054.487453,
-      "end_s": 5486.879315000002,
+      "start_s": 5054.172,
+      "end_s": 5486.534,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -321,8 +321,8 @@
     {
       "ordinal": 18,
       "title": "SCENE III. Friar Lawrence’s cell.",
-      "start_s": 5486.879315000002,
-      "end_s": 6034.676783000004,
+      "start_s": 5486.534,
+      "end_s": 6034.294,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -338,8 +338,8 @@
     {
       "ordinal": 19,
       "title": "SCENE IV. A Room in Capulet’s House.",
-      "start_s": 6034.676783000004,
-      "end_s": 6160.196693000004,
+      "start_s": 6034.294,
+      "end_s": 6159.805,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -355,8 +355,8 @@
     {
       "ordinal": 20,
       "title": "SCENE V. An open Gallery to Juliet’s Chamber, overlooking the Garden.",
-      "start_s": 6160.196693000004,
-      "end_s": 6923.423944000007,
+      "start_s": 6159.805,
+      "end_s": 6922.98,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -372,8 +372,8 @@
     {
       "ordinal": 21,
       "title": "ACT IV",
-      "start_s": 6923.423944000007,
-      "end_s": 6925.2639440000075,
+      "start_s": 6922.98,
+      "end_s": 6924.82,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -381,8 +381,8 @@
     {
       "ordinal": 22,
       "title": "SCENE I. Friar Lawrence’s Cell.",
-      "start_s": 6925.2639440000075,
-      "end_s": 7310.026380000007,
+      "start_s": 6924.82,
+      "end_s": 7309.555,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -398,8 +398,8 @@
     {
       "ordinal": 23,
       "title": "SCENE II. Hall in Capulet’s House.",
-      "start_s": 7310.026380000007,
-      "end_s": 7492.879898000007,
+      "start_s": 7309.555,
+      "end_s": 7492.395,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -415,8 +415,8 @@
     {
       "ordinal": 24,
       "title": "SCENE III. Juliet’s Chamber.",
-      "start_s": 7492.879898000007,
-      "end_s": 7678.766181000008,
+      "start_s": 7492.395,
+      "end_s": 7678.268,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -432,8 +432,8 @@
     {
       "ordinal": 25,
       "title": "SCENE IV. Hall in Capulet’s House.",
-      "start_s": 7678.766181000008,
-      "end_s": 7816.881807000009,
+      "start_s": 7678.268,
+      "end_s": 7816.373,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -449,8 +449,8 @@
     {
       "ordinal": 26,
       "title": "SCENE V. Juliet’s Chamber; Juliet on the bed.",
-      "start_s": 7816.881807000009,
-      "end_s": 8291.91780500001,
+      "start_s": 7816.373,
+      "end_s": 8291.375,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -466,8 +466,8 @@
     {
       "ordinal": 27,
       "title": "ACT V",
-      "start_s": 8291.91780500001,
-      "end_s": 8293.75780500001,
+      "start_s": 8291.375,
+      "end_s": 8293.215,
       "part_ordinal": 2,
       "metadata": {},
       "background_key": null
@@ -475,8 +475,8 @@
     {
       "ordinal": 28,
       "title": "SCENE I. Mantua. A Street.",
-      "start_s": 8293.75780500001,
-      "end_s": 8589.508013000011,
+      "start_s": 8293.215,
+      "end_s": 8588.943,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -492,8 +492,8 @@
     {
       "ordinal": 29,
       "title": "SCENE II. Friar Lawrence’s Cell.",
-      "start_s": 8589.508013000011,
-      "end_s": 8698.084250000013,
+      "start_s": 8588.943,
+      "end_s": 8697.512,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -509,8 +509,8 @@
     {
       "ordinal": 30,
       "title": "SCENE III. A churchyard; in it a Monument belonging to the Capulets.",
-      "start_s": 8698.084250000013,
-      "end_s": 9740.87899000001,
+      "start_s": 8697.512,
+      "end_s": 9740.231,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
