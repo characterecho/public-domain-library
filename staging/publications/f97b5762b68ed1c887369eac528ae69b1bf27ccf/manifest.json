@@ -7,7 +7,7 @@
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "publication_type": "novel",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
-  "total_duration_s": 9243.839735000007,
+  "total_duration_s": 9243.791678000001,
   "genre_tags": [
     "Classics",
     "Gothic",
@@ -20,19 +20,19 @@
       "ordinal": 0,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2174.6027130000007
+      "end_s": 2174.590703
     },
     {
       "ordinal": 1,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/audio_part_1.mp3",
-      "start_s": 2174.6027130000007,
-      "end_s": 4176.210392999999
+      "start_s": 2174.590703,
+      "end_s": 4176.186372
     },
     {
       "ordinal": 2,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/audio_part_2.mp3",
-      "start_s": 4176.210392999999,
-      "end_s": 9243.839735000007
+      "start_s": 4176.186372,
+      "end_s": 9243.791678000001
     }
   ],
   "segments": [
@@ -49,7 +49,7 @@
       "ordinal": 1,
       "title": "STAVE ONE. — MARLEY’S GHOST.",
       "start_s": 9.34,
-      "end_s": 2174.6027130000007,
+      "end_s": 2174.591,
       "part_ordinal": 0,
       "metadata": {
         "scene_summary": {
@@ -79,8 +79,8 @@
     {
       "ordinal": 2,
       "title": "STAVE TWO. — THE FIRST OF THE THREE SPIRITS.",
-      "start_s": 2174.6027130000007,
-      "end_s": 4176.210392999999,
+      "start_s": 2174.591,
+      "end_s": 4176.186,
       "part_ordinal": 1,
       "metadata": {
         "scene_summary": {
@@ -111,8 +111,8 @@
     {
       "ordinal": 3,
       "title": "STAVE THREE. — THE SECOND OF THE THREE SPIRITS.",
-      "start_s": 4176.210392999999,
-      "end_s": 6912.584698000002,
+      "start_s": 4176.186,
+      "end_s": 6912.548,
       "part_ordinal": 2,
       "metadata": {
         "scene_summary": {
@@ -134,8 +134,8 @@
     {
       "ordinal": 4,
       "title": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
-      "start_s": 6912.584698000002,
-      "end_s": 8513.611791000005,
+      "start_s": 6912.548,
+      "end_s": 8513.567,
       "part_ordinal": 2,
       "metadata": {
         "scene_summary": {
@@ -157,8 +157,8 @@
     {
       "ordinal": 5,
       "title": "STAVE FIVE. — THE END OF IT.",
-      "start_s": 8513.611791000005,
-      "end_s": 9243.839735000007,
+      "start_s": 8513.567,
+      "end_s": 9243.792,
       "part_ordinal": 2,
       "metadata": {
         "scene_summary": {

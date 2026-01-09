@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+    "title": "A Christmas Carol",
+    "author_names": "Charles Dickens",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Gothic",
+      "Victorian",
+      "Christmas",
+      "Supernatural"
+    ],
+    "updated_at": "2026-01-09T01:42:41Z",
+    "data_checksum": "bda7173864cbf585f8809b1a638d33930b3885d5a1927a5b132550e081862454",
+    "file_size": 220875056
+  },
+  {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
     "title": "A Midsummer Night's Dream",
     "author_names": "William Shakespeare",
@@ -110,21 +126,5 @@
     "updated_at": "2026-01-09T01:02:54Z",
     "data_checksum": "a07221cfa5eac635e3e59fe8d5132d215fd83a3f41a5cd62c388d4287920f7f5",
     "file_size": 223260549
-  },
-  {
-    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
-    "title": "A Christmas Carol",
-    "author_names": "Charles Dickens",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Gothic",
-      "Victorian",
-      "Christmas",
-      "Supernatural"
-    ],
-    "updated_at": "2026-01-08T22:46:24Z",
-    "data_checksum": "868c0fba575bda84d1a9732a42814d54f1941332c0620d76e59d3d4ddb75039d",
-    "file_size": 221055631
   }
 ]
