@@ -34,7 +34,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.89551,
+      "end_s": 6.896,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -42,8 +42,8 @@
     {
       "ordinal": 1,
       "title": "ACT I",
-      "start_s": 6.89551,
-      "end_s": 8.65551,
+      "start_s": 6.896,
+      "end_s": 8.656,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -51,8 +51,8 @@
     {
       "ordinal": 2,
       "title": "SCENE I. Athens. A room in the Palace of Theseus",
-      "start_s": 8.65551,
-      "end_s": 760.3543819999996,
+      "start_s": 8.656,
+      "end_s": 760.354,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -68,8 +68,8 @@
     {
       "ordinal": 3,
       "title": "SCENE II. The Same. A Room in a Cottage",
-      "start_s": 760.3543819999996,
-      "end_s": 1055.3563579999998,
+      "start_s": 760.354,
+      "end_s": 1055.356,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -85,8 +85,8 @@
     {
       "ordinal": 4,
       "title": "ACT II",
-      "start_s": 1055.3563579999998,
-      "end_s": 1057.0363579999998,
+      "start_s": 1055.356,
+      "end_s": 1057.036,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -94,8 +94,8 @@
     {
       "ordinal": 5,
       "title": "SCENE I. A wood near Athens",
-      "start_s": 1057.0363579999998,
-      "end_s": 1854.7782420000005,
+      "start_s": 1057.036,
+      "end_s": 1854.778,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -111,8 +111,8 @@
     {
       "ordinal": 6,
       "title": "SCENE II. Another part of the wood",
-      "start_s": 1854.7782420000005,
-      "end_s": 2360.505593000002,
+      "start_s": 1854.778,
+      "end_s": 2360.506,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -128,8 +128,8 @@
     {
       "ordinal": 7,
       "title": "ACT III",
-      "start_s": 2360.505593000002,
-      "end_s": 2362.3055930000023,
+      "start_s": 2360.506,
+      "end_s": 2362.306,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -137,8 +137,8 @@
     {
       "ordinal": 8,
       "title": "SCENE I. The Wood.",
-      "start_s": 2362.3055930000023,
-      "end_s": 2962.2406350000015,
+      "start_s": 2362.306,
+      "end_s": 2962.241,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -154,8 +154,8 @@
     {
       "ordinal": 9,
       "title": "SCENE II. Another part of the wood",
-      "start_s": 2962.2406350000015,
-      "end_s": 4367.400078000004,
+      "start_s": 2959.614,
+      "end_s": 4364.773,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -171,8 +171,8 @@
     {
       "ordinal": 10,
       "title": "ACT IV",
-      "start_s": 4367.400078000004,
-      "end_s": 4369.200078000004,
+      "start_s": 4364.773,
+      "end_s": 4366.573,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -180,8 +180,8 @@
     {
       "ordinal": 11,
       "title": "SCENE I. The Wood",
-      "start_s": 4369.200078000004,
-      "end_s": 5021.894871000008,
+      "start_s": 4366.573,
+      "end_s": 5019.268,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -202,8 +202,8 @@
     {
       "ordinal": 12,
       "title": "SCENE II. Athens. A Room in Quince’s House",
-      "start_s": 5021.894871000008,
-      "end_s": 5162.757412000008,
+      "start_s": 5019.268,
+      "end_s": 5160.13,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -219,8 +219,8 @@
     {
       "ordinal": 13,
       "title": "ACT V",
-      "start_s": 5162.757412000008,
-      "end_s": 5164.677412000008,
+      "start_s": 5160.13,
+      "end_s": 5162.05,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -228,8 +228,8 @@
     {
       "ordinal": 14,
       "title": "SCENE I. Athens. An Apartment in the Palace of Theseus",
-      "start_s": 5164.677412000008,
-      "end_s": 6381.6304160000145,
+      "start_s": 5162.05,
+      "end_s": 6379.003,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
