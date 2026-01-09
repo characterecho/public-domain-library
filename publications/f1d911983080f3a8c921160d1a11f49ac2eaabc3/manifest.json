@@ -1,18 +1,127 @@
 {
+  "manifest_version": 2,
   "title": "Daisy Miller: A Study",
   "author_names": "Henry James",
   "description": "Publication imported from https://gutenberg.org/ebooks/208.epub3.images",
-  "epub_source": "http://www.gutenberg.org/208",
+  "epub_source": "https://gutenberg.org/ebooks/208.epub3.images",
   "identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
   "publication_type": "novel",
   "cover_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/cover.png",
-  "total_duration_s": 6444.401395000001,
+  "total_duration_s": 6439.81907,
   "genre_tags": [
     "Classics",
     "Realism",
     "Social Manners",
     "19th Century",
     "Psychological Fiction"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 6439.81907
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.027,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "PART I",
+      "start_s": 7.027,
+      "end_s": 2967.316,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_VEVEY_GARDEN",
+            "location_header": "EXT. HOTEL GARDEN - DAY",
+            "visual_description": "A grand 19th-century Swiss hotel garden overlooking Lake Geneva. Manicured gravel paths wind between flowerbeds and iron benches. In the foreground, a small iron table with coffee service. The background reveals the chalk-white facade of the hotel with balconies, while the distance shows the blue lake and the snowy crest of the Dent du Midi. Bright, clear summer morning light."
+          },
+          {
+            "identifier": "SCENE_COSTELLO_SUITE",
+            "location_header": "INT. PRIVATE SUITE - DAY",
+            "visual_description": "A private salon within a luxury Victorian hotel. Plush velvet armchairs and a chaise longue dominate the room. Heavy brocade curtains are partially drawn to block the harsh light, creating a dim, hushed atmosphere suitable for an invalid. Tables hold crystal smelling salts and camphor bottles. Pale colors with rich gold accents."
+          },
+          {
+            "identifier": "SCENE_VEVEY_GARDEN_NIGHT",
+            "location_header": "EXT. HOTEL GARDEN - NIGHT",
+            "visual_description": "The hotel garden terrace at night, lit by the warm glow of gas lamps and starlight. The lake beyond is a dark, shimmering expanse reflecting the stars. Silhouettes of mountains loom in the distance. In the foreground, the stone parapet and garden furniture are cast in deep shadows and soft highlights. Romantic and mysterious atmosphere."
+          },
+          {
+            "identifier": "SCENE_CHILLON",
+            "location_header": "INT. CASTLE OF CHILLON - DAY",
+            "visual_description": "The interior of an ancient medieval castle. Rough hewn stone walls and vaulted ceilings define the space. Narrow embrasures (windows) allow shafts of bright daylight to cut through the dusty, cool air. An antique stone fireplace stands in the background. The atmosphere is historic, cold, and imposing, contrasting with the bright day outside."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "PART II",
+      "start_s": 2967.316,
+      "end_s": 6439.819,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_COSTELLO_SUITE",
+            "location_header": "INT. COSTELLO SUITE - DAY",
+            "visual_description": "A lavish private hotel suite in late 19th-century Rome. Heavy gold-fringed drapery frames tall windows overlooking the city rooftops. The room is crowded with velvet upholstery, marble-topped tables, and intricate porcelain ornaments. Dim, sheltered lighting contrasts with the bright Italian sun outside. An atmosphere of exclusive, stuffy privilege."
+          },
+          {
+            "identifier": "SCENE_WALKER_DRAWING_ROOM",
+            "location_header": "INT. MRS WALKER'S APARTMENT - DAY",
+            "visual_description": "A sun-drenched crimson drawing room on the third floor of a Roman palazzo. Tall french windows admit brilliant southern sunshine. The walls are lined with red silk, and the furniture is gilded and delicate. A polished parquet floor reflects the light. The mood is bright, social, and slightly claustrophobic."
+          },
+          {
+            "identifier": "SCENE_PINCIO_GARDENS",
+            "location_header": "EXT. PINCIO GARDENS - LATE AFTERNOON",
+            "visual_description": "The Pincian Hill gardens in the late afternoon. Manicured gravel paths wind between umbrella pines and marble busts. In the distance, the dome of St. Peter's is visible against a golden sunset. Elegant horse-drawn carriages line the periphery. The light is warm, amber, and romantic, casting long shadows."
+          },
+          {
+            "identifier": "SCENE_WALKER_PARTY",
+            "location_header": "INT. MRS WALKER'S SALON - NIGHT",
+            "visual_description": "A cramped but elegant salon at night, lit by crystal chandeliers and wax candles. The room is filled with guests in evening dress. A grand piano stands in one corner. The atmosphere is stiflingly warm, buzzing with social tension and judgment. Rich colors of evening silks and black tailcoats."
+          },
+          {
+            "identifier": "SCENE_ST_PETERS",
+            "location_header": "INT. ST. PETER'S BASILICA - AFTERNOON",
+            "visual_description": "The vast, cavernous interior of St. Peter's Basilica. Immense stone pilasters rise into the shadowy vault. Shafts of dusty light cut through the incense-laden air. The scale is overwhelming, dwarfing the human figures below. The atmosphere is solemn, echoing, and ancient."
+          },
+          {
+            "identifier": "SCENE_PALATINE_HILL",
+            "location_header": "EXT. PALATINE HILL - DAY",
+            "visual_description": "The ruins of the Palace of the Caesars on a bright spring day. Ancient moss-covered brick arches and marble fragments are scattered among blooming wildflowers and fresh green grass. The sky is a piercing Roman blue. The setting combines the weight of antiquity with the freshness of spring."
+          },
+          {
+            "identifier": "SCENE_COLOSSEUM_NIGHT",
+            "location_header": "EXT. COLOSSEUM - NIGHT",
+            "visual_description": "The interior of the Colosseum under a waning moon. One half of the gigantic arena is plunged in deep, cavernous shadow; the other is bathed in pale, ghostly moonlight. The central cross stands silhouetted against the gloom. The atmosphere is ominous, cold, and heavy with history and decay."
+          },
+          {
+            "identifier": "SCENE_MILLER_HOTEL_ROOM",
+            "location_header": "INT. MILLER HOTEL SUITE - DAY",
+            "visual_description": "A cluttered hotel salon turned sickroom. Medicine bottles and glasses crowd the tables. The curtains are drawn, creating a perpetual twilight. The atmosphere is hushed, medicinal, and anxious."
+          },
+          {
+            "identifier": "SCENE_PROTESTANT_CEMETERY",
+            "location_header": "EXT. PROTESTANT CEMETERY - DAY",
+            "visual_description": "The Protestant Cemetery in Rome, nestled against the ancient city wall. Tall, dark cypress trees stand sentinel over white marble gravestones. Spring flowers—daisies and violets—grow thickly in the grass. The light is clear and gentle. A mood of quiet, sunlit melancholy."
+          }
+        ]
+      },
+      "background_key": null
+    }
   ],
   "characters": [
     {
@@ -339,103 +448,6 @@
       "dialogue_count": 1,
       "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.png",
       "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.mp3"
-    }
-  ],
-  "segments": [
-    {
-      "ordinal": 0,
-      "title": "Introduction",
-      "metadata": {},
-      "background_key": null,
-      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/segments/0/audio.mp3",
-      "duration_s": 7.032245
-    },
-    {
-      "ordinal": 1,
-      "title": "PART I",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_VEVEY_GARDEN",
-            "location_header": "EXT. HOTEL GARDEN - DAY",
-            "visual_description": "A grand 19th-century Swiss hotel garden overlooking Lake Geneva. Manicured gravel paths wind between flowerbeds and iron benches. In the foreground, a small iron table with coffee service. The background reveals the chalk-white facade of the hotel with balconies, while the distance shows the blue lake and the snowy crest of the Dent du Midi. Bright, clear summer morning light."
-          },
-          {
-            "identifier": "SCENE_COSTELLO_SUITE",
-            "location_header": "INT. PRIVATE SUITE - DAY",
-            "visual_description": "A private salon within a luxury Victorian hotel. Plush velvet armchairs and a chaise longue dominate the room. Heavy brocade curtains are partially drawn to block the harsh light, creating a dim, hushed atmosphere suitable for an invalid. Tables hold crystal smelling salts and camphor bottles. Pale colors with rich gold accents."
-          },
-          {
-            "identifier": "SCENE_VEVEY_GARDEN_NIGHT",
-            "location_header": "EXT. HOTEL GARDEN - NIGHT",
-            "visual_description": "The hotel garden terrace at night, lit by the warm glow of gas lamps and starlight. The lake beyond is a dark, shimmering expanse reflecting the stars. Silhouettes of mountains loom in the distance. In the foreground, the stone parapet and garden furniture are cast in deep shadows and soft highlights. Romantic and mysterious atmosphere."
-          },
-          {
-            "identifier": "SCENE_CHILLON",
-            "location_header": "INT. CASTLE OF CHILLON - DAY",
-            "visual_description": "The interior of an ancient medieval castle. Rough hewn stone walls and vaulted ceilings define the space. Narrow embrasures (windows) allow shafts of bright daylight to cut through the dusty, cool air. An antique stone fireplace stands in the background. The atmosphere is historic, cold, and imposing, contrasting with the bright day outside."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/segments/1/audio.mp3",
-      "duration_s": 2962.3947690000014
-    },
-    {
-      "ordinal": 2,
-      "title": "PART II",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_COSTELLO_SUITE",
-            "location_header": "INT. COSTELLO SUITE - DAY",
-            "visual_description": "A lavish private hotel suite in late 19th-century Rome. Heavy gold-fringed drapery frames tall windows overlooking the city rooftops. The room is crowded with velvet upholstery, marble-topped tables, and intricate porcelain ornaments. Dim, sheltered lighting contrasts with the bright Italian sun outside. An atmosphere of exclusive, stuffy privilege."
-          },
-          {
-            "identifier": "SCENE_WALKER_DRAWING_ROOM",
-            "location_header": "INT. MRS WALKER'S APARTMENT - DAY",
-            "visual_description": "A sun-drenched crimson drawing room on the third floor of a Roman palazzo. Tall french windows admit brilliant southern sunshine. The walls are lined with red silk, and the furniture is gilded and delicate. A polished parquet floor reflects the light. The mood is bright, social, and slightly claustrophobic."
-          },
-          {
-            "identifier": "SCENE_PINCIO_GARDENS",
-            "location_header": "EXT. PINCIO GARDENS - LATE AFTERNOON",
-            "visual_description": "The Pincian Hill gardens in the late afternoon. Manicured gravel paths wind between umbrella pines and marble busts. In the distance, the dome of St. Peter's is visible against a golden sunset. Elegant horse-drawn carriages line the periphery. The light is warm, amber, and romantic, casting long shadows."
-          },
-          {
-            "identifier": "SCENE_WALKER_PARTY",
-            "location_header": "INT. MRS WALKER'S SALON - NIGHT",
-            "visual_description": "A cramped but elegant salon at night, lit by crystal chandeliers and wax candles. The room is filled with guests in evening dress. A grand piano stands in one corner. The atmosphere is stiflingly warm, buzzing with social tension and judgment. Rich colors of evening silks and black tailcoats."
-          },
-          {
-            "identifier": "SCENE_ST_PETERS",
-            "location_header": "INT. ST. PETER'S BASILICA - AFTERNOON",
-            "visual_description": "The vast, cavernous interior of St. Peter's Basilica. Immense stone pilasters rise into the shadowy vault. Shafts of dusty light cut through the incense-laden air. The scale is overwhelming, dwarfing the human figures below. The atmosphere is solemn, echoing, and ancient."
-          },
-          {
-            "identifier": "SCENE_PALATINE_HILL",
-            "location_header": "EXT. PALATINE HILL - DAY",
-            "visual_description": "The ruins of the Palace of the Caesars on a bright spring day. Ancient moss-covered brick arches and marble fragments are scattered among blooming wildflowers and fresh green grass. The sky is a piercing Roman blue. The setting combines the weight of antiquity with the freshness of spring."
-          },
-          {
-            "identifier": "SCENE_COLOSSEUM_NIGHT",
-            "location_header": "EXT. COLOSSEUM - NIGHT",
-            "visual_description": "The interior of the Colosseum under a waning moon. One half of the gigantic arena is plunged in deep, cavernous shadow; the other is bathed in pale, ghostly moonlight. The central cross stands silhouetted against the gloom. The atmosphere is ominous, cold, and heavy with history and decay."
-          },
-          {
-            "identifier": "SCENE_MILLER_HOTEL_ROOM",
-            "location_header": "INT. MILLER HOTEL SUITE - DAY",
-            "visual_description": "A cluttered hotel salon turned sickroom. Medicine bottles and glasses crowd the tables. The curtains are drawn, creating a perpetual twilight. The atmosphere is hushed, medicinal, and anxious."
-          },
-          {
-            "identifier": "SCENE_PROTESTANT_CEMETERY",
-            "location_header": "EXT. PROTESTANT CEMETERY - DAY",
-            "visual_description": "The Protestant Cemetery in Rome, nestled against the ancient city wall. Tall, dark cypress trees stand sentinel over white marble gravestones. Spring flowers—daisies and violets—grow thickly in the grass. The light is clear and gentle. A mood of quiet, sunlit melancholy."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/segments/2/audio.mp3",
-      "duration_s": 3474.9743809999995
     }
   ],
   "scenes": [
