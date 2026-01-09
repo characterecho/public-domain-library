@@ -1,99 +1,19 @@
 [
   {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Play",
-      "Comedy",
-      "Romance",
-      "Mythology"
-    ],
-    "updated_at": "2026-01-08T12:24:17Z",
-    "data_checksum": "454c4e4425eadfd23b16d5fcf620d578634ea7713db37bac3421201986f52914",
-    "file_size": 179577865
-  },
-  {
-    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
-    "title": "Alice's Adventures in Wonderland",
-    "author_names": "Lewis Carroll",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Fantasy",
-      "Surrealism",
-      "Portal Fantasy",
-      "Children's Literature",
-      "Classic Literature"
-    ],
-    "updated_at": "2026-01-06T21:24:45Z",
-    "data_checksum": "5ef58b6def6162c908a4095c80ad36c7829811674738b55fbc754cedb1d0bded",
-    "file_size": 260677968
-  },
-  {
-    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
-    "title": "The Velveteen Rabbit",
-    "author_names": "Margery Williams Bianco",
-    "publication_type": "short_stories",
-    "genre_tags": [
-      "Classics",
-      "Children's Literature",
-      "Fantasy",
-      "Fable",
-      "Toys"
-    ],
-    "updated_at": "2026-01-05T18:24:58Z",
-    "data_checksum": "dbc319fab3fb29ce3824f06958dccae8fbbdb36351ee34c7be0af8eca80cf628",
-    "file_size": 79420501
-  },
-  {
-    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
-    "title": "Daisy Miller: A Study",
-    "author_names": "Henry James",
+    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+    "title": "A Christmas Carol",
+    "author_names": "Charles Dickens",
     "publication_type": "novel",
     "genre_tags": [
       "Classics",
-      "Realism",
-      "Social Manners",
-      "19th Century",
-      "Psychological Fiction"
-    ],
-    "updated_at": "2026-01-03T14:01:34Z",
-    "data_checksum": "8cd3e9da6ce1524fd383e6ea782d07a66ed590ba5c9a79d323759a1e05788dd2",
-    "file_size": 223454049
-  },
-  {
-    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
-    "title": "The Call of Cthulhu",
-    "author_names": "H. P. Lovecraft",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Horror",
-      "Cosmic Horror",
-      "Classics",
-      "Weird Fiction",
-      "Mystery"
-    ],
-    "updated_at": "2026-01-03T13:19:42Z",
-    "data_checksum": "6e81ebeada48eadda5781f6d2acd5061fb5019f9b7bcc1d5b7143fbec8528ac1",
-    "file_size": 86718387
-  },
-  {
-    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
-    "title": "The Canterville Ghost",
-    "author_names": "Oscar Wilde",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Satire",
-      "Ghost Story",
-      "Gothic Parody",
+      "Gothic",
+      "Victorian",
+      "Christmas",
       "Supernatural"
     ],
-    "updated_at": "2026-01-02T14:16:23Z",
-    "data_checksum": "8db946b695a940ece66a9e55636b1757072714c74fc01c822b704d613251111d",
-    "file_size": 154852707
+    "updated_at": "2026-01-09T16:13:17Z",
+    "data_checksum": "5cd2c75b0980b1f243b26b2ef9aaf02940698f49cbc35ac02b7d50d0f42f6cbc",
+    "file_size": 220875056
   },
   {
     "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
@@ -107,24 +27,104 @@
       "Play",
       "Shakespearean"
     ],
-    "updated_at": "2025-12-30T21:35:27Z",
-    "data_checksum": "1e08c6818283f20c7bc23f585a6b50e3b6890b10fd659ce40f02768d42ed84f8",
-    "file_size": 416162761
+    "updated_at": "2026-01-09T12:04:14Z",
+    "data_checksum": "b801d0f6ab55b2e079260537a1cbe83bda5520e4c4daff351119ae2d8298756d",
+    "file_size": 416088355
   },
   {
-    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
-    "title": "A Christmas Carol",
-    "author_names": "Charles Dickens",
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-09T01:31:46Z",
+    "data_checksum": "756bf1377ad5a42d233b3e4fa90c8e1c74b6ffce4009087e014fdf6e315f214e",
+    "file_size": 179485787
+  },
+  {
+    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+    "title": "Alice's Adventures in Wonderland",
+    "author_names": "Lewis Carroll",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Fantasy",
+      "Surrealism",
+      "Portal Fantasy",
+      "Children's Literature",
+      "Classic Literature"
+    ],
+    "updated_at": "2026-01-09T01:13:53Z",
+    "data_checksum": "9e39e601f862f5879f37709d8827e64a364203b23b844ced78caa565b79bc613",
+    "file_size": 260161062
+  },
+  {
+    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+    "title": "The Call of Cthulhu",
+    "author_names": "H. P. Lovecraft",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Horror",
+      "Cosmic Horror",
+      "Classics",
+      "Weird Fiction",
+      "Mystery"
+    ],
+    "updated_at": "2026-01-09T01:11:29Z",
+    "data_checksum": "04426549220fb95acb1babf5697acefe7c766d345673a804c22982bb9786ad35",
+    "file_size": 86700271
+  },
+  {
+    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+    "title": "The Velveteen Rabbit",
+    "author_names": "Margery Williams Bianco",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "Classics",
+      "Children's Literature",
+      "Fantasy",
+      "Fable",
+      "Toys"
+    ],
+    "updated_at": "2026-01-09T01:05:41Z",
+    "data_checksum": "d832fc4cdf4f40b1b52a5528beca206a78f4014940a76abe1a8525be27d577b3",
+    "file_size": 79385193
+  },
+  {
+    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+    "title": "The Canterville Ghost",
+    "author_names": "Oscar Wilde",
     "publication_type": "novel",
     "genre_tags": [
       "Classics",
-      "Gothic",
-      "Victorian",
-      "Christmas",
+      "Satire",
+      "Ghost Story",
+      "Gothic Parody",
       "Supernatural"
     ],
-    "updated_at": "2025-12-30T21:35:27Z",
-    "data_checksum": "07dd8601dbc51172a3960128631534be1765708757fc1c0b01904321a88dd34b",
-    "file_size": 221051236
+    "updated_at": "2026-01-09T01:04:54Z",
+    "data_checksum": "e3ae99d544236570c2f72d43aefae25377c6efd88d6991ca397473cd17d99365",
+    "file_size": 154712235
+  },
+  {
+    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+    "title": "Daisy Miller: A Study",
+    "author_names": "Henry James",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Realism",
+      "Social Manners",
+      "19th Century",
+      "Psychological Fiction"
+    ],
+    "updated_at": "2026-01-09T01:02:54Z",
+    "data_checksum": "a07221cfa5eac635e3e59fe8d5132d215fd83a3f41a5cd62c388d4287920f7f5",
+    "file_size": 223260549
   }
 ]

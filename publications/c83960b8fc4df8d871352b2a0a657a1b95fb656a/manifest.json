@@ -1,18 +1,197 @@
 {
+  "manifest_version": 2,
   "title": "The Canterville Ghost",
   "author_names": "Oscar Wilde",
   "description": "Publication imported from https://gutenberg.org/ebooks/14522.epub3.images",
-  "epub_source": "http://www.gutenberg.org/14522",
+  "epub_source": "https://gutenberg.org/ebooks/14522.epub3.images",
   "identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
   "publication_type": "novel",
   "cover_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.png",
-  "total_duration_s": 3785.8685539999997,
+  "total_duration_s": 3784.153197,
   "genre_tags": [
     "Classics",
     "Satire",
     "Ghost Story",
     "Gothic Parody",
     "Supernatural"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3784.153197
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.797,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "I",
+      "start_s": 6.797,
+      "end_s": 484.028,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CANTERVILLE_STUDY",
+            "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
+            "visual_description": "A late Victorian gentleman's private study. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. Heavy velvet curtains partially block afternoon light. A large wooden desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and brown tones."
+          },
+          {
+            "identifier": "SCENE_EXT_DRIVE",
+            "location_header": "EXT. COUNTRY ROAD - EVENING",
+            "visual_description": "A lush English countryside landscape at sunset viewed from a moving carriage. Pine woods and ferns line the road. Golden hour light filtering through trees, transitioning into ominous grey clouds and shadows. A sense of movement through nature, turning from idyllic to slightly foreboding."
+          },
+          {
+            "identifier": "SCENE_LIBRARY",
+            "location_header": "INT. CANTERVILLE CHASE LIBRARY - EVENING",
+            "visual_description": "A grand Tudor library with low ceilings and black oak paneling. A large stained glass window dominates the far wall. In the foreground, a dark wooden floor features a distinct dull red stain near a stone fireplace. The room is dimly lit, casting long shadows, with a somber and mysterious atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "II",
+      "start_s": 484.028,
+      "end_s": 894.025,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
+          },
+          {
+            "identifier": "SCENE_SECRET_CHAMBER",
+            "location_header": "INT. SECRET CHAMBER - NIGHT",
+            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow slit window, highlighting floating dust motes and cobwebs. Rough-hewn stone walls encompass the space. A heavy timber beam crosses the low ceiling. The atmosphere is ancient, claustrophobic, and cold."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "III",
+      "start_s": 894.025,
+      "end_s": 1674.593,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BREAKFAST_ROOM",
+            "location_header": "INT. BREAKFAST ROOM - MORNING",
+            "visual_description": "A sunny Victorian breakfast room with tall sash windows overlooking a garden. A large mahogany table is set with crisp white linens and gleaming silver service. Warm morning light floods the room, illuminating rich cream wallpaper and polished wood accents."
+          },
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
+          },
+          {
+            "identifier": "SCENE_SECRET_CHAMBER",
+            "location_header": "INT. SECRET CHAMBER - NIGHT",
+            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow slit window, highlighting floating dust motes and cobwebs. Rough-hewn stone walls encompass the space. A heavy timber beam crosses the low ceiling. The atmosphere is ancient, claustrophobic, and cold."
+          },
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR_DAWN",
+            "location_header": "INT. UPSTAIRS CORRIDOR - DAWN",
+            "visual_description": "The long Victorian corridor in the grey, flat light of early dawn. Shadows are softer but the air is cold and still. A makeshift scarecrow-like figure stands slumped against the wainscoting. The atmosphere is pale, quiet, and slightly absurd."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "IV",
+      "start_s": 1674.593,
+      "end_s": 2271.274,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "V",
+      "start_s": 2271.274,
+      "end_s": 2810.676,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TAPESTRY_CHAMBER",
+            "location_header": "INT. TAPESTRY CHAMBER - LATE AFTERNOON",
+            "visual_description": "A gloomy, neglected chamber in a Victorian manor bathed in the ruined gold light of autumn twilight. Faded green tapestries depicting huntsmen line the walls. A heavy carved chimneypiece features grotesque wooden animals. A tall window overlooks a long avenue of trees shedding yellow leaves. The atmosphere is dusty, melancholic, and shadowed."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "VI",
+      "start_s": 2810.676,
+      "end_s": 3297.256,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_EXT_DRIVE",
+            "location_header": "EXT. COUNTRY ROAD - NIGHT",
+            "visual_description": "A lush English countryside landscape at twilight transitioning into night. Pine woods and ferns line the road. Shadows lengthen across the path. The atmosphere is frantic and foreboding, lit by the last dregs of sunset and rising moonlight."
+          },
+          {
+            "identifier": "SCENE_GREAT_HALL",
+            "location_header": "INT. GREAT HALL - NIGHT",
+            "visual_description": "A grand Victorian entrance hall and staircase at midnight. A large clock tower is visible or audible nearby. Heavy oak panelling, a dining room visible in the background with leftover supper. The space is dimly lit by gas lamps and a sudden flash of lightning. Mood is tense, shifting to supernatural awe."
+          },
+          {
+            "identifier": "SCENE_SECRET_CHAMBER",
+            "location_header": "INT. SECRET CHAMBER - NIGHT",
+            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow grated window, illuminating a gaunt skeleton chained to the wall. Rough-hewn stone walls encompass the space. The atmosphere is ancient, tragic, and solemn."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "VII",
+      "start_s": 3297.256,
+      "end_s": 3784.153,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CANTERVILLE_STUDY",
+            "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
+            "visual_description": "A late Victorian gentleman's private study bathed in warm afternoon light filtering through heavy damask curtains. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. A large leather-topped writing desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and forest green tones throughout."
+          }
+        ]
+      },
+      "background_key": null
+    }
   ],
   "characters": [
     {
@@ -380,168 +559,6 @@
       "dialogue_count": 1,
       "image_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/ONE_OF_THE_TWINS.png",
       "voice_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/characters/ONE_OF_THE_TWINS.mp3"
-    }
-  ],
-  "segments": [
-    {
-      "ordinal": 0,
-      "title": "Introduction",
-      "metadata": {},
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/0/audio.mp3",
-      "duration_s": 6.800000000000001
-    },
-    {
-      "ordinal": 1,
-      "title": "I",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_CANTERVILLE_STUDY",
-            "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
-            "visual_description": "A late Victorian gentleman's private study. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. Heavy velvet curtains partially block afternoon light. A large wooden desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and brown tones."
-          },
-          {
-            "identifier": "SCENE_EXT_DRIVE",
-            "location_header": "EXT. COUNTRY ROAD - EVENING",
-            "visual_description": "A lush English countryside landscape at sunset viewed from a moving carriage. Pine woods and ferns line the road. Golden hour light filtering through trees, transitioning into ominous grey clouds and shadows. A sense of movement through nature, turning from idyllic to slightly foreboding."
-          },
-          {
-            "identifier": "SCENE_LIBRARY",
-            "location_header": "INT. CANTERVILLE CHASE LIBRARY - EVENING",
-            "visual_description": "A grand Tudor library with low ceilings and black oak paneling. A large stained glass window dominates the far wall. In the foreground, a dark wooden floor features a distinct dull red stain near a stone fireplace. The room is dimly lit, casting long shadows, with a somber and mysterious atmosphere."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/1/audio.mp3",
-      "duration_s": 477.4476199999999
-    },
-    {
-      "ordinal": 2,
-      "title": "II",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
-            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
-            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
-          },
-          {
-            "identifier": "SCENE_SECRET_CHAMBER",
-            "location_header": "INT. SECRET CHAMBER - NIGHT",
-            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow slit window, highlighting floating dust motes and cobwebs. Rough-hewn stone walls encompass the space. A heavy timber beam crosses the low ceiling. The atmosphere is ancient, claustrophobic, and cold."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/2/audio.mp3",
-      "duration_s": 410.183106
-    },
-    {
-      "ordinal": 3,
-      "title": "III",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_BREAKFAST_ROOM",
-            "location_header": "INT. BREAKFAST ROOM - MORNING",
-            "visual_description": "A sunny Victorian breakfast room with tall sash windows overlooking a garden. A large mahogany table is set with crisp white linens and gleaming silver service. Warm morning light floods the room, illuminating rich cream wallpaper and polished wood accents."
-          },
-          {
-            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
-            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
-            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
-          },
-          {
-            "identifier": "SCENE_SECRET_CHAMBER",
-            "location_header": "INT. SECRET CHAMBER - NIGHT",
-            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow slit window, highlighting floating dust motes and cobwebs. Rough-hewn stone walls encompass the space. A heavy timber beam crosses the low ceiling. The atmosphere is ancient, claustrophobic, and cold."
-          },
-          {
-            "identifier": "SCENE_UPSTAIRS_CORRIDOR_DAWN",
-            "location_header": "INT. UPSTAIRS CORRIDOR - DAWN",
-            "visual_description": "The long Victorian corridor in the grey, flat light of early dawn. Shadows are softer but the air is cold and still. A makeshift scarecrow-like figure stands slumped against the wainscoting. The atmosphere is pale, quiet, and slightly absurd."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/3/audio.mp3",
-      "duration_s": 780.9212440000001
-    },
-    {
-      "ordinal": 4,
-      "title": "IV",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_UPSTAIRS_CORRIDOR",
-            "location_header": "INT. UPSTAIRS CORRIDOR - NIGHT",
-            "visual_description": "A long Victorian corridor at night, bathed in wan moonlight filtering through tall windows. Dark oak wainscoting lines the walls below patterned wallpaper. A marble table stands near a heavy bedroom door. Deep shadows stretch across the polished floorboards. The atmosphere is eerie, quiet, and cool, with a mix of silver moonlight and deep charcoal darkness."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/4/audio.mp3",
-      "duration_s": 596.951429
-    },
-    {
-      "ordinal": 5,
-      "title": "V",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_TAPESTRY_CHAMBER",
-            "location_header": "INT. TAPESTRY CHAMBER - LATE AFTERNOON",
-            "visual_description": "A gloomy, neglected chamber in a Victorian manor bathed in the ruined gold light of autumn twilight. Faded green tapestries depicting huntsmen line the walls. A heavy carved chimneypiece features grotesque wooden animals. A tall window overlooks a long avenue of trees shedding yellow leaves. The atmosphere is dusty, melancholic, and shadowed."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/5/audio.mp3",
-      "duration_s": 539.646537
-    },
-    {
-      "ordinal": 6,
-      "title": "VI",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_EXT_DRIVE",
-            "location_header": "EXT. COUNTRY ROAD - NIGHT",
-            "visual_description": "A lush English countryside landscape at twilight transitioning into night. Pine woods and ferns line the road. Shadows lengthen across the path. The atmosphere is frantic and foreboding, lit by the last dregs of sunset and rising moonlight."
-          },
-          {
-            "identifier": "SCENE_GREAT_HALL",
-            "location_header": "INT. GREAT HALL - NIGHT",
-            "visual_description": "A grand Victorian entrance hall and staircase at midnight. A large clock tower is visible or audible nearby. Heavy oak panelling, a dining room visible in the background with leftover supper. The space is dimly lit by gas lamps and a sudden flash of lightning. Mood is tense, shifting to supernatural awe."
-          },
-          {
-            "identifier": "SCENE_SECRET_CHAMBER",
-            "location_header": "INT. SECRET CHAMBER - NIGHT",
-            "visual_description": "A cramped, dusty secret chamber inside a thick stone wall. A single beam of moonlight cuts through a narrow grated window, illuminating a gaunt skeleton chained to the wall. Rough-hewn stone walls encompass the space. The atmosphere is ancient, tragic, and solemn."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/6/audio.mp3",
-      "duration_s": 486.80041
-    },
-    {
-      "ordinal": 7,
-      "title": "VII",
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "SCENE_CANTERVILLE_STUDY",
-            "location_header": "INT. LORD CANTERVILLE'S STUDY - DAY",
-            "visual_description": "A late Victorian gentleman's private study bathed in warm afternoon light filtering through heavy damask curtains. Dark mahogany bookshelves line the walls, filled with leather-bound volumes. A large leather-topped writing desk with brass fittings sits in the foreground. The atmosphere is formal, serious, and aristocratic, with rich burgundy and forest green tones throughout."
-          }
-        ]
-      },
-      "background_key": null,
-      "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/segments/7/audio.mp3",
-      "duration_s": 487.11820799999987
     }
   ],
   "scenes": [
