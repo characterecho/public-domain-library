@@ -1,143 +1,278 @@
 {
+  "manifest_version": 2,
   "title": "Heart of Darkness",
   "author_names": "Joseph Conrad",
-  "description": "EPUB imported from https://www.gutenberg.org/ebooks/219.epub3.images",
-  "epub_source": "http://www.gutenberg.org/219",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/219.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/219.epub3.images",
   "identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+  "publication_type": "novel",
   "cover_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/cover.png",
-  "total_duration_s": 12512.178967000003,
+  "total_duration_s": 12893.256621,
+  "genre_tags": [
+    "Classics",
+    "Literary Fiction",
+    "Colonialism",
+    "Psychological",
+    "Nautical"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 7.28
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/audio_part_1.mp3",
+      "start_s": 7.28,
+      "end_s": 4819.794558
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/audio_part_2.mp3",
+      "start_s": 4819.794558,
+      "end_s": 12893.256621
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.28,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Part I",
+      "start_s": 7.28,
+      "end_s": 4819.795,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_THE_NELLIE",
+            "location_header": "EXT. THE NELLIE - DUSK",
+            "visual_description": "Late 19th-century maritime setting at dusk. The deck of a cruising yawl on the Thames estuary. Dark water stretches to the horizon, merging with a brooding, gloomy sky. Tanned sails of barges drift in the distance. The mood is meditative, sombre, and increasingly dark as night falls."
+          },
+          {
+            "identifier": "SCENE_COMPANY_OFFICES",
+            "location_header": "INT. COMPANY OFFICES - DAY",
+            "visual_description": "A montage of a sepulchral European city. A dimly lit waiting room with a deal table and a large map of Africa. A sanctuary-like inner office with a heavy writing desk and heavy curtains. A Victorian drawing room with a fireplace and tea service. The atmosphere is ominous, bureaucratic, and slightly surreal."
+          },
+          {
+            "identifier": "SCENE_COASTAL_VOYAGE",
+            "location_header": "EXT. STEAMER DECK - DAY",
+            "visual_description": "The deck of a French steamer under a fierce tropical sun. The view looks out towards a monotonous, dark-green jungle coastline fringed with white surf. The sea is oily and languid. The mood is isolated, mournful, and hot."
+          },
+          {
+            "identifier": "SCENE_OUTER_STATION",
+            "location_header": "EXT. OUTER STATION - DAY",
+            "visual_description": "A chaotic colonial station on a rocky riverbank. Rusty rails and decaying machinery lie in the grass. A grove of gloomy trees provides shade for exhausted figures. A ramshackle building stands on the slope. Blinding sunlight contrasts with deep, dark shadows."
+          },
+          {
+            "identifier": "SCENE_THE_TREK",
+            "location_header": "EXT. JUNGLE PATH - DAY",
+            "visual_description": "A rugged jungle path winding through empty land. Tall grass, thickets, and stony hills ablaze with heat. Abandoned villages with ruined grass walls. The atmosphere is silent, lonely, and oppressive."
+          },
+          {
+            "identifier": "SCENE_CENTRAL_STATION",
+            "location_header": "EXT. CENTRAL STATION - NIGHT",
+            "visual_description": "A river station surrounded by scrub and forest. Clay huts with grass roofs, a crazy fence of rushes, and a neglected gateway. The wreck of a steamboat lies on the muddy slope. Moonlight illuminates the river and the wall of matted vegetation. The mood is conspiratorial and eerie."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Part II",
+      "start_s": 4819.795,
+      "end_s": 8948.589,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CENTRAL_STATION",
+            "location_header": "EXT. CENTRAL STATION - NIGHT",
+            "visual_description": "A chaotic colonial station on a riverbank at night. Moonlight illuminates a clay hut with a grass roof and the muddy slope down to the river. The wreck of a steamboat lies nearby. Deep shadows and a conspiratorial, eerie atmosphere."
+          },
+          {
+            "identifier": "SCENE_RIVER_JOURNEY",
+            "location_header": "EXT. RIVER CONGO - DAY",
+            "visual_description": "A steamboat crawling up a massive African river. Towering walls of dense green forest line the banks, dwarfing the tiny boat. The water is muddy and treacherous. Intense tropical sunlight beats down, creating high contrast and deep gloom within the trees."
+          },
+          {
+            "identifier": "SCENE_THE_NELLIE",
+            "location_header": "EXT. THE NELLIE - NIGHT",
+            "visual_description": "Late 19th-century maritime setting at night. The deck of a cruising yawl on the Thames estuary. Dark water stretches to the horizon, merging with a brooding, gloomy sky. The only light comes from the glow of a pipe and the faint stars."
+          },
+          {
+            "identifier": "SCENE_RIVER_FOG",
+            "location_header": "EXT. RIVER CONGO - FOG",
+            "visual_description": "A blinding white fog on the river, warm and clammy. It surrounds the steamboat like a solid wall, obscuring everything beyond a few feet of water. The lighting is diffused, opaque, and shadowless, creating a sense of isolation and blindness."
+          },
+          {
+            "identifier": "SCENE_RIVER_ATTACK",
+            "location_header": "EXT. RIVER CONGO - DAY",
+            "visual_description": "A narrow river channel heavily overshadowed by overhanging trees and bushes. Smoke from gunfire drifts across the water. The pilot-house of the steamboat is visible, with arrows sticking to the wood. The atmosphere is chaotic and smoky."
+          },
+          {
+            "identifier": "SCENE_INNER_STATION",
+            "location_header": "EXT. INNER STATION - DAY",
+            "visual_description": "A clearing on a hill slope with rare trees. A decaying building stands on the summit with gaping holes in the roof. Ornamental posts topped with round balls line the path. The jungle forms a dark background. Bright sunshine illuminates the ruin."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Part III",
+      "start_s": 8948.589,
+      "end_s": 12893.257,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_INNER_STATION",
+            "location_header": "EXT. INNER STATION - DAY",
+            "visual_description": "A clearing on a hill slope with rare trees. A decaying building stands on the summit with gaping holes in the roof. Ornamental posts topped with round balls line the path. The jungle forms a dark background. Bright sunshine illuminates the ruin."
+          },
+          {
+            "identifier": "SCENE_STEAMER_CABIN",
+            "location_header": "INT. STEAMER CABIN - NIGHT",
+            "visual_description": "A cramped, dimly lit cabin on a river steamboat. A camp bed cluttered with torn envelopes and open letters dominates the space. A candle casts flickering shadows on rough wooden walls. The atmosphere is stifling, intimate, and shadowed by death."
+          },
+          {
+            "identifier": "SCENE_SEPULCHRAL_CITY",
+            "location_header": "EXT. BRUSSELS - DAY",
+            "visual_description": "A grey, imposing European city street lined with tall, severe houses. The light is flat and colorless, reflecting off damp pavement. Interiors are bureaucratic and dimly lit. A cold, orderly, and lifeless atmosphere prevails."
+          },
+          {
+            "identifier": "SCENE_INTENDED_DRAWING_ROOM",
+            "location_header": "INT. DRAWING ROOM - DUSK",
+            "visual_description": "A lofty Victorian drawing room at dusk. Three floor-to-ceiling windows resemble luminous columns against the gathering dark. Massive mahogany furniture with gilt accents gleams faintly. A grand piano stands like a polished sarcophagus. The mood is funereal and hushed."
+          },
+          {
+            "identifier": "SCENE_THE_NELLIE",
+            "location_header": "EXT. THE NELLIE - NIGHT",
+            "visual_description": "Late 19th-century maritime setting at night. The deck of a cruising yawl on the Thames estuary. Dark water stretches to the horizon, merging with a brooding, gloomy sky. The only light comes from the glow of a pipe and the faint stars."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
   "characters": [
     {
       "identifier": "MARLOW",
       "name": "Marlow",
-      "aliases": [
-        "Charlie Marlow"
-      ],
+      "aliases": [],
       "voice_attributes": [
-        "storyteller",
-        "weary",
+        "gravelly",
         "philosophical",
-        "introspective",
-        "sardonic"
+        "brooding",
+        "storyteller"
       ],
       "visual_attributes": [
         "sunken cheeks",
         "yellow complexion",
         "straight back",
-        "ascetic",
-        "lean face",
-        "hollow"
+        "ascetic aspect",
+        "wind-battered face"
       ],
       "roles": [
-        "Protagonist",
-        "Seaman",
-        "Wanderer",
-        "Steamboat Captain"
+        "protagonist",
+        "storyteller"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 335,
+      "dialogue_count": 462,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOW.png",
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOW.mp3"
     },
     {
-      "identifier": "RUSSIAN_TRADER",
-      "name": "The Russian Trader",
+      "identifier": "THE_RUSSIAN",
+      "name": "The Russian",
       "aliases": [
-        "the harlequin",
-        "the chap",
-        "the man of patches",
-        "Kurtz's last disciple"
+        "The Harlequin"
       ],
       "voice_attributes": [
-        "cheerful",
-        "vivacious",
-        "garrulous",
-        "solemn",
-        "earnest",
-        "crestfallen"
+        "enthusiastic",
+        "nervous",
+        "voluble"
       ],
       "visual_attributes": [
-        "harlequin-like patched clothes",
-        "beardless",
         "boyish face",
-        "fair",
         "peeling nose",
-        "little blue eyes"
+        "blue eyes",
+        "fair hair",
+        "patchwork clothes",
+        "brown holland jacket"
       ],
       "roles": [
-        "Trader",
-        "Wanderer"
+        "trader",
+        "disciple"
       ],
       "metadata": {
         "age_group": "young",
         "gender": "male",
-        "voice_accent": "russian"
+        "voice_accent": "russian_accented_english"
       },
-      "dialogue_count": 48,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/RUSSIAN_TRADER.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/RUSSIAN_TRADER.mp3"
+      "dialogue_count": 44,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/THE_RUSSIAN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/THE_RUSSIAN.mp3"
     },
     {
       "identifier": "NARRATOR",
       "name": "Narrator",
-      "aliases": [
-        "Unnamed crewman"
-      ],
+      "aliases": [],
       "voice_attributes": [
-        "calm",
-        "observant",
-        "reflective",
-        "unobtrusive"
+        "neutral"
       ],
       "visual_attributes": [
         "[]"
       ],
       "roles": [
-        "Framing narrator",
-        "Frame Narrator"
+        "narrator"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "Polish"
+        "voice_accent": "polish"
       },
-      "dialogue_count": 28,
+      "dialogue_count": 36,
       "image_key": null,
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/NARRATOR.mp3"
     },
     {
       "identifier": "MANAGER",
-      "name": "The Central Station Manager",
-      "aliases": [
-        "The general manager",
-        "the nephew"
-      ],
+      "name": "The Manager",
+      "aliases": [],
       "voice_attributes": [
         "commonplace",
         "cold",
-        "fidgety",
-        "quiet",
-        "indignant",
-        "sorrowful"
+        "placid"
       ],
       "visual_attributes": [
-        "middle size",
-        "ordinary build",
-        "blue eyes",
-        "unconscious smile"
+        "cold blue eyes",
+        "stealthy smile",
+        "ordinary build"
       ],
       "roles": [
-        "Antagonist",
-        "Administrator"
+        "antagonist"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "continental"
+        "voice_accent": "british"
       },
       "dialogue_count": 27,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGER.png",
@@ -146,267 +281,237 @@
     {
       "identifier": "THE_INTENDED",
       "name": "Kurtz's Intended",
-      "aliases": [
-        "the girl"
-      ],
+      "aliases": [],
       "voice_attributes": [
-        "murmuring",
-        "eager",
-        "heart-broken",
-        "despairing",
-        "guileless"
+        "low",
+        "sorrowful",
+        "trusting",
+        "despairing"
       ],
       "visual_attributes": [
-        "pale head",
         "fair hair",
+        "pale visage",
+        "mourning black dress",
         "pure brow",
-        "dark eyes",
-        "dressed in black"
+        "dark eyes"
       ],
       "roles": [
-        "Fiancée",
-        "Mourner"
+        "fiancee"
       ],
       "metadata": {
-        "age_group": "middle_aged",
+        "age_group": "young",
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 20,
+      "dialogue_count": 23,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/THE_INTENDED.png",
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/THE_INTENDED.mp3"
     },
     {
       "identifier": "KURTZ",
-      "name": "Mr. Kurtz",
-      "aliases": [
-        "Kurtz"
-      ],
-      "voice_attributes": [
-        "deep",
-        "profound",
-        "vibrating",
-        "whispering",
-        "commanding"
-      ],
-      "visual_attributes": [
-        "lank",
-        "bony",
-        "ivory face",
-        "emaciated",
-        "seven feet long"
-      ],
-      "roles": [
-        "Station Chief",
-        "Ivory Trader",
-        "Demigod"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 15,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ.mp3"
-    },
-    {
-      "identifier": "BRICKMAKER",
-      "name": "The Brickmaker",
-      "aliases": [
-        "The manager's spy",
-        "Papier-mache Mephistopheles"
-      ],
-      "voice_attributes": [
-        "supercilious",
-        "ingratiating",
-        "curious",
-        "reserved"
-      ],
-      "visual_attributes": [
-        "young",
-        "gentlemanly",
-        "forked little beard",
-        "hooked nose"
-      ],
-      "roles": [
-        "Agent",
-        "Spy"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 10,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BRICKMAKER.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BRICKMAKER.mp3"
-    },
-    {
-      "identifier": "MANAGERS_UNCLE",
-      "name": "The Manager's Uncle",
-      "aliases": [
-        "the uncle"
-      ],
-      "voice_attributes": [
-        "cunning",
-        "conspiratorial",
-        "grunting",
-        "rumbling"
-      ],
-      "visual_attributes": [
-        "resembles a butcher",
-        "fat paunch",
-        "short legs",
-        "fat man"
-      ],
-      "roles": [
-        "Expedition Leader"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 9,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_UNCLE.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_UNCLE.mp3"
-    },
-    {
-      "identifier": "CHIEF_ACCOUNTANT",
-      "name": "The Chief Accountant",
+      "name": "Kurtz",
       "aliases": [],
       "voice_attributes": [
-        "composed",
-        "precise",
-        "calm",
-        "annoyed"
+        "deep",
+        "grave",
+        "vibrating",
+        "weak"
       ],
       "visual_attributes": [
-        "immaculately dressed",
-        "starched collar",
-        "white cuffs",
-        "varnished boots"
+        "gaunt ivory face",
+        "burning eyes",
+        "bald head",
+        "withered expression"
       ],
       "roles": [
-        "Company Official"
+        "antagonist",
+        "ivory_trader"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 9,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CHIEF_ACCOUNTANT.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CHIEF_ACCOUNTANT.mp3"
+      "dialogue_count": 14,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ.mp3"
     },
     {
       "identifier": "DOCTOR",
       "name": "The Doctor",
       "aliases": [],
       "voice_attributes": [
-        "matter-of-fact",
+        "precise",
         "mumbling",
-        "inquisitive",
-        "imperturbable"
+        "scientific"
       ],
       "visual_attributes": [
-        "unshaven",
-        "small",
-        "threadbare coat"
+        "unshaven face",
+        "threadbare coat",
+        "slippers"
       ],
       "roles": [
-        "Company Doctor"
+        "doctor"
       ],
       "metadata": {
         "age_group": "old",
         "gender": "male",
         "voice_accent": "french"
       },
-      "dialogue_count": 7,
+      "dialogue_count": 10,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DOCTOR.png",
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DOCTOR.mp3"
     },
     {
-      "identifier": "SWEDE_CAPTAIN",
-      "name": "The Swede Captain",
+      "identifier": "CHIEF_ACCOUNTANT",
+      "name": "Chief Accountant",
       "aliases": [],
       "voice_attributes": [
-        "morose",
+        "elegant",
+        "modest"
+      ],
+      "visual_attributes": [
+        "high starched collar",
+        "white cuffs",
+        "alpaca jacket",
+        "oiled hair",
+        "penholder behind ear"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CHIEF_ACCOUNTANT.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CHIEF_ACCOUNTANT.mp3"
+    },
+    {
+      "identifier": "MANAGERS_UNCLE",
+      "name": "The Uncle",
+      "aliases": [],
+      "voice_attributes": [
+        "grunting",
+        "husky",
+        "conspiratorial"
+      ],
+      "visual_attributes": [
+        "short fat figure",
+        "red face",
+        "cunning eyes",
+        "short arms",
+        "paunch"
+      ],
+      "roles": [
+        "relative",
+        "conspirator"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_UNCLE.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_UNCLE.mp3"
+    },
+    {
+      "identifier": "BRICKMAKER",
+      "name": "The Brickmaker",
+      "aliases": [
+        "Paper-mache Mephistopheles"
+      ],
+      "voice_attributes": [
+        "sly",
+        "curious",
+        "aristocratic"
+      ],
+      "visual_attributes": [
+        "forked little beard",
+        "hooked nose",
+        "glittering mica eyes"
+      ],
+      "roles": [
+        "agent",
+        "spy"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BRICKMAKER.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BRICKMAKER.mp3"
+    },
+    {
+      "identifier": "SWEDISH_CAPTAIN",
+      "name": "The Swede",
+      "aliases": [],
+      "voice_attributes": [
         "bitter",
-        "contemptuous",
         "precise"
       ],
       "visual_attributes": [
-        "young",
-        "lean",
-        "fair",
-        "lanky hair"
+        "lean face",
+        "fair lanky hair",
+        "morose expression"
       ],
       "roles": [
-        "Steamer Captain"
+        "captain"
       ],
       "metadata": {
         "age_group": "young",
         "gender": "male",
         "voice_accent": "swedish"
       },
-      "dialogue_count": 6,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SWEDE_CAPTAIN.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SWEDE_CAPTAIN.mp3"
+      "dialogue_count": 8,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SWEDISH_CAPTAIN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SWEDISH_CAPTAIN.mp3"
     },
     {
-      "identifier": "PILGRIM_FAT",
-      "name": "Fat Pilgrim",
-      "aliases": [
-        "the pilgrim in pink pyjamas"
-      ],
+      "identifier": "PILGRIM_VOICE",
+      "name": "Pilgrim",
+      "aliases": [],
       "voice_attributes": [
-        "stammering",
-        "agitated",
-        "impressed",
-        "official"
+        "scared",
+        "whispering"
       ],
       "visual_attributes": [
-        "little fat man",
-        "sandy hair",
-        "red whiskers",
-        "sidespring boots",
-        "pink pyjamas"
+        "generic colonial dress"
       ],
       "roles": [
-        "Pilgrim",
-        "Agent"
+        "pilgrim"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "continental"
+        "voice_accent": "british"
       },
-      "dialogue_count": 4,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_FAT.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_FAT.mp3"
+      "dialogue_count": 6,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_VOICE.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_VOICE.mp3"
     },
     {
-      "identifier": "FOREMAN",
-      "name": "The Foreman",
-      "aliases": [
-        "Boiler-maker"
-      ],
+      "identifier": "RED_HAIRED_PILGRIM",
+      "name": "Red-Haired Pilgrim",
+      "aliases": [],
       "voice_attributes": [
-        "enthusiastic",
-        "worried",
-        "intense"
+        "excitable",
+        "bloodthirsty"
       ],
       "visual_attributes": [
-        "lank",
-        "bony",
-        "yellow-faced",
-        "bald",
-        "long beard"
+        "fat body",
+        "sandy hair",
+        "red whiskers",
+        "pink pyjamas",
+        "sidespring boots"
       ],
       "roles": [
-        "Mechanic"
+        "pilgrim"
       ],
       "metadata": {
         "age_group": "middle_aged",
@@ -414,33 +519,112 @@
         "voice_accent": "british"
       },
       "dialogue_count": 4,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/FOREMAN.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/FOREMAN.mp3"
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/RED_HAIRED_PILGRIM.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/RED_HAIRED_PILGRIM.mp3"
     },
     {
-      "identifier": "STOUT_MAN",
-      "name": "The Stout Man",
+      "identifier": "BOILER_MAKER",
+      "name": "The Foreman",
       "aliases": [],
       "voice_attributes": [
-        "excitable",
-        "voluble",
-        "servile"
+        "intense",
+        "enthusiastic"
       ],
       "visual_attributes": [
-        "stout",
-        "black moustaches"
+        "lank yellow face",
+        "bald head",
+        "long beard",
+        "intense eyes"
       ],
       "roles": [
-        "Agent"
+        "mechanic"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "continental"
+        "voice_accent": "british"
       },
       "dialogue_count": 4,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BOILER_MAKER.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/BOILER_MAKER.mp3"
+    },
+    {
+      "identifier": "STOUT_MAN",
+      "name": "Stout Man",
+      "aliases": [],
+      "voice_attributes": [
+        "excitable",
+        "voluble"
+      ],
+      "visual_attributes": [
+        "black moustaches",
+        "stout figure"
+      ],
+      "roles": [
+        "agent"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/STOUT_MAN.png",
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/STOUT_MAN.mp3"
+    },
+    {
+      "identifier": "COMPANY_OFFICIAL",
+      "name": "Official",
+      "aliases": [],
+      "voice_attributes": [
+        "suave",
+        "pressing",
+        "official"
+      ],
+      "visual_attributes": [
+        "clean-shaven face",
+        "gold-rimmed spectacles",
+        "official manner"
+      ],
+      "roles": [
+        "bureaucrat"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_OFFICIAL.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_OFFICIAL.mp3"
+    },
+    {
+      "identifier": "CANNIBAL_HEADMAN",
+      "name": "Headman",
+      "aliases": [],
+      "voice_attributes": [
+        "snapping",
+        "deep",
+        "curt"
+      ],
+      "visual_attributes": [
+        "broad black chest",
+        "fierce nostrils",
+        "filed teeth",
+        "hair in oily ringlets",
+        "dark blue fringed cloth"
+      ],
+      "roles": [
+        "crew_leader"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "african_accented_english"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CANNIBAL_HEADMAN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CANNIBAL_HEADMAN.mp3"
     },
     {
       "identifier": "JOURNALIST",
@@ -448,123 +632,118 @@
       "aliases": [],
       "voice_attributes": [
         "expansive",
-        "confident"
+        "curious"
       ],
       "visual_attributes": [
         "furry straight eyebrows",
-        "bristly cropped hair",
-        "eyeglass on a broad ribbon"
+        "bristly hair",
+        "eyeglass on ribbon"
       ],
       "roles": [
-        "Colleague"
+        "reporter"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 3,
+      "dialogue_count": 2,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/JOURNALIST.png",
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/JOURNALIST.mp3"
     },
     {
-      "identifier": "COMPANY_OFFICIAL",
-      "name": "Company Official",
-      "aliases": [
-        "clean-shaved man"
-      ],
+      "identifier": "WHITE_COMPANION",
+      "name": "Companion",
+      "aliases": [],
       "voice_attributes": [
-        "official",
-        "suavely pressing",
-        "menacing"
+        "fleshy",
+        "complaining",
+        "gruff"
       ],
       "visual_attributes": [
-        "clean-shaved",
-        "gold-rimmed spectacles"
+        "overweight",
+        "perspiring face"
       ],
       "roles": [
-        "Official"
+        "traveler",
+        "listener"
       ],
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "continental"
+        "voice_accent": "british"
       },
-      "dialogue_count": 3,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_OFFICIAL.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_OFFICIAL.mp3"
+      "dialogue_count": 2,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/WHITE_COMPANION.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/WHITE_COMPANION.mp3"
     },
     {
-      "identifier": "HEADMAN",
-      "name": "The Headman",
+      "identifier": "KURTZ_COUSIN",
+      "name": "The Cousin",
       "aliases": [],
       "voice_attributes": [
-        "snapping",
-        "curt",
-        "dignified"
+        "agitated",
+        "senile"
       ],
       "visual_attributes": [
-        "young",
-        "broad-chested",
-        "dark-blue fringed cloths",
-        "fierce nostrils",
-        "oily ringlets"
+        "lank grey hair",
+        "greasy coat-collar",
+        "snuff-stained"
       ],
       "roles": [
-        "Cannibal Crew Leader"
+        "relative"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ_COUSIN.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZ_COUSIN.mp3"
+    },
+    {
+      "identifier": "SERVANT_BOY",
+      "name": "Servant Boy",
+      "aliases": [],
+      "voice_attributes": [
+        "scathing",
+        "contemptuous"
+      ],
+      "visual_attributes": [
+        "insolent expression"
+      ],
+      "roles": [
+        "servant"
       ],
       "metadata": {
         "age_group": "young",
         "gender": "male",
-        "voice_accent": "african"
+        "voice_accent": "african_accented_english"
       },
-      "dialogue_count": 2,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/HEADMAN.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/HEADMAN.mp3"
-    },
-    {
-      "identifier": "MARLOWS_AUNT",
-      "name": "Marlow's Aunt",
-      "aliases": [],
-      "voice_attributes": [
-        "enthusiastic",
-        "idealistic",
-        "earnest"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "Relative"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOWS_AUNT.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MARLOWS_AUNT.mp3"
+      "dialogue_count": 1,
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SERVANT_BOY.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/SERVANT_BOY.mp3"
     },
     {
       "identifier": "DIRECTOR",
-      "name": "The Director of Companies",
+      "name": "The Director",
       "aliases": [
-        "Captain",
-        "Host"
+        "Director of Companies"
       ],
       "voice_attributes": [
-        "authoritative",
-        "calm",
-        "nautical"
+        "nautical",
+        "authoritative"
       ],
       "visual_attributes": [
-        "resembles a pilot"
+        "pilot-like appearance",
+        "trustworthy face"
       ],
       "roles": [
-        "Captain",
-        "Companion"
+        "captain"
       ],
       "metadata": {
-        "age_group": "middle_aged",
+        "age_group": "old",
         "gender": "male",
         "voice_accent": "british"
       },
@@ -573,340 +752,180 @@
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/DIRECTOR.mp3"
     },
     {
-      "identifier": "PILGRIM_MURMURING",
-      "name": "Murmuring Pilgrim",
-      "aliases": [],
-      "voice_attributes": [
-        "murmuring",
-        "fearful",
-        "strained"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "Pilgrim",
-        "Agent"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_MURMURING.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_MURMURING.mp3"
-    },
-    {
-      "identifier": "MANAGERS_BOY",
-      "name": "Manager's Boy",
-      "aliases": [],
-      "voice_attributes": [
-        "scathing",
-        "contemptuous"
-      ],
-      "visual_attributes": [
-        "insolent",
-        "black head"
-      ],
-      "roles": [
-        "Servant"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "african"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_BOY.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/MANAGERS_BOY.mp3"
-    },
-    {
       "identifier": "CLERK",
       "name": "The Clerk",
-      "aliases": [],
-      "voice_attributes": [
-        "jovial",
-        "then cool",
-        "sententious"
+      "aliases": [
+        "Plato"
       ],
-      "visual_attributes": [
+      "voice_attributes": [
         "shabby",
         "careless",
-        "ink-stained",
-        "billowy cravat"
+        "jovial"
+      ],
+      "visual_attributes": [
+        "inkstained jacket",
+        "billowy cravat",
+        "chin like old boot"
       ],
       "roles": [
-        "Minor Official"
+        "clerk"
       ],
       "metadata": {
         "age_group": "young",
         "gender": "male",
-        "voice_accent": "continental"
+        "voice_accent": "british"
       },
       "dialogue_count": 1,
       "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CLERK.png",
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/CLERK.mp3"
     },
     {
-      "identifier": "COMPANY_SECRETARY",
-      "name": "Company Secretary",
+      "identifier": "AUNT",
+      "name": "The Aunt",
       "aliases": [],
       "voice_attributes": [
-        "sympathetic",
-        "desolate",
-        "formal"
+        "bright",
+        "enthusiastic"
       ],
       "visual_attributes": [
-        "white-haired",
-        "compassionate expression"
+        "victorian lady",
+        "kind face"
       ],
       "roles": [
-        "Minor Official"
+        "relative"
       ],
       "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_SECRETARY.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_SECRETARY.mp3"
-    },
-    {
-      "identifier": "COMPANY_HEAD",
-      "name": "The Company Head",
-      "aliases": [
-        "The great man"
-      ],
-      "voice_attributes": [
-        "vague",
-        "perfunctory",
-        "powerful"
-      ],
-      "visual_attributes": [
-        "pale",
-        "plump",
-        "short",
-        "wears a frock-coat"
-      ],
-      "roles": [
-        "Executive"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "french"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_HEAD.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/COMPANY_HEAD.mp3"
-    },
-    {
-      "identifier": "PILGRIM_DECK",
-      "name": "Pilgrim on Deck",
-      "aliases": [
-        "some one on deck"
-      ],
-      "voice_attributes": [
-        "disconsolate",
-        "crying out"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "Pilgrim"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_DECK.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_DECK.mp3"
-    },
-    {
-      "identifier": "LISTENER_1",
-      "name": "A Listener",
-      "aliases": [
-        "a voice"
-      ],
-      "voice_attributes": [
-        "growling",
-        "impatient",
-        "gruff"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "Companion"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
+        "age_group": "old",
+        "gender": "female",
         "voice_accent": "british"
       },
       "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/LISTENER_1.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/LISTENER_1.mp3"
-    },
-    {
-      "identifier": "KURTZS_COUSIN",
-      "name": "Kurtz's Cousin",
-      "aliases": [],
-      "voice_attributes": [
-        "anxious"
-      ],
-      "visual_attributes": [
-        "lank grey hair",
-        "greasy coat-collar"
-      ],
-      "roles": [
-        "Relative",
-        "Organist"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZS_COUSIN.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/KURTZS_COUSIN.mp3"
-    },
-    {
-      "identifier": "PILGRIM_RED_HAIRED",
-      "name": "Red-Haired Pilgrim",
-      "aliases": [],
-      "voice_attributes": [
-        "excited",
-        "bloodthirsty",
-        "indignant"
-      ],
-      "visual_attributes": [
-        "red-haired",
-        "gingery"
-      ],
-      "roles": [
-        "Pilgrim",
-        "Agent"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_RED_HAIRED.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_RED_HAIRED.mp3"
-    },
-    {
-      "identifier": "PILGRIM_AWED",
-      "name": "Awed Pilgrim",
-      "aliases": [],
-      "voice_attributes": [
-        "awed",
-        "whispering",
-        "fearful"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "Pilgrim",
-        "Agent"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "continental"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_AWED.png",
-      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/PILGRIM_AWED.mp3"
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/AUNT.png",
+      "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/AUNT.mp3"
     }
   ],
-  "segments": [
+  "scenes": [
     {
+      "identifier": "SCENE_COVER_00",
       "ordinal": 0,
-      "title": "Introduction",
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_CENTRAL_STATION",
+      "ordinal": 0,
+      "location_header": "EXT. CENTRAL STATION - NIGHT",
+      "visual_description": "A chaotic colonial station on a riverbank at night. Moonlight illuminates a clay hut with a grass roof and the muddy slope down to the river. The wreck of a steamboat lies nearby. Deep shadows and a conspiratorial, eerie atmosphere.",
       "metadata": {},
-      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/0/segment_0.png",
-      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/0/audio.mp3",
-      "duration_s": 7.0
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_CENTRAL_STATION.jpg"
     },
     {
+      "identifier": "SCENE_INNER_STATION",
+      "ordinal": 0,
+      "location_header": "EXT. INNER STATION - DAY",
+      "visual_description": "A clearing on a hill slope with rare trees. A decaying building stands on the summit with gaping holes in the roof. Ornamental posts topped with round balls line the path. The jungle forms a dark background. Bright sunshine illuminates the ruin.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_INNER_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_JOURNEY",
       "ordinal": 1,
-      "title": "Part I.",
-      "metadata": {
-        "scene_summary": {
-          "description": "At sunset, five men aboard a cruising yawl named the Nellie are anchored in the Thames Estuary, waiting for the tide to turn. The mood is meditative and serene as the sky glows, but a mournful gloom hangs over London around the year 1900 in the distance, setting a contemplative and slightly ominous tone.",
-          "important_details": [
-            "Location: The Nellie, a yawl on the Thames Estuary",
-            "Time of Day: Sunset, turning to dusk",
-            "Weather: Calm, hazy",
-            "Atmosphere: Placid, meditative, with an undercurrent of darkness"
-          ],
-          "notable_characters": [
-            "NARRATOR",
-            "DIRECTOR",
-            "LAWYER",
-            "ACCOUNTANT",
-            "MARLOW"
-          ]
-        }
-      },
-      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/1/segment_1.png",
-      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/1/audio.mp3",
-      "duration_s": 4773.619772000003
+      "location_header": "EXT. RIVER CONGO - DAY",
+      "visual_description": "A steamboat crawling up a massive African river. Towering walls of dense green forest line the banks, dwarfing the tiny boat. The water is muddy and treacherous. Intense tropical sunlight beats down, creating high contrast and deep gloom within the trees.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_RIVER_JOURNEY.jpg"
     },
     {
+      "identifier": "SCENE_STEAMER_CABIN",
+      "ordinal": 1,
+      "location_header": "INT. STEAMER CABIN - NIGHT",
+      "visual_description": "A cramped, dimly lit cabin on a river steamboat. A camp bed cluttered with torn envelopes and open letters dominates the space. A candle casts flickering shadows on rough wooden walls. The atmosphere is stifling, intimate, and shadowed by death.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_STEAMER_CABIN.jpg"
+    },
+    {
+      "identifier": "SCENE_COMPANY_OFFICES",
+      "ordinal": 1,
+      "location_header": "INT. COMPANY OFFICES - DAY",
+      "visual_description": "A dimly lit waiting room with a deal table and a large map of Africa, a sanctuary-like inner office with a heavy writing desk and heavy curtains. The atmosphere is ominous, bureaucratic, and slightly surreal.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_COMPANY_OFFICES.jpg"
+    },
+    {
+      "identifier": "SCENE_COASTAL_VOYAGE",
       "ordinal": 2,
-      "title": "Part II.",
-      "metadata": {
-        "scene_summary": {
-          "description": "On a steamboat deck, Marlow overhears a clandestine conversation about the mysterious Mr. Kurtz. The scene then shifts to the arduous and surreal journey up the Congo River, culminating in a tense, fog-bound halt and a sudden, violent attack before finally arriving at Kurtz's station.",
-          "important_details": [
-            "Location: On a steamboat on the Congo River",
-            "Atmosphere: Conspiratorial, oppressive, tense, surreal",
-            "Key Events: Eavesdropping, river journey, fog, native cries, arrow attack, arrival at Inner Station"
-          ],
-          "notable_characters": [
-            "MARLOW",
-            "MANAGER",
-            "MANAGERS_UNCLE",
-            "HEADMAN",
-            "RUSSIAN_TRADER",
-            "NARRATOR"
-          ]
-        }
-      },
-      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/2/segment_2.png",
-      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/2/audio.mp3",
-      "duration_s": 4017.1941710000006
+      "location_header": "EXT. STEAMER DECK - DAY",
+      "visual_description": "The deck of a French steamer under a fierce tropical sun. The view looks out towards a monotonous, dark-green jungle coastline fringed with white surf. The sea is oily and languid. The mood is isolated, mournful, and hot.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_COASTAL_VOYAGE.jpg"
     },
     {
+      "identifier": "SCENE_SEPULCHRAL_CITY",
+      "ordinal": 2,
+      "location_header": "EXT. BRUSSELS - DAY",
+      "visual_description": "A grey, imposing European city street lined with tall, severe houses. The light is flat and colorless, reflecting off damp pavement. Interiors are bureaucratic and dimly lit. A cold, orderly, and lifeless atmosphere prevails.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_SEPULCHRAL_CITY.jpg"
+    },
+    {
+      "identifier": "SCENE_OUTER_STATION",
       "ordinal": 3,
-      "title": "Part III.",
-      "metadata": {
-        "scene_summary": {
-          "description": "On a steamboat deep in the Congo jungle, Marlow learns the disturbing truth about Kurtz from a devoted Russian trader. The scene transitions from the eerie stillness of the station, marked by severed heads on stakes, to a tense confrontation with Kurtz's native followers, his dramatic removal to the boat, his eventual death during the journey downriver, and finally to a somber, gas-lit drawing-room in Europe where Marlow confronts Kurtz's memory by lying to his fiancée.",
-          "important_details": [
-            "Congo River",
-            "Inner Station",
-            "Steamboat deck",
-            "European drawing-room",
-            "Late 19th Century"
-          ],
-          "notable_characters": [
-            "MARLOW",
-            "RUSSIAN_TRADER",
-            "KURTZ",
-            "MANAGER",
-            "THE_INTENDED",
-            "DIRECTOR",
-            "NARRATOR"
-          ]
-        }
-      },
-      "background_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/3/segment_3.png",
-      "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/segments/3/audio.mp3",
-      "duration_s": 3714.3650239999993
+      "location_header": "EXT. OUTER STATION - DAY",
+      "visual_description": "A chaotic colonial station on a rocky riverbank. Rusty rails and decaying machinery lie in the grass. A grove of gloomy trees provides shade for exhausted figures. A ramshackle building stands on the slope. Blinding sunlight contrasts with deep, dark shadows.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_OUTER_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_INTENDED_DRAWING_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. DRAWING ROOM - DUSK",
+      "visual_description": "A lofty Victorian drawing room at dusk. Three floor-to-ceiling windows resemble luminous columns against the gathering dark. Massive mahogany furniture with gilt accents gleams faintly. A grand piano stands like a polished sarcophagus. The mood is funereal and hushed.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_INTENDED_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_FOG",
+      "ordinal": 3,
+      "location_header": "EXT. RIVER CONGO - FOG",
+      "visual_description": "A blinding white fog on the river, warm and clammy. It surrounds the steamboat like a solid wall, obscuring everything beyond a few feet of water. The lighting is diffused, opaque, and shadowless, creating a sense of isolation and blindness.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_RIVER_FOG.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_ATTACK",
+      "ordinal": 4,
+      "location_header": "EXT. RIVER CONGO - DAY",
+      "visual_description": "A narrow river channel heavily overshadowed by overhanging trees and bushes. Smoke from gunfire drifts across the water. The pilot-house of the steamboat is visible, with arrows sticking to the wood. The atmosphere is chaotic and smoky.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_RIVER_ATTACK.jpg"
+    },
+    {
+      "identifier": "SCENE_THE_NELLIE",
+      "ordinal": 4,
+      "location_header": "EXT. THE NELLIE - NIGHT",
+      "visual_description": "Late 19th-century maritime setting at night. The deck of a cruising yawl on the Thames estuary. Dark water stretches to the horizon, merging with a brooding, gloomy sky. The only light comes from the glow of a pipe and the faint stars.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_THE_NELLIE.jpg"
+    },
+    {
+      "identifier": "SCENE_THE_TREK",
+      "ordinal": 4,
+      "location_header": "EXT. JUNGLE PATH - DAY",
+      "visual_description": "A rugged jungle path winding through empty land. Tall grass, thickets, and stony hills ablaze with heat. Abandoned villages with ruined grass walls. The atmosphere is silent, lonely, and oppressive.",
+      "metadata": {},
+      "image_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/scenes/scene_SCENE_THE_TREK.jpg"
     }
+  ],
+  "subjects": [
+    "Africa -- Fiction",
+    "Europeans -- Africa -- Fiction",
+    "Trading posts -- Fiction",
+    "Degeneration -- Fiction",
+    "Imperialism -- Fiction",
+    "Psychological fiction"
   ]
 }
