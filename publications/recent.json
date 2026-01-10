@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+    "title": "Heart of Darkness",
+    "author_names": "Joseph Conrad",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Literary Fiction",
+      "Colonialism",
+      "Psychological",
+      "Nautical"
+    ],
+    "updated_at": "2026-01-10T22:29:51Z",
+    "data_checksum": "e87b1c1977f9124b34018be2c1f05ceff60c437ebea3c53268fdcac60265197c",
+    "file_size": 345859912
+  },
+  {
     "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
     "title": "The Wind in the Willows",
     "author_names": "Kenneth Grahame",
