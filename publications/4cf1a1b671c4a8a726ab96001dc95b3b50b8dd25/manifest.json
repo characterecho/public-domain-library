@@ -1,0 +1,1620 @@
+{
+  "manifest_version": 2,
+  "title": "The Wind in the Willows",
+  "author_names": "Kenneth Grahame",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/289.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/289.epub3.images",
+  "identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
+  "publication_type": "novel",
+  "cover_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/cover.png",
+  "total_duration_s": 18569.460431,
+  "genre_tags": [
+    "Classics",
+    "Children's Literature",
+    "Anthropomorphic Animals",
+    "Pastoral",
+    "Friendship"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2696.891293
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_1.mp3",
+      "start_s": 2696.891293,
+      "end_s": 5563.055919
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_2.mp3",
+      "start_s": 5563.055919,
+      "end_s": 8655.363742000001
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_3.mp3",
+      "start_s": 8655.363742000001,
+      "end_s": 11420.726894000001
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_4.mp3",
+      "start_s": 11420.726894000001,
+      "end_s": 13314.816667000001
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_5.mp3",
+      "start_s": 13314.816667000001,
+      "end_s": 18569.460431
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.459,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "I. THE RIVER BANK",
+      "start_s": 6.459,
+      "end_s": 1345.528,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MEADOW",
+            "location_header": "EXT. MEADOW - DAY",
+            "visual_description": "An Edwardian English countryside meadow in bright spring sunshine. Rolling green grass stretches to a distant hedge. Wildflowers dot the landscape. Warm, golden lighting with soft shadows. Pastoral and idyllic atmosphere."
+          },
+          {
+            "identifier": "SCENE_RIVER_BANK",
+            "location_header": "EXT. RIVER BANK - DAY",
+            "visual_description": "A sleek, full-bodied river flowing through a grassy bank. Gnarly willow roots break the soil bank. A small dark hole is visible in the clay bank just above the water line. Sunlight sparkles on the moving water. Fresh greens and earthy browns."
+          },
+          {
+            "identifier": "SCENE_BACKWATER",
+            "location_header": "EXT. BACKWATER - AFTERNOON",
+            "visual_description": "A quiet, land-locked backwater pool. Green turf slopes down to brown tree roots in the water. In the background, the silvery foam of a weir and a grey-gabled mill-house. Dappled sunlight filtering through trees. Peaceful and secluded."
+          },
+          {
+            "identifier": "SCENE_OPEN_RIVER",
+            "location_header": "EXT. RIVER - LATE AFTERNOON",
+            "visual_description": "The main river stream under a low afternoon sun. The water reflects the golden sky. Grassy banks line the sides. The atmosphere is calm but with a sense of open space. Warm sunset tones."
+          },
+          {
+            "identifier": "SCENE_RATS_HOUSE",
+            "location_header": "INT. RAT'S HOUSE - NIGHT",
+            "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "II. THE OPEN ROAD",
+      "start_s": 1345.528,
+      "end_s": 2696.891,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RIVER_BANK",
+            "location_header": "EXT. RIVER BANK - MORNING",
+            "visual_description": "A sleek river flowing through a grassy bank under bright morning sunlight. Gnarly willow roots break the soil bank. Lush green reeds and rushes line the water's edge. Earthy browns and fresh greens dominate the palette. The atmosphere is idle and sunny."
+          },
+          {
+            "identifier": "SCENE_TOAD_HALL_EXT",
+            "location_header": "EXT. TOAD HALL - DAY",
+            "visual_description": "A handsome, dignified old house of mellowed red brick with well-kept lawns reaching down to the river's edge. A wooden boat-house sits on a creek to the left. Large trees shade the manicured grounds. Bright summer sunlight illuminates garden furniture on the lawn. Victorian riverside estate styling with warm brick and green foliage tones."
+          },
+          {
+            "identifier": "SCENE_STABLE_YARD",
+            "location_header": "EXT. STABLE YARD - DAY",
+            "visual_description": "A cobbled stable yard surrounded by red brick outbuildings and coach houses. In the center stands a bright canary-yellow gipsy caravan with green trim and red wheels. The sun highlights the shiny new paint and brass fittings. Rural Edwardian atmosphere with a mix of orderly brickwork and open sky."
+          },
+          {
+            "identifier": "SCENE_OPEN_ROAD",
+            "location_header": "EXT. COUNTRY ROAD - AFTERNOON",
+            "visual_description": "A dusty country lane winding through English hedgerows and orchards. Golden afternoon light casts long shadows across the dust. Wildflowers grow on the verges. A peaceful, pastoral landscape with rolling green downs in the distance and a wide blue sky. Warm earth tones and vibrant greens."
+          },
+          {
+            "identifier": "SCENE_HIGH_ROAD_CRASH",
+            "location_header": "EXT. HIGH ROAD - DAY",
+            "visual_description": "A wide section of high road featuring a deep grassy ditch. A wrecked canary-yellow caravan lies on its side, shattered wheels and scattered supplies strewn about. The road is dusty. Late afternoon lighting casts dramatic shadows over the wreckage. Somber tones contrasting with the bright yellow debris."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "III. THE WILD WOOD",
+      "start_s": 2696.891,
+      "end_s": 4067.472,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RATS_HOUSE",
+            "location_header": "INT. RAT'S HOUSE - NIGHT",
+            "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room."
+          },
+          {
+            "identifier": "SCENE_WILD_WOOD_TERROR",
+            "location_header": "EXT. WILD WOOD - DUSK",
+            "visual_description": "A dense, leafless forest in late afternoon winter twilight. Twisted black tree branches interlock overhead, blocking the sky. The ground is covered in dead leaves and rotting logs. Dark, threatening shadows deepen between the boles. Cold grey and earthy brown tones."
+          },
+          {
+            "identifier": "SCENE_WILD_WOOD_SEARCH",
+            "location_header": "EXT. WILD WOOD - NIGHT",
+            "visual_description": "The Wild Wood at night, oppressive and dark. Tall beech trees loom like pillars in a black void. The scene is lit by a single beam of lantern light or moonlight cutting through the gloom. Deep contrast between the pitch black shadows and the pale illuminated path."
+          },
+          {
+            "identifier": "SCENE_WILD_WOOD_SNOW",
+            "location_header": "EXT. WILD WOOD - SNOW",
+            "visual_description": "The Wild Wood transformed by heavy snowfall. A thick, pristine white carpet covers the uneven ground, smoothing over roots and hollows. Black tree trunks stand out starkly against the white. Soft, diffused blue-white moonlight reflects off the snow, creating a disorienting, magical atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "IV. MR. BADGER",
+      "start_s": 4067.472,
+      "end_s": 5563.056,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WILD_WOOD_SNOW",
+            "location_header": "EXT. WILD WOOD - SNOW",
+            "visual_description": "The Wild Wood transformed by heavy snowfall. A thick, pristine white carpet covers the uneven ground, smoothing over roots and hollows. Black tree trunks stand out starkly against the white. Soft, diffused blue-white moonlight reflects off the snow, creating a disorienting, magical atmosphere."
+          },
+          {
+            "identifier": "SCENE_BADGERS_KITCHEN",
+            "location_header": "INT. BADGER'S KITCHEN - NIGHT",
+            "visual_description": "A warm, cavernous underground kitchen with a floor of well-worn red brick. A large fire of logs burns in a wide hearth flanked by high-backed wooden settles. Rows of plates glint on dresser shelves; hams and herbs hang from the rafters. The atmosphere is cozy, safe, and inviting, lit by ruddy firelight. Edwardian rustic interior."
+          },
+          {
+            "identifier": "SCENE_UNDERGROUND_RUINS",
+            "location_header": "INT. UNDERGROUND RUINS - DAY",
+            "visual_description": "Ancient, subterranean stone corridors and vaulted chambers, remnants of a lost city. Massive masonry arches and pillars disappear into the gloom. The space is vast and silent, lit only by the warm glow of a lantern held in the foreground, casting long shadows. Mysterious, historical, and imposing atmosphere."
+          },
+          {
+            "identifier": "SCENE_WILD_WOOD_EDGE",
+            "location_header": "EXT. EDGE OF THE WILD WOOD - DUSK",
+            "visual_description": "The edge of a dense, dark forest opening onto snow-covered fields. Tangled black roots and brambles frame the view. In the distance, a red winter sun hangs low over a frozen river. High contrast between the menacing dark wood and the open white landscape. Cold, crisp winter dusk light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "V. DULCE DOMUM",
+      "start_s": 5563.056,
+      "end_s": 7244.715,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SNOWY_LANE",
+            "location_header": "EXT. COUNTRY LANE - NIGHT",
+            "visual_description": "A snowy English country lane at night in mid-December. Frosty air, ruts in the road frozen hard. In the distance, the warm orange squares of cottage windows glow from a small village. Darkness surrounds the path, contrasting with the faint starlight on the snow. Winter atmosphere."
+          },
+          {
+            "identifier": "SCENE_MOLE_END",
+            "location_header": "INT. MOLE END - NIGHT",
+            "visual_description": "An underground eccentric home, cozy but dusty. A forecourt features a small pond with a silver glass ball and plaster statues of Garibaldi and Queen Victoria. Inside, a low-ceilinged parlour with sleeping bunks in the walls, a brick fireplace, and a table set for supper. Warm, cluttered, rustic Edwardian interior."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "VI. MR. TOAD",
+      "start_s": 7244.715,
+      "end_s": 8655.364,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RATS_HOUSE",
+            "location_header": "INT. RAT'S HOUSE - DAY",
+            "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room."
+          },
+          {
+            "identifier": "SCENE_TOAD_HALL_INTERIOR",
+            "location_header": "INT. TOAD HALL - DAY",
+            "visual_description": "A grand Edwardian entrance hall featuring a large Tudor fireplace and heavy oak panelling. A wide staircase ascends to a gallery. Suits of armor and oil portraits line the walls. Sunlight streams through mullioned windows, illuminating dust motes. Rich reds, golds, and dark wood tones."
+          },
+          {
+            "identifier": "SCENE_RED_LION_INN",
+            "location_header": "INT. THE RED LION INN - DAY",
+            "visual_description": "A traditional English inn coffee-room. Dark wood tables set with white cloths and pewter tankards. A large hearth dominates one wall. Leaded glass windows look out onto a sunny street. The atmosphere is dusty, quiet, and smells of roast beef and ale. Warm brown and amber tones."
+          },
+          {
+            "identifier": "SCENE_COURT_HOUSE",
+            "location_header": "INT. COURT HOUSE - DAY",
+            "visual_description": "A severe Victorian courtroom. A high, imposing wooden bench for the magistrates looms over a small, railed dock. Dusty shafts of light pierce the gloom through high, barred windows. The air is heavy with judgment. Dark oak, cold stone, and shadows dominate the scene."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "VII. THE PIPER AT THE GATES OF DAWN",
+      "start_s": 8655.364,
+      "end_s": 9865.412,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RIVER_NIGHT",
+            "location_header": "EXT. RIVER BANK - NIGHT",
+            "visual_description": "A tranquil English riverbank at night in midsummer. The dark water reflects the starlight and a rising moon. Shadowy willow trees frame the scene. The atmosphere is cool and still after a hot day. Deep blues, silvers, and blacks with faint phosphorescence on the water."
+          },
+          {
+            "identifier": "SCENE_ISLAND_DAWN",
+            "location_header": "EXT. ISLAND WEIR - DAWN",
+            "visual_description": "A secluded island lawn of emerald green grass, surrounded by the foaming water of a weir. Ancient wild orchard trees—crab-apple and wild cherry—encircle the space. The lighting is the ethereal, golden-pink glow of early dawn. A magical, holy atmosphere. Vivid greens and soft pastel floral tones."
+          },
+          {
+            "identifier": "SCENE_RIVER_MORNING",
+            "location_header": "EXT. RIVER - MORNING",
+            "visual_description": "The open river basking in bright morning sunshine. Lush green banks lined with reeds, willow-herb, and meadow-sweet. The water sparkles under a clear blue sky. A peaceful, pastoral Edwardian landscape. Warm golds, fresh greens, and sky blues."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "VIII. TOAD’S ADVENTURES",
+      "start_s": 9865.412,
+      "end_s": 11420.727,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DUNGEON",
+            "location_header": "INT. DUNGEON CELL - DAY",
+            "visual_description": "A medieval stone dungeon cell, damp and gloomy. A high barred window admits a sliver of pale daylight. Straw is scattered on the cold flagstone floor, and a heavy iron-bound oak door dominates one wall. The atmosphere is oppressive, claustrophobic, and shadowed, with cool grey and greenish tones."
+          },
+          {
+            "identifier": "SCENE_RAILWAY_STATION",
+            "location_header": "EXT. RAILWAY STATION - NIGHT",
+            "visual_description": "A Victorian railway station platform at night, lit by hissing gas lamps. Red and green signal lights glow in the distance against a dark sky. The booking office window is framed in dark wood. Steam hangs in the air. The mood is industrial yet urgent. Deep shadows contrast with pools of warm artificial light."
+          },
+          {
+            "identifier": "SCENE_TRAIN_CAB",
+            "location_header": "INT. TRAIN CAB - NIGHT",
+            "visual_description": "Interior of a steam engine cab at night. The open furnace door casts a fierce, ruddy glow on iron levers, brass gauges, and piles of coal. Beyond the opening, the moonlit tracks stretch into darkness. The atmosphere is chaotic, hot, and intense. High contrast orange firelight and blue moonlight."
+          },
+          {
+            "identifier": "SCENE_WOODS_RAILWAY",
+            "location_header": "EXT. WOODS BY RAILWAY - NIGHT",
+            "visual_description": "A dark English woodland at night. Ancient trees with twisted roots create deep, frightening shadows. A railway embankment rises on one side. A large hollow tree stands in the foreground, filled with dead leaves. Cold, desaturated blues and greys with deep blacks. Mysterious and slightly menacing atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "IX. WAYFARERS ALL",
+      "start_s": 11420.727,
+      "end_s": 13314.817,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RIVER_BANK",
+            "location_header": "EXT. RIVER BANK - DAY",
+            "visual_description": "A sleek river flowing through a grassy bank under bright morning sunlight. Gnarly willow roots break the soil bank. Lush green reeds and rushes line the water's edge. Earthy browns and fresh greens dominate the palette. The atmosphere is idle and sunny."
+          },
+          {
+            "identifier": "SCENE_MEADOW",
+            "location_header": "EXT. MEADOW - DAY",
+            "visual_description": "An Edwardian English countryside meadow in bright spring sunshine. Rolling green grass stretches to a distant hedge. Wildflowers dot the landscape. Warm, golden lighting with soft shadows. Pastoral and idyllic atmosphere."
+          },
+          {
+            "identifier": "SCENE_OPEN_ROAD",
+            "location_header": "EXT. COUNTRY ROAD - AFTERNOON",
+            "visual_description": "A dusty country lane winding through English hedgerows and orchards. Golden afternoon light casts long shadows across the dust. Wildflowers grow on the verges. A peaceful, pastoral landscape with rolling green downs in the distance and a wide blue sky. Warm earth tones and vibrant greens."
+          },
+          {
+            "identifier": "SCENE_RATS_HOUSE",
+            "location_header": "INT. RAT'S HOUSE - EVENING",
+            "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "X. THE FURTHER ADVENTURES OF TOAD",
+      "start_s": 13314.817,
+      "end_s": 15144.943,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HOLLOW_TREE",
+            "location_header": "EXT. HOLLOW TREE - MORNING",
+            "visual_description": "An early summer morning in a dense English woodland. A large ancient hollow tree with a rough wooden door stands in the foreground, bright sunlight streaming into its dark, mossy interior. Beyond the tree, green forest paths wind through beech trunks. The atmosphere is fresh, hopeful, and bathed in warm golden morning light. Earthy browns and vibrant leaf greens."
+          },
+          {
+            "identifier": "SCENE_CANAL",
+            "location_header": "EXT. CANAL - DAY",
+            "visual_description": "A sunny English canal snaking through flat green pastures. A tow-path runs along the bank, bordered by hawthorn hedges. In the foreground, the painted gunwale of a canal barge is visible, with a tiller and cabin roof. The water reflects the blue sky and white clouds. The atmosphere is lazy and rustic. Bright primary colors of the barge contrast with natural greens."
+          },
+          {
+            "identifier": "SCENE_GIPSY_CAMP",
+            "location_header": "EXT. COMMON - DAY",
+            "visual_description": "A wide, open common covered in gorse and bramble under a hot midday sun. A dingy, peeling gipsy caravan stands near a small fire of sticks and a black iron pot. A battered bucket sits upside down in the grass. The sky is a hazy summer blue. The atmosphere is dusty, warm, and quiet. Muted greens and browns."
+          },
+          {
+            "identifier": "SCENE_HIGH_ROAD",
+            "location_header": "EXT. HIGH ROAD - AFTERNOON",
+            "visual_description": "A broad white dust-covered high road stretching between English hedgerows. Tall poplar trees cast long shadows across the lane. In the center of the road sits a vintage Edwardian open-top motor car with brass fittings and leather seats. The lighting is bright afternoon sun. The mood is adventurous and active."
+          },
+          {
+            "identifier": "SCENE_HORSE_POND",
+            "location_header": "EXT. MEADOW POND - LATE AFTERNOON",
+            "visual_description": "A muddy horse-pond in a lush green meadow, disturbed by a recent crash. A motor car sits half-submerged in the brown water, steam rising from its engine. Reeds and trampled grass surround the bank. In the background, hedges and fields stretch away. Late afternoon golden light with long shadows. Chaotic and messy atmosphere."
+          },
+          {
+            "identifier": "SCENE_RIVER_BANK",
+            "location_header": "EXT. RIVER BANK - DUSK",
+            "visual_description": "A sleek river flowing through a grassy bank under bright morning sunlight. Gnarly willow roots break the soil bank. Lush green reeds and rushes line the water's edge. Earthy browns and fresh greens dominate the palette. The atmosphere is idle and sunny."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "XI. “LIKE SUMMER TEMPESTS CAME HIS TEARS”",
+      "start_s": 15144.943,
+      "end_s": 17053.017,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RATS_HOUSE",
+            "location_header": "INT. RAT'S HOUSE - EVENING",
+            "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room."
+          },
+          {
+            "identifier": "SCENE_RATS_HOUSE_MORNING",
+            "location_header": "INT. RAT'S HOUSE - MORNING",
+            "visual_description": "The rustic riverbank parlour bathed in bright, cheerful morning light. The hearth is cold, but the room is busy with activity. Piles of swords, pistols, and cudgels are organized in heaps on the rug. A round wooden table shows remnants of breakfast. Warm wood tones and sunlight."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "XII. THE RETURN OF ULYSSES",
+      "start_s": 17053.017,
+      "end_s": 18569.46,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RATS_HOUSE",
+            "location_header": "INT. RAT'S HOUSE - NIGHT",
+            "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room."
+          },
+          {
+            "identifier": "SCENE_SECRET_PASSAGE",
+            "location_header": "INT. SECRET PASSAGE - NIGHT",
+            "visual_description": "A narrow, damp subterranean tunnel with a low earthen ceiling. Rough-hewn walls are slick with moisture. The space is claustrophobic and dark, illuminated only by a single beam of lantern light cutting through the gloom. Shadows dance on the dirt floor."
+          },
+          {
+            "identifier": "SCENE_TOAD_HALL_INTERIOR",
+            "location_header": "INT. TOAD HALL - NIGHT",
+            "visual_description": "A grand Edwardian banqueting hall in disarray. A large Tudor fireplace and heavy oak panelling line the walls. Long tables are overturned, chairs scattered. The room is lit by gas lamps casting dramatic shadows. Rich reds, golds, and dark wood tones."
+          },
+          {
+            "identifier": "SCENE_TOAD_HALL_DAY",
+            "location_header": "INT. BREAKFAST ROOM - DAY",
+            "visual_description": "A sun-drenched Edwardian breakfast room. French windows open onto a manicured green lawn. A mahogany table is littered with eggshells and breakfast debris. Warm morning light floods the room, highlighting dust motes and polished wood."
+          },
+          {
+            "identifier": "SCENE_WILD_WOOD_SUMMER",
+            "location_header": "EXT. WILD WOOD - EVENING",
+            "visual_description": "The Wild Wood in peaceful summer evening light. Tall beech trees form a canopy overhead, but the shadows are soft and welcoming, not threatening. Dappled golden light filters through the leaves onto mossy paths. Peaceful and natural."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "storyteller",
+        "observant",
+        "whimsical",
+        "neutral",
+        "storytelling",
+        "clear"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 556,
+      "image_key": null,
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "WATER_RAT",
+      "name": "Water Rat",
+      "aliases": [
+        "Rat",
+        "Ratty"
+      ],
+      "voice_attributes": [
+        "friendly",
+        "authoritative",
+        "casual",
+        "warm"
+      ],
+      "visual_attributes": [
+        "anthropomorphic rat",
+        "brown fur",
+        "neat ears",
+        "whiskers",
+        "twinkle in eye"
+      ],
+      "roles": [
+        "guide",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 210,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/WATER_RAT.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/WATER_RAT.mp3"
+    },
+    {
+      "identifier": "MOLE",
+      "name": "Mole",
+      "aliases": [],
+      "voice_attributes": [
+        "breathless",
+        "naive",
+        "excited",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "anthropomorphic mole",
+        "black velvet fur",
+        "small snout",
+        "bright small eyes",
+        "dusty paws"
+      ],
+      "roles": [
+        "protagonist",
+        "explorer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 112,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/MOLE.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/MOLE.mp3"
+    },
+    {
+      "identifier": "BADGER",
+      "name": "Badger",
+      "aliases": [],
+      "voice_attributes": [
+        "deep",
+        "gruff",
+        "dismissive"
+      ],
+      "visual_attributes": [
+        "anthropomorphic badger",
+        "black and white striped head",
+        "heavy shoulders",
+        "grey coat"
+      ],
+      "roles": [
+        "recluse"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 72,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/BADGER.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/BADGER.mp3"
+    },
+    {
+      "identifier": "TOAD",
+      "name": "Mr. Toad",
+      "aliases": [
+        "Toady",
+        "Toad"
+      ],
+      "voice_attributes": [
+        "boisterous",
+        "erratic",
+        "loud",
+        "enthusiastic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic toad",
+        "broad grinning mouth",
+        "large expressive eyes",
+        "greenish-brown skin",
+        "tweed country suit"
+      ],
+      "roles": [
+        "protagonist",
+        "troublemaker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 71,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/TOAD.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/TOAD.mp3"
+    },
+    {
+      "identifier": "TOAD_DISGUISED",
+      "name": "Toad (Disguised)",
+      "aliases": [
+        "The Washerwoman"
+      ],
+      "voice_attributes": [
+        "falsetto",
+        "nervous",
+        "erratic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic toad",
+        "cotton print gown",
+        "rusty black bonnet",
+        "woolen shawl",
+        "apron",
+        "broad grinning mouth"
+      ],
+      "roles": [
+        "protagonist",
+        "fugitive"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 44,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/TOAD_DISGUISED.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/TOAD_DISGUISED.mp3"
+    },
+    {
+      "identifier": "SEA_RAT",
+      "name": "The Sea Rat",
+      "aliases": [
+        "The Wayfarer",
+        "The Seafarer",
+        "The Stranger"
+      ],
+      "voice_attributes": [
+        "smooth",
+        "hypnotic",
+        "worldly",
+        "raspy"
+      ],
+      "visual_attributes": [
+        "anthropomorphic rat",
+        "lean face",
+        "small gold hoop earrings",
+        "faded blue knitted jersey",
+        "patched breeches",
+        "bare feet"
+      ],
+      "roles": [
+        "wanderer",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_nautical"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SEA_RAT.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SEA_RAT.mp3"
+    },
+    {
+      "identifier": "BARGE_WOMAN",
+      "name": "The Barge-woman",
+      "aliases": [
+        "Barge Woman"
+      ],
+      "voice_attributes": [
+        "hearty",
+        "rough",
+        "amused"
+      ],
+      "visual_attributes": [
+        "human female",
+        "stout figure",
+        "sun-bonnet",
+        "brawny arms",
+        "linen dress",
+        "weather-beaten face"
+      ],
+      "roles": [
+        "antagonist",
+        "worker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/BARGE_WOMAN.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/BARGE_WOMAN.mp3"
+    },
+    {
+      "identifier": "OTTER",
+      "name": "Otter",
+      "aliases": [],
+      "voice_attributes": [
+        "hearty",
+        "loud",
+        "confident"
+      ],
+      "visual_attributes": [
+        "anthropomorphic otter",
+        "sleek wet fur",
+        "broad muzzle",
+        "strong build"
+      ],
+      "roles": [
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/OTTER.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/OTTER.mp3"
+    },
+    {
+      "identifier": "ENGINE_DRIVER",
+      "name": "Engine Driver",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "kind",
+        "burly",
+        "loud"
+      ],
+      "visual_attributes": [
+        "human male",
+        "soot-stained face",
+        "greasy cap",
+        "overalls",
+        "thick arms"
+      ],
+      "roles": [
+        "helper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/ENGINE_DRIVER.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/ENGINE_DRIVER.mp3"
+    },
+    {
+      "identifier": "GAOLERS_DAUGHTER",
+      "name": "The Gaoler's Daughter",
+      "aliases": [
+        "The Girl"
+      ],
+      "voice_attributes": [
+        "kind",
+        "firm",
+        "warm",
+        "sensible"
+      ],
+      "visual_attributes": [
+        "human female",
+        "pleasant round face",
+        "medieval simple dress",
+        "apron",
+        "keys at belt",
+        "warm smile"
+      ],
+      "roles": [
+        "helper"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/GAOLERS_DAUGHTER.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/GAOLERS_DAUGHTER.mp3"
+    },
+    {
+      "identifier": "CAR_GENTLEMAN",
+      "name": "The Gentleman",
+      "aliases": [],
+      "voice_attributes": [
+        "kind",
+        "sympathetic",
+        "upper-class"
+      ],
+      "visual_attributes": [
+        "human male",
+        "motoring cap",
+        "goggles on forehead",
+        "dust coat",
+        "concerned expression"
+      ],
+      "roles": [
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_posh"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/CAR_GENTLEMAN.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/CAR_GENTLEMAN.mp3"
+    },
+    {
+      "identifier": "GIPSY",
+      "name": "The Gipsy",
+      "aliases": [
+        "Gipsy Man"
+      ],
+      "voice_attributes": [
+        "careless",
+        "gruff",
+        "calculating"
+      ],
+      "visual_attributes": [
+        "human male",
+        "swarthy complexion",
+        "gold earring",
+        "neckerchief",
+        "weathered hat",
+        "smoking clay pipe"
+      ],
+      "roles": [
+        "trader",
+        "wanderer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/GIPSY.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/GIPSY.mp3"
+    },
+    {
+      "identifier": "SWALLOW_3",
+      "name": "Third Swallow",
+      "aliases": [],
+      "voice_attributes": [
+        "anxious",
+        "serious",
+        "vivid"
+      ],
+      "visual_attributes": [
+        "anthropomorphic swallow",
+        "dark feathers",
+        "slightly ruffled",
+        "intense gaze"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SWALLOW_3.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SWALLOW_3.mp3"
+    },
+    {
+      "identifier": "ELDER_HEDGEHOG",
+      "name": "Elder Hedgehog",
+      "aliases": [
+        "The Hedgehog"
+      ],
+      "voice_attributes": [
+        "timid",
+        "polite",
+        "rustic",
+        "youthful"
+      ],
+      "visual_attributes": [
+        "anthropomorphic hedgehog",
+        "spines covered by rustic coat",
+        "holding school satchel",
+        "snout",
+        "bright eyes"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/ELDER_HEDGEHOG.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/ELDER_HEDGEHOG.mp3"
+    },
+    {
+      "identifier": "CHAIRMAN_MAGISTRATE",
+      "name": "The Chairman",
+      "aliases": [
+        "Chairman of the Bench",
+        "Magistrate"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "authoritative",
+        "stern",
+        "upper-class"
+      ],
+      "visual_attributes": [
+        "anthropomorphic human",
+        "white wig",
+        "spectacles",
+        "red robes",
+        "jowly face"
+      ],
+      "roles": [
+        "judge"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_posh"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/CHAIRMAN_MAGISTRATE.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/CHAIRMAN_MAGISTRATE.mp3"
+    },
+    {
+      "identifier": "FIELD_MOUSE_LEADER",
+      "name": "Field Mouse",
+      "aliases": [],
+      "voice_attributes": [
+        "respectful",
+        "high-pitched",
+        "polite",
+        "rustic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic mouse",
+        "red worsted comforter",
+        "large ears",
+        "bright beady eyes",
+        "rustic winter clothes"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FIELD_MOUSE_LEADER.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FIELD_MOUSE_LEADER.mp3"
+    },
+    {
+      "identifier": "CHIEF_WEASEL",
+      "name": "Chief Weasel",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "high-pitched",
+        "mocking"
+      ],
+      "visual_attributes": [
+        "anthropomorphic weasel",
+        "sleek brown fur",
+        "sharp teeth",
+        "cunning eyes",
+        "scar on nose"
+      ],
+      "roles": [
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/CHIEF_WEASEL.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/CHIEF_WEASEL.mp3"
+    },
+    {
+      "identifier": "SWALLOW_2",
+      "name": "Second Swallow",
+      "aliases": [],
+      "voice_attributes": [
+        "dreamy",
+        "longing",
+        "soft"
+      ],
+      "visual_attributes": [
+        "anthropomorphic swallow",
+        "glossy plumage",
+        "bright eyes",
+        "graceful posture"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SWALLOW_2.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SWALLOW_2.mp3"
+    },
+    {
+      "identifier": "SWALLOW_1",
+      "name": "First Swallow",
+      "aliases": [],
+      "voice_attributes": [
+        "twittering",
+        "eager",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "anthropomorphic swallow",
+        "sleek blue-black feathers",
+        "white throat",
+        "forked tail",
+        "perched on branch"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SWALLOW_1.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/SWALLOW_1.mp3"
+    },
+    {
+      "identifier": "COURT_CLERK",
+      "name": "The Clerk",
+      "aliases": [
+        "Mr. Clerk"
+      ],
+      "voice_attributes": [
+        "dry",
+        "nasal",
+        "bureaucratic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic human",
+        "ink-stained fingers",
+        "sharp nose",
+        "black gown",
+        "thin hair"
+      ],
+      "roles": [
+        "clerk"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/COURT_CLERK.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/COURT_CLERK.mp3"
+    },
+    {
+      "identifier": "MOTHER_WEASEL",
+      "name": "Mother Weasel",
+      "aliases": [],
+      "voice_attributes": [
+        "motherly",
+        "respectful",
+        "rustic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic weasel",
+        "apron",
+        "kindly face",
+        "holding baby weasel",
+        "rustic dress"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/MOTHER_WEASEL.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/MOTHER_WEASEL.mp3"
+    },
+    {
+      "identifier": "FOX",
+      "name": "Fox",
+      "aliases": [],
+      "voice_attributes": [
+        "sarcastic",
+        "sly",
+        "smooth"
+      ],
+      "visual_attributes": [
+        "anthropomorphic fox",
+        "sleek red fur",
+        "sharp yellow eyes",
+        "bushy tail",
+        "sly grin"
+      ],
+      "roles": [
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FOX.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FOX.mp3"
+    },
+    {
+      "identifier": "FERRET_SENTRY",
+      "name": "The Ferret Sentry",
+      "aliases": [
+        "The Ferret"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "aggressive",
+        "rough"
+      ],
+      "visual_attributes": [
+        "anthropomorphic ferret",
+        "long yellow fur",
+        "sharp nose",
+        "beady eyes",
+        "holding musket"
+      ],
+      "roles": [
+        "antagonist",
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FERRET_SENTRY.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FERRET_SENTRY.mp3"
+    },
+    {
+      "identifier": "ELDERLY_RABBIT",
+      "name": "Elderly Rabbit",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "officious"
+      ],
+      "visual_attributes": [
+        "anthropomorphic rabbit",
+        "grey fur",
+        "whiskers",
+        "stooped posture"
+      ],
+      "roles": [
+        "obstacle"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/ELDERLY_RABBIT.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/ELDERLY_RABBIT.mp3"
+    },
+    {
+      "identifier": "FIELD_MOUSE_WORKER",
+      "name": "Second Field Mouse",
+      "aliases": [],
+      "voice_attributes": [
+        "stiff",
+        "offended",
+        "rustic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic mouse",
+        "dusty fur",
+        "carrying hat-box",
+        "indignant expression",
+        "working clothes"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FIELD_MOUSE_WORKER.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FIELD_MOUSE_WORKER.mp3"
+    },
+    {
+      "identifier": "POLICE_SERGEANT",
+      "name": "The Sergeant",
+      "aliases": [
+        "Sergeant of Police"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "rustic",
+        "loud"
+      ],
+      "visual_attributes": [
+        "anthropomorphic human",
+        "police helmet",
+        "thick mustache",
+        "red face",
+        "uniform"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rustic"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/POLICE_SERGEANT.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/POLICE_SERGEANT.mp3"
+    },
+    {
+      "identifier": "FRIGHTENED_RABBIT",
+      "name": "Frightened Rabbit",
+      "aliases": [
+        "The Animal"
+      ],
+      "voice_attributes": [
+        "panicked",
+        "breathless",
+        "urgent",
+        "rustic"
+      ],
+      "visual_attributes": [
+        "anthropomorphic rabbit",
+        "wild staring eyes",
+        "brown fur",
+        "ears pinned back",
+        "tattered country tunic"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FRIGHTENED_RABBIT.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/FRIGHTENED_RABBIT.mp3"
+    },
+    {
+      "identifier": "TICKET_CLERK",
+      "name": "Ticket Clerk",
+      "aliases": [],
+      "voice_attributes": [
+        "bored",
+        "nasal",
+        "unimpressed"
+      ],
+      "visual_attributes": [
+        "human male",
+        "peaked cap",
+        "spectacles",
+        "mustache",
+        "uniform jacket"
+      ],
+      "roles": [
+        "obstacle"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/TICKET_CLERK.png",
+      "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/TICKET_CLERK.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_RIVER_NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. RIVER BANK - NIGHT",
+      "visual_description": "A tranquil English riverbank at night in midsummer. The dark water reflects the starlight and a rising moon. Shadowy willow trees frame the scene. The atmosphere is cool and still after a hot day. Deep blues, silvers, and blacks with faint phosphorescence on the water.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RIVER_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_SNOWY_LANE",
+      "ordinal": 0,
+      "location_header": "EXT. COUNTRY LANE - NIGHT",
+      "visual_description": "A snowy English country lane at night in mid-December. Frosty air, ruts in the road frozen hard. In the distance, the warm orange squares of cottage windows glow from a small village. Darkness surrounds the path, contrasting with the faint starlight on the snow. Winter atmosphere.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_SNOWY_LANE.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_HOLLOW_TREE",
+      "ordinal": 0,
+      "location_header": "EXT. HOLLOW TREE - MORNING",
+      "visual_description": "An early summer morning in a dense English woodland. A large ancient hollow tree with a rough wooden door stands in the foreground, bright sunlight streaming into its dark, mossy interior. Beyond the tree, green forest paths wind through beech trunks. The atmosphere is fresh, hopeful, and bathed in warm golden morning light. Earthy browns and vibrant leaf greens.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_HOLLOW_TREE.jpg"
+    },
+    {
+      "identifier": "SCENE_RATS_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. RAT'S HOUSE - NIGHT",
+      "visual_description": "A cozy, rustic parlour inside a riverbank home. A bright fire crackles in a hearth. Comfortable armchairs sit on a rug. A window reveals the dark river outside. Warm, inviting firelight illuminates the room.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RATS_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_WILD_WOOD_SNOW",
+      "ordinal": 0,
+      "location_header": "EXT. WILD WOOD - SNOW",
+      "visual_description": "The Wild Wood transformed by heavy snowfall. A thick, pristine white carpet covers the uneven ground, smoothing over roots and hollows. Black tree trunks stand out starkly against the white. Soft, diffused blue-white moonlight reflects off the snow, creating a disorienting, magical atmosphere.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_WILD_WOOD_SNOW.jpg"
+    },
+    {
+      "identifier": "SCENE_DUNGEON",
+      "ordinal": 0,
+      "location_header": "INT. DUNGEON CELL - DAY",
+      "visual_description": "A medieval stone dungeon cell, damp and gloomy. A high barred window admits a sliver of pale daylight. Straw is scattered on the cold flagstone floor, and a heavy iron-bound oak door dominates one wall. The atmosphere is oppressive, claustrophobic, and shadowed, with cool grey and greenish tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_DUNGEON.jpg"
+    },
+    {
+      "identifier": "SCENE_SECRET_PASSAGE",
+      "ordinal": 1,
+      "location_header": "INT. SECRET PASSAGE - NIGHT",
+      "visual_description": "A narrow, damp subterranean tunnel with a low earthen ceiling. Rough-hewn walls are slick with moisture. The space is claustrophobic and dark, illuminated only by a single beam of lantern light cutting through the gloom. Shadows dance on the dirt floor.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_SECRET_PASSAGE.jpg"
+    },
+    {
+      "identifier": "SCENE_RAILWAY_STATION",
+      "ordinal": 1,
+      "location_header": "EXT. RAILWAY STATION - NIGHT",
+      "visual_description": "A Victorian railway station platform at night, lit by hissing gas lamps. Red and green signal lights glow in the distance against a dark sky. The booking office window is framed in dark wood. Steam hangs in the air. The mood is industrial yet urgent. Deep shadows contrast with pools of warm artificial light.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RAILWAY_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_BADGERS_KITCHEN",
+      "ordinal": 1,
+      "location_header": "INT. BADGER'S KITCHEN - NIGHT",
+      "visual_description": "A warm, cavernous underground kitchen with a floor of well-worn red brick. A large fire of logs burns in a wide hearth flanked by high-backed wooden settles. Rows of plates glint on dresser shelves; hams and herbs hang from the rafters. The atmosphere is cozy, safe, and inviting, lit by ruddy firelight. Edwardian rustic interior.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_BADGERS_KITCHEN.jpg"
+    },
+    {
+      "identifier": "SCENE_TOAD_HALL_EXT",
+      "ordinal": 1,
+      "location_header": "EXT. TOAD HALL - DAY",
+      "visual_description": "A handsome, dignified old house of mellowed red brick with well-kept lawns reaching down to the river's edge. A wooden boat-house sits on a creek to the left. Large trees shade the manicured grounds. Bright summer sunlight illuminates garden furniture on the lawn. Victorian riverside estate styling with warm brick and green foliage tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_TOAD_HALL_EXT.jpg"
+    },
+    {
+      "identifier": "SCENE_CANAL",
+      "ordinal": 1,
+      "location_header": "EXT. CANAL - DAY",
+      "visual_description": "A sunny English canal snaking through flat green pastures. A tow-path runs along the bank, bordered by hawthorn hedges. In the foreground, the painted gunwale of a canal barge is visible, with a tiller and cabin roof. The water reflects the blue sky and white clouds. The atmosphere is lazy and rustic. Bright primary colors of the barge contrast with natural greens.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_CANAL.jpg"
+    },
+    {
+      "identifier": "SCENE_MOLE_END",
+      "ordinal": 1,
+      "location_header": "INT. MOLE END - NIGHT",
+      "visual_description": "An underground eccentric home, cozy but dusty. A forecourt features a small pond with a silver glass ball and plaster statues of Garibaldi and Queen Victoria. Inside, a low-ceilinged parlour with sleeping bunks in the walls, a brick fireplace, and a table set for supper. Warm, cluttered, rustic Edwardian interior.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_MOLE_END.jpg"
+    },
+    {
+      "identifier": "SCENE_RATS_HOUSE_MORNING",
+      "ordinal": 1,
+      "location_header": "INT. RAT'S HOUSE - MORNING",
+      "visual_description": "The rustic riverbank parlour bathed in bright, cheerful morning light. The hearth is cold, but the room is busy with activity. Piles of swords, pistols, and cudgels are organized in heaps on the rug. A round wooden table shows remnants of breakfast. Warm wood tones and sunlight.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RATS_HOUSE_MORNING.jpg"
+    },
+    {
+      "identifier": "SCENE_WILD_WOOD_TERROR",
+      "ordinal": 1,
+      "location_header": "EXT. WILD WOOD - DUSK",
+      "visual_description": "A dense, leafless forest in late afternoon winter twilight. Twisted black tree branches interlock overhead, blocking the sky. The ground is covered in dead leaves and rotting logs. Dark, threatening shadows deepen between the boles. Cold grey and earthy brown tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_WILD_WOOD_TERROR.jpg"
+    },
+    {
+      "identifier": "SCENE_ISLAND_DAWN",
+      "ordinal": 1,
+      "location_header": "EXT. ISLAND WEIR - DAWN",
+      "visual_description": "A secluded island lawn of emerald green grass, surrounded by the foaming water of a weir. Ancient wild orchard trees—crab-apple and wild cherry—encircle the space. The lighting is the ethereal, golden-pink glow of early dawn. A magical, holy atmosphere. Vivid greens and soft pastel floral tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_ISLAND_DAWN.jpg"
+    },
+    {
+      "identifier": "SCENE_MEADOW",
+      "ordinal": 1,
+      "location_header": "EXT. MEADOW - DAY",
+      "visual_description": "An Edwardian English countryside meadow in bright spring sunshine. Rolling green grass stretches to a distant hedge. Wildflowers dot the landscape. Warm, golden lighting with soft shadows. Pastoral and idyllic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_MEADOW.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_MORNING",
+      "ordinal": 2,
+      "location_header": "EXT. RIVER - MORNING",
+      "visual_description": "The open river basking in bright morning sunshine. Lush green banks lined with reeds, willow-herb, and meadow-sweet. The water sparkles under a clear blue sky. A peaceful, pastoral Edwardian landscape. Warm golds, fresh greens, and sky blues.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RIVER_MORNING.jpg"
+    },
+    {
+      "identifier": "SCENE_BACKWATER",
+      "ordinal": 2,
+      "location_header": "EXT. BACKWATER - AFTERNOON",
+      "visual_description": "A quiet, land-locked backwater pool. Green turf slopes down to brown tree roots in the water. In the background, the silvery foam of a weir and a grey-gabled mill-house. Dappled sunlight filtering through trees. Peaceful and secluded.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_BACKWATER.jpg"
+    },
+    {
+      "identifier": "SCENE_STABLE_YARD",
+      "ordinal": 2,
+      "location_header": "EXT. STABLE YARD - DAY",
+      "visual_description": "A cobbled stable yard surrounded by red brick outbuildings and coach houses. In the center stands a bright canary-yellow gipsy caravan with green trim and red wheels. The sun highlights the shiny new paint and brass fittings. Rural Edwardian atmosphere with a mix of orderly brickwork and open sky.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_STABLE_YARD.jpg"
+    },
+    {
+      "identifier": "SCENE_WILD_WOOD_SEARCH",
+      "ordinal": 2,
+      "location_header": "EXT. WILD WOOD - NIGHT",
+      "visual_description": "The Wild Wood at night, oppressive and dark. Tall beech trees loom like pillars in a black void. The scene is lit by a single beam of lantern light or moonlight cutting through the gloom. Deep contrast between the pitch black shadows and the pale illuminated path.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_WILD_WOOD_SEARCH.jpg"
+    },
+    {
+      "identifier": "SCENE_UNDERGROUND_RUINS",
+      "ordinal": 2,
+      "location_header": "INT. UNDERGROUND RUINS - DAY",
+      "visual_description": "Ancient, subterranean stone corridors and vaulted chambers, remnants of a lost city. Massive masonry arches and pillars disappear into the gloom. The space is vast and silent, lit only by the warm glow of a lantern held in the foreground, casting long shadows. Mysterious, historical, and imposing atmosphere.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_UNDERGROUND_RUINS.jpg"
+    },
+    {
+      "identifier": "SCENE_TRAIN_CAB",
+      "ordinal": 2,
+      "location_header": "INT. TRAIN CAB - NIGHT",
+      "visual_description": "Interior of a steam engine cab at night. The open furnace door casts a fierce, ruddy glow on iron levers, brass gauges, and piles of coal. Beyond the opening, the moonlit tracks stretch into darkness. The atmosphere is chaotic, hot, and intense. High contrast orange firelight and blue moonlight.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_TRAIN_CAB.jpg"
+    },
+    {
+      "identifier": "SCENE_TOAD_HALL_INTERIOR",
+      "ordinal": 2,
+      "location_header": "INT. TOAD HALL - NIGHT",
+      "visual_description": "A grand Edwardian banqueting hall in disarray. A large Tudor fireplace and heavy oak panelling line the walls. Long tables are overturned, chairs scattered. The room is lit by gas lamps casting dramatic shadows. Rich reds, golds, and dark wood tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_TOAD_HALL_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_RED_LION_INN",
+      "ordinal": 2,
+      "location_header": "INT. THE RED LION INN - DAY",
+      "visual_description": "A traditional English inn coffee-room. Dark wood tables set with white cloths and pewter tankards. A large hearth dominates one wall. Leaded glass windows look out onto a sunny street. The atmosphere is dusty, quiet, and smells of roast beef and ale. Warm brown and amber tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RED_LION_INN.jpg"
+    },
+    {
+      "identifier": "SCENE_OPEN_ROAD",
+      "ordinal": 2,
+      "location_header": "EXT. COUNTRY ROAD - AFTERNOON",
+      "visual_description": "A dusty country lane winding through English hedgerows and orchards. Golden afternoon light casts long shadows across the dust. Wildflowers grow on the verges. A peaceful, pastoral landscape with rolling green downs in the distance and a wide blue sky. Warm earth tones and vibrant greens.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_OPEN_ROAD.jpg"
+    },
+    {
+      "identifier": "SCENE_GIPSY_CAMP",
+      "ordinal": 2,
+      "location_header": "EXT. COMMON - DAY",
+      "visual_description": "A wide, open common covered in gorse and bramble under a hot midday sun. A dingy, peeling gipsy caravan stands near a small fire of sticks and a black iron pot. A battered bucket sits upside down in the grass. The sky is a hazy summer blue. The atmosphere is dusty, warm, and quiet. Muted greens and browns.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_GIPSY_CAMP.jpg"
+    },
+    {
+      "identifier": "SCENE_WOODS_RAILWAY",
+      "ordinal": 3,
+      "location_header": "EXT. WOODS BY RAILWAY - NIGHT",
+      "visual_description": "A dark English woodland at night. Ancient trees with twisted roots create deep, frightening shadows. A railway embankment rises on one side. A large hollow tree stands in the foreground, filled with dead leaves. Cold, desaturated blues and greys with deep blacks. Mysterious and slightly menacing atmosphere.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_WOODS_RAILWAY.jpg"
+    },
+    {
+      "identifier": "SCENE_OPEN_RIVER",
+      "ordinal": 3,
+      "location_header": "EXT. RIVER - LATE AFTERNOON",
+      "visual_description": "The main river stream under a low afternoon sun. The water reflects the golden sky. Grassy banks line the sides. The atmosphere is calm but with a sense of open space. Warm sunset tones.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_OPEN_RIVER.jpg"
+    },
+    {
+      "identifier": "SCENE_HIGH_ROAD",
+      "ordinal": 3,
+      "location_header": "EXT. HIGH ROAD - AFTERNOON",
+      "visual_description": "A broad white dust-covered high road stretching between English hedgerows. Tall poplar trees cast long shadows across the lane. In the center of the road sits a vintage Edwardian open-top motor car with brass fittings and leather seats. The lighting is bright afternoon sun. The mood is adventurous and active.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_HIGH_ROAD.jpg"
+    },
+    {
+      "identifier": "SCENE_WILD_WOOD_EDGE",
+      "ordinal": 3,
+      "location_header": "EXT. EDGE OF THE WILD WOOD - DUSK",
+      "visual_description": "The edge of a dense, dark forest opening onto snow-covered fields. Tangled black roots and brambles frame the view. In the distance, a red winter sun hangs low over a frozen river. High contrast between the menacing dark wood and the open white landscape. Cold, crisp winter dusk light.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_WILD_WOOD_EDGE.jpg"
+    },
+    {
+      "identifier": "SCENE_TOAD_HALL_DAY",
+      "ordinal": 3,
+      "location_header": "INT. BREAKFAST ROOM - DAY",
+      "visual_description": "A sun-drenched Edwardian breakfast room. French windows open onto a manicured green lawn. A mahogany table is littered with eggshells and breakfast debris. Warm morning light floods the room, highlighting dust motes and polished wood.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_TOAD_HALL_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_COURT_HOUSE",
+      "ordinal": 3,
+      "location_header": "INT. COURT HOUSE - DAY",
+      "visual_description": "A severe Victorian courtroom. A high, imposing wooden bench for the magistrates looms over a small, railed dock. Dusty shafts of light pierce the gloom through high, barred windows. The air is heavy with judgment. Dark oak, cold stone, and shadows dominate the scene.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_COURT_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_HIGH_ROAD_CRASH",
+      "ordinal": 4,
+      "location_header": "EXT. HIGH ROAD - DAY",
+      "visual_description": "A wide section of high road featuring a deep grassy ditch. A wrecked canary-yellow caravan lies on its side, shattered wheels and scattered supplies strewn about. The road is dusty. Late afternoon lighting casts dramatic shadows over the wreckage. Somber tones contrasting with the bright yellow debris.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_HIGH_ROAD_CRASH.jpg"
+    },
+    {
+      "identifier": "SCENE_WILD_WOOD_SUMMER",
+      "ordinal": 4,
+      "location_header": "EXT. WILD WOOD - EVENING",
+      "visual_description": "The Wild Wood in peaceful summer evening light. Tall beech trees form a canopy overhead, but the shadows are soft and welcoming, not threatening. Dappled golden light filters through the leaves onto mossy paths. Peaceful and natural.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_WILD_WOOD_SUMMER.jpg"
+    },
+    {
+      "identifier": "SCENE_HORSE_POND",
+      "ordinal": 4,
+      "location_header": "EXT. MEADOW POND - LATE AFTERNOON",
+      "visual_description": "A muddy horse-pond in a lush green meadow, disturbed by a recent crash. A motor car sits half-submerged in the brown water, steam rising from its engine. Reeds and trampled grass surround the bank. In the background, hedges and fields stretch away. Late afternoon golden light with long shadows. Chaotic and messy atmosphere.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_HORSE_POND.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_BANK",
+      "ordinal": 5,
+      "location_header": "EXT. RIVER BANK - DUSK",
+      "visual_description": "A sleek river flowing through a grassy bank under bright morning sunlight. Gnarly willow roots break the soil bank. Lush green reeds and rushes line the water's edge. Earthy browns and fresh greens dominate the palette. The atmosphere is idle and sunny.",
+      "metadata": {},
+      "image_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/scenes/scene_SCENE_RIVER_BANK.jpg"
+    }
+  ],
+  "subjects": [
+    "Fantasy fiction",
+    "Animals -- Fiction",
+    "Humorous stories",
+    "England -- Fiction",
+    "Friendship -- Fiction",
+    "Pastoral fiction",
+    "Country life -- Fiction",
+    "River life -- Fiction"
+  ]
+}
