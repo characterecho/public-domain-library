@@ -7,7 +7,7 @@
   "identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
   "publication_type": "novel",
   "cover_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/cover.png",
-  "total_duration_s": 18569.460431,
+  "total_duration_s": 18573.220431,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -50,7 +50,7 @@
       "ordinal": 5,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_5.mp3",
       "start_s": 13314.816667000001,
-      "end_s": 18569.460431
+      "end_s": 18573.220431
     }
   ],
   "segments": [
@@ -392,7 +392,7 @@
       "ordinal": 11,
       "title": "XI. “LIKE SUMMER TEMPESTS CAME HIS TEARS”",
       "start_s": 15144.943,
-      "end_s": 17053.017,
+      "end_s": 17053.018,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -413,8 +413,8 @@
     {
       "ordinal": 12,
       "title": "XII. THE RETURN OF ULYSSES",
-      "start_s": 17053.017,
-      "end_s": 18569.46,
+      "start_s": 17053.018,
+      "end_s": 18573.22,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -470,7 +470,7 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 556,
+      "dialogue_count": 557,
       "image_key": null,
       "voice_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/characters/NARRATOR.mp3"
     },
