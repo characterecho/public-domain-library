@@ -7,7 +7,7 @@
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
   "publication_type": "novel",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
-  "total_duration_s": 9243.791678000001,
+  "total_duration_s": 9249.737642,
   "genre_tags": [
     "Classics",
     "Gothic",
@@ -32,7 +32,7 @@
       "ordinal": 2,
       "audio_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/audio_part_2.mp3",
       "start_s": 4176.186372,
-      "end_s": 9243.791678000001
+      "end_s": 9249.737642
     }
   ],
   "segments": [
@@ -112,7 +112,7 @@
       "ordinal": 3,
       "title": "STAVE THREE. — THE SECOND OF THE THREE SPIRITS.",
       "start_s": 4176.186,
-      "end_s": 6912.548,
+      "end_s": 6912.541,
       "part_ordinal": 2,
       "metadata": {
         "scene_summary": {
@@ -134,8 +134,8 @@
     {
       "ordinal": 4,
       "title": "STAVE FOUR. — THE LAST OF THE SPIRITS.",
-      "start_s": 6912.548,
-      "end_s": 8513.567,
+      "start_s": 6912.541,
+      "end_s": 8513.557,
       "part_ordinal": 2,
       "metadata": {
         "scene_summary": {
@@ -157,8 +157,8 @@
     {
       "ordinal": 5,
       "title": "STAVE FIVE. — THE END OF IT.",
-      "start_s": 8513.567,
-      "end_s": 9243.792,
+      "start_s": 8513.557,
+      "end_s": 9249.738,
       "part_ordinal": 2,
       "metadata": {
         "scene_summary": {
@@ -207,7 +207,7 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 440,
+      "dialogue_count": 441,
       "image_key": null,
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/NARRATOR.mp3"
     },
