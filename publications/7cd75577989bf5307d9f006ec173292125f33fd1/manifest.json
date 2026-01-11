@@ -7,7 +7,7 @@
   "identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
   "publication_type": "novel",
   "cover_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/cover.png",
-  "total_duration_s": 7169.388662,
+  "total_duration_s": 7173.868662000001,
   "genre_tags": [
     "Fantasy",
     "Surrealism",
@@ -26,7 +26,7 @@
       "ordinal": 1,
       "audio_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/audio_part_1.mp3",
       "start_s": 3594.123265,
-      "end_s": 7169.388662
+      "end_s": 7173.868662000001
     }
   ],
   "segments": [
@@ -170,7 +170,7 @@
       "ordinal": 7,
       "title": "CHAPTER VII. A Mad Tea-Party",
       "start_s": 3594.123,
-      "end_s": 4193.431,
+      "end_s": 4193.432,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -191,8 +191,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VIII. The Queen’s Croquet-Ground",
-      "start_s": 4193.431,
-      "end_s": 4897.757,
+      "start_s": 4193.432,
+      "end_s": 4897.759,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -208,8 +208,8 @@
     {
       "ordinal": 9,
       "title": "CHAPTER IX. The Mock Turtle’s Story",
-      "start_s": 4897.757,
-      "end_s": 5483.306,
+      "start_s": 4897.759,
+      "end_s": 5483.309,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -230,8 +230,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER X. The Lobster Quadrille",
-      "start_s": 5483.306,
-      "end_s": 6063.601,
+      "start_s": 5483.309,
+      "end_s": 6063.605,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -247,8 +247,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER XI. Who Stole the Tarts?",
-      "start_s": 6063.601,
-      "end_s": 6575.503,
+      "start_s": 6063.605,
+      "end_s": 6575.507,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -264,8 +264,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER XII. Alice’s Evidence",
-      "start_s": 6575.503,
-      "end_s": 7169.389,
+      "start_s": 6575.507,
+      "end_s": 7173.869,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -302,7 +302,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 428,
+      "dialogue_count": 429,
       "image_key": null,
       "voice_key": "publications/7cd75577989bf5307d9f006ec173292125f33fd1/characters/NARRATOR.mp3"
     },
