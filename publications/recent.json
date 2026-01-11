@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+    "title": "The Velveteen Rabbit",
+    "author_names": "Margery Williams Bianco",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "Classics",
+      "Children's Literature",
+      "Fantasy",
+      "Fable",
+      "Toys"
+    ],
+    "updated_at": "2026-01-11T14:16:50Z",
+    "data_checksum": "43de5e8ddcc7ab97a2ab55e682c278b5e51cea343b42e5404626c51fe139323f",
+    "file_size": 79401605
+  },
+  {
     "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
     "title": "Heart of Darkness",
     "author_names": "Joseph Conrad",
@@ -110,22 +126,6 @@
     "updated_at": "2026-01-09T01:11:29Z",
     "data_checksum": "04426549220fb95acb1babf5697acefe7c766d345673a804c22982bb9786ad35",
     "file_size": 86700271
-  },
-  {
-    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
-    "title": "The Velveteen Rabbit",
-    "author_names": "Margery Williams Bianco",
-    "publication_type": "short_stories",
-    "genre_tags": [
-      "Classics",
-      "Children's Literature",
-      "Fantasy",
-      "Fable",
-      "Toys"
-    ],
-    "updated_at": "2026-01-09T01:05:41Z",
-    "data_checksum": "d832fc4cdf4f40b1b52a5528beca206a78f4014940a76abe1a8525be27d577b3",
-    "file_size": 79385193
   },
   {
     "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
