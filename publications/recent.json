@@ -1,35 +1,19 @@
 [
   {
-    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
-    "title": "The Velveteen Rabbit",
-    "author_names": "Margery Williams Bianco",
-    "publication_type": "short_stories",
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
     "genre_tags": [
       "Classics",
-      "Children's Literature",
-      "Fantasy",
-      "Fable",
-      "Toys"
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
     ],
-    "updated_at": "2026-01-11T14:16:50Z",
-    "data_checksum": "43de5e8ddcc7ab97a2ab55e682c278b5e51cea343b42e5404626c51fe139323f",
-    "file_size": 79401605
-  },
-  {
-    "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
-    "title": "Heart of Darkness",
-    "author_names": "Joseph Conrad",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Literary Fiction",
-      "Colonialism",
-      "Psychological",
-      "Nautical"
-    ],
-    "updated_at": "2026-01-10T22:29:51Z",
-    "data_checksum": "e87b1c1977f9124b34018be2c1f05ceff60c437ebea3c53268fdcac60265197c",
-    "file_size": 345859912
+    "updated_at": "2026-01-11T23:28:29Z",
+    "data_checksum": "db69e277aaebdf3657c8f058e1df7fc0f4327f1226b97e3f731a9e1ea9d8b0a2",
+    "file_size": 160318539
   },
   {
     "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
@@ -43,105 +27,25 @@
       "Pastoral",
       "Friendship"
     ],
-    "updated_at": "2026-01-10T18:01:43Z",
-    "data_checksum": "2da1c2af9934b6c85141f24a86ccce10102d31c951cc2dfdf696bd28339f4a9f",
-    "file_size": 646307659
+    "updated_at": "2026-01-11T23:26:46Z",
+    "data_checksum": "48598738cb4a01e757a57e8f95f6087b56122cdc3411aeeb7028c2b0a756c03e",
+    "file_size": 646332330
   },
   {
-    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
-    "title": "A Christmas Carol",
-    "author_names": "Charles Dickens",
-    "publication_type": "novel",
+    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+    "title": "The Velveteen Rabbit",
+    "author_names": "Margery Williams Bianco",
+    "publication_type": "short_stories",
     "genre_tags": [
       "Classics",
-      "Gothic",
-      "Victorian",
-      "Christmas",
-      "Supernatural"
-    ],
-    "updated_at": "2026-01-09T16:13:17Z",
-    "data_checksum": "5cd2c75b0980b1f243b26b2ef9aaf02940698f49cbc35ac02b7d50d0f42f6cbc",
-    "file_size": 220875056
-  },
-  {
-    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
-    "title": "Romeo and Juliet",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Tragedy",
-      "Romance",
-      "Play",
-      "Shakespearean"
-    ],
-    "updated_at": "2026-01-09T12:04:14Z",
-    "data_checksum": "b801d0f6ab55b2e079260537a1cbe83bda5520e4c4daff351119ae2d8298756d",
-    "file_size": 416088355
-  },
-  {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Play",
-      "Comedy",
-      "Romance",
-      "Mythology"
-    ],
-    "updated_at": "2026-01-09T01:31:46Z",
-    "data_checksum": "756bf1377ad5a42d233b3e4fa90c8e1c74b6ffce4009087e014fdf6e315f214e",
-    "file_size": 179485787
-  },
-  {
-    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
-    "title": "Alice's Adventures in Wonderland",
-    "author_names": "Lewis Carroll",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Fantasy",
-      "Surrealism",
-      "Portal Fantasy",
       "Children's Literature",
-      "Classic Literature"
+      "Fantasy",
+      "Fable",
+      "Toys"
     ],
-    "updated_at": "2026-01-09T01:13:53Z",
-    "data_checksum": "9e39e601f862f5879f37709d8827e64a364203b23b844ced78caa565b79bc613",
-    "file_size": 260161062
-  },
-  {
-    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
-    "title": "The Call of Cthulhu",
-    "author_names": "H. P. Lovecraft",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Horror",
-      "Cosmic Horror",
-      "Classics",
-      "Weird Fiction",
-      "Mystery"
-    ],
-    "updated_at": "2026-01-09T01:11:29Z",
-    "data_checksum": "04426549220fb95acb1babf5697acefe7c766d345673a804c22982bb9786ad35",
-    "file_size": 86700271
-  },
-  {
-    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
-    "title": "The Canterville Ghost",
-    "author_names": "Oscar Wilde",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Satire",
-      "Ghost Story",
-      "Gothic Parody",
-      "Supernatural"
-    ],
-    "updated_at": "2026-01-09T01:04:54Z",
-    "data_checksum": "e3ae99d544236570c2f72d43aefae25377c6efd88d6991ca397473cd17d99365",
-    "file_size": 154712235
+    "updated_at": "2026-01-11T23:23:19Z",
+    "data_checksum": "5636231e569a43f2a552f35431a7b1ecb7541b300fc719c788f548bb2cd669e3",
+    "file_size": 79429285
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
@@ -155,8 +59,104 @@
       "19th Century",
       "Psychological Fiction"
     ],
-    "updated_at": "2026-01-09T01:02:54Z",
-    "data_checksum": "a07221cfa5eac635e3e59fe8d5132d215fd83a3f41a5cd62c388d4287920f7f5",
-    "file_size": 223260549
+    "updated_at": "2026-01-11T23:22:58Z",
+    "data_checksum": "501a1b5abeca1776597ac8af7aef8398f0872a3f449f2df2ce9d94a24e23b58c",
+    "file_size": 223254493
+  },
+  {
+    "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+    "title": "Heart of Darkness",
+    "author_names": "Joseph Conrad",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Literary Fiction",
+      "Colonialism",
+      "Psychological",
+      "Nautical"
+    ],
+    "updated_at": "2026-01-11T23:21:11Z",
+    "data_checksum": "4f09de907076567ac48b4326d7a59148185a81d220aee6ced11abbb03fbc76ea",
+    "file_size": 345897500
+  },
+  {
+    "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+    "title": "Alice's Adventures in Wonderland",
+    "author_names": "Lewis Carroll",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Fantasy",
+      "Surrealism",
+      "Portal Fantasy",
+      "Children's Literature",
+      "Classic Literature"
+    ],
+    "updated_at": "2026-01-11T23:18:50Z",
+    "data_checksum": "b676811f039c3f4344ea95d32a7e76999ac4a33a136fef5f20d9d74d3819bf3f",
+    "file_size": 260179239
+  },
+  {
+    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+    "title": "The Canterville Ghost",
+    "author_names": "Oscar Wilde",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Satire",
+      "Ghost Story",
+      "Gothic Parody",
+      "Supernatural"
+    ],
+    "updated_at": "2026-01-11T23:16:35Z",
+    "data_checksum": "f4afe8d153de8d4718bb3ab8db755c7a17ff02564c1e9308d78c03eaff8e9b33",
+    "file_size": 154725059
+  },
+  {
+    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+    "title": "Romeo and Juliet",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Tragedy",
+      "Romance",
+      "Play",
+      "Shakespearean"
+    ],
+    "updated_at": "2026-01-11T23:15:50Z",
+    "data_checksum": "338b6cf02f02f8cdfc70c3007cc7a805eea26378898d13de17ee61c8dfb60eba",
+    "file_size": 416099740
+  },
+  {
+    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+    "title": "The Call of Cthulhu",
+    "author_names": "H. P. Lovecraft",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Horror",
+      "Cosmic Horror",
+      "Classics",
+      "Weird Fiction",
+      "Mystery"
+    ],
+    "updated_at": "2026-01-11T23:13:12Z",
+    "data_checksum": "88ec1368d391b99be7eb9d23811e717f83d1bc64e530672403a539b5bba9ae56",
+    "file_size": 86723575
+  },
+  {
+    "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+    "title": "A Christmas Carol",
+    "author_names": "Charles Dickens",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Gothic",
+      "Victorian",
+      "Christmas",
+      "Supernatural"
+    ],
+    "updated_at": "2026-01-11T23:12:29Z",
+    "data_checksum": "0eefb67ac1cd589dfcfc0ebca1c7afc4fcda8a78d022b148f94862260a8dd1ce",
+    "file_size": 220908623
   }
 ]
