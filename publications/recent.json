@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
+    "title": "The Wind in the Willows",
+    "author_names": "Kenneth Grahame",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Children's Literature",
+      "Anthropomorphic Animals",
+      "Pastoral",
+      "Friendship"
+    ],
+    "updated_at": "2026-01-11T19:43:33Z",
+    "data_checksum": "794337e5a200bcfabcfd4928a178764731fa01f0c4a0114fbac37e26c7d8cae9",
+    "file_size": 646320916
+  },
+  {
     "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
     "title": "The Call of Cthulhu",
     "author_names": "H. P. Lovecraft",
@@ -94,22 +110,6 @@
     "updated_at": "2026-01-11T14:16:50Z",
     "data_checksum": "43de5e8ddcc7ab97a2ab55e682c278b5e51cea343b42e5404626c51fe139323f",
     "file_size": 79401605
-  },
-  {
-    "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
-    "title": "The Wind in the Willows",
-    "author_names": "Kenneth Grahame",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Children's Literature",
-      "Anthropomorphic Animals",
-      "Pastoral",
-      "Friendship"
-    ],
-    "updated_at": "2026-01-10T18:01:43Z",
-    "data_checksum": "2da1c2af9934b6c85141f24a86ccce10102d31c951cc2dfdf696bd28339f4a9f",
-    "file_size": 646307659
   },
   {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
