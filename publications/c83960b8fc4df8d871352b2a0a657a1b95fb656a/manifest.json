@@ -7,7 +7,7 @@
   "identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
   "publication_type": "novel",
   "cover_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.png",
-  "total_duration_s": 3788.693039,
+  "total_duration_s": 3786.873197,
   "genre_tags": [
     "Classics",
     "Satire",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/c83960b8fc4df8d871352b2a0a657a1b95fb656a/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3788.693039
+      "end_s": 3786.873197
     }
   ],
   "segments": [
@@ -37,7 +37,7 @@
       "ordinal": 1,
       "title": "I",
       "start_s": 6.797,
-      "end_s": 484.027,
+      "end_s": 484.028,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -63,8 +63,8 @@
     {
       "ordinal": 2,
       "title": "II",
-      "start_s": 484.027,
-      "end_s": 894.023,
+      "start_s": 484.028,
+      "end_s": 894.026,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -85,8 +85,8 @@
     {
       "ordinal": 3,
       "title": "III",
-      "start_s": 894.023,
-      "end_s": 1674.588,
+      "start_s": 894.026,
+      "end_s": 1674.593,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -117,8 +117,8 @@
     {
       "ordinal": 4,
       "title": "IV",
-      "start_s": 1674.588,
-      "end_s": 2271.268,
+      "start_s": 1674.593,
+      "end_s": 2271.275,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -134,8 +134,8 @@
     {
       "ordinal": 5,
       "title": "V",
-      "start_s": 2271.268,
-      "end_s": 2810.668,
+      "start_s": 2271.275,
+      "end_s": 2810.677,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -151,8 +151,8 @@
     {
       "ordinal": 6,
       "title": "VI",
-      "start_s": 2810.668,
-      "end_s": 3297.247,
+      "start_s": 2810.677,
+      "end_s": 3297.257,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -178,8 +178,8 @@
     {
       "ordinal": 7,
       "title": "VII",
-      "start_s": 3297.247,
-      "end_s": 3788.693,
+      "start_s": 3297.257,
+      "end_s": 3786.873,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [

@@ -7,7 +7,7 @@
   "identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
   "publication_type": "novel",
   "cover_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/cover.png",
-  "total_duration_s": 4163.40542,
+  "total_duration_s": 4161.84542,
   "genre_tags": [
     "Horror",
     "Cosmic Horror",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/2541bb9789e75e6f6921c6ebbde321e460b19209/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 4163.40542
+      "end_s": 4161.84542
     }
   ],
   "segments": [
@@ -37,7 +37,7 @@
       "ordinal": 1,
       "title": "1. The Horror in Clay.",
       "start_s": 6.876,
-      "end_s": 1034.667,
+      "end_s": 1034.666,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -53,8 +53,8 @@
     {
       "ordinal": 2,
       "title": "2. The Tale of Inspector Legrasse.",
-      "start_s": 1034.667,
-      "end_s": 2693.003,
+      "start_s": 1034.666,
+      "end_s": 2693.002,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -70,8 +70,8 @@
     {
       "ordinal": 3,
       "title": "3. The Madness from the Sea.",
-      "start_s": 2693.003,
-      "end_s": 4163.405,
+      "start_s": 2693.002,
+      "end_s": 4161.845,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [

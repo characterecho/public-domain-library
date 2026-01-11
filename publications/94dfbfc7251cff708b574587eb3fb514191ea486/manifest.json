@@ -7,7 +7,7 @@
   "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
   "publication_type": "short_stories",
   "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
-  "total_duration_s": 1249.152857,
+  "total_duration_s": 1248.347143,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 1249.152857
+      "end_s": 1248.347143
     }
   ],
   "segments": [
@@ -54,7 +54,7 @@
       "ordinal": 2,
       "title": "Christmas Morning",
       "start_s": 55.688,
-      "end_s": 239.28,
+      "end_s": 239.279,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -70,7 +70,7 @@
     {
       "ordinal": 3,
       "title": "The Skin Horse Tells His Story",
-      "start_s": 239.28,
+      "start_s": 239.279,
       "end_s": 434.815,
       "part_ordinal": 0,
       "metadata": {
@@ -88,7 +88,7 @@
       "ordinal": 4,
       "title": "Spring Time",
       "start_s": 434.815,
-      "end_s": 563.315,
+      "end_s": 563.314,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -109,8 +109,8 @@
     {
       "ordinal": 5,
       "title": "Summer Days",
-      "start_s": 563.315,
-      "end_s": 894.816,
+      "start_s": 563.314,
+      "end_s": 894.815,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -131,7 +131,7 @@
     {
       "ordinal": 6,
       "title": "Anxious Times",
-      "start_s": 894.816,
+      "start_s": 894.815,
       "end_s": 1096.245,
       "part_ordinal": 0,
       "metadata": {
@@ -149,7 +149,7 @@
       "ordinal": 7,
       "title": "The Fairy Flower",
       "start_s": 1096.245,
-      "end_s": 1199.92,
+      "end_s": 1199.919,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -165,8 +165,8 @@
     {
       "ordinal": 8,
       "title": "At Last! At Last!",
-      "start_s": 1199.92,
-      "end_s": 1249.153,
+      "start_s": 1199.919,
+      "end_s": 1248.347,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [

@@ -7,7 +7,7 @@
   "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
   "publication_type": "play",
   "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
-  "total_duration_s": 6383.092222,
+  "total_duration_s": 5160.071111,
   "genre_tags": [
     "Classics",
     "Play",
@@ -20,13 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2959.613605
-    },
-    {
-      "ordinal": 1,
-      "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/audio_part_1.mp3",
-      "start_s": 2959.613605,
-      "end_s": 6383.092222
+      "end_s": 5160.071111
     }
   ],
   "segments": [
@@ -52,7 +46,7 @@
       "ordinal": 2,
       "title": "SCENE I. Athens. A room in the Palace of Theseus",
       "start_s": 8.648,
-      "end_s": 759.68,
+      "end_s": 759.676,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -68,8 +62,8 @@
     {
       "ordinal": 3,
       "title": "SCENE II. The Same. A Room in a Cottage",
-      "start_s": 759.68,
-      "end_s": 1054.42,
+      "start_s": 759.676,
+      "end_s": 1054.415,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -85,8 +79,8 @@
     {
       "ordinal": 4,
       "title": "ACT II",
-      "start_s": 1054.42,
-      "end_s": 1056.099,
+      "start_s": 1054.415,
+      "end_s": 1056.094,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -94,8 +88,8 @@
     {
       "ordinal": 5,
       "title": "SCENE I. A wood near Athens",
-      "start_s": 1056.099,
-      "end_s": 1853.133,
+      "start_s": 1056.094,
+      "end_s": 1853.124,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -111,8 +105,8 @@
     {
       "ordinal": 6,
       "title": "SCENE II. Another part of the wood",
-      "start_s": 1853.133,
-      "end_s": 2358.412,
+      "start_s": 1853.124,
+      "end_s": 2358.4,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -128,8 +122,8 @@
     {
       "ordinal": 7,
       "title": "ACT III",
-      "start_s": 2358.412,
-      "end_s": 2360.211,
+      "start_s": 2358.4,
+      "end_s": 2360.199,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -137,8 +131,8 @@
     {
       "ordinal": 8,
       "title": "SCENE I. The Wood.",
-      "start_s": 2360.211,
-      "end_s": 2959.614,
+      "start_s": 2360.199,
+      "end_s": 2959.599,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -154,9 +148,9 @@
     {
       "ordinal": 9,
       "title": "SCENE II. Another part of the wood",
-      "start_s": 2959.614,
-      "end_s": 4363.543,
-      "part_ordinal": 1,
+      "start_s": 2959.599,
+      "end_s": 4363.505,
+      "part_ordinal": 0,
       "metadata": {
         "scenes": [
           {
@@ -171,18 +165,18 @@
     {
       "ordinal": 10,
       "title": "ACT IV",
-      "start_s": 4363.543,
-      "end_s": 4365.342,
-      "part_ordinal": 1,
+      "start_s": 4363.505,
+      "end_s": 4365.303,
+      "part_ordinal": 0,
       "metadata": {},
       "background_key": null
     },
     {
       "ordinal": 11,
       "title": "SCENE I. The Wood",
-      "start_s": 4365.342,
-      "end_s": 5017.465,
-      "part_ordinal": 1,
+      "start_s": 4365.303,
+      "end_s": 5017.416,
+      "part_ordinal": 0,
       "metadata": {
         "scenes": [
           {
@@ -202,9 +196,9 @@
     {
       "ordinal": 12,
       "title": "SCENE II. Athens. A Room in Quince’s House",
-      "start_s": 5017.465,
-      "end_s": 5158.205,
-      "part_ordinal": 1,
+      "start_s": 5017.416,
+      "end_s": 5158.153,
+      "part_ordinal": 0,
       "metadata": {
         "scenes": [
           {
@@ -219,29 +213,24 @@
     {
       "ordinal": 13,
       "title": "ACT V",
-      "start_s": 5158.205,
-      "end_s": 5160.123,
-      "part_ordinal": 1,
+      "start_s": 5158.153,
+      "end_s": 5160.071,
+      "part_ordinal": 0,
       "metadata": {},
       "background_key": null
     },
     {
       "ordinal": 14,
       "title": "SCENE I. Athens. An Apartment in the Palace of Theseus",
-      "start_s": 5160.123,
-      "end_s": 6383.092,
-      "part_ordinal": 1,
+      "start_s": 5160.071,
+      "end_s": 5160.071,
+      "part_ordinal": 0,
       "metadata": {
         "scenes": [
           {
             "identifier": "ATHENS_PALACE_NIGHT",
-            "location_header": "ACT V",
-            "visual_description": "Ancient Athens, 1200 BC. The grand palace hall at night, illuminated by flickering torchlight and glowing braziers. Deep shadows play between the towering marble columns. Rich purple banners appear dark in the dim light. In the foreground, banquet tables are cleared but festive. Warm, regal, and intimate atmosphere."
-          },
-          {
-            "identifier": "ATHENS_PALACE_MAGIC",
-            "location_header": "ENTER PUCK",
-            "visual_description": "Ancient Athens, 1200 BC. The palace hall after midnight. The torches have burned low to dying embers, casting long, eerie shadows. Blue moonlight spills across the polished marble floor. Spectral, glowing fairy lights begin to manifest in the corners. A mystical, hushed, and otherworldly atmosphere."
+            "location_header": "ACT V, SCENE 1",
+            "visual_description": "Ancient Athens, 1200 BC. The grand palace hall at night, illuminated by the warm, flickering glow of torches and iron braziers. Shadows dance against the towering white marble columns and purple banners. A celebratory wedding feast has recently concluded, leaving the space relaxed and intimate. Warm golds, deep purples, and shifting firelight. Festive, regal, and nocturnal atmosphere."
           }
         ]
       },
@@ -266,10 +255,10 @@
       ],
       "metadata": {
         "age_group": "middle_aged",
-        "gender": "male",
+        "gender": "female",
         "voice_accent": "classical_british"
       },
-      "dialogue_count": 130,
+      "dialogue_count": 131,
       "image_key": null,
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/NARRATOR.mp3"
     },
@@ -302,7 +291,7 @@
         "gender": "male",
         "voice_accent": "classical_british"
       },
-      "dialogue_count": 70,
+      "dialogue_count": 73,
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/THESEUS.png",
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/THESEUS.mp3"
     },
@@ -396,7 +385,7 @@
         "gender": "male",
         "voice_accent": "rustic_british"
       },
-      "dialogue_count": 57,
+      "dialogue_count": 56,
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/BOTTOM.png",
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/BOTTOM.mp3"
     },
@@ -458,6 +447,42 @@
       "dialogue_count": 50,
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/DEMETRIUS.png",
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/DEMETRIUS.mp3"
+    },
+    {
+      "identifier": "PUCK",
+      "name": "Puck",
+      "aliases": [
+        "Robin",
+        "Hobgoblin"
+      ],
+      "voice_attributes": [
+        "mischievous",
+        "energetic",
+        "raspy"
+      ],
+      "visual_attributes": [
+        "woodland sprite",
+        "wild tousled hair with twigs",
+        "pointed ears",
+        "glinting amber eyes",
+        "impish grin",
+        "ruddy skin with faint green tinge",
+        "rough fur-lined vest",
+        "holding a broom"
+      ],
+      "roles": [
+        "fairy",
+        "jester",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rustic_british"
+      },
+      "dialogue_count": 50,
+      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.png",
+      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.mp3"
     },
     {
       "identifier": "QUINCE",
@@ -528,42 +553,6 @@
       "dialogue_count": 48,
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.png",
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/OBERON.mp3"
-    },
-    {
-      "identifier": "PUCK",
-      "name": "Puck",
-      "aliases": [
-        "Robin",
-        "Hobgoblin"
-      ],
-      "voice_attributes": [
-        "mischievous",
-        "energetic",
-        "raspy"
-      ],
-      "visual_attributes": [
-        "woodland sprite",
-        "wild tousled hair with twigs",
-        "pointed ears",
-        "glinting amber eyes",
-        "impish grin",
-        "ruddy skin with faint green tinge",
-        "rough fur-lined vest",
-        "holding a broom"
-      ],
-      "roles": [
-        "fairy",
-        "jester",
-        "servant"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "rustic_british"
-      },
-      "dialogue_count": 48,
-      "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.png",
-      "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/PUCK.mp3"
     },
     {
       "identifier": "TITANIA",
@@ -1001,8 +990,8 @@
     {
       "identifier": "ATHENS_PALACE_NIGHT",
       "ordinal": 0,
-      "location_header": "ACT V",
-      "visual_description": "Ancient Athens, 1200 BC. The grand palace hall at night, illuminated by flickering torchlight and glowing braziers. Deep shadows play between the towering marble columns. Rich purple banners appear dark in the dim light. In the foreground, banquet tables are cleared but festive. Warm, regal, and intimate atmosphere.",
+      "location_header": "ACT V, SCENE 1",
+      "visual_description": "Ancient Athens, 1200 BC. The grand palace hall at night, illuminated by the warm, flickering glow of torches and iron braziers. Shadows dance against the towering white marble columns and purple banners. A celebratory wedding feast has recently concluded, leaving the space relaxed and intimate. Warm golds, deep purples, and shifting firelight. Festive, regal, and nocturnal atmosphere.",
       "metadata": {},
       "image_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/scenes/scene_ATHENS_PALACE_NIGHT.jpg"
     },
