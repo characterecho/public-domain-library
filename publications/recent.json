@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+    "title": "The Canterville Ghost",
+    "author_names": "Oscar Wilde",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Satire",
+      "Ghost Story",
+      "Gothic Parody",
+      "Supernatural"
+    ],
+    "updated_at": "2026-01-11T19:45:58Z",
+    "data_checksum": "35942c529fbf3877577a65458461dcb628f321d1c5ced942e854aa0faa63b7da",
+    "file_size": 154725639
+  },
+  {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
     "title": "The Velveteen Rabbit",
     "author_names": "Margery Williams Bianco",
@@ -126,22 +142,6 @@
     "updated_at": "2026-01-09T01:31:46Z",
     "data_checksum": "756bf1377ad5a42d233b3e4fa90c8e1c74b6ffce4009087e014fdf6e315f214e",
     "file_size": 179485787
-  },
-  {
-    "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
-    "title": "The Canterville Ghost",
-    "author_names": "Oscar Wilde",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Satire",
-      "Ghost Story",
-      "Gothic Parody",
-      "Supernatural"
-    ],
-    "updated_at": "2026-01-09T01:04:54Z",
-    "data_checksum": "e3ae99d544236570c2f72d43aefae25377c6efd88d6991ca397473cd17d99365",
-    "file_size": 154712235
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
