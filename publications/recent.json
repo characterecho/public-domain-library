@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+    "title": "The Call of Cthulhu",
+    "author_names": "H. P. Lovecraft",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Horror",
+      "Cosmic Horror",
+      "Classics",
+      "Weird Fiction",
+      "Mystery"
+    ],
+    "updated_at": "2026-01-11T19:38:56Z",
+    "data_checksum": "6cd9fe7f9fb1373888b19d717bb20c6717d0c8a12da6cdf52f41f711e0fac468",
+    "file_size": 86716608
+  },
+  {
     "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
     "title": "Alice's Adventures in Wonderland",
     "author_names": "Lewis Carroll",
@@ -110,22 +126,6 @@
     "updated_at": "2026-01-09T01:31:46Z",
     "data_checksum": "756bf1377ad5a42d233b3e4fa90c8e1c74b6ffce4009087e014fdf6e315f214e",
     "file_size": 179485787
-  },
-  {
-    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
-    "title": "The Call of Cthulhu",
-    "author_names": "H. P. Lovecraft",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Horror",
-      "Cosmic Horror",
-      "Classics",
-      "Weird Fiction",
-      "Mystery"
-    ],
-    "updated_at": "2026-01-09T01:11:29Z",
-    "data_checksum": "04426549220fb95acb1babf5697acefe7c766d345673a804c22982bb9786ad35",
-    "file_size": 86700271
   },
   {
     "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
