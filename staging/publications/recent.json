@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+    "title": "The Velveteen Rabbit",
+    "author_names": "Margery Williams Bianco",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "Classics",
+      "Children's Literature",
+      "Fantasy",
+      "Fable",
+      "Toys"
+    ],
+    "updated_at": "2026-01-11T19:44:24Z",
+    "data_checksum": "08c06fa46ca2ec4a520d854d92cdc331caa966758e4eb856edde1198d71085b0",
+    "file_size": 79426331
+  },
+  {
     "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
     "title": "The Wind in the Willows",
     "author_names": "Kenneth Grahame",
@@ -94,22 +110,6 @@
     "updated_at": "2026-01-11T18:27:28Z",
     "data_checksum": "18053ab5b837d9655003c3a424bd6d7336c72ced207d6aaa499fc862a6bd03a8",
     "file_size": 416100996
-  },
-  {
-    "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
-    "title": "The Velveteen Rabbit",
-    "author_names": "Margery Williams Bianco",
-    "publication_type": "short_stories",
-    "genre_tags": [
-      "Classics",
-      "Children's Literature",
-      "Fantasy",
-      "Fable",
-      "Toys"
-    ],
-    "updated_at": "2026-01-11T14:16:50Z",
-    "data_checksum": "43de5e8ddcc7ab97a2ab55e682c278b5e51cea343b42e5404626c51fe139323f",
-    "file_size": 79401605
   },
   {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
