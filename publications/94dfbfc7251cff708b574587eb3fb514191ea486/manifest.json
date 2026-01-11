@@ -7,7 +7,7 @@
   "identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
   "publication_type": "short_stories",
   "cover_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/cover.png",
-  "total_duration_s": 1243.389592,
+  "total_duration_s": 1244.469592,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/94dfbfc7251cff708b574587eb3fb514191ea486/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 1243.389592
+      "end_s": 1244.469592
     }
   ],
   "segments": [
@@ -71,7 +71,7 @@
       "ordinal": 3,
       "title": "The Skin Horse Tells His Story",
       "start_s": 239.279,
-      "end_s": 434.813,
+      "end_s": 434.814,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -87,7 +87,7 @@
     {
       "ordinal": 4,
       "title": "Spring Time",
-      "start_s": 434.813,
+      "start_s": 434.814,
       "end_s": 563.313,
       "part_ordinal": 0,
       "metadata": {
@@ -132,7 +132,7 @@
       "ordinal": 6,
       "title": "Anxious Times",
       "start_s": 894.813,
-      "end_s": 1095.162,
+      "end_s": 1096.242,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -148,8 +148,8 @@
     {
       "ordinal": 7,
       "title": "The Fairy Flower",
-      "start_s": 1095.162,
-      "end_s": 1198.836,
+      "start_s": 1096.242,
+      "end_s": 1199.916,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -165,8 +165,8 @@
     {
       "ordinal": 8,
       "title": "At Last! At Last!",
-      "start_s": 1198.836,
-      "end_s": 1243.39,
+      "start_s": 1199.916,
+      "end_s": 1244.47,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
