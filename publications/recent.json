@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+    "title": "Romeo and Juliet",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Tragedy",
+      "Romance",
+      "Play",
+      "Shakespearean"
+    ],
+    "updated_at": "2026-01-11T18:27:28Z",
+    "data_checksum": "18053ab5b837d9655003c3a424bd6d7336c72ced207d6aaa499fc862a6bd03a8",
+    "file_size": 416100996
+  },
+  {
     "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
     "title": "The Velveteen Rabbit",
     "author_names": "Margery Williams Bianco",
@@ -62,22 +78,6 @@
     "updated_at": "2026-01-09T16:13:17Z",
     "data_checksum": "5cd2c75b0980b1f243b26b2ef9aaf02940698f49cbc35ac02b7d50d0f42f6cbc",
     "file_size": 220875056
-  },
-  {
-    "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
-    "title": "Romeo and Juliet",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Tragedy",
-      "Romance",
-      "Play",
-      "Shakespearean"
-    ],
-    "updated_at": "2026-01-09T12:04:14Z",
-    "data_checksum": "b801d0f6ab55b2e079260537a1cbe83bda5520e4c4daff351119ae2d8298756d",
-    "file_size": 416088355
   },
   {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
