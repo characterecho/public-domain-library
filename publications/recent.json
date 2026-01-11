@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+    "title": "Heart of Darkness",
+    "author_names": "Joseph Conrad",
+    "publication_type": "novel",
+    "genre_tags": [
+      "Classics",
+      "Literary Fiction",
+      "Colonialism",
+      "Psychological",
+      "Nautical"
+    ],
+    "updated_at": "2026-01-11T18:36:23Z",
+    "data_checksum": "448269dd7bc4cec6c3e76e057f81b4a35fae8794dc38ec00b2d8e633a16aec81",
+    "file_size": 345872532
+  },
+  {
     "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
     "title": "A Christmas Carol",
     "author_names": "Charles Dickens",
@@ -46,22 +62,6 @@
     "updated_at": "2026-01-11T14:16:50Z",
     "data_checksum": "43de5e8ddcc7ab97a2ab55e682c278b5e51cea343b42e5404626c51fe139323f",
     "file_size": 79401605
-  },
-  {
-    "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
-    "title": "Heart of Darkness",
-    "author_names": "Joseph Conrad",
-    "publication_type": "novel",
-    "genre_tags": [
-      "Classics",
-      "Literary Fiction",
-      "Colonialism",
-      "Psychological",
-      "Nautical"
-    ],
-    "updated_at": "2026-01-10T22:29:51Z",
-    "data_checksum": "e87b1c1977f9124b34018be2c1f05ceff60c437ebea3c53268fdcac60265197c",
-    "file_size": 345859912
   },
   {
     "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
