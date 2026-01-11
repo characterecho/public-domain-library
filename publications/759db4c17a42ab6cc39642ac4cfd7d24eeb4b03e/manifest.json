@@ -7,7 +7,7 @@
   "identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
   "publication_type": "play",
   "cover_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/cover.png",
-  "total_duration_s": 6376.016485,
+  "total_duration_s": 6383.092222,
   "genre_tags": [
     "Classics",
     "Play",
@@ -26,7 +26,7 @@
       "ordinal": 1,
       "audio_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/audio_part_1.mp3",
       "start_s": 2959.613605,
-      "end_s": 6376.016485
+      "end_s": 6383.092222
     }
   ],
   "segments": [
@@ -155,7 +155,7 @@
       "ordinal": 9,
       "title": "SCENE II. Another part of the wood",
       "start_s": 2959.614,
-      "end_s": 4363.546,
+      "end_s": 4363.543,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -171,8 +171,8 @@
     {
       "ordinal": 10,
       "title": "ACT IV",
-      "start_s": 4363.546,
-      "end_s": 4365.344,
+      "start_s": 4363.543,
+      "end_s": 4365.342,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -180,8 +180,8 @@
     {
       "ordinal": 11,
       "title": "SCENE I. The Wood",
-      "start_s": 4365.344,
-      "end_s": 5017.469,
+      "start_s": 4365.342,
+      "end_s": 5017.465,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -202,8 +202,8 @@
     {
       "ordinal": 12,
       "title": "SCENE II. Athens. A Room in Quince’s House",
-      "start_s": 5017.469,
-      "end_s": 5158.208,
+      "start_s": 5017.465,
+      "end_s": 5158.205,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -219,8 +219,8 @@
     {
       "ordinal": 13,
       "title": "ACT V",
-      "start_s": 5158.208,
-      "end_s": 5160.127,
+      "start_s": 5158.205,
+      "end_s": 5160.123,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -228,8 +228,8 @@
     {
       "ordinal": 14,
       "title": "SCENE I. Athens. An Apartment in the Palace of Theseus",
-      "start_s": 5160.127,
-      "end_s": 6376.016,
+      "start_s": 5160.123,
+      "end_s": 6383.092,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -269,7 +269,7 @@
         "gender": "male",
         "voice_accent": "classical_british"
       },
-      "dialogue_count": 129,
+      "dialogue_count": 130,
       "image_key": null,
       "voice_key": "publications/759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e/characters/NARRATOR.mp3"
     },

@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "Classics",
+      "Play",
+      "Comedy",
+      "Romance",
+      "Mythology"
+    ],
+    "updated_at": "2026-01-11T19:50:04Z",
+    "data_checksum": "733fb8cda9e16ce0d65438f0206b481bc1cd3f1b1bb0528390317c7a76672c00",
+    "file_size": 179542812
+  },
+  {
     "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
     "title": "The Canterville Ghost",
     "author_names": "Oscar Wilde",
@@ -126,22 +142,6 @@
     "updated_at": "2026-01-11T18:27:28Z",
     "data_checksum": "18053ab5b837d9655003c3a424bd6d7336c72ced207d6aaa499fc862a6bd03a8",
     "file_size": 416100996
-  },
-  {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "Classics",
-      "Play",
-      "Comedy",
-      "Romance",
-      "Mythology"
-    ],
-    "updated_at": "2026-01-09T01:31:46Z",
-    "data_checksum": "756bf1377ad5a42d233b3e4fa90c8e1c74b6ffce4009087e014fdf6e315f214e",
-    "file_size": 179485787
   },
   {
     "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
