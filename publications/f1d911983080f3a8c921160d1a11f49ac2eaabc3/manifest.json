@@ -7,7 +7,7 @@
   "identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
   "publication_type": "novel",
   "cover_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/cover.png",
-  "total_duration_s": 6443.155488,
+  "total_duration_s": 6442.477687,
   "genre_tags": [
     "Classics",
     "Realism",
@@ -20,7 +20,7 @@
       "ordinal": 0,
       "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 6443.155488
+      "end_s": 6442.477687
     }
   ],
   "segments": [
@@ -37,7 +37,7 @@
       "ordinal": 1,
       "title": "PART I",
       "start_s": 7.027,
-      "end_s": 2967.306,
+      "end_s": 2967.311,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -68,8 +68,8 @@
     {
       "ordinal": 2,
       "title": "PART II",
-      "start_s": 2967.306,
-      "end_s": 6443.155,
+      "start_s": 2967.311,
+      "end_s": 6442.478,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [

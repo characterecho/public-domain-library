@@ -7,7 +7,7 @@
   "identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
   "publication_type": "play",
   "cover_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.png",
-  "total_duration_s": 9744.906394,
+  "total_duration_s": 9742.633741,
   "genre_tags": [
     "Classics",
     "Tragedy",
@@ -32,7 +32,7 @@
       "ordinal": 2,
       "audio_key": "publications/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/audio_part_2.mp3",
       "start_s": 6924.819977,
-      "end_s": 9744.906394
+      "end_s": 9742.633741
     }
   ],
   "segments": [
@@ -416,7 +416,7 @@
       "ordinal": 24,
       "title": "SCENE III. Juliet’s Chamber.",
       "start_s": 7492.392,
-      "end_s": 7678.265,
+      "end_s": 7678.264,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -432,7 +432,7 @@
     {
       "ordinal": 25,
       "title": "SCENE IV. Hall in Capulet’s House.",
-      "start_s": 7678.265,
+      "start_s": 7678.264,
       "end_s": 7816.37,
       "part_ordinal": 2,
       "metadata": {
@@ -476,7 +476,7 @@
       "ordinal": 28,
       "title": "SCENE I. Mantua. A Street.",
       "start_s": 8293.209,
-      "end_s": 8588.937,
+      "end_s": 8588.936,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -492,8 +492,8 @@
     {
       "ordinal": 29,
       "title": "SCENE II. Friar Lawrence’s Cell.",
-      "start_s": 8588.937,
-      "end_s": 8697.505,
+      "start_s": 8588.936,
+      "end_s": 8697.504,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -509,8 +509,8 @@
     {
       "ordinal": 30,
       "title": "SCENE III. A churchyard; in it a Monument belonging to the Capulets.",
-      "start_s": 8697.505,
-      "end_s": 9744.906,
+      "start_s": 8697.504,
+      "end_s": 9742.634,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
