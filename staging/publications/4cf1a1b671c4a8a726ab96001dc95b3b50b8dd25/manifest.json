@@ -7,7 +7,7 @@
   "identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
   "publication_type": "novel",
   "cover_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/cover.png",
-  "total_duration_s": 18573.220431,
+  "total_duration_s": 18572.439456,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -50,7 +50,7 @@
       "ordinal": 5,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_5.mp3",
       "start_s": 13314.816667000001,
-      "end_s": 18573.220431
+      "end_s": 18572.439456
     }
   ],
   "segments": [
@@ -350,7 +350,7 @@
       "ordinal": 10,
       "title": "X. THE FURTHER ADVENTURES OF TOAD",
       "start_s": 13314.817,
-      "end_s": 15144.943,
+      "end_s": 15144.939,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -391,8 +391,8 @@
     {
       "ordinal": 11,
       "title": "XI. “LIKE SUMMER TEMPESTS CAME HIS TEARS”",
-      "start_s": 15144.943,
-      "end_s": 17053.018,
+      "start_s": 15144.939,
+      "end_s": 17053.01,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -413,8 +413,8 @@
     {
       "ordinal": 12,
       "title": "XII. THE RETURN OF ULYSSES",
-      "start_s": 17053.018,
-      "end_s": 18573.22,
+      "start_s": 17053.01,
+      "end_s": 18572.439,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
