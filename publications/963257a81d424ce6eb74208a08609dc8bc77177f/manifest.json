@@ -7,7 +7,7 @@
   "identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
   "publication_type": "novel",
   "cover_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/cover.png",
-  "total_duration_s": 12893.256621,
+  "total_duration_s": 12896.679728,
   "genre_tags": [
     "Classics",
     "Literary Fiction",
@@ -32,7 +32,7 @@
       "ordinal": 2,
       "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/audio_part_2.mp3",
       "start_s": 4819.794558,
-      "end_s": 12893.256621
+      "end_s": 12896.679728
     }
   ],
   "segments": [
@@ -91,7 +91,7 @@
       "ordinal": 2,
       "title": "Part II",
       "start_s": 4819.795,
-      "end_s": 8948.589,
+      "end_s": 8948.583,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -132,8 +132,8 @@
     {
       "ordinal": 3,
       "title": "Part III",
-      "start_s": 8948.589,
-      "end_s": 12893.257,
+      "start_s": 8948.583,
+      "end_s": 12896.68,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -248,7 +248,7 @@
         "gender": "male",
         "voice_accent": "polish"
       },
-      "dialogue_count": 36,
+      "dialogue_count": 37,
       "image_key": null,
       "voice_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/characters/NARRATOR.mp3"
     },
