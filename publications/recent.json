@@ -1,5 +1,21 @@
 [
   {
+    "publication_identifier": "57ee121ac26883a8c5d9cef032c93bbe45cd17ad",
+    "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+    "author_names": "Robert Louis Stevenson",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "Classics",
+      "Gothic Horror",
+      "Victorian Mystery",
+      "Psychological",
+      "Urban Crime"
+    ],
+    "updated_at": "2026-01-13T03:06:13Z",
+    "data_checksum": "45a7a8d36d1dad33c33c7bd57d183936eab3a3c88c3f008b2485cd5f282e6f88",
+    "file_size": 267432136
+  },
+  {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
     "title": "A Midsummer Night's Dream",
     "author_names": "William Shakespeare",
