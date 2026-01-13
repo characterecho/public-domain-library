@@ -1,0 +1,749 @@
+{
+  "manifest_version": 2,
+  "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+  "author_names": "Robert Louis Stevenson",
+  "description": "Publication imported from https://gutenberg.org/ebooks/43.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/43.epub3.images",
+  "identifier": "57ee121ac26883a8c5d9cef032c93bbe45cd17ad",
+  "publication_type": "short_stories",
+  "cover_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/cover.png",
+  "total_duration_s": 8425.650136,
+  "genre_tags": [
+    "Classics",
+    "Gothic Horror",
+    "Victorian Mystery",
+    "Psychological",
+    "Urban Crime"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3148.903401
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/audio_part_1.mp3",
+      "start_s": 3148.903401,
+      "end_s": 8425.650136
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 8.952,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "STORY OF THE DOOR",
+      "start_s": 8.952,
+      "end_s": 771.454,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONDON_BYSTREET",
+            "location_header": "EXT. LONDON BY-STREET - DAY",
+            "visual_description": "A quiet by-street in a busy quarter of Victorian London on a Sunday morning. On one side, cheerful shop fronts with polished brass and fresh paint line the way. Breaking this pattern on the left is a sinister, windowless two-story building with a blistered, discolored door and neglected masonry. The street is relatively empty, with a sharp contrast between the bright shops and the dark, sordid entry."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "SEARCH FOR MR. HYDE",
+      "start_s": 771.454,
+      "end_s": 1761.197,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UTTERSON_STUDY",
+            "location_header": "INT. UTTERSON'S STUDY - NIGHT",
+            "visual_description": "A sombre Victorian business room lit by a single candle. A heavy iron safe stands open in the corner. A mahogany desk is cluttered with legal papers and a reading stand holding a divinity book. The atmosphere is austere, shadowy, and strictly professional, with dark wood panelling and muted rug tones."
+          },
+          {
+            "identifier": "SCENE_LANYON_DINING",
+            "location_header": "INT. DR. LANYON'S DINING ROOM - NIGHT",
+            "visual_description": "A warm, well-lit Victorian dining room. A table is set with decanters of wine and crystal glasses catching the gaslight. The room is comfortable and theatrical, with red velvet curtains and polished furniture, reflecting the hearty nature of its owner. The mood is convivial but professional."
+          },
+          {
+            "identifier": "SCENE_UTTERSON_BEDROOM",
+            "location_header": "INT. UTTERSON'S BEDROOM - NIGHT",
+            "visual_description": "A darkened Victorian bedchamber in the small hours of the morning. A large four-poster bed with heavy curtains dominates the room. Shadows from streetlamps filter through the window, creating shifting patterns on the walls. The atmosphere is oppressive, restless, and haunted."
+          },
+          {
+            "identifier": "SCENE_JEKYLL_HALLWAY",
+            "location_header": "INT. JEKYLL'S HALLWAY - NIGHT",
+            "visual_description": "A large, low-roofed hall paved with flagstones, resembling a country house. A bright open fire casts flickering light on costly oak cabinets and polished surfaces. The room is warm and wealthy, but shadows dance uneasily on the ceiling. The mood is comfortable yet tinged with unease."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "DR. JEKYLL WAS QUITE AT EASE",
+      "start_s": 1761.197,
+      "end_s": 2006.589,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_JEKYLL_HALLWAY",
+            "location_header": "INT. DR. JEKYLL'S HALL - NIGHT",
+            "visual_description": "A large, comfortable Victorian hall resembling a country house, paved with flagstones and warmed by a bright open fire. Costly oak cabinets and polished furniture catch the flickering warm light. Shadows dance on the low roof. The atmosphere is wealthy, pleasant, and intimate, with a hearthside setting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "THE CAREW MURDER CASE",
+      "start_s": 2006.589,
+      "end_s": 2603.142,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LANE_NIGHT",
+            "location_header": "EXT. LONDON LANE - NIGHT",
+            "visual_description": "A narrow Victorian lane in London bathed in brilliant full moonlight. The scene is quiet and high-contrast, with sharp shadows cast by the surrounding garden walls and townhouses. The atmosphere is initially peaceful and romantic, turning stark. The cobblestones gleam under the moon."
+          },
+          {
+            "identifier": "SCENE_POLICE_STATION",
+            "location_header": "INT. POLICE STATION - MORNING",
+            "visual_description": "A stark Victorian police station interior. The walls are whitewashed brick or painted a dull institutional colour. A wooden desk and bench sit under the light of a gas lamp and a high, barred window letting in grey morning light. The atmosphere is grim, official, and cold."
+          },
+          {
+            "identifier": "SCENE_SOHO_STREETS",
+            "location_header": "EXT. SOHO STREET - FOGGY MORNING",
+            "visual_description": "A dingy Soho street submerged in thick, chocolate-coloured fog. Gas lamps flicker weakly against the swirling brown gloom. Muddy cobblestones are visible in the foreground. To the side, the blistered door of a neglected house stands out against the dark, nightmarish atmosphere of the quarter."
+          },
+          {
+            "identifier": "SCENE_HYDE_ROOMS",
+            "location_header": "INT. HYDE'S ROOMS - MORNING",
+            "visual_description": "A luxuriously furnished Victorian room in a state of chaos. Elegant furniture, silver plate, and a fine painting contrast with clothes scattered on the floor and drawers pulled open. A fireplace in the foreground holds a pile of grey ashes. The mood is tense and violated."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "INCIDENT OF THE LETTER",
+      "start_s": 2603.142,
+      "end_s": 3148.903,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_JEKYLL_CABINET",
+            "location_header": "INT. DR. JEKYLL'S CABINET - LATE AFTERNOON",
+            "visual_description": "A dingy, windowless Victorian laboratory cabinet. The room is large and gaunt, fitted with glass presses and chemical apparatus. A fire burns in the grate, casting dim light. Three dusty windows barred with iron look out onto a foggy courtyard. The atmosphere is secluded, scientific, and deathly still."
+          },
+          {
+            "identifier": "SCENE_UTTERSON_STUDY",
+            "location_header": "INT. UTTERSON'S STUDY - NIGHT",
+            "visual_description": "A sombre Victorian business room lit by a single candle. A heavy iron safe stands open in the corner. A mahogany desk is cluttered with legal papers and a reading stand holding a divinity book. The atmosphere is austere, shadowy, and strictly professional, with dark wood panelling and muted rug tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "INCIDENT OF DR. LANYON",
+      "start_s": 3148.903,
+      "end_s": 3667.193,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UTTERSON_STUDY",
+            "location_header": "INT. UTTERSON'S STUDY - NIGHT",
+            "visual_description": "A sombre Victorian business room lit by a single candle. A heavy iron safe stands open in the corner. A mahogany desk is cluttered with legal papers and a reading stand holding a divinity book. The atmosphere is austere, shadowy, and strictly professional, with dark wood panelling and muted rug tones."
+          },
+          {
+            "identifier": "SCENE_LANYON_DINING",
+            "location_header": "INT. DR. LANYON'S DINING ROOM - NIGHT",
+            "visual_description": "A warm, well-lit Victorian dining room. A table is set with decanters of wine and crystal glasses catching the gaslight. The room is comfortable and theatrical, with red velvet curtains and polished furniture, reflecting the hearty nature of its owner. The mood is convivial but professional."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "INCIDENT AT THE WINDOW",
+      "start_s": 3667.193,
+      "end_s": 3845.116,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_JEKYLL_COURTYARD",
+            "location_header": "EXT. JEKYLL'S COURTYARD - TWILIGHT",
+            "visual_description": "A damp, enclosed courtyard in Victorian London, bathed in premature twilight while the sky above remains bright. Three windows of a sombre building overlook the yard; the middle one is half-open. The atmosphere is cool, gloomy, and confined, with shadows gathering in the corners of the paved court. High walls block the view of the street, creating a sense of isolation."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "THE LAST NIGHT",
+      "start_s": 3845.116,
+      "end_s": 5228.771,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_UTTERSON_STUDY",
+            "location_header": "INT. UTTERSON'S STUDY - NIGHT",
+            "visual_description": "A sombre Victorian business room lit by the warm glow of a fireside and a single candle. A heavy iron safe stands open in the corner. A mahogany desk is cluttered with legal papers. The atmosphere is austere, shadowy, and strictly professional, with dark wood panelling and muted rug tones."
+          },
+          {
+            "identifier": "SCENE_JEKYLL_HALLWAY",
+            "location_header": "INT. DR. JEKYLL'S HALL - NIGHT",
+            "visual_description": "A large, comfortable Victorian hall paved with flagstones and warmed by a bright open fire. Costly oak cabinets and polished furniture catch the flickering warm light, contrasting with the dark wind-swept street outside. Shadows dance on the low roof. The atmosphere is tense, with a group of servants huddled near the hearth."
+          },
+          {
+            "identifier": "SCENE_JEKYLL_KITCHEN",
+            "location_header": "INT. JEKYLL'S KITCHEN - NIGHT",
+            "visual_description": "A cavernous Victorian kitchen with a high ceiling, currently cold and dark. A large distinct fireplace stands empty and black. Shadows stretch across the flagstone floor where beetles scuttle. A single candle illuminates a rough wooden table. The atmosphere is neglected, eerie, and silent."
+          },
+          {
+            "identifier": "SCENE_JEKYLL_THEATRE",
+            "location_header": "INT. LABORATORY THEATRE - NIGHT",
+            "visual_description": "A gloomy anatomical theatre, cluttered with crates, straw, and bottles. The space is vast and shadowy, lit only by a moving candle. Steep rising tiers of benches are barely visible in the darkness. A red baize door stands at the top of a short flight of stairs. Dust and cobwebs cover the lumber."
+          },
+          {
+            "identifier": "SCENE_JEKYLL_CABINET",
+            "location_header": "INT. DR. JEKYLL'S CABINET - NIGHT",
+            "visual_description": "A large Victorian cabinet room, strangely quiet and domestic. A good fire glows in the grate, with a kettle singing. A business table is neatly arranged with papers and tea things. Glazed presses full of chemicals line the walls. A cheval-glass mirror reflects the room. The atmosphere is incongruously peaceful despite the tragedy."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "DR. LANYON’S NARRATIVE",
+      "start_s": 5228.771,
+      "end_s": 6137.196,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LANYON_DINING",
+            "location_header": "INT. DR. LANYON'S DINING ROOM - NIGHT",
+            "visual_description": "A warm, well-lit Victorian dining room. A table is set with decanters of wine and crystal glasses catching the gaslight. The room is comfortable and theatrical, with red velvet curtains and polished furniture, reflecting the hearty nature of its owner. The mood is convivial but professional."
+          },
+          {
+            "identifier": "SCENE_LANYON_CONSULTING_ROOM",
+            "location_header": "INT. LANYON'S CONSULTING ROOM - NIGHT",
+            "visual_description": "A Victorian medical consulting room at midnight. A heavy mahogany desk sits under the harsh light of a reading lamp, surrounded by glass cabinets filled with instruments and medical texts. Dark leather chairs and anatomical charts create a sterile, scientific atmosphere. The room is shadowed, with bright light focused on the desk where a drawer sits."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "HENRY JEKYLL’S FULL STATEMENT OF THE CASE",
+      "start_s": 6137.196,
+      "end_s": 8425.65,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_JEKYLL_CABINET",
+            "location_header": "INT. DR. JEKYLL'S CABINET - NIGHT",
+            "visual_description": "A large Victorian cabinet room, strangely quiet and domestic. A good fire glows in the grate, with a kettle singing. A business table is neatly arranged with papers and tea things. Glazed presses full of chemicals line the walls. A cheval-glass mirror reflects the room. The atmosphere is incongruously peaceful despite the tragedy."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "narrative",
+        "clear",
+        "neutral",
+        "storyteller"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 212,
+      "image_key": null,
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "DR_JEKYLL",
+      "name": "Dr. Jekyll",
+      "aliases": [
+        "Henry Jekyll",
+        "Harry",
+        "H.J."
+      ],
+      "voice_attributes": [
+        "warm",
+        "cultured",
+        "emotional",
+        "smooth"
+      ],
+      "visual_attributes": [
+        "large well-made build",
+        "smooth face",
+        "slyish cast",
+        "kind eyes",
+        "evening dress",
+        "white tie",
+        "fifty years old"
+      ],
+      "roles": [
+        "protagonist",
+        "scientist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 154,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/DR_JEKYLL.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/DR_JEKYLL.mp3"
+    },
+    {
+      "identifier": "MR_UTTERSON",
+      "name": "Mr. Utterson",
+      "aliases": [
+        "The Lawyer",
+        "Gabriel John Utterson"
+      ],
+      "voice_attributes": [
+        "dry",
+        "austere",
+        "tolerant"
+      ],
+      "visual_attributes": [
+        "rugged face",
+        "lean build",
+        "grey sideburns",
+        "stern eyes",
+        "high collar",
+        "dark frock coat",
+        "dusty appearance"
+      ],
+      "roles": [
+        "lawyer",
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 127,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/MR_UTTERSON.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/MR_UTTERSON.mp3"
+    },
+    {
+      "identifier": "POOLE",
+      "name": "Poole",
+      "aliases": [],
+      "voice_attributes": [
+        "respectful",
+        "polite",
+        "steady"
+      ],
+      "visual_attributes": [
+        "elderly face",
+        "clean-shaven",
+        "well-dressed",
+        "butler's attire",
+        "composed expression"
+      ],
+      "roles": [
+        "servant",
+        "butler"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 48,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/POOLE.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/POOLE.mp3"
+    },
+    {
+      "identifier": "DR_LANYON",
+      "name": "Dr. Lanyon",
+      "aliases": [],
+      "voice_attributes": [
+        "boisterous",
+        "decided",
+        "theatrical",
+        "genial"
+      ],
+      "visual_attributes": [
+        "hearty red face",
+        "shock of premature white hair",
+        "dapper evening suit",
+        "bright eyes",
+        "expressive features"
+      ],
+      "roles": [
+        "doctor",
+        "friend",
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 44,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/DR_LANYON.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/DR_LANYON.mp3"
+    },
+    {
+      "identifier": "RICHARD_ENFIELD",
+      "name": "Mr. Enfield",
+      "aliases": [
+        "Richard"
+      ],
+      "voice_attributes": [
+        "refined",
+        "gossipy",
+        "expressive"
+      ],
+      "visual_attributes": [
+        "fresh face",
+        "fashionable attire",
+        "top hat",
+        "cane",
+        "walking suit",
+        "friendly expression"
+      ],
+      "roles": [
+        "man about town",
+        "kinsman"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 33,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/RICHARD_ENFIELD.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/RICHARD_ENFIELD.mp3"
+    },
+    {
+      "identifier": "MR_HYDE",
+      "name": "Mr. Hyde",
+      "aliases": [
+        "Edward Hyde",
+        "The Visitor"
+      ],
+      "voice_attributes": [
+        "husky",
+        "whispering",
+        "broken"
+      ],
+      "visual_attributes": [
+        "pale dwarfish face",
+        "displeasing smile",
+        "plain dark clothes",
+        "impression of deformity",
+        "mixture of timidity and boldness",
+        "oversized clothes",
+        "rolled up trousers",
+        "sprawling collar"
+      ],
+      "roles": [
+        "antagonist",
+        "villain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 18,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/MR_HYDE.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/MR_HYDE.mp3"
+    },
+    {
+      "identifier": "MR_GUEST",
+      "name": "Mr. Guest",
+      "aliases": [],
+      "voice_attributes": [
+        "analytical",
+        "deferential",
+        "calm"
+      ],
+      "visual_attributes": [
+        "studious face",
+        "wire-rimmed spectacles",
+        "receding hairline",
+        "high collar",
+        "earnest expression"
+      ],
+      "roles": [
+        "head clerk",
+        "handwriting expert"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/MR_GUEST.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/MR_GUEST.mp3"
+    },
+    {
+      "identifier": "INSPECTOR_NEWCOMEN",
+      "name": "Inspector Newcomen",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "ambitious",
+        "alert"
+      ],
+      "visual_attributes": [
+        "police uniform",
+        "helmet",
+        "thick mustache",
+        "alert eyes",
+        "sturdy build"
+      ],
+      "roles": [
+        "police inspector"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/INSPECTOR_NEWCOMEN.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/INSPECTOR_NEWCOMEN.mp3"
+    },
+    {
+      "identifier": "THE_COOK",
+      "name": "The Cook",
+      "aliases": [],
+      "voice_attributes": [
+        "motherly",
+        "loud",
+        "relieved"
+      ],
+      "visual_attributes": [
+        "plump face",
+        "white cap",
+        "apron",
+        "plain dress",
+        "rosy cheeks"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/THE_COOK.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/THE_COOK.mp3"
+    },
+    {
+      "identifier": "HYDES_HOUSEKEEPER",
+      "name": "The Housekeeper",
+      "aliases": [
+        "Ivory-faced Woman"
+      ],
+      "voice_attributes": [
+        "hypocritical",
+        "smooth",
+        "malicious"
+      ],
+      "visual_attributes": [
+        "ivory-pale face",
+        "silvery hair",
+        "sharp eyes",
+        "wicked smile",
+        "black servant's dress"
+      ],
+      "roles": [
+        "servant",
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/HYDES_HOUSEKEEPER.png",
+      "voice_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/characters/HYDES_HOUSEKEEPER.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_JEKYLL_CABINET",
+      "ordinal": 0,
+      "location_header": "INT. DR. JEKYLL'S CABINET - NIGHT",
+      "visual_description": "A large Victorian cabinet room, strangely quiet and domestic. A good fire glows in the grate, with a kettle singing. A business table is neatly arranged with papers and tea things. Glazed presses full of chemicals line the walls. A cheval-glass mirror reflects the room. The atmosphere is incongruously peaceful despite the tragedy.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_JEKYLL_CABINET.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_LONDON_BYSTREET",
+      "ordinal": 0,
+      "location_header": "EXT. LONDON BY-STREET - DAY",
+      "visual_description": "A quiet by-street in a busy quarter of Victorian London on a Sunday morning. On one side, cheerful shop fronts with polished brass and fresh paint line the way. Breaking this pattern on the left is a sinister, windowless two-story building with a blistered, discolored door and neglected masonry. The street is relatively empty, with a sharp contrast between the bright shops and the dark, sordid entry.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_LONDON_BYSTREET.jpg"
+    },
+    {
+      "identifier": "SCENE_UTTERSON_STUDY",
+      "ordinal": 0,
+      "location_header": "INT. UTTERSON'S STUDY - NIGHT",
+      "visual_description": "A sombre Victorian business room lit by the warm glow of a fireside and a single candle. A heavy iron safe stands open in the corner. A mahogany desk is cluttered with legal papers. The atmosphere is austere, shadowy, and strictly professional, with dark wood panelling and muted rug tones.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_UTTERSON_STUDY.jpg"
+    },
+    {
+      "identifier": "SCENE_LANYON_DINING",
+      "ordinal": 0,
+      "location_header": "INT. DR. LANYON'S DINING ROOM - NIGHT",
+      "visual_description": "A warm, well-lit Victorian dining room. A table is set with decanters of wine and crystal glasses catching the gaslight. The room is comfortable and theatrical, with red velvet curtains and polished furniture, reflecting the hearty nature of its owner. The mood is convivial but professional.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_LANYON_DINING.jpg"
+    },
+    {
+      "identifier": "SCENE_LANE_NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. LONDON LANE - NIGHT",
+      "visual_description": "A narrow Victorian lane in London bathed in brilliant full moonlight. The scene is quiet and high-contrast, with sharp shadows cast by the surrounding garden walls and townhouses. The atmosphere is initially peaceful and romantic, turning stark. The cobblestones gleam under the moon.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_LANE_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_JEKYLL_COURTYARD",
+      "ordinal": 0,
+      "location_header": "EXT. JEKYLL'S COURTYARD - TWILIGHT",
+      "visual_description": "A damp, enclosed courtyard in Victorian London, bathed in premature twilight while the sky above remains bright. Three windows of a sombre building overlook the yard; the middle one is half-open. The atmosphere is cool, gloomy, and confined, with shadows gathering in the corners of the paved court. High walls block the view of the street, creating a sense of isolation.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_JEKYLL_COURTYARD.jpg"
+    },
+    {
+      "identifier": "SCENE_JEKYLL_HALLWAY",
+      "ordinal": 1,
+      "location_header": "INT. DR. JEKYLL'S HALL - NIGHT",
+      "visual_description": "A large, comfortable Victorian hall paved with flagstones and warmed by a bright open fire. Costly oak cabinets and polished furniture catch the flickering warm light, contrasting with the dark wind-swept street outside. Shadows dance on the low roof. The atmosphere is tense, with a group of servants huddled near the hearth.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_JEKYLL_HALLWAY.jpg"
+    },
+    {
+      "identifier": "SCENE_POLICE_STATION",
+      "ordinal": 1,
+      "location_header": "INT. POLICE STATION - MORNING",
+      "visual_description": "A stark Victorian police station interior. The walls are whitewashed brick or painted a dull institutional colour. A wooden desk and bench sit under the light of a gas lamp and a high, barred window letting in grey morning light. The atmosphere is grim, official, and cold.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_POLICE_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_LANYON_CONSULTING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LANYON'S CONSULTING ROOM - NIGHT",
+      "visual_description": "A Victorian medical consulting room at midnight. A heavy mahogany desk sits under the harsh light of a reading lamp, surrounded by glass cabinets filled with instruments and medical texts. Dark leather chairs and anatomical charts create a sterile, scientific atmosphere. The room is shadowed, with bright light focused on the desk where a drawer sits.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_LANYON_CONSULTING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_JEKYLL_KITCHEN",
+      "ordinal": 2,
+      "location_header": "INT. JEKYLL'S KITCHEN - NIGHT",
+      "visual_description": "A cavernous Victorian kitchen with a high ceiling, currently cold and dark. A large distinct fireplace stands empty and black. Shadows stretch across the flagstone floor where beetles scuttle. A single candle illuminates a rough wooden table. The atmosphere is neglected, eerie, and silent.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_JEKYLL_KITCHEN.jpg"
+    },
+    {
+      "identifier": "SCENE_UTTERSON_BEDROOM",
+      "ordinal": 2,
+      "location_header": "INT. UTTERSON'S BEDROOM - NIGHT",
+      "visual_description": "A darkened Victorian bedchamber in the small hours of the morning. A large four-poster bed with heavy curtains dominates the room. Shadows from streetlamps filter through the window, creating shifting patterns on the walls. The atmosphere is oppressive, restless, and haunted.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_UTTERSON_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_SOHO_STREETS",
+      "ordinal": 2,
+      "location_header": "EXT. SOHO STREET - FOGGY MORNING",
+      "visual_description": "A dingy Soho street submerged in thick, chocolate-coloured fog. Gas lamps flicker weakly against the swirling brown gloom. Muddy cobblestones are visible in the foreground. To the side, the blistered door of a neglected house stands out against the dark, nightmarish atmosphere of the quarter.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_SOHO_STREETS.jpg"
+    },
+    {
+      "identifier": "SCENE_HYDE_ROOMS",
+      "ordinal": 3,
+      "location_header": "INT. HYDE'S ROOMS - MORNING",
+      "visual_description": "A luxuriously furnished Victorian room in a state of chaos. Elegant furniture, silver plate, and a fine painting contrast with clothes scattered on the floor and drawers pulled open. A fireplace in the foreground holds a pile of grey ashes. The mood is tense and violated.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_HYDE_ROOMS.jpg"
+    },
+    {
+      "identifier": "SCENE_JEKYLL_THEATRE",
+      "ordinal": 3,
+      "location_header": "INT. LABORATORY THEATRE - NIGHT",
+      "visual_description": "A gloomy anatomical theatre, cluttered with crates, straw, and bottles. The space is vast and shadowy, lit only by a moving candle. Steep rising tiers of benches are barely visible in the darkness. A red baize door stands at the top of a short flight of stairs. Dust and cobwebs cover the lumber.",
+      "metadata": {},
+      "image_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/scenes/scene_SCENE_JEKYLL_THEATRE.jpg"
+    }
+  ],
+  "subjects": [
+    "Science fiction",
+    "Horror tales",
+    "London (England) -- Fiction",
+    "Physicians -- Fiction",
+    "Psychological fiction",
+    "Self-experimentation in medicine -- Fiction",
+    "Multiple personality -- Fiction"
+  ]
+}
