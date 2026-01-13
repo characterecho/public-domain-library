@@ -1,0 +1,1393 @@
+{
+  "manifest_version": 2,
+  "title": "The Hidden Staircase",
+  "author_names": "Carolyn Keene",
+  "description": "Publication imported from https://gutenberg.org/ebooks/77602.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/77602.epub3.images",
+  "identifier": "fe35f25052ba485d12cbfd0cecf4ec9dde4abb11",
+  "publication_type": "novel",
+  "cover_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/cover.png",
+  "total_duration_s": 11306.47923,
+  "genre_tags": [
+    "Mystery & Thriller",
+    "Detective",
+    "Young Adult",
+    "Suspense",
+    "Crime"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3394.935828
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/audio_part_1.mp3",
+      "start_s": 3394.935828,
+      "end_s": 6833.876418
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/audio_part_2.mp3",
+      "start_s": 6833.876418,
+      "end_s": 11306.47923
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.712,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I A Rude Visitor",
+      "start_s": 6.712,
+      "end_s": 372.317,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM",
+            "location_header": "INT. DREW LIVING ROOM - AFTERNOON",
+            "visual_description": "A comfortable 1930s living room bathed in afternoon light. An old-fashioned mantel clock sits above a fireplace. Comfortable armchairs and books create a cozy, domestic atmosphere. An open doorway reveals an adjoining study with a large wooden desk in the background. Warm domestic colors disrupted by tension."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II A Warning of Trouble",
+      "start_s": 372.317,
+      "end_s": 737.372,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM",
+            "location_header": "INT. DREW LIVING ROOM - AFTERNOON",
+            "visual_description": "A comfortable 1930s living room bathed in afternoon light. An old-fashioned mantel clock sits above a fireplace. Comfortable armchairs and books create a cozy, domestic atmosphere. An open doorway reveals an adjoining study with a large wooden desk in the background. Warm domestic colors disrupted by tension."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III Interesting Information",
+      "start_s": 737.372,
+      "end_s": 1235.275,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MUSKOKA_RIVER",
+            "location_header": "EXT. MUSKOKA RIVER - DAY",
+            "visual_description": "A sunny afternoon along the Muskoka River bank in the 1930s. Thick green bushes and tall trees frame a dirt hiking path. In the middle distance, a massive, modern iron and steel railroad bridge spans the water, dominating the landscape against a blue sky. The water is calm with shallow areas near the shore."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV A Second Call",
+      "start_s": 1235.275,
+      "end_s": 1675.546,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM_NIGHT",
+            "location_header": "INT. DREW LIVING ROOM - NIGHT",
+            "visual_description": "A comfortable 1930s living room at night, illuminated by the warm, golden glow of electric lamps. Dark windows reflect the interior, revealing nothing of the outside. A fireplace stands silent under an old-fashioned mantel clock. A dining table is visible in the background, cluttered with a briefcase. Warm domestic colors—burgundy and wood tones—contrast with deep, dramatic shadows in the corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V Strange Happenings",
+      "start_s": 1675.546,
+      "end_s": 2166.978,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ROWEN_COTTAGE_LIVING_ROOM",
+            "location_header": "INT. ROWEN COTTAGE LIVING ROOM - DAY",
+            "visual_description": "A modest, cozy cottage living room filled with bright afternoon light. Simple, old-fashioned furniture includes comfortable chairs and a small table suitable for tea. Fresh white curtains hang at windows that look out onto a garden. Warm, homey atmosphere with floral wallpaper, hand-braided rugs, and a general sense of tidiness and care."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI The Ghost Calls Again",
+      "start_s": 2166.978,
+      "end_s": 2667.254,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_MANSION_EXT",
+            "location_header": "EXT. TURNBULL MANSION - DUSK",
+            "visual_description": "A 1930s blue roadster parked on a gravel driveway at dusk. In the background, a massive, ruined white stone mansion with two large turrets looms behind tall oak and maple trees. Ghostlike shadows stretch across the scene. Atmospheric, ominous lighting with deep blues and greys."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_LIVING_ROOM",
+            "location_header": "INT. TURNBULL MANSION LIVING ROOM - NIGHT",
+            "visual_description": "A spacious Victorian living room with high ceilings and faded grandeur. Massive gold-framed portraits of ancestors line the walls. Old-fashioned Colonial furniture fills the space. Dim electric lighting casts long shadows. Warm but muted colors, burgundy and gold, suggesting opulence in decay."
+          },
+          {
+            "identifier": "SCENE_FLORETTA_BEDROOM",
+            "location_header": "INT. FLORETTA'S ROOM - NIGHT",
+            "visual_description": "A small, cramped bedroom in the east wing. A single dressing table with a mirror sits against the wall. Two screened windows look out to darkness. A closed closet door stands ominously in the corner. Simple, austere furniture. Dim, somewhat claustrophobic lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII What Can It Mean!",
+      "start_s": 2667.254,
+      "end_s": 3024.423,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_FLORETTA_BEDROOM",
+            "location_header": "INT. FLORETTA'S ROOM - NIGHT",
+            "visual_description": "A small, cramped bedroom in the east wing. A single dressing table with a mirror sits against the wall. Two screened windows look out to darkness. A closed closet door stands ominously in the corner. Simple, austere furniture. Dim, somewhat claustrophobic lighting."
+          },
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM_NIGHT",
+            "location_header": "INT. DREW LIVING ROOM - NIGHT",
+            "visual_description": "A comfortable 1930s living room at night, illuminated by the warm, golden glow of electric lamps. Dark windows reflect the interior, revealing nothing of the outside. A fireplace stands silent under an old-fashioned mantel clock. A dining table is visible in the background, cluttered with a briefcase. Warm domestic colors—burgundy and wood tones—contrast with deep, dramatic shadows in the corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII The Warning",
+      "start_s": 3024.423,
+      "end_s": 3394.936,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM",
+            "location_header": "INT. DREW LIVING ROOM - AFTERNOON",
+            "visual_description": "A comfortable 1930s living room bathed in afternoon light. An old-fashioned mantel clock sits above a fireplace. Comfortable armchairs and books create a cozy, domestic atmosphere. An open doorway reveals an adjoining study with a large wooden desk in the background. Warm domestic colors disrupted by tension."
+          },
+          {
+            "identifier": "SCENE_RIVER_HEIGHTS_STATION",
+            "location_header": "EXT. RAILROAD STATION - DAY",
+            "visual_description": "A bustling 1930s railroad station platform under a wide wooden awning. A heavy black steam locomotive emits white smoke and steam, obscuring parts of the view. Wooden benches and luggage carts line the concrete platform. Sunlight filters through the haze, creating high-contrast shadows. Industrial and travel-worn atmosphere."
+          },
+          {
+            "identifier": "SCENE_CORNING_HOME",
+            "location_header": "INT. CORNING HOME - AFTERNOON",
+            "visual_description": "A cheerful, upscale 1930s parlor filled with bright afternoon light. Floral wallpaper and comfortable upholstered armchairs surround a small tea table. Large windows with lace curtains look out onto a manicured lawn. Bright and airy atmosphere with pastel tones and polished wood furniture."
+          },
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM_NIGHT",
+            "location_header": "INT. DREW LIVING ROOM - NIGHT",
+            "visual_description": "A comfortable 1930s living room at night, illuminated by the warm, golden glow of electric lamps. Dark windows reflect the interior, revealing nothing of the outside. A fireplace stands silent under an old-fashioned mantel clock. A dining table is visible in the background, cluttered with a briefcase. Warm domestic colors—burgundy and wood tones—contrast with deep, dramatic shadows in the corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX The Anonymous Message",
+      "start_s": 3394.936,
+      "end_s": 3800.721,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_DREW_LIVING_ROOM",
+            "location_header": "INT. DREW LIVING ROOM - AFTERNOON",
+            "visual_description": "A comfortable 1930s living room bathed in afternoon light. An old-fashioned mantel clock sits above a fireplace. Comfortable armchairs and books create a cozy, domestic atmosphere. An open doorway reveals an adjoining study with a large wooden desk in the background. Warm domestic colors disrupted by tension."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_GRAND_HALL",
+            "location_header": "INT. TURNBULL MANSION HALL - DAY",
+            "visual_description": "A vast, shadowy entrance hall of the Victorian mansion in daylight. A sweeping staircase dominates the space, casting shadows on peeling wallpaper. Dark woodwork and closed doors suggest secrets. Dust motes dance in beams of light. An atmosphere of decay and faded Victorian elegance."
+          },
+          {
+            "identifier": "SCENE_FLORETTA_BEDROOM_DAY",
+            "location_header": "INT. FLORETTA'S ROOM - DAY",
+            "visual_description": "A small, cramped bedroom in the east wing bathed in morning light. A single dressing table with a mirror sits against the wall. Two screened windows look out to the grounds. A closed closet door stands ominously in the corner. Simple, austere furniture. Tense, claustrophobic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X An Unfruitful Search",
+      "start_s": 3800.721,
+      "end_s": 4306.066,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_GRAND_HALL",
+            "location_header": "INT. TURNBULL MANSION HALL - DAY",
+            "visual_description": "A vast, shadowy entrance hall of the Victorian mansion in daylight. A sweeping staircase dominates the space, casting shadows on peeling wallpaper. Dark woodwork and closed doors suggest secrets. Dust motes dance in beams of light. An atmosphere of decay and faded Victorian elegance."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_GUEST_ROOM",
+            "location_header": "INT. NANCY'S GUEST ROOM - NIGHT",
+            "visual_description": "A spare, high-ceilinged Victorian guest bedroom at night. Moonlight streams through lace curtains, casting tree-branch shadows on white plaster walls. A tall four-poster bed dominates the room. An old-fashioned washstand and a heavy door with a brass keyhole are visible. Atmosphere of isolation and suspense."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER XI A Cry in the Night",
+      "start_s": 4306.066,
+      "end_s": 4623.823,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_GUEST_ROOM",
+            "location_header": "INT. GUEST ROOM / HALLWAY - NIGHT",
+            "visual_description": "A spare, high-ceilinged Victorian guest bedroom plunged in darkness. A sharp beam of light from a flashlight cuts through the gloom, revealing a tall four-poster bed and a heavy door. Shadows stretch across white plaster walls. Beyond the door, a dark corridor with peeling wallpaper is visible. Atmosphere of suspense and isolation."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_LIVING_ROOM",
+            "location_header": "INT. DRAWING ROOM / LIBRARY - NIGHT",
+            "visual_description": "A spacious Victorian drawing room sequence, lit only by a single oil lamp and flashlight beams. High ceilings, heavy drapes, and gold-framed portraits loom in the shadows. Dark wood panelling and Colonial furniture fill the space. Ladder-back chairs and a bookcase are visible in the background. Deep atmosphere of mystery and decay."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XII The Theft",
+      "start_s": 4623.823,
+      "end_s": 5136.676,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CLIFFWOOD_DRUGSTORE",
+            "location_header": "INT. DRUG STORE - DAY",
+            "visual_description": "Interior of a 1930s small-town pharmacy bathed in bright midday light. A wooden telephone booth with a folding glass door stands in the corner. Black and white checkered tile flooring runs beneath mahogany display counters filled with glass bottles and sundries. Dust motes dance in the sunlight streaming through the plate glass window."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "CHAPTER XIII Another Surprise",
+      "start_s": 5136.676,
+      "end_s": 5549.59,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_FLORETTA_BEDROOM_DAY",
+            "location_header": "INT. FLORETTA'S ROOM - DAY",
+            "visual_description": "A small, cramped bedroom in the east wing bathed in morning light. A single dressing table with a mirror sits against the wall. Two screened windows look out to the grounds. A closed closet door stands ominously in the corner. Simple, austere furniture. Tense, claustrophobic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "CHAPTER XIV What Happened to Carson Drew",
+      "start_s": 5549.59,
+      "end_s": 5982.578,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TRAIN_PULLMAN",
+            "location_header": "INT. PULLMAN CAR - NIGHT",
+            "visual_description": "Interior of a 1930s Pullman observation car at night. Plush velvet armchairs and polished mahogany paneling gleam under the warm glow of brass electric sconces. Heavy curtains are drawn over the windows. A discarded newspaper and the haze of cigar smoke hang in the air. Atmosphere of quiet, solitary luxury."
+          },
+          {
+            "identifier": "SCENE_CLIFFWOOD_STATION",
+            "location_header": "EXT. CLIFFWOOD STATION - MORNING",
+            "visual_description": "A quiet 1930s railroad station platform bathed in early morning light. A wooden station building with peeling paint stands beside the tracks. A battered, dusty automobile is parked on the adjacent dirt road. Long shadows stretch across the wooden planks of the platform. Atmosphere of isolation and rural quiet."
+          },
+          {
+            "identifier": "SCENE_GOMBET_HOUSE",
+            "location_header": "INT. GOMBET HOUSE HALLWAY - DAY",
+            "visual_description": "A gloomy, neglected upper hallway in a stone house. Peeling wallpaper hangs in strips from the plaster walls. A heavy wooden door with a prominent iron keyhole dominates the foreground. Shadows obscure the corners, suggesting a prison-like atmosphere. Cold, grey light filters in from a stairwell."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "CHAPTER XV A Prisoner",
+      "start_s": 5982.578,
+      "end_s": 6421.178,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GOMBET_PRISON_ROOM",
+            "location_header": "INT. GOMBET PRISON ROOM - DAY",
+            "visual_description": "A stark makeshift prison room inside a 1930s stone house. Rough plaster walls are bare except for a small, heavily barred window high up. A simple iron cot and wooden chair sit on worn floorboards. Grey daylight filters in, creating a cold, claustrophobic atmosphere with deep corners of shadow. The heavy wooden door has no handle on the inside."
+          },
+          {
+            "identifier": "SCENE_GOMBET_PRISON_ROOM_NIGHT",
+            "location_header": "INT. GOMBET PRISON ROOM - NIGHT",
+            "visual_description": "The same stone prison room plunged into darkness, lit only by the yellow glow of an oil lamp sitting on a wooden table. Long, dramatic shadows stretch across the peeling plaster walls. The barred window is a square of blackness. High-contrast, menacing atmosphere typical of a 1930s mystery thriller."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "CHAPTER XVI A New Clue",
+      "start_s": 6421.178,
+      "end_s": 6833.876,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_DINING_ROOM",
+            "location_header": "INT. TURNBULL DINING ROOM - DAY",
+            "visual_description": "A faded Victorian dining room bathed in midday light. A heavy mahogany table set for luncheon dominates the center, surrounded by high-backed chairs. Peeling wallpaper and old oil paintings add to the atmosphere of decayed grandeur. Dusty velvet curtains frame tall windows looking out to the grounds."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_DRAWING_ROOM_RAIN",
+            "location_header": "INT. TURNBULL DRAWING ROOM - NIGHT",
+            "visual_description": "A spacious Victorian drawing room at night, dimly lit by a single oil lamp. Rain streaks the dark window panes, reflecting the weak yellow light. Heavy drapes and dark wood panelling create deep shadows in the corners. The atmosphere is tense, gloomy, and claustrophobic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "CHAPTER XVII Under Cover of Darkness",
+      "start_s": 6833.876,
+      "end_s": 7241.866,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_GUEST_ROOM",
+            "location_header": "INT. GUEST ROOM / HALLWAY - NIGHT",
+            "visual_description": "A spare, high-ceilinged Victorian guest bedroom plunged in darkness. A sharp beam of light from a flashlight cuts through the gloom, revealing a tall four-poster bed and a heavy door. Shadows stretch across white plaster walls. Beyond the door, a dark corridor with peeling wallpaper is visible. Atmosphere of suspense and isolation."
+          },
+          {
+            "identifier": "SCENE_EXT_GOMBET_GROUNDS_NIGHT",
+            "location_header": "EXT. GOMBET HOUSE GROUNDS - NIGHT",
+            "visual_description": "A stormy night exterior amongst tall maple trees. The stone house of Nathan Gombet looms in the background, dark and sinister, with a single light glowing from a lower kitchen window. Rain falls steadily, turning the ground to mud and obscuring visibility. Deep shadows and greys dominate the ominous 1930s atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "CHAPTER XVIII Inside the Other House",
+      "start_s": 7241.866,
+      "end_s": 7827.079,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GOMBET_CELLAR",
+            "location_header": "INT. GOMBET CELLAR - NIGHT",
+            "visual_description": "A damp, earthen basement in a 1930s stone house plunged in darkness. Rough-hewn stone walls glisten with moisture. A clutter of old garden hoses, wooden crates, and a small storeroom door are visible in the gloom. Low wooden beams press down from above. The atmosphere is musty, cold, and claustrophobic."
+          },
+          {
+            "identifier": "SCENE_GOMBET_TAXIDERMY_ROOM",
+            "location_header": "INT. TAXIDERMY ROOM - NIGHT",
+            "visual_description": "A bizarre upper chamber in a 1930s house, crowded with taxidermy. Wooden pedestals hold stuffed eagles, vultures, and owls with glassy eyes. Gilded cages containing live canaries hang from the ceiling and sit on tables. A single flashlight beam cuts through the dusty semi-darkness, illuminating the eerie collection. Shadows stretch from the motionless birds."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "CHAPTER XIX A Chance Discovery",
+      "start_s": 7827.079,
+      "end_s": 8231.615,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GOMBET_TAXIDERMY_ROOM",
+            "location_header": "INT. TAXIDERMY ROOM - NIGHT",
+            "visual_description": "A bizarre upper chamber in a 1930s house, crowded with taxidermy. Wooden pedestals hold stuffed eagles, vultures, and owls with glassy eyes. Gilded cages containing live canaries hang from the ceiling and sit on tables. A single flashlight beam cuts through the dusty semi-darkness, illuminating the eerie collection. Shadows stretch from the motionless birds."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "CHAPTER XX The Underground Passage",
+      "start_s": 8231.615,
+      "end_s": 8789.642,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SECRET_PASSAGE",
+            "location_header": "INT. SECRET TUNNEL - NIGHT",
+            "visual_description": "A narrow, crudely cut stone tunnel deep underground. The walls are built of damp brick and stone, crumbling in places. Inky blackness stretches ahead, illuminated only by a single weak flashlight beam. The air is cold and moist, with water dripping from the low ceiling. Atmosphere of claustrophobia and decay."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 21,
+      "title": "CHAPTER XXI The End of the Passage",
+      "start_s": 8789.642,
+      "end_s": 9133.041,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_ATTIC",
+            "location_header": "INT. TURNBULL ATTIC - NIGHT",
+            "visual_description": "A cluttered Victorian attic in deep shadow, illuminated only by silvery moonbeams striking a dusty casement window. A large antique highboy stands near the center. Dark corners obscure piles of old furniture and trunks. The atmosphere is mysterious and quiet, with the gloom broken by the pale moonlight."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_GUEST_ROOM",
+            "location_header": "INT. GUEST ROOM / HALLWAY - NIGHT",
+            "visual_description": "A spare, high-ceilinged Victorian guest bedroom plunged in darkness. A sharp beam of light from a flashlight cuts through the gloom, revealing a tall four-poster bed and a heavy door. Shadows stretch across white plaster walls. Beyond the door, a dark corridor with peeling wallpaper is visible. Atmosphere of suspense and isolation."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 22,
+      "title": "CHAPTER XXII The Next Move",
+      "start_s": 9133.041,
+      "end_s": 9748.321,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TURNBULL_DINING_ROOM",
+            "location_header": "INT. TURNBULL DINING ROOM - MORNING",
+            "visual_description": "A faded Victorian dining room bathed in bright morning light. A heavy mahogany table set for breakfast dominates the center, surrounded by high-backed chairs. Peeling wallpaper and old oil paintings add to the atmosphere of decayed grandeur. Dusty velvet curtains frame tall windows looking out to the grounds."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_ATTIC_DAY",
+            "location_header": "INT. TURNBULL ATTIC - DAY",
+            "visual_description": "A cluttered Victorian attic illuminated by shafts of bright sunlight piercing the gloom through a dusty casement window. A large antique highboy stands near the center. Dark corners obscure piles of old furniture and trunks. Dust motes dance in the light beams, revealing a trapdoor in the floor."
+          },
+          {
+            "identifier": "SCENE_SECRET_PASSAGE",
+            "location_header": "INT. SECRET TUNNEL - DAY",
+            "visual_description": "A narrow, crudely cut stone tunnel deep underground. The walls are built of damp brick and stone, crumbling in places. Inky blackness stretches ahead, illuminated only by a single weak flashlight beam. The air is cold and moist, with water dripping from the low ceiling. Atmosphere of claustrophobia and decay."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_LIBRARY_DAY",
+            "location_header": "INT. TURNBULL LIBRARY - DAY",
+            "visual_description": "A spacious Victorian library and drawing room bathed in bright daylight. High ceilings and dark wood panelling contrast with the light. A large, heavy velvet sofa dominates the foreground, with cushions disarrayed to reveal a hidden opening. Bookshelves and oil paintings line the walls."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 23,
+      "title": "CHAPTER XXIII Notifying the Police",
+      "start_s": 9748.321,
+      "end_s": 10118.22,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CLIFFWOOD_SHERIFF_OFFICE",
+            "location_header": "INT. SHERIFF'S OFFICE - DAY",
+            "visual_description": "A messy 1930s small-town sheriff's office bathed in dusty afternoon light. A large oak roll-top desk dominates the foreground, cluttered with papers. Wooden floorboards are worn, and a few spittoons are visible near mismatched wooden chairs. Wanted posters curl on the peeling plaster walls. The atmosphere is lazy and bureaucratic."
+          },
+          {
+            "identifier": "SCENE_GOMBET_HOUSE_EXT_DAY",
+            "location_header": "EXT. GOMBET HOUSE - DAY",
+            "visual_description": "A gloomy, imposing stone house from the 1930s looming under a grey, overcast sky. Tall, unkempt maple trees cast long shadows across the overgrown yard. The structure is severe and fortress-like, with dark windows and a heavy wooden front door. A gravel driveway curves toward the house. The atmosphere is foreboding and silent."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 24,
+      "title": "CHAPTER XXIV Nancy Leads the Way",
+      "start_s": 10118.22,
+      "end_s": 10648.371,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GOMBET_CELLAR",
+            "location_header": "INT. GOMBET CELLAR - DAY",
+            "visual_description": "A damp, earthen basement in a 1930s stone house plunged in darkness. Rough-hewn stone walls glisten with moisture. A clutter of old garden hoses, wooden crates, and a small storeroom door are visible in the gloom. Low wooden beams press down from above. The atmosphere is musty, cold, and claustrophobic."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_MANSION_EXT",
+            "location_header": "EXT. TURNBULL MANSION - DAY",
+            "visual_description": "A 1930s blue roadster parked on a gravel driveway at dusk. In the background, a massive, ruined white stone mansion with two large turrets looms behind tall oak and maple trees. Ghostlike shadows stretch across the scene. Atmospheric, ominous lighting with deep blues and greys."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_LIBRARY_DAY",
+            "location_header": "INT. TURNBULL LIBRARY - DAY",
+            "visual_description": "A spacious Victorian library and drawing room bathed in bright daylight. High ceilings and dark wood panelling contrast with the light. A large, heavy velvet sofa dominates the foreground, with cushions disarrayed to reveal a hidden opening. Bookshelves and oil paintings line the walls."
+          },
+          {
+            "identifier": "SCENE_SECRET_PASSAGE",
+            "location_header": "INT. SECRET TUNNEL - DAY",
+            "visual_description": "A narrow, crudely cut stone tunnel deep underground. The walls are built of damp brick and stone, crumbling in places. Inky blackness stretches ahead, illuminated only by a single weak flashlight beam. The air is cold and moist, with water dripping from the low ceiling. Atmosphere of claustrophobia and decay."
+          },
+          {
+            "identifier": "SCENE_GOMBET_TAXIDERMY_ROOM",
+            "location_header": "INT. TAXIDERMY ROOM - DAY",
+            "visual_description": "A bizarre upper chamber in a 1930s house, crowded with taxidermy. Wooden pedestals hold stuffed eagles, vultures, and owls with glassy eyes. Gilded cages containing live canaries hang from the ceiling and sit on tables. A single flashlight beam cuts through the dusty semi-darkness, illuminating the eerie collection. Shadows stretch from the motionless birds."
+          },
+          {
+            "identifier": "SCENE_GOMBET_KITCHEN",
+            "location_header": "INT. GOMBET KITCHEN - DAY",
+            "visual_description": "A neglected 1930s farmhouse kitchen with peeling plaster walls and a heavy cast-iron stove. A wooden table covered in worn oilcloth sits in the center. A basement door with a heavy bolt stands prominently. Dirty dishes pile in a chipped sink. Grey daylight filters through grime-streaked windows, creating a grim, utilitarian atmosphere."
+          },
+          {
+            "identifier": "SCENE_GOMBET_PRISON_ROOM",
+            "location_header": "INT. GOMBET PRISON ROOM - DAY",
+            "visual_description": "A stark makeshift prison room inside a 1930s stone house. Rough plaster walls are bare except for a small, heavily barred window high up. A simple iron cot and wooden chair sit on worn floorboards. Grey daylight filters in, creating a cold, claustrophobic atmosphere with deep corners of shadow. The heavy wooden door has no handle on the inside."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 25,
+      "title": "CHAPTER XXV Captured",
+      "start_s": 10648.371,
+      "end_s": 11306.479,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GOMBET_PRISON_ROOM",
+            "location_header": "INT. GOMBET PRISON ROOM - DAY",
+            "visual_description": "A stark makeshift prison room inside a 1930s stone house bathed in grey daylight. Rough plaster walls are bare except for a small, heavily barred window. A simple iron cot and wooden chair sit on worn floorboards. The heavy wooden door has no handle on the inside. Cold, claustrophobic atmosphere."
+          },
+          {
+            "identifier": "SCENE_TURNBULL_DINING_ROOM",
+            "location_header": "INT. TURNBULL DINING ROOM - MORNING",
+            "visual_description": "A faded Victorian dining room flooded with bright morning light. A heavy mahogany table set for breakfast dominates the center, with silver service pieces catching the light. Peeling wallpaper and old oil paintings line the walls. Dusty velvet curtains frame tall windows looking out to the grounds."
+          },
+          {
+            "identifier": "SCENE_COUNTRY_ROAD_DAY",
+            "location_header": "EXT. COUNTRY ROAD - DAY",
+            "visual_description": "A smooth country road in the 1930s bathed in warm afternoon sunlight. Lush green trees and bushes line the route. A clear blue sky stretches above. In the foreground, the dashboard and windshield frame of a vintage roadster suggest a journey. The atmosphere is open, free, and optimistic."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "storytelling"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 695,
+      "image_key": null,
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "NANCY_DREW",
+      "name": "Nancy Drew",
+      "aliases": [
+        "Nancy"
+      ],
+      "voice_attributes": [
+        "clear",
+        "intelligent",
+        "youthful",
+        "spirited"
+      ],
+      "visual_attributes": [
+        "slender",
+        "titian hair",
+        "blue eyes",
+        "smart 1930s frock",
+        "alert expression"
+      ],
+      "roles": [
+        "protagonist",
+        "detective"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 439,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/NANCY_DREW.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/NANCY_DREW.mp3"
+    },
+    {
+      "identifier": "ROSEMARY_TURNBULL",
+      "name": "Rosemary Turnbull",
+      "aliases": [
+        "Rosemary",
+        "Miss Turnbull"
+      ],
+      "voice_attributes": [
+        "nervous",
+        "polite",
+        "fearful",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "tall and thin",
+        "kind face",
+        "high-necked old-fashioned dress",
+        "wide skirt",
+        "worried expression"
+      ],
+      "roles": [
+        "client",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 173,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/ROSEMARY_TURNBULL.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/ROSEMARY_TURNBULL.mp3"
+    },
+    {
+      "identifier": "CARSON_DREW",
+      "name": "Carson Drew",
+      "aliases": [
+        "Dad",
+        "Mr. Drew"
+      ],
+      "voice_attributes": [
+        "calm",
+        "authoritative",
+        "warm",
+        "deep"
+      ],
+      "visual_attributes": [
+        "distinguished face",
+        "graying hair",
+        "spectacles",
+        "kind eyes",
+        "firm jawline",
+        "business suit",
+        "high collar"
+      ],
+      "roles": [
+        "father",
+        "lawyer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 113,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/CARSON_DREW.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/CARSON_DREW.mp3"
+    },
+    {
+      "identifier": "FLORETTA_TURNBULL",
+      "name": "Floretta Turnbull",
+      "aliases": [
+        "Floretta"
+      ],
+      "voice_attributes": [
+        "shaky",
+        "high-pitched",
+        "fearful",
+        "anxious"
+      ],
+      "visual_attributes": [
+        "elderly face",
+        "weak chin",
+        "grey hair",
+        "agitated expression",
+        "simple house dress",
+        "trembling hands"
+      ],
+      "roles": [
+        "sister",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 91,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/FLORETTA_TURNBULL.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/FLORETTA_TURNBULL.mp3"
+    },
+    {
+      "identifier": "NATHAN_GOMBET",
+      "name": "Nathan Gombet",
+      "aliases": [
+        "Gombet"
+      ],
+      "voice_attributes": [
+        "harsh",
+        "gruff",
+        "unpleasant"
+      ],
+      "visual_attributes": [
+        "tall and gaunt",
+        "spindling legs",
+        "ill-fitting coat",
+        "grease spots",
+        "sharp piercing eyes",
+        "cruel expression"
+      ],
+      "roles": [
+        "antagonist",
+        "intruder"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 87,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/NATHAN_GOMBET.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/NATHAN_GOMBET.mp3"
+    },
+    {
+      "identifier": "CLIFFWOOD_SHERIFF",
+      "name": "The Sheriff",
+      "aliases": [
+        "The Sheriff"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "lazy",
+        "authoritative",
+        "rural"
+      ],
+      "visual_attributes": [
+        "heavyset",
+        "tan uniform",
+        "tin star badge",
+        "ruddy complexion",
+        "receding hairline",
+        "feet on desk"
+      ],
+      "roles": [
+        "law enforcement"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 45,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/CLIFFWOOD_SHERIFF.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/CLIFFWOOD_SHERIFF.mp3"
+    },
+    {
+      "identifier": "ALLIE_HORNER",
+      "name": "Allie Horner",
+      "aliases": [
+        "Allie"
+      ],
+      "voice_attributes": [
+        "warm",
+        "enthusiastic",
+        "friendly",
+        "midwestern"
+      ],
+      "visual_attributes": [
+        "plump face",
+        "rosy cheeks",
+        "bright eyes",
+        "simple country dress",
+        "energetic expression"
+      ],
+      "roles": [
+        "friend",
+        "farmer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 27,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/ALLIE_HORNER.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/ALLIE_HORNER.mp3"
+    },
+    {
+      "identifier": "GOMBET_HOUSEKEEPER",
+      "name": "The Housekeeper",
+      "aliases": [],
+      "voice_attributes": [
+        "sullen",
+        "quiet",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "heavy-set figure",
+        "simple work dress",
+        "weary face",
+        "hair tied back",
+        "apron"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "southern_american"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/GOMBET_HOUSEKEEPER.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/GOMBET_HOUSEKEEPER.mp3"
+    },
+    {
+      "identifier": "ABIGAIL_ROWEN",
+      "name": "Abigail Rowen",
+      "aliases": [
+        "Abigail",
+        "Miss Rowen"
+      ],
+      "voice_attributes": [
+        "warm",
+        "crackly",
+        "welcoming"
+      ],
+      "visual_attributes": [
+        "black silk dress",
+        "wrinkled kindly face",
+        "grey hair",
+        "frail frame",
+        "limp"
+      ],
+      "roles": [
+        "neighbor",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/ABIGAIL_ROWEN.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/ABIGAIL_ROWEN.mp3"
+    },
+    {
+      "identifier": "HANNAH_GRUEN",
+      "name": "Hannah Gruen",
+      "aliases": [
+        "Hannah"
+      ],
+      "voice_attributes": [
+        "warm",
+        "motherly",
+        "polite"
+      ],
+      "visual_attributes": [
+        "elderly face",
+        "grey hair in bun",
+        "kind eyes",
+        "simple house dress",
+        "apron"
+      ],
+      "roles": [
+        "housekeeper",
+        "caretaker"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/HANNAH_GRUEN.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/HANNAH_GRUEN.mp3"
+    },
+    {
+      "identifier": "HELEN_CORNING",
+      "name": "Helen Corning",
+      "aliases": [
+        "Helen"
+      ],
+      "voice_attributes": [
+        "bubbly",
+        "inquisitive",
+        "energetic"
+      ],
+      "visual_attributes": [
+        "bobbed blonde hair",
+        "fashionable 1930s tennis dress",
+        "bright smile",
+        "curious eyes"
+      ],
+      "roles": [
+        "friend",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/HELEN_CORNING.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/HELEN_CORNING.mp3"
+    },
+    {
+      "identifier": "PARROT",
+      "name": "Parrot",
+      "aliases": [],
+      "voice_attributes": [
+        "squawking",
+        "loud",
+        "mimicking",
+        "piercing"
+      ],
+      "visual_attributes": [
+        "anthropomorphic parrot",
+        "brilliantly colored feathers",
+        "curved beak",
+        "beady intelligent eyes",
+        "perched posture",
+        "red and green plumage"
+      ],
+      "roles": [
+        "alarm",
+        "pet"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/PARROT.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/PARROT.mp3"
+    },
+    {
+      "identifier": "SHERIFFS_DEPUTY",
+      "name": "Deputy",
+      "aliases": [],
+      "voice_attributes": [
+        "nervous",
+        "young",
+        "whispering"
+      ],
+      "visual_attributes": [
+        "young face",
+        "uniform cap",
+        "keen eyes"
+      ],
+      "roles": [
+        "law enforcement"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/SHERIFFS_DEPUTY.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/SHERIFFS_DEPUTY.mp3"
+    },
+    {
+      "identifier": "TRAIN_CONDUCTOR",
+      "name": "Conductor",
+      "aliases": [],
+      "voice_attributes": [
+        "business-like",
+        "professional",
+        "brisk"
+      ],
+      "visual_attributes": [
+        "uniform cap",
+        "brass buttons",
+        "ticket punch",
+        "handlebar mustache",
+        "stern face"
+      ],
+      "roles": [
+        "railroad employee"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/TRAIN_CONDUCTOR.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/TRAIN_CONDUCTOR.mp3"
+    },
+    {
+      "identifier": "MESSENGER_BOY",
+      "name": "Messenger Boy",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "monotone",
+        "professional"
+      ],
+      "visual_attributes": [
+        "round face",
+        "uniform cap",
+        "brass buttons on jacket",
+        "leather satchel",
+        "dark trousers"
+      ],
+      "roles": [
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/MESSENGER_BOY.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/MESSENGER_BOY.mp3"
+    },
+    {
+      "identifier": "PULLMAN_PORTER",
+      "name": "Porter",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "deep",
+        "deferential"
+      ],
+      "visual_attributes": [
+        "white jacket",
+        "porter cap",
+        "dark trousers",
+        "kind face"
+      ],
+      "roles": [
+        "service worker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "southern_american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/PULLMAN_PORTER.png",
+      "voice_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/characters/PULLMAN_PORTER.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_FLORETTA_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. FLORETTA'S ROOM - NIGHT",
+      "visual_description": "A small, cramped bedroom in the east wing. A single dressing table with a mirror sits against the wall. Two screened windows look out to darkness. A closed closet door stands ominously in the corner. Simple, austere furniture. Dim, somewhat claustrophobic lighting.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_FLORETTA_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_FLORETTA_BEDROOM_DAY",
+      "ordinal": 0,
+      "location_header": "INT. FLORETTA'S ROOM - DAY",
+      "visual_description": "A small, cramped bedroom in the east wing bathed in morning light. A single dressing table with a mirror sits against the wall. Two screened windows look out to the grounds. A closed closet door stands ominously in the corner. Simple, austere furniture. Tense, claustrophobic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_FLORETTA_BEDROOM_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_TRAIN_PULLMAN",
+      "ordinal": 0,
+      "location_header": "INT. PULLMAN CAR - NIGHT",
+      "visual_description": "Interior of a 1930s Pullman observation car at night. Plush velvet armchairs and polished mahogany paneling gleam under the warm glow of brass electric sconces. Heavy curtains are drawn over the windows. A discarded newspaper and the haze of cigar smoke hang in the air. Atmosphere of quiet, solitary luxury.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TRAIN_PULLMAN.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_GRAND_HALL",
+      "ordinal": 0,
+      "location_header": "INT. TURNBULL MANSION HALL - DAY",
+      "visual_description": "A vast, shadowy entrance hall of the Victorian mansion in daylight. A sweeping staircase dominates the space, casting shadows on peeling wallpaper. Dark woodwork and closed doors suggest secrets. Dust motes dance in beams of light. An atmosphere of decay and faded Victorian elegance.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_GRAND_HALL.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_CELLAR",
+      "ordinal": 0,
+      "location_header": "INT. GOMBET CELLAR - DAY",
+      "visual_description": "A damp, earthen basement in a 1930s stone house plunged in darkness. Rough-hewn stone walls glisten with moisture. A clutter of old garden hoses, wooden crates, and a small storeroom door are visible in the gloom. Low wooden beams press down from above. The atmosphere is musty, cold, and claustrophobic.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_CELLAR.jpg"
+    },
+    {
+      "identifier": "SCENE_CLIFFWOOD_DRUGSTORE",
+      "ordinal": 0,
+      "location_header": "INT. DRUG STORE - DAY",
+      "visual_description": "Interior of a 1930s small-town pharmacy bathed in bright midday light. A wooden telephone booth with a folding glass door stands in the corner. Black and white checkered tile flooring runs beneath mahogany display counters filled with glass bottles and sundries. Dust motes dance in the sunlight streaming through the plate glass window.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_CLIFFWOOD_DRUGSTORE.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_ATTIC",
+      "ordinal": 0,
+      "location_header": "INT. TURNBULL ATTIC - NIGHT",
+      "visual_description": "A cluttered Victorian attic in deep shadow, illuminated only by silvery moonbeams striking a dusty casement window. A large antique highboy stands near the center. Dark corners obscure piles of old furniture and trunks. The atmosphere is mysterious and quiet, with the gloom broken by the pale moonlight.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_ATTIC.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_DINING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. TURNBULL DINING ROOM - MORNING",
+      "visual_description": "A faded Victorian dining room bathed in bright morning light. A heavy mahogany table set for breakfast dominates the center, surrounded by high-backed chairs. Peeling wallpaper and old oil paintings add to the atmosphere of decayed grandeur. Dusty velvet curtains frame tall windows looking out to the grounds.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_CLIFFWOOD_SHERIFF_OFFICE",
+      "ordinal": 0,
+      "location_header": "INT. SHERIFF'S OFFICE - DAY",
+      "visual_description": "A messy 1930s small-town sheriff's office bathed in dusty afternoon light. A large oak roll-top desk dominates the foreground, cluttered with papers. Wooden floorboards are worn, and a few spittoons are visible near mismatched wooden chairs. Wanted posters curl on the peeling plaster walls. The atmosphere is lazy and bureaucratic.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_CLIFFWOOD_SHERIFF_OFFICE.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_DREW_LIVING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. DREW LIVING ROOM - AFTERNOON",
+      "visual_description": "A comfortable 1930s living room bathed in afternoon light. An old-fashioned mantel clock sits above a fireplace. Comfortable armchairs and books create a cozy, domestic atmosphere. An open doorway reveals an adjoining study with a large wooden desk in the background. Warm domestic colors disrupted by tension.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_DREW_LIVING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_ROWEN_COTTAGE_LIVING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. ROWEN COTTAGE LIVING ROOM - DAY",
+      "visual_description": "A modest, cozy cottage living room filled with bright afternoon light. Simple, old-fashioned furniture includes comfortable chairs and a small table suitable for tea. Fresh white curtains hang at windows that look out onto a garden. Warm, homey atmosphere with floral wallpaper, hand-braided rugs, and a general sense of tidiness and care.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_ROWEN_COTTAGE_LIVING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_MUSKOKA_RIVER",
+      "ordinal": 0,
+      "location_header": "EXT. MUSKOKA RIVER - DAY",
+      "visual_description": "A sunny afternoon along the Muskoka River bank in the 1930s. Thick green bushes and tall trees frame a dirt hiking path. In the middle distance, a massive, modern iron and steel railroad bridge spans the water, dominating the landscape against a blue sky. The water is calm with shallow areas near the shore.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_MUSKOKA_RIVER.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_DRAWING_ROOM_RAIN",
+      "ordinal": 1,
+      "location_header": "INT. TURNBULL DRAWING ROOM - NIGHT",
+      "visual_description": "A spacious Victorian drawing room at night, dimly lit by a single oil lamp. Rain streaks the dark window panes, reflecting the weak yellow light. Heavy drapes and dark wood panelling create deep shadows in the corners. The atmosphere is tense, gloomy, and claustrophobic.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_DRAWING_ROOM_RAIN.jpg"
+    },
+    {
+      "identifier": "SCENE_CLIFFWOOD_STATION",
+      "ordinal": 1,
+      "location_header": "EXT. CLIFFWOOD STATION - MORNING",
+      "visual_description": "A quiet 1930s railroad station platform bathed in early morning light. A wooden station building with peeling paint stands beside the tracks. A battered, dusty automobile is parked on the adjacent dirt road. Long shadows stretch across the wooden planks of the platform. Atmosphere of isolation and rural quiet.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_CLIFFWOOD_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_PRISON_ROOM_NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. GOMBET PRISON ROOM - NIGHT",
+      "visual_description": "The same stone prison room plunged into darkness, lit only by the yellow glow of an oil lamp sitting on a wooden table. Long, dramatic shadows stretch across the peeling plaster walls. The barred window is a square of blackness. High-contrast, menacing atmosphere typical of a 1930s mystery thriller.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_PRISON_ROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_LIVING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. DRAWING ROOM / LIBRARY - NIGHT",
+      "visual_description": "A spacious Victorian drawing room sequence, lit only by a single oil lamp and flashlight beams. High ceilings, heavy drapes, and gold-framed portraits loom in the shadows. Dark wood panelling and Colonial furniture fill the space. Ladder-back chairs and a bookcase are visible in the background. Deep atmosphere of mystery and decay.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_LIVING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_HOUSE_EXT_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. GOMBET HOUSE - DAY",
+      "visual_description": "A gloomy, imposing stone house from the 1930s looming under a grey, overcast sky. Tall, unkempt maple trees cast long shadows across the overgrown yard. The structure is severe and fortress-like, with dark windows and a heavy wooden front door. A gravel driveway curves toward the house. The atmosphere is foreboding and silent.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_HOUSE_EXT_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_ATTIC_DAY",
+      "ordinal": 1,
+      "location_header": "INT. TURNBULL ATTIC - DAY",
+      "visual_description": "A cluttered Victorian attic illuminated by shafts of bright sunlight piercing the gloom through a dusty casement window. A large antique highboy stands near the center. Dark corners obscure piles of old furniture and trunks. Dust motes dance in the light beams, revealing a trapdoor in the floor.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_ATTIC_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_MANSION_EXT",
+      "ordinal": 1,
+      "location_header": "EXT. TURNBULL MANSION - DAY",
+      "visual_description": "A 1930s blue roadster parked on a gravel driveway at dusk. In the background, a massive, ruined white stone mansion with two large turrets looms behind tall oak and maple trees. Ghostlike shadows stretch across the scene. Atmospheric, ominous lighting with deep blues and greys.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_MANSION_EXT.jpg"
+    },
+    {
+      "identifier": "SCENE_EXT_GOMBET_GROUNDS_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. GOMBET HOUSE GROUNDS - NIGHT",
+      "visual_description": "A stormy night exterior amongst tall maple trees. The stone house of Nathan Gombet looms in the background, dark and sinister, with a single light glowing from a lower kitchen window. Rain falls steadily, turning the ground to mud and obscuring visibility. Deep shadows and greys dominate the ominous 1930s atmosphere.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_EXT_GOMBET_GROUNDS_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_GUEST_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. GUEST ROOM / HALLWAY - NIGHT",
+      "visual_description": "A spare, high-ceilinged Victorian guest bedroom plunged in darkness. A sharp beam of light from a flashlight cuts through the gloom, revealing a tall four-poster bed and a heavy door. Shadows stretch across white plaster walls. Beyond the door, a dark corridor with peeling wallpaper is visible. Atmosphere of suspense and isolation.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_GUEST_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_HEIGHTS_STATION",
+      "ordinal": 1,
+      "location_header": "EXT. RAILROAD STATION - DAY",
+      "visual_description": "A bustling 1930s railroad station platform under a wide wooden awning. A heavy black steam locomotive emits white smoke and steam, obscuring parts of the view. Wooden benches and luggage carts line the concrete platform. Sunlight filters through the haze, creating high-contrast shadows. Industrial and travel-worn atmosphere.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_RIVER_HEIGHTS_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_TURNBULL_LIBRARY_DAY",
+      "ordinal": 2,
+      "location_header": "INT. TURNBULL LIBRARY - DAY",
+      "visual_description": "A spacious Victorian library and drawing room bathed in bright daylight. High ceilings and dark wood panelling contrast with the light. A large, heavy velvet sofa dominates the foreground, with cushions disarrayed to reveal a hidden opening. Bookshelves and oil paintings line the walls.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_TURNBULL_LIBRARY_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_HOUSE",
+      "ordinal": 2,
+      "location_header": "INT. GOMBET HOUSE HALLWAY - DAY",
+      "visual_description": "A gloomy, neglected upper hallway in a stone house. Peeling wallpaper hangs in strips from the plaster walls. A heavy wooden door with a prominent iron keyhole dominates the foreground. Shadows obscure the corners, suggesting a prison-like atmosphere. Cold, grey light filters in from a stairwell.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_CORNING_HOME",
+      "ordinal": 2,
+      "location_header": "INT. CORNING HOME - AFTERNOON",
+      "visual_description": "A cheerful, upscale 1930s parlor filled with bright afternoon light. Floral wallpaper and comfortable upholstered armchairs surround a small tea table. Large windows with lace curtains look out onto a manicured lawn. Bright and airy atmosphere with pastel tones and polished wood furniture.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_CORNING_HOME.jpg"
+    },
+    {
+      "identifier": "SCENE_COUNTRY_ROAD_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. COUNTRY ROAD - DAY",
+      "visual_description": "A smooth country road in the 1930s bathed in warm afternoon sunlight. Lush green trees and bushes line the route. A clear blue sky stretches above. In the foreground, the dashboard and windshield frame of a vintage roadster suggest a journey. The atmosphere is open, free, and optimistic.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_COUNTRY_ROAD_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_SECRET_PASSAGE",
+      "ordinal": 3,
+      "location_header": "INT. SECRET TUNNEL - DAY",
+      "visual_description": "A narrow, crudely cut stone tunnel deep underground. The walls are built of damp brick and stone, crumbling in places. Inky blackness stretches ahead, illuminated only by a single weak flashlight beam. The air is cold and moist, with water dripping from the low ceiling. Atmosphere of claustrophobia and decay.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_SECRET_PASSAGE.jpg"
+    },
+    {
+      "identifier": "SCENE_DREW_LIVING_ROOM_NIGHT",
+      "ordinal": 3,
+      "location_header": "INT. DREW LIVING ROOM - NIGHT",
+      "visual_description": "A comfortable 1930s living room at night, illuminated by the warm, golden glow of electric lamps. Dark windows reflect the interior, revealing nothing of the outside. A fireplace stands silent under an old-fashioned mantel clock. A dining table is visible in the background, cluttered with a briefcase. Warm domestic colors—burgundy and wood tones—contrast with deep, dramatic shadows in the corners.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_DREW_LIVING_ROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_TAXIDERMY_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. TAXIDERMY ROOM - DAY",
+      "visual_description": "A bizarre upper chamber in a 1930s house, crowded with taxidermy. Wooden pedestals hold stuffed eagles, vultures, and owls with glassy eyes. Gilded cages containing live canaries hang from the ceiling and sit on tables. A single flashlight beam cuts through the dusty semi-darkness, illuminating the eerie collection. Shadows stretch from the motionless birds.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_TAXIDERMY_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_KITCHEN",
+      "ordinal": 5,
+      "location_header": "INT. GOMBET KITCHEN - DAY",
+      "visual_description": "A neglected 1930s farmhouse kitchen with peeling plaster walls and a heavy cast-iron stove. A wooden table covered in worn oilcloth sits in the center. A basement door with a heavy bolt stands prominently. Dirty dishes pile in a chipped sink. Grey daylight filters through grime-streaked windows, creating a grim, utilitarian atmosphere.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_KITCHEN.jpg"
+    },
+    {
+      "identifier": "SCENE_GOMBET_PRISON_ROOM",
+      "ordinal": 6,
+      "location_header": "INT. GOMBET PRISON ROOM - DAY",
+      "visual_description": "A stark makeshift prison room inside a 1930s stone house. Rough plaster walls are bare except for a small, heavily barred window high up. A simple iron cot and wooden chair sit on worn floorboards. Grey daylight filters in, creating a cold, claustrophobic atmosphere with deep corners of shadow. The heavy wooden door has no handle on the inside.",
+      "metadata": {},
+      "image_key": "publications/fe35f25052ba485d12cbfd0cecf4ec9dde4abb11/scenes/scene_SCENE_GOMBET_PRISON_ROOM.jpg"
+    }
+  ],
+  "subjects": []
+}
