@@ -1,0 +1,1511 @@
+{
+  "manifest_version": 2,
+  "title": "The Maltese Falcon",
+  "author_names": "Dashiell Hammett",
+  "description": "Publication imported from https://gutenberg.org/ebooks/77600.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/77600.epub3.images",
+  "identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
+  "publication_type": "short_stories",
+  "cover_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/cover.png",
+  "total_duration_s": 20590.054602999997,
+  "genre_tags": [
+    "Mystery & Thriller",
+    "Hardboiled",
+    "Noir",
+    "Detective",
+    "Crime Fiction"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2637.943651
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_1.mp3",
+      "start_s": 2637.943651,
+      "end_s": 5317.823288
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_2.mp3",
+      "start_s": 5317.823288,
+      "end_s": 7936.75746
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_3.mp3",
+      "start_s": 7936.75746,
+      "end_s": 10857.52687
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_4.mp3",
+      "start_s": 10857.52687,
+      "end_s": 13682.338706999999
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_5.mp3",
+      "start_s": 13682.338706999999,
+      "end_s": 15853.836008999999
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_6.mp3",
+      "start_s": 15853.836008999999,
+      "end_s": 20590.054602999997
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.473,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "SPADE & ARCHER",
+      "start_s": 6.473,
+      "end_s": 725.412,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "DEATH IN THE FOG",
+      "start_s": 725.412,
+      "end_s": 1958.874,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco bedroom at night, shadowed and gritty. A bed with green and white checked linens sits disheveled. A bedside table holds a telephone, a pouch of Bull Durham tobacco, and a tinny alarm clock. A single white bowl light hangs on gilded chains from the ceiling. The atmosphere is smoky and masculine, with tobacco browns and harsh electric light cutting the gloom."
+          },
+          {
+            "identifier": "EXT_BURRITT_STREET_ALLEY",
+            "location_header": "EXT. BURRITT STREET ALLEY - NIGHT",
+            "visual_description": "A steep, fog-choked San Francisco street corner at night. A large billboard frames a gap between buildings leading to a dark, sloping alley. Wet pavement glistens under distant streetlamps. An ambulance is parked near the alley mouth. Flashlight beams cut through the thick mist, illuminating rough wooden fences and damp earth. A moody noir atmosphere with deep shadows, cold greys, and muted blues."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "THREE WOMEN",
+      "start_s": 1958.874,
+      "end_s": 2637.944,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          },
+          {
+            "identifier": "ST_MARKS_LOBBY",
+            "location_header": "INT. ST. MARK'S HOTEL LOBBY - DAY",
+            "visual_description": "The grand lobby of a 1920s San Francisco hotel. Tall purplish marble columns rise to a gilded ceiling, casting long shadows. In the foreground, a polished mahogany reception desk with brass fittings stands ready. To the side, a quiet alcove contains a flat-topped writing desk. The atmosphere is hushed and formal, lit by electric chandeliers that reflect off the marble floors. Cool tones of violet, mahogany, and brass."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "THE BLACK BIRD",
+      "start_s": 2637.944,
+      "end_s": 3869.838,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_CORONET_APARTMENT",
+            "location_header": "INT. CORONET APARTMENTS - DAY",
+            "visual_description": "A chaotic 1920s hotel apartment living room in cream and red tones. A walnut settee and a brocaded oval-backed chair sit facing each other in the foreground. Open trunks and scattered clothing suggest a hasty, unfinished arrival. Soft morning light filters through the windows, illuminating the disarray. The atmosphere is intimate but unsettled."
+          },
+          {
+            "identifier": "INT_LAW_OFFICE",
+            "location_header": "INT. WISE MERICAN AND WISE - DAY",
+            "visual_description": "A cramped 1920s law office inner sanctum. An immense wooden desk, heaped high with bales of paper and files, dominates the foreground. A frosted glass door with reverse lettering stands in the background. The air is hazy with stale cigar smoke. Dull, functional lighting casts shadows over the tired, bureaucratic clutter. Muted browns and greys."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "THE LEVANTINE",
+      "start_s": 3869.838,
+      "end_s": 4519.651,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "THE UNDERSIZED SHADOW",
+      "start_s": 4519.651,
+      "end_s": 5317.823,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          },
+          {
+            "identifier": "EXT_GEARY_THEATRE",
+            "location_header": "EXT. GEARY THEATRE - NIGHT",
+            "visual_description": "A bustling 1920s San Francisco street at night outside the Geary Theatre. A bright marquee illuminates the fog, advertising George Arliss in Shylock. Streetcar tracks glisten on the wet cobblestones. A mix of theatre-goers in evening wear and loiterers in caps populate the sidewalk. Shadows stretch long from gas streetlamps. Cold, misty atmosphere with electric yellow and deep blue tones."
+          },
+          {
+            "identifier": "INT_CORONET_APARTMENT",
+            "location_header": "INT. CORONET APARTMENTS - NIGHT",
+            "visual_description": "A chaotic 1920s hotel apartment living room in cream and red tones. A walnut settee and a brocaded oval-backed chair sit facing each other in the foreground. Open trunks and scattered clothing suggest a hasty, unfinished arrival. Soft morning light filters through the windows, illuminating the disarray. The atmosphere is intimate but unsettled."
+          },
+          {
+            "identifier": "EXT_SPADES_BUILDING",
+            "location_header": "EXT. SPADE'S APARTMENT BUILDING - NIGHT",
+            "visual_description": "The exterior of a tall brownstone apartment building in San Francisco at night. Fog swirls around the street entrance, lit by a single buzzing vestibule light. A dark sedan is parked at the curb, its engine idling. The street is damp and empty, save for the shadows of a garage on the corner. Noir atmosphere with deep blacks, greys, and pale yellow light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "G IN THE AIR",
+      "start_s": 5317.823,
+      "end_s": 6472.3,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco bedroom at night, shadowed and gritty. A bed with green and white checked linens sits disheveled. A bedside table holds a telephone, a pouch of Bull Durham tobacco, and a tinny alarm clock. A single white bowl light hangs on gilded chains from the ceiling. The atmosphere is smoky and masculine, with tobacco browns and harsh electric light cutting the gloom."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "HORSE FEATHERS",
+      "start_s": 6472.3,
+      "end_s": 7250.545,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco bedroom at night, shadowed and gritty. A bed with green and white checked linens sits disheveled. A bedside table holds a telephone, a pouch of Bull Durham tobacco, and a tinny alarm clock. A single white bowl light hangs on gilded chains from the ceiling. The atmosphere is smoky and masculine, with tobacco browns and harsh electric light cutting the gloom."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "BRIGID",
+      "start_s": 7250.545,
+      "end_s": 7936.757,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "THE BELVEDERE DIVAN",
+      "start_s": 7936.757,
+      "end_s": 8931.073,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red."
+          },
+          {
+            "identifier": "INT_CORONET_APARTMENT",
+            "location_header": "INT. CORONET APARTMENTS - DAY",
+            "visual_description": "A chaotic 1920s hotel apartment living room in cream and red tones. A walnut settee and a brocaded oval-backed chair sit facing each other in the foreground. Open trunks and scattered clothing suggest a hasty, unfinished arrival. Soft morning light filters through the windows, illuminating the disarray. The atmosphere is intimate but unsettled."
+          },
+          {
+            "identifier": "HOTEL_BELVEDERE_LOBBY",
+            "location_header": "INT. HOTEL BELVEDERE LOBBY - DAY",
+            "visual_description": "A grand 1920s hotel lobby of imposing scale. Tall marble pillars rise to a high ceiling, dwarfing the plush circular divans scattered across the patterned floor. A cigar stand with polished wood and glass counters sits near the entrance. In the background, brass elevator doors gleam under electric chandeliers. The atmosphere is public yet secretive. Colors of cold marble white, deep crimson velvet, and polished brass."
+          },
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "THE FAT MAN",
+      "start_s": 8931.073,
+      "end_s": 9993.367,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          },
+          {
+            "identifier": "INT_ALEXANDRIA_SUITE_12C",
+            "location_header": "INT. ALEXANDRIA HOTEL SUITE 12C - DAY",
+            "visual_description": "A lavish 1920s hotel suite sitting room. Heavy green plush armchairs sit on a matching green rug. A table in the foreground holds a whiskey siphon, crystal glasses, and a box of cigars. Two windows look out over the city street. The atmosphere is oppressive and opulent, with dark mahogany wood and velvet textures under electric light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "MERRY-GO-ROUND",
+      "start_s": 9993.367,
+      "end_s": 10857.527,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_LAW_OFFICE",
+            "location_header": "INT. WISE MERICAN AND WISE - DAY",
+            "visual_description": "A cramped 1920s law office inner sanctum. An immense wooden desk, heaped high with bales of paper and files, dominates the foreground. A frosted glass door with reverse lettering stands in the background. The air is hazy with stale cigar smoke. Dull, functional lighting casts shadows over the tired, bureaucratic clutter. Muted browns and greys."
+          },
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          },
+          {
+            "identifier": "EXT_STREET_TAXI_STAND",
+            "location_header": "EXT. STREET - DAY",
+            "visual_description": "A bustling San Francisco street corner near a taxi stand. Two yellow taxicabs are parked at the curb in the foreground. The street is paved with cobblestones, and the facades of commercial buildings rise in the background. The light is the flat, shadowless grey of a foggy afternoon. Urban, gritty atmosphere with muted yellows and pavement greys."
+          },
+          {
+            "identifier": "INT_OFFICE_VESTIBULE",
+            "location_header": "INT. VESTIBULE - DAY",
+            "visual_description": "The vestibule of a San Francisco office building. Tiled floors reflect the daylight coming through glass doors. A marble wall stands in the background. It is a transitional space, sheltered from the wind but cold and impersonal. Natural light mixes with dim electric bulbs. Cool greys and whites."
+          },
+          {
+            "identifier": "INT_CORONET_APARTMENT",
+            "location_header": "INT. CORONET APARTMENTS - DAY",
+            "visual_description": "A chaotic 1920s hotel apartment living room in cream and red tones. A walnut settee and a brocaded oval-backed chair sit facing each other in the foreground. Open trunks and scattered clothing suggest a hasty, unfinished arrival. Soft afternoon light filters through the windows, illuminating the disarray. The atmosphere is intimate but unsettled."
+          },
+          {
+            "identifier": "EXT_SUTTER_STREET",
+            "location_header": "EXT. SUTTER STREET - AFTERNOON",
+            "visual_description": "A San Francisco city street in the late afternoon. The sidewalk is grey concrete, flanked by the stone facade of an office building. In the distance, the street slopes away with traffic and pedestrians. The light is soft and yellowing, signaling approaching evening. Urban textures of stone, glass, and iron."
+          },
+          {
+            "identifier": "INT_ALEXANDRIA_CORRIDOR",
+            "location_header": "INT. ALEXANDRIA HOTEL CORRIDOR - EVENING",
+            "visual_description": "A quiet hotel corridor lined with numbered doors. Thick patterned carpet runs the length of the hall. Electric sconces on the walls provide warm, artificial light. The atmosphere is hushed and private. 1920s hotel decor with wallpaper and dark wood trim."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "THE EMPEROR’S GIFT",
+      "start_s": 10857.527,
+      "end_s": 11859.888,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_ALEXANDRIA_SUITE_12C",
+            "location_header": "INT. ALEXANDRIA HOTEL SUITE 12C - DAY",
+            "visual_description": "A lavish 1920s hotel suite sitting room. Heavy green plush armchairs sit on a matching green rug. A table in the foreground holds a whiskey siphon, crystal glasses, and a box of cigars. Two windows look out over the city street. The atmosphere is oppressive and opulent, with dark mahogany wood and velvet textures under electric light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "LA PALOMA",
+      "start_s": 11859.888,
+      "end_s": 12710.575,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - MORNING",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter and dusted with grey cigarette ash. A brass tray overflows with butts. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          },
+          {
+            "identifier": "HOTEL_BELVEDERE_LOBBY",
+            "location_header": "INT. HOTEL BELVEDERE LOBBY - DAY",
+            "visual_description": "A grand 1920s hotel lobby of imposing scale. Tall marble pillars rise to a high ceiling, dwarfing the plush circular divans scattered across the patterned floor. A cigar stand with polished wood and glass counters sits near the entrance. In the background, brass elevator doors gleam under electric chandeliers. The atmosphere is public yet secretive. Colors of cold marble white, deep crimson velvet, and polished brass."
+          },
+          {
+            "identifier": "INT_CAIRO_HOTEL_ROOM",
+            "location_header": "INT. CAIRO'S HOTEL ROOM - DAY",
+            "visual_description": "A tidy 1920s hotel bedroom with patterned wallpaper and dark mahogany furniture. A bed with a smooth coverlet stands against the wall. A dressing table in the foreground is crowded with an array of cosmetic bottles, jars, and creams. An open steamer trunk sits on the floral carpet. Morning light filters through lace curtains. Beige, cream, and mahogany tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "EVERY CRACKPOT",
+      "start_s": 12710.575,
+      "end_s": 13682.339,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_STATES_HOF_BRAU",
+            "location_header": "INT. STATES HOF BRAU - DAY",
+            "visual_description": "A bustling 1920s German-style brasserie in San Francisco. Dark varnished wooden tables are crowded with heavy porcelain plates and steins. The atmosphere is warm and hazy with tobacco smoke and steam from the kitchen. Gas globes illuminate the pickled pigs' feet and cutlery. Earthy browns, brass, and cream tones."
+          },
+          {
+            "identifier": "INT_DA_OFFICE",
+            "location_header": "INT. DISTRICT ATTORNEY'S OFFICE - DAY",
+            "visual_description": "A severe 1920s District Attorney's office. A massive oak desk with a battery of pearl buttons dominates the room. Behind it, tall windows overlook the city. Leather chairs are arranged formally. The air is stiff with authority. Stacks of files and law books line the walls. Cold institutional lighting, polished wood, and sterile white papers."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "THE THIRD MURDER",
+      "start_s": 13682.339,
+      "end_s": 14718.175,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - DAY",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter, scattered papers, and dusted with grey cigarette ash. Buff-colored curtains hang at a window revealing a building court. Harsh afternoon light filters through smoke-hazed air, transitioning to evening shadows. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          },
+          {
+            "identifier": "HOTEL_BELVEDERE_LOBBY",
+            "location_header": "INT. HOTEL BELVEDERE LOBBY - DAY",
+            "visual_description": "A grand 1920s hotel lobby of imposing scale. Tall marble pillars rise to a high ceiling, dwarfing the plush circular divans scattered across the patterned floor. A cigar stand with polished wood and glass counters sits near the entrance. In the background, brass elevator doors gleam under electric chandeliers. The atmosphere is public yet secretive. Colors of cold marble white, deep crimson velvet, and polished brass."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "SATURDAY NIGHT",
+      "start_s": 14718.175,
+      "end_s": 15853.836,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_ALEXANDRIA_SUITE_12C",
+            "location_header": "INT. ALEXANDRIA HOTEL SUITE 12C - DAY",
+            "visual_description": "A lavish 1920s hotel suite sitting room. Heavy green plush armchairs sit on a matching green rug. A table in the foreground holds a whiskey siphon, crystal glasses, and a box of cigars. Two windows look out over the city street. The atmosphere is oppressive and opulent, with dark mahogany wood and velvet textures under electric light."
+          },
+          {
+            "identifier": "EXT_ANCHO_AVENUE",
+            "location_header": "EXT. ANCHO AVENUE - NIGHT",
+            "visual_description": "A dark residential street in Burlingame at night. A large, dark house looms behind a fence with a 'For Sale' sign catching the moonlight. Weeds and unkempt grass in the foreground. Cold, silvery moonlight and deep shadows."
+          },
+          {
+            "identifier": "INT_ALEXANDRIA_LOBBY",
+            "location_header": "INT. ALEXANDRIA HOTEL LOBBY - NIGHT",
+            "visual_description": "The lobby of the Alexandria Hotel. Tall marble columns, electric chandeliers, a polished reception desk in the foreground. Shadows of the night shift. 1920s hotel grandeur, quiet and imposing. Cool marble and brass tones."
+          },
+          {
+            "identifier": "INT_EFFIES_HOUSE",
+            "location_header": "INT. EFFIE'S HOUSE - NIGHT",
+            "visual_description": "A warm, modest 1920s living room. A Chesterfield sofa dominates the foreground. Soft electric light from floor lamps. Personal touches, framed photos, a contrast to the cold hotel rooms. Cozy, safe atmosphere with warm browns and creams."
+          },
+          {
+            "identifier": "INT_SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "THE FALL-GUY",
+      "start_s": 15853.836,
+      "end_s": 17443.371,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_ALEXANDRIA_SUITE_12C",
+            "location_header": "INT. ALEXANDRIA HOTEL SUITE 12C - DAY",
+            "visual_description": "A lavish 1920s hotel suite sitting room. Heavy green plush armchairs sit on a matching green rug. A table in the foreground holds a whiskey siphon, crystal glasses, and a box of cigars. Two windows look out over the city street. The atmosphere is oppressive and opulent, with dark mahogany wood and velvet textures under electric light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "THE RUSSIAN’S HAND",
+      "start_s": 17443.371,
+      "end_s": 19353.917,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "IF THEY HANG YOU",
+      "start_s": 19353.917,
+      "end_s": 20590.055,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SPADES_APARTMENT",
+            "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+            "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red."
+          },
+          {
+            "identifier": "SPADES_OFFICE",
+            "location_header": "INT. SPADE'S OFFICE - MORNING",
+            "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter, scattered papers, and dusted with grey cigarette ash. Buff-colored curtains hang at a window revealing a building court. Bright morning light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "storyteller"
+      ],
+      "visual_attributes": [
+        "[]"
+      ],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1343,
+      "image_key": null,
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "SAM_SPADE",
+      "name": "Sam Spade",
+      "aliases": [],
+      "voice_attributes": [
+        "wolfish",
+        "cynical",
+        "professional"
+      ],
+      "visual_attributes": [
+        "long bony jaw",
+        "hooked nose",
+        "blond hair",
+        "grey suit",
+        "steep shoulders"
+      ],
+      "roles": [
+        "protagonist",
+        "detective"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1005,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SAM_SPADE.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SAM_SPADE.mp3"
+    },
+    {
+      "identifier": "BRIGID_OSHAUGHNESSY",
+      "name": "Brigid O'Shaughnessy",
+      "aliases": [
+        "Miss Wonderly",
+        "Miss LeBlanc"
+      ],
+      "voice_attributes": [
+        "soft",
+        "nervous",
+        "articulate",
+        "breathless"
+      ],
+      "visual_attributes": [
+        "tall and slender",
+        "dark red hair",
+        "cobalt-blue eyes",
+        "blue hat",
+        "blue dress"
+      ],
+      "roles": [
+        "femme fatale",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 264,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/BRIGID_OSHAUGHNESSY.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/BRIGID_OSHAUGHNESSY.mp3"
+    },
+    {
+      "identifier": "CASPER_GUTMAN",
+      "name": "Casper Gutman",
+      "aliases": [
+        "The Fat Man",
+        "Gutman"
+      ],
+      "voice_attributes": [
+        "throaty",
+        "purring",
+        "jovial",
+        "sophisticated"
+      ],
+      "visual_attributes": [
+        "enormous flabby face",
+        "bulbous pink cheeks",
+        "dark ringlets on scalp",
+        "black cutaway coat",
+        "pink pearl in ascot",
+        "small dark sleek eyes"
+      ],
+      "roles": [
+        "antagonist",
+        "mastermind"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "transatlantic"
+      },
+      "dialogue_count": 212,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/CASPER_GUTMAN.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/CASPER_GUTMAN.mp3"
+    },
+    {
+      "identifier": "EFFIE_PERINE",
+      "name": "Effie Perine",
+      "aliases": [],
+      "voice_attributes": [
+        "playful",
+        "boyish",
+        "bright"
+      ],
+      "visual_attributes": [
+        "lanky",
+        "sunburned face",
+        "tan wool dress",
+        "brown eyes"
+      ],
+      "roles": [
+        "secretary"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 134,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/EFFIE_PERINE.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/EFFIE_PERINE.mp3"
+    },
+    {
+      "identifier": "JOEL_CAIRO",
+      "name": "Joel Cairo",
+      "aliases": [],
+      "voice_attributes": [
+        "high-pitched",
+        "thin",
+        "polite"
+      ],
+      "visual_attributes": [
+        "small-boned dark man",
+        "glossy black hair",
+        "Levantine features",
+        "square-cut ruby ring",
+        "black coat",
+        "fawn spats"
+      ],
+      "roles": [
+        "antagonist",
+        "criminal"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "foreign_accent"
+      },
+      "dialogue_count": 106,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/JOEL_CAIRO.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/JOEL_CAIRO.mp3"
+    },
+    {
+      "identifier": "TOM_POLHAUS",
+      "name": "Tom Polhaus",
+      "aliases": [],
+      "voice_attributes": [
+        "husky",
+        "gentle",
+        "shrewd"
+      ],
+      "visual_attributes": [
+        "barrel-bellied",
+        "shrewd small eyes",
+        "thick mouth",
+        "carelessly shaven dark jowls",
+        "muddy shoes"
+      ],
+      "roles": [
+        "detective"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 77,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/TOM_POLHAUS.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/TOM_POLHAUS.mp3"
+    },
+    {
+      "identifier": "LIEUTENANT_DUNDY",
+      "name": "Lieutenant Dundy",
+      "aliases": [],
+      "voice_attributes": [
+        "hard",
+        "cold",
+        "deliberate"
+      ],
+      "visual_attributes": [
+        "compactly built",
+        "round head",
+        "short-cut grizzled hair",
+        "square face",
+        "grizzled mustache",
+        "greenish eyes"
+      ],
+      "roles": [
+        "police lieutenant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 70,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/LIEUTENANT_DUNDY.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/LIEUTENANT_DUNDY.mp3"
+    },
+    {
+      "identifier": "DISTRICT_ATTORNEY_BRYAN",
+      "name": "District Attorney Bryan",
+      "aliases": [
+        "Bryan",
+        "The District Attorney"
+      ],
+      "voice_attributes": [
+        "resonant",
+        "stern",
+        "powerful",
+        "oratorical"
+      ],
+      "visual_attributes": [
+        "blond hair",
+        "aggressive blue eyes",
+        "black-ribboned nose-glasses",
+        "over-large mouth",
+        "wide dimpled chin",
+        "medium stature"
+      ],
+      "roles": [
+        "official",
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 35,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/DISTRICT_ATTORNEY_BRYAN.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/DISTRICT_ATTORNEY_BRYAN.mp3"
+    },
+    {
+      "identifier": "LUKE",
+      "name": "Luke",
+      "aliases": [
+        "The hotel-detective"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "familiar",
+        "professional"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "round sallow face",
+        "compactly built",
+        "dark clothes",
+        "crafty brown eyes"
+      ],
+      "roles": [
+        "hotel_detective"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 34,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/LUKE.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/LUKE.mp3"
+    },
+    {
+      "identifier": "IVA_ARCHER",
+      "name": "Iva Archer",
+      "aliases": [],
+      "voice_attributes": [
+        "tearful",
+        "plaintive",
+        "moist",
+        "needy"
+      ],
+      "visual_attributes": [
+        "blonde hair",
+        "tear-stained face",
+        "black mourning dress",
+        "black hat",
+        "full lips",
+        "pale complexion"
+      ],
+      "roles": [
+        "widow",
+        "suspect"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 33,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/IVA_ARCHER.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/IVA_ARCHER.mp3"
+    },
+    {
+      "identifier": "SID_WISE",
+      "name": "Sid Wise",
+      "aliases": [],
+      "voice_attributes": [
+        "shrill",
+        "flat",
+        "unemotional"
+      ],
+      "visual_attributes": [
+        "small olive-skinned man",
+        "tired oval face",
+        "thin dark hair",
+        "dandruff on collar",
+        "immense desk"
+      ],
+      "roles": [
+        "lawyer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 29,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SID_WISE.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SID_WISE.mp3"
+    },
+    {
+      "identifier": "TAXI_DRIVER",
+      "name": "Taxi Driver",
+      "aliases": [
+        "red-faced blond driver",
+        "chauffeur"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "confused",
+        "casual"
+      ],
+      "visual_attributes": [
+        "red face",
+        "blond hair",
+        "grimy hands",
+        "chauffeur cap",
+        "jacket"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/TAXI_DRIVER.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/TAXI_DRIVER.mp3"
+    },
+    {
+      "identifier": "THE_YOUTH",
+      "name": "Wilmer",
+      "aliases": [
+        "The boy",
+        "Wilmer"
+      ],
+      "voice_attributes": [
+        "colorless",
+        "composed",
+        "cold",
+        "flat",
+        "menacing"
+      ],
+      "visual_attributes": [
+        "less than twenty",
+        "small regular features",
+        "fair skin",
+        "hazel eyes",
+        "long curling lashes",
+        "neat clothing"
+      ],
+      "roles": [
+        "gunman",
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/THE_YOUTH.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/THE_YOUTH.mp3"
+    },
+    {
+      "identifier": "RHEA_GUTMAN",
+      "name": "Rhea Gutman",
+      "aliases": [],
+      "voice_attributes": [
+        "thick",
+        "slurred",
+        "drugged",
+        "whimpering"
+      ],
+      "visual_attributes": [
+        "small fair-haired girl",
+        "shimmering yellow dressing-gown",
+        "white dim face",
+        "eyes hardened",
+        "slender throat"
+      ],
+      "roles": [
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 12,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/RHEA_GUTMAN.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/RHEA_GUTMAN.mp3"
+    },
+    {
+      "identifier": "MILES_ARCHER",
+      "name": "Miles Archer",
+      "aliases": [],
+      "voice_attributes": [
+        "heavy",
+        "coarse",
+        "jovial"
+      ],
+      "visual_attributes": [
+        "solidly built",
+        "red face",
+        "close-trimmed grey hair",
+        "brown suit"
+      ],
+      "roles": [
+        "partner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/MILES_ARCHER.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/MILES_ARCHER.mp3"
+    },
+    {
+      "identifier": "MR_FREED",
+      "name": "Mr. Freed",
+      "aliases": [
+        "Freed"
+      ],
+      "voice_attributes": [
+        "professional",
+        "sympathetic",
+        "discreet"
+      ],
+      "visual_attributes": [
+        "plump face",
+        "dark suit",
+        "slicked hair",
+        "professional demeanor",
+        "watchful eyes"
+      ],
+      "roles": [
+        "hotel manager"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/MR_FREED.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/MR_FREED.mp3"
+    },
+    {
+      "identifier": "PROPERTY_OWNER",
+      "name": "Property Owner",
+      "aliases": [
+        "Papa",
+        "The plump man"
+      ],
+      "voice_attributes": [
+        "eager",
+        "doubtful",
+        "mumbling"
+      ],
+      "visual_attributes": [
+        "plump red-faced man",
+        "bald head",
+        "heavy mustache",
+        "newsprint on hands"
+      ],
+      "roles": [
+        "resident"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/PROPERTY_OWNER.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/PROPERTY_OWNER.mp3"
+    },
+    {
+      "identifier": "UNIFORMED_POLICEMAN",
+      "name": "Policeman",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "suspicious"
+      ],
+      "visual_attributes": [
+        "police uniform",
+        "chewing gum",
+        "tall"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/UNIFORMED_POLICEMAN.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/UNIFORMED_POLICEMAN.mp3"
+    },
+    {
+      "identifier": "SWITCHBOARD_GIRL",
+      "name": "Receptionist",
+      "aliases": [],
+      "voice_attributes": [
+        "friendly",
+        "casual"
+      ],
+      "visual_attributes": [
+        "red hair",
+        "plump shoulder",
+        "switchboard headset",
+        "office blouse"
+      ],
+      "roles": [
+        "receptionist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SWITCHBOARD_GIRL.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SWITCHBOARD_GIRL.mp3"
+    },
+    {
+      "identifier": "HOTEL_CLERK",
+      "name": "Hotel Clerk",
+      "aliases": [],
+      "voice_attributes": [
+        "grave",
+        "professional",
+        "hesitant"
+      ],
+      "visual_attributes": [
+        "tall young man",
+        "dark grave face",
+        "hotel uniform"
+      ],
+      "roles": [
+        "clerk"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/HOTEL_CLERK.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/HOTEL_CLERK.mp3"
+    },
+    {
+      "identifier": "MR_THOMAS",
+      "name": "Mr. Thomas",
+      "aliases": [
+        "Thomas"
+      ],
+      "voice_attributes": [
+        "matter-of-fact",
+        "rough",
+        "direct"
+      ],
+      "visual_attributes": [
+        "sunburned face",
+        "stocky build",
+        "unruly hair",
+        "freckled hands",
+        "rough clothing"
+      ],
+      "roles": [
+        "assistant_da"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/MR_THOMAS.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/MR_THOMAS.mp3"
+    },
+    {
+      "identifier": "CAPTAIN_JACOBI",
+      "name": "Captain Jacobi",
+      "aliases": [
+        "The tall man",
+        "Jacobi"
+      ],
+      "voice_attributes": [
+        "harsh",
+        "rasping",
+        "bubbling",
+        "agonized"
+      ],
+      "visual_attributes": [
+        "nearly seven feet tall",
+        "gaunt face color of wet sand",
+        "dark bloodshot eyes",
+        "black sheath-like overcoat",
+        "thin angular shoulders",
+        "sweat-drenched face"
+      ],
+      "roles": [
+        "victim",
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/CAPTAIN_JACOBI.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/CAPTAIN_JACOBI.mp3"
+    },
+    {
+      "identifier": "TEENAGE_GIRL",
+      "name": "Teenage Girl",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "polite"
+      ],
+      "visual_attributes": [
+        "dark hair",
+        "fourteen or fifteen years old",
+        "night dress"
+      ],
+      "roles": [
+        "resident"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/TEENAGE_GIRL.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/TEENAGE_GIRL.mp3"
+    },
+    {
+      "identifier": "RED_HAIRED_CLERK",
+      "name": "Clerk",
+      "aliases": [
+        "Red-haired dandy"
+      ],
+      "voice_attributes": [
+        "polite",
+        "dismissive"
+      ],
+      "visual_attributes": [
+        "red hair",
+        "pale skin",
+        "hotel uniform",
+        "starched collar",
+        "grooming product in hair"
+      ],
+      "roles": [
+        "clerk"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/RED_HAIRED_CLERK.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/RED_HAIRED_CLERK.mp3"
+    },
+    {
+      "identifier": "HEALY",
+      "name": "Healy",
+      "aliases": [],
+      "voice_attributes": [
+        "quiet",
+        "professional",
+        "startled"
+      ],
+      "visual_attributes": [
+        "young face",
+        "colorless appearance",
+        "stenographer notebook",
+        "neat clothing"
+      ],
+      "roles": [
+        "stenographer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/HEALY.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/HEALY.mp3"
+    },
+    {
+      "identifier": "ELEVATOR_OPERATOR",
+      "name": "Elevator Operator",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "puzzled"
+      ],
+      "visual_attributes": [
+        "uniformed",
+        "cap",
+        "young"
+      ],
+      "roles": [
+        "service_worker"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/ELEVATOR_OPERATOR.png",
+      "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/ELEVATOR_OPERATOR.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SPADES_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+      "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_SPADES_APARTMENT.jpg"
+    },
+    {
+      "identifier": "INT_ALEXANDRIA_SUITE_12C",
+      "ordinal": 0,
+      "location_header": "INT. ALEXANDRIA HOTEL SUITE 12C - DAY",
+      "visual_description": "A lavish 1920s hotel suite sitting room. Heavy green plush armchairs sit on a matching green rug. A table in the foreground holds a whiskey siphon, crystal glasses, and a box of cigars. Two windows look out over the city street. The atmosphere is oppressive and opulent, with dark mahogany wood and velvet textures under electric light.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_ALEXANDRIA_SUITE_12C.jpg"
+    },
+    {
+      "identifier": "INT_STATES_HOF_BRAU",
+      "ordinal": 0,
+      "location_header": "INT. STATES HOF BRAU - DAY",
+      "visual_description": "A bustling 1920s German-style brasserie in San Francisco. Dark varnished wooden tables are crowded with heavy porcelain plates and steins. The atmosphere is warm and hazy with tobacco smoke and steam from the kitchen. Gas globes illuminate the pickled pigs' feet and cutlery. Earthy browns, brass, and cream tones.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_STATES_HOF_BRAU.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "INT_LAW_OFFICE",
+      "ordinal": 0,
+      "location_header": "INT. WISE MERICAN AND WISE - DAY",
+      "visual_description": "A cramped 1920s law office inner sanctum. An immense wooden desk, heaped high with bales of paper and files, dominates the foreground. A frosted glass door with reverse lettering stands in the background. The air is hazy with stale cigar smoke. Dull, functional lighting casts shadows over the tired, bureaucratic clutter. Muted browns and greys.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_LAW_OFFICE.jpg"
+    },
+    {
+      "identifier": "EXT_GEARY_THEATRE",
+      "ordinal": 1,
+      "location_header": "EXT. GEARY THEATRE - NIGHT",
+      "visual_description": "A bustling 1920s San Francisco street at night outside the Geary Theatre. A bright marquee illuminates the fog, advertising George Arliss in Shylock. Streetcar tracks glisten on the wet cobblestones. A mix of theatre-goers in evening wear and loiterers in caps populate the sidewalk. Shadows stretch long from gas streetlamps. Cold, misty atmosphere with electric yellow and deep blue tones.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_EXT_GEARY_THEATRE.jpg"
+    },
+    {
+      "identifier": "EXT_BURRITT_STREET_ALLEY",
+      "ordinal": 1,
+      "location_header": "EXT. BURRITT STREET ALLEY - NIGHT",
+      "visual_description": "A steep, fog-choked San Francisco street corner at night. A large billboard frames a gap between buildings leading to a dark, sloping alley. Wet pavement glistens under distant streetlamps. An 1920s ambulance is parked near the alley mouth. Flashlight beams cut through the thick mist, illuminating rough wooden fences and damp earth. A moody noir atmosphere with deep shadows, cold greys, and muted blues.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_EXT_BURRITT_STREET_ALLEY.jpg"
+    },
+    {
+      "identifier": "ST_MARKS_LOBBY",
+      "ordinal": 1,
+      "location_header": "INT. ST. MARK'S HOTEL LOBBY - DAY",
+      "visual_description": "The grand lobby of a 1920s San Francisco hotel. Tall purplish marble columns rise to a gilded ceiling, casting long shadows. In the foreground, a polished mahogany reception desk with brass fittings stands ready. To the side, a quiet alcove contains a flat-topped writing desk. The atmosphere is hushed and formal, lit by electric chandeliers that reflect off the marble floors. Cool tones of violet, mahogany, and brass.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_ST_MARKS_LOBBY.jpg"
+    },
+    {
+      "identifier": "HOTEL_BELVEDERE_LOBBY",
+      "ordinal": 1,
+      "location_header": "INT. HOTEL BELVEDERE LOBBY - DAY",
+      "visual_description": "A grand 1920s hotel lobby of imposing scale. Tall marble pillars rise to a high ceiling, dwarfing the plush circular divans scattered across the patterned floor. A cigar stand with polished wood and glass counters sits near the entrance. In the background, brass elevator doors gleam under electric chandeliers. The atmosphere is public yet secretive. Colors of cold marble white, deep crimson velvet, and polished brass.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_HOTEL_BELVEDERE_LOBBY.jpg"
+    },
+    {
+      "identifier": "INT_DA_OFFICE",
+      "ordinal": 1,
+      "location_header": "INT. DISTRICT ATTORNEY'S OFFICE - DAY",
+      "visual_description": "A severe 1920s District Attorney's office. A massive oak desk with a battery of pearl buttons dominates the room. Behind it, tall windows overlook the city. Leather chairs are arranged formally. The air is stiff with authority. Stacks of files and law books line the walls. Cold institutional lighting, polished wood, and sterile white papers.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_DA_OFFICE.jpg"
+    },
+    {
+      "identifier": "EXT_ANCHO_AVENUE",
+      "ordinal": 1,
+      "location_header": "EXT. ANCHO AVENUE - NIGHT",
+      "visual_description": "A dark residential street in Burlingame at night. A large, dark house looms behind a fence with a 'For Sale' sign catching the moonlight. Weeds and unkempt grass in the foreground. Cold, silvery moonlight and deep shadows.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_EXT_ANCHO_AVENUE.jpg"
+    },
+    {
+      "identifier": "SPADES_OFFICE",
+      "ordinal": 1,
+      "location_header": "INT. SPADE'S OFFICE - MORNING",
+      "visual_description": "A gritty 1920s private investigator's office in San Francisco. A yellow oak desk dominates the foreground, covered in a green blotter, scattered papers, and dusted with grey cigarette ash. Buff-colored curtains hang at a window revealing a building court. Bright morning light filters through smoke-hazed air. The room features a swivel chair and an oaken armchair. Palette of tobacco browns, dingy yellows, and dull greens.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_SPADES_OFFICE.jpg"
+    },
+    {
+      "identifier": "EXT_STREET_TAXI_STAND",
+      "ordinal": 2,
+      "location_header": "EXT. STREET - DAY",
+      "visual_description": "A bustling San Francisco street corner near a taxi stand. Two 1920s yellow taxicabs are parked at the curb in the foreground. The street is paved with cobblestones, and the facades of commercial buildings rise in the background. The light is the flat, shadowless grey of a foggy afternoon. Urban, gritty atmosphere with muted yellows and pavement greys.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_EXT_STREET_TAXI_STAND.jpg"
+    },
+    {
+      "identifier": "INT_ALEXANDRIA_LOBBY",
+      "ordinal": 2,
+      "location_header": "INT. ALEXANDRIA HOTEL LOBBY - NIGHT",
+      "visual_description": "The lobby of the Alexandria Hotel. Tall marble columns, electric chandeliers, a polished reception desk in the foreground. Shadows of the night shift. 1920s hotel grandeur, quiet and imposing. Cool marble and brass tones.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_ALEXANDRIA_LOBBY.jpg"
+    },
+    {
+      "identifier": "INT_CAIRO_HOTEL_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. CAIRO'S HOTEL ROOM - DAY",
+      "visual_description": "A tidy 1920s hotel bedroom with patterned wallpaper and dark mahogany furniture. A bed with a smooth coverlet stands against the wall. A dressing table in the foreground is crowded with an array of cosmetic bottles, jars, and creams. An open steamer trunk sits on the floral carpet. Morning light filters through lace curtains. Beige, cream, and mahogany tones.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_CAIRO_HOTEL_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_OFFICE_VESTIBULE",
+      "ordinal": 3,
+      "location_header": "INT. VESTIBULE - DAY",
+      "visual_description": "The vestibule of a San Francisco 1920s office building. Tiled floors reflect the daylight coming through glass doors. A marble wall stands in the background. It is a transitional space, sheltered from the wind but cold and impersonal. Natural light mixes with dim electric bulbs. Cool greys and whites.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_OFFICE_VESTIBULE.jpg"
+    },
+    {
+      "identifier": "INT_EFFIES_HOUSE",
+      "ordinal": 3,
+      "location_header": "INT. EFFIE'S HOUSE - NIGHT",
+      "visual_description": "A warm, modest 1920s living room. A Chesterfield sofa dominates the foreground. Soft electric light from floor lamps. Personal touches, framed photos, a contrast to the cold hotel rooms. Cozy, safe atmosphere with warm browns and creams.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_EFFIES_HOUSE.jpg"
+    },
+    {
+      "identifier": "EXT_SPADES_BUILDING",
+      "ordinal": 3,
+      "location_header": "EXT. SPADE'S APARTMENT BUILDING - NIGHT",
+      "visual_description": "The exterior of a tall brownstone apartment building in San Francisco at night. Fog swirls around the street entrance, lit by a single buzzing vestibule light. A dark 1920s sedan is parked at the curb, its engine idling. The street is damp and empty, save for the shadows of a garage on the corner. Noir atmosphere with deep blacks, greys, and pale yellow light.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_EXT_SPADES_BUILDING.jpg"
+    },
+    {
+      "identifier": "INT_SPADES_APARTMENT",
+      "ordinal": 4,
+      "location_header": "INT. SPADE'S APARTMENT - NIGHT",
+      "visual_description": "A 1920s San Francisco apartment living room and kitchenette at night. A worn sofa and armchair sit in the main area, with a breakfast nook visible in the background. Tobacco smoke hangs in the air. Harsh electric light contrasts with deep shadows. Colors are tobacco brown, dingy yellow, and faded red.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_SPADES_APARTMENT.jpg"
+    },
+    {
+      "identifier": "INT_CORONET_APARTMENT",
+      "ordinal": 4,
+      "location_header": "INT. CORONET APARTMENTS - DAY",
+      "visual_description": "A chaotic 1920s hotel apartment living room in cream and red tones. A walnut settee and a brocaded oval-backed chair sit facing each other in the foreground. Open trunks and scattered clothing suggest a hasty, unfinished arrival. Soft afternoon light filters through the windows, illuminating the disarray. The atmosphere is intimate but unsettled.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_CORONET_APARTMENT.jpg"
+    },
+    {
+      "identifier": "EXT_SUTTER_STREET",
+      "ordinal": 5,
+      "location_header": "EXT. SUTTER STREET - AFTERNOON",
+      "visual_description": "A 1920s San Francisco city street in the late afternoon. The sidewalk is grey concrete, flanked by the stone facade of an office building. In the distance, the street slopes away with traffic and pedestrians. The light is soft and yellowing, signaling approaching evening. Urban textures of stone, glass, and iron.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_EXT_SUTTER_STREET.jpg"
+    },
+    {
+      "identifier": "INT_ALEXANDRIA_CORRIDOR",
+      "ordinal": 6,
+      "location_header": "INT. ALEXANDRIA HOTEL CORRIDOR - EVENING",
+      "visual_description": "A quiet hotel corridor lined with numbered doors. Thick patterned carpet runs the length of the hall. Electric sconces on the walls provide warm, artificial light. The atmosphere is hushed and private. 1920s hotel decor with wallpaper and dark wood trim.",
+      "metadata": {},
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/scenes/scene_INT_ALEXANDRIA_CORRIDOR.jpg"
+    }
+  ],
+  "subjects": [
+    "Detective and mystery stories",
+    "San Francisco (Calif.) -- Fiction",
+    "Spade, Sam (Fictitious character) -- Fiction",
+    "Private investigators -- California -- San Francisco -- Fiction"
+  ]
+}

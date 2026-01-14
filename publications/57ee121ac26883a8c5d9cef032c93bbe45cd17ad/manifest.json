@@ -7,7 +7,7 @@
   "identifier": "57ee121ac26883a8c5d9cef032c93bbe45cd17ad",
   "publication_type": "short_stories",
   "cover_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/cover.png",
-  "total_duration_s": 8425.650136,
+  "total_duration_s": 8419.450589,
   "genre_tags": [
     "Classics",
     "Gothic Horror",
@@ -20,13 +20,13 @@
       "ordinal": 0,
       "audio_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3148.903401
+      "end_s": 3141.800544
     },
     {
       "ordinal": 1,
       "audio_key": "publications/57ee121ac26883a8c5d9cef032c93bbe45cd17ad/audio_part_1.mp3",
-      "start_s": 3148.903401,
-      "end_s": 8425.650136
+      "start_s": 3141.800544,
+      "end_s": 8419.450589
     }
   ],
   "segments": [
@@ -43,7 +43,7 @@
       "ordinal": 1,
       "title": "STORY OF THE DOOR",
       "start_s": 8.952,
-      "end_s": 771.454,
+      "end_s": 771.452,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -59,8 +59,8 @@
     {
       "ordinal": 2,
       "title": "SEARCH FOR MR. HYDE",
-      "start_s": 771.454,
-      "end_s": 1761.197,
+      "start_s": 771.452,
+      "end_s": 1758.534,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -91,8 +91,8 @@
     {
       "ordinal": 3,
       "title": "DR. JEKYLL WAS QUITE AT EASE",
-      "start_s": 1761.197,
-      "end_s": 2006.589,
+      "start_s": 1758.534,
+      "end_s": 2003.9,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -108,8 +108,8 @@
     {
       "ordinal": 4,
       "title": "THE CAREW MURDER CASE",
-      "start_s": 2006.589,
-      "end_s": 2603.142,
+      "start_s": 2003.9,
+      "end_s": 2596.04,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -140,8 +140,8 @@
     {
       "ordinal": 5,
       "title": "INCIDENT OF THE LETTER",
-      "start_s": 2603.142,
-      "end_s": 3148.903,
+      "start_s": 2596.04,
+      "end_s": 3141.801,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -162,8 +162,8 @@
     {
       "ordinal": 6,
       "title": "INCIDENT OF DR. LANYON",
-      "start_s": 3148.903,
-      "end_s": 3667.193,
+      "start_s": 3141.801,
+      "end_s": 3657.768,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -184,8 +184,8 @@
     {
       "ordinal": 7,
       "title": "INCIDENT AT THE WINDOW",
-      "start_s": 3667.193,
-      "end_s": 3845.116,
+      "start_s": 3657.768,
+      "end_s": 3836.065,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -201,8 +201,8 @@
     {
       "ordinal": 8,
       "title": "THE LAST NIGHT",
-      "start_s": 3845.116,
-      "end_s": 5228.771,
+      "start_s": 3836.065,
+      "end_s": 5222.563,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -238,8 +238,8 @@
     {
       "ordinal": 9,
       "title": "DR. LANYON’S NARRATIVE",
-      "start_s": 5228.771,
-      "end_s": 6137.196,
+      "start_s": 5222.563,
+      "end_s": 6130.991,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -260,8 +260,8 @@
     {
       "ordinal": 10,
       "title": "HENRY JEKYLL’S FULL STATEMENT OF THE CASE",
-      "start_s": 6137.196,
-      "end_s": 8425.65,
+      "start_s": 6130.991,
+      "end_s": 8419.451,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
