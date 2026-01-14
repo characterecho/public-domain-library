@@ -1,0 +1,697 @@
+{
+  "manifest_version": 2,
+  "title": "Winnie-the-Pooh",
+  "author_names": "A. A. Milne",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/67098.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/67098.epub3.images",
+  "identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
+  "publication_type": "novel",
+  "cover_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/cover.png",
+  "total_duration_s": 6476.491315,
+  "genre_tags": [
+    "Classics",
+    "Children's Literature",
+    "Fantasy",
+    "Whimsical",
+    "Friendship"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3561.712902
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/audio_part_1.mp3",
+      "start_s": 3561.712902,
+      "end_s": 6476.491315
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.435,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I",
+      "start_s": 6.435,
+      "end_s": 628.859,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_STAIRCASE",
+            "location_header": "INT. STAIRCASE - EVENING",
+            "visual_description": "A warm, domestic Edwardian hallway and staircase. Polished oak banisters gleam under the soft glow of gas lamps. A plush carpet runner muffles footsteps. In the background, a heavy grandfather clock stands against cream-colored walls. Shadows are long and comforting."
+          },
+          {
+            "identifier": "SCENE_FOREST",
+            "location_header": "EXT. THE FOREST - DAY",
+            "visual_description": "A sun-drenched clearing in the Hundred Acre Wood. A massive, ancient oak tree dominates the center, its branches reaching high into a bright blue sky. Green grass is dotted with yellow gorse bushes. The atmosphere is idyllic and storybook-like, with dappled sunlight filtering through leaves."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II",
+      "start_s": 628.859,
+      "end_s": 1080.694,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_FOREST",
+            "location_header": "EXT. THE FOREST - DAY",
+            "visual_description": "A sun-drenched clearing in the Hundred Acre Wood. A massive, ancient oak tree dominates the center, its branches reaching high into a bright blue sky. Green grass is dotted with yellow gorse bushes. The atmosphere is idyllic and storybook-like, with dappled sunlight filtering through leaves."
+          },
+          {
+            "identifier": "SCENE_RABBITS_HOUSE",
+            "location_header": "INT. RABBIT'S HOUSE - DAY",
+            "visual_description": "A cozy, subterranean Edwardian pantry and parlour. Earthy walls are reinforced with polished tree roots. Wooden shelves are stocked with jars of honey and tins of condensed milk. A small round table sits centrally, set with blue willow china. Warm light glows from a brass lantern. Cluttered but homely."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III — IN WHICH POOH AND PIGLET GO HUNTING AND NEARLY CATCH A WOOZLE",
+      "start_s": 1080.694,
+      "end_s": 1472.097,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SNOWY_FOREST",
+            "location_header": "EXT. THE FOREST - DAY",
+            "visual_description": "A winter forest landscape blanketed in crisp white snow. In the foreground stands a large beech tree with a wooden door and a 'TRESPASSERS W' sign. Beyond, a spinney of larch trees loops through the drifts. Bright cold sunlight filters through bare branches against a pale blue sky."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV — IN WHICH EEYORE LOSES A TAIL AND POOH FINDS ONE",
+      "start_s": 1472.097,
+      "end_s": 1916.0,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_THISTLY_CORNER",
+            "location_header": "EXT. THISTLY CORNER - DAY",
+            "visual_description": "A gloomy, secluded corner of an English forest. Sandy earth is dotted with prickly purple thistles and clumps of coarse grass. Tall pine trees cast long, melancholy shadows, blocking most of the sunlight. Muted greys, dull greens, and sandy browns dominate the palette. A quiet, slightly desolate atmosphere."
+          },
+          {
+            "identifier": "SCENE_OWLS_HOUSE",
+            "location_header": "EXT. THE CHESTNUTS - DAY",
+            "visual_description": "The exterior of a grand, ancient chestnut tree in a sun-drenched forest clearing. A quaint wooden door is set directly into the gnarled tree trunk, featuring a brass knocker and a long bell-pull. Fresh spring green leaves create a canopy overhead, filtering bright sunlight. Whimsical, storybook Edwardian style."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V",
+      "start_s": 1916.0,
+      "end_s": 2725.09,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SIX_PINE_TREES",
+            "location_header": "EXT. SIX PINE TREES - DAY",
+            "visual_description": "A sun-drenched sandy slope in the Hundred Acre Wood featuring a cluster of six tall, reddish-barked pine trees. The ground is covered in heather and yellow gorse bushes. The atmosphere is bright, idyllic, and storybook-like with soft dappled sunlight and pale blue skies. Edwardian illustrative style."
+          },
+          {
+            "identifier": "SCENE_POOHS_HOUSE_INTERIOR",
+            "location_header": "INT. POOH'S HOUSE - DAY/NIGHT",
+            "visual_description": "A cozy, rustic interior inside a hollow walnut tree. Roughly hewn wooden shelves line the curved walls, stocked with ceramic pots and jars. A wooden chair and a small cupboard are visible. Warm, golden indoor lighting contrasts with the daylight outside. Homely, cluttered, and comfortable."
+          },
+          {
+            "identifier": "SCENE_SIX_PINE_TREES_DAWN",
+            "location_header": "EXT. SIX PINE TREES - DAWN",
+            "visual_description": "The six pine trees in the Hundred Acre Wood at early dawn. The light is cool, misty, and blue-grey, with long shadows stretching across the heather. A deep sandy pit is visible in the foreground. The atmosphere is mysterious, quiet, and slightly chilly before the sun fully rises."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI — IN WHICH EEYORE HAS A BIRTHDAY AND GETS TWO PRESENTS",
+      "start_s": 2725.09,
+      "end_s": 3561.713,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_STREAM_BANK",
+            "location_header": "EXT. STREAM BANK - DAY",
+            "visual_description": "Edwardian illustrative style. A damp, grassy bank beside a slow-moving stream in the Hundred Acre Wood. Grey willows trail into the water. Patches of thistles and bracken break up the green turf. Soft, diffused overcast lighting. Muted greens, greys, and pale blues."
+          },
+          {
+            "identifier": "SCENE_POOHS_HOUSE_INTERIOR",
+            "location_header": "INT. POOH'S HOUSE - DAY",
+            "visual_description": "A cozy, rustic interior inside a hollow walnut tree. Roughly hewn wooden shelves line the curved walls, stocked with ceramic pots and jars. A wooden chair and a small cupboard are visible. Warm, golden indoor lighting contrasts with the daylight outside. Homely, cluttered, and comfortable."
+          },
+          {
+            "identifier": "SCENE_FOREST",
+            "location_header": "EXT. THE FOREST - DAY",
+            "visual_description": "A sun-drenched clearing in the Hundred Acre Wood. A massive, ancient oak tree dominates the center, its branches reaching high into a bright blue sky. Green grass is dotted with yellow gorse bushes. The atmosphere is idyllic and storybook-like, with dappled sunlight filtering through leaves."
+          },
+          {
+            "identifier": "SCENE_OWLS_HOUSE",
+            "location_header": "EXT. THE CHESTNUTS - DAY",
+            "visual_description": "The exterior of a grand, ancient chestnut tree in a sun-drenched forest clearing. A quaint wooden door is set directly into the gnarled tree trunk, featuring a brass knocker and a long bell-pull. Fresh spring green leaves create a canopy overhead, filtering bright sunlight. Whimsical, storybook Edwardian style."
+          },
+          {
+            "identifier": "SCENE_STAIRCASE",
+            "location_header": "INT. STAIRCASE - EVENING",
+            "visual_description": "A warm, domestic Edwardian hallway and staircase. Polished oak banisters gleam under the soft glow of gas lamps. A plush carpet runner muffles footsteps. In the background, a heavy grandfather clock stands against cream-colored walls. Shadows are long and comforting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII — IN WHICH KANGA AND BABY ROO COME TO THE FOREST, AND PIGLET HAS A BATH",
+      "start_s": 3561.713,
+      "end_s": 4187.336,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PIGLETS_HOUSE",
+            "location_header": "INT. PIGLET'S HOUSE - DAY",
+            "visual_description": "A cozy, rustic interior carved inside a large beech tree. Low ceilings with exposed wood grain. A small scrubbed wooden table sits in the center surrounded by tiny chairs. Shelves are lined with small ceramic pots of haycorns. Warm afternoon light filters through a small round window. Edwardian illustrative style."
+          },
+          {
+            "identifier": "SCENE_SIX_PINE_TREES",
+            "location_header": "EXT. SIX PINE TREES - DAY",
+            "visual_description": "A sun-drenched sandy slope in the Hundred Acre Wood featuring a cluster of six tall, reddish-barked pine trees. The ground is covered in heather and yellow gorse bushes. A deep sandy pit disrupts the green turf in the foreground. The atmosphere is bright, idyllic, and storybook-like with soft dappled sunlight. Edwardian illustrative style."
+          },
+          {
+            "identifier": "SCENE_KANGAS_HOUSE",
+            "location_header": "INT. KANGA'S HOUSE - EVENING",
+            "visual_description": "A tidy, domestic interior with smooth wooden floorboards and cream walls. A large wooden cooper's bathtub sits in the center, steam rising from it, with towels and soap laid out nearby. Orderly shelves hold household items. Warm, clean, and homey atmosphere with soft gas lighting. Edwardian illustrative style."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII — IN WHICH CHRISTOPHER ROBIN LEADS AN EXPOTITION TO THE NORTH POLE",
+      "start_s": 4187.336,
+      "end_s": 5096.408,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_FOREST",
+            "location_header": "EXT. THE FOREST - DAY",
+            "visual_description": "A sun-drenched clearing in the Hundred Acre Wood. A massive, ancient oak tree dominates the center, its branches reaching high into a bright blue sky. Green grass is dotted with yellow gorse bushes. The atmosphere is idyllic and storybook-like, with dappled sunlight filtering through leaves."
+          },
+          {
+            "identifier": "SCENE_STREAM_BANK",
+            "location_header": "EXT. STREAM BANK - DAY",
+            "visual_description": "Edwardian illustrative style. A damp, grassy bank beside a slow-moving stream in the Hundred Acre Wood. Grey willows trail into the water. Patches of thistles and bracken break up the green turf. Soft, diffused overcast lighting. Muted greens, greys, and pale blues."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX — IN WHICH PIGLET IS ENTIRELY SURROUNDED BY WATER",
+      "start_s": 5096.408,
+      "end_s": 5926.367,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PIGLETS_HOUSE",
+            "location_header": "INT. PIGLET'S HOUSE - DAY",
+            "visual_description": "A cozy, rustic interior carved inside a large beech tree, now under siege by floodwaters. Low ceilings with exposed wood grain. A small scrubbed wooden table sits in the center. A small round window looks out onto relentless grey rain and rising water. The atmosphere is anxious and damp. Edwardian illustrative style with muted greens and greys."
+          },
+          {
+            "identifier": "SCENE_POOHS_HOUSE_INTERIOR",
+            "location_header": "INT. POOH'S HOUSE - DAY",
+            "visual_description": "A cozy, rustic interior inside a hollow walnut tree. Roughly hewn wooden shelves line the curved walls, stocked with ceramic pots. A wooden chair and a small cupboard are visible. Warm, golden indoor lighting contrasts with the daylight outside. Homely, cluttered, and comfortable."
+          },
+          {
+            "identifier": "SCENE_THE_FLOOD",
+            "location_header": "EXT. CHRISTOPHER ROBIN'S ISLAND - DAY",
+            "visual_description": "A vast expanse of floodwater covering the Hundred Acre Wood under a clearing grey sky. The tops of trees poke out like islands. In the foreground, a grassy knoll (Christopher Robin's house) stays dry above the water line. The atmosphere is adventurous but serene, with pale light reflecting off the water. Edwardian illustrative style."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X — IN WHICH CHRISTOPHER ROBIN GIVES POOH A PARTY, AND WE SAY GOOD-BYE",
+      "start_s": 5926.367,
+      "end_s": 6476.491,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_FOREST",
+            "location_header": "EXT. THE FOREST - DAY",
+            "visual_description": "A sun-drenched clearing in the Hundred Acre Wood. A massive, ancient oak tree dominates the center, its branches reaching high into a bright blue sky. Green grass is dotted with yellow gorse bushes. The atmosphere is idyllic and storybook-like, with dappled sunlight filtering through leaves."
+          },
+          {
+            "identifier": "SCENE_STAIRCASE",
+            "location_header": "INT. STAIRCASE - EVENING",
+            "visual_description": "A warm, domestic Edwardian hallway and staircase. Polished oak banisters gleam under the soft glow of gas lamps. A plush carpet runner muffles footsteps. In the background, a heavy grandfather clock stands against cream-colored walls. Shadows are long and comforting."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [
+        "Father",
+        "I"
+      ],
+      "voice_attributes": [
+        "warm",
+        "gentle",
+        "British",
+        "storyteller",
+        "storytelling",
+        "engaging"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "storyteller",
+        "father",
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 410,
+      "image_key": null,
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "WINNIE_THE_POOH",
+      "name": "Winnie-the-Pooh",
+      "aliases": [
+        "Pooh",
+        "Edward Bear",
+        "Sanders",
+        "Bear"
+      ],
+      "voice_attributes": [
+        "deep",
+        "slow",
+        "gruff",
+        "soft"
+      ],
+      "visual_attributes": [
+        "anthropomorphic teddy bear",
+        "golden fur",
+        "black button eyes",
+        "round belly",
+        "small ears"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 303,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/WINNIE_THE_POOH.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/WINNIE_THE_POOH.mp3"
+    },
+    {
+      "identifier": "CHRISTOPHER_ROBIN",
+      "name": "Christopher Robin",
+      "aliases": [
+        "Christopher"
+      ],
+      "voice_attributes": [
+        "young",
+        "bright",
+        "inquisitive",
+        "clear"
+      ],
+      "visual_attributes": [
+        "young boy",
+        "bobbed brown hair",
+        "blue smock",
+        "shorts",
+        "bright eyes"
+      ],
+      "roles": [
+        "protagonist",
+        "listener"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 130,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/CHRISTOPHER_ROBIN.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/CHRISTOPHER_ROBIN.mp3"
+    },
+    {
+      "identifier": "PIGLET",
+      "name": "Piglet",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "nervous",
+        "fast",
+        "timid"
+      ],
+      "visual_attributes": [
+        "anthropomorphic pig",
+        "very small stature",
+        "pink skin",
+        "green jumper",
+        "large pointed ears",
+        "anxious expression"
+      ],
+      "roles": [
+        "protagonist",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 117,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/PIGLET.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/PIGLET.mp3"
+    },
+    {
+      "identifier": "EEYORE",
+      "name": "Eeyore",
+      "aliases": [
+        "The Old Grey Donkey"
+      ],
+      "voice_attributes": [
+        "deep",
+        "melancholy",
+        "slow",
+        "resigned"
+      ],
+      "visual_attributes": [
+        "anthropomorphic donkey",
+        "grey fur",
+        "long sad face",
+        "drooping ears",
+        "stitched seams",
+        "pink bow on tail"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 95,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/EEYORE.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/EEYORE.mp3"
+    },
+    {
+      "identifier": "RABBIT",
+      "name": "Rabbit",
+      "aliases": [],
+      "voice_attributes": [
+        "fussy",
+        "pedantic",
+        "rapid",
+        "nasal"
+      ],
+      "visual_attributes": [
+        "anthropomorphic rabbit",
+        "light brown fur",
+        "tall ears",
+        "twitching nose",
+        "fastidious grooming"
+      ],
+      "roles": [
+        "neighbor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 73,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/RABBIT.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/RABBIT.mp3"
+    },
+    {
+      "identifier": "OWL",
+      "name": "Owl",
+      "aliases": [
+        "Wol"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "academic",
+        "wordy",
+        "haughty"
+      ],
+      "visual_attributes": [
+        "anthropomorphic owl",
+        "large round spectacles",
+        "brown plumage",
+        "wise expression",
+        "waistcoat"
+      ],
+      "roles": [
+        "advisor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 56,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/OWL.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/OWL.mp3"
+    },
+    {
+      "identifier": "KANGA",
+      "name": "Kanga",
+      "aliases": [],
+      "voice_attributes": [
+        "warm",
+        "maternal",
+        "firm",
+        "calm"
+      ],
+      "visual_attributes": [
+        "anthropomorphic kangaroo",
+        "tall stature",
+        "brown fur",
+        "kind eyes",
+        "gingham apron",
+        "pouch"
+      ],
+      "roles": [
+        "mother",
+        "newcomer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/KANGA.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/KANGA.mp3"
+    },
+    {
+      "identifier": "BABY_ROO",
+      "name": "Roo",
+      "aliases": [
+        "Baby Roo"
+      ],
+      "voice_attributes": [
+        "high-pitched",
+        "energetic",
+        "squeaky",
+        "cheerful"
+      ],
+      "visual_attributes": [
+        "anthropomorphic baby kangaroo",
+        "very small",
+        "large ears",
+        "bright black eyes",
+        "blue shirt"
+      ],
+      "roles": [
+        "child",
+        "newcomer"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 13,
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/BABY_ROO.png",
+      "voice_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/characters/BABY_ROO.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_SNOWY_FOREST",
+      "ordinal": 0,
+      "location_header": "EXT. THE FOREST - DAY",
+      "visual_description": "A winter forest landscape blanketed in crisp white snow. In the foreground stands a large beech tree with a wooden door and a 'TRESPASSERS W' sign. Beyond, a spinney of larch trees loops through the drifts. Bright cold sunlight filters through bare branches against a pale blue sky.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_SNOWY_FOREST.jpg"
+    },
+    {
+      "identifier": "SCENE_THISTLY_CORNER",
+      "ordinal": 0,
+      "location_header": "EXT. THISTLY CORNER - DAY",
+      "visual_description": "A gloomy, secluded corner of an English forest. Sandy earth is dotted with prickly purple thistles and clumps of coarse grass. Tall pine trees cast long, melancholy shadows, blocking most of the sunlight. Muted greys, dull greens, and sandy browns dominate the palette. A quiet, slightly desolate atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_THISTLY_CORNER.jpg"
+    },
+    {
+      "identifier": "SCENE_PIGLETS_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. PIGLET'S HOUSE - DAY",
+      "visual_description": "A cozy, rustic interior carved inside a large beech tree, now under siege by floodwaters. Low ceilings with exposed wood grain. A small scrubbed wooden table sits in the center. A small round window looks out onto relentless grey rain and rising water. The atmosphere is anxious and damp. Edwardian illustrative style with muted greens and greys.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_PIGLETS_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_FOREST",
+      "ordinal": 0,
+      "location_header": "EXT. THE FOREST - DAY",
+      "visual_description": "A sun-drenched clearing in the Hundred Acre Wood. A massive, ancient oak tree dominates the center, its branches reaching high into a bright blue sky. Green grass is dotted with yellow gorse bushes. The atmosphere is idyllic and storybook-like, with dappled sunlight filtering through leaves.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_FOREST.jpg"
+    },
+    {
+      "identifier": "SCENE_RABBITS_HOUSE",
+      "ordinal": 1,
+      "location_header": "INT. RABBIT'S HOUSE - DAY",
+      "visual_description": "A cozy, subterranean Edwardian pantry and parlour. Earthy walls are reinforced with polished tree roots. Wooden shelves are stocked with jars of honey and tins of condensed milk. A small round table sits centrally, set with blue willow china. Warm light glows from a brass lantern. Cluttered but homely.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_RABBITS_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_STAIRCASE",
+      "ordinal": 1,
+      "location_header": "INT. STAIRCASE - EVENING",
+      "visual_description": "A warm, domestic Edwardian hallway and staircase. Polished oak banisters gleam under the soft glow of gas lamps. A plush carpet runner muffles footsteps. In the background, a heavy grandfather clock stands against cream-colored walls. Shadows are long and comforting.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_STAIRCASE.jpg"
+    },
+    {
+      "identifier": "SCENE_SIX_PINE_TREES",
+      "ordinal": 1,
+      "location_header": "EXT. SIX PINE TREES - DAY",
+      "visual_description": "A sun-drenched sandy slope in the Hundred Acre Wood featuring a cluster of six tall, reddish-barked pine trees. The ground is covered in heather and yellow gorse bushes. A deep sandy pit disrupts the green turf in the foreground. The atmosphere is bright, idyllic, and storybook-like with soft dappled sunlight. Edwardian illustrative style.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_SIX_PINE_TREES.jpg"
+    },
+    {
+      "identifier": "SCENE_POOHS_HOUSE_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. POOH'S HOUSE - DAY",
+      "visual_description": "A cozy, rustic interior inside a hollow walnut tree. Roughly hewn wooden shelves line the curved walls, stocked with ceramic pots. A wooden chair and a small cupboard are visible. Warm, golden indoor lighting contrasts with the daylight outside. Homely, cluttered, and comfortable.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_POOHS_HOUSE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_STREAM_BANK",
+      "ordinal": 1,
+      "location_header": "EXT. STREAM BANK - DAY",
+      "visual_description": "Edwardian illustrative style. A damp, grassy bank beside a slow-moving stream in the Hundred Acre Wood. Grey willows trail into the water. Patches of thistles and bracken break up the green turf. Soft, diffused overcast lighting. Muted greens, greys, and pale blues.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_STREAM_BANK.jpg"
+    },
+    {
+      "identifier": "SCENE_THE_FLOOD",
+      "ordinal": 2,
+      "location_header": "EXT. CHRISTOPHER ROBIN'S ISLAND - DAY",
+      "visual_description": "A vast expanse of floodwater covering the Hundred Acre Wood under a clearing grey sky. The tops of trees poke out like islands. In the foreground, a grassy knoll (Christopher Robin's house) stays dry above the water line. The atmosphere is adventurous but serene, with pale light reflecting off the water. ",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_THE_FLOOD.jpg"
+    },
+    {
+      "identifier": "SCENE_SIX_PINE_TREES_DAWN",
+      "ordinal": 2,
+      "location_header": "EXT. SIX PINE TREES - DAWN",
+      "visual_description": "The six pine trees in the Hundred Acre Wood at early dawn. The light is cool, misty, and blue-grey, with long shadows stretching across the heather. A deep sandy pit is visible in the foreground. The atmosphere is mysterious, quiet, and slightly chilly before the sun fully rises.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_SIX_PINE_TREES_DAWN.jpg"
+    },
+    {
+      "identifier": "SCENE_KANGAS_HOUSE",
+      "ordinal": 2,
+      "location_header": "INT. KANGA'S HOUSE - EVENING",
+      "visual_description": "A tidy, domestic interior inside a tree trunk with smooth wooden floorboards. A large wooden cooper's bathtub sits in the center, steam rising from it, with towels and soap laid out nearby. Orderly shelves hold household items. Warm, clean, and homey atmosphere with soft candle lighting.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_KANGAS_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_OWLS_HOUSE",
+      "ordinal": 3,
+      "location_header": "EXT. THE CHESTNUTS - DAY",
+      "visual_description": "The exterior of a grand, ancient chestnut tree in a sun-drenched forest clearing. A quaint wooden door is set directly into the gnarled tree trunk, featuring a brass knocker and a long bell-pull. Fresh spring green leaves create a canopy overhead, filtering bright sunlight. Whimsical, storybook Edwardian style.",
+      "metadata": {},
+      "image_key": "publications/f337cc27d6b2f4676afc7673980770204b06575b/scenes/scene_SCENE_OWLS_HOUSE.jpg"
+    }
+  ],
+  "subjects": [
+    "Animals -- Juvenile fiction",
+    "Toys -- Juvenile fiction",
+    "Teddy bears -- Juvenile fiction",
+    "Winnie-the-Pooh (Fictitious character) -- Juvenile fiction",
+    "Piglet (Fictitious character) -- Juvenile fiction",
+    "Eeyore (Fictitious character) -- Juvenile fiction",
+    "Christopher Robin (Fictitious character) -- Juvenile fiction"
+  ]
+}

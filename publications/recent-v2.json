@@ -1,0 +1,219 @@
+{
+  "version": 2,
+  "generated_at": "2026-01-14T00:04:44Z",
+  "genre_vocabulary_version": 1768326996,
+  "publications": [
+    {
+      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
+      "title": "Winnie-the-Pooh",
+      "author_names": "A. A. Milne",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "childrens",
+        "fantasy"
+      ],
+      "catalog_added_at": "2026-01-11T17:22:25Z",
+      "updated_at": "2026-01-14T00:04:44Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "cbdc187e66b19fa5991b50ef281a80de9ba88edb2f1381c26924d5e9406cabac",
+      "file_size": 237517517
+    },
+    {
+      "publication_identifier": "fe35f25052ba485d12cbfd0cecf4ec9dde4abb11",
+      "title": "The Hidden Staircase",
+      "author_names": "Carolyn Keene",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Mystery & Thriller",
+        "Detective",
+        "Young Adult",
+        "Suspense",
+        "Crime"
+      ],
+      "updated_at": "2026-01-13T12:33:40Z",
+      "data_checksum": "5db6a8bd6144878a1c798401e64e90da3b3d6d89e22666042ddffd8183c85030",
+      "file_size": 462653131
+    },
+    {
+      "publication_identifier": "57ee121ac26883a8c5d9cef032c93bbe45cd17ad",
+      "title": "The Strange Case of Dr. Jekyll and Mr. Hyde",
+      "author_names": "Robert Louis Stevenson",
+      "publication_type": "short_stories",
+      "genre_tags": [
+        "Classics",
+        "Gothic Horror",
+        "Victorian Mystery",
+        "Psychological",
+        "Urban Crime"
+      ],
+      "updated_at": "2026-01-13T03:06:13Z",
+      "data_checksum": "45a7a8d36d1dad33c33c7bd57d183936eab3a3c88c3f008b2485cd5f282e6f88",
+      "file_size": 267432136
+    },
+    {
+      "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+      "title": "A Midsummer Night's Dream",
+      "author_names": "William Shakespeare",
+      "publication_type": "play",
+      "genre_tags": [
+        "Classics",
+        "Play",
+        "Comedy",
+        "Romance",
+        "Mythology"
+      ],
+      "updated_at": "2026-01-11T23:28:29Z",
+      "data_checksum": "db69e277aaebdf3657c8f058e1df7fc0f4327f1226b97e3f731a9e1ea9d8b0a2",
+      "file_size": 160318539
+    },
+    {
+      "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
+      "title": "The Wind in the Willows",
+      "author_names": "Kenneth Grahame",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Classics",
+        "Children's Literature",
+        "Anthropomorphic Animals",
+        "Pastoral",
+        "Friendship"
+      ],
+      "updated_at": "2026-01-11T23:26:46Z",
+      "data_checksum": "48598738cb4a01e757a57e8f95f6087b56122cdc3411aeeb7028c2b0a756c03e",
+      "file_size": 646332330
+    },
+    {
+      "publication_identifier": "94dfbfc7251cff708b574587eb3fb514191ea486",
+      "title": "The Velveteen Rabbit",
+      "author_names": "Margery Williams Bianco",
+      "publication_type": "short_stories",
+      "genre_tags": [
+        "Classics",
+        "Children's Literature",
+        "Fantasy",
+        "Fable",
+        "Toys"
+      ],
+      "updated_at": "2026-01-11T23:23:19Z",
+      "data_checksum": "5636231e569a43f2a552f35431a7b1ecb7541b300fc719c788f548bb2cd669e3",
+      "file_size": 79429285
+    },
+    {
+      "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+      "title": "Daisy Miller: A Study",
+      "author_names": "Henry James",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Classics",
+        "Realism",
+        "Social Manners",
+        "19th Century",
+        "Psychological Fiction"
+      ],
+      "updated_at": "2026-01-11T23:22:58Z",
+      "data_checksum": "501a1b5abeca1776597ac8af7aef8398f0872a3f449f2df2ce9d94a24e23b58c",
+      "file_size": 223254493
+    },
+    {
+      "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
+      "title": "Heart of Darkness",
+      "author_names": "Joseph Conrad",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Classics",
+        "Literary Fiction",
+        "Colonialism",
+        "Psychological",
+        "Nautical"
+      ],
+      "updated_at": "2026-01-11T23:21:11Z",
+      "data_checksum": "4f09de907076567ac48b4326d7a59148185a81d220aee6ced11abbb03fbc76ea",
+      "file_size": 345897500
+    },
+    {
+      "publication_identifier": "7cd75577989bf5307d9f006ec173292125f33fd1",
+      "title": "Alice's Adventures in Wonderland",
+      "author_names": "Lewis Carroll",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Fantasy",
+        "Surrealism",
+        "Portal Fantasy",
+        "Children's Literature",
+        "Classic Literature"
+      ],
+      "updated_at": "2026-01-11T23:18:50Z",
+      "data_checksum": "b676811f039c3f4344ea95d32a7e76999ac4a33a136fef5f20d9d74d3819bf3f",
+      "file_size": 260179239
+    },
+    {
+      "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+      "title": "The Canterville Ghost",
+      "author_names": "Oscar Wilde",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Classics",
+        "Satire",
+        "Ghost Story",
+        "Gothic Parody",
+        "Supernatural"
+      ],
+      "updated_at": "2026-01-11T23:16:35Z",
+      "data_checksum": "f4afe8d153de8d4718bb3ab8db755c7a17ff02564c1e9308d78c03eaff8e9b33",
+      "file_size": 154725059
+    },
+    {
+      "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
+      "title": "Romeo and Juliet",
+      "author_names": "William Shakespeare",
+      "publication_type": "play",
+      "genre_tags": [
+        "Classics",
+        "Tragedy",
+        "Romance",
+        "Play",
+        "Shakespearean"
+      ],
+      "updated_at": "2026-01-11T23:15:50Z",
+      "data_checksum": "338b6cf02f02f8cdfc70c3007cc7a805eea26378898d13de17ee61c8dfb60eba",
+      "file_size": 416099740
+    },
+    {
+      "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+      "title": "The Call of Cthulhu",
+      "author_names": "H. P. Lovecraft",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Horror",
+        "Cosmic Horror",
+        "Classics",
+        "Weird Fiction",
+        "Mystery"
+      ],
+      "updated_at": "2026-01-11T23:13:12Z",
+      "data_checksum": "88ec1368d391b99be7eb9d23811e717f83d1bc64e530672403a539b5bba9ae56",
+      "file_size": 86723575
+    },
+    {
+      "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+      "title": "A Christmas Carol",
+      "author_names": "Charles Dickens",
+      "publication_type": "novel",
+      "genre_tags": [
+        "Classics",
+        "Gothic",
+        "Victorian",
+        "Christmas",
+        "Supernatural"
+      ],
+      "updated_at": "2026-01-11T23:12:29Z",
+      "data_checksum": "0eefb67ac1cd589dfcfc0ebca1c7afc4fcda8a78d022b148f94862260a8dd1ce",
+      "file_size": 220908623
+    }
+  ]
+}

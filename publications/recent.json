@@ -1,5 +1,25 @@
 [
   {
+    "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
+    "title": "Winnie-the-Pooh",
+    "author_names": "A. A. Milne",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "childrens",
+      "fantasy"
+    ],
+    "catalog_added_at": "2026-01-11T17:22:25Z",
+    "updated_at": "2026-01-14T00:04:44Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "cbdc187e66b19fa5991b50ef281a80de9ba88edb2f1381c26924d5e9406cabac",
+    "file_size": 237517517
+  },
+  {
     "publication_identifier": "fe35f25052ba485d12cbfd0cecf4ec9dde4abb11",
     "title": "The Hidden Staircase",
     "author_names": "Carolyn Keene",
