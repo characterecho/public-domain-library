@@ -1,8 +1,58 @@
 {
   "version": 2,
-  "generated_at": "2026-01-15T21:53:19Z",
+  "generated_at": "2026-01-15T22:08:44Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
+      "title": "The Maltese Falcon",
+      "author_names": "Dashiell Hammett",
+      "publication_type": "short_stories",
+      "genre_tags": [
+        "mystery"
+      ],
+      "catalog_added_at": "2026-01-14T23:54:57Z",
+      "updated_at": "2026-01-15T22:08:43Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "f1ffbe533855473397995d1357289cc2a195a9d3ece62d13f116defd3561ef6d",
+      "file_size": 522963218,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ]
+    },
+    {
+      "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
+      "title": "The Canterville Ghost",
+      "author_names": "Oscar Wilde",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "satire"
+      ],
+      "catalog_added_at": "2026-01-11T23:16:35Z",
+      "updated_at": "2026-01-15T22:04:41Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "c6c1120f6ce9483a6e8c2143955d86eab1228b1bd420e5e9847ae350dd631542",
+      "file_size": 154855404,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ]
+    },
     {
       "publication_identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
       "title": "Heart of Darkness",
@@ -58,29 +108,6 @@
         "AU",
         "NZ",
         "IE"
-      ]
-    },
-    {
-      "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
-      "title": "The Maltese Falcon",
-      "author_names": "Dashiell Hammett",
-      "publication_type": "short_stories",
-      "genre_tags": [
-        "mystery"
-      ],
-      "catalog_added_at": "2026-01-14T23:54:57Z",
-      "updated_at": "2026-01-15T03:02:21Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "8592cefa53a5be184f6a8f0891d3a2c0199f79fbd25cd2534c0ecb28ed93543c",
-      "file_size": 521689414,
-      "available_regions": [
-        "US",
-        "CA",
-        "NZ"
       ]
     },
     {
@@ -185,33 +212,6 @@
       "cover_url": null,
       "data_checksum": "0d5b51b8a0383d9a2f7dfb7ff9ac015603303b4080a3117491958f56cce7a7c6",
       "file_size": 260179233,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ]
-    },
-    {
-      "publication_identifier": "c83960b8fc4df8d871352b2a0a657a1b95fb656a",
-      "title": "The Canterville Ghost",
-      "author_names": "Oscar Wilde",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "satire"
-      ],
-      "catalog_added_at": "2026-01-11T23:16:35Z",
-      "updated_at": "2026-01-15T02:49:20Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "9fe107e463caaf40c286d0b624a193bc9c8408e8be92101c590afaf98ec1d918",
-      "file_size": 154725052,
       "available_regions": [
         "US",
         "CA",
