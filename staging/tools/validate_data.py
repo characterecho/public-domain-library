@@ -27,6 +27,9 @@ def is_recent(path):
     # handle both ./publications/recent.json and publications/recent.json
     return os.path.normpath(path).endswith(os.path.join('publications', 'recent.json'))
 
+def is_recent_v2(path):
+    return os.path.normpath(path).endswith(os.path.join('publications', 'recent-v2.json'))
+
 def get_identifier_from(obj):
     # accept multiple possible identifier keys
     for k in ("identifier", "id", "publication_identifier"):
@@ -106,6 +109,24 @@ for root, dirs, files in os.walk(".", topdown=True):
                     if get_author_from(item) is None:
                         errors.append(f"❌ {path}[{i}]: missing author field (author_names/author)")
 
+        # recent-v2.json validation (object with publications array)
+        elif is_recent_v2(path):
+            if not isinstance(data, dict):
+                errors.append(f"❌ {path}: expected object with publications list")
+            else:
+                publications = data.get("publications")
+                if not isinstance(publications, list):
+                    errors.append(f"❌ {path}: expected 'publications' to be an array")
+                else:
+                    for i, item in enumerate(publications):
+                        if not isinstance(item, dict):
+                            errors.append(f"❌ {path}[publications][{i}]: entry not an object")
+                            continue
+                        if get_identifier_from(item) is None:
+                            errors.append(f"❌ {path}[publications][{i}]: missing publication identifier (publication_identifier/identifier/id)")
+                        if get_author_from(item) is None:
+                            errors.append(f"❌ {path}[publications][{i}]: missing author field (author_names/author)")
+
         # generic publication top-level JSON in publications/<id>/*.json (if any)
         elif os.path.sep + "publications" + os.path.sep in path:
             # If there are JSON files directly inside a per-publication dir besides manifest/segments,
@@ -124,4 +145,3 @@ if errors:
 else:
     print("✅ All validations passed.")
     sys.exit(0)
-
