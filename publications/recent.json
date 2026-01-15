@@ -7,16 +7,17 @@
     "genre_tags": [
       "mystery"
     ],
-    "catalog_added_at": "2026-01-11T19:51:42Z",
-    "updated_at": "2026-01-14T23:54:57Z",
+    "catalog_added_at": "2026-01-14T23:54:57Z",
+    "updated_at": "2026-01-15T03:02:21Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "a5daf6c64d1b379e4820a1f1c4aa2acf539385ae16b49b6bba15511e69663fd0",
-    "file_size": 521689412,
+    "data_checksum": "8592cefa53a5be184f6a8f0891d3a2c0199f79fbd25cd2534c0ecb28ed93543c",
+    "file_size": 521689414,
     "available_regions": [
+      "US",
       "CA",
       "NZ"
     ]
@@ -32,15 +33,16 @@
       "romance"
     ],
     "catalog_added_at": "2026-01-11T23:28:29Z",
-    "updated_at": "2026-01-14T23:49:49Z",
+    "updated_at": "2026-01-15T02:56:53Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "a90644a3b3829e433b1ca590a96ae7f5a79f1d5697fae7d63a3d699db6709660",
-    "file_size": 160318538,
+    "data_checksum": "3552c3628c14eb5cf16bb2b02b0d57e82ae2bd1251a637e0796d97e5575a8ec4",
+    "file_size": 160318539,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -59,15 +61,16 @@
       "fantasy"
     ],
     "catalog_added_at": "2026-01-11T23:23:19Z",
-    "updated_at": "2026-01-14T23:23:01Z",
+    "updated_at": "2026-01-15T02:55:22Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "296150bc2117a5376e69d7cbf813ae8973dfc1939b96f5e6c03f6ec9d8633dfa",
-    "file_size": 79429286,
+    "data_checksum": "dc17094a91f15340f4cd0767145b6cde59a8209b3efd03cc1eac4ab54867c111",
+    "file_size": 79429284,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -85,15 +88,16 @@
       "psychological"
     ],
     "catalog_added_at": "2026-01-11T23:22:58Z",
-    "updated_at": "2026-01-14T23:22:45Z",
+    "updated_at": "2026-01-15T02:55:04Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "0a5300804ec8abaf1167024040b907537b48413df9138d066ba89deb0c241683",
+    "data_checksum": "859768b8ed82ac5a266569c929aadffdf6a981211da86224b0531be41c3692b2",
     "file_size": 223254493,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -112,15 +116,16 @@
       "nautical"
     ],
     "catalog_added_at": "2026-01-11T23:21:11Z",
-    "updated_at": "2026-01-14T22:48:30Z",
+    "updated_at": "2026-01-15T02:53:25Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "68688aecbefd509b30ee17fd13e572b844707130ca661a67e9fddd792c2b2cb9",
+    "data_checksum": "735de327a651682f87f8814c90f27a75454a36086eae6d98b70cc0d5fe87dcd5",
     "file_size": 345897500,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -139,15 +144,16 @@
       "classics"
     ],
     "catalog_added_at": "2026-01-11T23:18:50Z",
-    "updated_at": "2026-01-14T22:25:57Z",
+    "updated_at": "2026-01-15T02:51:22Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "1ea03dfce11c47190d4117d43e2d963e3f8b07331f198c06678031ed5f894f9b",
+    "data_checksum": "0d5b51b8a0383d9a2f7dfb7ff9ac015603303b4080a3117491958f56cce7a7c6",
     "file_size": 260179233,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -165,15 +171,16 @@
       "satire"
     ],
     "catalog_added_at": "2026-01-11T23:16:35Z",
-    "updated_at": "2026-01-14T21:53:19Z",
+    "updated_at": "2026-01-15T02:49:20Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "44d172890f151c827c0d897728d602d2afb1aab06300957d6c85d234b7102709",
-    "file_size": 154725053,
+    "data_checksum": "9fe107e463caaf40c286d0b624a193bc9c8408e8be92101c590afaf98ec1d918",
+    "file_size": 154725052,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -192,15 +199,17 @@
       "fantasy"
     ],
     "catalog_added_at": "2026-01-14T20:32:36Z",
-    "updated_at": "2026-01-14T21:35:29Z",
+    "updated_at": "2026-01-15T02:48:37Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "7df2ea6b00d9bd47da5dea0f0f1e5a189fd445eab0688c9bbbdfeb551f3f66c3",
-    "file_size": 237540998,
-    "available_regions": []
+    "data_checksum": "d7f37decbd35afebc20be22399db310a7a1dad0bbae41aaa7dfc28859ad1e14b",
+    "file_size": 237541000,
+    "available_regions": [
+      "US"
+    ]
   },
   {
     "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
@@ -212,15 +221,16 @@
       "childrens"
     ],
     "catalog_added_at": "2026-01-11T23:26:46Z",
-    "updated_at": "2026-01-14T21:33:33Z",
+    "updated_at": "2026-01-15T02:46:41Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "38770e6b7eedb7020830d0cc3bcd8785413a4b11a12ad34581c80f4d8ffc5583",
-    "file_size": 646369868,
+    "data_checksum": "6bff99104492cf6d3c08fa97d5ef87221ae478f01d5de524b82c8361b206ec96",
+    "file_size": 646369867,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -239,15 +249,16 @@
       "romance"
     ],
     "catalog_added_at": "2026-01-11T23:15:50Z",
-    "updated_at": "2026-01-14T21:30:35Z",
+    "updated_at": "2026-01-15T02:43:34Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "e59670e01f3f45f412f84b4a071dc3f75ffef988deed79f754d3257b41b75cfd",
-    "file_size": 416099739,
+    "data_checksum": "87ade07d2d5fc299611450efb7fbf8a2d65a1abedbbd7bcf117f14b7283dbb79",
+    "file_size": 416099741,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -266,15 +277,16 @@
       "mystery"
     ],
     "catalog_added_at": "2026-01-11T23:13:12Z",
-    "updated_at": "2026-01-14T21:28:18Z",
+    "updated_at": "2026-01-15T02:41:17Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "f0c4388028fe1f668066711909767ef057cea3d6bc0d84040bd7483c1fd804dd",
+    "data_checksum": "9de5b81bf7624baf43ccfbedaa963f6078938f6ee4b74262d4f410c925ff931e",
     "file_size": 86723574,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -293,15 +305,16 @@
       "psychological"
     ],
     "catalog_added_at": "2026-01-14T20:24:41Z",
-    "updated_at": "2026-01-14T21:27:41Z",
+    "updated_at": "2026-01-15T02:40:39Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "65cd8fc054d0151cd5931a325f1cb1f103fc413bf555d8c980448debd73b86a3",
+    "data_checksum": "d763d84609d1232de599ac37b332d0e775020bed83e74192efd661a9b6cc1f7d",
     "file_size": 267327806,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
@@ -319,15 +332,16 @@
       "horror"
     ],
     "catalog_added_at": "2026-01-11T23:12:29Z",
-    "updated_at": "2026-01-14T21:26:14Z",
+    "updated_at": "2026-01-15T02:39:11Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "86241ee7e90c2f5deefe31534b3f9363127b4385004c8ece541768d22b327815",
+    "data_checksum": "d86fc65294f3ce350ebb9e311c2260a645eaf26702460259c3d8cae61f81451d",
     "file_size": 220908623,
     "available_regions": [
+      "US",
       "CA",
       "GB",
       "AU",
