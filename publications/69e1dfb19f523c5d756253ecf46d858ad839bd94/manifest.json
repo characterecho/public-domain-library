@@ -1,0 +1,1874 @@
+{
+  "manifest_version": 2,
+  "title": "The Wonderful Wizard of Oz",
+  "author_names": "L. Frank Baum",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/55.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/55.epub3.images",
+  "identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+  "publication_type": "novel",
+  "cover_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.png",
+  "total_duration_s": 11657.362269,
+  "genre_tags": [
+    "Fantasy",
+    "Children's Literature",
+    "Adventure",
+    "Classic",
+    "Portal Fantasy"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3576.836327
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_1.mp3",
+      "start_s": 3576.836327,
+      "end_s": 6189.854264
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_2.mp3",
+      "start_s": 6189.854264,
+      "end_s": 11657.362269
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 9.169,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Chapter I The Cyclone",
+      "start_s": 9.169,
+      "end_s": 385.363,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "KANSAS_FARMHOUSE",
+            "location_header": "INT. FARMHOUSE - DAY",
+            "visual_description": "A humble one-room farmhouse interior on the Kansas prairie. Unpainted wooden walls and floorboards. A rusty cookstove stands near a cupboard of dishes. A trap door is visible in the floor. Harsh, flat light enters through the open doorway, revealing a gray landscape beyond. Rustic, weathered atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter II The Council with the Munchkins",
+      "start_s": 385.363,
+      "end_s": 995.461,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MUNCHKIN_COUNTRY",
+            "location_header": "EXT. MUNCHKIN COUNTRY - DAY",
+            "visual_description": "A vibrant, fantastical countryside bathed in bright sunshine. Lush green meadows stretch toward the horizon, dotted with stately trees bearing unfamiliar, luscious fruits. In the foreground, banks of brilliant flowers line a sparkling, rushing brook. A road paved with yellow bricks cuts through the landscape. The colors are rich and saturated—deep blues, emerald greens, and sunny yellows. An atmosphere of magical wonder."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter III How Dorothy Saved the Scarecrow",
+      "start_s": 995.461,
+      "end_s": 1585.489,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "KANSAS_FARMHOUSE",
+            "location_header": "INT. FARMHOUSE - DAY",
+            "visual_description": "A humble one-room farmhouse interior on the Kansas prairie. Unpainted wooden walls and floorboards. A rusty cookstove stands near a cupboard of dishes. A trap door is visible in the floor. Harsh, flat light enters through the open doorway, revealing a gray landscape beyond. Rustic, weathered atmosphere."
+          },
+          {
+            "identifier": "MUNCHKIN_COUNTRY",
+            "location_header": "EXT. MUNCHKIN COUNTRY - DAY",
+            "visual_description": "A vibrant, fantastical countryside bathed in bright sunshine. Lush green meadows stretch toward the horizon, dotted with stately trees bearing unfamiliar, luscious fruits. In the foreground, banks of brilliant flowers line a sparkling, rushing brook. A road paved with yellow bricks cuts through the landscape. The colors are rich and saturated—deep blues, emerald greens, and sunny yellows. An atmosphere of magical wonder."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter IV The Road Through the Forest",
+      "start_s": 1585.489,
+      "end_s": 2023.184,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_YELLOW_BRICK_ROAD_ROUGH",
+            "location_header": "EXT. YELLOW BRICK ROAD - LATE AFTERNOON",
+            "visual_description": "A lonely, neglected stretch of the Yellow Brick Road in the late afternoon. The golden bricks are uneven and broken. To one side, untended fields with gray soil and dried grass stretch to the horizon. To the other, a small brook flows past a grassy bank. In the far distance, a dark, dense forest line looms against the sky. The atmosphere is quiet and slightly melancholic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "Chapter V The Rescue of the Tin Woodman",
+      "start_s": 2023.184,
+      "end_s": 2614.246,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ANCIENT_FOREST",
+            "location_header": "EXT. ANCIENT FOREST - DAY",
+            "visual_description": "A dense, sun-dappled forest interior with ancient towering trees. Shafts of morning light filter through heavy leaves, illuminating the mossy forest floor and old twisted roots. In the distance, the wooden walls of a small rustic cottage are faintly visible. Earthy browns, deep greens, and warm golden light create a mysterious but inviting atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "Chapter VI The Cowardly Lion",
+      "start_s": 2614.246,
+      "end_s": 3048.36,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ANCIENT_FOREST",
+            "location_header": "EXT. ANCIENT FOREST - DAY",
+            "visual_description": "A dense, sun-dappled forest interior with ancient towering trees. Shafts of morning light filter through heavy leaves, illuminating the mossy forest floor and old twisted roots. In the distance, the wooden walls of a small rustic cottage are faintly visible. Earthy browns, deep greens, and warm golden light create a mysterious but inviting atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "Chapter VII The Journey to the Great Oz",
+      "start_s": 3048.36,
+      "end_s": 3576.836,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ANCIENT_FOREST",
+            "location_header": "EXT. ANCIENT FOREST - DAY",
+            "visual_description": "A dense, sun-dappled forest interior with ancient towering trees. Shafts of morning light filter through heavy leaves, illuminating the mossy forest floor and old twisted roots. In the distance, the wooden walls of a small rustic cottage are faintly visible. Earthy browns, deep greens, and warm golden light create a mysterious but inviting atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "Chapter VIII The Deadly Poppy Field",
+      "start_s": 3576.836,
+      "end_s": 4137.676,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RIVER_COUNTRY",
+            "location_header": "EXT. RIVER BANK - DAY",
+            "visual_description": "A sun-drenched pastoral landscape featuring a wide, flowing river. Lush green banks are lined with fruit-laden trees. In the background, a hint of a yellow brick road is visible. Bright blue sky with fluffy white clouds. Vibrant greens and blues dominate the palette with soft, cheerful lighting."
+          },
+          {
+            "identifier": "SCENE_POPPY_FIELD",
+            "location_header": "EXT. POPPY FIELD - DAY",
+            "visual_description": "A vast meadow completely carpeted in brilliant scarlet poppies. The red flowers extend to the horizon, creating a dazzling sea of color. The atmosphere is heavy and warm. Intense red tones contrast against a bright blue sky. The lighting is bright but hazy, suggesting a drowsy afternoon."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "Chapter IX The Queen of the Field Mice",
+      "start_s": 4137.676,
+      "end_s": 4552.703,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RIVER_COUNTRY",
+            "location_header": "EXT. RIVER BANK - DAY",
+            "visual_description": "A sun-drenched pastoral landscape featuring a wide, flowing river. Lush green banks are lined with fruit-laden trees. In the background, a hint of a yellow brick road is visible. Bright blue sky with fluffy white clouds. Vibrant greens and blues dominate the palette with soft, cheerful lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "Chapter X The Guardian of the Gate",
+      "start_s": 4552.703,
+      "end_s": 5122.993,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GREEN_COUNTRY_ROAD",
+            "location_header": "EXT. GREEN COUNTRY ROAD - DAY",
+            "visual_description": "A smooth yellow brick road winding through a lush, vibrant green landscape. Neat emerald-green fences line the road. In the distance, well-kept green farmhouses dot the rolling hills. The sky is bright blue, but the land is dominated by rich verdant tones. Inviting, civilized, and prosperous atmosphere."
+          },
+          {
+            "identifier": "SCENE_FARMHOUSE_INTERIOR",
+            "location_header": "INT. FARMHOUSE - EVENING",
+            "visual_description": "A simple but comfortable farmhouse interior. A wooden table is set for supper. In the corner, a couch holds an injured man. Everything has a slight greenish tint or rustic quality. Warm lantern light illuminates the room. A cozy, domestic atmosphere."
+          },
+          {
+            "identifier": "SCENE_GATEHOUSE_INTERIOR",
+            "location_header": "INT. GATEHOUSE - DAY",
+            "visual_description": "A high arched room inside the great city walls. The walls glisten with thousands of embedded emeralds, reflecting dazzling green light. A large green box sits on the floor. A massive gate stands at one end. The atmosphere is awe-inspiring, glittering, and intensely green."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "Chapter XI The Wonderful City of Oz",
+      "start_s": 5122.993,
+      "end_s": 6189.854,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_EMERALD_CITY_STREETS",
+            "location_header": "EXT. EMERALD CITY STREETS - DAY",
+            "visual_description": "Fantastical Emerald City street scene. Paved with green marble blocks joined by rows of glittering emeralds. Tall, beautiful houses of green marble line the way. Green glass windows. The entire atmosphere is bathed in a distinct green tint from the sun. Radiant, sparkling, and magical."
+          },
+          {
+            "identifier": "SCENE_EMERALD_PALACE_INTERIOR",
+            "location_header": "INT. EMERALD PALACE - DAY",
+            "visual_description": "Grand interior of the Palace of Oz. Vast rooms with green marble walls and high arched ceilings. Heavy green silk curtains and plush velvet carpets. Furniture set with sparkling emeralds. A massive throne of green marble is visible in the distance. Bathed in awe-inspiring, glittering green light."
+          },
+          {
+            "identifier": "SCENE_DOROTHY_BEDROOM",
+            "location_header": "INT. PALACE BEDCHAMBER - NIGHT",
+            "visual_description": "A charming, intimate guest chamber in the Emerald Palace. A soft bed with green silk sheets and velvet counterpane. A tiny fountain shoots green perfume into a carved marble basin. Green flowers in windows. Cozy, luxurious, and magical with soft green ambient lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "Chapter XII The Search for the Wicked Witch",
+      "start_s": 6189.854,
+      "end_s": 7288.918,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GATEHOUSE_INTERIOR",
+            "location_header": "INT. GATEHOUSE - DAY",
+            "visual_description": "A high arched room inside the great city walls. The walls glisten with thousands of embedded emeralds, reflecting dazzling green light. A large green box sits on the floor. A massive gate stands at one end. The atmosphere is awe-inspiring, glittering, and intensely green."
+          },
+          {
+            "identifier": "SCENE_WESTERN_WILDERNESS",
+            "location_header": "EXT. WESTERN COUNTRY - DAY",
+            "visual_description": "A vast, rugged landscape of the Country of the West. Uneven, hilly ground with no farms or houses. Dry, untended grass stretches to the horizon under a hot, bright sun. No trees offer shade. Harsh, wild, and desolate atmosphere with muted earth tones and a sense of isolation."
+          },
+          {
+            "identifier": "SCENE_WITCH_CASTLE_MAIN",
+            "location_header": "INT. WITCH'S CASTLE - DAY",
+            "visual_description": "The utilitarian kitchen of the Wicked Witch's castle. Clean wooden floorboards and a large cupboard dominate the room. A bucket of water stands near the door. Harsh daylight enters through small windows. The atmosphere is cold, empty, and severe, with dark brown and grey tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "Chapter XIII The Rescue",
+      "start_s": 7288.918,
+      "end_s": 7653.768,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_YELLOW_CASTLE",
+            "location_header": "INT. YELLOW CASTLE - DAY",
+            "visual_description": "A spacious hall in the Yellow Castle, bathed in warm, golden light. The walls are plastered in rich ochre, and the floor is polished wood. A large wooden table stands in the center. In the corner, a pile of clean straw and tinsmith tools. The atmosphere is cheerful and domestic, contrasting with the castle's former gloom. Bright yellow and amber palette."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "Chapter XIV The Winged Monkeys",
+      "start_s": 7653.768,
+      "end_s": 8215.408,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_POPPY_FIELD",
+            "location_header": "EXT. POPPY FIELD - DAY",
+            "visual_description": "A vast meadow completely carpeted in brilliant scarlet poppies. The red flowers extend to the horizon, creating a dazzling sea of color. The atmosphere is heavy and warm. Intense red tones contrast against a bright blue sky. The lighting is bright but hazy, suggesting a drowsy afternoon."
+          },
+          {
+            "identifier": "SCENE_SKY_OVER_OZ",
+            "location_header": "EXT. SKY OVER OZ - DAY",
+            "visual_description": "A high-altitude aerial view of the Land of Oz. Below, a tapestry of green woodlands, yellow brick roads, and sparkling blue rivers stretches to the horizon. In the distance, the Emerald City glows with intense green light against a bright blue sky with fluffy white clouds. The perspective is from above, looking down. Atmospheric and magical."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "Chapter XV The Discovery of Oz, the Terrible",
+      "start_s": 8215.408,
+      "end_s": 9011.371,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_EMERALD_PALACE_INTERIOR",
+            "location_header": "INT. EMERALD PALACE - DAY",
+            "visual_description": "Grand interior of the Palace of Oz. Vast rooms with green marble walls and high arched ceilings. Heavy green silk curtains and plush velvet carpets. Furniture set with sparkling emeralds. A massive throne of green marble is visible in the distance. Bathed in awe-inspiring, glittering green light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "Chapter XVI The Magic Art of the Great Humbug",
+      "start_s": 9011.371,
+      "end_s": 9288.073,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_OZ_WORKROOM",
+            "location_header": "INT. WIZARD'S PRIVATE ROOM - DAY",
+            "visual_description": "A private workroom within the Emerald Palace bathed in morning light. Green marble walls line the room, softened by heavy velvet curtains. A workshop area features a large table cluttered with tinsmith shears, bran, pins, and jars. A cupboard stands in the corner. Green glass windows overlook the city. Domestic, cluttered, and green-tinted atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "Chapter XVII How the Balloon Was Launched",
+      "start_s": 9288.073,
+      "end_s": 9624.725,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PALACE_COURTYARD",
+            "location_header": "EXT. PALACE COURTYARD - DAY",
+            "visual_description": "The grand open courtyard directly in front of the Emerald Palace. The ground is paved with smooth green marble. The massive, glistening facade of the Palace, studded with emeralds, looms in the background. A large bonfire burns in the center of the square. Green banners wave from tall poles. Bright daylight with a distinct greenish atmospheric tint."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "Chapter XVIII Away to the South",
+      "start_s": 9624.725,
+      "end_s": 9945.914,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_EMERALD_PALACE_INTERIOR",
+            "location_header": "INT. EMERALD PALACE - DAY",
+            "visual_description": "Grand interior of the Palace of Oz. Vast rooms with green marble walls and high arched ceilings. Heavy green silk curtains and plush velvet carpets. Furniture set with sparkling emeralds. A massive throne of green marble is visible in the distance. Bathed in awe-inspiring, glittering green light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "Chapter XIX Attacked by the Fighting Trees",
+      "start_s": 9945.914,
+      "end_s": 10247.737,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GATEHOUSE_INTERIOR",
+            "location_header": "INT. GATEHOUSE - DAY",
+            "visual_description": "A high arched room inside the great city walls. The walls glisten with thousands of embedded emeralds, reflecting dazzling green light. A large green box sits on the floor. A massive gate stands at one end. The atmosphere is awe-inspiring, glittering, and intensely green."
+          },
+          {
+            "identifier": "SCENE_GREEN_COUNTRY_ROAD",
+            "location_header": "EXT. GREEN COUNTRY ROAD - DAY",
+            "visual_description": "A smooth yellow brick road winding through a lush, vibrant green landscape. Neat emerald-green fences line the road. In the distance, well-kept green farmhouses dot the rolling hills. The sky is bright blue, but the land is dominated by rich verdant tones. Inviting, civilized, and prosperous atmosphere."
+          },
+          {
+            "identifier": "SCENE_ANCIENT_FOREST",
+            "location_header": "EXT. ANCIENT FOREST - DAY",
+            "visual_description": "A dense, sun-dappled forest interior with ancient towering trees. Shafts of morning light filter through heavy leaves, illuminating the mossy forest floor and old twisted roots. In the distance, the wooden walls of a small rustic cottage are faintly visible. Earthy browns, deep greens, and warm golden light create a mysterious but inviting atmosphere."
+          },
+          {
+            "identifier": "SCENE_CHINA_WALL",
+            "location_header": "EXT. EDGE OF THE WOODS - DAY",
+            "visual_description": "A surreal landscape at the edge of a dark forest. A massive, pristine white wall blocks the path, gleaming like polished porcelain under the sun. It is perfectly smooth and higher than a person. The ground is grassy. Bright daylight contrasts with the dark woods behind. Whimsical, strange atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "Chapter XX The Dainty China Country",
+      "start_s": 10247.737,
+      "end_s": 10704.621,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CHINA_COUNTRY",
+            "location_header": "INT. CHINA COUNTRY - DAY",
+            "visual_description": "A surreal, miniature landscape made entirely of porcelain. The ground is a smooth, gleaming white surface like a huge dinner plate. Small, brightly colored china houses and barns with china fences dot the landscape. The atmosphere is delicate, artificial, and whimsically bright under clear lighting. Colors are vivid primary hues against the stark white ground."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 21,
+      "title": "Chapter XXI The Lion Becomes the King of Beasts",
+      "start_s": 10704.621,
+      "end_s": 10977.586,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ANCIENT_FOREST",
+            "location_header": "EXT. ANCIENT FOREST - DAY",
+            "visual_description": "A dense, sun-dappled forest interior with ancient towering trees. Shafts of morning light filter through heavy leaves, illuminating the mossy forest floor and old twisted roots. In the distance, the wooden walls of a small rustic cottage are faintly visible. Earthy browns, deep greens, and warm golden light create a mysterious but inviting atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 22,
+      "title": "Chapter XXII The Country of the Quadlings",
+      "start_s": 10977.586,
+      "end_s": 11260.823,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HAMMER_HEAD_HILL",
+            "location_header": "EXT. ROCKY HILL - DAY",
+            "visual_description": "A rugged, rocky terrain at the edge of a gloomy forest. A steep hill rises sharply, covered from top to bottom with large, jagged boulders. The lighting is harsh daylight, casting sharp shadows among the rocks. The atmosphere is hostile and forbidding, with a stark contrast between the dark forest behind and the rocky barrier ahead."
+          },
+          {
+            "identifier": "SCENE_QUADLING_COUNTRY",
+            "location_header": "EXT. QUADLING COUNTRY - DAY",
+            "visual_description": "A vibrant, prosperous landscape under a bright blue sky. Fields of ripening yellow grain are bordered by bright green grass. A network of roads is lined with fences painted a brilliant red. In the distance, red farmhouses and red bridges arch over sparkling brooks. A beautiful castle is visible on the horizon. The atmosphere is warm, happy, and colorful."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 23,
+      "title": "Chapter XXIII Glinda The Good Witch Grants Dorothy’s Wish",
+      "start_s": 11260.823,
+      "end_s": 11627.951,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RUBY_THRONE_ROOM",
+            "location_header": "INT. GLINDA'S PALACE - DAY",
+            "visual_description": "A grand fairy-tale throne room bathed in warm amber and rose light. Walls of polished red marble rise to a high arched ceiling. A dais holds a magnificent throne encrusted with thousands of rubies. Tall arched windows reveal a bright blue sky. Rich red velvet curtains and polished floors. Victorian fantasy aesthetic."
+          },
+          {
+            "identifier": "SCENE_KANSAS_PRAIRIE_NEW",
+            "location_header": "EXT. KANSAS PRAIRIE - DAY",
+            "visual_description": "The vast, flat Kansas prairie under harsh, clear daylight. Dry gray grass extends in every direction to the horizon. In the middle distance, a new unpainted wooden farmhouse stands starkly against the landscape. A weathered barn and wooden cattle pen are visible nearby. Rustic, realistic, and spacious atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 24,
+      "title": "Chapter XXIV Home Again",
+      "start_s": 11627.951,
+      "end_s": 11657.362,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_KANSAS_PRAIRIE_NEW",
+            "location_header": "EXT. KANSAS PRAIRIE - DAY",
+            "visual_description": "The vast, flat Kansas prairie under harsh, clear daylight. Dry gray grass extends in every direction to the horizon. In the middle distance, a new unpainted wooden farmhouse stands starkly against the landscape. A weathered barn and wooden cattle pen are visible nearby. Rustic, realistic, and spacious atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "clear",
+        "descriptive",
+        "storyteller",
+        "neutral"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 546,
+      "image_key": null,
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "DOROTHY",
+      "name": "Dorothy",
+      "aliases": [],
+      "voice_attributes": [
+        "youthful",
+        "bright",
+        "curious"
+      ],
+      "visual_attributes": [
+        "young girl",
+        "simple farm dress",
+        "spirited face",
+        "bright eyes",
+        "braided hair"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american_midwest"
+      },
+      "dialogue_count": 198,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/DOROTHY.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/DOROTHY.mp3"
+    },
+    {
+      "identifier": "SCARECROW",
+      "name": "The Scarecrow",
+      "aliases": [],
+      "voice_attributes": [
+        "husky",
+        "slow",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "anthropomorphic scarecrow",
+        "sack head stuffed with straw",
+        "painted eyes and mouth",
+        "pointed blue hat",
+        "faded blue suit",
+        "straw sticking out"
+      ],
+      "roles": [
+        "companion",
+        "scarecrow"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 136,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/SCARECROW.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/SCARECROW.mp3"
+    },
+    {
+      "identifier": "TIN_WOODMAN",
+      "name": "The Tin Woodman",
+      "aliases": [
+        "Tin Man",
+        "Nick Chopper"
+      ],
+      "voice_attributes": [
+        "metallic",
+        "resonant",
+        "melancholy",
+        "polite"
+      ],
+      "visual_attributes": [
+        "mechanical being",
+        "body made entirely of tin",
+        "jointed metal limbs",
+        "funnel hat",
+        "riveted silver torso",
+        "rusted joints"
+      ],
+      "roles": [
+        "companion",
+        "woodman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 94,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/TIN_WOODMAN.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/TIN_WOODMAN.mp3"
+    },
+    {
+      "identifier": "COWARDLY_LION",
+      "name": "The Cowardly Lion",
+      "aliases": [
+        "Lion"
+      ],
+      "voice_attributes": [
+        "deep",
+        "anxious",
+        "growly",
+        "resonant"
+      ],
+      "visual_attributes": [
+        "anthropomorphic lion",
+        "massive tawny body",
+        "thick unkempt mane",
+        "large expressive eyes",
+        "drooping whiskers",
+        "posture of shame"
+      ],
+      "roles": [
+        "companion",
+        "coward"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 76,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/COWARDLY_LION.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/COWARDLY_LION.mp3"
+    },
+    {
+      "identifier": "THE_WIZARD",
+      "name": "The Wizard",
+      "aliases": [
+        "Oz",
+        "The Great and Terrible",
+        "The Humbug",
+        "Oscar Zoroaster"
+      ],
+      "voice_attributes": [
+        "trembling",
+        "meek",
+        "mid-western",
+        "kindly"
+      ],
+      "visual_attributes": [
+        "short elderly man",
+        "bald head",
+        "wrinkled face",
+        "simple waistcoat",
+        "frock coat",
+        "nervous expression"
+      ],
+      "roles": [
+        "wizard",
+        "ruler",
+        "charlatan"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american_midwest"
+      },
+      "dialogue_count": 64,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/THE_WIZARD.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/THE_WIZARD.mp3"
+    },
+    {
+      "identifier": "WITCH_OF_THE_NORTH",
+      "name": "The Witch of the North",
+      "aliases": [
+        "Good Witch"
+      ],
+      "voice_attributes": [
+        "sweet",
+        "gentle",
+        "calm"
+      ],
+      "visual_attributes": [
+        "small stature",
+        "wrinkled face",
+        "nearly white hair",
+        "white gown with stars",
+        "tall white pointed hat"
+      ],
+      "roles": [
+        "guide",
+        "witch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/WITCH_OF_THE_NORTH.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/WITCH_OF_THE_NORTH.mp3"
+    },
+    {
+      "identifier": "WINGED_MONKEY_LEADER",
+      "name": "The Winged Monkey Leader",
+      "aliases": [
+        "Leader",
+        "The King"
+      ],
+      "voice_attributes": [
+        "chattering",
+        "obedient",
+        "loud"
+      ],
+      "visual_attributes": [
+        "anthropomorphic monkey",
+        "large wings on shoulders",
+        "ugly face",
+        "hairy arms"
+      ],
+      "roles": [
+        "minion"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "chattering"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/WINGED_MONKEY_LEADER.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/WINGED_MONKEY_LEADER.mp3"
+    },
+    {
+      "identifier": "WICKED_WITCH_OF_THE_WEST",
+      "name": "The Wicked Witch of the West",
+      "aliases": [
+        "The Witch"
+      ],
+      "voice_attributes": [
+        "cranky",
+        "shrill",
+        "harsh",
+        "commanding"
+      ],
+      "visual_attributes": [
+        "old woman",
+        "one powerful eye",
+        "pigtails",
+        "eye-patch",
+        "umbrella"
+      ],
+      "roles": [
+        "antagonist",
+        "witch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "crone"
+      },
+      "dialogue_count": 17,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/WICKED_WITCH_OF_THE_WEST.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/WICKED_WITCH_OF_THE_WEST.mp3"
+    },
+    {
+      "identifier": "GUARDIAN_OF_THE_GATES",
+      "name": "Guardian of the Gates",
+      "aliases": [
+        "The Green Man"
+      ],
+      "voice_attributes": [
+        "official",
+        "cautious",
+        "serious"
+      ],
+      "visual_attributes": [
+        "short stature",
+        "green skin",
+        "green clothes",
+        "spectacles",
+        "large key around neck"
+      ],
+      "roles": [
+        "gatekeeper",
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GUARDIAN_OF_THE_GATES.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GUARDIAN_OF_THE_GATES.mp3"
+    },
+    {
+      "identifier": "QUEEN_OF_THE_FIELD_MICE",
+      "name": "The Queen of the Field Mice",
+      "aliases": [
+        "The Queen"
+      ],
+      "voice_attributes": [
+        "squeaky",
+        "regal",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "anthropomorphic mouse",
+        "small grey body",
+        "delicate paws",
+        "tiny golden crown",
+        "regal bearing",
+        "bright eyes"
+      ],
+      "roles": [
+        "royal",
+        "mouse"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/QUEEN_OF_THE_FIELD_MICE.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/QUEEN_OF_THE_FIELD_MICE.mp3"
+    },
+    {
+      "identifier": "GLINDA",
+      "name": "Glinda the Good",
+      "aliases": [
+        "The Witch Glinda",
+        "The Good Witch"
+      ],
+      "voice_attributes": [
+        "sweet",
+        "regal",
+        "warm",
+        "motherly"
+      ],
+      "visual_attributes": [
+        "beautiful young woman",
+        "rich red hair",
+        "flowing ringlets",
+        "pure white dress",
+        "blue eyes",
+        "kindly face"
+      ],
+      "roles": [
+        "witch",
+        "ruler"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 13,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GLINDA.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GLINDA.mp3"
+    },
+    {
+      "identifier": "SOLDIER_GREEN_WHISKERS",
+      "name": "The Soldier with Green Whiskers",
+      "aliases": [
+        "Soldier"
+      ],
+      "voice_attributes": [
+        "official",
+        "polite",
+        "helpful"
+      ],
+      "visual_attributes": [
+        "green uniform",
+        "long green beard",
+        "tall stature",
+        "greenish skin"
+      ],
+      "roles": [
+        "guard",
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 12,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/SOLDIER_GREEN_WHISKERS.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/SOLDIER_GREEN_WHISKERS.mp3"
+    },
+    {
+      "identifier": "FARM_MAN",
+      "name": "Farm Man",
+      "aliases": [],
+      "voice_attributes": [
+        "knowledgeable",
+        "folksy",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "middle-aged man",
+        "green farming clothes",
+        "bandaged leg",
+        "weathered face",
+        "receding hairline"
+      ],
+      "roles": [
+        "local",
+        "host"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american_country"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/FARM_MAN.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/FARM_MAN.mp3"
+    },
+    {
+      "identifier": "OZ_HEAD",
+      "name": "Oz (The Giant Head)",
+      "aliases": [
+        "The Head",
+        "Oz"
+      ],
+      "voice_attributes": [
+        "booming",
+        "stern",
+        "steady"
+      ],
+      "visual_attributes": [
+        "giant floating head",
+        "bald",
+        "enormous features",
+        "no body"
+      ],
+      "roles": [
+        "wizard_avatar"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "booming"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_HEAD.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_HEAD.mp3"
+    },
+    {
+      "identifier": "CHINA_PRINCESS",
+      "name": "The China Princess",
+      "aliases": [],
+      "voice_attributes": [
+        "sweet",
+        "frightened",
+        "delicate"
+      ],
+      "visual_attributes": [
+        "flawless porcelain skin",
+        "painted delicate features",
+        "silver and gold frock",
+        "jeweled crown",
+        "glossy finish"
+      ],
+      "roles": [
+        "royal"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/CHINA_PRINCESS.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/CHINA_PRINCESS.mp3"
+    },
+    {
+      "identifier": "FOREST_TIGER",
+      "name": "The Tiger",
+      "aliases": [],
+      "voice_attributes": [
+        "deep",
+        "respectful",
+        "rumbling"
+      ],
+      "visual_attributes": [
+        "anthropomorphic tiger",
+        "massive striped body",
+        "sharp claws",
+        "keen yellow eyes",
+        "feline posture"
+      ],
+      "roles": [
+        "leader",
+        "petitioner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/FOREST_TIGER.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/FOREST_TIGER.mp3"
+    },
+    {
+      "identifier": "THE_STORK",
+      "name": "The Stork",
+      "aliases": [],
+      "voice_attributes": [
+        "kind",
+        "helpful",
+        "motherly"
+      ],
+      "visual_attributes": [
+        "anthropomorphic stork",
+        "white feathers",
+        "long orange beak",
+        "large gentle eyes",
+        "tall thin legs"
+      ],
+      "roles": [
+        "helper",
+        "bird"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/THE_STORK.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/THE_STORK.mp3"
+    },
+    {
+      "identifier": "HAMMER_HEAD",
+      "name": "The Hammer-Head",
+      "aliases": [
+        "Strangest Man"
+      ],
+      "voice_attributes": [
+        "rough",
+        "harsh",
+        "aggressive"
+      ],
+      "visual_attributes": [
+        "short and stout",
+        "big flat head",
+        "thick wrinkled neck",
+        "armless body",
+        "bizarre appearance"
+      ],
+      "roles": [
+        "antagonist",
+        "guardian"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "rough"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/HAMMER_HEAD.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/HAMMER_HEAD.mp3"
+    },
+    {
+      "identifier": "OZ_LADY",
+      "name": "Oz (The Lovely Lady)",
+      "aliases": [
+        "The Lady",
+        "Oz"
+      ],
+      "voice_attributes": [
+        "sweet",
+        "gentle",
+        "regal"
+      ],
+      "visual_attributes": [
+        "beautiful woman",
+        "green silk gauze dress",
+        "crown of jewels",
+        "gorgeous wings",
+        "flowing green locks"
+      ],
+      "roles": [
+        "wizard_avatar"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_LADY.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_LADY.mp3"
+    },
+    {
+      "identifier": "GREEN_GIRL",
+      "name": "The Green Girl",
+      "aliases": [
+        "Green Maiden"
+      ],
+      "voice_attributes": [
+        "sweet",
+        "polite",
+        "young"
+      ],
+      "visual_attributes": [
+        "pretty face",
+        "green hair",
+        "green eyes",
+        "green silk gown",
+        "bowing posture"
+      ],
+      "roles": [
+        "servant",
+        "guide"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GREEN_GIRL.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GREEN_GIRL.mp3"
+    },
+    {
+      "identifier": "BOQ",
+      "name": "Boq",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "grave",
+        "wealthy"
+      ],
+      "visual_attributes": [
+        "short stature",
+        "round blue hat",
+        "rich blue clothes",
+        "clean-shaven",
+        "round face"
+      ],
+      "roles": [
+        "host",
+        "munchkin"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/BOQ.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/BOQ.mp3"
+    },
+    {
+      "identifier": "OZ_BEAST",
+      "name": "Oz (The Beast)",
+      "aliases": [
+        "The Beast",
+        "Oz"
+      ],
+      "voice_attributes": [
+        "roaring",
+        "gruff",
+        "terrifying"
+      ],
+      "visual_attributes": [
+        "monster",
+        "size of elephant",
+        "rhinoceros head",
+        "five eyes",
+        "woolly hair",
+        "multi-limbed"
+      ],
+      "roles": [
+        "wizard_avatar"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "monstrous"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_BEAST.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_BEAST.mp3"
+    },
+    {
+      "identifier": "OZ_FIRE",
+      "name": "Oz (The Ball of Fire)",
+      "aliases": [
+        "Ball of Fire",
+        "Oz"
+      ],
+      "voice_attributes": [
+        "low",
+        "quiet",
+        "intense"
+      ],
+      "visual_attributes": [
+        "elemental entity",
+        "fierce glowing ball of fire",
+        "blinding light"
+      ],
+      "roles": [
+        "wizard_avatar"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "ethereal"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_FIRE.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/OZ_FIRE.mp3"
+    },
+    {
+      "identifier": "FARM_WOMAN",
+      "name": "Farm Woman",
+      "aliases": [],
+      "voice_attributes": [
+        "motherly",
+        "practical",
+        "curious"
+      ],
+      "visual_attributes": [
+        "middle-aged woman",
+        "simple green dress",
+        "peaked hat",
+        "kind face",
+        "apron"
+      ],
+      "roles": [
+        "local",
+        "host"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american_country"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/FARM_WOMAN.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/FARM_WOMAN.mp3"
+    },
+    {
+      "identifier": "AUNT_EM",
+      "name": "Aunt Em",
+      "aliases": [],
+      "voice_attributes": [
+        "weary",
+        "flat",
+        "anxious"
+      ],
+      "visual_attributes": [
+        "thin gaunt face",
+        "gray hair pulled back",
+        "faded dress",
+        "sober eyes",
+        "worn hands"
+      ],
+      "roles": [
+        "guardian",
+        "farmer's wife"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american_midwest"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/AUNT_EM.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/AUNT_EM.mp3"
+    },
+    {
+      "identifier": "LEADER_OF_THE_WOLVES",
+      "name": "Leader of the Wolves",
+      "aliases": [
+        "The Wolf"
+      ],
+      "voice_attributes": [
+        "growling",
+        "feral",
+        "rough"
+      ],
+      "visual_attributes": [
+        "anthropomorphic wolf",
+        "grey fur",
+        "fierce yellow eyes",
+        "sharp teeth"
+      ],
+      "roles": [
+        "minion"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "growling"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/LEADER_OF_THE_WOLVES.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/LEADER_OF_THE_WOLVES.mp3"
+    },
+    {
+      "identifier": "MUNCHKIN_1",
+      "name": "First Munchkin",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "polite"
+      ],
+      "visual_attributes": [
+        "short stature",
+        "round blue hat",
+        "blue clothes",
+        "grey beard",
+        "round face"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "high_pitched"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MUNCHKIN_1.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MUNCHKIN_1.mp3"
+    },
+    {
+      "identifier": "GLINDA_GUARD",
+      "name": "The Soldier Girl",
+      "aliases": [
+        "Girl Soldier"
+      ],
+      "voice_attributes": [
+        "official",
+        "polite",
+        "young"
+      ],
+      "visual_attributes": [
+        "young girl",
+        "handsome red uniform",
+        "gold braid trimming",
+        "military cap",
+        "attentive posture"
+      ],
+      "roles": [
+        "guard",
+        "soldier"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GLINDA_GUARD.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/GLINDA_GUARD.mp3"
+    },
+    {
+      "identifier": "MR_JOKER",
+      "name": "Mr. Joker",
+      "aliases": [
+        "The Clown"
+      ],
+      "voice_attributes": [
+        "sauciness",
+        "cracked",
+        "foolish"
+      ],
+      "visual_attributes": [
+        "cracked porcelain face",
+        "painted clown makeup",
+        "red and yellow ruffled suit",
+        "pointed cap",
+        "glued seams"
+      ],
+      "roles": [
+        "clown"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "eccentric"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MR_JOKER.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MR_JOKER.mp3"
+    },
+    {
+      "identifier": "KING_CROW",
+      "name": "The King Crow",
+      "aliases": [],
+      "voice_attributes": [
+        "cawing",
+        "raspy",
+        "arrogant"
+      ],
+      "visual_attributes": [
+        "anthropomorphic crow",
+        "black feathers",
+        "sharp beak",
+        "beady eyes"
+      ],
+      "roles": [
+        "minion"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "raspy"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/KING_CROW.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/KING_CROW.mp3"
+    },
+    {
+      "identifier": "COURTIER",
+      "name": "The Courtier",
+      "aliases": [],
+      "voice_attributes": [
+        "whispering",
+        "gossipy"
+      ],
+      "visual_attributes": [
+        "rich green costume",
+        "greenish skin",
+        "elaborate hairstyle"
+      ],
+      "roles": [
+        "extra"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "refined"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/COURTIER.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/COURTIER.mp3"
+    },
+    {
+      "identifier": "QUADLING_FARM_WIFE",
+      "name": "Farmer's Wife",
+      "aliases": [],
+      "voice_attributes": [
+        "kind",
+        "hospitable",
+        "cheerful"
+      ],
+      "visual_attributes": [
+        "short and fat",
+        "chubby good-natured face",
+        "bright red dress",
+        "simple apron",
+        "hair pinned back"
+      ],
+      "roles": [
+        "local",
+        "host"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "cheerful"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/QUADLING_FARM_WIFE.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/QUADLING_FARM_WIFE.mp3"
+    },
+    {
+      "identifier": "CHINA_MILKMAID",
+      "name": "The China Milkmaid",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "indignant",
+        "brittle"
+      ],
+      "visual_attributes": [
+        "porcelain skin",
+        "painted bodice",
+        "china curls",
+        "nicked elbow",
+        "frozen expression"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/CHINA_MILKMAID.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/CHINA_MILKMAID.mp3"
+    },
+    {
+      "identifier": "UNCLE_HENRY",
+      "name": "Uncle Henry",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "solemn",
+        "deep"
+      ],
+      "visual_attributes": [
+        "long gray beard",
+        "weather-beaten face",
+        "stern eyes",
+        "rough farm clothes",
+        "heavy boots"
+      ],
+      "roles": [
+        "farmer",
+        "guardian"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american_midwest"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/UNCLE_HENRY.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/UNCLE_HENRY.mp3"
+    },
+    {
+      "identifier": "BIG_MOUSE",
+      "name": "Big Mouse",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "polite"
+      ],
+      "visual_attributes": [
+        "anthropomorphic mouse",
+        "large grey body",
+        "stout whiskers",
+        "earnest expression",
+        "field mouse features"
+      ],
+      "roles": [
+        "mouse"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/BIG_MOUSE.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/BIG_MOUSE.mp3"
+    },
+    {
+      "identifier": "MUNCHKIN_3",
+      "name": "Third Munchkin",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "knowledgeable"
+      ],
+      "visual_attributes": [
+        "short stature",
+        "blue hat",
+        "blue clothes",
+        "beard"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "high_pitched"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MUNCHKIN_3.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MUNCHKIN_3.mp3"
+    },
+    {
+      "identifier": "MUNCHKIN_2",
+      "name": "Second Munchkin",
+      "aliases": [],
+      "voice_attributes": [
+        "squeaky",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "short stature",
+        "blue hat",
+        "blue clothes",
+        "beard"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "high_pitched"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MUNCHKIN_2.png",
+      "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/MUNCHKIN_2.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_EMERALD_CITY_STREETS",
+      "ordinal": 0,
+      "location_header": "EXT. EMERALD CITY STREETS - DAY",
+      "visual_description": "Fantastical Emerald City street scene. Paved with green marble blocks joined by rows of glittering emeralds. Tall, beautiful houses of green marble line the way. Green glass windows. The entire atmosphere is bathed in a distinct green tint from the sun. Radiant, sparkling, and magical.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_EMERALD_CITY_STREETS.jpg"
+    },
+    {
+      "identifier": "SCENE_RUBY_THRONE_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. GLINDA'S PALACE - DAY",
+      "visual_description": "A grand fairy-tale throne room bathed in warm amber and rose light. Walls of polished red marble rise to a high arched ceiling. A dais holds a magnificent throne encrusted with thousands of rubies. Tall arched windows reveal a bright blue sky. Rich red velvet curtains and polished floors. Victorian fantasy aesthetic.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_RUBY_THRONE_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_KANSAS_PRAIRIE_NEW",
+      "ordinal": 0,
+      "location_header": "EXT. KANSAS PRAIRIE - DAY",
+      "visual_description": "The vast, flat Kansas prairie under harsh, clear daylight. Dry gray grass extends in every direction to the horizon. In the middle distance, a new unpainted wooden farmhouse stands starkly against the landscape. A weathered barn and wooden cattle pen are visible nearby. Rustic, realistic, and spacious atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_KANSAS_PRAIRIE_NEW.jpg"
+    },
+    {
+      "identifier": "SCENE_RIVER_COUNTRY",
+      "ordinal": 0,
+      "location_header": "EXT. RIVER BANK - DAY",
+      "visual_description": "A sun-drenched pastoral landscape featuring a wide, flowing river. Lush green banks are lined with fruit-laden trees. In the background, a hint of a yellow brick road is visible. Bright blue sky with fluffy white clouds. Vibrant greens and blues dominate the palette with soft, cheerful lighting.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_RIVER_COUNTRY.jpg"
+    },
+    {
+      "identifier": "SCENE_HAMMER_HEAD_HILL",
+      "ordinal": 0,
+      "location_header": "EXT. ROCKY HILL - DAY",
+      "visual_description": "A rugged, rocky terrain at the edge of a gloomy forest. A steep hill rises sharply, covered from top to bottom with large, jagged boulders. The lighting is harsh daylight, casting sharp shadows among the rocks. The atmosphere is hostile and forbidding, with a stark contrast between the dark forest behind and the rocky barrier ahead.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_HAMMER_HEAD_HILL.jpg"
+    },
+    {
+      "identifier": "SCENE_GATEHOUSE_INTERIOR",
+      "ordinal": 0,
+      "location_header": "INT. GATEHOUSE - DAY",
+      "visual_description": "A high arched room inside the great city walls. The walls glisten with thousands of embedded emeralds, reflecting dazzling green light. A large green box sits on the floor. A massive gate stands at one end. The atmosphere is awe-inspiring, glittering, and intensely green.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_GATEHOUSE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_EMERALD_PALACE_INTERIOR",
+      "ordinal": 0,
+      "location_header": "INT. EMERALD PALACE - DAY",
+      "visual_description": "Grand interior of the Palace of Oz. Vast rooms with green marble walls and high arched ceilings. Heavy green silk curtains and plush velvet carpets. Furniture set with sparkling emeralds. A massive throne of green marble is visible in the distance. Bathed in awe-inspiring, glittering green light.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_EMERALD_PALACE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "KANSAS_FARMHOUSE",
+      "ordinal": 0,
+      "location_header": "INT. FARMHOUSE - DAY",
+      "visual_description": "A humble one-room farmhouse interior on the Kansas prairie. Unpainted wooden walls and floorboards. A rusty cookstove stands near a cupboard of dishes. A trap door is visible in the floor. Harsh, flat light enters through the open doorway, revealing a gray landscape beyond. Rustic, weathered atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_KANSAS_FARMHOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_POPPY_FIELD",
+      "ordinal": 0,
+      "location_header": "EXT. POPPY FIELD - DAY",
+      "visual_description": "A vast meadow completely carpeted in brilliant scarlet poppies. The red flowers extend to the horizon, creating a dazzling sea of color. The atmosphere is heavy and warm. Intense red tones contrast against a bright blue sky. The lighting is bright but hazy, suggesting a drowsy afternoon.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_POPPY_FIELD.jpg"
+    },
+    {
+      "identifier": "SCENE_YELLOW_CASTLE",
+      "ordinal": 0,
+      "location_header": "INT. YELLOW CASTLE - DAY",
+      "visual_description": "A spacious hall in the Yellow Castle, bathed in warm, golden light. The walls are plastered in rich ochre, and the floor is polished wood. A large wooden table stands in the center. In the corner, a pile of clean straw and tinsmith tools. The atmosphere is cheerful and domestic, contrasting with the castle's former gloom. Bright yellow and amber palette.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_YELLOW_CASTLE.jpg"
+    },
+    {
+      "identifier": "SCENE_PALACE_COURTYARD",
+      "ordinal": 0,
+      "location_header": "EXT. PALACE COURTYARD - DAY",
+      "visual_description": "The grand open courtyard directly in front of the Emerald Palace. The ground is paved with smooth green marble. The massive, glistening facade of the Palace, studded with emeralds, looms in the background. A large bonfire burns in the center of the square. Green banners wave from tall poles. Bright daylight with a distinct greenish atmospheric tint.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_PALACE_COURTYARD.jpg"
+    },
+    {
+      "identifier": "SCENE_YELLOW_BRICK_ROAD_ROUGH",
+      "ordinal": 0,
+      "location_header": "EXT. YELLOW BRICK ROAD - LATE AFTERNOON",
+      "visual_description": "A lonely, neglected stretch of the Yellow Brick Road in the late afternoon. The golden bricks are uneven and broken. To one side, untended fields with gray soil and dried grass stretch to the horizon. To the other, a small brook flows past a grassy bank. In the far distance, a dark, dense forest line looms against the sky. The atmosphere is quiet and slightly melancholic.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_YELLOW_BRICK_ROAD_ROUGH.jpg"
+    },
+    {
+      "identifier": "SCENE_OZ_WORKROOM",
+      "ordinal": 0,
+      "location_header": "INT. WIZARD'S PRIVATE ROOM - DAY",
+      "visual_description": "A private workroom within the Emerald Palace bathed in morning light. Green marble walls line the room, softened by heavy velvet curtains. A workshop area features a large table cluttered with tinsmith shears, bran, pins, and jars. A cupboard stands in the corner. Green glass windows overlook the city. Domestic, cluttered, and green-tinted atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_OZ_WORKROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_ANCIENT_FOREST",
+      "ordinal": 0,
+      "location_header": "EXT. ANCIENT FOREST - DAY",
+      "visual_description": "A dense, sun-dappled forest interior with ancient towering trees. Shafts of morning light filter through heavy leaves, illuminating the mossy forest floor and old twisted roots. In the distance, the wooden walls of a small rustic cottage are faintly visible. Earthy browns, deep greens, and warm golden light create a mysterious but inviting atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_ANCIENT_FOREST.jpg"
+    },
+    {
+      "identifier": "SCENE_CHINA_COUNTRY",
+      "ordinal": 0,
+      "location_header": "INT. CHINA COUNTRY - DAY",
+      "visual_description": "A surreal, miniature landscape made entirely of porcelain. The ground is a smooth, gleaming white porcelain surface. Small, brightly colored china houses and barns with china fences dot the landscape. The atmosphere is delicate, artificial, and whimsically bright under clear lighting. Colors are vivid primary hues against the stark white ground.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_CHINA_COUNTRY.jpg"
+    },
+    {
+      "identifier": "MUNCHKIN_COUNTRY",
+      "ordinal": 1,
+      "location_header": "EXT. MUNCHKIN COUNTRY - DAY",
+      "visual_description": "A vibrant, fantastical countryside bathed in bright sunshine. Lush green meadows stretch toward the horizon, dotted with stately trees bearing unfamiliar, luscious fruits. In the foreground, banks of brilliant flowers line a sparkling, rushing brook. A road paved with yellow bricks cuts through the landscape. The colors are rich and saturated—deep blues, emerald greens, and sunny yellows. An atmosphere of magical wonder.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_MUNCHKIN_COUNTRY.jpg"
+    },
+    {
+      "identifier": "SCENE_GREEN_COUNTRY_ROAD",
+      "ordinal": 1,
+      "location_header": "EXT. GREEN COUNTRY ROAD - DAY",
+      "visual_description": "A smooth yellow brick road winding through a lush, vibrant green landscape. Neat emerald-green fences line the road. In the distance, well-kept green farmhouses dot the rolling hills. The sky is bright blue, but the land is dominated by rich verdant tones. Inviting, civilized, and prosperous atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_GREEN_COUNTRY_ROAD.jpg"
+    },
+    {
+      "identifier": "SCENE_WESTERN_WILDERNESS",
+      "ordinal": 1,
+      "location_header": "EXT. WESTERN COUNTRY - DAY",
+      "visual_description": "A vast, rugged landscape of the Country of the West. Uneven, hilly ground with no farms or houses. Dry, untended grass stretches to the horizon under a hot, bright sun. No trees offer shade. Harsh, wild, and desolate atmosphere with muted earth tones and a sense of isolation.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_WESTERN_WILDERNESS.jpg"
+    },
+    {
+      "identifier": "SCENE_SKY_OVER_OZ",
+      "ordinal": 1,
+      "location_header": "EXT. SKY OVER OZ - DAY",
+      "visual_description": "A high-altitude aerial view of the Land of Oz. Below, a tapestry of green woodlands, yellow brick roads, and sparkling blue rivers stretches to the horizon. In the distance, the Emerald City glows with intense green light against a bright blue sky with fluffy white clouds. The perspective is from above, looking down. Atmospheric and magical.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_SKY_OVER_OZ.jpg"
+    },
+    {
+      "identifier": "SCENE_QUADLING_COUNTRY",
+      "ordinal": 1,
+      "location_header": "EXT. QUADLING COUNTRY - DAY",
+      "visual_description": "A vibrant, prosperous landscape under a bright blue sky. Fields of ripening yellow grain are bordered by bright green grass. A network of roads is lined with fences painted a brilliant red. In the distance, red farmhouses and red bridges arch over sparkling brooks. A beautiful castle is visible on the horizon. The atmosphere is warm, happy, and colorful.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_QUADLING_COUNTRY.jpg"
+    },
+    {
+      "identifier": "SCENE_FARMHOUSE_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. FARMHOUSE - EVENING",
+      "visual_description": "A simple but comfortable farmhouse interior. A wooden table is set for supper. In the corner, a couch holds an injured man. Everything has a slight greenish tint or rustic quality. Warm lantern light illuminates the room. A cozy, domestic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_FARMHOUSE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_WITCH_CASTLE_MAIN",
+      "ordinal": 2,
+      "location_header": "INT. WITCH'S CASTLE - DAY",
+      "visual_description": "The utilitarian kitchen of the Wicked Witch's castle. Clean wooden floorboards and a large cupboard dominate the room. A bucket of water stands near the door. Harsh daylight enters through small windows. The atmosphere is cold, empty, and severe, with dark brown and grey tones.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_WITCH_CASTLE_MAIN.jpg"
+    },
+    {
+      "identifier": "SCENE_DOROTHY_BEDROOM",
+      "ordinal": 2,
+      "location_header": "INT. PALACE BEDCHAMBER - NIGHT",
+      "visual_description": "A charming, intimate guest chamber in the Emerald Palace. A soft bed with green silk sheets and velvet counterpane. A tiny fountain shoots green perfume into a carved marble basin. Green flowers in windows. Cozy, luxurious, and magical with soft green ambient lighting.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_DOROTHY_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_CHINA_WALL",
+      "ordinal": 3,
+      "location_header": "EXT. EDGE OF THE WOODS - DAY",
+      "visual_description": "A surreal landscape at the edge of a dark forest. A massive, pristine white wall blocks the path, gleaming like polished porcelain under the sun. It is perfectly smooth and higher than a person. The ground is grassy. Bright daylight contrasts with the dark woods behind. Whimsical, strange atmosphere.",
+      "metadata": {},
+      "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_CHINA_WALL.jpg"
+    }
+  ],
+  "subjects": [
+    "Oz (Imaginary place) -- Juvenile fiction",
+    "Fantasy literature",
+    "Courage -- Juvenile fiction",
+    "Home -- Juvenile fiction",
+    "Good and evil -- Juvenile fiction",
+    "Dreams -- Juvenile fiction",
+    "Gale, Dorothy (Fictitious character) -- Juvenile fiction",
+    "Cowardly Lion (Fictitious character) -- Juvenile fiction",
+    "Cyclones -- Juvenile fiction",
+    "Scarecrow (Fictitious character from Baum) -- Juvenile fiction",
+    "Toto (Fictitious character) -- Juvenile fiction",
+    "Witches -- Juvenile fiction",
+    "Wizard of Oz (Fictitious character) -- Juvenile fiction",
+    "Tin Woodman (Fictitious character) -- Juvenile fiction"
+  ]
+}
