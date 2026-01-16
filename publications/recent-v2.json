@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "generated_at": "2026-01-15T22:08:44Z",
+  "generated_at": "2026-01-16T13:10:27Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
+      "title": "Winnie-the-Pooh",
+      "author_names": "A. A. Milne",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "childrens",
+        "fantasy"
+      ],
+      "catalog_added_at": "2026-01-14T20:32:36Z",
+      "updated_at": "2026-01-16T13:10:27Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "0cb34ab862537d4e4589cf2615f9fcf030b4874b528c4f16d1017e21e422ce6f",
+      "file_size": 241288299,
+      "available_regions": [
+        "US"
+      ]
+    },
     {
       "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
       "title": "The Maltese Falcon",
@@ -219,29 +242,6 @@
         "AU",
         "NZ",
         "IE"
-      ]
-    },
-    {
-      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
-      "title": "Winnie-the-Pooh",
-      "author_names": "A. A. Milne",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "childrens",
-        "fantasy"
-      ],
-      "catalog_added_at": "2026-01-14T20:32:36Z",
-      "updated_at": "2026-01-15T02:48:37Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "d7f37decbd35afebc20be22399db310a7a1dad0bbae41aaa7dfc28859ad1e14b",
-      "file_size": 237541000,
-      "available_regions": [
-        "US"
       ]
     },
     {
