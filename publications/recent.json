@@ -1,5 +1,84 @@
 [
   {
+    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+    "title": "Daisy Miller: A Study",
+    "author_names": "Henry James",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "psychological"
+    ],
+    "catalog_added_at": "2026-01-11T23:22:58Z",
+    "updated_at": "2026-01-16T16:03:10Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "4b9c8594ef43912435b1930903443a16d6c7dcf51963ec121c8b7d128c73981e",
+    "file_size": 223421393,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
+    "title": "The Maltese Falcon",
+    "author_names": "Dashiell Hammett",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "mystery"
+    ],
+    "catalog_added_at": "2026-01-14T23:54:57Z",
+    "updated_at": "2026-01-16T15:59:19Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "9fea830abe63a24dfcba2470d387fd3c848f389a5bc9fc7027dd76494ffa6330",
+    "file_size": 522960455,
+    "available_regions": [
+      "US",
+      "CA",
+      "NZ"
+    ]
+  },
+  {
+    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+    "title": "The Wonderful Wizard of Oz",
+    "author_names": "L. Frank Baum",
+    "publication_type": "novel",
+    "genre_tags": [
+      "fantasy",
+      "childrens",
+      "adventure",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-11T22:28:39Z",
+    "updated_at": "2026-01-16T15:55:06Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "0db2fd13ced329b0b43b58677c22f1d1e740811e064f1067fb60d9e5b511073b",
+    "file_size": 428271281,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
     "title": "Winnie-the-Pooh",
     "author_names": "A. A. Milne",
@@ -20,29 +99,6 @@
     "file_size": 241288299,
     "available_regions": [
       "US"
-    ]
-  },
-  {
-    "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
-    "title": "The Maltese Falcon",
-    "author_names": "Dashiell Hammett",
-    "publication_type": "short_stories",
-    "genre_tags": [
-      "mystery"
-    ],
-    "catalog_added_at": "2026-01-14T23:54:57Z",
-    "updated_at": "2026-01-15T22:08:43Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "f1ffbe533855473397995d1357289cc2a195a9d3ece62d13f116defd3561ef6d",
-    "file_size": 522963218,
-    "available_regions": [
-      "US",
-      "CA",
-      "NZ"
     ]
   },
   {
@@ -101,35 +157,6 @@
     ]
   },
   {
-    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-    "title": "The Wonderful Wizard of Oz",
-    "author_names": "L. Frank Baum",
-    "publication_type": "novel",
-    "genre_tags": [
-      "fantasy",
-      "childrens",
-      "adventure",
-      "classics"
-    ],
-    "catalog_added_at": "2026-01-11T22:28:39Z",
-    "updated_at": "2026-01-15T19:09:50Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "d015814d54542427509c3495f293e3ac9d957ad8934e54a670af83cf41a51ab0",
-    "file_size": 428256425,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
     "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
     "title": "A Midsummer Night's Dream",
     "author_names": "William Shakespeare",
@@ -176,33 +203,6 @@
     "cover_url": null,
     "data_checksum": "dc17094a91f15340f4cd0767145b6cde59a8209b3efd03cc1eac4ab54867c111",
     "file_size": 79429284,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
-    "title": "Daisy Miller: A Study",
-    "author_names": "Henry James",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "psychological"
-    ],
-    "catalog_added_at": "2026-01-11T23:22:58Z",
-    "updated_at": "2026-01-15T02:55:04Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "859768b8ed82ac5a266569c929aadffdf6a981211da86224b0531be41c3692b2",
-    "file_size": 223254493,
     "available_regions": [
       "US",
       "CA",
