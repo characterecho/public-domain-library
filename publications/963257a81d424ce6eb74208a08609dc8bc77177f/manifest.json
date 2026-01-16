@@ -7,7 +7,7 @@
   "identifier": "963257a81d424ce6eb74208a08609dc8bc77177f",
   "publication_type": "novel",
   "cover_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/cover.png",
-  "total_duration_s": 12897.376621,
+  "total_duration_s": 12895.548049,
   "genre_tags": [
     "Classics",
     "Literary Fiction",
@@ -26,13 +26,13 @@
       "ordinal": 1,
       "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/audio_part_1.mp3",
       "start_s": 7.28,
-      "end_s": 4819.794558
+      "end_s": 4817.965986
     },
     {
       "ordinal": 2,
       "audio_key": "publications/963257a81d424ce6eb74208a08609dc8bc77177f/audio_part_2.mp3",
-      "start_s": 4819.794558,
-      "end_s": 12897.376621
+      "start_s": 4817.965986,
+      "end_s": 12895.548049
     }
   ],
   "segments": [
@@ -49,7 +49,7 @@
       "ordinal": 1,
       "title": "Part I",
       "start_s": 7.28,
-      "end_s": 4819.795,
+      "end_s": 4817.966,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -90,8 +90,8 @@
     {
       "ordinal": 2,
       "title": "Part II",
-      "start_s": 4819.795,
-      "end_s": 8948.589,
+      "start_s": 4817.966,
+      "end_s": 8946.761,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -132,8 +132,8 @@
     {
       "ordinal": 3,
       "title": "Part III",
-      "start_s": 8948.589,
-      "end_s": 12897.377,
+      "start_s": 8946.761,
+      "end_s": 12895.548,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
