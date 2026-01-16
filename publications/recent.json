@@ -1,5 +1,32 @@
 [
   {
+    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+    "title": "Daisy Miller: A Study",
+    "author_names": "Henry James",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "psychological"
+    ],
+    "catalog_added_at": "2026-01-11T23:22:58Z",
+    "updated_at": "2026-01-16T16:03:10Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "4b9c8594ef43912435b1930903443a16d6c7dcf51963ec121c8b7d128c73981e",
+    "file_size": 223421393,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
     "title": "The Maltese Falcon",
     "author_names": "Dashiell Hammett",
@@ -176,33 +203,6 @@
     "cover_url": null,
     "data_checksum": "dc17094a91f15340f4cd0767145b6cde59a8209b3efd03cc1eac4ab54867c111",
     "file_size": 79429284,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
-    "title": "Daisy Miller: A Study",
-    "author_names": "Henry James",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "psychological"
-    ],
-    "catalog_added_at": "2026-01-11T23:22:58Z",
-    "updated_at": "2026-01-15T02:55:04Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "859768b8ed82ac5a266569c929aadffdf6a981211da86224b0531be41c3692b2",
-    "file_size": 223254493,
     "available_regions": [
       "US",
       "CA",
