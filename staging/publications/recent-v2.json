@@ -1,8 +1,60 @@
 {
   "version": 2,
-  "generated_at": "2026-01-16T13:10:27Z",
+  "generated_at": "2026-01-16T15:59:19Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
+      "title": "The Maltese Falcon",
+      "author_names": "Dashiell Hammett",
+      "publication_type": "short_stories",
+      "genre_tags": [
+        "mystery"
+      ],
+      "catalog_added_at": "2026-01-14T23:54:57Z",
+      "updated_at": "2026-01-16T15:59:19Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "9fea830abe63a24dfcba2470d387fd3c848f389a5bc9fc7027dd76494ffa6330",
+      "file_size": 522960455,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ]
+    },
+    {
+      "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+      "title": "The Wonderful Wizard of Oz",
+      "author_names": "L. Frank Baum",
+      "publication_type": "novel",
+      "genre_tags": [
+        "fantasy",
+        "childrens",
+        "adventure",
+        "classics"
+      ],
+      "catalog_added_at": "2026-01-11T22:28:39Z",
+      "updated_at": "2026-01-16T15:55:06Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "0db2fd13ced329b0b43b58677c22f1d1e740811e064f1067fb60d9e5b511073b",
+      "file_size": 428271281,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ]
+    },
     {
       "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
       "title": "Winnie-the-Pooh",
@@ -24,29 +76,6 @@
       "file_size": 241288299,
       "available_regions": [
         "US"
-      ]
-    },
-    {
-      "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
-      "title": "The Maltese Falcon",
-      "author_names": "Dashiell Hammett",
-      "publication_type": "short_stories",
-      "genre_tags": [
-        "mystery"
-      ],
-      "catalog_added_at": "2026-01-14T23:54:57Z",
-      "updated_at": "2026-01-15T22:08:43Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "f1ffbe533855473397995d1357289cc2a195a9d3ece62d13f116defd3561ef6d",
-      "file_size": 522963218,
-      "available_regions": [
-        "US",
-        "CA",
-        "NZ"
       ]
     },
     {
@@ -95,35 +124,6 @@
       "cover_url": null,
       "data_checksum": "8f51e35bac4147be691910f27d5a11590826a0a8d083071371a2375ebdf6c240",
       "file_size": 345869915,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ]
-    },
-    {
-      "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-      "title": "The Wonderful Wizard of Oz",
-      "author_names": "L. Frank Baum",
-      "publication_type": "novel",
-      "genre_tags": [
-        "fantasy",
-        "childrens",
-        "adventure",
-        "classics"
-      ],
-      "catalog_added_at": "2026-01-11T22:28:39Z",
-      "updated_at": "2026-01-15T19:09:50Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "d015814d54542427509c3495f293e3ac9d957ad8934e54a670af83cf41a51ab0",
-      "file_size": 428256425,
       "available_regions": [
         "US",
         "CA",
