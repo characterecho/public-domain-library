@@ -1,32 +1,5 @@
 [
   {
-    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
-    "title": "Daisy Miller: A Study",
-    "author_names": "Henry James",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "psychological"
-    ],
-    "catalog_added_at": "2026-01-11T23:22:58Z",
-    "updated_at": "2026-01-16T16:03:10Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "4b9c8594ef43912435b1930903443a16d6c7dcf51963ec121c8b7d128c73981e",
-    "file_size": 223421393,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
     "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
     "title": "The Maltese Falcon",
     "author_names": "Dashiell Hammett",
@@ -35,14 +8,14 @@
       "mystery"
     ],
     "catalog_added_at": "2026-01-14T23:54:57Z",
-    "updated_at": "2026-01-16T15:59:19Z",
+    "updated_at": "2026-01-17T23:16:28Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "9fea830abe63a24dfcba2470d387fd3c848f389a5bc9fc7027dd76494ffa6330",
-    "file_size": 522960455,
+    "data_checksum": "95707e94d292d04ce6b4348ec28ee6b3eb74c6824fcef4300150a38fe4472b65",
+    "file_size": 523226471,
     "available_regions": [
       "US",
       "CA",
@@ -60,15 +33,97 @@
       "adventure",
       "classics"
     ],
-    "catalog_added_at": "2026-01-11T22:28:39Z",
-    "updated_at": "2026-01-16T15:55:06Z",
+    "catalog_added_at": "2026-01-16T15:55:06Z",
+    "updated_at": "2026-01-17T23:10:59Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "0db2fd13ced329b0b43b58677c22f1d1e740811e064f1067fb60d9e5b511073b",
-    "file_size": 428271281,
+    "data_checksum": "9445142ce7ba7b3805061f4bac2e4b1e3d11c93b30f734ec2a30186f76a9172e",
+    "file_size": 428587245,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
+    "title": "A Study in Scarlet",
+    "author_names": "Arthur Conan Doyle",
+    "publication_type": "novel",
+    "genre_tags": [
+      "mystery",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-16T15:38:49Z",
+    "updated_at": "2026-01-17T23:08:25Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "3fb495db19052e6628133640b76a0180fa33f72b953e6ef56f154a3e6c01190e",
+    "file_size": 405781696,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
+    "title": "A Midsummer Night's Dream",
+    "author_names": "William Shakespeare",
+    "publication_type": "play",
+    "genre_tags": [
+      "classics",
+      "comedy",
+      "romance"
+    ],
+    "catalog_added_at": "2026-01-11T23:28:29Z",
+    "updated_at": "2026-01-17T23:05:59Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "6af29e1d1945d045e5b9dd33c9a08db857022dd55d7c0416dc9c44f7e89511d9",
+    "file_size": 160633438,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
+    "title": "Daisy Miller: A Study",
+    "author_names": "Henry James",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "psychological"
+    ],
+    "catalog_added_at": "2026-01-11T23:22:58Z",
+    "updated_at": "2026-01-16T16:03:10Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "4b9c8594ef43912435b1930903443a16d6c7dcf51963ec121c8b7d128c73981e",
+    "file_size": 223421393,
     "available_regions": [
       "US",
       "CA",
@@ -147,34 +202,6 @@
     "cover_url": null,
     "data_checksum": "8f51e35bac4147be691910f27d5a11590826a0a8d083071371a2375ebdf6c240",
     "file_size": 345869915,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "759db4c17a42ab6cc39642ac4cfd7d24eeb4b03e",
-    "title": "A Midsummer Night's Dream",
-    "author_names": "William Shakespeare",
-    "publication_type": "play",
-    "genre_tags": [
-      "classics",
-      "comedy",
-      "romance"
-    ],
-    "catalog_added_at": "2026-01-11T23:28:29Z",
-    "updated_at": "2026-01-15T02:56:53Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "3552c3628c14eb5cf16bb2b02b0d57e82ae2bd1251a637e0796d97e5575a8ec4",
-    "file_size": 160318539,
     "available_regions": [
       "US",
       "CA",
