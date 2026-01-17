@@ -7,7 +7,7 @@
   "identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
   "publication_type": "novel",
   "cover_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.png",
-  "total_duration_s": 11657.593357,
+  "total_duration_s": 11657.51499,
   "genre_tags": [
     "Fantasy",
     "Children's Literature",
@@ -20,19 +20,19 @@
       "ordinal": 0,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3577.067415
+      "end_s": 3576.989048
     },
     {
       "ordinal": 1,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_1.mp3",
-      "start_s": 3577.067415,
-      "end_s": 6190.085352
+      "start_s": 3576.989048,
+      "end_s": 6190.006985
     },
     {
       "ordinal": 2,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_2.mp3",
-      "start_s": 6190.085352,
-      "end_s": 11657.593357
+      "start_s": 6190.006985,
+      "end_s": 11657.51499
     }
   ],
   "segments": [
@@ -83,7 +83,7 @@
       "ordinal": 3,
       "title": "Chapter III How Dorothy Saved the Scarecrow",
       "start_s": 995.692,
-      "end_s": 1585.72,
+      "end_s": 1585.642,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -104,8 +104,8 @@
     {
       "ordinal": 4,
       "title": "Chapter IV The Road Through the Forest",
-      "start_s": 1585.72,
-      "end_s": 2023.415,
+      "start_s": 1585.642,
+      "end_s": 2023.336,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -121,8 +121,8 @@
     {
       "ordinal": 5,
       "title": "Chapter V The Rescue of the Tin Woodman",
-      "start_s": 2023.415,
-      "end_s": 2614.477,
+      "start_s": 2023.336,
+      "end_s": 2614.399,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -138,8 +138,8 @@
     {
       "ordinal": 6,
       "title": "Chapter VI The Cowardly Lion",
-      "start_s": 2614.477,
-      "end_s": 3048.591,
+      "start_s": 2614.399,
+      "end_s": 3048.513,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -155,8 +155,8 @@
     {
       "ordinal": 7,
       "title": "Chapter VII The Journey to the Great Oz",
-      "start_s": 3048.591,
-      "end_s": 3577.067,
+      "start_s": 3048.513,
+      "end_s": 3576.989,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -172,8 +172,8 @@
     {
       "ordinal": 8,
       "title": "Chapter VIII The Deadly Poppy Field",
-      "start_s": 3577.067,
-      "end_s": 4137.907,
+      "start_s": 3576.989,
+      "end_s": 4137.828,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -194,8 +194,8 @@
     {
       "ordinal": 9,
       "title": "Chapter IX The Queen of the Field Mice",
-      "start_s": 4137.907,
-      "end_s": 4552.934,
+      "start_s": 4137.828,
+      "end_s": 4552.855,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -211,8 +211,8 @@
     {
       "ordinal": 10,
       "title": "Chapter X The Guardian of the Gate",
-      "start_s": 4552.934,
-      "end_s": 5123.225,
+      "start_s": 4552.855,
+      "end_s": 5123.146,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -238,8 +238,8 @@
     {
       "ordinal": 11,
       "title": "Chapter XI The Wonderful City of Oz",
-      "start_s": 5123.225,
-      "end_s": 6190.085,
+      "start_s": 5123.146,
+      "end_s": 6190.007,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -265,8 +265,8 @@
     {
       "ordinal": 12,
       "title": "Chapter XII The Search for the Wicked Witch",
-      "start_s": 6190.085,
-      "end_s": 7289.149,
+      "start_s": 6190.007,
+      "end_s": 7289.071,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -292,8 +292,8 @@
     {
       "ordinal": 13,
       "title": "Chapter XIII The Rescue",
-      "start_s": 7289.149,
-      "end_s": 7654.0,
+      "start_s": 7289.071,
+      "end_s": 7653.921,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -309,8 +309,8 @@
     {
       "ordinal": 14,
       "title": "Chapter XIV The Winged Monkeys",
-      "start_s": 7654.0,
-      "end_s": 8215.639,
+      "start_s": 7653.921,
+      "end_s": 8215.561,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -331,8 +331,8 @@
     {
       "ordinal": 15,
       "title": "Chapter XV The Discovery of Oz, the Terrible",
-      "start_s": 8215.639,
-      "end_s": 9011.602,
+      "start_s": 8215.561,
+      "end_s": 9011.523,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -348,8 +348,8 @@
     {
       "ordinal": 16,
       "title": "Chapter XVI The Magic Art of the Great Humbug",
-      "start_s": 9011.602,
-      "end_s": 9288.304,
+      "start_s": 9011.523,
+      "end_s": 9288.226,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -365,8 +365,8 @@
     {
       "ordinal": 17,
       "title": "Chapter XVII How the Balloon Was Launched",
-      "start_s": 9288.304,
-      "end_s": 9624.956,
+      "start_s": 9288.226,
+      "end_s": 9624.878,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -382,8 +382,8 @@
     {
       "ordinal": 18,
       "title": "Chapter XVIII Away to the South",
-      "start_s": 9624.956,
-      "end_s": 9946.145,
+      "start_s": 9624.878,
+      "end_s": 9946.067,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -399,8 +399,8 @@
     {
       "ordinal": 19,
       "title": "Chapter XIX Attacked by the Fighting Trees",
-      "start_s": 9946.145,
-      "end_s": 10247.968,
+      "start_s": 9946.067,
+      "end_s": 10247.889,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -431,8 +431,8 @@
     {
       "ordinal": 20,
       "title": "Chapter XX The Dainty China Country",
-      "start_s": 10247.968,
-      "end_s": 10704.852,
+      "start_s": 10247.889,
+      "end_s": 10704.774,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -448,8 +448,8 @@
     {
       "ordinal": 21,
       "title": "Chapter XXI The Lion Becomes the King of Beasts",
-      "start_s": 10704.852,
-      "end_s": 10977.817,
+      "start_s": 10704.774,
+      "end_s": 10977.738,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -465,8 +465,8 @@
     {
       "ordinal": 22,
       "title": "Chapter XXII The Country of the Quadlings",
-      "start_s": 10977.817,
-      "end_s": 11261.055,
+      "start_s": 10977.738,
+      "end_s": 11260.976,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -487,8 +487,8 @@
     {
       "ordinal": 23,
       "title": "Chapter XXIII Glinda The Good Witch Grants Dorothy’s Wish",
-      "start_s": 11261.055,
-      "end_s": 11628.182,
+      "start_s": 11260.976,
+      "end_s": 11628.103,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -509,8 +509,8 @@
     {
       "ordinal": 24,
       "title": "Chapter XXIV Home Again",
-      "start_s": 11628.182,
-      "end_s": 11657.593,
+      "start_s": 11628.103,
+      "end_s": 11657.515,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -1722,7 +1722,7 @@
       "identifier": "KANSAS_FARMHOUSE",
       "ordinal": 0,
       "location_header": "INT. FARMHOUSE - DAY",
-      "visual_description": "A humble one-room farmhouse interior on the Kansas prairie. Unpainted wooden walls and floorboards. A rusty cookstove stands near a cupboard of dishes. A trap door is visible in the floor. Harsh, flat light enters through the open doorway, revealing a gray landscape beyond. Rustic, weathered atmosphere.",
+      "visual_description": "A humble one-room farmhouse interior on the Kansas prairie. Unpainted wooden walls and floorboards. A rusty cookstove stands near a cupboard of dishes. A trap door is visible in the floor. Rustic, weathered atmosphere.",
       "metadata": {},
       "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_KANSAS_FARMHOUSE.jpg"
     },
