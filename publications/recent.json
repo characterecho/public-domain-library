@@ -1,5 +1,61 @@
 [
   {
+    "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
+    "title": "The Wind in the Willows",
+    "author_names": "Kenneth Grahame",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "childrens"
+    ],
+    "catalog_added_at": "2026-01-11T23:26:46Z",
+    "updated_at": "2026-01-18T16:38:13Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "b639be1148a20e2ac963e8e16cfa68f32cce00ad24f7bb7b053bcf8a50d723f0",
+    "file_size": 646175772,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+    "title": "The Wonderful Wizard of Oz",
+    "author_names": "L. Frank Baum",
+    "publication_type": "novel",
+    "genre_tags": [
+      "fantasy",
+      "childrens",
+      "adventure",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-16T15:55:06Z",
+    "updated_at": "2026-01-18T16:16:53Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "ffe4be5815dd6e294373a12a212c251b55097fabc882b403bbeed65083118239",
+    "file_size": 428528841,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
     "title": "A Study in Scarlet",
     "author_names": "Arthur Conan Doyle",
@@ -9,14 +65,14 @@
       "classics"
     ],
     "catalog_added_at": "2026-01-17T23:08:25Z",
-    "updated_at": "2026-01-18T03:37:38Z",
+    "updated_at": "2026-01-18T15:57:19Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "4baddc9952428502689563033e9841749dab5d4b9114609013a17d01f42e54dc",
-    "file_size": 405243887,
+    "data_checksum": "7d66de18fa99601f2976ebfbee358e8f3dd63530fc2c8098aa4ee32dd5f7d9b2",
+    "file_size": 405034775,
     "available_regions": [
       "US",
       "CA",
@@ -36,15 +92,43 @@
       "romance",
       "satire"
     ],
-    "catalog_added_at": "2026-01-15T17:28:05Z",
-    "updated_at": "2026-01-18T03:35:30Z",
+    "catalog_added_at": "2026-01-18T03:35:30Z",
+    "updated_at": "2026-01-18T15:54:57Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "95814f35c0428941f372ee5c7f3b7d4107549832f02b651d52379ab3b037fb1f",
-    "file_size": 932352902,
+    "data_checksum": "0bcf77696c1e4475b5ca4647c424fe55a19e2622f7ef374fb0c84a215cf7f8c7",
+    "file_size": 932161749,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
+    "title": "The Call of Cthulhu",
+    "author_names": "H. P. Lovecraft",
+    "publication_type": "novel",
+    "genre_tags": [
+      "horror",
+      "classics",
+      "mystery"
+    ],
+    "catalog_added_at": "2026-01-11T23:13:12Z",
+    "updated_at": "2026-01-18T15:46:46Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "d593d596b5f17c9b53d4f8cac51d0f3b4e2f59ae8a64f50d2aecb41446fa5348",
+    "file_size": 87058781,
     "available_regions": [
       "US",
       "CA",
@@ -75,35 +159,6 @@
       "US",
       "CA",
       "NZ"
-    ]
-  },
-  {
-    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-    "title": "The Wonderful Wizard of Oz",
-    "author_names": "L. Frank Baum",
-    "publication_type": "novel",
-    "genre_tags": [
-      "fantasy",
-      "childrens",
-      "adventure",
-      "classics"
-    ],
-    "catalog_added_at": "2026-01-16T15:55:06Z",
-    "updated_at": "2026-01-17T23:10:59Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "9445142ce7ba7b3805061f4bac2e4b1e3d11c93b30f734ec2a30186f76a9172e",
-    "file_size": 428587245,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
     ]
   },
   {
@@ -296,33 +351,6 @@
     ]
   },
   {
-    "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
-    "title": "The Wind in the Willows",
-    "author_names": "Kenneth Grahame",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "childrens"
-    ],
-    "catalog_added_at": "2026-01-11T23:26:46Z",
-    "updated_at": "2026-01-15T02:46:41Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "6bff99104492cf6d3c08fa97d5ef87221ae478f01d5de524b82c8361b206ec96",
-    "file_size": 646369867,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
     "publication_identifier": "9a7b728bb8f38efba9114f1c2d7e1732e85096b7",
     "title": "Romeo and Juliet",
     "author_names": "William Shakespeare",
@@ -341,34 +369,6 @@
     "cover_url": null,
     "data_checksum": "87ade07d2d5fc299611450efb7fbf8a2d65a1abedbbd7bcf117f14b7283dbb79",
     "file_size": 416099741,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "2541bb9789e75e6f6921c6ebbde321e460b19209",
-    "title": "The Call of Cthulhu",
-    "author_names": "H. P. Lovecraft",
-    "publication_type": "novel",
-    "genre_tags": [
-      "horror",
-      "classics",
-      "mystery"
-    ],
-    "catalog_added_at": "2026-01-11T23:13:12Z",
-    "updated_at": "2026-01-15T02:41:17Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "9de5b81bf7624baf43ccfbedaa963f6078938f6ee4b74262d4f410c925ff931e",
-    "file_size": 86723574,
     "available_regions": [
       "US",
       "CA",
