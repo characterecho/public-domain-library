@@ -7,7 +7,7 @@
   "identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
   "publication_type": "novel",
   "cover_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.png",
-  "total_duration_s": 11652.769886999999,
+  "total_duration_s": 11645.887324,
   "genre_tags": [
     "Fantasy",
     "Children's Literature",
@@ -20,19 +20,19 @@
       "ordinal": 0,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3576.716168
+      "end_s": 3571.766712
     },
     {
       "ordinal": 1,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_1.mp3",
-      "start_s": 3576.716168,
-      "end_s": 6189.7341049999995
+      "start_s": 3571.766712,
+      "end_s": 6182.851542
     },
     {
       "ordinal": 2,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_2.mp3",
-      "start_s": 6189.7341049999995,
-      "end_s": 11652.769886999999
+      "start_s": 6182.851542,
+      "end_s": 11645.887324
     }
   ],
   "segments": [
@@ -49,7 +49,7 @@
       "ordinal": 1,
       "title": "Chapter I The Cyclone",
       "start_s": 9.133,
-      "end_s": 385.328,
+      "end_s": 385.324,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -65,8 +65,8 @@
     {
       "ordinal": 2,
       "title": "Chapter II The Council with the Munchkins",
-      "start_s": 385.328,
-      "end_s": 995.307,
+      "start_s": 385.324,
+      "end_s": 995.296,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -82,8 +82,8 @@
     {
       "ordinal": 3,
       "title": "Chapter III How Dorothy Saved the Scarecrow",
-      "start_s": 995.307,
-      "end_s": 1585.467,
+      "start_s": 995.296,
+      "end_s": 1585.449,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -104,8 +104,8 @@
     {
       "ordinal": 4,
       "title": "Chapter IV The Road Through the Forest",
-      "start_s": 1585.467,
-      "end_s": 2023.164,
+      "start_s": 1585.449,
+      "end_s": 2022.538,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -121,8 +121,8 @@
     {
       "ordinal": 5,
       "title": "Chapter V The Rescue of the Tin Woodman",
-      "start_s": 2023.164,
-      "end_s": 2613.671,
+      "start_s": 2022.538,
+      "end_s": 2613.194,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -138,8 +138,8 @@
     {
       "ordinal": 6,
       "title": "Chapter VI The Cowardly Lion",
-      "start_s": 2613.671,
-      "end_s": 3047.748,
+      "start_s": 2613.194,
+      "end_s": 3047.173,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -155,8 +155,8 @@
     {
       "ordinal": 7,
       "title": "Chapter VII The Journey to the Great Oz",
-      "start_s": 3047.748,
-      "end_s": 3576.716,
+      "start_s": 3047.173,
+      "end_s": 3571.767,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -172,8 +172,8 @@
     {
       "ordinal": 8,
       "title": "Chapter VIII The Deadly Poppy Field",
-      "start_s": 3576.716,
-      "end_s": 4137.556,
+      "start_s": 3571.767,
+      "end_s": 4133.812,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -194,8 +194,8 @@
     {
       "ordinal": 9,
       "title": "Chapter IX The Queen of the Field Mice",
-      "start_s": 4137.556,
-      "end_s": 4552.582,
+      "start_s": 4133.812,
+      "end_s": 4547.947,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -211,8 +211,8 @@
     {
       "ordinal": 10,
       "title": "Chapter X The Guardian of the Gate",
-      "start_s": 4552.582,
-      "end_s": 5122.873,
+      "start_s": 4547.947,
+      "end_s": 5115.991,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -238,8 +238,8 @@
     {
       "ordinal": 11,
       "title": "Chapter XI The Wonderful City of Oz",
-      "start_s": 5122.873,
-      "end_s": 6189.734,
+      "start_s": 5115.991,
+      "end_s": 6182.852,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -265,8 +265,8 @@
     {
       "ordinal": 12,
       "title": "Chapter XII The Search for the Wicked Witch",
-      "start_s": 6189.734,
-      "end_s": 7288.691,
+      "start_s": 6182.852,
+      "end_s": 7281.808,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -292,8 +292,8 @@
     {
       "ordinal": 13,
       "title": "Chapter XIII The Rescue",
-      "start_s": 7288.691,
-      "end_s": 7653.54,
+      "start_s": 7281.808,
+      "end_s": 7646.658,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -309,8 +309,8 @@
     {
       "ordinal": 14,
       "title": "Chapter XIV The Winged Monkeys",
-      "start_s": 7653.54,
-      "end_s": 8215.178,
+      "start_s": 7646.658,
+      "end_s": 8208.296,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -331,8 +331,8 @@
     {
       "ordinal": 15,
       "title": "Chapter XV The Discovery of Oz, the Terrible",
-      "start_s": 8215.178,
-      "end_s": 9009.788,
+      "start_s": 8208.296,
+      "end_s": 9002.906,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -348,8 +348,8 @@
     {
       "ordinal": 16,
       "title": "Chapter XVI The Magic Art of the Great Humbug",
-      "start_s": 9009.788,
-      "end_s": 9286.49,
+      "start_s": 9002.906,
+      "end_s": 9279.607,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -365,8 +365,8 @@
     {
       "ordinal": 17,
       "title": "Chapter XVII How the Balloon Was Launched",
-      "start_s": 9286.49,
-      "end_s": 9623.141,
+      "start_s": 9279.607,
+      "end_s": 9616.258,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -382,8 +382,8 @@
     {
       "ordinal": 18,
       "title": "Chapter XVIII Away to the South",
-      "start_s": 9623.141,
-      "end_s": 9944.328,
+      "start_s": 9616.258,
+      "end_s": 9937.446,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -399,8 +399,8 @@
     {
       "ordinal": 19,
       "title": "Chapter XIX Attacked by the Fighting Trees",
-      "start_s": 9944.328,
-      "end_s": 10246.505,
+      "start_s": 9937.446,
+      "end_s": 10239.622,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -431,8 +431,8 @@
     {
       "ordinal": 20,
       "title": "Chapter XX The Dainty China Country",
-      "start_s": 10246.505,
-      "end_s": 10700.032,
+      "start_s": 10239.622,
+      "end_s": 10693.149,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -448,8 +448,8 @@
     {
       "ordinal": 21,
       "title": "Chapter XXI The Lion Becomes the King of Beasts",
-      "start_s": 10700.032,
-      "end_s": 10972.996,
+      "start_s": 10693.149,
+      "end_s": 10966.113,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -465,8 +465,8 @@
     {
       "ordinal": 22,
       "title": "Chapter XXII The Country of the Quadlings",
-      "start_s": 10972.996,
-      "end_s": 11256.232,
+      "start_s": 10966.113,
+      "end_s": 11249.35,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -487,8 +487,8 @@
     {
       "ordinal": 23,
       "title": "Chapter XXIII Glinda The Good Witch Grants Dorothy’s Wish",
-      "start_s": 11256.232,
-      "end_s": 11623.358,
+      "start_s": 11249.35,
+      "end_s": 11616.476,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -509,8 +509,8 @@
     {
       "ordinal": 24,
       "title": "Chapter XXIV Home Again",
-      "start_s": 11623.358,
-      "end_s": 11652.77,
+      "start_s": 11616.476,
+      "end_s": 11645.887,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
