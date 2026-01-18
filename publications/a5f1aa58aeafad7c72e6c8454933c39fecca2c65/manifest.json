@@ -7,7 +7,7 @@
   "identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
   "publication_type": "novel",
   "cover_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/cover.png",
-  "total_duration_s": 13427.667279000001,
+  "total_duration_s": 13414.979003,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective",
@@ -26,19 +26,19 @@
       "ordinal": 1,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_1.mp3",
       "start_s": 3212.262268,
-      "end_s": 6703.097143
+      "end_s": 6703.8096829999995
     },
     {
       "ordinal": 2,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_2.mp3",
-      "start_s": 6703.097143,
-      "end_s": 9341.32356
+      "start_s": 6703.8096829999995,
+      "end_s": 9328.818141
     },
     {
       "ordinal": 3,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_3.mp3",
-      "start_s": 9341.32356,
-      "end_s": 13427.667279000001
+      "start_s": 9328.818141,
+      "end_s": 13414.979003
     }
   ],
   "segments": [
@@ -138,7 +138,7 @@
       "ordinal": 5,
       "title": "CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
       "start_s": 3212.262,
-      "end_s": 3934.536,
+      "end_s": 3934.534,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -159,8 +159,8 @@
     {
       "ordinal": 6,
       "title": "CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.",
-      "start_s": 3934.536,
-      "end_s": 4708.842,
+      "start_s": 3934.534,
+      "end_s": 4708.837,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -176,8 +176,8 @@
     {
       "ordinal": 7,
       "title": "CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.",
-      "start_s": 4708.842,
-      "end_s": 5717.36,
+      "start_s": 4708.837,
+      "end_s": 5718.076,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -193,8 +193,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VII. LIGHT IN THE DARKNESS.",
-      "start_s": 5717.36,
-      "end_s": 6699.639,
+      "start_s": 5718.076,
+      "end_s": 6700.352,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -210,8 +210,8 @@
     {
       "ordinal": 9,
       "title": "PART II. The Country of the Saints.",
-      "start_s": 6699.639,
-      "end_s": 6703.097,
+      "start_s": 6700.352,
+      "end_s": 6703.81,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -219,8 +219,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER I. ON THE GREAT ALKALI PLAIN.",
-      "start_s": 6703.097,
-      "end_s": 7908.791,
+      "start_s": 6703.81,
+      "end_s": 7896.291,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -236,8 +236,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER II. THE FLOWER OF UTAH.",
-      "start_s": 7908.791,
-      "end_s": 8754.122,
+      "start_s": 7896.291,
+      "end_s": 8741.619,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -263,8 +263,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.",
-      "start_s": 8754.122,
-      "end_s": 9341.324,
+      "start_s": 8741.619,
+      "end_s": 9328.818,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -280,8 +280,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER IV. A FLIGHT FOR LIFE.",
-      "start_s": 9341.324,
-      "end_s": 10366.396,
+      "start_s": 9328.818,
+      "end_s": 10353.89,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -312,8 +312,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER V. THE AVENGING ANGELS.",
-      "start_s": 10366.396,
-      "end_s": 11508.376,
+      "start_s": 10353.89,
+      "end_s": 11495.871,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -339,8 +339,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-      "start_s": 11508.376,
-      "end_s": 12793.719,
+      "start_s": 11495.871,
+      "end_s": 12781.214,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -361,8 +361,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER VII. THE CONCLUSION.",
-      "start_s": 12793.719,
-      "end_s": 13427.667,
+      "start_s": 12781.214,
+      "end_s": 13414.979,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
