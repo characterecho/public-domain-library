@@ -1,8 +1,37 @@
 {
   "version": 2,
-  "generated_at": "2026-01-18T16:53:35Z",
+  "generated_at": "2026-01-18T18:55:01Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+      "title": "The Wonderful Wizard of Oz",
+      "author_names": "L. Frank Baum",
+      "publication_type": "novel",
+      "genre_tags": [
+        "fantasy",
+        "childrens",
+        "adventure",
+        "classics"
+      ],
+      "catalog_added_at": "2026-01-16T15:55:06Z",
+      "updated_at": "2026-01-18T18:55:01Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "4a3398e0ef27dbb2a19a5f247075059097955e46c11c5114f68f817d5e5f0146",
+      "file_size": 428497883,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ]
+    },
     {
       "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
       "title": "The Wind in the Willows",
@@ -21,35 +50,6 @@
       "cover_url": null,
       "data_checksum": "0b0b9ca61efdae3d960a7b0fa2626c4e549c301e28437897abfcabd4be11e116",
       "file_size": 646214717,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ]
-    },
-    {
-      "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-      "title": "The Wonderful Wizard of Oz",
-      "author_names": "L. Frank Baum",
-      "publication_type": "novel",
-      "genre_tags": [
-        "fantasy",
-        "childrens",
-        "adventure",
-        "classics"
-      ],
-      "catalog_added_at": "2026-01-16T15:55:06Z",
-      "updated_at": "2026-01-18T16:16:53Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "ffe4be5815dd6e294373a12a212c251b55097fabc882b403bbeed65083118239",
-      "file_size": 428528841,
       "available_regions": [
         "US",
         "CA",
