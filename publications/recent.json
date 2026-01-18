@@ -1,5 +1,34 @@
 [
   {
+    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+    "title": "The Wonderful Wizard of Oz",
+    "author_names": "L. Frank Baum",
+    "publication_type": "novel",
+    "genre_tags": [
+      "fantasy",
+      "childrens",
+      "adventure",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-16T15:55:06Z",
+    "updated_at": "2026-01-18T16:16:53Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "ffe4be5815dd6e294373a12a212c251b55097fabc882b403bbeed65083118239",
+    "file_size": 428528841,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
     "title": "A Study in Scarlet",
     "author_names": "Arthur Conan Doyle",
@@ -130,35 +159,6 @@
       "US",
       "CA",
       "NZ"
-    ]
-  },
-  {
-    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-    "title": "The Wonderful Wizard of Oz",
-    "author_names": "L. Frank Baum",
-    "publication_type": "novel",
-    "genre_tags": [
-      "fantasy",
-      "childrens",
-      "adventure",
-      "classics"
-    ],
-    "catalog_added_at": "2026-01-16T15:55:06Z",
-    "updated_at": "2026-01-17T23:10:59Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "9445142ce7ba7b3805061f4bac2e4b1e3d11c93b30f734ec2a30186f76a9172e",
-    "file_size": 428587245,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
     ]
   },
   {
