@@ -1,5 +1,32 @@
 [
   {
+    "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
+    "title": "The Wind in the Willows",
+    "author_names": "Kenneth Grahame",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "childrens"
+    ],
+    "catalog_added_at": "2026-01-11T23:26:46Z",
+    "updated_at": "2026-01-18T16:38:13Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "b639be1148a20e2ac963e8e16cfa68f32cce00ad24f7bb7b053bcf8a50d723f0",
+    "file_size": 646175772,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
     "title": "The Wonderful Wizard of Oz",
     "author_names": "L. Frank Baum",
@@ -74,33 +101,6 @@
     "cover_url": null,
     "data_checksum": "0bcf77696c1e4475b5ca4647c424fe55a19e2622f7ef374fb0c84a215cf7f8c7",
     "file_size": 932161749,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
-    "title": "The Wind in the Willows",
-    "author_names": "Kenneth Grahame",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "childrens"
-    ],
-    "catalog_added_at": "2026-01-11T23:26:46Z",
-    "updated_at": "2026-01-18T15:49:24Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "b24f58031e4ed7dd3a396dc73e06cb0eddf5dbe0e37c9c8b09711a6a301a7347",
-    "file_size": 646596164,
     "available_regions": [
       "US",
       "CA",
