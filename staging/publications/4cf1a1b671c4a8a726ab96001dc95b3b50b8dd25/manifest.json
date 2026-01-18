@@ -7,7 +7,7 @@
   "identifier": "4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25",
   "publication_type": "novel",
   "cover_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/cover.png",
-  "total_duration_s": 18573.789728,
+  "total_duration_s": 18569.296666,
   "genre_tags": [
     "Classics",
     "Children's Literature",
@@ -20,37 +20,37 @@
       "ordinal": 0,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2696.891293
+      "end_s": 2692.398231
     },
     {
       "ordinal": 1,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_1.mp3",
-      "start_s": 2696.891293,
-      "end_s": 5564.406191
+      "start_s": 2692.398231,
+      "end_s": 5559.9131290000005
     },
     {
       "ordinal": 2,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_2.mp3",
-      "start_s": 5564.406191,
-      "end_s": 8656.714014000001
+      "start_s": 5559.9131290000005,
+      "end_s": 8652.220952
     },
     {
       "ordinal": 3,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_3.mp3",
-      "start_s": 8656.714014000001,
-      "end_s": 11422.077166000001
+      "start_s": 8652.220952,
+      "end_s": 11417.584104
     },
     {
       "ordinal": 4,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_4.mp3",
-      "start_s": 11422.077166000001,
-      "end_s": 13316.166939
+      "start_s": 11417.584104,
+      "end_s": 13311.673877
     },
     {
       "ordinal": 5,
       "audio_key": "publications/4cf1a1b671c4a8a726ab96001dc95b3b50b8dd25/audio_part_5.mp3",
-      "start_s": 13316.166939,
-      "end_s": 18573.789728
+      "start_s": 13311.673877,
+      "end_s": 18569.296666
     }
   ],
   "segments": [
@@ -67,7 +67,7 @@
       "ordinal": 1,
       "title": "I. THE RIVER BANK",
       "start_s": 6.459,
-      "end_s": 1345.528,
+      "end_s": 1341.037,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -103,8 +103,8 @@
     {
       "ordinal": 2,
       "title": "II. THE OPEN ROAD",
-      "start_s": 1345.528,
-      "end_s": 2696.891,
+      "start_s": 1341.037,
+      "end_s": 2692.398,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -140,8 +140,8 @@
     {
       "ordinal": 3,
       "title": "III. THE WILD WOOD",
-      "start_s": 2696.891,
-      "end_s": 4068.573,
+      "start_s": 2692.398,
+      "end_s": 4064.08,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -172,8 +172,8 @@
     {
       "ordinal": 4,
       "title": "IV. MR. BADGER",
-      "start_s": 4068.573,
-      "end_s": 5564.406,
+      "start_s": 4064.08,
+      "end_s": 5559.913,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -204,8 +204,8 @@
     {
       "ordinal": 5,
       "title": "V. DULCE DOMUM",
-      "start_s": 5564.406,
-      "end_s": 7246.065,
+      "start_s": 5559.913,
+      "end_s": 7241.572,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -226,8 +226,8 @@
     {
       "ordinal": 6,
       "title": "VI. MR. TOAD",
-      "start_s": 7246.065,
-      "end_s": 8656.714,
+      "start_s": 7241.572,
+      "end_s": 8652.221,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -258,8 +258,8 @@
     {
       "ordinal": 7,
       "title": "VII. THE PIPER AT THE GATES OF DAWN",
-      "start_s": 8656.714,
-      "end_s": 9866.762,
+      "start_s": 8652.221,
+      "end_s": 9862.269,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -285,8 +285,8 @@
     {
       "ordinal": 8,
       "title": "VIII. TOAD’S ADVENTURES",
-      "start_s": 9866.762,
-      "end_s": 11422.077,
+      "start_s": 9862.269,
+      "end_s": 11417.584,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -317,8 +317,8 @@
     {
       "ordinal": 9,
       "title": "IX. WAYFARERS ALL",
-      "start_s": 11422.077,
-      "end_s": 13316.167,
+      "start_s": 11417.584,
+      "end_s": 13311.674,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -349,8 +349,8 @@
     {
       "ordinal": 10,
       "title": "X. THE FURTHER ADVENTURES OF TOAD",
-      "start_s": 13316.167,
-      "end_s": 15146.289,
+      "start_s": 13311.674,
+      "end_s": 15141.796,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -391,8 +391,8 @@
     {
       "ordinal": 11,
       "title": "XI. “LIKE SUMMER TEMPESTS CAME HIS TEARS”",
-      "start_s": 15146.289,
-      "end_s": 17054.36,
+      "start_s": 15141.796,
+      "end_s": 17049.867,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -413,8 +413,8 @@
     {
       "ordinal": 12,
       "title": "XII. THE RETURN OF ULYSSES",
-      "start_s": 17054.36,
-      "end_s": 18573.79,
+      "start_s": 17049.867,
+      "end_s": 18569.297,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
