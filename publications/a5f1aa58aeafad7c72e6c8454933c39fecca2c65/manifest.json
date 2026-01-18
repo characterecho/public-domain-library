@@ -7,7 +7,7 @@
   "identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
   "publication_type": "novel",
   "cover_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/cover.png",
-  "total_duration_s": 13462.695079000001,
+  "total_duration_s": 13427.667279000001,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective",
@@ -20,25 +20,25 @@
       "ordinal": 0,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3247.290068
+      "end_s": 3212.262268
     },
     {
       "ordinal": 1,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_1.mp3",
-      "start_s": 3247.290068,
-      "end_s": 6738.124943
+      "start_s": 3212.262268,
+      "end_s": 6703.097143
     },
     {
       "ordinal": 2,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_2.mp3",
-      "start_s": 6738.124943,
-      "end_s": 9376.35136
+      "start_s": 6703.097143,
+      "end_s": 9341.32356
     },
     {
       "ordinal": 3,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_3.mp3",
-      "start_s": 9376.35136,
-      "end_s": 13462.695079000001
+      "start_s": 9341.32356,
+      "end_s": 13427.667279000001
     }
   ],
   "segments": [
@@ -72,7 +72,7 @@
       "ordinal": 2,
       "title": "CHAPTER I. MR. SHERLOCK HOLMES.",
       "start_s": 16.285,
-      "end_s": 860.925,
+      "end_s": 857.611,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -98,8 +98,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER II. THE SCIENCE OF DEDUCTION.",
-      "start_s": 860.925,
-      "end_s": 2043.13,
+      "start_s": 857.611,
+      "end_s": 2008.124,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -115,8 +115,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER III. THE LAURISTON GARDENS MYSTERY",
-      "start_s": 2043.13,
-      "end_s": 3247.29,
+      "start_s": 2008.124,
+      "end_s": 3212.262,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -137,8 +137,8 @@
     {
       "ordinal": 5,
       "title": "CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
-      "start_s": 3247.29,
-      "end_s": 3969.564,
+      "start_s": 3212.262,
+      "end_s": 3934.536,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -159,8 +159,8 @@
     {
       "ordinal": 6,
       "title": "CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.",
-      "start_s": 3969.564,
-      "end_s": 4743.87,
+      "start_s": 3934.536,
+      "end_s": 4708.842,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -176,8 +176,8 @@
     {
       "ordinal": 7,
       "title": "CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.",
-      "start_s": 4743.87,
-      "end_s": 5752.388,
+      "start_s": 4708.842,
+      "end_s": 5717.36,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -193,8 +193,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VII. LIGHT IN THE DARKNESS.",
-      "start_s": 5752.388,
-      "end_s": 6734.667,
+      "start_s": 5717.36,
+      "end_s": 6699.639,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -210,8 +210,8 @@
     {
       "ordinal": 9,
       "title": "PART II. The Country of the Saints.",
-      "start_s": 6734.667,
-      "end_s": 6738.125,
+      "start_s": 6699.639,
+      "end_s": 6703.097,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -219,8 +219,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER I. ON THE GREAT ALKALI PLAIN.",
-      "start_s": 6738.125,
-      "end_s": 7943.819,
+      "start_s": 6703.097,
+      "end_s": 7908.791,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -236,8 +236,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER II. THE FLOWER OF UTAH.",
-      "start_s": 7943.819,
-      "end_s": 8789.15,
+      "start_s": 7908.791,
+      "end_s": 8754.122,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -263,8 +263,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.",
-      "start_s": 8789.15,
-      "end_s": 9376.351,
+      "start_s": 8754.122,
+      "end_s": 9341.324,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -280,8 +280,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER IV. A FLIGHT FOR LIFE.",
-      "start_s": 9376.351,
-      "end_s": 10401.424,
+      "start_s": 9341.324,
+      "end_s": 10366.396,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -312,8 +312,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER V. THE AVENGING ANGELS.",
-      "start_s": 10401.424,
-      "end_s": 11543.404,
+      "start_s": 10366.396,
+      "end_s": 11508.376,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -339,8 +339,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-      "start_s": 11543.404,
-      "end_s": 12828.747,
+      "start_s": 11508.376,
+      "end_s": 12793.719,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -361,8 +361,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER VII. THE CONCLUSION.",
-      "start_s": 12828.747,
-      "end_s": 13462.695,
+      "start_s": 12793.719,
+      "end_s": 13427.667,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -403,7 +403,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 414,
+      "dialogue_count": 413,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_H_WATSON.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_H_WATSON.mp3"
     },

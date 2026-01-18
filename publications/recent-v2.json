@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-01-18T00:38:37Z",
+  "generated_at": "2026-01-18T03:37:38Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
     {
@@ -13,14 +13,42 @@
         "classics"
       ],
       "catalog_added_at": "2026-01-17T23:08:25Z",
-      "updated_at": "2026-01-18T00:38:37Z",
+      "updated_at": "2026-01-18T03:37:38Z",
       "duration": {
         "total_ms": 0,
         "formatted": "0m"
       },
       "cover_url": null,
-      "data_checksum": "31494297145478007f0829e3134208b7ba437ea1b95abeacca439df88a9559b6",
-      "file_size": 405787840,
+      "data_checksum": "4baddc9952428502689563033e9841749dab5d4b9114609013a17d01f42e54dc",
+      "file_size": 405243887,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ]
+    },
+    {
+      "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
+      "title": "Pride and Prejudice",
+      "author_names": "Jane Austen",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "satire"
+      ],
+      "catalog_added_at": "2026-01-15T17:28:05Z",
+      "updated_at": "2026-01-18T03:35:30Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "95814f35c0428941f372ee5c7f3b7d4107549832f02b651d52379ab3b037fb1f",
+      "file_size": 932352902,
       "available_regions": [
         "US",
         "CA",
