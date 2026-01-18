@@ -7,7 +7,7 @@
   "identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
   "publication_type": "novel",
   "cover_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/cover.png",
-  "total_duration_s": 36621.822064,
+  "total_duration_s": 36562.818525,
   "genre_tags": [
     "Classics",
     "Romance",
@@ -20,67 +20,67 @@
       "ordinal": 0,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3521.783583
+      "end_s": 3520.869297
     },
     {
       "ordinal": 1,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_1.mp3",
-      "start_s": 3521.783583,
-      "end_s": 6735.459819
+      "start_s": 3520.869297,
+      "end_s": 6734.545533
     },
     {
       "ordinal": 2,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_2.mp3",
-      "start_s": 6735.459819,
-      "end_s": 9808.149524
+      "start_s": 6734.545533,
+      "end_s": 9806.235238000001
     },
     {
       "ordinal": 3,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_3.mp3",
-      "start_s": 9808.149524,
-      "end_s": 13313.850431
+      "start_s": 9806.235238000001,
+      "end_s": 13287.041451000001
     },
     {
       "ordinal": 4,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_4.mp3",
-      "start_s": 13313.850431,
-      "end_s": 16490.612721
+      "start_s": 13287.041451000001,
+      "end_s": 16463.803741
     },
     {
       "ordinal": 5,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_5.mp3",
-      "start_s": 16490.612721,
-      "end_s": 19823.287143
+      "start_s": 16463.803741,
+      "end_s": 19795.05297
     },
     {
       "ordinal": 6,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_6.mp3",
-      "start_s": 19823.287143,
-      "end_s": 22458.563991000003
+      "start_s": 19795.05297,
+      "end_s": 22423.195963000002
     },
     {
       "ordinal": 7,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_7.mp3",
-      "start_s": 22458.563991000003,
-      "end_s": 25236.065057000003
+      "start_s": 22423.195963000002,
+      "end_s": 25187.737278
     },
     {
       "ordinal": 8,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_8.mp3",
-      "start_s": 25236.065057000003,
-      "end_s": 28617.609116000003
+      "start_s": 25187.737278,
+      "end_s": 28569.281337
     },
     {
       "ordinal": 9,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_9.mp3",
-      "start_s": 28617.609116000003,
-      "end_s": 31755.305715000002
+      "start_s": 28569.281337,
+      "end_s": 31705.724058
     },
     {
       "ordinal": 10,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_10.mp3",
-      "start_s": 31755.305715000002,
-      "end_s": 36621.822064
+      "start_s": 31705.724058,
+      "end_s": 36562.818525
     }
   ],
   "segments": [
@@ -131,7 +131,7 @@
       "ordinal": 3,
       "title": "CHAPTER III.",
       "start_s": 483.081,
-      "end_s": 996.059,
+      "end_s": 996.058,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -157,8 +157,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER IV.",
-      "start_s": 996.059,
-      "end_s": 1324.697,
+      "start_s": 996.058,
+      "end_s": 1324.696,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -174,7 +174,7 @@
     {
       "ordinal": 5,
       "title": "CHAPTER V.",
-      "start_s": 1324.697,
+      "start_s": 1324.696,
       "end_s": 1607.73,
       "part_ordinal": 0,
       "metadata": {
@@ -214,7 +214,7 @@
       "ordinal": 7,
       "title": "CHAPTER VII.",
       "start_s": 2334.806,
-      "end_s": 2943.594,
+      "end_s": 2942.68,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -235,8 +235,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VIII.",
-      "start_s": 2943.594,
-      "end_s": 3521.784,
+      "start_s": 2942.68,
+      "end_s": 3520.869,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -257,8 +257,8 @@
     {
       "ordinal": 9,
       "title": "CHAPTER IX.",
-      "start_s": 3521.784,
-      "end_s": 4024.107,
+      "start_s": 3520.869,
+      "end_s": 4023.192,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -274,8 +274,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER X.",
-      "start_s": 4024.107,
-      "end_s": 4625.136,
+      "start_s": 4023.192,
+      "end_s": 4624.222,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -296,8 +296,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER XI.",
-      "start_s": 4625.136,
-      "end_s": 5113.878,
+      "start_s": 4624.222,
+      "end_s": 5112.963,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -313,8 +313,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER XII.",
-      "start_s": 5113.878,
-      "end_s": 5322.507,
+      "start_s": 5112.963,
+      "end_s": 5321.593,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -335,8 +335,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER XIII",
-      "start_s": 5322.507,
-      "end_s": 5835.246,
+      "start_s": 5321.593,
+      "end_s": 5834.332,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -352,8 +352,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER XIV",
-      "start_s": 5835.246,
-      "end_s": 6200.123,
+      "start_s": 5834.332,
+      "end_s": 6199.208,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -374,8 +374,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER XV.",
-      "start_s": 6200.123,
-      "end_s": 6735.46,
+      "start_s": 6199.208,
+      "end_s": 6734.546,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -401,8 +401,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER XVI.",
-      "start_s": 6735.46,
-      "end_s": 7785.677,
+      "start_s": 6734.546,
+      "end_s": 7784.763,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -418,8 +418,8 @@
     {
       "ordinal": 17,
       "title": "CHAPTER XVII.",
-      "start_s": 7785.677,
-      "end_s": 8190.895,
+      "start_s": 7784.763,
+      "end_s": 8189.981,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -440,8 +440,8 @@
     {
       "ordinal": 18,
       "title": "CHAPTER XVIII.",
-      "start_s": 8190.895,
-      "end_s": 9808.15,
+      "start_s": 8189.981,
+      "end_s": 9806.235,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -462,8 +462,8 @@
     {
       "ordinal": 19,
       "title": "CHAPTER XIX.",
-      "start_s": 9808.15,
-      "end_s": 10401.49,
+      "start_s": 9806.235,
+      "end_s": 10399.573,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -479,8 +479,8 @@
     {
       "ordinal": 20,
       "title": "CHAPTER XX.",
-      "start_s": 10401.49,
-      "end_s": 10918.052,
+      "start_s": 10399.573,
+      "end_s": 10916.133,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -501,8 +501,8 @@
     {
       "ordinal": 21,
       "title": "CHAPTER XXI.",
-      "start_s": 10918.052,
-      "end_s": 11541.636,
+      "start_s": 10916.133,
+      "end_s": 11539.713,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -518,8 +518,8 @@
     {
       "ordinal": 22,
       "title": "CHAPTER XXII.",
-      "start_s": 11541.636,
-      "end_s": 11688.388,
+      "start_s": 11539.713,
+      "end_s": 11686.465,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -540,8 +540,8 @@
     {
       "ordinal": 23,
       "title": "CHAPTER XXIII.",
-      "start_s": 11688.388,
-      "end_s": 12194.556,
+      "start_s": 11686.465,
+      "end_s": 12192.63,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -557,8 +557,8 @@
     {
       "ordinal": 24,
       "title": "CHAPTER XXIV.",
-      "start_s": 12194.556,
-      "end_s": 12828.274,
+      "start_s": 12192.63,
+      "end_s": 12801.467,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -574,8 +574,8 @@
     {
       "ordinal": 25,
       "title": "CHAPTER XXV.",
-      "start_s": 12828.274,
-      "end_s": 13313.85,
+      "start_s": 12801.467,
+      "end_s": 13287.041,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -596,8 +596,8 @@
     {
       "ordinal": 26,
       "title": "CHAPTER XXVI.",
-      "start_s": 13313.85,
-      "end_s": 14042.207,
+      "start_s": 13287.041,
+      "end_s": 14015.398,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -613,8 +613,8 @@
     {
       "ordinal": 27,
       "title": " CHAPTER XXVII.",
-      "start_s": 14042.207,
-      "end_s": 14445.927,
+      "start_s": 14015.398,
+      "end_s": 14419.118,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -635,8 +635,8 @@
     {
       "ordinal": 28,
       "title": "CHAPTER XXVIII.",
-      "start_s": 14445.927,
-      "end_s": 14888.976,
+      "start_s": 14419.118,
+      "end_s": 14862.167,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -657,8 +657,8 @@
     {
       "ordinal": 29,
       "title": "CHAPTER XXIX.",
-      "start_s": 14888.976,
-      "end_s": 15634.127,
+      "start_s": 14862.167,
+      "end_s": 15607.318,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -679,8 +679,8 @@
     {
       "ordinal": 30,
       "title": "CHAPTER XXX.",
-      "start_s": 15634.127,
-      "end_s": 16010.358,
+      "start_s": 15607.318,
+      "end_s": 15983.549,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -696,8 +696,8 @@
     {
       "ordinal": 31,
       "title": "CHAPTER XXXI.",
-      "start_s": 16010.358,
-      "end_s": 16490.613,
+      "start_s": 15983.549,
+      "end_s": 16463.804,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -713,8 +713,8 @@
     {
       "ordinal": 32,
       "title": "CHAPTER XXXII.",
-      "start_s": 16490.613,
-      "end_s": 16954.413,
+      "start_s": 16463.804,
+      "end_s": 16927.602,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -730,8 +730,8 @@
     {
       "ordinal": 33,
       "title": "CHAPTER XXXIII.",
-      "start_s": 16954.413,
-      "end_s": 17512.003,
+      "start_s": 16927.602,
+      "end_s": 17485.19,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -752,8 +752,8 @@
     {
       "ordinal": 34,
       "title": "CHAPTER XXXIV.",
-      "start_s": 17512.003,
-      "end_s": 18173.853,
+      "start_s": 17485.19,
+      "end_s": 18145.626,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -769,8 +769,8 @@
     {
       "ordinal": 35,
       "title": " CHAPTER XXXV.",
-      "start_s": 18173.853,
-      "end_s": 19167.333,
+      "start_s": 18145.626,
+      "end_s": 19139.102,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -786,8 +786,8 @@
     {
       "ordinal": 36,
       "title": "CHAPTER XXXVI.",
-      "start_s": 19167.333,
-      "end_s": 19393.204,
+      "start_s": 19139.102,
+      "end_s": 19364.971,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -803,8 +803,8 @@
     {
       "ordinal": 37,
       "title": " CHAPTER XXXVII.",
-      "start_s": 19393.204,
-      "end_s": 19823.287,
+      "start_s": 19364.971,
+      "end_s": 19795.053,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -825,8 +825,8 @@
     {
       "ordinal": 38,
       "title": "CHAPTER XXXVIII.",
-      "start_s": 19823.287,
-      "end_s": 20149.561,
+      "start_s": 19795.053,
+      "end_s": 20121.327,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -847,8 +847,8 @@
     {
       "ordinal": 39,
       "title": "CHAPTER XXXIX.",
-      "start_s": 20149.561,
-      "end_s": 20625.545,
+      "start_s": 20121.327,
+      "end_s": 20597.626,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -874,8 +874,8 @@
     {
       "ordinal": 40,
       "title": "CHAPTER XL.",
-      "start_s": 20625.545,
-      "end_s": 21140.238,
+      "start_s": 20597.626,
+      "end_s": 21112.321,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -896,8 +896,8 @@
     {
       "ordinal": 41,
       "title": "CHAPTER XLI.",
-      "start_s": 21140.238,
-      "end_s": 21870.965,
+      "start_s": 21112.321,
+      "end_s": 21835.595,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -923,8 +923,8 @@
     {
       "ordinal": 42,
       "title": "CHAPTER XLII.",
-      "start_s": 21870.965,
-      "end_s": 22458.564,
+      "start_s": 21835.595,
+      "end_s": 22423.196,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -945,8 +945,8 @@
     {
       "ordinal": 43,
       "title": "CHAPTER XLIII.",
-      "start_s": 22458.564,
-      "end_s": 23965.088,
+      "start_s": 22423.196,
+      "end_s": 23916.77,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -977,8 +977,8 @@
     {
       "ordinal": 44,
       "title": "CHAPTER XLIV.",
-      "start_s": 23965.088,
-      "end_s": 24693.531,
+      "start_s": 23916.77,
+      "end_s": 24645.207,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -999,8 +999,8 @@
     {
       "ordinal": 45,
       "title": "CHAPTER XLV.",
-      "start_s": 24693.531,
-      "end_s": 25236.065,
+      "start_s": 24645.207,
+      "end_s": 25187.737,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -1021,8 +1021,8 @@
     {
       "ordinal": 46,
       "title": "Chapter XLVI.",
-      "start_s": 25236.065,
-      "end_s": 26217.144,
+      "start_s": 25187.737,
+      "end_s": 26168.816,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1038,8 +1038,8 @@
     {
       "ordinal": 47,
       "title": "CHAPTER XLVII.",
-      "start_s": 26217.144,
-      "end_s": 27241.001,
+      "start_s": 26168.816,
+      "end_s": 27192.673,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1070,8 +1070,8 @@
     {
       "ordinal": 48,
       "title": "CHAPTER XLVIII.",
-      "start_s": 27241.001,
-      "end_s": 27936.209,
+      "start_s": 27192.673,
+      "end_s": 27887.881,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1087,8 +1087,8 @@
     {
       "ordinal": 49,
       "title": "CHAPTER XLIX.",
-      "start_s": 27936.209,
-      "end_s": 28617.609,
+      "start_s": 27887.881,
+      "end_s": 28569.281,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1114,8 +1114,8 @@
     {
       "ordinal": 50,
       "title": "CHAPTER L.",
-      "start_s": 28617.609,
-      "end_s": 29293.27,
+      "start_s": 28569.281,
+      "end_s": 29244.942,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1141,8 +1141,8 @@
     {
       "ordinal": 51,
       "title": "CHAPTER LI.",
-      "start_s": 29293.27,
-      "end_s": 29914.367,
+      "start_s": 29244.942,
+      "end_s": 29866.039,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1163,8 +1163,8 @@
     {
       "ordinal": 52,
       "title": " CHAPTER LII.",
-      "start_s": 29914.367,
-      "end_s": 30869.034,
+      "start_s": 29866.039,
+      "end_s": 30819.452,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1180,8 +1180,8 @@
     {
       "ordinal": 53,
       "title": "CHAPTER LIII.",
-      "start_s": 30869.034,
-      "end_s": 31755.306,
+      "start_s": 30819.452,
+      "end_s": 31705.724,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1197,8 +1197,8 @@
     {
       "ordinal": 54,
       "title": " CHAPTER LIV.",
-      "start_s": 31755.306,
-      "end_s": 32237.836,
+      "start_s": 31705.724,
+      "end_s": 32188.255,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1224,8 +1224,8 @@
     {
       "ordinal": 55,
       "title": "CHAPTER LV.",
-      "start_s": 32237.836,
-      "end_s": 32949.116,
+      "start_s": 32188.255,
+      "end_s": 32899.536,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1251,8 +1251,8 @@
     {
       "ordinal": 56,
       "title": "CHAPTER LVI.",
-      "start_s": 32949.116,
-      "end_s": 33797.681,
+      "start_s": 32899.536,
+      "end_s": 33748.102,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1278,8 +1278,8 @@
     {
       "ordinal": 57,
       "title": "CHAPTER LVII.",
-      "start_s": 33797.681,
-      "end_s": 34329.265,
+      "start_s": 33748.102,
+      "end_s": 34271.594,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1300,8 +1300,8 @@
     {
       "ordinal": 58,
       "title": "CHAPTER LVIII.",
-      "start_s": 34329.265,
-      "end_s": 35117.409,
+      "start_s": 34271.594,
+      "end_s": 35059.739,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1317,8 +1317,8 @@
     {
       "ordinal": 59,
       "title": "CHAPTER LIX.",
-      "start_s": 35117.409,
-      "end_s": 35893.165,
+      "start_s": 35059.739,
+      "end_s": 35835.496,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1349,8 +1349,8 @@
     {
       "ordinal": 60,
       "title": " CHAPTER LX.",
-      "start_s": 35893.165,
-      "end_s": 36231.468,
+      "start_s": 35835.496,
+      "end_s": 36173.799,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1366,8 +1366,8 @@
     {
       "ordinal": 61,
       "title": "CHAPTER LXI.",
-      "start_s": 36231.468,
-      "end_s": 36621.822,
+      "start_s": 36173.799,
+      "end_s": 36562.819,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
