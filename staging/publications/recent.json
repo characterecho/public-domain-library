@@ -1,5 +1,32 @@
 [
   {
+    "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
+    "title": "A Study in Scarlet",
+    "author_names": "Arthur Conan Doyle",
+    "publication_type": "novel",
+    "genre_tags": [
+      "mystery",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-17T23:08:25Z",
+    "updated_at": "2026-01-18T00:38:37Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "31494297145478007f0829e3134208b7ba437ea1b95abeacca439df88a9559b6",
+    "file_size": 405787840,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
     "title": "The Maltese Falcon",
     "author_names": "Dashiell Hammett",
@@ -42,33 +69,6 @@
     "cover_url": null,
     "data_checksum": "9445142ce7ba7b3805061f4bac2e4b1e3d11c93b30f734ec2a30186f76a9172e",
     "file_size": 428587245,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
-    "title": "A Study in Scarlet",
-    "author_names": "Arthur Conan Doyle",
-    "publication_type": "novel",
-    "genre_tags": [
-      "mystery",
-      "classics"
-    ],
-    "catalog_added_at": "2026-01-16T15:38:49Z",
-    "updated_at": "2026-01-17T23:08:25Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "3fb495db19052e6628133640b76a0180fa33f72b953e6ef56f154a3e6c01190e",
-    "file_size": 405781696,
     "available_regions": [
       "US",
       "CA",
