@@ -1,0 +1,2570 @@
+{
+  "manifest_version": 2,
+  "title": "Pride and Prejudice",
+  "author_names": "Jane Austen",
+  "description": "Publication imported from https://gutenberg.org/ebooks/1342.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/1342.epub3.images",
+  "identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
+  "publication_type": "novel",
+  "cover_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/cover.png",
+  "total_duration_s": 36624.555012000004,
+  "genre_tags": [
+    "Classics",
+    "Romance",
+    "Regency",
+    "Satire",
+    "Family Life"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3524.516531
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_1.mp3",
+      "start_s": 3524.516531,
+      "end_s": 6738.1927670000005
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_2.mp3",
+      "start_s": 6738.1927670000005,
+      "end_s": 9810.882472000001
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_3.mp3",
+      "start_s": 9810.882472000001,
+      "end_s": 13316.583379000002
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_4.mp3",
+      "start_s": 13316.583379000002,
+      "end_s": 16493.345669000002
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_5.mp3",
+      "start_s": 16493.345669000002,
+      "end_s": 19826.020091000002
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_6.mp3",
+      "start_s": 19826.020091000002,
+      "end_s": 22461.296939000003
+    },
+    {
+      "ordinal": 7,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_7.mp3",
+      "start_s": 22461.296939000003,
+      "end_s": 25238.798005000004
+    },
+    {
+      "ordinal": 8,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_8.mp3",
+      "start_s": 25238.798005000004,
+      "end_s": 28620.342064000004
+    },
+    {
+      "ordinal": 9,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_9.mp3",
+      "start_s": 28620.342064000004,
+      "end_s": 31758.038663000003
+    },
+    {
+      "ordinal": 10,
+      "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_10.mp3",
+      "start_s": 31758.038663000003,
+      "end_s": 36624.555012000004
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.277,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I.",
+      "start_s": 6.277,
+      "end_s": 251.327,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - MORNING",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II.",
+      "start_s": 251.327,
+      "end_s": 483.083,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - MORNING",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III.",
+      "start_s": 483.083,
+      "end_s": 996.063,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table, and a modest fireplace. Pale wallpaper with faint patterns. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "MERYTON_ASSEMBLY_ROOMS",
+            "location_header": "INT. MERYTON ASSEMBLY ROOMS - NIGHT",
+            "visual_description": "A lively Georgian assembly room at night, illuminated by the warm glow of crystal chandeliers and wall sconces. Polished wooden floors reflect the light. Pale blue walls with white molding. A musicians' gallery is visible in the background. The atmosphere is festive and crowded, with glimpses of pastel muslin gowns and dark coats."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR_NIGHT",
+            "location_header": "INT. LONGBOURN PARLOR - NIGHT",
+            "visual_description": "The Longbourn parlor at night, lit by the warm glow of a fireplace and several beeswax candles on the mantel and tables. The windows are dark, reflecting the interior light. Books are stacked on a side table. The mood is cozy but animated. Shadows dance on the pale wallpaper."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV.",
+      "start_s": 996.063,
+      "end_s": 1324.702,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
+            "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V.",
+      "start_s": 1324.702,
+      "end_s": 1610.895,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - MORNING",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI.",
+      "start_s": 1610.895,
+      "end_s": 2337.534,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "LUCAS_LODGE_DRAWING_ROOM",
+            "location_header": "INT. LUCAS LODGE - NIGHT",
+            "visual_description": "A spacious Regency drawing room at night, cleared of central furniture for dancing. Warm candlelight reflects off polished wood floors and pale yellow walls. A fortepiano stands in one corner. Groups of chairs line the perimeter. The atmosphere is festive but domestic, less grand than a formal ball, with soft shadows and golden illumination."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII.",
+      "start_s": 2337.534,
+      "end_s": 2946.324,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "INT_NETHERFIELD_HOUSE",
+            "location_header": "INT. NETHERFIELD HOUSE - DAY",
+            "visual_description": "A grand, imposing breakfast parlour in a wealthy estate. High ceilings with intricate molding, tall windows looking out on a rainy landscape. Elegant mahogany furniture, silver service on the sideboard. The atmosphere is formal, cold, and aristocratic, with cool grey light filtering through the rain."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII.",
+      "start_s": 2946.324,
+      "end_s": 3524.517,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NETHERFIELD_DINING_PARLOUR",
+            "location_header": "INT. NETHERFIELD DINING PARLOUR - NIGHT",
+            "visual_description": "A grand Regency dining parlour at night, illuminated by the warm, flickering glow of silver candelabras on a long mahogany table. The room features dark wood panelling, crimson damask curtains drawn against the night, and a sideboard laden with crystal decanters. Shadows play across the high moulded ceiling. The atmosphere is aristocratic, formal, and slightly oppressive."
+          },
+          {
+            "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+            "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+            "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX.",
+      "start_s": 3524.517,
+      "end_s": 4026.84,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_NETHERFIELD_HOUSE",
+            "location_header": "INT. NETHERFIELD BREAKFAST PARLOUR - DAY",
+            "visual_description": "A grand, imposing breakfast parlour in a wealthy estate. High ceilings with intricate molding, tall windows looking out on a rainy landscape. Elegant mahogany furniture, silver service on the sideboard. The atmosphere is formal, cold, and aristocratic, with cool grey light filtering through the rain."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X.",
+      "start_s": 4026.84,
+      "end_s": 4627.869,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+            "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+            "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling."
+          },
+          {
+            "identifier": "EXT_NETHERFIELD_SHRUBBERY",
+            "location_header": "EXT. NETHERFIELD GARDENS - DAY",
+            "visual_description": "A manicured English garden shrubbery in bright daylight. Gravel paths wind between tall, neatly trimmed hedges of boxwood and yew. The pale stone facade of a grand estate is visible in the background. Soft natural lighting with vibrant greens and earth tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER XI.",
+      "start_s": 4627.869,
+      "end_s": 5116.611,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+            "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+            "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XII.",
+      "start_s": 5116.611,
+      "end_s": 5325.24,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+            "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+            "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "CHAPTER XIII",
+      "start_s": 5325.24,
+      "end_s": 5837.979,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "CHAPTER XIV",
+      "start_s": 5837.979,
+      "end_s": 6202.856,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+            "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+            "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR_NIGHT",
+            "location_header": "INT. LONGBOURN PARLOR - NIGHT",
+            "visual_description": "The Longbourn parlor at night, lit by the warm glow of a fireplace and several beeswax candles on the mantel and tables. The windows are dark, reflecting the interior light. Books are stacked on a side table. The mood is cozy but animated. Shadows dance on the pale wallpaper."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "CHAPTER XV.",
+      "start_s": 6202.856,
+      "end_s": 6738.193,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "EXT_MERYTON_STREET",
+            "location_header": "EXT. MERYTON HIGH STREET - DAY",
+            "visual_description": "A bustling Georgian village high street under bright daylight. Red brick facades with bow-windowed shops line the cobblestone road. A pavement runs along the side, offering a view of merchandise displays. The atmosphere is lively and provincial, with warm brick tones and the pale blue of the sky. In the distance, the countryside is visible beyond the town's edge."
+          },
+          {
+            "identifier": "INT_PHILIPS_HOUSE",
+            "location_header": "INT. MRS. PHILIPS'S HOUSE - DAY",
+            "visual_description": "A comfortable Regency drawing room in a town solicitor's house, lit by afternoon light through street-facing sash windows. Overstuffed armchairs with floral chintz patterns surround a central hearth. A mahogany card table sits ready for games. The walls are papered in a busy floral print, and the room feels cozy, slightly cluttered, and thoroughly domestic. Warm, welcoming tones of rose and cream."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "CHAPTER XVI.",
+      "start_s": 6738.193,
+      "end_s": 7788.41,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PHILIPS_HOUSE_NIGHT",
+            "location_header": "INT. MRS. PHILIPS'S HOUSE - NIGHT",
+            "visual_description": "A comfortable Regency drawing room at night, warm and crowded. Beeswax candles and oil lamps illuminate the floral wallpaper and mahogany furniture. Two card tables are set up for whist with green baize tops. Rain beats against the dark sash windows, reflecting the interior light. The atmosphere is convivial and intimate, with the smell of coffee and muffins."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "CHAPTER XVII.",
+      "start_s": 7788.41,
+      "end_s": 8193.628,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LONGBOURN_SHRUBBERY",
+            "location_header": "EXT. LONGBOURN GARDENS - DAY",
+            "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "CHAPTER XVIII.",
+      "start_s": 8193.628,
+      "end_s": 9810.882,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+            "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+            "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling."
+          },
+          {
+            "identifier": "SCENE_NETHERFIELD_DINING_PARLOUR",
+            "location_header": "INT. NETHERFIELD DINING PARLOUR - NIGHT",
+            "visual_description": "A grand Regency dining parlour at night, illuminated by the warm, flickering glow of silver candelabras on a long mahogany table. The room features dark wood panelling, crimson damask curtains drawn against the night, and a sideboard laden with crystal decanters. Shadows play across the high moulded ceiling. The atmosphere is aristocratic, formal, and slightly oppressive."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "CHAPTER XIX.",
+      "start_s": 9810.882,
+      "end_s": 10404.223,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "CHAPTER XX.",
+      "start_s": 10404.223,
+      "end_s": 10920.785,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_LIBRARY",
+            "location_header": "INT. LONGBOURN LIBRARY - DAY",
+            "visual_description": "A gentleman's library in a Regency country house, bathed in cool morning light. Floor-to-ceiling wooden bookshelves filled with leather-bound volumes line the walls. A large mahogany desk sits near a tall sash window overlooking the grounds. A worn leather armchair suggests a place of refuge. The atmosphere is quiet and scholarly, contrasting with the chaos elsewhere."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 21,
+      "title": "CHAPTER XXI.",
+      "start_s": 10920.785,
+      "end_s": 11544.369,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER_DAY",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - DAY",
+            "visual_description": "A modest Regency bedchamber shared by sisters, flooded with soft morning light. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a window overlooking the garden. The atmosphere is intimate and private. Cool whites and soft pastels."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 22,
+      "title": "CHAPTER XXII.",
+      "start_s": 11544.369,
+      "end_s": 11691.121,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LUCAS_LODGE_DRAWING_ROOM",
+            "location_header": "INT. LUCAS LODGE - NIGHT",
+            "visual_description": "A spacious Regency drawing room at night, cleared of central furniture for dancing. Warm candlelight reflects off polished wood floors and pale yellow walls. A fortepiano stands in one corner. Groups of chairs line the perimeter. The atmosphere is festive but domestic, less grand than a formal ball, with soft shadows and golden illumination."
+          },
+          {
+            "identifier": "INT_LUCAS_LODGE_MORNING",
+            "location_header": "INT. LUCAS LODGE - MORNING",
+            "visual_description": "A comfortable Regency morning room in Lucas Lodge, filled with clear daylight. A large sash window overlooks the lane outside. Modest mahogany furniture includes a sewing table and a writing desk. The room features floral wallpaper and worn rugs, suggesting genteel poverty. Warm creams and faded rose tones dominate the palette."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 23,
+      "title": "CHAPTER XXIII.",
+      "start_s": 11691.121,
+      "end_s": 12197.289,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 24,
+      "title": "CHAPTER XXIV.",
+      "start_s": 12197.289,
+      "end_s": 12831.007,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER_DAY",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - DAY",
+            "visual_description": "A modest Regency bedchamber shared by sisters, flooded with soft morning light. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a window overlooking the garden. The atmosphere is intimate and private. Cool whites and soft pastels."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 25,
+      "title": "CHAPTER XXV.",
+      "start_s": 12831.007,
+      "end_s": 13316.583,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR_NIGHT",
+            "location_header": "INT. LONGBOURN PARLOR - NIGHT",
+            "visual_description": "The Longbourn parlor at night, lit by the warm glow of a fireplace and several beeswax candles on the mantel and tables. The windows are dark, reflecting the interior light. Books are stacked on a side table. The mood is cozy but animated. Shadows dance on the pale wallpaper. Rich amber and deep brown tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 26,
+      "title": "CHAPTER XXVI.",
+      "start_s": 13316.583,
+      "end_s": 14044.94,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 27,
+      "title": " CHAPTER XXVII.",
+      "start_s": 14044.94,
+      "end_s": 14448.66,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "INT_LONDON_THEATRE",
+            "location_header": "INT. LONDON THEATRE - NIGHT",
+            "visual_description": "A private box in a Georgian theatre at night, glowing with warm gaslight. Red velvet curtains frame the view of the crowded pit and gallery beyond, blurred in the distance. Gilded railings and ornate plasterwork catch the flickering light. Shadows cloak the back of the box where chairs are arranged. A festive, sophisticated atmosphere with rich reds and golds."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 28,
+      "title": "CHAPTER XXVIII.",
+      "start_s": 14448.66,
+      "end_s": 14891.709,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_HUNSFORD_PARSONAGE_GARDEN",
+            "location_header": "EXT. HUNSFORD PARSONAGE - DAY",
+            "visual_description": "A neat Regency parsonage garden under bright daylight. A gravel walk leads to a modest house with green pales and a laurel hedge. In the distance through a gap in the trees, the grand facade of Rosings Park is visible on rising ground. Formal, manicured, and green."
+          },
+          {
+            "identifier": "INT_HUNSFORD_PARSONAGE_DINING_ROOM",
+            "location_header": "INT. HUNSFORD PARSONAGE DINING ROOM - DAY",
+            "visual_description": "A tidy, modest Regency dining room filled with daylight. A mahogany table stands near a window that looks out onto the lane. A sideboard displays neat arrangements of china. The furniture is formal and precise. The atmosphere is domestic and slightly stifling. Pale walls and orderly decor."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 29,
+      "title": "CHAPTER XXIX.",
+      "start_s": 14891.709,
+      "end_s": 15636.86,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HUNSFORD_PARSONAGE_HALL",
+            "location_header": "INT. HUNSFORD PARSONAGE - AFTERNOON",
+            "visual_description": "A modest but neat Regency parsonage hallway and staircase in the late afternoon. Pale plaster walls are adorned with a few framed prints. A wooden banister curves upward. Through an open door, a glimpse of a tidy parlor with chintz furniture is visible. The light is natural and softening, suggesting the approach of evening. The atmosphere is bustling with nervous preparation."
+          },
+          {
+            "identifier": "INT_ROSINGS_PARK_DRAWING_ROOM",
+            "location_header": "INT. ROSINGS PARK - NIGHT",
+            "visual_description": "A grand, imposing Regency drawing room of immense proportions and expense. High ceilings feature elaborate plasterwork and a crystal chandelier. Tall sash windows are draped in heavy crimson velvet. The furniture is gilded and upholstered in rich damask. A massive marble fireplace dominates one wall. The lighting is brilliant, provided by numerous wax candles and oil lamps, casting no shadows. The atmosphere is stiff, formal, and overwhelming."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 30,
+      "title": "CHAPTER XXX.",
+      "start_s": 15636.86,
+      "end_s": 16013.091,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HUNSFORD_SITTING_ROOM",
+            "location_header": "INT. HUNSFORD PARSONAGE SITTING ROOM - DAY",
+            "visual_description": "A neat Regency sitting room at the back of a parsonage. Soft afternoon light enters through a sash window overlooking a garden with a laurel hedge. Modest mahogany furniture includes a work table scattered with needlepoint and sewing materials. Chintz-covered armchairs sit near a small fireplace. Pale green walls and simple joinery. The atmosphere is quiet, domestic, and orderly."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 31,
+      "title": "CHAPTER XXXI.",
+      "start_s": 16013.091,
+      "end_s": 16493.346,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_ROSINGS_PARK_DRAWING_ROOM",
+            "location_header": "INT. ROSINGS PARK - NIGHT",
+            "visual_description": "A grand, imposing Regency drawing room of immense proportions. High ceilings feature elaborate plasterwork and a crystal chandelier. Tall sash windows are draped in heavy crimson velvet. The furniture is gilded and upholstered in rich damask. A massive marble fireplace dominates one wall. The lighting is brilliant, provided by numerous wax candles and oil lamps. The atmosphere is stiff, formal, and overwhelming."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 32,
+      "title": "CHAPTER XXXII.",
+      "start_s": 16493.346,
+      "end_s": 16957.146,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HUNSFORD_SITTING_ROOM",
+            "location_header": "INT. HUNSFORD PARSONAGE SITTING ROOM - DAY",
+            "visual_description": "A neat Regency sitting room at the back of a parsonage. Soft afternoon light enters through a sash window overlooking a garden with a laurel hedge. Modest mahogany furniture includes a work table scattered with needlepoint and sewing materials. Chintz-covered armchairs sit near a small fireplace. Pale green walls and simple joinery. The atmosphere is quiet, domestic, and orderly."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 33,
+      "title": "CHAPTER XXXIII.",
+      "start_s": 16957.146,
+      "end_s": 17514.736,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_ROSINGS_PARK_WOODS",
+            "location_header": "EXT. ROSINGS PARK WOODS - DAY",
+            "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones."
+          },
+          {
+            "identifier": "INT_HUNSFORD_BEDROOM",
+            "location_header": "INT. HUNSFORD PARSONAGE BEDROOM - AFTERNOON",
+            "visual_description": "A small, neat bedchamber in a Regency parsonage, bathed in the grey light of a cloudy afternoon. A simple wooden bed with a white counterpane stands against a pale plaster wall. A writing desk is scattered with letters near the sash window. The atmosphere is quiet, solitary, and domestic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 34,
+      "title": "CHAPTER XXXIV.",
+      "start_s": 17514.736,
+      "end_s": 18176.586,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HUNSFORD_SITTING_ROOM",
+            "location_header": "INT. HUNSFORD PARSONAGE SITTING ROOM - DAY",
+            "visual_description": "A neat Regency sitting room at the back of a parsonage. Soft afternoon light enters through a sash window overlooking a garden with a laurel hedge. Modest mahogany furniture includes a work table scattered with needlepoint and sewing materials. Chintz-covered armchairs sit near a small fireplace. Pale green walls and simple joinery. The atmosphere is quiet, domestic, and orderly."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 35,
+      "title": " CHAPTER XXXV.",
+      "start_s": 18176.586,
+      "end_s": 19170.066,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_ROSINGS_PARK_WOODS",
+            "location_header": "EXT. ROSINGS PARK WOODS - DAY",
+            "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 36,
+      "title": "CHAPTER XXXVI.",
+      "start_s": 19170.066,
+      "end_s": 19395.937,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_ROSINGS_PARK_WOODS",
+            "location_header": "EXT. ROSINGS PARK WOODS - DAY",
+            "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 37,
+      "title": " CHAPTER XXXVII.",
+      "start_s": 19395.937,
+      "end_s": 19826.02,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_ROSINGS_PARK_DRAWING_ROOM",
+            "location_header": "INT. ROSINGS PARK - NIGHT",
+            "visual_description": "A grand, imposing Regency drawing room of immense proportions and expense. High ceilings feature elaborate plasterwork and a crystal chandelier. Tall sash windows are draped in heavy crimson velvet. The furniture is gilded and upholstered in rich damask. A massive marble fireplace dominates one wall. The lighting is brilliant, provided by numerous wax candles and oil lamps, casting no shadows. The atmosphere is stiff, formal, and overwhelming."
+          },
+          {
+            "identifier": "EXT_ROSINGS_PARK_WOODS",
+            "location_header": "EXT. ROSINGS PARK WOODS - DAY",
+            "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 38,
+      "title": "CHAPTER XXXVIII.",
+      "start_s": 19826.02,
+      "end_s": 20152.294,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HUNSFORD_PARSONAGE_DINING_ROOM",
+            "location_header": "INT. HUNSFORD PARSONAGE - DAY",
+            "visual_description": "A tidy, modest Regency dining room filled with daylight. A mahogany table stands near a window that looks out onto the lane. A sideboard displays neat arrangements of china. The furniture is formal and precise. The atmosphere is domestic and slightly stifling. Pale walls and orderly decor."
+          },
+          {
+            "identifier": "INT_GARDINER_HOUSE_LONDON",
+            "location_header": "INT. GARDINER HOUSE - DAY",
+            "visual_description": "A comfortable, modest Georgian drawing room in Cheapside, bathed in afternoon light. Mahogany furniture and floral chintz armchairs crowd the space, suggesting a busy, happy household. Sash windows overlook a bustling street. The atmosphere is warm, domestic, and unpretentious. Rich browns and soft creams."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 39,
+      "title": "CHAPTER XXXIX.",
+      "start_s": 20152.294,
+      "end_s": 20628.278,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_THE_GEORGE_INN",
+            "location_header": "INT. THE GEORGE INN - DAY",
+            "visual_description": "A private dining room on the upper floor of a Georgian coaching inn. Large sash windows overlook the busy street below. A round mahogany table is cluttered with plates of cold meat, salad, and cucumber. Several bandboxes and millinery parcels are heaped on chairs. The atmosphere is temporary and chaotic, lit by bright midday sun. Warm wood tones and white linens."
+          },
+          {
+            "identifier": "SCENE_CARRIAGE_INTERIOR",
+            "location_header": "INT. CARRIAGE - DAY",
+            "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+            "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+            "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 40,
+      "title": "CHAPTER XL.",
+      "start_s": 20628.278,
+      "end_s": 21142.971,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER_DAY",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - DAY",
+            "visual_description": "A modest Regency bedchamber shared by sisters, flooded with soft morning light. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a window overlooking the garden. The atmosphere is intimate and private. Cool whites and soft pastels."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 41,
+      "title": "CHAPTER XLI.",
+      "start_s": 21142.971,
+      "end_s": 21873.698,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_LIBRARY",
+            "location_header": "INT. LONGBOURN LIBRARY - DAY",
+            "visual_description": "A gentleman's library in a Regency country house, bathed in cool morning light. Floor-to-ceiling wooden bookshelves filled with leather-bound volumes line the walls. A large mahogany desk sits near a tall sash window overlooking the grounds. A worn leather armchair suggests a place of refuge. The atmosphere is quiet and scholarly, contrasting with the chaos elsewhere."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+            "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+            "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 42,
+      "title": "CHAPTER XLII.",
+      "start_s": 21873.698,
+      "end_s": 22461.297,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "INT_LAMBTON_INN_PARLOUR",
+            "location_header": "INT. LAMBTON INN - NIGHT",
+            "visual_description": "A private sitting room in a Derbyshire inn, bathed in the warm, dim glow of oil lamps and a dying fire. A round oak table is cluttered with unfolded maps and travel guides. Simple wainscoting lines the walls, and heavy curtains are drawn against the night. The atmosphere is cozy, weary but anticipating, with deep brown and amber tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 43,
+      "title": "CHAPTER XLIII.",
+      "start_s": 22461.297,
+      "end_s": 23967.821,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_PEMBERLEY_HOUSE",
+            "location_header": "INT. PEMBERLEY HOUSE - DAY",
+            "visual_description": "A grand, well-proportioned Regency dining parlour with high ceilings and handsome, elegant furniture. Tall sash windows offer a view of a wooded hill and valley. The room is fitted with expensive but tasteful decor, avoiding gaudiness. Warm natural light floods the space, highlighting the mahogany and fine fabrics."
+          },
+          {
+            "identifier": "INT_PEMBERLEY_GALLERY",
+            "location_header": "INT. PEMBERLEY GALLERY - DAY",
+            "visual_description": "A spacious, lofty portrait gallery in a grand English estate. Walls lined with family portraits in gilded frames. Large windows allow bright daylight to illuminate the artwork. The atmosphere is quiet, respectful, and steeped in history. Polished wood floors and a few viewing benches."
+          },
+          {
+            "identifier": "EXT_PEMBERLEY_GROUNDS",
+            "location_header": "EXT. PEMBERLEY GROUNDS - DAY",
+            "visual_description": "A picturesque English landscape garden in summer. A winding gravel walk follows a clear stream, crossed by a simple rustic bridge. Hanging woods and coppices border the path. In the distance, the stone facade of the great house is visible. Sunlight dapples through the trees, creating a serene, romantic atmosphere."
+          },
+          {
+            "identifier": "INT_CARRIAGE_DAY",
+            "location_header": "INT. CARRIAGE - DAY",
+            "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 44,
+      "title": "CHAPTER XLIV.",
+      "start_s": 23967.821,
+      "end_s": 24696.264,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_LAMBTON_INN_PARLOUR",
+            "location_header": "INT. LAMBTON INN - PARLOR",
+            "visual_description": "A private sitting room in a Derbyshire inn, bathed in the warm, dim glow of oil lamps and a dying fire. A round oak table is cluttered with unfolded maps and travel guides. Simple wainscoting lines the walls, and heavy curtains are drawn against the night. The atmosphere is cozy, weary but anticipating, with deep brown and amber tones."
+          },
+          {
+            "identifier": "INT_LAMBTON_INN_BEDROOM",
+            "location_header": "INT. LAMBTON INN - BEDROOM",
+            "visual_description": "A modest Regency bedchamber in a coaching inn, dimly lit by a dying candle. A narrow four-poster bed with white linens takes up most of the space. A washstand with a ceramic pitcher sits in the corner. Shadows play on the pale plaster walls. The atmosphere is quiet, intimate, and contemplative."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 45,
+      "title": "CHAPTER XLV.",
+      "start_s": 24696.264,
+      "end_s": 25238.798,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_PEMBERLEY_HOUSE",
+            "location_header": "INT. PEMBERLEY SALOON - DAY",
+            "visual_description": "A grand, well-proportioned Regency saloon with high ceilings and handsome, elegant furniture. Tall sash windows open to the ground, offering a view of a wooded hill and valley. The room is fitted with expensive but tasteful decor, avoiding gaudiness. Warm natural light floods the space, highlighting the mahogany and fine fabrics."
+          },
+          {
+            "identifier": "SCENE_CARRIAGE_INTERIOR",
+            "location_header": "INT. CARRIAGE - DAY",
+            "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 46,
+      "title": "Chapter XLVI.",
+      "start_s": 25238.798,
+      "end_s": 26219.877,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_LAMBTON_INN_PARLOUR_DAY",
+            "location_header": "INT. LAMBTON INN - PARLOR - DAY",
+            "visual_description": "A private sitting room in a Georgian coaching inn bathed in bright morning light. A round mahogany table occupies the center, surrounded by simple wooden chairs and scattered with letters. Tall sash windows with floral curtains reveal a glimpse of the village street. The walls are panelled in light oak. The atmosphere is temporary and genteel, with dust motes dancing in the sunbeams. Warm wood tones and pale cream plaster."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 47,
+      "title": "CHAPTER XLVII.",
+      "start_s": 26219.877,
+      "end_s": 27243.734,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_CARRIAGE_DAY",
+            "location_header": "INT. CARRIAGE - DAY",
+            "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - AFTERNOON",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in afternoon light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "INT_MRS_BENNETS_ROOM_DAY",
+            "location_header": "INT. MRS. BENNET'S ROOM - DAY",
+            "visual_description": "A cluttered Regency dressing room filled with the scent of smelling salts and lavender. Heavy draperies are drawn against the afternoon sun, creating a stifling, dim atmosphere. A large four-poster bed is heaped with pillows and shawls. Medicine bottles, lace handkerchiefs, and discarded garments litter the bedside table and chairs. Oppressive, warm, and hysterical."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER_DAY",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - AFTERNOON",
+            "visual_description": "A modest Regency bedchamber shared by sisters, flooded with soft afternoon light. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a window overlooking the garden. The atmosphere is intimate and private. Cool whites and soft pastels."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 48,
+      "title": "CHAPTER XLVIII.",
+      "start_s": 27243.734,
+      "end_s": 27938.942,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 49,
+      "title": "CHAPTER XLIX.",
+      "start_s": 27938.942,
+      "end_s": 28620.342,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LONGBOURN_SHRUBBERY",
+            "location_header": "EXT. LONGBOURN GARDENS - DAY",
+            "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "INT_MRS_BENNETS_ROOM_DAY",
+            "location_header": "INT. MRS. BENNET'S ROOM - DAY",
+            "visual_description": "A cluttered Regency dressing room filled with the scent of smelling salts and lavender. Heavy draperies are drawn against the afternoon sun, creating a stifling, dim atmosphere. A large four-poster bed is heaped with pillows and shawls. Medicine bottles, lace handkerchiefs, and discarded garments litter the bedside table and chairs. Oppressive, warm, and hysterical."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 50,
+      "title": "CHAPTER L.",
+      "start_s": 28620.342,
+      "end_s": 29296.003,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_LIBRARY",
+            "location_header": "INT. LONGBOURN LIBRARY - DAY",
+            "visual_description": "A gentleman's library in a Regency country house, bathed in cool morning light. Floor-to-ceiling wooden bookshelves filled with leather-bound volumes line the walls. A large mahogany desk sits near a tall sash window overlooking the grounds. A worn leather armchair suggests a place of refuge. The atmosphere is quiet and scholarly, contrasting with the chaos elsewhere."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+            "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+            "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 51,
+      "title": "CHAPTER LI.",
+      "start_s": 29296.003,
+      "end_s": 29917.1,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BREAKFAST_ROOM",
+            "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+            "visual_description": "A Regency breakfast room in a country house, bathed in bright, neutral daylight. A large mahogany dining table stands in the foreground, set with white linens and remnants of a meal. Tall sash windows look out onto a gravel driveway. Pale yellow wallpaper and floral chintz drapery create a domestic, slightly cluttered feel. The atmosphere is bustling and tense."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 52,
+      "title": " CHAPTER LII.",
+      "start_s": 29917.1,
+      "end_s": 30871.767,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LONGBOURN_SHRUBBERY",
+            "location_header": "EXT. LONGBOURN SHRUBBERY - DAY",
+            "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 53,
+      "title": "CHAPTER LIII.",
+      "start_s": 30871.767,
+      "end_s": 31758.039,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 54,
+      "title": " CHAPTER LIV.",
+      "start_s": 31758.039,
+      "end_s": 32240.569,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LONGBOURN_SHRUBBERY",
+            "location_header": "EXT. LONGBOURN SHRUBBERY - DAY",
+            "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+            "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+            "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR_NIGHT",
+            "location_header": "INT. LONGBOURN PARLOR - NIGHT",
+            "visual_description": "The Longbourn parlor at night, lit by the warm glow of a fireplace and several beeswax candles on the mantel and tables. The windows are dark, reflecting the interior light. Books are stacked on a side table. The mood is cozy but animated. Shadows dance on the pale wallpaper. Rich amber and deep brown tones."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 55,
+      "title": "CHAPTER LV.",
+      "start_s": 32240.569,
+      "end_s": 32951.849,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          },
+          {
+            "identifier": "LONGBOURN_PARLOR_NIGHT",
+            "location_header": "INT. LONGBOURN PARLOR - NIGHT",
+            "visual_description": "The Longbourn parlor at night, lit by the warm glow of a fireplace and several beeswax candles on the mantel and tables. The windows are dark, reflecting the interior light. Books are stacked on a side table. The mood is cozy but animated. Shadows dance on the pale wallpaper. Rich amber and deep brown tones."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
+            "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 56,
+      "title": "CHAPTER LVI.",
+      "start_s": 32951.849,
+      "end_s": 33800.414,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_DINING_ROOM_DAY",
+            "location_header": "INT. LONGBOURN DINING ROOM - DAY",
+            "visual_description": "A modest Regency dining room in a country house, bathed in morning light. A mahogany table sits in the center, surrounded by dark wood chairs. Tall sash windows look out onto the lawn. The atmosphere is domestic and slightly bustling. Pale wallpaper and simple decor."
+          },
+          {
+            "identifier": "EXT_LONGBOURN_SHRUBBERY",
+            "location_header": "EXT. LONGBOURN SHRUBBERY - DAY",
+            "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues."
+          },
+          {
+            "identifier": "INT_MRS_BENNETS_ROOM_DAY",
+            "location_header": "INT. MRS. BENNET'S ROOM - DAY",
+            "visual_description": "A cluttered Regency dressing room filled with the scent of smelling salts and lavender. Heavy draperies are drawn against the afternoon sun, creating a stifling, dim atmosphere. A large four-poster bed is heaped with pillows and shawls. Medicine bottles, lace handkerchiefs, and discarded garments litter the bedside table and chairs. Oppressive, warm, and hysterical."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 57,
+      "title": "CHAPTER LVII.",
+      "start_s": 33800.414,
+      "end_s": 34331.998,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
+            "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_LIBRARY",
+            "location_header": "INT. LONGBOURN LIBRARY - DAY",
+            "visual_description": "A gentleman's library in a Regency country house, bathed in cool morning light. Floor-to-ceiling wooden bookshelves filled with leather-bound volumes line the walls. A large mahogany desk sits near a tall sash window overlooking the grounds. A worn leather armchair suggests a place of refuge. The atmosphere is quiet and scholarly, contrasting with the chaos elsewhere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 58,
+      "title": "CHAPTER LVIII.",
+      "start_s": 34331.998,
+      "end_s": 35120.142,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LONGBOURN_COUNTRY_WALK",
+            "location_header": "EXT. LONGBOURN COUNTRYSIDE - DAY",
+            "visual_description": "A quiet English country lane near Longbourn, winding through fields and hedgerows. The pale autumn sun casts long shadows across the dirt path. Bare branches of oak trees frame the view of the rolling Hertfordshire countryside. Earthy browns, soft greens, and pale blue sky dominate the palette. A peaceful, intimate outdoor setting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 59,
+      "title": "CHAPTER LIX.",
+      "start_s": 35120.142,
+      "end_s": 35895.898,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
+            "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
+            "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_BREAKFAST_ROOM",
+            "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+            "visual_description": "A Regency breakfast room in a country house, bathed in bright, neutral daylight. A large mahogany dining table stands in the foreground, set with white linens and remnants of a meal. Tall sash windows look out onto a gravel driveway. Pale yellow wallpaper and floral chintz drapery create a domestic, slightly cluttered feel. The atmosphere is bustling and tense."
+          },
+          {
+            "identifier": "SCENE_LONGBOURN_LIBRARY",
+            "location_header": "INT. LONGBOURN LIBRARY - NIGHT",
+            "visual_description": "A gentleman's library in a Regency country house, lit by the warm glow of oil lamps and a fireplace against the evening dark. Floor-to-ceiling wooden bookshelves filled with leather-bound volumes line the walls. A large mahogany desk sits near a tall sash window reflecting the interior light. A worn leather armchair suggests a place of refuge. The atmosphere is quiet, scholarly, and intimate."
+          },
+          {
+            "identifier": "INT_MRS_BENNETS_ROOM_NIGHT",
+            "location_header": "INT. MRS. BENNET'S ROOM - NIGHT",
+            "visual_description": "A cluttered Regency dressing room at night, lit by flickering candlelight. Heavy draperies are drawn tight. A large four-poster bed is heaped with pillows and shawls. Medicine bottles, lace handkerchiefs, and discarded garments litter the bedside table and chairs. The atmosphere is stifling, warm, and intimate. Rich fabrics and shadows dominate."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 60,
+      "title": " CHAPTER LX.",
+      "start_s": 35895.898,
+      "end_s": 36234.201,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LONGBOURN_PARLOR",
+            "location_header": "INT. LONGBOURN PARLOR - DAY",
+            "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 61,
+      "title": "CHAPTER LXI.",
+      "start_s": 36234.201,
+      "end_s": 36624.555,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_PEMBERLEY_HOUSE",
+            "location_header": "INT. PEMBERLEY SALOON - DAY",
+            "visual_description": "A grand, well-proportioned Regency saloon with high ceilings and handsome, elegant furniture. Tall sash windows open to the ground, offering a view of a wooded hill and valley. The room is fitted with expensive but tasteful decor, avoiding gaudiness. Warm natural light floods the space, highlighting the mahogany and fine fabrics."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "calm",
+        "articulate",
+        "omniscient",
+        "narrative",
+        "impartial",
+        "storytelling"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1250,
+      "image_key": null,
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "ELIZABETH_BENNET",
+      "name": "Elizabeth Bennet",
+      "aliases": [
+        "Lizzy",
+        "Eliza"
+      ],
+      "voice_attributes": [
+        "clear",
+        "witty",
+        "intelligent",
+        "warm"
+      ],
+      "visual_attributes": [
+        "dark curls pinned up",
+        "bright intelligent eyes",
+        "expressive face",
+        "Regency day dress",
+        "modest fichu"
+      ],
+      "roles": [
+        "protagonist",
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 461,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/ELIZABETH_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/ELIZABETH_BENNET.mp3"
+    },
+    {
+      "identifier": "FITZWILLIAM_DARCY",
+      "name": "Mr. Darcy",
+      "aliases": [
+        "Darcy"
+      ],
+      "voice_attributes": [
+        "haughty",
+        "deep",
+        "cold",
+        "aristocratic"
+      ],
+      "visual_attributes": [
+        "tall stature",
+        "handsome fine features",
+        "noble mien",
+        "dark hair",
+        "stern expression",
+        "formal evening wear"
+      ],
+      "roles": [
+        "suitor",
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 184,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/FITZWILLIAM_DARCY.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/FITZWILLIAM_DARCY.mp3"
+    },
+    {
+      "identifier": "MRS_BENNET",
+      "name": "Mrs. Bennet",
+      "aliases": [],
+      "voice_attributes": [
+        "shrill",
+        "nervous",
+        "fast-paced",
+        "emotional"
+      ],
+      "visual_attributes": [
+        "plump face",
+        "ruddy complexion",
+        "lace cap",
+        "fluttering hands",
+        "anxious wide eyes",
+        "Regency day dress"
+      ],
+      "roles": [
+        "mother",
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 163,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_BENNET.mp3"
+    },
+    {
+      "identifier": "JANE_BENNET",
+      "name": "Jane Bennet",
+      "aliases": [
+        "Jane"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "sweet",
+        "melodic",
+        "soft"
+      ],
+      "visual_attributes": [
+        "oval face",
+        "gentle complexion",
+        "golden blonde curls",
+        "soft blue eyes",
+        "serene smile",
+        "high-waisted white muslin dress"
+      ],
+      "roles": [
+        "sister",
+        "romantic_interest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 131,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/JANE_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/JANE_BENNET.mp3"
+    },
+    {
+      "identifier": "MR_BENNET",
+      "name": "Mr. Bennet",
+      "aliases": [],
+      "voice_attributes": [
+        "dry",
+        "sarcastic",
+        "detached",
+        "weary"
+      ],
+      "visual_attributes": [
+        "balding grey hair",
+        "sharp angular face",
+        "spectacles",
+        "weary expression",
+        "formal cravat",
+        "waistcoat"
+      ],
+      "roles": [
+        "father",
+        "husband"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 123,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_BENNET.mp3"
+    },
+    {
+      "identifier": "MRS_GARDINER",
+      "name": "Mrs. Gardiner",
+      "aliases": [],
+      "voice_attributes": [
+        "amiable",
+        "intelligent",
+        "warm",
+        "elegant"
+      ],
+      "visual_attributes": [
+        "intelligent pleasant face",
+        "elegant fashionable dress",
+        "bonnet with ribbons",
+        "bright eyes",
+        "graceful posture"
+      ],
+      "roles": [
+        "aunt",
+        "confidante"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 62,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_GARDINER.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_GARDINER.mp3"
+    },
+    {
+      "identifier": "LADY_CATHERINE_DE_BOURGH",
+      "name": "Lady Catherine",
+      "aliases": [
+        "Lady Catherine",
+        "Her Ladyship"
+      ],
+      "voice_attributes": [
+        "domineering",
+        "loud",
+        "authoritative",
+        "haughty",
+        "decisive"
+      ],
+      "visual_attributes": [
+        "tall large stature",
+        "strongly-marked features",
+        "imposing countenance",
+        "rich satin gown",
+        "elaborate turban",
+        "haughty eyes"
+      ],
+      "roles": [
+        "antagonist",
+        "patroness"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 59,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LADY_CATHERINE_DE_BOURGH.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LADY_CATHERINE_DE_BOURGH.mp3"
+    },
+    {
+      "identifier": "WILLIAM_COLLINS",
+      "name": "Mr. Collins",
+      "aliases": [
+        "William Collins"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "monotonous",
+        "obsequious",
+        "formal"
+      ],
+      "visual_attributes": [
+        "tall heavy build",
+        "pale grave face",
+        "formal clerical collar",
+        "black coat",
+        "smooth hair",
+        "serious expression"
+      ],
+      "roles": [
+        "clergyman",
+        "cousin",
+        "suitor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 58,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/WILLIAM_COLLINS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/WILLIAM_COLLINS.mp3"
+    },
+    {
+      "identifier": "GEORGE_WICKHAM",
+      "name": "Mr. Wickham",
+      "aliases": [
+        "Wickham"
+      ],
+      "voice_attributes": [
+        "smooth",
+        "charming",
+        "polite",
+        "confident"
+      ],
+      "visual_attributes": [
+        "handsome countenance",
+        "good figure",
+        "officer's regimentals",
+        "dark hair",
+        "charming smile"
+      ],
+      "roles": [
+        "soldier",
+        "antagonist",
+        "suitor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 50,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/GEORGE_WICKHAM.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/GEORGE_WICKHAM.mp3"
+    },
+    {
+      "identifier": "CAROLINE_BINGLEY",
+      "name": "Miss Bingley",
+      "aliases": [
+        "Caroline"
+      ],
+      "voice_attributes": [
+        "sneering",
+        "cultured",
+        "sarcastic",
+        "haughty"
+      ],
+      "visual_attributes": [
+        "sharp elegant features",
+        "sleek dark hair",
+        "expensive silk gown",
+        "haughty eyes",
+        "long neck"
+      ],
+      "roles": [
+        "antagonist",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 49,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/CAROLINE_BINGLEY.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/CAROLINE_BINGLEY.mp3"
+    },
+    {
+      "identifier": "LYDIA_BENNET",
+      "name": "Lydia Bennet",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "stout",
+        "energetic",
+        "boisterous"
+      ],
+      "visual_attributes": [
+        "tall for age",
+        "flushed cheeks",
+        "ribbons in hair",
+        "untidy dress"
+      ],
+      "roles": [
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 47,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LYDIA_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LYDIA_BENNET.mp3"
+    },
+    {
+      "identifier": "CHARLES_BINGLEY",
+      "name": "Mr. Bingley",
+      "aliases": [
+        "Bingley"
+      ],
+      "voice_attributes": [
+        "cheerful",
+        "open",
+        "enthusiastic",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "young handsome face",
+        "pleasant countenance",
+        "blonde curls",
+        "blue coat",
+        "white cravat",
+        "friendly eyes"
+      ],
+      "roles": [
+        "suitor",
+        "gentleman"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 35,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/CHARLES_BINGLEY.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/CHARLES_BINGLEY.mp3"
+    },
+    {
+      "identifier": "CHARLOTTE_LUCAS",
+      "name": "Charlotte Collins",
+      "aliases": [
+        "Miss Lucas",
+        "Charlotte",
+        "Mrs. Collins"
+      ],
+      "voice_attributes": [
+        "sensible",
+        "calm",
+        "pragmatic",
+        "intelligent"
+      ],
+      "visual_attributes": [
+        "plain sensible face",
+        "brown hair neatly pinned",
+        "intelligent eyes",
+        "modest day dress",
+        "composed posture"
+      ],
+      "roles": [
+        "friend",
+        "neighbour",
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/CHARLOTTE_LUCAS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/CHARLOTTE_LUCAS.mp3"
+    },
+    {
+      "identifier": "MR_GARDINER",
+      "name": "Mr. Gardiner",
+      "aliases": [],
+      "voice_attributes": [
+        "sensible",
+        "calm",
+        "gentle",
+        "educated"
+      ],
+      "visual_attributes": [
+        "middle-aged face",
+        "gentlemanlike bearing",
+        "sensible coat",
+        "receding hairline",
+        "kind eyes"
+      ],
+      "roles": [
+        "uncle",
+        "merchant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_GARDINER.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_GARDINER.mp3"
+    },
+    {
+      "identifier": "COLONEL_FITZWILLIAM",
+      "name": "Colonel Fitzwilliam",
+      "aliases": [],
+      "voice_attributes": [
+        "polished",
+        "easy",
+        "pleasant",
+        "educated"
+      ],
+      "visual_attributes": [
+        "average build",
+        "about thirty years old",
+        "open pleasant face",
+        "not classically handsome but distinguished",
+        "gentleman's attire",
+        "amiable expression"
+      ],
+      "roles": [
+        "suitor",
+        "soldier"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 17,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/COLONEL_FITZWILLIAM.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/COLONEL_FITZWILLIAM.mp3"
+    },
+    {
+      "identifier": "MRS_REYNOLDS",
+      "name": "Mrs. Reynolds",
+      "aliases": [],
+      "voice_attributes": [
+        "warm",
+        "respectful",
+        "civil",
+        "sensible",
+        "proud"
+      ],
+      "visual_attributes": [
+        "elderly woman",
+        "respectable face",
+        "neat grey dress",
+        "white cap",
+        "kind expression"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_REYNOLDS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_REYNOLDS.mp3"
+    },
+    {
+      "identifier": "SIR_WILLIAM_LUCAS",
+      "name": "Sir William Lucas",
+      "aliases": [],
+      "voice_attributes": [
+        "jovial",
+        "obsequious",
+        "pompous",
+        "friendly"
+      ],
+      "visual_attributes": [
+        "round amiable face",
+        "balding grey hair",
+        "shining eyes",
+        "formal evening coat",
+        "white cravat"
+      ],
+      "roles": [
+        "neighbor",
+        "knight"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/SIR_WILLIAM_LUCAS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/SIR_WILLIAM_LUCAS.mp3"
+    },
+    {
+      "identifier": "KITTY_BENNET",
+      "name": "Kitty Bennet",
+      "aliases": [
+        "Catherine"
+      ],
+      "voice_attributes": [
+        "fretful",
+        "nasal",
+        "whiny"
+      ],
+      "visual_attributes": [
+        "pale complexion",
+        "somewhat untidy hair",
+        "muslin dress",
+        "clutching handkerchief"
+      ],
+      "roles": [
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/KITTY_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/KITTY_BENNET.mp3"
+    },
+    {
+      "identifier": "MARY_BENNET",
+      "name": "Mary Bennet",
+      "aliases": [],
+      "voice_attributes": [
+        "pedantic",
+        "flat",
+        "serious"
+      ],
+      "visual_attributes": [
+        "spectacles",
+        "plain features",
+        "severe expression",
+        "high collar",
+        "book in hand"
+      ],
+      "roles": [
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MARY_BENNET.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MARY_BENNET.mp3"
+    },
+    {
+      "identifier": "MARIA_LUCAS",
+      "name": "Maria Lucas",
+      "aliases": [],
+      "voice_attributes": [
+        "breathless",
+        "excitable",
+        "high-pitched",
+        "naive"
+      ],
+      "visual_attributes": [
+        "young round face",
+        "wide excited eyes",
+        "plain muslin dress",
+        "brown curls",
+        "bonnet"
+      ],
+      "roles": [
+        "sister",
+        "minor_character"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MARIA_LUCAS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MARIA_LUCAS.mp3"
+    },
+    {
+      "identifier": "LOUISA_HURST",
+      "name": "Mrs. Hurst",
+      "aliases": [
+        "Louisa"
+      ],
+      "voice_attributes": [
+        "haughty",
+        "affected",
+        "echoing"
+      ],
+      "visual_attributes": [
+        "fashionable face",
+        "elaborate evening gown",
+        "jeweled turban",
+        "sneering expression",
+        "fan in hand"
+      ],
+      "roles": [
+        "sister",
+        "antagonist",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LOUISA_HURST.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LOUISA_HURST.mp3"
+    },
+    {
+      "identifier": "MRS_HILL",
+      "name": "Mrs. Hill",
+      "aliases": [],
+      "voice_attributes": [
+        "breathless",
+        "respectful",
+        "excited",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "elderly face",
+        "housekeeper's cap",
+        "apron",
+        "grey hair",
+        "kind expression"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_HILL.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_HILL.mp3"
+    },
+    {
+      "identifier": "MR_HURST",
+      "name": "Mr. Hurst",
+      "aliases": [],
+      "voice_attributes": [
+        "slurred",
+        "bored",
+        "thick"
+      ],
+      "visual_attributes": [
+        "heavy set",
+        "flushed face",
+        "half-closed eyes",
+        "formal evening wear",
+        "waistcoat straining"
+      ],
+      "roles": [
+        "brother_in_law",
+        "minor_character"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_HURST.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_HURST.mp3"
+    },
+    {
+      "identifier": "MRS_PHILIPS",
+      "name": "Mrs. Philips",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "gossipy",
+        "warm",
+        "animated"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "plump face",
+        "cap with ribbons",
+        "animated expression",
+        "garrulous"
+      ],
+      "roles": [
+        "aunt",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_PHILIPS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_PHILIPS.mp3"
+    },
+    {
+      "identifier": "MR_DENNY",
+      "name": "Mr. Denny",
+      "aliases": [],
+      "voice_attributes": [
+        "lighter",
+        "british",
+        "polite"
+      ],
+      "visual_attributes": [
+        "young man",
+        "red militia coat",
+        "friendly face",
+        "clean-shaven",
+        "sideburns"
+      ],
+      "roles": [
+        "officer",
+        "minor_character"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_DENNY.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_DENNY.mp3"
+    },
+    {
+      "identifier": "YOUNG_LUCAS",
+      "name": "Young Lucas",
+      "aliases": [],
+      "voice_attributes": [
+        "boisterous",
+        "naive",
+        "loud"
+      ],
+      "visual_attributes": [
+        "young boy's face",
+        "messy hair",
+        "Regency jacket",
+        "bright eyes"
+      ],
+      "roles": [
+        "minor_character"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/YOUNG_LUCAS.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/YOUNG_LUCAS.mp3"
+    },
+    {
+      "identifier": "LONGBOURN_BUTLER",
+      "name": "The Butler",
+      "aliases": [],
+      "voice_attributes": [
+        "formal",
+        "polite",
+        "steady"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "livery",
+        "neutral expression",
+        "receding hairline"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LONGBOURN_BUTLER.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LONGBOURN_BUTLER.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "LONGBOURN_PARLOR",
+      "ordinal": 0,
+      "location_header": "INT. LONGBOURN PARLOR - DAY",
+      "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LONGBOURN_PARLOR.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
+      "ordinal": 0,
+      "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
+      "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_BEDCHAMBER.jpg"
+    },
+    {
+      "identifier": "INT_NETHERFIELD_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. NETHERFIELD BREAKFAST PARLOUR - DAY",
+      "visual_description": "A grand, imposing breakfast parlour in a wealthy estate. High ceilings with intricate molding, tall windows looking out on a rainy landscape. Elegant mahogany furniture, silver service on the sideboard. The atmosphere is formal, cold, and aristocratic, with cool grey light filtering through the rain.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_NETHERFIELD_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+      "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_NETHERFIELD_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_PHILIPS_HOUSE_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. MRS. PHILIPS'S HOUSE - NIGHT",
+      "visual_description": "A comfortable Regency drawing room at night, warm and crowded. Beeswax candles and oil lamps illuminate the floral wallpaper and mahogany furniture. Two card tables are set up for whist with green baize tops. Rain beats against the dark sash windows, reflecting the interior light. The atmosphere is convivial and intimate, with the smell of coffee and muffins.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_PHILIPS_HOUSE_NIGHT.jpg"
+    },
+    {
+      "identifier": "LUCAS_LODGE_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. LUCAS LODGE - NIGHT",
+      "visual_description": "A spacious Regency drawing room at night, cleared of central furniture for dancing. Warm candlelight reflects off polished wood floors and pale yellow walls. A fortepiano stands in one corner. Groups of chairs line the perimeter. The atmosphere is festive but domestic, less grand than a formal ball, with soft shadows and golden illumination.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LUCAS_LODGE_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_HUNSFORD_SITTING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. HUNSFORD PARSONAGE SITTING ROOM - DAY",
+      "visual_description": "A neat Regency sitting room at the back of a parsonage. Soft afternoon light enters through a sash window overlooking a garden with a laurel hedge. Modest mahogany furniture includes a work table scattered with needlepoint and sewing materials. Chintz-covered armchairs sit near a small fireplace. Pale green walls and simple joinery. The atmosphere is quiet, domestic, and orderly.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_HUNSFORD_SITTING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_THE_GEORGE_INN",
+      "ordinal": 0,
+      "location_header": "INT. THE GEORGE INN - DAY",
+      "visual_description": "A private dining room on the upper floor of a Georgian coaching inn. Large sash windows overlook the busy street below. A round mahogany table is cluttered with plates of cold meat, salad, and cucumber. Several bandboxes and millinery parcels are heaped on chairs. The atmosphere is temporary and chaotic, lit by bright midday sun. Warm wood tones and white linens.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_THE_GEORGE_INN.jpg"
+    },
+    {
+      "identifier": "EXT_HUNSFORD_PARSONAGE_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. HUNSFORD PARSONAGE - DAY",
+      "visual_description": "A neat Regency parsonage garden under bright daylight. A gravel walk leads to a modest house with green pales and a laurel hedge. In the distance through a gap in the trees, the grand facade of Rosings Park is visible on rising ground. Formal, manicured, and green.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_HUNSFORD_PARSONAGE_GARDEN.jpg"
+    },
+    {
+      "identifier": "INT_HUNSFORD_PARSONAGE_DINING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. HUNSFORD PARSONAGE - DAY",
+      "visual_description": "A tidy, modest Regency dining room filled with daylight. A mahogany table stands near a window that looks out onto the lane. A sideboard displays neat arrangements of china. The furniture is formal and precise. The atmosphere is domestic and slightly stifling. Pale walls and orderly decor.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_PARSONAGE_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_HUNSFORD_PARSONAGE_HALL",
+      "ordinal": 0,
+      "location_header": "INT. HUNSFORD PARSONAGE - AFTERNOON",
+      "visual_description": "A modest but neat Regency parsonage hallway and staircase in the late afternoon. Pale plaster walls are adorned with a few framed prints. A wooden banister curves upward. Through an open door, a glimpse of a tidy parlor with chintz furniture is visible. The light is natural and softening, suggesting the approach of evening. The atmosphere is bustling with nervous preparation.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_PARSONAGE_HALL.jpg"
+    },
+    {
+      "identifier": "INT_ROSINGS_PARK_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. ROSINGS PARK - NIGHT",
+      "visual_description": "A grand, imposing Regency drawing room of immense proportions and expense. High ceilings feature elaborate plasterwork and a crystal chandelier. Tall sash windows are draped in heavy crimson velvet. The furniture is gilded and upholstered in rich damask. A massive marble fireplace dominates one wall. The lighting is brilliant, provided by numerous wax candles and oil lamps, casting no shadows. The atmosphere is stiff, formal, and overwhelming.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_ROSINGS_PARK_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_LAMBTON_INN_PARLOUR",
+      "ordinal": 0,
+      "location_header": "INT. LAMBTON INN - PARLOR",
+      "visual_description": "A private sitting room in a Derbyshire inn, bathed in the warm, dim glow of oil lamps and a dying fire. A round oak table is cluttered with unfolded maps and travel guides. Simple wainscoting lines the walls, and heavy curtains are drawn against the night. The atmosphere is cozy, weary but anticipating, with deep brown and amber tones.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LAMBTON_INN_PARLOUR.jpg"
+    },
+    {
+      "identifier": "INT_PEMBERLEY_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. PEMBERLEY SALOON - DAY",
+      "visual_description": "A grand, well-proportioned Regency saloon with high ceilings and handsome, elegant furniture. Tall sash windows open to the ground, offering a view of a wooded hill and valley. The room is fitted with expensive but tasteful decor, avoiding gaudiness. Warm natural light floods the space, highlighting the mahogany and fine fabrics.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_PEMBERLEY_HOUSE.jpg"
+    },
+    {
+      "identifier": "INT_CARRIAGE_DAY",
+      "ordinal": 0,
+      "location_header": "INT. CARRIAGE - DAY",
+      "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_CARRIAGE_DAY.jpg"
+    },
+    {
+      "identifier": "INT_LAMBTON_INN_PARLOUR_DAY",
+      "ordinal": 0,
+      "location_header": "INT. LAMBTON INN - PARLOR - DAY",
+      "visual_description": "A private sitting room in a Georgian coaching inn bathed in bright morning light. A round mahogany table occupies the center, surrounded by simple wooden chairs and scattered with letters. Tall sash windows with floral curtains reveal a glimpse of the village street. The walls are panelled in light oak. The atmosphere is temporary and genteel, with dust motes dancing in the sunbeams. Warm wood tones and pale cream plaster.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LAMBTON_INN_PARLOUR_DAY.jpg"
+    },
+    {
+      "identifier": "EXT_LONGBOURN_COUNTRY_WALK",
+      "ordinal": 0,
+      "location_header": "EXT. LONGBOURN COUNTRYSIDE - DAY",
+      "visual_description": "A quiet English country lane near Longbourn, winding through fields and hedgerows. The pale autumn sun casts long shadows across the dirt path. Bare branches of oak trees frame the view of the rolling Hertfordshire countryside. Earthy browns, soft greens, and pale blue sky dominate the palette. A peaceful, intimate outdoor setting.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_LONGBOURN_COUNTRY_WALK.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_DINING_ROOM_DAY",
+      "ordinal": 0,
+      "location_header": "INT. LONGBOURN DINING ROOM - DAY",
+      "visual_description": "A modest Regency dining room in a country house, bathed in morning light. A mahogany table sits in the center, surrounded by dark wood chairs. Tall sash windows look out onto the lawn. The atmosphere is domestic and slightly bustling. Pale wallpaper and simple decor.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_DINING_ROOM_DAY.jpg"
+    },
+    {
+      "identifier": "INT_HUNSFORD_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. HUNSFORD PARSONAGE BEDROOM - AFTERNOON",
+      "visual_description": "A small, neat bedchamber in a Regency parsonage, bathed in the grey light of a cloudy afternoon. A simple wooden bed with a white counterpane stands against a pale plaster wall. A writing desk is scattered with letters near the sash window. The atmosphere is quiet, solitary, and domestic.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+      "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_LAMBTON_INN_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. LAMBTON INN - BEDROOM",
+      "visual_description": "A modest Regency bedchamber in a coaching inn, dimly lit by a dying candle. A narrow four-poster bed with white linens takes up most of the space. A washstand with a ceramic pitcher sits in the corner. Shadows play on the pale plaster walls. The atmosphere is quiet, intimate, and contemplative.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LAMBTON_INN_BEDROOM.jpg"
+    },
+    {
+      "identifier": "EXT_LONGBOURN_SHRUBBERY",
+      "ordinal": 1,
+      "location_header": "EXT. LONGBOURN SHRUBBERY - DAY",
+      "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_LONGBOURN_SHRUBBERY.jpg"
+    },
+    {
+      "identifier": "INT_LUCAS_LODGE_MORNING",
+      "ordinal": 1,
+      "location_header": "INT. LUCAS LODGE - MORNING",
+      "visual_description": "A comfortable Regency morning room in Lucas Lodge, filled with clear daylight. A large sash window overlooks the lane outside. Modest mahogany furniture includes a sewing table and a writing desk. The room features floral wallpaper and worn rugs, suggesting genteel poverty. Warm creams and faded rose tones dominate the palette.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LUCAS_LODGE_MORNING.jpg"
+    },
+    {
+      "identifier": "SCENE_CARRIAGE_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. CARRIAGE - DAY",
+      "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_CARRIAGE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "EXT_ROSINGS_PARK_WOODS",
+      "ordinal": 1,
+      "location_header": "EXT. ROSINGS PARK WOODS - DAY",
+      "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_ROSINGS_PARK_WOODS.jpg"
+    },
+    {
+      "identifier": "INT_LONDON_THEATRE",
+      "ordinal": 1,
+      "location_header": "INT. LONDON THEATRE - NIGHT",
+      "visual_description": "A private box in a Georgian theatre at night, glowing with warm gaslight. Red velvet curtains frame the view of the crowded pit and gallery beyond, blurred in the distance. Gilded railings and ornate plasterwork catch the flickering light. Shadows cloak the back of the box where chairs are arranged. A festive, sophisticated atmosphere with rich reds and golds.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LONDON_THEATRE.jpg"
+    },
+    {
+      "identifier": "MERYTON_ASSEMBLY_ROOMS",
+      "ordinal": 1,
+      "location_header": "INT. MERYTON ASSEMBLY ROOMS - NIGHT",
+      "visual_description": "A lively Georgian assembly room at night, illuminated by the warm glow of crystal chandeliers and wall sconces. Polished wooden floors reflect the light. Pale blue walls with white molding. A musicians' gallery is visible in the background. The atmosphere is festive and crowded, with glimpses of pastel muslin gowns and dark coats.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_MERYTON_ASSEMBLY_ROOMS.jpg"
+    },
+    {
+      "identifier": "LONGBOURN_PARLOR_NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. LONGBOURN PARLOR - NIGHT",
+      "visual_description": "The Longbourn parlor at night, lit by the warm glow of a fireplace and several beeswax candles on the mantel and tables. The windows are dark, reflecting the interior light. Books are stacked on a side table. The mood is cozy but animated. Shadows dance on the pale wallpaper. Rich amber and deep brown tones.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LONGBOURN_PARLOR_NIGHT.jpg"
+    },
+    {
+      "identifier": "INT_PEMBERLEY_GALLERY",
+      "ordinal": 1,
+      "location_header": "INT. PEMBERLEY GALLERY - DAY",
+      "visual_description": "A spacious, lofty portrait gallery in a grand English estate. Walls lined with family portraits in gilded frames. Large windows allow bright daylight to illuminate the artwork. The atmosphere is quiet, respectful, and steeped in history. Polished wood floors and a few viewing benches.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_PEMBERLEY_GALLERY.jpg"
+    },
+    {
+      "identifier": "EXT_MERYTON_STREET",
+      "ordinal": 1,
+      "location_header": "EXT. MERYTON HIGH STREET - DAY",
+      "visual_description": "A bustling Georgian village high street under bright daylight. Red brick facades with bow-windowed shops line the cobblestone road. A pavement runs along the side, offering a view of merchandise displays. The atmosphere is lively and provincial, with warm brick tones and the pale blue of the sky. In the distance, the countryside is visible beyond the town's edge.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_MERYTON_STREET.jpg"
+    },
+    {
+      "identifier": "SCENE_NETHERFIELD_DINING_PARLOUR",
+      "ordinal": 1,
+      "location_header": "INT. NETHERFIELD DINING PARLOUR - NIGHT",
+      "visual_description": "A grand Regency dining parlour at night, illuminated by the warm, flickering glow of silver candelabras on a long mahogany table. The room features dark wood panelling, crimson damask curtains drawn against the night, and a sideboard laden with crystal decanters. Shadows play across the high moulded ceiling. The atmosphere is aristocratic, formal, and slightly oppressive.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_NETHERFIELD_DINING_PARLOUR.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_BREAKFAST_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LONGBOURN BREAKFAST ROOM - DAY",
+      "visual_description": "A Regency breakfast room in a country house, bathed in bright, neutral daylight. A large mahogany dining table stands in the foreground, set with white linens and remnants of a meal. Tall sash windows look out onto a gravel driveway. Pale yellow wallpaper and floral chintz drapery create a domestic, slightly cluttered feel. The atmosphere is bustling and tense.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_BREAKFAST_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_MRS_BENNETS_ROOM_DAY",
+      "ordinal": 2,
+      "location_header": "INT. MRS. BENNET'S ROOM - DAY",
+      "visual_description": "A cluttered Regency dressing room filled with the scent of smelling salts and lavender. Heavy draperies are drawn against the afternoon sun, creating a stifling, dim atmosphere. A large four-poster bed is heaped with pillows and shawls. Medicine bottles, lace handkerchiefs, and discarded garments litter the bedside table and chairs. Oppressive, warm, and hysterical.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_MRS_BENNETS_ROOM_DAY.jpg"
+    },
+    {
+      "identifier": "EXT_PEMBERLEY_GROUNDS",
+      "ordinal": 2,
+      "location_header": "EXT. PEMBERLEY GROUNDS - DAY",
+      "visual_description": "A picturesque English landscape garden in summer. A winding gravel walk follows a clear stream, crossed by a simple rustic bridge. Hanging woods and coppices border the path. In the distance, the stone facade of the great house is visible. Sunlight dapples through the trees, creating a serene, romantic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_PEMBERLEY_GROUNDS.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_LIBRARY",
+      "ordinal": 2,
+      "location_header": "INT. LONGBOURN LIBRARY - NIGHT",
+      "visual_description": "A gentleman's library in a Regency country house, lit by the warm glow of oil lamps and a fireplace against the evening dark. Floor-to-ceiling wooden bookshelves filled with leather-bound volumes line the walls. A large mahogany desk sits near a tall sash window reflecting the interior light. A worn leather armchair suggests a place of refuge. The atmosphere is quiet, scholarly, and intimate.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_LIBRARY.jpg"
+    },
+    {
+      "identifier": "INT_PHILIPS_HOUSE",
+      "ordinal": 2,
+      "location_header": "INT. MRS. PHILIPS'S HOUSE - DAY",
+      "visual_description": "A comfortable Regency drawing room in a town solicitor's house, lit by afternoon light through street-facing sash windows. Overstuffed armchairs with floral chintz patterns surround a central hearth. A mahogany card table sits ready for games. The walls are papered in a busy floral print, and the room feels cozy, slightly cluttered, and thoroughly domestic. Warm, welcoming tones of rose and cream.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_PHILIPS_HOUSE.jpg"
+    },
+    {
+      "identifier": "INT_MRS_BENNETS_ROOM_NIGHT",
+      "ordinal": 3,
+      "location_header": "INT. MRS. BENNET'S ROOM - NIGHT",
+      "visual_description": "A cluttered Regency dressing room at night, lit by flickering candlelight. Heavy draperies are drawn tight. A large four-poster bed is heaped with pillows and shawls. Medicine bottles, lace handkerchiefs, and discarded garments litter the bedside table and chairs. The atmosphere is stifling, warm, and intimate. Rich fabrics and shadows dominate.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_MRS_BENNETS_ROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_BEDCHAMBER_DAY",
+      "ordinal": 3,
+      "location_header": "INT. LONGBOURN BEDCHAMBER - AFTERNOON",
+      "visual_description": "A modest Regency bedchamber shared by sisters, flooded with soft afternoon light. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a window overlooking the garden. The atmosphere is intimate and private. Cool whites and soft pastels.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_BEDCHAMBER_DAY.jpg"
+    }
+  ],
+  "subjects": [
+    "England -- Fiction",
+    "Young women -- Fiction",
+    "Love stories",
+    "Sisters -- Fiction",
+    "Domestic fiction",
+    "Courtship -- Fiction",
+    "Social classes -- Fiction"
+  ]
+}
