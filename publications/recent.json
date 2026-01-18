@@ -11,14 +11,42 @@
       "classics"
     ],
     "catalog_added_at": "2026-01-16T15:55:06Z",
-    "updated_at": "2026-01-18T18:55:01Z",
+    "updated_at": "2026-01-18T22:29:43Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "4a3398e0ef27dbb2a19a5f247075059097955e46c11c5114f68f817d5e5f0146",
-    "file_size": 428497883,
+    "data_checksum": "2a857ddcbdc4feb30bc273b23fbaf251926f65faa780304bb30107467d045bca",
+    "file_size": 428412303,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
+    "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
+    "title": "Pride and Prejudice",
+    "author_names": "Jane Austen",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "romance",
+      "satire"
+    ],
+    "catalog_added_at": "2026-01-18T03:35:30Z",
+    "updated_at": "2026-01-18T22:26:34Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "c24909a933917d6ed15c300371f32d7c50ced96767138cf8a15dc845c1278404",
+    "file_size": 931236950,
     "available_regions": [
       "US",
       "CA",
@@ -73,34 +101,6 @@
     "cover_url": null,
     "data_checksum": "7d66de18fa99601f2976ebfbee358e8f3dd63530fc2c8098aa4ee32dd5f7d9b2",
     "file_size": 405034775,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ]
-  },
-  {
-    "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
-    "title": "Pride and Prejudice",
-    "author_names": "Jane Austen",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "romance",
-      "satire"
-    ],
-    "catalog_added_at": "2026-01-18T03:35:30Z",
-    "updated_at": "2026-01-18T15:54:57Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "0bcf77696c1e4475b5ca4647c424fe55a19e2622f7ef374fb0c84a215cf7f8c7",
-    "file_size": 932161749,
     "available_regions": [
       "US",
       "CA",
