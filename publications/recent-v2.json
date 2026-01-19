@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "generated_at": "2026-01-18T22:29:43Z",
+  "generated_at": "2026-01-18T23:57:59Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
+      "title": "The Maltese Falcon",
+      "author_names": "Dashiell Hammett",
+      "publication_type": "short_stories",
+      "genre_tags": [
+        "mystery"
+      ],
+      "catalog_added_at": "2026-01-14T23:54:57Z",
+      "updated_at": "2026-01-18T23:57:59Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "0931e3daa8881e8159bc8e046a4c8e6763076e07694b22f6eeab19468b9bff14",
+      "file_size": 522695303,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ]
+    },
     {
       "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
       "title": "The Wonderful Wizard of Oz",
@@ -140,29 +163,6 @@
         "AU",
         "NZ",
         "IE"
-      ]
-    },
-    {
-      "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
-      "title": "The Maltese Falcon",
-      "author_names": "Dashiell Hammett",
-      "publication_type": "short_stories",
-      "genre_tags": [
-        "mystery"
-      ],
-      "catalog_added_at": "2026-01-14T23:54:57Z",
-      "updated_at": "2026-01-17T23:16:28Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "95707e94d292d04ce6b4348ec28ee6b3eb74c6824fcef4300150a38fe4472b65",
-      "file_size": 523226471,
-      "available_regions": [
-        "US",
-        "CA",
-        "NZ"
       ]
     },
     {
