@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-01-18T23:57:59Z",
+  "generated_at": "2026-01-19T13:53:05Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
     {
@@ -12,14 +12,14 @@
         "mystery"
       ],
       "catalog_added_at": "2026-01-14T23:54:57Z",
-      "updated_at": "2026-01-18T23:57:59Z",
+      "updated_at": "2026-01-19T13:53:04Z",
       "duration": {
         "total_ms": 0,
         "formatted": "0m"
       },
       "cover_url": null,
-      "data_checksum": "0931e3daa8881e8159bc8e046a4c8e6763076e07694b22f6eeab19468b9bff14",
-      "file_size": 522695303,
+      "data_checksum": "397d4d853ddf0632b3b6ae531e2570df3737ca85a4ffb794a2fb3d8f48ca3ffe",
+      "file_size": 522739489,
       "available_regions": [
         "US",
         "CA",
@@ -38,14 +38,41 @@
         "classics"
       ],
       "catalog_added_at": "2026-01-16T15:55:06Z",
-      "updated_at": "2026-01-18T22:29:43Z",
+      "updated_at": "2026-01-19T13:48:11Z",
       "duration": {
         "total_ms": 0,
         "formatted": "0m"
       },
       "cover_url": null,
-      "data_checksum": "2a857ddcbdc4feb30bc273b23fbaf251926f65faa780304bb30107467d045bca",
-      "file_size": 428412303,
+      "data_checksum": "48c9bea2fa90866cbace2fc241913aed0ac849af9fbe6fd6f989781aa17f02ae",
+      "file_size": 428339915,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ]
+    },
+    {
+      "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
+      "title": "A Study in Scarlet",
+      "author_names": "Arthur Conan Doyle",
+      "publication_type": "novel",
+      "genre_tags": [
+        "mystery",
+        "classics"
+      ],
+      "catalog_added_at": "2026-01-17T23:08:25Z",
+      "updated_at": "2026-01-19T13:45:44Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "947411bacf8856bdc78232f75d2210cbaf0e8b2d0536563ce9503c272aba35a4",
+      "file_size": 405065215,
       "available_regions": [
         "US",
         "CA",
@@ -66,14 +93,14 @@
         "satire"
       ],
       "catalog_added_at": "2026-01-18T03:35:30Z",
-      "updated_at": "2026-01-18T22:26:34Z",
+      "updated_at": "2026-01-19T13:43:26Z",
       "duration": {
         "total_ms": 0,
         "formatted": "0m"
       },
       "cover_url": null,
-      "data_checksum": "c24909a933917d6ed15c300371f32d7c50ced96767138cf8a15dc845c1278404",
-      "file_size": 931236950,
+      "data_checksum": "1b3ed67f92cbcd3d9502b037348e41d6d43350200f3fc4402aa4ffae6121e792",
+      "file_size": 931213000,
       "available_regions": [
         "US",
         "CA",
@@ -81,6 +108,29 @@
         "AU",
         "NZ",
         "IE"
+      ]
+    },
+    {
+      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
+      "title": "Winnie-the-Pooh",
+      "author_names": "A. A. Milne",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "childrens",
+        "fantasy"
+      ],
+      "catalog_added_at": "2026-01-14T20:32:36Z",
+      "updated_at": "2026-01-19T13:37:47Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "2a24470d8b66fceb57384a02af30c192f1f9d0a6d9e8ad166d27f90059263bbf",
+      "file_size": 241501495,
+      "available_regions": [
+        "US"
       ]
     },
     {
@@ -101,33 +151,6 @@
       "cover_url": null,
       "data_checksum": "0b0b9ca61efdae3d960a7b0fa2626c4e549c301e28437897abfcabd4be11e116",
       "file_size": 646214717,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ]
-    },
-    {
-      "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
-      "title": "A Study in Scarlet",
-      "author_names": "Arthur Conan Doyle",
-      "publication_type": "novel",
-      "genre_tags": [
-        "mystery",
-        "classics"
-      ],
-      "catalog_added_at": "2026-01-17T23:08:25Z",
-      "updated_at": "2026-01-18T15:57:19Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "7d66de18fa99601f2976ebfbee358e8f3dd63530fc2c8098aa4ee32dd5f7d9b2",
-      "file_size": 405034775,
       "available_regions": [
         "US",
         "CA",
@@ -218,29 +241,6 @@
         "AU",
         "NZ",
         "IE"
-      ]
-    },
-    {
-      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
-      "title": "Winnie-the-Pooh",
-      "author_names": "A. A. Milne",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "childrens",
-        "fantasy"
-      ],
-      "catalog_added_at": "2026-01-14T20:32:36Z",
-      "updated_at": "2026-01-16T13:10:27Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "0cb34ab862537d4e4589cf2615f9fcf030b4874b528c4f16d1017e21e422ce6f",
-      "file_size": 241288299,
-      "available_regions": [
-        "US"
       ]
     },
     {
