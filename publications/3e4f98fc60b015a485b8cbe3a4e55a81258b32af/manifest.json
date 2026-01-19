@@ -7,7 +7,7 @@
   "identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
   "publication_type": "short_stories",
   "cover_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/cover.png",
-  "total_duration_s": 20590.689318999997,
+  "total_duration_s": 20550.176463,
   "genre_tags": [
     "Mystery & Thriller",
     "Hardboiled",
@@ -20,43 +20,43 @@
       "ordinal": 0,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2638.124875
+      "end_s": 2637.788481
     },
     {
       "ordinal": 1,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_1.mp3",
-      "start_s": 2638.124875,
-      "end_s": 5318.0045119999995
+      "start_s": 2637.788481,
+      "end_s": 5317.155579
     },
     {
       "ordinal": 2,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_2.mp3",
-      "start_s": 5318.0045119999995,
-      "end_s": 7937.576485
+      "start_s": 5317.155579,
+      "end_s": 7928.162223
     },
     {
       "ordinal": 3,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_3.mp3",
-      "start_s": 7937.576485,
-      "end_s": 10858.345894999999
+      "start_s": 7928.162223,
+      "end_s": 10837.475057
     },
     {
       "ordinal": 4,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_4.mp3",
-      "start_s": 10858.345894999999,
-      "end_s": 13682.973423
+      "start_s": 10837.475057,
+      "end_s": 13654.357052
     },
     {
       "ordinal": 5,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_5.mp3",
-      "start_s": 13682.973423,
-      "end_s": 15854.470725
+      "start_s": 13654.357052,
+      "end_s": 15820.000703
     },
     {
       "ordinal": 6,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_6.mp3",
-      "start_s": 15854.470725,
-      "end_s": 20590.689318999997
+      "start_s": 15820.000703,
+      "end_s": 20550.176463
     }
   ],
   "segments": [
@@ -64,7 +64,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.473,
+      "end_s": 6.472,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -72,8 +72,8 @@
     {
       "ordinal": 1,
       "title": "SPADE & ARCHER",
-      "start_s": 6.473,
-      "end_s": 725.332,
+      "start_s": 6.472,
+      "end_s": 725.512,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -89,8 +89,8 @@
     {
       "ordinal": 2,
       "title": "DEATH IN THE FOG",
-      "start_s": 725.332,
-      "end_s": 1958.794,
+      "start_s": 725.512,
+      "end_s": 1958.27,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -111,8 +111,8 @@
     {
       "ordinal": 3,
       "title": "THREE WOMEN",
-      "start_s": 1958.794,
-      "end_s": 2638.125,
+      "start_s": 1958.27,
+      "end_s": 2637.788,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -133,8 +133,8 @@
     {
       "ordinal": 4,
       "title": "THE BLACK BIRD",
-      "start_s": 2638.125,
-      "end_s": 3870.019,
+      "start_s": 2637.788,
+      "end_s": 3869.177,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -155,8 +155,8 @@
     {
       "ordinal": 5,
       "title": "THE LEVANTINE",
-      "start_s": 3870.019,
-      "end_s": 4519.832,
+      "start_s": 3869.177,
+      "end_s": 4518.987,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -172,8 +172,8 @@
     {
       "ordinal": 6,
       "title": "THE UNDERSIZED SHADOW",
-      "start_s": 4519.832,
-      "end_s": 5318.005,
+      "start_s": 4518.987,
+      "end_s": 5317.156,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -204,8 +204,8 @@
     {
       "ordinal": 7,
       "title": "G IN THE AIR",
-      "start_s": 5318.005,
-      "end_s": 6473.275,
+      "start_s": 5317.156,
+      "end_s": 6473.109,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -221,8 +221,8 @@
     {
       "ordinal": 8,
       "title": "HORSE FEATHERS",
-      "start_s": 6473.275,
-      "end_s": 7251.517,
+      "start_s": 6473.109,
+      "end_s": 7242.751,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -238,8 +238,8 @@
     {
       "ordinal": 9,
       "title": "BRIGID",
-      "start_s": 7251.517,
-      "end_s": 7937.576,
+      "start_s": 7242.751,
+      "end_s": 7928.162,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -255,8 +255,8 @@
     {
       "ordinal": 10,
       "title": "THE BELVEDERE DIVAN",
-      "start_s": 7937.576,
-      "end_s": 8931.892,
+      "start_s": 7928.162,
+      "end_s": 8920.917,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -287,8 +287,8 @@
     {
       "ordinal": 11,
       "title": "THE FAT MAN",
-      "start_s": 8931.892,
-      "end_s": 9994.186,
+      "start_s": 8920.917,
+      "end_s": 9974.533,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -309,8 +309,8 @@
     {
       "ordinal": 12,
       "title": "MERRY-GO-ROUND",
-      "start_s": 9994.186,
-      "end_s": 10858.346,
+      "start_s": 9974.533,
+      "end_s": 10837.475,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -356,8 +356,8 @@
     {
       "ordinal": 13,
       "title": "THE EMPEROR’S GIFT",
-      "start_s": 10858.346,
-      "end_s": 11860.702,
+      "start_s": 10837.475,
+      "end_s": 11839.206,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -373,8 +373,8 @@
     {
       "ordinal": 14,
       "title": "LA PALOMA",
-      "start_s": 11860.702,
-      "end_s": 12711.214,
+      "start_s": 11839.206,
+      "end_s": 12682.597,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -400,8 +400,8 @@
     {
       "ordinal": 15,
       "title": "EVERY CRACKPOT",
-      "start_s": 12711.214,
-      "end_s": 13682.973,
+      "start_s": 12682.597,
+      "end_s": 13654.357,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -422,8 +422,8 @@
     {
       "ordinal": 16,
       "title": "THE THIRD MURDER",
-      "start_s": 13682.973,
-      "end_s": 14718.809,
+      "start_s": 13654.357,
+      "end_s": 14688.427,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -444,8 +444,8 @@
     {
       "ordinal": 17,
       "title": "SATURDAY NIGHT",
-      "start_s": 14718.809,
-      "end_s": 15854.471,
+      "start_s": 14688.427,
+      "end_s": 15820.001,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -481,8 +481,8 @@
     {
       "ordinal": 18,
       "title": "THE FALL-GUY",
-      "start_s": 15854.471,
-      "end_s": 17444.006,
+      "start_s": 15820.001,
+      "end_s": 17407.409,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -498,8 +498,8 @@
     {
       "ordinal": 19,
       "title": "THE RUSSIAN’S HAND",
-      "start_s": 17444.006,
-      "end_s": 19354.552,
+      "start_s": 17407.409,
+      "end_s": 19316.636,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -515,8 +515,8 @@
     {
       "ordinal": 20,
       "title": "IF THEY HANG YOU",
-      "start_s": 19354.552,
-      "end_s": 20590.689,
+      "start_s": 19316.636,
+      "end_s": 20550.176,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -584,7 +584,7 @@
         "gender": "male",
         "voice_accent": "american"
       },
-      "dialogue_count": 1005,
+      "dialogue_count": 1006,
       "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SAM_SPADE.png",
       "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SAM_SPADE.mp3"
     },
