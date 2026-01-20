@@ -1,5 +1,34 @@
 [
   {
+    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+    "title": "The Wonderful Wizard of Oz",
+    "author_names": "L. Frank Baum",
+    "publication_type": "novel",
+    "genre_tags": [
+      "fantasy",
+      "childrens",
+      "adventure",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-16T15:55:06Z",
+    "updated_at": "2026-01-20T18:04:33Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "dbfd65daee9d92d87d2397227de6eaaf0d60be7c8328f76dc17c6265a94cf1f4",
+    "file_size": 428152436,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ]
+  },
+  {
     "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
     "title": "The Maltese Falcon",
     "author_names": "Dashiell Hammett",
@@ -20,35 +49,6 @@
       "US",
       "CA",
       "NZ"
-    ]
-  },
-  {
-    "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-    "title": "The Wonderful Wizard of Oz",
-    "author_names": "L. Frank Baum",
-    "publication_type": "novel",
-    "genre_tags": [
-      "fantasy",
-      "childrens",
-      "adventure",
-      "classics"
-    ],
-    "catalog_added_at": "2026-01-16T15:55:06Z",
-    "updated_at": "2026-01-19T13:48:11Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "48c9bea2fa90866cbace2fc241913aed0ac849af9fbe6fd6f989781aa17f02ae",
-    "file_size": 428339915,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
     ]
   },
   {

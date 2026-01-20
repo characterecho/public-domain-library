@@ -7,7 +7,7 @@
   "identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
   "publication_type": "novel",
   "cover_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.png",
-  "total_duration_s": 11643.438118,
+  "total_duration_s": 11638.419705,
   "genre_tags": [
     "Fantasy",
     "Children's Literature",
@@ -32,7 +32,7 @@
       "ordinal": 2,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_2.mp3",
       "start_s": 6182.851542,
-      "end_s": 11643.438118
+      "end_s": 11638.419705
     }
   ],
   "segments": [
@@ -266,7 +266,7 @@
       "ordinal": 12,
       "title": "Chapter XII The Search for the Wicked Witch",
       "start_s": 6182.852,
-      "end_s": 7279.478,
+      "end_s": 7279.474,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -292,8 +292,8 @@
     {
       "ordinal": 13,
       "title": "Chapter XIII The Rescue",
-      "start_s": 7279.478,
-      "end_s": 7644.326,
+      "start_s": 7279.474,
+      "end_s": 7644.322,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -309,8 +309,8 @@
     {
       "ordinal": 14,
       "title": "Chapter XIV The Winged Monkeys",
-      "start_s": 7644.326,
-      "end_s": 8207.303,
+      "start_s": 7644.322,
+      "end_s": 8207.297,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -331,8 +331,8 @@
     {
       "ordinal": 15,
       "title": "Chapter XV The Discovery of Oz, the Terrible",
-      "start_s": 8207.303,
-      "end_s": 9002.719,
+      "start_s": 8207.297,
+      "end_s": 9001.102,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -348,8 +348,8 @@
     {
       "ordinal": 16,
       "title": "Chapter XVI The Magic Art of the Great Humbug",
-      "start_s": 9002.719,
-      "end_s": 9279.42,
+      "start_s": 9001.102,
+      "end_s": 9277.393,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -365,8 +365,8 @@
     {
       "ordinal": 17,
       "title": "Chapter XVII How the Balloon Was Launched",
-      "start_s": 9279.42,
-      "end_s": 9616.071,
+      "start_s": 9277.393,
+      "end_s": 9614.043,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -382,8 +382,8 @@
     {
       "ordinal": 18,
       "title": "Chapter XVIII Away to the South",
-      "start_s": 9616.071,
-      "end_s": 9937.174,
+      "start_s": 9614.043,
+      "end_s": 9935.145,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -399,8 +399,8 @@
     {
       "ordinal": 19,
       "title": "Chapter XIX Attacked by the Fighting Trees",
-      "start_s": 9937.174,
-      "end_s": 10239.35,
+      "start_s": 9935.145,
+      "end_s": 10237.32,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -431,8 +431,8 @@
     {
       "ordinal": 20,
       "title": "Chapter XX The Dainty China Country",
-      "start_s": 10239.35,
-      "end_s": 10692.877,
+      "start_s": 10237.32,
+      "end_s": 10687.862,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -448,8 +448,8 @@
     {
       "ordinal": 21,
       "title": "Chapter XXI The Lion Becomes the King of Beasts",
-      "start_s": 10692.877,
-      "end_s": 10965.841,
+      "start_s": 10687.862,
+      "end_s": 10960.824,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -465,8 +465,8 @@
     {
       "ordinal": 22,
       "title": "Chapter XXII The Country of the Quadlings",
-      "start_s": 10965.841,
-      "end_s": 11249.197,
+      "start_s": 10960.824,
+      "end_s": 11244.18,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -487,8 +487,8 @@
     {
       "ordinal": 23,
       "title": "Chapter XXIII Glinda The Good Witch Grants Dorothy’s Wish",
-      "start_s": 11249.197,
-      "end_s": 11614.027,
+      "start_s": 11244.18,
+      "end_s": 11609.008,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -509,8 +509,8 @@
     {
       "ordinal": 24,
       "title": "Chapter XXIV Home Again",
-      "start_s": 11614.027,
-      "end_s": 11643.438,
+      "start_s": 11609.008,
+      "end_s": 11638.42,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -544,7 +544,7 @@
         "gender": "male",
         "voice_accent": "refined"
       },
-      "dialogue_count": 546,
+      "dialogue_count": 547,
       "image_key": null,
       "voice_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/characters/NARRATOR.mp3"
     },
@@ -1778,7 +1778,7 @@
       "identifier": "SCENE_CHINA_COUNTRY",
       "ordinal": 0,
       "location_header": "INT. CHINA COUNTRY - DAY",
-      "visual_description": "A surreal, miniature landscape made entirely of porcelain. The ground is a smooth, gleaming white porcelain surface. Small, brightly colored china houses and barns with china fences dot the landscape. The atmosphere is delicate, artificial, and whimsically bright under clear lighting. Colors are vivid primary hues against the stark white ground.",
+      "visual_description": "A surreal,  landscape made entirely of porcelain. The ground is a smooth, gleaming white porcelain surface. Small but life-sized, brightly colored porcelain china houses and barns with porcelain china fences dot the landscape. The atmosphere is delicate, artificial, and whimsically bright under clear lighting. Colors are vivid primary hues against the stark white ground.",
       "metadata": {},
       "image_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/scenes/scene_SCENE_CHINA_COUNTRY.jpg"
     },
