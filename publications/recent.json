@@ -1,5 +1,28 @@
 [
   {
+    "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
+    "title": "The Maltese Falcon",
+    "author_names": "Dashiell Hammett",
+    "publication_type": "short_stories",
+    "genre_tags": [
+      "mystery"
+    ],
+    "catalog_added_at": "2026-01-14T23:54:57Z",
+    "updated_at": "2026-01-21T14:55:05Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "90248bf4fae0d54bc22d04229e1dd2a6d2100617822b8727490d868789bb015a",
+    "file_size": 522298407,
+    "available_regions": [
+      "US",
+      "CA",
+      "NZ"
+    ]
+  },
+  {
     "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
     "title": "The Wonderful Wizard of Oz",
     "author_names": "L. Frank Baum",
@@ -11,14 +34,14 @@
       "classics"
     ],
     "catalog_added_at": "2026-01-16T15:55:06Z",
-    "updated_at": "2026-01-20T18:04:33Z",
+    "updated_at": "2026-01-21T14:50:32Z",
     "duration": {
       "total_ms": 0,
       "formatted": "0m"
     },
     "cover_url": null,
-    "data_checksum": "dbfd65daee9d92d87d2397227de6eaaf0d60be7c8328f76dc17c6265a94cf1f4",
-    "file_size": 428152436,
+    "data_checksum": "500d93d53e15b5b0f625271c55b9cd88d311188413bac0164e8dc8e3b527dc3e",
+    "file_size": 428151548,
     "available_regions": [
       "US",
       "CA",
@@ -26,29 +49,6 @@
       "AU",
       "NZ",
       "IE"
-    ]
-  },
-  {
-    "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
-    "title": "The Maltese Falcon",
-    "author_names": "Dashiell Hammett",
-    "publication_type": "short_stories",
-    "genre_tags": [
-      "mystery"
-    ],
-    "catalog_added_at": "2026-01-14T23:54:57Z",
-    "updated_at": "2026-01-19T13:53:04Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "397d4d853ddf0632b3b6ae531e2570df3737ca85a4ffb794a2fb3d8f48ca3ffe",
-    "file_size": 522739489,
-    "available_regions": [
-      "US",
-      "CA",
-      "NZ"
     ]
   },
   {
