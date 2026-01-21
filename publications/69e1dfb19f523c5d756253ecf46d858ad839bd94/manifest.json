@@ -7,7 +7,7 @@
   "identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
   "publication_type": "novel",
   "cover_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.png",
-  "total_duration_s": 11638.419705,
+  "total_duration_s": 11638.675918,
   "genre_tags": [
     "Fantasy",
     "Children's Literature",
@@ -32,7 +32,7 @@
       "ordinal": 2,
       "audio_key": "publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/audio_part_2.mp3",
       "start_s": 6182.851542,
-      "end_s": 11638.419705
+      "end_s": 11638.675918
     }
   ],
   "segments": [
@@ -266,7 +266,7 @@
       "ordinal": 12,
       "title": "Chapter XII The Search for the Wicked Witch",
       "start_s": 6182.852,
-      "end_s": 7279.474,
+      "end_s": 7279.476,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -292,8 +292,8 @@
     {
       "ordinal": 13,
       "title": "Chapter XIII The Rescue",
-      "start_s": 7279.474,
-      "end_s": 7644.322,
+      "start_s": 7279.476,
+      "end_s": 7644.325,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -309,8 +309,8 @@
     {
       "ordinal": 14,
       "title": "Chapter XIV The Winged Monkeys",
-      "start_s": 7644.322,
-      "end_s": 8207.297,
+      "start_s": 7644.325,
+      "end_s": 8207.301,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -331,8 +331,8 @@
     {
       "ordinal": 15,
       "title": "Chapter XV The Discovery of Oz, the Terrible",
-      "start_s": 8207.297,
-      "end_s": 9001.102,
+      "start_s": 8207.301,
+      "end_s": 9001.108,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -348,8 +348,8 @@
     {
       "ordinal": 16,
       "title": "Chapter XVI The Magic Art of the Great Humbug",
-      "start_s": 9001.102,
-      "end_s": 9277.393,
+      "start_s": 9001.108,
+      "end_s": 9277.4,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -365,8 +365,8 @@
     {
       "ordinal": 17,
       "title": "Chapter XVII How the Balloon Was Launched",
-      "start_s": 9277.393,
-      "end_s": 9614.043,
+      "start_s": 9277.4,
+      "end_s": 9614.05,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -382,8 +382,8 @@
     {
       "ordinal": 18,
       "title": "Chapter XVIII Away to the South",
-      "start_s": 9614.043,
-      "end_s": 9935.145,
+      "start_s": 9614.05,
+      "end_s": 9935.153,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -399,8 +399,8 @@
     {
       "ordinal": 19,
       "title": "Chapter XIX Attacked by the Fighting Trees",
-      "start_s": 9935.145,
-      "end_s": 10237.32,
+      "start_s": 9935.153,
+      "end_s": 10237.329,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -431,8 +431,8 @@
     {
       "ordinal": 20,
       "title": "Chapter XX The Dainty China Country",
-      "start_s": 10237.32,
-      "end_s": 10687.862,
+      "start_s": 10237.329,
+      "end_s": 10688.116,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -448,8 +448,8 @@
     {
       "ordinal": 21,
       "title": "Chapter XXI The Lion Becomes the King of Beasts",
-      "start_s": 10687.862,
-      "end_s": 10960.824,
+      "start_s": 10688.116,
+      "end_s": 10961.079,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -465,8 +465,8 @@
     {
       "ordinal": 22,
       "title": "Chapter XXII The Country of the Quadlings",
-      "start_s": 10960.824,
-      "end_s": 11244.18,
+      "start_s": 10961.079,
+      "end_s": 11244.435,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -487,8 +487,8 @@
     {
       "ordinal": 23,
       "title": "Chapter XXIII Glinda The Good Witch Grants Dorothy’s Wish",
-      "start_s": 11244.18,
-      "end_s": 11609.008,
+      "start_s": 11244.435,
+      "end_s": 11609.265,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -509,8 +509,8 @@
     {
       "ordinal": 24,
       "title": "Chapter XXIV Home Again",
-      "start_s": 11609.008,
-      "end_s": 11638.42,
+      "start_s": 11609.265,
+      "end_s": 11638.676,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
