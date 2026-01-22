@@ -7,7 +7,7 @@
   "identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
   "publication_type": "short_stories",
   "cover_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/cover.png",
-  "total_duration_s": 20569.186053999998,
+  "total_duration_s": 20547.756052999997,
   "genre_tags": [
     "Mystery & Thriller",
     "Hardboiled",
@@ -44,19 +44,19 @@
       "ordinal": 4,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_4.mp3",
       "start_s": 10847.320113,
-      "end_s": 13669.995826999999
+      "end_s": 13657.182402999999
     },
     {
       "ordinal": 5,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_5.mp3",
-      "start_s": 13669.995826999999,
-      "end_s": 15837.129477999999
+      "start_s": 13657.182402999999,
+      "end_s": 15821.413218999998
     },
     {
       "ordinal": 6,
       "audio_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/audio_part_6.mp3",
-      "start_s": 15837.129477999999,
-      "end_s": 20569.186053999998
+      "start_s": 15821.413218999998,
+      "end_s": 20547.756052999997
     }
   ],
   "segments": [
@@ -357,7 +357,7 @@
       "ordinal": 13,
       "title": "THE EMPEROR’S GIFT",
       "start_s": 10847.32,
-      "end_s": 11852.314,
+      "end_s": 11852.27,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -373,8 +373,8 @@
     {
       "ordinal": 14,
       "title": "LA PALOMA",
-      "start_s": 11852.314,
-      "end_s": 12697.264,
+      "start_s": 11852.27,
+      "end_s": 12697.183,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -400,8 +400,8 @@
     {
       "ordinal": 15,
       "title": "EVERY CRACKPOT",
-      "start_s": 12697.264,
-      "end_s": 13669.996,
+      "start_s": 12697.183,
+      "end_s": 13657.182,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -422,8 +422,8 @@
     {
       "ordinal": 16,
       "title": "THE THIRD MURDER",
-      "start_s": 13669.996,
-      "end_s": 14705.071,
+      "start_s": 13657.182,
+      "end_s": 14691.406,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -444,8 +444,8 @@
     {
       "ordinal": 17,
       "title": "SATURDAY NIGHT",
-      "start_s": 14705.071,
-      "end_s": 15837.129,
+      "start_s": 14691.406,
+      "end_s": 15821.413,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -481,8 +481,8 @@
     {
       "ordinal": 18,
       "title": "THE FALL-GUY",
-      "start_s": 15837.129,
-      "end_s": 17425.418,
+      "start_s": 15821.413,
+      "end_s": 17408.439,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -498,8 +498,8 @@
     {
       "ordinal": 19,
       "title": "THE RUSSIAN’S HAND",
-      "start_s": 17425.418,
-      "end_s": 19335.645,
+      "start_s": 17408.439,
+      "end_s": 19314.157,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -515,8 +515,8 @@
     {
       "ordinal": 20,
       "title": "IF THEY HANG YOU",
-      "start_s": 19335.645,
-      "end_s": 20569.186,
+      "start_s": 19314.157,
+      "end_s": 20547.756,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -555,7 +555,7 @@
         "gender": "female",
         "voice_accent": "american"
       },
-      "dialogue_count": 1343,
+      "dialogue_count": 1337,
       "image_key": null,
       "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/NARRATOR.mp3"
     },
@@ -584,7 +584,7 @@
         "gender": "male",
         "voice_accent": "american"
       },
-      "dialogue_count": 1008,
+      "dialogue_count": 1007,
       "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SAM_SPADE.png",
       "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/SAM_SPADE.mp3"
     },
@@ -955,7 +955,7 @@
         "voice_accent": "american"
       },
       "dialogue_count": 16,
-      "image_key": null,
+      "image_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/THE_YOUTH.png",
       "voice_key": "publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/characters/THE_YOUTH.mp3"
     },
     {
