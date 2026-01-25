@@ -1,0 +1,1658 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "The Seven Dials Mystery",
+  "author_names": "Agatha Christie",
+  "description": "Publication imported from https://gutenberg.org/ebooks/75288.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/75288.epub3.images",
+  "identifier": "bfc2d9871cc9d63f2a599f967064fb73490c34ff",
+  "publication_type": "novel",
+  "cover_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/cover.png",
+  "total_duration_s": 1518.736689,
+  "genre_tags": [
+    "Mystery & Thriller",
+    "Golden Age Detective Fiction",
+    "Classic Crime",
+    "British Literature"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 1518.736689
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.988,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Chapter I",
+      "start_s": 7.988,
+      "end_s": 643.89,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "CHIMNEYS_HALL",
+            "location_header": "INT. CHIMNEYS - HALL - MORNING",
+            "visual_description": "1920s English country house interior. A grand wooden staircase descends into a spacious hall with polished parquet floors. Sunlight streams through high windows, illuminating portraits on the walls. A sense of aristocratic history mixed with morning activity."
+          },
+          {
+            "identifier": "CHIMNEYS_BREAKFAST_ROOM",
+            "location_header": "INT. CHIMNEYS - BREAKFAST ROOM - MORNING",
+            "visual_description": "A bright, airy morning room in a stately home. A round table set with white linen and silver. A sideboard displays chafing dishes. Large windows look out onto manicured gardens. The atmosphere is quiet, contrasting with the sunny exterior."
+          },
+          {
+            "identifier": "CHIMNEYS_TERRACE",
+            "location_header": "EXT. CHIMNEYS - TERRACE - MORNING",
+            "visual_description": "A broad stone terrace overlooking extensive English gardens. Stone balustrades, urns with flowers, and steps leading down to lawns. Bright morning sunshine illuminates the facade of the great house. The mood is crisp and fresh."
+          },
+          {
+            "identifier": "CHIMNEYS_LAKE",
+            "location_header": "EXT. CHIMNEYS - LAKE - MORNING",
+            "visual_description": "The edge of an ornamental lake on the estate grounds. Willow trees droop over the water, grassy banks are sunlit. A boathouse or punt is visible. The atmosphere is leisurely and idle, typical of a house party."
+          },
+          {
+            "identifier": "MARKET_BASING_STORE",
+            "location_header": "INT. MARKET BASING STORE - DAY",
+            "visual_description": "Interior of a provincial general store in the 1920s. Wooden counters, shelves stacked high with household goods, hardware, and clocks. Somewhat dimmer than the bright outdoors, cluttered but organized."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter II",
+      "start_s": 643.89,
+      "end_s": 1041.857,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "CHIMNEYS_DRAWING_ROOM",
+            "location_header": "INT. CHIMNEYS - DRAWING ROOM - NIGHT",
+            "visual_description": "A large formal room in the country house, evening. Electric chandeliers cast a warm glow. Bridge tables are set up with green baize surfaces. Heavy velvet curtains are drawn. The atmosphere is of polite after-dinner entertainment, with the faint scent of cigar smoke."
+          },
+          {
+            "identifier": "CHIMNEYS_UPSTAIRS_CORRIDOR",
+            "location_header": "INT. CHIMNEYS - UPSTAIRS CORRIDOR - NIGHT",
+            "visual_description": "A long, carpeted hallway on the upper floor. Bedroom doors line the walls. Sconce lighting provides subdued illumination. Shadows stretch along the floor. The atmosphere is quiet and conspiratorial."
+          },
+          {
+            "identifier": "GERALD_WADE_BEDROOM",
+            "location_header": "INT. GERALD WADE'S BEDROOM - NIGHT",
+            "visual_description": "A bedroom in the country house, dark at first. A bed is visible, and a mantelpiece. The sounds of heavy breathing indicate a sleeper. Later, the room is filled with the sound of ticking."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter III",
+      "start_s": 1041.857,
+      "end_s": 1518.737,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "CHIMNEYS_DINING_ROOM",
+            "location_header": "INT. CHIMNEYS - DINING ROOM - DAY",
+            "visual_description": "Morning in the large dining room. The table is cleared of breakfast things except for one setting. The room is filled with tension and expectant silence, contrasting with the bright daylight outside."
+          },
+          {
+            "identifier": "CHIMNEYS_TERRACE",
+            "location_header": "EXT. CHIMNEYS - TERRACE - DAY",
+            "visual_description": "The stone terrace outside the dining room. Secluded and quiet. Stone benches and views of the garden. The mood is sombre and shocked."
+          },
+          {
+            "identifier": "CHIMNEYS_LIBRARY",
+            "location_header": "INT. CHIMNEYS - LIBRARY - DAY",
+            "visual_description": "A room lined with books, leather armchairs, and a large mahogany desk. The atmosphere is formal and serious, appropriate for a medical consultation."
+          },
+          {
+            "identifier": "DEANE_PRIORY_GARDEN",
+            "location_header": "EXT. DEANE PRIORY - GARDEN - DAY",
+            "visual_description": "A neglected garden with a paved walk. Overgrown plants and flowers. A grey stone house in the background. The atmosphere is melancholy but peaceful."
+          },
+          {
+            "identifier": "GERALD_WADE_BEDROOM",
+            "location_header": "INT. GERALD WADE'S BEDROOM - DAY",
+            "visual_description": "A bedroom with drawn curtains, dim light. White flowers on the coverlet of the bed where a still form lies. On the mantelpiece, seven clocks are neatly arranged. The atmosphere is deathly still."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [],
+      "visual_attributes": [],
+      "roles": [],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 746,
+      "image_key": null,
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "BUNDLE",
+      "name": "Bundle",
+      "aliases": [
+        "Lady Eileen Brent"
+      ],
+      "voice_attributes": [
+        "dry",
+        "autocratic",
+        "soothing"
+      ],
+      "visual_attributes": [
+        "young",
+        "sharp features",
+        "stylish"
+      ],
+      "roles": [
+        "daughter",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 569,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JIMMY_THESIGER",
+      "name": "Jimmy",
+      "aliases": [],
+      "voice_attributes": [
+        "amiable",
+        "light",
+        "cheerful",
+        "whispering",
+        "grumbling",
+        "slow",
+        "kind"
+      ],
+      "visual_attributes": [
+        "fair hair",
+        "cherubic face",
+        "vacuous expression",
+        "well-dressed",
+        "young",
+        "evening dress",
+        "morning dress",
+        "shocked face"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 407,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/JIMMY_THESIGER.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/JIMMY_THESIGER.mp3"
+    },
+    {
+      "identifier": "SUPERINTENDENT_BATTLE",
+      "name": "Battle",
+      "aliases": [],
+      "voice_attributes": [
+        "placid",
+        "wooden",
+        "unemotional",
+        "steady",
+        "stolid"
+      ],
+      "visual_attributes": [
+        "big man",
+        "wooden face",
+        "unintelligent looking",
+        "stolid expression",
+        "middle aged",
+        "suit"
+      ],
+      "roles": [
+        "detective",
+        "police officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 229,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BILL_EVERSLEIGH",
+      "name": "Bill",
+      "aliases": [
+        "Bill"
+      ],
+      "voice_attributes": [
+        "hearty",
+        "loud",
+        "eager",
+        "hopeful",
+        "impressed"
+      ],
+      "visual_attributes": [
+        "big build",
+        "amiable face",
+        "young",
+        "evening dress",
+        "morning dress"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 197,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/BILL_EVERSLEIGH.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/BILL_EVERSLEIGH.mp3"
+    },
+    {
+      "identifier": "LORD_CATERHAM",
+      "name": "Lord Caterham",
+      "aliases": [],
+      "voice_attributes": [
+        "plaintive",
+        "gentle",
+        "mournful"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "aristocratic",
+        "weary face"
+      ],
+      "roles": [
+        "father",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 126,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LORAINE_WADE",
+      "name": "Loraine",
+      "aliases": [
+        "Loraine"
+      ],
+      "voice_attributes": [
+        "natural",
+        "passionate",
+        "piteous",
+        "soft"
+      ],
+      "visual_attributes": [
+        "small",
+        "fair hair",
+        "blue eyes",
+        "shabby tweeds",
+        "mourning clothes"
+      ],
+      "roles": [
+        "sister"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 107,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/LORAINE_WADE.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/LORAINE_WADE.mp3"
+    },
+    {
+      "identifier": "LADY_COOTE",
+      "name": "Lady Coote",
+      "aliases": [],
+      "voice_attributes": [
+        "melancholy",
+        "deep",
+        "tragic",
+        "soothing",
+        "amiable",
+        "tearful"
+      ],
+      "visual_attributes": [
+        "large woman",
+        "dark hair",
+        "mournful eyes",
+        "handsome",
+        "expensive clothes",
+        "evening gown",
+        "jewelry",
+        "mourning clothes"
+      ],
+      "roles": [
+        "hostess"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 93,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/LADY_COOTE.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/LADY_COOTE.mp3"
+    },
+    {
+      "identifier": "GEORGE_LOMAX",
+      "name": "George",
+      "aliases": [
+        "Codders"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "authoritative",
+        "fussy"
+      ],
+      "visual_attributes": [
+        "middle aged",
+        "balding",
+        "formal suit",
+        "puckered brow"
+      ],
+      "roles": [
+        "cabinet minister",
+        "host"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 63,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SIR_OSWALD_COOTE",
+      "name": "Sir Oswald",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "curt"
+      ],
+      "visual_attributes": [
+        "iron-grey hair",
+        "red face",
+        "large build",
+        "evening dress"
+      ],
+      "roles": [
+        "host"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 54,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/SIR_OSWALD_COOTE.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/SIR_OSWALD_COOTE.mp3"
+    },
+    {
+      "identifier": "RONNY_DEVEREUX",
+      "name": "Ronny",
+      "aliases": [],
+      "voice_attributes": [
+        "casual",
+        "smooth",
+        "thoughtful",
+        "demurring",
+        "hoarse",
+        "dazed"
+      ],
+      "visual_attributes": [
+        "young",
+        "smart appearance",
+        "evening dress",
+        "morning dress",
+        "pale face"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 39,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/RONNY_DEVEREUX.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/RONNY_DEVEREUX.mp3"
+    },
+    {
+      "identifier": "COUNTESS_RADZKY",
+      "name": "Miss St. Maur",
+      "aliases": [
+        "No. 1",
+        "Anna",
+        "Babe St. Maur"
+      ],
+      "voice_attributes": [
+        "musical",
+        "foreign",
+        "seductive",
+        "deep",
+        "nasal",
+        "american"
+      ],
+      "visual_attributes": [
+        "beautiful",
+        "dark slavonic face",
+        "black hair",
+        "pale skin",
+        "mole on shoulder",
+        "clock mask",
+        "black velvet gown"
+      ],
+      "roles": [
+        "aristocrat",
+        "conspirator",
+        "actress"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 38,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ALFRED",
+      "name": "Alfred",
+      "aliases": [],
+      "voice_attributes": [
+        "nervous",
+        "respectful",
+        "scared"
+      ],
+      "visual_attributes": [
+        "tall",
+        "fair hair",
+        "weak anaemic face",
+        "shifty eyes",
+        "doorman uniform"
+      ],
+      "roles": [
+        "doorman",
+        "ex-footman"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 37,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MOSGOROVSKY",
+      "name": "Mosgorovsky",
+      "aliases": [],
+      "voice_attributes": [
+        "deep",
+        "authoritative",
+        "russian",
+        "cold"
+      ],
+      "visual_attributes": [
+        "tall",
+        "broad shouldered",
+        "long black beard",
+        "mask",
+        "clock mask"
+      ],
+      "roles": [
+        "proprietor",
+        "conspirator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "russian"
+      },
+      "dialogue_count": 32,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "TREDWELL",
+      "name": "Tredwell",
+      "aliases": [],
+      "voice_attributes": [
+        "stately",
+        "dignified",
+        "deep",
+        "apologetic",
+        "grave"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "butler uniform",
+        "grave expression",
+        "upright posture",
+        "solemn face"
+      ],
+      "roles": [
+        "butler"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 27,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/TREDWELL.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/TREDWELL.mp3"
+    },
+    {
+      "identifier": "SOCKS",
+      "name": "Socks",
+      "aliases": [],
+      "voice_attributes": [
+        "thoughtful",
+        "playful",
+        "whispering",
+        "despairing",
+        "impressed"
+      ],
+      "visual_attributes": [
+        "fair hair",
+        "young",
+        "stylish",
+        "evening gown",
+        "morning dress"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 25,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/SOCKS.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/SOCKS.mp3"
+    },
+    {
+      "identifier": "STEVENS",
+      "name": "Stevens",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "expressionless",
+        "correct"
+      ],
+      "visual_attributes": [
+        "manservant",
+        "impeccable suit"
+      ],
+      "roles": [
+        "valet"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 24,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "RUPERT_BATEMAN",
+      "name": "Mr. Bateman",
+      "aliases": [
+        "Pongo"
+      ],
+      "voice_attributes": [
+        "serious",
+        "brisk",
+        "dry",
+        "efficient",
+        "curt"
+      ],
+      "visual_attributes": [
+        "spectacles",
+        "serious face",
+        "neat suit",
+        "young",
+        "evening dress",
+        "morning suit"
+      ],
+      "roles": [
+        "secretary"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/RUPERT_BATEMAN.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/RUPERT_BATEMAN.mp3"
+    },
+    {
+      "identifier": "TERENCE_OROURKE",
+      "name": "O'Rourke",
+      "aliases": [],
+      "voice_attributes": [
+        "enthusiastic",
+        "irish"
+      ],
+      "visual_attributes": [
+        "tall",
+        "young",
+        "laughing blue eyes",
+        "typical irish face"
+      ],
+      "roles": [
+        "politician"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "irish"
+      },
+      "dialogue_count": 16,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DR_CASSELL",
+      "name": "Dr. Cassell",
+      "aliases": [],
+      "voice_attributes": [
+        "kindly",
+        "professional",
+        "calm",
+        "serious"
+      ],
+      "visual_attributes": [
+        "middle aged",
+        "spectacles",
+        "suit"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 16,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MACDONALD",
+      "name": "MacDonald",
+      "aliases": [],
+      "voice_attributes": [
+        "mournful",
+        "firm",
+        "scottish",
+        "gloom",
+        "dour"
+      ],
+      "visual_attributes": [
+        "weathered face",
+        "gardener clothes",
+        "dour expression"
+      ],
+      "roles": [
+        "head gardener"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "scottish"
+      },
+      "dialogue_count": 13,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/MACDONALD.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/MACDONALD.mp3"
+    },
+    {
+      "identifier": "LADY_CATERHAM",
+      "name": "Lady Caterham",
+      "aliases": [
+        "Aunt Marcia"
+      ],
+      "voice_attributes": [
+        "frigid",
+        "commanding",
+        "deep",
+        "haughty"
+      ],
+      "visual_attributes": [
+        "large woman",
+        "beaked nose",
+        "gold rimmed pince-nez",
+        "faint moustache",
+        "majestic"
+      ],
+      "roles": [
+        "aristocrat",
+        "aunt"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 12,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GERALD_WADE",
+      "name": "Gerry",
+      "aliases": [
+        "Gerry"
+      ],
+      "voice_attributes": [
+        "vacuous",
+        "cheerful",
+        "slow",
+        "admiring"
+      ],
+      "visual_attributes": [
+        "fair hair",
+        "cherubic face",
+        "open expression",
+        "young",
+        "evening dress"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 12,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/GERALD_WADE.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/GERALD_WADE.mp3"
+    },
+    {
+      "identifier": "DR_CARTWRIGHT",
+      "name": "Dr. Cartwright",
+      "aliases": [],
+      "voice_attributes": [
+        "energetic",
+        "sharp"
+      ],
+      "visual_attributes": [
+        "thin",
+        "clever face",
+        "suit"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/DR_CARTWRIGHT.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/DR_CARTWRIGHT.mp3"
+    },
+    {
+      "identifier": "NO_5_FOREIGNER",
+      "name": "No. 5",
+      "aliases": [
+        "The Young Man"
+      ],
+      "voice_attributes": [
+        "stilted english",
+        "soft",
+        "venomous",
+        "lisping",
+        "cynical"
+      ],
+      "visual_attributes": [
+        "elegant",
+        "slender",
+        "young",
+        "evening dress",
+        "clock mask"
+      ],
+      "roles": [
+        "conspirator"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "foreign"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NO_4_AMERICAN",
+      "name": "The American",
+      "aliases": [
+        "No. 4"
+      ],
+      "voice_attributes": [
+        "pleasant",
+        "american drawl",
+        "irish inflection"
+      ],
+      "visual_attributes": [
+        "wiry",
+        "lean",
+        "evening dress",
+        "clock mask"
+      ],
+      "roles": [
+        "conspirator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 8,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NO_3_ENGLISHMAN",
+      "name": "No. 3",
+      "aliases": [
+        "The Englishman"
+      ],
+      "voice_attributes": [
+        "low",
+        "pleasant",
+        "well-bred"
+      ],
+      "visual_attributes": [
+        "tall",
+        "heavily built",
+        "mask",
+        "clock mask"
+      ],
+      "roles": [
+        "conspirator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SIR_STANLEY_DIGBY",
+      "name": "Sir Stanley",
+      "aliases": [],
+      "voice_attributes": [
+        "cheerful",
+        "professional"
+      ],
+      "visual_attributes": [
+        "little round man",
+        "cheerful smile"
+      ],
+      "roles": [
+        "cabinet minister"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NANCY",
+      "name": "Nancy",
+      "aliases": [],
+      "voice_attributes": [
+        "bright",
+        "young"
+      ],
+      "visual_attributes": [
+        "shingled hair",
+        "1920s fashion"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/NANCY.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/NANCY.mp3"
+    },
+    {
+      "identifier": "MRS_HOWELL",
+      "name": "Mrs. Howell",
+      "aliases": [],
+      "voice_attributes": [
+        "superior",
+        "respectful",
+        "dignified"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "black dress",
+        "housekeeper keys",
+        "stiff posture"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HERR_EBERHARD",
+      "name": "Eberhard",
+      "aliases": [],
+      "voice_attributes": [
+        "stilted",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "thin",
+        "weedy",
+        "anaemic",
+        "blue eyes",
+        "shy"
+      ],
+      "roles": [
+        "inventor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HOUSEMAID",
+      "name": "Housemaid",
+      "aliases": [],
+      "voice_attributes": [
+        "excited",
+        "shrill"
+      ],
+      "visual_attributes": [
+        "servant uniform",
+        "young"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FOOTMAN",
+      "name": "Footman",
+      "aliases": [],
+      "voice_attributes": [
+        "shocked"
+      ],
+      "visual_attributes": [
+        "footman livery"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "POLICE_SERGEANT",
+      "name": "Sergeant",
+      "aliases": [],
+      "voice_attributes": [
+        "dutiful",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "police uniform"
+      ],
+      "roles": [
+        "police officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "POLICE_INSPECTOR",
+      "name": "Inspector",
+      "aliases": [],
+      "voice_attributes": [
+        "slow speaking",
+        "respectful",
+        "ponderous"
+      ],
+      "visual_attributes": [
+        "police uniform",
+        "heavy build"
+      ],
+      "roles": [
+        "police officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "WYVERN_BUTLER",
+      "name": "Butler",
+      "aliases": [],
+      "voice_attributes": [
+        "brave",
+        "dignified"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "butler uniform"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "KATIES_MOTHER",
+      "name": "Mother",
+      "aliases": [],
+      "voice_attributes": [
+        "harsh",
+        "loud",
+        "rural"
+      ],
+      "visual_attributes": [
+        "apron",
+        "middle aged",
+        "country woman"
+      ],
+      "roles": [
+        "resident"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HELEN",
+      "name": "Helen",
+      "aliases": [],
+      "voice_attributes": [
+        "giggling"
+      ],
+      "visual_attributes": [
+        "dark hair",
+        "young"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/HELEN.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/HELEN.mp3"
+    },
+    {
+      "identifier": "MR_MURGATROYD",
+      "name": "Mr. Murgatroyd",
+      "aliases": [],
+      "voice_attributes": [
+        "solicitous",
+        "puzzled"
+      ],
+      "visual_attributes": [
+        "middle aged",
+        "shopkeeper apron"
+      ],
+      "roles": [
+        "shopkeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/MR_MURGATROYD.png",
+      "voice_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/characters/MR_MURGATROYD.mp3"
+    },
+    {
+      "identifier": "UNSHAVEN_MAN",
+      "name": "Man",
+      "aliases": [],
+      "voice_attributes": [
+        "drunk",
+        "sympathetic",
+        "slurring"
+      ],
+      "visual_attributes": [
+        "unshaven",
+        "shabby clothes",
+        "smell of alcohol"
+      ],
+      "roles": [
+        "bystander"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "LORAINE_WADE_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. LORAINE WADE'S BEDROOM - NIGHT",
+      "visual_description": "Loraine Wade's bedroom. Night. Simple and comfortable. Two large dogs sleep on rugs. A dressing table with a drawer. Atmosphere is quiet but alert.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_DINING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. CHIMNEYS - DINING ROOM - DAY",
+      "visual_description": "Morning in the large dining room. The table is cleared of breakfast things except for one setting. The room is filled with tension and expectant silence, contrasting with the bright daylight outside.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "CHIMNEYS_LIBRARY",
+      "ordinal": 0,
+      "location_header": "INT. CHIMNEYS - LIBRARY - DAY",
+      "visual_description": "The library at Chimneys. Tall bookshelves, a large window overlooking the grounds. Lord Caterham stands by the window. The room is comfortable but worn, reflecting the owner's weary aristocracy.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_LIBRARY.jpg"
+    },
+    {
+      "identifier": "CHIMNEYS_SANCTUM",
+      "ordinal": 0,
+      "location_header": "INT. CHIMNEYS - LORD CATERHAM'S SANCTUM - DAY",
+      "visual_description": "Lord Caterham's private sanctum at Chimneys. A cosy, cluttered study filled with books, comfortable leather armchairs, and tables piled with catalogues. The atmosphere is one of secluded, dusty peace, contrasting with the bright morning light filtering through heavy curtains. Edwardian styling with personal aristocratic debris.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "DR_CASSELL_SURGERY",
+      "ordinal": 0,
+      "location_header": "INT. DR. CASSELL'S SURGERY - DAY",
+      "visual_description": "A village doctor's surgery in the 1920s. Functional and neat, with a desk, a shelf of medical bottles, and an examination couch. The light is clinical but the room has a homely, provincial feel. The atmosphere is tense and quiet.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "JIMMY_THESIGER_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. JIMMY THESIGER'S FLAT - BEDROOM - DAY",
+      "visual_description": "A wealthy young bachelor's bedroom in Jermyn Street, London. Late morning light filters through curtains. A messy bed, a bedside table with a cold cup of tea, and morning newspapers. The atmosphere is lazy and indulgent.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_HALL",
+      "ordinal": 0,
+      "location_header": "INT. WYVERN ABBEY - HALL - AFTERNOON",
+      "visual_description": "The grand hall of a historic English abbey. Stone flagged floors, high vaulted ceilings, and suits of armour. A massive oak staircase. The atmosphere is cold and imposing, with insufficient lighting from electric sconces. Period is medieval architecture with 1920s furniture additions.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. WYVERN ABBEY - DRAWING ROOM - NIGHT",
+      "visual_description": "A cavernous drawing room in the Abbey. High ceilings, large draughty windows, and a steel grate with a coal fire. Heavy velvet curtains, tapestries on walls. Furniture is stiff and antique. Lighting is dim, creating pools of shadow. The room feels chilly and formal.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_WEST_WING_CORRIDOR",
+      "ordinal": 0,
+      "location_header": "INT. WYVERN ABBEY - WEST WING CORRIDOR - NIGHT",
+      "visual_description": "A dimly lit corridor in the Abbey's guest wing. Oak paneling, a runner carpet on polished floorboards. Bedroom doors at intervals. An oak press stands in the shadows. The light is singular and weak, leaving corners in darkness. Spooky and silent.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCOTLAND_YARD_OFFICE",
+      "ordinal": 0,
+      "location_header": "INT. SCOTLAND YARD - SUPERINTENDENT BATTLE'S OFFICE - DAY",
+      "visual_description": "Superintendent Battle's private room at Scotland Yard. Functional and sparse government office styling. A large desk with a blotting pad, a window overlooking sparrows on a ledge. The atmosphere is stolid, official, and deliberately unexciting. Afternoon light filters through utilitarian glazing.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LONDON_RESTAURANT",
+      "ordinal": 0,
+      "location_header": "INT. LONDON RESTAURANT - NIGHT",
+      "visual_description": "An upscale London restaurant in the 1920s. White linen tablecloths, silverware, and the soft murmur of dining conversation. Oysters are being served. The atmosphere is warm and jovial, a typical setting for a wealthy young couple dining out in the evening.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SEVEN_DIALS_CLUB_MAIN",
+      "ordinal": 0,
+      "location_header": "INT. SEVEN DIALS CLUB - MAIN ROOM - NIGHT",
+      "visual_description": "The main cellar room of the Seven Dials Club. A tall house in a narrow street leads to this subterranean space. Very smoky, seen through a blue haze. The smell of fried fish and chips is overpowering. Rough charcoal sketches on the walls. An extremely mixed crowd of artists, foreigners, and society people.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "BROOK_STREET_SITTING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. BROOK STREET - BUNDLE'S SITTING ROOM - MORNING",
+      "visual_description": "Bundle's sitting room in Brook Street, London. A mix of comfort and modern style. Heaps of dry political literature are dumped on a sofa. A telephone stands on a desk. The atmosphere is active and conspiratorial.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SEVEN_DIALS_SECRET_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. SEVEN DIALS CLUB - SECRET ROOM - DAY",
+      "visual_description": "A secret meeting room hidden behind the gambling area of the Seven Dials Club. Small, dingy, and windowless with heavy baize on the door for soundproofing. A long table with seven chairs occupies the center. Two built-in cupboards flank the fireplace. The atmosphere is conspiratorial and claustrophobic. Afternoon light is absent; illumination comes from electric bulbs.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_BUNDLE_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. WYVERN ABBEY - BUNDLE'S BEDROOM - NIGHT",
+      "visual_description": "Bundle's bedroom at Wyvern Abbey. Night. A comfortable guest room with 1920s furnishings. An open window looks out onto the night. Heavy ivy frames the window exterior. The room is dimly lit, perhaps by a single lamp or starlight. Atmosphere is secretive and active.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_TERRACE",
+      "ordinal": 0,
+      "location_header": "EXT. CHIMNEYS - TERRACE - DAY",
+      "visual_description": "The broad stone terrace of Chimneys overlooking the gardens. Afternoon. Grey stone balustrades border the paved walk. Below, manicured lawns stretch out towards autumn trees. The atmosphere is open and slightly chilly, typical of an English autumn day. The facade of the great house rises imposingly in the background.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_TERRACE.jpg"
+    },
+    {
+      "identifier": "CHIMNEYS_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. CHIMNEYS - GARDEN - DAY",
+      "visual_description": "The extensive gardens of Chimneys. A wide expanse of velvety green lawn is bordered by dense rhododendron banks. The atmosphere is one of aristocratic leisure, though scarred by amateur golf strokes. The bright morning light highlights the dew on the grass.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LETHERBURY_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. LETHERBURY - DRAWING ROOM - DAY",
+      "visual_description": "A grand, imposing drawing room in a massive country house. Rows of gloomy Old Master paintings stare from the walls. The furniture is antique and uncomfortable, chosen for price rather than comfort. The atmosphere is oppressive and rich, with an air of new money trying to buy old dignity. Afternoon sun struggles against the heavy gloom.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LETHERBURY_TERRACE",
+      "ordinal": 0,
+      "location_header": "EXT. LETHERBURY - TERRACE - DAY",
+      "visual_description": "The broad terrace of Letherbury. Midday. The atmosphere is social but slightly stiff, typical of Lady Coote's parties. The house looms large and gloomy, but the garden is manicured. A clock golf set is laid out on the lawn nearby.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. CHIMNEYS - DRAWING ROOM - DAY",
+      "visual_description": "A large formal drawing room in a historic English country house. Afternoon light filters through heavy velvet curtains. The room is filled with stiff antique furniture, family portraits in oil, and a general air of aristocratic stuffiness. The decor is a mix of Victorian heaviness and Edwardian comfort. A large fireplace dominates one wall.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SEVEN_DIALS_ALFRED_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. SEVEN DIALS CLUB - ALFRED'S BEDROOM - DAY",
+      "visual_description": "Small, frowsy bedroom on an upper floor. Cheap iron bed, peeling wallpaper, a washstand. The air is stale. A single unshaded bulb or moonlight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_HOUSEKEEPER_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. CHIMNEYS - HOUSEKEEPER'S ROOM - DAY",
+      "visual_description": "The housekeeper's room at Chimneys. Stiff and formal Victorian decor. Dark furniture, lace antimacassars, and a pervading sense of rigid order. A coal fire burns in the grate. The room reflects the dignity of the upper servants.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_UPSTAIRS_CORRIDOR",
+      "ordinal": 1,
+      "location_header": "INT. CHIMNEYS - UPSTAIRS CORRIDOR - NIGHT",
+      "visual_description": "A long, carpeted hallway on the upper floor. Bedroom doors line the walls. Sconce lighting provides subdued illumination. Shadows stretch along the floor. The atmosphere is quiet and conspiratorial.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_UPSTAIRS_CORRIDOR.jpg"
+    },
+    {
+      "identifier": "EXT_CAR_RIDE_TO_CHIMNEYS",
+      "ordinal": 1,
+      "location_header": "EXT. COUNTRY ROAD - MORNING",
+      "visual_description": "A two-seater car driving through 1920s English countryside. A winding tarmac road flanked by autumn hedges and trees. The car is small and sporty. Light is grey and overcast, typical of an English morning. The interior of the car is leather.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_TERRACE",
+      "ordinal": 1,
+      "location_header": "EXT. WYVERN ABBEY - TERRACE - NIGHT",
+      "visual_description": "The stone terrace of Wyvern Abbey at night. Darkness, starlight but no moon. The massive grey stone wall of the house rises up, covered in thick ivy. Stone balustrades border the terrace. Shadows are deep and heavy. Atmosphere is tense and cold.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LETHERBURY_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. LETHERBURY - STUDY - NIGHT",
+      "visual_description": "Sir Oswald's private study. Night. Heavy leather furniture, a large desk with locked drawers. The room is quiet and shadowed. A sense of secrecy and serious business. The decor is masculine and expensive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_LIBRARY",
+      "ordinal": 1,
+      "location_header": "INT. WYVERN ABBEY - LIBRARY - NIGHT",
+      "visual_description": "A large library lined with leather-bound books. Three tall windows look out to the night. Leather armchairs, a large mahogany desk. A single electric light or firelight casts deep shadows. The atmosphere is conspiratorial and quiet. Edwardian masculine styling.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "POLICE_STATION",
+      "ordinal": 1,
+      "location_header": "INT. POLICE STATION - DAY",
+      "visual_description": "Interior of a small provincial police station. Spartan decor with a high wooden desk, wanted posters on the walls, and a smell of stale tobacco. The atmosphere is official but slow-paced.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_LETHERBURY_GARAGE_ROAD",
+      "ordinal": 1,
+      "location_header": "EXT. COUNTRY ROAD - DAY",
+      "visual_description": "A country road outside a garage near Letherbury. The sun is bright on the tarmac. A simple rural setting, with the garage building nearby. The group stands together, conspiring in the open air.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_LODGE_GATES",
+      "ordinal": 1,
+      "location_header": "EXT. CHIMNEYS - LODGE GATES - DAY",
+      "visual_description": "The entrance to the Chimneys estate. Large iron gates flanked by a stone lodge. A crisp October morning with a dazzling sun and blue sky. The scene is bright and autumnal, with a paved driveway leading out to the public road.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_HALL",
+      "ordinal": 1,
+      "location_header": "INT. CHIMNEYS - HALL - DAY",
+      "visual_description": "1920s English country house interior. A grand wooden staircase descends into a spacious hall with polished parquet floors. Sunlight streams through high windows, illuminating portraits on the walls. A sense of aristocratic history mixed with morning activity.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_HALL.jpg"
+    },
+    {
+      "identifier": "CHIMNEYS_BREAKFAST_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. CHIMNEYS - BREAKFAST ROOM - MORNING",
+      "visual_description": "A bright, airy morning room in a stately home. A round table set with white linen and silver. A sideboard displays chafing dishes. Large windows look out onto manicured gardens. The atmosphere is quiet, contrasting with the sunny exterior.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_BREAKFAST_ROOM.jpg"
+    },
+    {
+      "identifier": "JIMMY_THESIGER_SITTING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. JIMMY THESIGER'S FLAT - SITTING ROOM - DAY",
+      "visual_description": "A comfortable bachelor sitting room in Jermyn Street, London. Large, leather-covered armchairs of immense dimensions dominate the room. The decor is masculine and typically 1920s, with a mantelpiece and a door leading to a bedroom. A perfect setting for a wealthy young man about town.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SEVEN_DIALS_ENTRANCE_HALL",
+      "ordinal": 2,
+      "location_header": "INT. SEVEN DIALS CLUB - ENTRANCE HALL - DAY",
+      "visual_description": "Dingy hallway of a tall house in Seven Dials. Peeling wallpaper, a staircase leading up, a door leading to the cellar. Smell of fried fish. Dim lighting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_SIDE_ENTRANCE",
+      "ordinal": 2,
+      "location_header": "INT. CHIMNEYS - SIDE ENTRANCE - DAY",
+      "visual_description": "A small side hallway or vestibule at Chimneys. Practical and less ornamental than the main rooms. A cupboard-like room opens off it, cluttered with sporting gear—golf clubs, tennis racquets, and bowls. The light is dimmer here, functional. The floor is likely flagged stone or linoleum.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SEVEN_DIALS_GAMBLING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. SEVEN DIALS CLUB - GAMBLING ROOM - NIGHT",
+      "visual_description": "A gambling room on the upper floor of the Seven Dials Club. Intense and quiet compared to the cellar. Green baize tables for baccarat. The players are hawk-eyed and haggard with gambling fever. The atmosphere is tense and focused.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "CHIMNEYS_BUNDLE_BEDROOM",
+      "ordinal": 2,
+      "location_header": "INT. BUNDLE'S BEDROOM - NIGHT",
+      "visual_description": "Bundle's bedroom in the evening. A fire burns in the grate. A slim pyjamaed figure sits in front of it. An inlaid writing desk with a roll top stands against the wall. A small gold clock ticks on the mantelpiece.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LADY_CATERHAM_DRAWING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. LADY CATERHAM'S HOUSE - DRAWING ROOM - DAY",
+      "visual_description": "Lady Caterham's drawing room in a gloomy London square. Large, majestic, and rather oppressive. Smells of sealing wax, bird seed, and slightly decayed flowers. Heavy furniture, gold-rimmed portraits, and a lack of modern comfort. The atmosphere is frigid and aristocratic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "COUNTRY_ROAD",
+      "ordinal": 2,
+      "location_header": "EXT. COUNTRY ROAD - DAY",
+      "visual_description": "A deserted stretch of English country road in October. Hedges line the tarmac, with a wooden gate visible in the foliage. Bright sunshine illuminates the scene. A Hispano-Suiza car stands stationary. The mood shifts from exhilaration to sudden stillness and dread.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LETHERBURY_HALL",
+      "ordinal": 2,
+      "location_header": "INT. LETHERBURY - HALL - NIGHT",
+      "visual_description": "The great hall of Letherbury at night. High vaulted windows admit faint starlight. Shadows stretch across the floor. An electric switch is on the wall. The silence is heavy, broken only by stealthy footsteps. The atmosphere is tense and suspicious.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "LETHERBURY_JIMMY_BEDROOM",
+      "ordinal": 3,
+      "location_header": "INT. LETHERBURY - GUEST BEDROOM - NIGHT",
+      "visual_description": "A guest bedroom at Letherbury. Night. Comfortable but impersonal. A dressing table, a bed, and a bedside table with a biscuit tin. The room is a sanctuary from the suspicious atmosphere of the house.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WYVERN_ABBEY_COUNTESS_BEDROOM",
+      "ordinal": 3,
+      "location_header": "INT. WYVERN ABBEY - COUNTESS'S BEDROOM - NIGHT",
+      "visual_description": "A luxurious guest bedroom at Wyvern Abbey. Night. Electric light is on. Feminine disorder: a dainty négligé, black velvet evening dress on a chair, knick-knacks on the dressing table. The bed is unslept in. Atmosphere is puzzling and vacant.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "DEANE_PRIORY_GARDEN",
+      "ordinal": 3,
+      "location_header": "EXT. DEANE PRIORY - GARDEN - DAY",
+      "visual_description": "A neglected garden with a paved walk. Overgrown plants and flowers. A grey stone house in the background. The atmosphere is melancholy but peaceful.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_DEANE_PRIORY_GARDEN.jpg"
+    },
+    {
+      "identifier": "CHIMNEYS_LAKE",
+      "ordinal": 3,
+      "location_header": "EXT. CHIMNEYS - LAKE - MORNING",
+      "visual_description": "The edge of an ornamental lake on the estate grounds. Willow trees droop over the water, grassy banks are sunlit. A boathouse or punt is visible. The atmosphere is leisurely and idle, typical of a house party.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_CHIMNEYS_LAKE.jpg"
+    },
+    {
+      "identifier": "EXT_SEVEN_DIALS_CLUB",
+      "ordinal": 4,
+      "location_header": "EXT. SEVEN DIALS CLUB - STREET - DAY",
+      "visual_description": "Narrow street in Seven Dials. Day. A car parked at the curb. Street lamps cast pools of light on wet cobblestones. Tall, dark houses loom on either side.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "MARKET_BASING_STORE",
+      "ordinal": 4,
+      "location_header": "INT. MARKET BASING STORE - DAY",
+      "visual_description": "Interior of a provincial general store in the 1920s. Wooden counters, shelves stacked high with household goods, hardware, and clocks. Somewhat dimmer than the bright outdoors, cluttered but organized.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_MARKET_BASING_STORE.jpg"
+    },
+    {
+      "identifier": "GERALD_WADE_BEDROOM",
+      "ordinal": 4,
+      "location_header": "INT. GERALD WADE'S BEDROOM - DAY",
+      "visual_description": "A bedroom with drawn curtains, dim light. White flowers on the coverlet of the bed where a still form lies. On the mantelpiece, seven clocks are neatly arranged. The atmosphere is deathly still.",
+      "metadata": {},
+      "image_key": "publications/bfc2d9871cc9d63f2a599f967064fb73490c34ff/scenes/scene_GERALD_WADE_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SEVEN_DIALS_BACK_ROOM",
+      "ordinal": 5,
+      "location_header": "INT. SEVEN DIALS CLUB - BACK ROOM - DAY",
+      "visual_description": "Small, cluttered back room on the ground floor. A horsehair sofa, a small table. Dusty and unused. Street light filters through a grimy window.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Detective and mystery stories",
+    "Police -- England -- Fiction",
+    "Battle, Superintendent (Fictitious character) -- Fiction"
+  ]
+}
