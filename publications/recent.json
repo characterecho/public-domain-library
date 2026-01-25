@@ -1,5 +1,25 @@
 [
   {
+    "publication_identifier": "bfc2d9871cc9d63f2a599f967064fb73490c34ff",
+    "sample": true,
+    "title": "The Seven Dials Mystery",
+    "author_names": "Agatha Christie",
+    "publication_type": "novel",
+    "genre_tags": [],
+    "catalog_added_at": "2026-01-25T19:10:52Z",
+    "updated_at": "2026-01-25T23:28:19Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "adb24e0d13a80007100eb2ac829cfe6a193170dad2a1d4022b7d14a90a07d8e0",
+    "file_size": 136998965,
+    "available_regions": [
+      "US"
+    ]
+  },
+  {
     "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
     "title": "The Maltese Falcon",
     "author_names": "Dashiell Hammett",
