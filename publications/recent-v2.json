@@ -1,8 +1,32 @@
 {
   "version": 2,
-  "generated_at": "2026-01-22T00:36:05Z",
+  "generated_at": "2026-01-25T16:43:13Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "626b9da1dd6adbe797bbb4a8661e364ada9a1467",
+      "sample": true,
+      "title": "The Pickwick Papers",
+      "author_names": "Charles Dickens",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "satire",
+        "comedy"
+      ],
+      "catalog_added_at": "2026-01-22T21:04:41Z",
+      "updated_at": "2026-01-25T16:43:13Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "a679e1cc7f0aca1bc12b27e9b3d2567b7d5549e5ce01910bbb60061da3608e36",
+      "file_size": 77899850,
+      "available_regions": [
+        "US"
+      ]
+    },
     {
       "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
       "title": "The Maltese Falcon",
