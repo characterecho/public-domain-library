@@ -1,8 +1,31 @@
 {
   "version": 2,
-  "generated_at": "2026-01-25T23:28:19Z",
+  "generated_at": "2026-01-26T16:01:00Z",
   "genre_vocabulary_version": 1768326996,
   "publications": [
+    {
+      "publication_identifier": "93436dd2f83a540820533fd84302cb0da886b734",
+      "sample": true,
+      "title": "The Count of Monte Cristo",
+      "author_names": "Alexandre Dumas, Auguste Maquet",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "nautical"
+      ],
+      "catalog_added_at": "2026-01-25T19:11:33Z",
+      "updated_at": "2026-01-26T16:01:00Z",
+      "duration": {
+        "total_ms": 0,
+        "formatted": "0m"
+      },
+      "cover_url": null,
+      "data_checksum": "c33b93b3eb9b16c19ee3f0f97311ffca438ec8cc2f7bd12d918a52d01ff78dc4",
+      "file_size": 104340922,
+      "available_regions": [
+        "US"
+      ]
+    },
     {
       "publication_identifier": "bfc2d9871cc9d63f2a599f967064fb73490c34ff",
       "sample": true,
