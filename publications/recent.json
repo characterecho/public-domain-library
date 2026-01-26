@@ -1,5 +1,48 @@
 [
   {
+    "publication_identifier": "93436dd2f83a540820533fd84302cb0da886b734",
+    "sample": true,
+    "title": "The Count of Monte Cristo",
+    "author_names": "Alexandre Dumas, Auguste Maquet",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "nautical"
+    ],
+    "catalog_added_at": "2026-01-25T19:11:33Z",
+    "updated_at": "2026-01-26T16:01:00Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "c33b93b3eb9b16c19ee3f0f97311ffca438ec8cc2f7bd12d918a52d01ff78dc4",
+    "file_size": 104340922,
+    "available_regions": [
+      "US"
+    ]
+  },
+  {
+    "publication_identifier": "bfc2d9871cc9d63f2a599f967064fb73490c34ff",
+    "sample": true,
+    "title": "The Seven Dials Mystery",
+    "author_names": "Agatha Christie",
+    "publication_type": "novel",
+    "genre_tags": [],
+    "catalog_added_at": "2026-01-25T19:10:52Z",
+    "updated_at": "2026-01-25T23:28:19Z",
+    "duration": {
+      "total_ms": 0,
+      "formatted": "0m"
+    },
+    "cover_url": null,
+    "data_checksum": "adb24e0d13a80007100eb2ac829cfe6a193170dad2a1d4022b7d14a90a07d8e0",
+    "file_size": 136998965,
+    "available_regions": [
+      "US"
+    ]
+  },
+  {
     "publication_identifier": "3e4f98fc60b015a485b8cbe3a4e55a81258b32af",
     "title": "The Maltese Falcon",
     "author_names": "Dashiell Hammett",
