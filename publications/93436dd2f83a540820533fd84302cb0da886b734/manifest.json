@@ -1,0 +1,5302 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "The Count of Monte Cristo",
+  "author_names": "Alexandre Dumas, Auguste Maquet",
+  "description": "Publication imported from https://gutenberg.org/ebooks/1184.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/1184.epub3.images",
+  "identifier": "93436dd2f83a540820533fd84302cb0da886b734",
+  "publication_type": "novel",
+  "cover_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/cover.png",
+  "total_duration_s": 2949.129819,
+  "genre_tags": [
+    "Classics",
+    "Historical Adventure",
+    "Nautical",
+    "Political Intrigue",
+    "French Literature"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2949.129819
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 5.167,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "VOLUME ONE",
+      "start_s": 5.167,
+      "end_s": 6.954,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter 1. Marseilles—The Arrival",
+      "start_s": 6.954,
+      "end_s": 1005.541,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MARSEILLES_HARBOR",
+            "location_header": "EXT. MARSEILLES HARBOR - DAY",
+            "visual_description": "1815 Marseilles harbor under bright midday sun. The stone ramparts of Fort Saint-Jean rise against a blue sky. A large three-masted merchant ship, the Pharaon, navigates the calm waters, rigging detailed with ropes and canvas. A small skiff rows alongside the hull. Bustling docks in the background with crowds in Napoleonic era civilian dress."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter 2. Father and Son",
+      "start_s": 1005.541,
+      "end_s": 1796.566,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_OLD_DANTES_ROOM",
+            "location_header": "INT. OLD DANTES ROOM - DAY",
+            "visual_description": "Small, modest garret room in 1815 Marseilles. A single window with climbing nasturtiums and clematis allows bright afternoon sunlight to filter in. The furniture is sparse and worn, including a chair and a table. A few empty cupboards suggest poverty, but the space is kept clean."
+          },
+          {
+            "identifier": "SCENE_STREETS_OF_MARSEILLES",
+            "location_header": "EXT. STREETS OF MARSEILLES - DAY",
+            "visual_description": "Narrow, cobblestone street in Marseilles, early 19th century. Tall stone buildings with shuttered windows. Sunlight casts sharp shadows. A corner meeting spot near bustling activity."
+          },
+          {
+            "identifier": "SCENE_LA_RESERVE",
+            "location_header": "EXT. LA RESERVE ARBOR - DAY",
+            "visual_description": "Outdoor arbor of a tavern near the harbor. Plane and sycamore trees provide dappled shade over wooden tables. Wine bottles and glasses on the table. The atmosphere is relaxed with birds singing in the budding spring foliage."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter 3. The Catalans",
+      "start_s": 1796.566,
+      "end_s": 2949.13,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MERCEDES_HUT",
+            "location_header": "INT. MERCEDES HUT - DAY",
+            "visual_description": "Interior of a simple Catalan hut in Marseilles, 1815. Walls coated with whitewash, floor of earth or tile. The room is sunlit through an open door, revealing a glimpse of the sea. Simple, rustic furniture including a table and chair. A general air of poverty but cleanliness."
+          },
+          {
+            "identifier": "SCENE_LA_RESERVE",
+            "location_header": "EXT. LA RESERVE ARBOR - DAY",
+            "visual_description": "Outdoor arbor of a tavern near the harbor. Plane and sycamore trees provide dappled shade over wooden tables. Wine bottles and glasses on the table. The atmosphere is relaxed with birds singing in the budding spring foliage."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "neutral",
+        "descriptive",
+        "clear",
+        "impartial",
+        "storyteller"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3514,
+      "image_key": null,
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "EDMOND_DANTES",
+      "name": "The Count",
+      "aliases": [
+        "Dantès",
+        "Edmond",
+        "Number 34",
+        "Maltese",
+        "Lord Wilmore",
+        "Thomson's Clerk",
+        "Sinbad the Sailor",
+        "Abbé Busoni",
+        "Monte Cristo",
+        "MONTE_CRISTO",
+        "The Count",
+        "M. de Monte Cristo",
+        "Count",
+        "Edmond Dantès",
+        "Il Signor Giacomo Busoni",
+        "The Count of Monte Cristo",
+        "The Voice"
+      ],
+      "voice_attributes": [
+        "calm",
+        "resolute",
+        "youthful",
+        "clear",
+        "joyful",
+        "commanding",
+        "phlegmatic",
+        "stern",
+        "authoritative",
+        "content",
+        "god-like",
+        "vengeful",
+        "majestic",
+        "generous",
+        "enigmatic",
+        "polite",
+        "calculating",
+        "melancholy",
+        "ironic",
+        "soothing",
+        "charming",
+        "mysterious",
+        "relentless",
+        "philosophical",
+        "raspy",
+        "English accent",
+        "Italian accent",
+        "solemn",
+        "intense",
+        "deep",
+        "regretful",
+        "forgiving",
+        "fatherly",
+        "emotional",
+        "tender"
+      ],
+      "visual_attributes": [
+        "tall",
+        "slim",
+        "black eyes",
+        "raven hair",
+        "sailor attire",
+        "black hair",
+        "sailor clothes",
+        "sailor",
+        "ragged clothes",
+        "beard",
+        "noble attire",
+        "blue frock-coat",
+        "English dress",
+        "composed",
+        "black beard",
+        "concealed face",
+        "dark traveler's cloak",
+        "pale noble face",
+        "piercing eyes",
+        "elegant attire",
+        "pale",
+        "elegant evening wear",
+        "intense eyes",
+        "monk's cowl",
+        "large spectacles",
+        "red whiskers",
+        "false jaw",
+        "abbé's robe",
+        "wig",
+        "sailor attire (later)",
+        "hidden in shadows",
+        "noble bearing",
+        "cloaked in shadow",
+        "dark complexion",
+        "dilating eyes"
+      ],
+      "roles": [
+        "protagonist",
+        "sailor",
+        "prisoner",
+        "wealthy nobleman",
+        "benefactor",
+        "avenger",
+        "count",
+        "host",
+        "storyteller",
+        "imposter",
+        "priest",
+        "priest (disguise)",
+        "observer",
+        "Count",
+        "judge"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2864,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/EDMOND_DANTES.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/EDMOND_DANTES.mp3"
+    },
+    {
+      "identifier": "ALBERT_DE_MORCERF",
+      "name": "Albert",
+      "aliases": [
+        "Albert",
+        "Morcerf",
+        "Viscount de Morcerf"
+      ],
+      "voice_attributes": [
+        "cheerful",
+        "carefree",
+        "confident",
+        "enthusiastic",
+        "grateful",
+        "open",
+        "grieving",
+        "anxious",
+        "sad",
+        "exhausted",
+        "determined",
+        "firm"
+      ],
+      "visual_attributes": [
+        "young aristocrat",
+        "fashionable attire",
+        "handsome face",
+        "curly hair",
+        "masquerade costume",
+        "morning attire",
+        "pale",
+        "worn clothes"
+      ],
+      "roles": [
+        "protagonist friend",
+        "aristocrat",
+        "son",
+        "soldier"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 957,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GERARD_DE_VILLEFORT",
+      "name": "Villefort",
+      "aliases": [
+        "M. de Villefort",
+        "Gérard",
+        "VILLEFORT",
+        "The Stranger",
+        "The Envoy"
+      ],
+      "voice_attributes": [
+        "resonant",
+        "calm",
+        "persuasive",
+        "ambitious",
+        "composed",
+        "trembling",
+        "authoritative",
+        "terrified",
+        "livid",
+        "anxious",
+        "severe",
+        "gloomy",
+        "inquisitive",
+        "hesitant",
+        "polite",
+        "desperate"
+      ],
+      "visual_attributes": [
+        "27 years old",
+        "handsome",
+        "dark coat",
+        "white cravat",
+        "dusty travel clothes",
+        "severe",
+        "middle-aged",
+        "black coat",
+        "magistrate",
+        "50 years old",
+        "stern face",
+        "formal attire",
+        "concealed identity"
+      ],
+      "roles": [
+        "magistrate",
+        "antagonist",
+        "guest",
+        "prosecutor",
+        "victim",
+        "official",
+        "father",
+        "investigator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 716,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DANGLARS",
+      "name": "Danglars",
+      "aliases": [],
+      "voice_attributes": [
+        "obsequious",
+        "sneering",
+        "cold",
+        "calculating",
+        "observant",
+        "coarse",
+        "arrogant",
+        "skeptical",
+        "bewildered",
+        "charmed",
+        "oblivious",
+        "greedy",
+        "desperate",
+        "starving",
+        "weak",
+        "raving"
+      ],
+      "visual_attributes": [
+        "unprepossessing countenance",
+        "25 years old",
+        "civilian clothes",
+        "unprepossessing",
+        "supercargo",
+        "pale",
+        "middle-aged",
+        "banker",
+        "banker attire",
+        "gaunt",
+        "white hair",
+        "haggard",
+        "emaciated",
+        "ragged clothes"
+      ],
+      "roles": [
+        "antagonist",
+        "supercargo",
+        "guest",
+        "banker",
+        "skeptic",
+        "prisoner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 577,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/DANGLARS.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/DANGLARS.mp3"
+    },
+    {
+      "identifier": "CADEROUSSE",
+      "name": "Caderousse",
+      "aliases": [
+        "The Beggar",
+        "Man with red handkerchief",
+        "Monsieur Pailletin"
+      ],
+      "voice_attributes": [
+        "loud",
+        "insinuating",
+        "coarse",
+        "drunken",
+        "ironical",
+        "raspy",
+        "threatening",
+        "familiar",
+        "haggard",
+        "terrified",
+        "pleading",
+        "pain-filled",
+        "desperate",
+        "weak"
+      ],
+      "visual_attributes": [
+        "black bearded",
+        "25-26 years old",
+        "holding cloth",
+        "tailor",
+        "sunburnt",
+        "beard",
+        "red handkerchief",
+        "torn clothes",
+        "sharp teeth",
+        "middle-aged",
+        "rough clothes",
+        "blood-stained clothes",
+        "pale face",
+        "sweating"
+      ],
+      "roles": [
+        "neighbor",
+        "tailor",
+        "innkeeper",
+        "criminal",
+        "blackmailer",
+        "thief",
+        "intruder",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 557,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/CADEROUSSE.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/CADEROUSSE.mp3"
+    },
+    {
+      "identifier": "MAXIMILIAN_MORREL",
+      "name": "Maximilian",
+      "aliases": [
+        "The Stoic",
+        "Maximilian",
+        "Traveller",
+        "Morrel"
+      ],
+      "voice_attributes": [
+        "strong-minded",
+        "upright",
+        "emotional",
+        "noble",
+        "passionate",
+        "devoted",
+        "gentle",
+        "ardent",
+        "cheerful",
+        "open",
+        "energetic",
+        "amazed",
+        "silent",
+        "sad",
+        "anxious",
+        "breathless",
+        "pale",
+        "terrified",
+        "frantic",
+        "grieving",
+        "determined",
+        "resigned",
+        "euphoric",
+        "melancholy",
+        "tearful",
+        "joyful",
+        "weak"
+      ],
+      "visual_attributes": [
+        "22 years old",
+        "military uniform",
+        "handsome",
+        "common gray blouse",
+        "velvet cap",
+        "beard",
+        "moustache",
+        "black hair",
+        "gardener disguise",
+        "young",
+        "military bearing",
+        "officer",
+        "concerned expression",
+        "perspiring",
+        "pale",
+        "dripping wet",
+        "wet clothes"
+      ],
+      "roles": [
+        "son",
+        "soldier",
+        "lover",
+        "gardener",
+        "guest",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 533,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FRANZ_DEPINAY",
+      "name": "Franz",
+      "aliases": [
+        "Franz",
+        "Baron Franz d’Épinay"
+      ],
+      "voice_attributes": [
+        "cultured",
+        "curious",
+        "prudent",
+        "polite",
+        "anxious",
+        "wary",
+        "thoughtful",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "young aristocrat",
+        "stylish traveling clothes",
+        "half artist half dandy",
+        "handsome",
+        "stylish evening clothes",
+        "concerned expression",
+        "traveling clothes"
+      ],
+      "roles": [
+        "protagonist",
+        "aristocrat",
+        "protagonist friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 422,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ANDREA_CAVALCANTI",
+      "name": "Benedetto",
+      "aliases": [
+        "Benedetto",
+        "Count Andrea",
+        "M. Andrea",
+        "The Prince"
+      ],
+      "voice_attributes": [
+        "confident",
+        "insolent",
+        "smooth",
+        "French accent",
+        "youthful",
+        "arrogant",
+        "nervous",
+        "scornful"
+      ],
+      "visual_attributes": [
+        "young man",
+        "tall",
+        "light hair",
+        "red beard",
+        "black eyes",
+        "brilliant complexion",
+        "stylish clothes",
+        "young",
+        "handsome",
+        "new clothes",
+        "stylish",
+        "torn elegant clothes",
+        "varnished boots"
+      ],
+      "roles": [
+        "impostor",
+        "illegitimate son",
+        "guest",
+        "imposter",
+        "prisoner"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 375,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "VALENTINE_DE_VILLEFORT",
+      "name": "Valentine",
+      "aliases": [
+        "Valentine"
+      ],
+      "voice_attributes": [
+        "timid",
+        "sad",
+        "gentle",
+        "fearful",
+        "tearful",
+        "weak",
+        "feverish",
+        "silent",
+        "joyful",
+        "grateful",
+        "loving",
+        "sweet"
+      ],
+      "visual_attributes": [
+        "white robe",
+        "blue sash",
+        "slender fingers",
+        "young",
+        "pale",
+        "waxen hands",
+        "brilliant eyes",
+        "unconscious",
+        "beautiful",
+        "angelic"
+      ],
+      "roles": [
+        "love interest",
+        "daughter",
+        "victim",
+        "survivor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 347,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ABBE_FARIA",
+      "name": "Abbé Faria",
+      "aliases": [
+        "Number 27",
+        "The Mad Abbé",
+        "The Voice",
+        "The Stranger"
+      ],
+      "voice_attributes": [
+        "educated",
+        "raspy",
+        "energetic",
+        "calm",
+        "weak"
+      ],
+      "visual_attributes": [
+        "long white hair",
+        "long beard",
+        "tattered clothes",
+        "wild eyes",
+        "emaciated",
+        "paralyzed arm"
+      ],
+      "roles": [
+        "mentor",
+        "prisoner"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 294,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BEAUCHAMP",
+      "name": "Beauchamp",
+      "aliases": [],
+      "voice_attributes": [
+        "sharp",
+        "energetic",
+        "cynical",
+        "witty",
+        "sympathetic",
+        "serious"
+      ],
+      "visual_attributes": [
+        "young man",
+        "fashionable dress",
+        "alert expression"
+      ],
+      "roles": [
+        "journalist",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 248,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HERMINE_DANGLARS",
+      "name": "Madame Danglars",
+      "aliases": [
+        "Baroness",
+        "Hermine",
+        "MADAME_DANGLARS"
+      ],
+      "voice_attributes": [
+        "haughty",
+        "scornful",
+        "passionate",
+        "anxious",
+        "controlled",
+        "terrified",
+        "faint",
+        "pale",
+        "uneasy",
+        "subdued",
+        "simple",
+        "gossiping"
+      ],
+      "visual_attributes": [
+        "past first bloom",
+        "strikingly handsome",
+        "fashionable dress",
+        "elegant",
+        "striking",
+        "white dress",
+        "diamonds",
+        "middle-aged",
+        "elegant dress",
+        "thickly veiled",
+        "pale face"
+      ],
+      "roles": [
+        "wife",
+        "aristocrat",
+        "guest",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 235,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BERTUCCIO",
+      "name": "Bertuccio",
+      "aliases": [],
+      "voice_attributes": [
+        "obedient",
+        "rough",
+        "respectful",
+        "passionate",
+        "grim",
+        "intense",
+        "anxious",
+        "terrified",
+        "shocked",
+        "deep",
+        "hollow",
+        "grave",
+        "solemn"
+      ],
+      "visual_attributes": [
+        "45 years old",
+        "steward livery",
+        "weather-beaten face",
+        "resembles smuggler",
+        "middle-aged",
+        "intense dark eyes",
+        "pale face",
+        "trembling",
+        "dark intelligent face",
+        "sad expression"
+      ],
+      "roles": [
+        "steward",
+        "former smuggler",
+        "foster father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "corsican"
+      },
+      "dialogue_count": 229,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LUCIEN_DEBRAY",
+      "name": "Debray",
+      "aliases": [
+        "Lucien",
+        "Debray"
+      ],
+      "voice_attributes": [
+        "bored",
+        "official",
+        "haughty",
+        "smooth",
+        "sophisticated",
+        "witty",
+        "observant",
+        "concerned",
+        "cold"
+      ],
+      "visual_attributes": [
+        "tall",
+        "light hair",
+        "clear gray eyes",
+        "thin lips",
+        "blue coat",
+        "gold buttons",
+        "tortoiseshell eye-glass",
+        "young",
+        "stylish",
+        "secretary",
+        "concealed by handkerchief"
+      ],
+      "roles": [
+        "secretary",
+        "friend",
+        "guest",
+        "lover"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 216,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HELOISE_DE_VILLEFORT",
+      "name": "Madame de Villefort",
+      "aliases": [
+        "Héloïse",
+        "MADAME_DE_VILLEFORT"
+      ],
+      "voice_attributes": [
+        "anxious",
+        "grateful",
+        "motherly",
+        "polite",
+        "calm",
+        "curious",
+        "unaware",
+        "gloomy smile",
+        "solemn",
+        "false concern",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "young woman",
+        "pale",
+        "elegant",
+        "young",
+        "beautiful",
+        "thin lips"
+      ],
+      "roles": [
+        "wife",
+        "mother",
+        "guest",
+        "hostess",
+        "stepmother"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 181,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DOCTOR_AVRIGNY",
+      "name": "Doctor d'Avrigny",
+      "aliases": [
+        "Doctor"
+      ],
+      "voice_attributes": [
+        "clever",
+        "professional",
+        "grave",
+        "observant",
+        "imposing calmness",
+        "cool",
+        "astonished"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "doctor's attire",
+        "keen eyes"
+      ],
+      "roles": [
+        "doctor",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 180,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MERCEDES",
+      "name": "Mercédès",
+      "aliases": [
+        "Catalane",
+        "Countess",
+        "Mercédès",
+        "Mother"
+      ],
+      "voice_attributes": [
+        "firm",
+        "passionate",
+        "clear",
+        "sweet",
+        "majestic",
+        "emotional",
+        "melancholy",
+        "gentle",
+        "sad"
+      ],
+      "visual_attributes": [
+        "beautiful",
+        "black hair",
+        "velvet eyes",
+        "Catalan dress",
+        "39 years old",
+        "pale noble face",
+        "elegant dress",
+        "tearful eyes",
+        "middle-aged",
+        "simple attire",
+        "beautiful eyes",
+        "worn shawl"
+      ],
+      "roles": [
+        "love interest",
+        "protagonist's betrothed",
+        "countess",
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 175,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/MERCEDES.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/MERCEDES.mp3"
+    },
+    {
+      "identifier": "M_MORREL",
+      "name": "M. Morrel",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "kind",
+        "concerned",
+        "desperate",
+        "pale",
+        "calm",
+        "resigned",
+        "loving"
+      ],
+      "visual_attributes": [
+        "successful shipowner",
+        "well-dressed",
+        "middle-aged",
+        "stout",
+        "gray hair",
+        "furrowed brow",
+        "50 years old",
+        "white hair",
+        "careworn face"
+      ],
+      "roles": [
+        "employer",
+        "mentor",
+        "shipowner",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 171,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/M_MORREL.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/M_MORREL.mp3"
+    },
+    {
+      "identifier": "NOIRTIER",
+      "name": "Noirtier",
+      "aliases": [
+        "Stranger"
+      ],
+      "voice_attributes": [
+        "composed",
+        "dry",
+        "cynical",
+        "firm",
+        "silent",
+        "expressive eyes"
+      ],
+      "visual_attributes": [
+        "50 years old",
+        "black eyes",
+        "black hair",
+        "shaggy eyebrows",
+        "blue frock-coat",
+        "70 years old",
+        "paralyzed",
+        "wheelchair",
+        "old"
+      ],
+      "roles": [
+        "conspirator",
+        "father",
+        "grandfather",
+        "protector"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 163,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MAJOR_CAVALCANTI",
+      "name": "Major Cavalcanti",
+      "aliases": [
+        "Major",
+        "Bartolomeo Cavalcanti"
+      ],
+      "voice_attributes": [
+        "timid",
+        "nervous",
+        "eager",
+        "Italian accent",
+        "stiff",
+        "military",
+        "anxious",
+        "knowledgeable",
+        "deferential",
+        "prudent",
+        "polite"
+      ],
+      "visual_attributes": [
+        "52 years old",
+        "white hair",
+        "thick gray moustaches",
+        "shabby green surtout",
+        "black cravat",
+        "blue trousers",
+        "old soldier",
+        "uniform",
+        "medals",
+        "gray moustache",
+        "large diamond ring"
+      ],
+      "roles": [
+        "impostor",
+        "major",
+        "guest",
+        "imposter"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 146,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CHATEAU_RENAUD",
+      "name": "Château-Renaud",
+      "aliases": [
+        "Château-Renaud",
+        "Renaud"
+      ],
+      "voice_attributes": [
+        "aristocratic",
+        "smooth",
+        "nonchalant",
+        "witty",
+        "amazed",
+        "polite"
+      ],
+      "visual_attributes": [
+        "handsome face",
+        "stylish cravat",
+        "manicured moustache",
+        "gentleman's attire",
+        "thirty years old",
+        "young",
+        "dandy",
+        "aristocratic"
+      ],
+      "roles": [
+        "aristocrat",
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 115,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FERNAND",
+      "name": "Morcerf",
+      "aliases": [
+        "Catalan",
+        "Count",
+        "M. de Morcerf",
+        "General",
+        "OLD_GENERAL",
+        "Count of Morcerf"
+      ],
+      "voice_attributes": [
+        "gloomy",
+        "intense",
+        "desperate",
+        "dignified",
+        "polite",
+        "slightly haughty",
+        "anxious",
+        "gallant",
+        "old",
+        "proud",
+        "haughty",
+        "terrified"
+      ],
+      "visual_attributes": [
+        "tall",
+        "20-22 years old",
+        "fisherman clothes",
+        "45 years old",
+        "black moustache",
+        "white hair",
+        "civilian clothes with ribbons",
+        "careworn face",
+        "old soldier",
+        "formal dress",
+        "medals",
+        "military uniform",
+        "black coat",
+        "pale face",
+        "middle-aged"
+      ],
+      "roles": [
+        "rival",
+        "cousin",
+        "general",
+        "peer of France",
+        "father",
+        "guest",
+        "antagonist",
+        "count"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 103,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/FERNAND.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/FERNAND.mp3"
+    },
+    {
+      "identifier": "HAYDEE",
+      "name": "Haydée",
+      "aliases": [
+        "The Young Woman",
+        "Haydée"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "tender",
+        "soft",
+        "musical",
+        "passionate",
+        "melancholy",
+        "joyful",
+        "devoted",
+        "fearful",
+        "tearful"
+      ],
+      "visual_attributes": [
+        "young greek woman",
+        "green silk mantle",
+        "gold embroidery",
+        "beautiful",
+        "white satin trousers",
+        "blue and white-striped vest",
+        "black hair tinged with blue",
+        "large dark eyes",
+        "19-20 years old",
+        "Eastern dress",
+        "pale"
+      ],
+      "roles": [
+        "love interest",
+        "ward",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "greek"
+      },
+      "dialogue_count": 101,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LUIGI_VAMPA",
+      "name": "Vampa",
+      "aliases": [
+        "Vampa",
+        "The Captain"
+      ],
+      "voice_attributes": [
+        "proud",
+        "passionate",
+        "commanding",
+        "articulate",
+        "cool",
+        "businesslike",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "young Roman peasant",
+        "handsome face",
+        "curly hair",
+        "velvet vest",
+        "sash",
+        "handsome bandit",
+        "Roman peasant dress",
+        "weapons"
+      ],
+      "roles": [
+        "bandit chief",
+        "shepherd"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 98,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "KING_LOUIS_XVIII",
+      "name": "Louis XVIII",
+      "aliases": [],
+      "voice_attributes": [
+        "witty",
+        "dismissive",
+        "scholarly",
+        "calm"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "gray hair",
+        "gouty",
+        "aristocratic",
+        "velvet coat"
+      ],
+      "roles": [
+        "King of France"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 88,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SIGNOR_PASTRINI",
+      "name": "Pastrini",
+      "aliases": [
+        "Pastrini",
+        "The Host"
+      ],
+      "voice_attributes": [
+        "obsequious",
+        "apologetic",
+        "firm",
+        "storytelling",
+        "anxious"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "hotelier uniform",
+        "rubbing hands",
+        "anxious smile",
+        "wringing hands"
+      ],
+      "roles": [
+        "hotel keeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 85,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PEPPINO",
+      "name": "Peppino",
+      "aliases": [
+        "The Messenger"
+      ],
+      "voice_attributes": [
+        "grateful",
+        "rough",
+        "devoted",
+        "solemn",
+        "indifferent",
+        "polite but firm",
+        "epicure",
+        "mocking"
+      ],
+      "visual_attributes": [
+        "shepherd clothes",
+        "cloak",
+        "young",
+        "bandit gear"
+      ],
+      "roles": [
+        "bandit",
+        "messenger",
+        "jailer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 80,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "EUGENIE_DANGLARS",
+      "name": "Eugénie",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "firm",
+        "cultured",
+        "cold",
+        "candid",
+        "implacable"
+      ],
+      "visual_attributes": [
+        "raven black hair",
+        "well-arched brows",
+        "firm expression",
+        "pale complexion",
+        "dark mole near mouth",
+        "sculpted nose",
+        "young"
+      ],
+      "roles": [
+        "aristocrat",
+        "musician",
+        "guest",
+        "artist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 79,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COUNTESS_G",
+      "name": "Countess G",
+      "aliases": [],
+      "voice_attributes": [
+        "witty",
+        "nervous",
+        "cultivated",
+        "charming",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "Venetian aristocrat",
+        "magnificent hair",
+        "pale complexion",
+        "jewelled necklace",
+        "opera gown",
+        "magnificent gown",
+        "jewels"
+      ],
+      "roles": [
+        "aristocrat",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 75,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "M_DE_BOVILLE",
+      "name": "M. de Boville",
+      "aliases": [
+        "Boville"
+      ],
+      "voice_attributes": [
+        "despairing",
+        "relieved",
+        "professional",
+        "frank"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "anxious face",
+        "official dress",
+        "inspector general"
+      ],
+      "roles": [
+        "inspector of prisons",
+        "creditor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 70,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "TELEGRAPH_OPERATOR",
+      "name": "Gardener",
+      "aliases": [],
+      "voice_attributes": [
+        "humble",
+        "simple",
+        "nervous",
+        "passionate about gardening"
+      ],
+      "visual_attributes": [
+        "55 years old",
+        "gardener clothes",
+        "weather-beaten",
+        "cap"
+      ],
+      "roles": [
+        "telegrapher",
+        "gardener"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 64,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JULIE_MORREL",
+      "name": "Julie",
+      "aliases": [
+        "Mademoiselle Julie"
+      ],
+      "voice_attributes": [
+        "sweet",
+        "anxious",
+        "loving",
+        "brave",
+        "tearful",
+        "joyful"
+      ],
+      "visual_attributes": [
+        "16-17 years old",
+        "beautiful",
+        "modest dress",
+        "young",
+        "innocent"
+      ],
+      "roles": [
+        "daughter",
+        "savior"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 63,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GAETANO",
+      "name": "Gaetano",
+      "aliases": [
+        "The Captain",
+        "Patron"
+      ],
+      "voice_attributes": [
+        "resourceful",
+        "experienced",
+        "deferential but firm"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "sailor attire",
+        "bare feet"
+      ],
+      "roles": [
+        "sailor",
+        "smuggler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 63,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NOTARY_PARIS",
+      "name": "Notary",
+      "aliases": [],
+      "voice_attributes": [
+        "deferential",
+        "professional",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "black suit",
+        "provincial appearance",
+        "spectacles"
+      ],
+      "roles": [
+        "notary"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 61,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MARQUISE_DE_SAINT_MERAN",
+      "name": "Madame de Saint-Méran",
+      "aliases": [
+        "Marquise"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "haughty",
+        "dry",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "50 years old",
+        "noble features",
+        "stern eyes",
+        "elegant dress"
+      ],
+      "roles": [
+        "aristocrat",
+        "royalist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 57,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LA_CARCONTE",
+      "name": "La Carconte",
+      "aliases": [
+        "La Carconte"
+      ],
+      "voice_attributes": [
+        "peevish",
+        "sickly",
+        "sharp",
+        "trembling",
+        "gracious"
+      ],
+      "visual_attributes": [
+        "pale face",
+        "meagre frame",
+        "Arlesian peasant dress",
+        "feverish eyes",
+        "shivering"
+      ],
+      "roles": [
+        "wife",
+        "innkeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 46,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "INSPECTOR_GENERAL",
+      "name": "Inspector",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "bored",
+        "official",
+        "condescending"
+      ],
+      "visual_attributes": [
+        "fine traveling suit",
+        "1815 era",
+        "plump",
+        "gold spectacles",
+        "cloak"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 45,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BARROIS",
+      "name": "Barrois",
+      "aliases": [],
+      "voice_attributes": [
+        "loyal",
+        "gruff",
+        "stubborn"
+      ],
+      "visual_attributes": [
+        "old servant",
+        "livery",
+        "gray hair"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 44,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JOANNES",
+      "name": "Joannes",
+      "aliases": [
+        "The Jeweller"
+      ],
+      "voice_attributes": [
+        "professional",
+        "firm",
+        "wary",
+        "parisian"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "merchant attire",
+        "traveling cloak",
+        "watchful eyes"
+      ],
+      "roles": [
+        "jeweler",
+        "merchant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 40,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CHATEAU_IF_GUIDE",
+      "name": "Guide",
+      "aliases": [],
+      "voice_attributes": [
+        "talkative",
+        "routine",
+        "ignorant"
+      ],
+      "visual_attributes": [
+        "concierge uniform",
+        "keys",
+        "torch"
+      ],
+      "roles": [
+        "guide",
+        "concierge"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 38,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GOVERNOR",
+      "name": "Governor",
+      "aliases": [],
+      "voice_attributes": [
+        "deferential",
+        "firm",
+        "polite"
+      ],
+      "visual_attributes": [
+        "military uniform",
+        "keys",
+        "hat",
+        "epaulettes"
+      ],
+      "roles": [
+        "official",
+        "warden"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 38,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DUC_DE_BLACAS",
+      "name": "Duc de Blacas",
+      "aliases": [
+        "Blacas"
+      ],
+      "voice_attributes": [
+        "anxious",
+        "loyal",
+        "deferential",
+        "insistent"
+      ],
+      "visual_attributes": [
+        "50-52 years old",
+        "gray hair",
+        "aristocratic bearing",
+        "gentlemanly attire"
+      ],
+      "roles": [
+        "royal advisor",
+        "duke"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 34,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JAILER",
+      "name": "Jailer",
+      "aliases": [],
+      "voice_attributes": [
+        "sullen",
+        "indifferent",
+        "rough",
+        "taciturn",
+        "professional"
+      ],
+      "visual_attributes": [
+        "ill-clothed",
+        "keys",
+        "lantern",
+        "uniform"
+      ],
+      "roles": [
+        "turnkey",
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 29,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MONTE_CRISTO_SERVANT",
+      "name": "Valet",
+      "aliases": [
+        "DUKE_SERVANT",
+        "Servant",
+        "SERVANT_DANGLARS",
+        "VILLEFORT_NEW_VALET"
+      ],
+      "voice_attributes": [
+        "polite",
+        "formal",
+        "subservient",
+        "obedient"
+      ],
+      "visual_attributes": [
+        "livery",
+        "white gloves",
+        "neutral expression",
+        "standing stiffly",
+        "showy livery",
+        "powdered hair",
+        "servant livery"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 28,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "OLD_DANTES",
+      "name": "Old Dantès",
+      "aliases": [
+        "Dantès’ father"
+      ],
+      "voice_attributes": [
+        "trembling",
+        "weak",
+        "loving"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "frail",
+        "worn clothes"
+      ],
+      "roles": [
+        "father"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 26,
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/OLD_DANTES.png",
+      "voice_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/characters/OLD_DANTES.mp3"
+    },
+    {
+      "identifier": "EMMANUEL",
+      "name": "Emmanuel",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "anxious",
+        "respectful",
+        "loyal",
+        "determined",
+        "excited",
+        "joyful"
+      ],
+      "visual_attributes": [
+        "23-24 years old",
+        "clerk attire",
+        "clean-shaven",
+        "young clerk"
+      ],
+      "roles": [
+        "clerk",
+        "love interest",
+        "fiancé",
+        "friend",
+        "brother-in-law"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 26,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SMUGGLER_CAPTAIN",
+      "name": "Captain Baldi",
+      "aliases": [
+        "Patron",
+        "Captain"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "calculating"
+      ],
+      "visual_attributes": [
+        "older",
+        "captain hat",
+        "pipe",
+        "weathered face"
+      ],
+      "roles": [
+        "smuggler captain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 26,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BAPTISTIN",
+      "name": "Baptistin",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "nervous",
+        "deferential",
+        "astonished",
+        "formal",
+        "loud",
+        "efficient"
+      ],
+      "visual_attributes": [
+        "pale face",
+        "neat moustache",
+        "black livery",
+        "white gloves",
+        "anxious expression",
+        "livery"
+      ],
+      "roles": [
+        "valet",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 26,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JACOPO",
+      "name": "Jacopo",
+      "aliases": [
+        "The Captain",
+        "Pilot",
+        "Captain"
+      ],
+      "voice_attributes": [
+        "rough",
+        "loyal",
+        "encouraging",
+        "respectful",
+        "professional"
+      ],
+      "visual_attributes": [
+        "sailor clothes",
+        "curly hair",
+        "weather-beaten",
+        "sailor"
+      ],
+      "roles": [
+        "sailor",
+        "smuggler",
+        "captain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 24,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BARON_DANDRE",
+      "name": "Baron Dandré",
+      "aliases": [
+        "Dandré"
+      ],
+      "voice_attributes": [
+        "nervous",
+        "deferential",
+        "incompetent",
+        "professional"
+      ],
+      "visual_attributes": [
+        "ministerial clothes",
+        "pale"
+      ],
+      "roles": [
+        "Minister of Police"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 24,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GENDARME",
+      "name": "Gendarme",
+      "aliases": [],
+      "voice_attributes": [
+        "military",
+        "firm",
+        "gruff"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "carbine",
+        "shako hat"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 23,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRESIDENT_OF_PEERS",
+      "name": "President",
+      "aliases": [
+        "PRESIDENT_OF_ASSIZES"
+      ],
+      "voice_attributes": [
+        "authoritative",
+        "grave",
+        "formal",
+        "stern",
+        "stupefied",
+        "irritated"
+      ],
+      "visual_attributes": [
+        "official robes",
+        "grey hair",
+        "judges' robes",
+        "stern face",
+        "gray hair",
+        "formal cap"
+      ],
+      "roles": [
+        "official",
+        "judge"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 22,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MARQUIS_DE_SAINT_MERAN",
+      "name": "Marquis de Saint-Méran",
+      "aliases": [
+        "Marquis"
+      ],
+      "voice_attributes": [
+        "dignified",
+        "slightly shaky",
+        "enthusiastic"
+      ],
+      "visual_attributes": [
+        "old man",
+        "Cross of Saint Louis",
+        "formal wear"
+      ],
+      "roles": [
+        "aristocrat",
+        "royalist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 21,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LOUISE_D_ARMILLY",
+      "name": "Louise d'Armilly",
+      "aliases": [
+        "Mademoiselle d'Armilly"
+      ],
+      "voice_attributes": [
+        "musical",
+        "fatigued",
+        "soft"
+      ],
+      "visual_attributes": [
+        "fairy-like figure",
+        "large curls",
+        "long neck",
+        "dull eyes",
+        "somewhat beautiful"
+      ],
+      "roles": [
+        "musician",
+        "teacher"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 20,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PHARAON_SAILOR",
+      "name": "Sailor",
+      "aliases": [],
+      "voice_attributes": [
+        "breathless",
+        "honest",
+        "loud"
+      ],
+      "visual_attributes": [
+        "sailor clothes",
+        "tanned face"
+      ],
+      "roles": [
+        "sailor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 17,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "RENEE_DE_SAINT_MERAN",
+      "name": "Renée",
+      "aliases": [
+        "Mademoiselle de Saint-Méran"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "sweet",
+        "pleading",
+        "soft"
+      ],
+      "visual_attributes": [
+        "young",
+        "lovely",
+        "light brown hair",
+        "bright eyes"
+      ],
+      "roles": [
+        "love interest",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 17,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PENELON",
+      "name": "Penelon",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "respectful",
+        "weather-beaten"
+      ],
+      "visual_attributes": [
+        "old sailor",
+        "bronzed face",
+        "worn hat"
+      ],
+      "roles": [
+        "sailor",
+        "quartermaster"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 16,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "EDWARD_DE_VILLEFORT",
+      "name": "Edward",
+      "aliases": [],
+      "voice_attributes": [
+        "high-pitched",
+        "spoiled",
+        "rude"
+      ],
+      "visual_attributes": [
+        "small for age",
+        "pale",
+        "straight black hair",
+        "large mouth",
+        "thin lips"
+      ],
+      "roles": [
+        "son"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 15,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "THOMSON_CLERK",
+      "name": "Clerk",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "confidential",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "clerk attire",
+        "pen",
+        "ledger"
+      ],
+      "roles": [
+        "clerk",
+        "informant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 15,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SENTINEL",
+      "name": "Sentinel",
+      "aliases": [
+        "BANDIT_SENTINEL"
+      ],
+      "voice_attributes": [
+        "alert",
+        "suspicious",
+        "rough",
+        "silent"
+      ],
+      "visual_attributes": [
+        "bandit clothes",
+        "carbine"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 15,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_TURNKEY_1",
+      "name": "Turnkey 1",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "callous"
+      ],
+      "visual_attributes": [
+        "dirty uniform",
+        "keys"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 14,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GERMAIN",
+      "name": "Germain",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "subservient",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "servant livery",
+        "neutral expression"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 13,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_TURNKEY_2",
+      "name": "Turnkey 2",
+      "aliases": [],
+      "voice_attributes": [
+        "sarcastic",
+        "rough"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "boots"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 11,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BRIGADIER",
+      "name": "Brigadier",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "frustrated"
+      ],
+      "visual_attributes": [
+        "carbineer uniform",
+        "shako hat"
+      ],
+      "roles": [
+        "law enforcement"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 11,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CARLINI",
+      "name": "Carlini",
+      "aliases": [],
+      "voice_attributes": [
+        "desperate",
+        "stoic",
+        "emotional"
+      ],
+      "visual_attributes": [
+        "young bandit",
+        "fierce eyes",
+        "pistols in belt"
+      ],
+      "roles": [
+        "bandit",
+        "tragic lover"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 10,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "VILLEFORT_DOORKEEPER",
+      "name": "Concierge",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "subservient",
+        "professional"
+      ],
+      "visual_attributes": [
+        "official uniform",
+        "middle-aged"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CUCUMETTO",
+      "name": "Cucumetto",
+      "aliases": [
+        "The Chief"
+      ],
+      "voice_attributes": [
+        "cruel",
+        "lascivious",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "rugged bandit",
+        "scarred face",
+        "weapons in belt"
+      ],
+      "roles": [
+        "antagonist",
+        "bandit chief"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CAB_DRIVER",
+      "name": "Driver",
+      "aliases": [],
+      "voice_attributes": [
+        "dull",
+        "tired",
+        "gruff",
+        "compliant"
+      ],
+      "visual_attributes": [
+        "cabman coat",
+        "pipe",
+        "weathered face"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MORCERF_FOOTMAN",
+      "name": "Valet",
+      "aliases": [
+        "MONTE_CRISTO_FOOTMAN",
+        "DANGLARS_FOOTMAN",
+        "MORCERF_VALET",
+        "VILLEFORT_VALET"
+      ],
+      "voice_attributes": [
+        "polite",
+        "obedient",
+        "silent",
+        "nervous",
+        "subservient",
+        "apologetic"
+      ],
+      "visual_attributes": [
+        "livery",
+        "standing straight",
+        "servant",
+        "white gloves"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 8,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CONCIERGE",
+      "name": "Concierge",
+      "aliases": [
+        "AUTEUIL_CONCIERGE"
+      ],
+      "voice_attributes": [
+        "grumpy",
+        "insistent",
+        "garrulous",
+        "subservient",
+        "grateful"
+      ],
+      "visual_attributes": [
+        "worn clothes",
+        "keys",
+        "old man",
+        "concierge livery",
+        "lantern"
+      ],
+      "roles": [
+        "caretaker"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 8,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "TERESA",
+      "name": "Teresa",
+      "aliases": [],
+      "voice_attributes": [
+        "coquettish",
+        "timid",
+        "enthusiastic"
+      ],
+      "visual_attributes": [
+        "beautiful peasant girl",
+        "Roman dress",
+        "pearl necklace",
+        "dark hair"
+      ],
+      "roles": [
+        "love interest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 8,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DUKE_OF_BRACCIANO",
+      "name": "The Duke",
+      "aliases": [],
+      "voice_attributes": [
+        "gracious",
+        "aristocratic",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "formal evening wear",
+        "noble features"
+      ],
+      "roles": [
+        "aristocrat",
+        "host"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 7,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PHILIP",
+      "name": "Philip",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "helpful"
+      ],
+      "visual_attributes": [
+        "waiter apron",
+        "young face"
+      ],
+      "roles": [
+        "waiter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 7,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FLORENTIN",
+      "name": "Valet",
+      "aliases": [
+        "Valet"
+      ],
+      "voice_attributes": [
+        "polite",
+        "obedient",
+        "anxious"
+      ],
+      "visual_attributes": [
+        "young",
+        "valet livery",
+        "neat",
+        "dusty clothes"
+      ],
+      "roles": [
+        "servant",
+        "valet"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 7,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COMTE_DE_SALVIEUX",
+      "name": "Comte de Salvieux",
+      "aliases": [],
+      "voice_attributes": [
+        "confident",
+        "conversational",
+        "cultured"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "well-dressed",
+        "chamberlain insignia"
+      ],
+      "roles": [
+        "aristocrat",
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 7,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_DOCTOR",
+      "name": "Doctor",
+      "aliases": [],
+      "voice_attributes": [
+        "clinical",
+        "cynical",
+        "dry",
+        "impious"
+      ],
+      "visual_attributes": [
+        "medical bag",
+        "formal coat",
+        "spectacles"
+      ],
+      "roles": [
+        "doctor",
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "RITA_FATHER",
+      "name": "Rita's Father",
+      "aliases": [
+        "The Old Man"
+      ],
+      "voice_attributes": [
+        "hoarse",
+        "grieving",
+        "solemn"
+      ],
+      "visual_attributes": [
+        "elderly peasant",
+        "worn clothes",
+        "white hair"
+      ],
+      "roles": [
+        "father"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ROYALIST_GUEST_1",
+      "name": "Guest",
+      "aliases": [
+        "ROYALIST_GUEST_2",
+        "ROYALIST_GUEST_3"
+      ],
+      "voice_attributes": [
+        "approving",
+        "loud",
+        "enthusiastic",
+        "praising"
+      ],
+      "visual_attributes": [
+        "aristocratic"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COMMISSARY_OF_POLICE",
+      "name": "Commissary",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "deferential",
+        "silent"
+      ],
+      "visual_attributes": [
+        "uniformed",
+        "police insignia",
+        "official sash"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MAGISTRATE",
+      "name": "Magistrate",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "formal",
+        "cold"
+      ],
+      "visual_attributes": [
+        "official scarf",
+        "dark suit",
+        "tricorne hat",
+        "stern face"
+      ],
+      "roles": [
+        "official",
+        "law enforcement"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MINISTERIAL_EDITOR",
+      "name": "Editor",
+      "aliases": [],
+      "voice_attributes": [
+        "jovial",
+        "cynical",
+        "professional"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "comfortable",
+        "spectacles"
+      ],
+      "roles": [
+        "editor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HOTEL_PORTER",
+      "name": "Porter",
+      "aliases": [
+        "DANGLARS_PORTER"
+      ],
+      "voice_attributes": [
+        "polite",
+        "deferential",
+        "professional",
+        "gruff",
+        "sleepy"
+      ],
+      "visual_attributes": [
+        "hotel uniform",
+        "middle-aged",
+        "old man",
+        "porter livery"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_OFFICIAL",
+      "name": "Inspector",
+      "aliases": [
+        "CUSTOMS_OFFICER"
+      ],
+      "voice_attributes": [
+        "formal",
+        "inquisitive",
+        "authoritative",
+        "suspicious",
+        "loud"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "clipboard",
+        "weapons",
+        "official"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BUSONI_VALET",
+      "name": "Valet",
+      "aliases": [
+        "DANGLARS_VALET",
+        "BEAUCHAMP_VALET"
+      ],
+      "voice_attributes": [
+        "polite",
+        "protective",
+        "formal",
+        "obedient"
+      ],
+      "visual_attributes": [
+        "servant attire",
+        "livery",
+        "servant"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HOSTESS_COMPIEGNE",
+      "name": "Hostess",
+      "aliases": [],
+      "voice_attributes": [
+        "friendly",
+        "chatty",
+        "assuring"
+      ],
+      "visual_attributes": [
+        "innkeeper dress",
+        "pleasant face"
+      ],
+      "roles": [
+        "hostess"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_THIEF_1",
+      "name": "Thief 1",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "mocking"
+      ],
+      "visual_attributes": [
+        "ragged",
+        "dirty",
+        "pale"
+      ],
+      "roles": [
+        "prisoner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MONTE_CRISTO_CONCIERGE",
+      "name": "The Concierge",
+      "aliases": [],
+      "voice_attributes": [
+        "formal",
+        "impassive",
+        "polite"
+      ],
+      "visual_attributes": [
+        "uniformed",
+        "middle-aged",
+        "stoic face",
+        "gold-braided cap"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_THIEF_2",
+      "name": "Thief 2",
+      "aliases": [],
+      "voice_attributes": [
+        "raspy",
+        "admiring"
+      ],
+      "visual_attributes": [
+        "ragged",
+        "haggard"
+      ],
+      "roles": [
+        "prisoner"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DANGLARS_GROOM",
+      "name": "The Groom",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "inquiring"
+      ],
+      "visual_attributes": [
+        "livery coat",
+        "tricorn hat",
+        "young",
+        "clean-shaven"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BANDIT_LIEUTENANT",
+      "name": "Lieutenant",
+      "aliases": [],
+      "voice_attributes": [
+        "skeptical",
+        "rough"
+      ],
+      "visual_attributes": [
+        "bandit clothes"
+      ],
+      "roles": [
+        "bandit"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COACHMAN",
+      "name": "Coachman",
+      "aliases": [
+        "MORCERF_COACHMAN"
+      ],
+      "voice_attributes": [
+        "polite",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "coachman livery"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DISTRICT_DOCTOR",
+      "name": "Doctor of the Dead",
+      "aliases": [],
+      "voice_attributes": [
+        "indifferent",
+        "laconic"
+      ],
+      "visual_attributes": [
+        "black suit",
+        "official papers"
+      ],
+      "roles": [
+        "official",
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ROME_CICERONE",
+      "name": "Cicerone",
+      "aliases": [],
+      "voice_attributes": [
+        "helpful",
+        "professional"
+      ],
+      "visual_attributes": [
+        "guide attire"
+      ],
+      "roles": [
+        "guide"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ANTOINE",
+      "name": "Antoine",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "gruff",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "turnkey attire",
+        "lantern",
+        "keys",
+        "soiled clothes"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "VALENTINE_NURSE",
+      "name": "Nurse",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "tired"
+      ],
+      "visual_attributes": [
+        "nurse uniform",
+        "tired face"
+      ],
+      "roles": [
+        "nurse"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FRUITERESS",
+      "name": "Fruiteress",
+      "aliases": [],
+      "voice_attributes": [
+        "helpful",
+        "loud",
+        "friendly"
+      ],
+      "visual_attributes": [
+        "apron",
+        "working class"
+      ],
+      "roles": [
+        "shopkeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "POSTILION",
+      "name": "Postilion",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "service"
+      ],
+      "visual_attributes": [
+        "postilion uniform"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MAYOR_OF_MARSEILLES",
+      "name": "Mayor",
+      "aliases": [],
+      "voice_attributes": [
+        "formal",
+        "polite",
+        "cautious",
+        "official"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "formal suit",
+        "sash of office",
+        "dignified"
+      ],
+      "roles": [
+        "official",
+        "mayor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ANDREA_RONDOLO",
+      "name": "Andrea",
+      "aliases": [],
+      "voice_attributes": [
+        "desperate",
+        "screaming",
+        "hoarse"
+      ],
+      "visual_attributes": [
+        "short",
+        "fat",
+        "brutal face",
+        "unkempt beard"
+      ],
+      "roles": [
+        "criminal",
+        "condemned"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MESSENGER",
+      "name": "Messenger",
+      "aliases": [],
+      "voice_attributes": [
+        "italian accent",
+        "mysterious"
+      ],
+      "visual_attributes": [
+        "unremarkable"
+      ],
+      "roles": [
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COCLES",
+      "name": "Cocles",
+      "aliases": [
+        "Cock-eye"
+      ],
+      "voice_attributes": [
+        "loyal",
+        "simple",
+        "insistent",
+        "bewildered",
+        "obedient"
+      ],
+      "visual_attributes": [
+        "one-eyed",
+        "older",
+        "worn clothes",
+        "servant",
+        "old"
+      ],
+      "roles": [
+        "cashier",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COURT_USHER",
+      "name": "Door-keeper",
+      "aliases": [],
+      "voice_attributes": [
+        "shrill",
+        "loud",
+        "official"
+      ],
+      "visual_attributes": [
+        "court uniform",
+        "black gown",
+        "staff of office"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DIAVOLACCIO",
+      "name": "Diavolaccio",
+      "aliases": [],
+      "voice_attributes": [
+        "mocking",
+        "rough"
+      ],
+      "visual_attributes": [
+        "bandit",
+        "bleeding wound on face"
+      ],
+      "roles": [
+        "bandit"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CHIEF_PENITENT",
+      "name": "Chief Penitent",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "formal"
+      ],
+      "visual_attributes": [
+        "gray sackcloth robe",
+        "hooded",
+        "holding taper"
+      ],
+      "roles": [
+        "religious figure"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BENEDETTO_CHILD",
+      "name": "Benedetto",
+      "aliases": [
+        "BENEDETTO_YOUNG"
+      ],
+      "voice_attributes": [
+        "insolent",
+        "high-pitched",
+        "mocking",
+        "spoiled",
+        "cruel",
+        "swaggering",
+        "harsh"
+      ],
+      "visual_attributes": [
+        "12 years old",
+        "handsome",
+        "blonde hair",
+        "blue eyes",
+        "cruel smile",
+        "fine clothes",
+        "young man",
+        "dissolute appearance",
+        "fine but worn clothes"
+      ],
+      "roles": [
+        "foster child",
+        "antagonist",
+        "criminal"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "WAITER",
+      "name": "Waiter",
+      "aliases": [
+        "WAITER_COMPIEGNE"
+      ],
+      "voice_attributes": [
+        "neutral",
+        "polite",
+        "unsuspecting",
+        "professional"
+      ],
+      "visual_attributes": [
+        "apron",
+        "serving tray",
+        "white shirt",
+        "tray"
+      ],
+      "roles": [
+        "server"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "VALENTINE_MAID",
+      "name": "Housemaid",
+      "aliases": [],
+      "voice_attributes": [
+        "urgent",
+        "loud",
+        "frightened"
+      ],
+      "visual_attributes": [
+        "servant attire",
+        "maid uniform"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CORNELIE",
+      "name": "Cornélie",
+      "aliases": [
+        "Mademoiselle Cornélie"
+      ],
+      "voice_attributes": [
+        "polite",
+        "subservient",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "maid uniform",
+        "young",
+        "neat"
+      ],
+      "roles": [
+        "maid",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MADAME_MORREL",
+      "name": "Madame Morrel",
+      "aliases": [],
+      "voice_attributes": [
+        "weeping",
+        "distressed",
+        "gentle",
+        "tearful",
+        "anxious",
+        "devoted"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "matronly",
+        "anxious face",
+        "worried expression"
+      ],
+      "roles": [
+        "wife",
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PIERRE",
+      "name": "Pierre",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "subservient",
+        "obedient"
+      ],
+      "visual_attributes": [
+        "livery",
+        "young man"
+      ],
+      "roles": [
+        "servant",
+        "groom"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_KEEPER",
+      "name": "Keeper",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "indifferent",
+        "pitiless"
+      ],
+      "visual_attributes": [
+        "herculean",
+        "uniform"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MARSEILLES_BOATMAN",
+      "name": "Boatman",
+      "aliases": [],
+      "voice_attributes": [
+        "eager",
+        "sweet-toned",
+        "hopeful"
+      ],
+      "visual_attributes": [
+        "striped shirt",
+        "boatman cap",
+        "weathered face"
+      ],
+      "roles": [
+        "sailor",
+        "local"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ANDREA_GROOM",
+      "name": "Groom",
+      "aliases": [],
+      "voice_attributes": [
+        "humble",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "caricature of English fashion",
+        "livery"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SALVIEUX_DAUGHTER",
+      "name": "Young Lady",
+      "aliases": [],
+      "voice_attributes": [
+        "bright",
+        "naive",
+        "excited"
+      ],
+      "visual_attributes": [
+        "beautiful",
+        "young",
+        "elegant"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ETIENNE",
+      "name": "Étienne",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "valet livery",
+        "young"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BANDIT_GUARD_OGRE",
+      "name": "Bandit Guard",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "silent",
+        "voracious"
+      ],
+      "visual_attributes": [
+        "athletic",
+        "gigantic",
+        "red hair",
+        "dishevelled",
+        "flat nose"
+      ],
+      "roles": [
+        "guard",
+        "bandit"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DANGLARS_MAID",
+      "name": "Maid",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "subservient",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "maid uniform"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_AUTEUIL_DINING",
+      "ordinal": 0,
+      "location_header": "INT. AUTEUIL DINING ROOM - NIGHT",
+      "visual_description": "The dining room of the Auteuil house, 1838. A magnificent Oriental feast is laid out on silver dishes. Exotic fruits, rare birds, and enormous fish (sterlet and lamprey) are displayed. Vases from China and jars from Japan adorn the table. The atmosphere is one of overwhelming luxury and curiosity.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_DE_LONDRES_DINING",
+      "ordinal": 0,
+      "location_header": "INT. HOTEL DE LONDRES - NIGHT",
+      "visual_description": "Private dining room in the Hotel de Londres, Rome, 1838. Night. Candles illuminate a table set for one. Shadows flicker in the corners. The atmosphere is quiet, lonely, and slightly oppressive due to the darkness outside.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANGLARS_CELL_CATACOMBS",
+      "ordinal": 0,
+      "location_header": "INT. CATACOMBS CELL - DAY",
+      "visual_description": "Int. Catacombs Cell - Day. A small cell cut out of the rock in the Catacombs of St. Sebastian, Rome 1838. Whitewashed walls, unusual for the setting. A bed of dried grass with goat-skins in the corner. A worm-eaten wooden table and a stool. An ill-joined plank door allows light and smells from the corridor. Dry and clean but subterranean.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AUTEUIL_HOUSE_EXT",
+      "ordinal": 0,
+      "location_header": "EXT. AUTEUIL HOUSE - AFTERNOON",
+      "visual_description": "Exterior of the Count's house at Auteuil, 1838. A magnificent transformation has occurred. A pristine green lawn glistens with water, replacing old paving stones. Large poplars and spreading sycamores provide shade. The facade remains simple, but the grounds are lush with vegetation. Late afternoon sunlight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TELEGRAPH_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. MONTLHERY TOWER GARDEN - DAY",
+      "visual_description": "Exterior Montlhéry tower base, day. Ancient tower covered in ivy and wallflowers. Small enclosed garden (20x12ft) with red gravel paths in figure-8. Lush rose trees, strawberry plants, black earth. Sun-dial present. Atmosphere of manicured nature and isolation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_APARTMENT_ROME_DAY",
+      "ordinal": 0,
+      "location_header": "INT. MONTE CRISTO APARTMENT - DAY",
+      "visual_description": "The Count's apartment in Rome, morning. Sunlight streams into the small, divan-lined room. The atmosphere is bright but formal. A calendar hangs near the chimney-piece.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ROME_STREETS_DAY",
+      "ordinal": 0,
+      "location_header": "EXT. ROME STREETS - DAY",
+      "visual_description": "The Corso and Via del Babuino in Rome, 1838. Crowded with Carnival preparations. Flags hang from windows, scaffolds are raised. Bright sunlight illuminates the stone facades of the Rospoli and Fiano palaces. A dense crowd fills the streets.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SAINT_MERAN_SALON",
+      "ordinal": 0,
+      "location_header": "INT. SAINT-MERAN MANSION - EVENING",
+      "visual_description": "Aristocratic salon in Marseilles, 1815. Night has fallen, and the room is lit by oil lamps and candles, casting warm glows on the mahogany furniture and velvet drapery. Guests sip coffee in evening attire. A sense of anxiety disrupts the previous celebration.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ABBE_BUSONI_LIBRARY",
+      "ordinal": 0,
+      "location_header": "INT. ABBE BUSONI APARTMENT - EVENING",
+      "visual_description": "Small library room, Paris 1838. Walls lined with theological books and parchments. A single lamp with a green shade casts a pool of bright light on a desk, leaving corners in deep shadow. Austere, scholarly atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PARIS_STREETS_JOURNEY",
+      "ordinal": 0,
+      "location_header": "EXT/INT. PARIS STREETS - DAY",
+      "visual_description": "Paris streets and passages, 1838. Day. A progression from the noble Faubourg Saint-Germain through the Rue Mazarine to the Pont-Neuf. Inside a carriage, then walking through a passage, then a cab. Glimpses of the Seine and busy streets through a veil. Atmosphere of secrecy and transit.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PALAIS_DE_JUSTICE_COURTROOM",
+      "ordinal": 0,
+      "location_header": "INT. ASSIZE COURT - DAY",
+      "visual_description": "Interior of the Assize Court, Paris 1838. High tribunal bench, jury box, railed dock for the accused. Crowded public galleries including elegant women. Serious, judicial atmosphere with wood panelling and official robes. A buzz of tension fills the air.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TUILERIES_CLOSET",
+      "ordinal": 0,
+      "location_header": "INT. TUILERIES KING'S CLOSET - DAY",
+      "visual_description": "The King's private closet at the Tuileries Palace, Paris, 1815. A small room with an arched window. Furnished with a walnut table covered in maps and books, including Horace. The decor is Empire style but personal to the King. Light is bright, suggesting daytime. A sense of false security prevails.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_STREETS_OF_PARIS",
+      "ordinal": 0,
+      "location_header": "EXT. PARIS STREETS - DAY",
+      "visual_description": "Street outside the Tuileries, Paris 1815. Cobblestones, imposing palace gates in background. A hackney coach waits. Bustling city atmosphere despite political tension. Grey sky.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PONT_DU_GARD_INT",
+      "ordinal": 0,
+      "location_header": "INT. PONT DU GARD INN - NIGHT",
+      "visual_description": "The common room of a poor country inn, 1829. Rough plaster walls, a wooden staircase to the upper floor, and a trapdoor in the floor. Simple wooden tables and stools. A few empty bottles on shelves. Lit by a flickering oil lamp as a storm rages outside. The mood is poverty-stricken, tense, and shadowy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANGLARS_BOUDOIR",
+      "ordinal": 0,
+      "location_header": "INT. DANGLARS BOUDOIR - NIGHT",
+      "visual_description": "Small octagonal boudoir in the Danglars mansion, Paris. Walls hung with pink satin and white Indian muslin. Ancient furniture, sketches of shepherds by Boucher, and crayon medallions. A piano and work-table stand in the room. Atmosphere of feminine elegance and secluded luxury.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VALENTINE_BEDROOM_DAY",
+      "ordinal": 0,
+      "location_header": "INT. VALENTINE'S BEDROOM - DAY",
+      "visual_description": "Valentine's bedroom, morning. 1838. Bright daylight filters through the Venetian blinds, revealing the elegant furniture and the pale, motionless figure on the bed. The atmosphere shifts from quiet tragedy to chaotic grief.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HAYDEE_APARTMENTS",
+      "ordinal": 0,
+      "location_header": "INT. HAYDEE'S APARTMENTS - DAY",
+      "visual_description": "Circular boudoir in Paris house, 1838. Oriental styling with walls of brocaded silk and floors of rich Turkey carpets. Light filters through a rose-colored glass roof. Luxurious divans with blue satin cushions spotted with silver. Fragrant smoke from a narghile fills the air. Warm, secluded, and exotic atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PALAIS_DE_JUSTICE_HALL",
+      "ordinal": 0,
+      "location_header": "INT. PALAIS DE JUSTICE HALL - DAY",
+      "visual_description": "Crowded vestibule of the Palais de Justice, 1838. Stone walls, high ceilings, iron gates. Filled with lawyers in robes, gendarmes, and fashionable Parisians. Bright September daylight filters through high windows. Atmosphere of anticipation and gossip.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANGLARS_SALON",
+      "ordinal": 0,
+      "location_header": "INT. DANGLARS DRAWING ROOM - EVENING",
+      "visual_description": "A luxurious Parisian bachelor's salon, 1838. Sunlight streams into the room, illuminating a large divan and tables cluttered with tobacco jars, pipes, and cigars. The walls display an eclectic mix of weapons, stuffed birds, and art. The atmosphere is indolent, wealthy, and masculine. Rich colors of Persian textiles and polished wood.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LA_FORCE_LIONS_DEN",
+      "ordinal": 0,
+      "location_header": "EXT. PRISON COURTYARD - DAY",
+      "visual_description": "The 'Lions' Den' courtyard in La Force prison, Paris 1838. Enclosed by massive, double-thick stone walls. A paved yard where damp vapors rise. Sunlight glances obliquely into this gulf. Iron bars and gratings are prominent. The atmosphere is grim, dangerous, and hopeless, populated by ragged, desperate men.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANTES_CELL",
+      "ordinal": 0,
+      "location_header": "INT. DANTES CELL - DAY",
+      "visual_description": "Grim prison cell in the Château d'If, 1815. Dim gray daylight filters through a high barred window. Rough stone walls, a simple bed with a canvas sack, a table, and a stool. The atmosphere is cold, damp, and heavy with the presence of death.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_RUE_ST_GERMAIN_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. DEBRAY'S SECRET APARTMENT - DAY",
+      "visual_description": "Interior of a discreet bachelor apartment in Paris, 1838. Located on the first floor. Furnished with comfortable but not ostentatious pieces. A fireplace warms the room. The atmosphere is private, secretive, and quiet, suited for clandestine meetings. Soft afternoon light filters through curtained windows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_STREETS_OF_MARSEILLES",
+      "ordinal": 0,
+      "location_header": "EXT. STREETS OF MARSEILLES - DAY",
+      "visual_description": "Narrow, cobblestone street in Marseilles, early 19th century. Tall stone buildings with shuttered windows. Sunlight casts sharp shadows. A corner meeting spot near bustling activity.",
+      "metadata": {},
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/scenes/scene_SCENE_STREETS_OF_MARSEILLES.jpg"
+    },
+    {
+      "identifier": "SCENE_DEBRAY_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. DEBRAY'S APARTMENT - NIGHT",
+      "visual_description": "Lucien Debray's bachelor apartments in Paris, 1838. Late night. A comfortable, stylish room suitable for a wealthy secretary. Gaming tables and tea service visible. The atmosphere is tense and political.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SMUGGLER_SHIP_DECK",
+      "ordinal": 0,
+      "location_header": "EXT. SMUGGLER SHIP - DAY",
+      "visual_description": "Deck of the Genoese tartan La Jeune Amélie, 1829. Bright Mediterranean sun. The ship cuts through blue waters. Piles of contraband goods (muslins, cottons) are occasionally visible on deck. The atmosphere is busy and secretive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LA_RESERVE",
+      "ordinal": 0,
+      "location_header": "EXT. LA RESERVE ARBOR - DAY",
+      "visual_description": "Outdoor arbor of a tavern near the harbor. Plane and sycamore trees provide dappled shade over wooden tables. Wine bottles and glasses on the table. The atmosphere is relaxed with birds singing in the budding spring foliage.",
+      "metadata": {},
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/scenes/scene_SCENE_LA_RESERVE.jpg"
+    },
+    {
+      "identifier": "SCENE_VALENTINE_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. VALENTINE'S BEDROOM - NIGHT",
+      "visual_description": "Valentine de Villefort's bedroom in the Villefort mansion, Paris 1838. An elegant room with a recessed library door near the fireplace. An alabaster lamp casts dim light on the bed and medicine table. The atmosphere is heavy with sickness, shadows, and feverish delirium.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_EUGENIE_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. EUGENIE'S BEDROOM - NIGHT",
+      "visual_description": "Eugénie Danglars' bedroom in Paris, 1838. Night. A spacious, elegant room filled with feminine luxury which is now being discarded. Trunks are open, clothes scattered. The atmosphere is hasty, conspiratorial, and charged with the energy of escape.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MERCEDES_HUT",
+      "ordinal": 0,
+      "location_header": "INT. MERCEDES HUT - DAY",
+      "visual_description": "Interior of a simple Catalan hut in Marseilles, 1815. Walls coated with whitewash, floor of earth or tile. The room is sunlit through an open door, revealing a glimpse of the sea. Simple, rustic furniture including a table and chair. A general air of poverty but cleanliness.",
+      "metadata": {},
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/scenes/scene_SCENE_MERCEDES_HUT.jpg"
+    },
+    {
+      "identifier": "SCENE_PARIS_CARRIAGE_DAY",
+      "ordinal": 0,
+      "location_header": "INT. CARRIAGE - DAY",
+      "visual_description": "Interior of a luxurious carriage moving through Paris, 1838. Bright morning sunlight flickers through the windows. Plush velvet seats, polished wood trim, and a view of passing city streets and the Place Royale. The atmosphere is relieved and cheerful, contrasting with the earlier tension of the duel.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BEAUCHAMP_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. BEAUCHAMP'S APARTMENT - DAY",
+      "visual_description": "Beauchamp's bachelor apartment in Paris, 1838. Morning light filters through drawn curtains. The room is comfortable but disordered, scattered with newspapers and books. A bath is prepared in the adjoining room. The atmosphere is private and tense.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PONT_DU_GARD_EXT",
+      "ordinal": 0,
+      "location_header": "EXT. PONT DU GARD INN - DAY",
+      "visual_description": "A sun-bleached roadside inn in Provence, 1829. Dusty white stone walls, a rattling tin sign with a painting of the Pont du Gard. Withered olive trees and a solitary, dying pine tree stand in the parched earth. Intense, blinding sunlight and sharp shadows. The atmosphere is desolate, hot, and windy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MAYOR_OFFICE",
+      "ordinal": 0,
+      "location_header": "INT. MAYOR'S OFFICE - DAY",
+      "visual_description": "Mayor of Marseilles' office, 1829. Official civic room with large windows overlooking the city. A large desk cluttered with papers. The atmosphere is formal, bureaucratic, and slightly tense due to the financial inquiries. Bright morning light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LA_RESERVE_INT",
+      "ordinal": 0,
+      "location_header": "INT. LA RESERVE FEAST ROOM - DAY",
+      "visual_description": "Spacious second-floor dining room at La Réserve, Marseilles 1815. Bright midday sunlight streams through windows lettered in gold with French city names. A wooden balcony runs outside. A long table is set with white linen, wine bottles, and seafood platters. Joyful wedding atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORREL_WAREHOUSE_INT",
+      "ordinal": 0,
+      "location_header": "INT. MORREL'S WAREHOUSE - DAY",
+      "visual_description": "Interior of Morrel’s warehouse in Marseilles, 1829. Once bustling, now silent and dusty with an air of gloom. Empty desks and deserted corridors. Afternoon light filters through dirty windows onto worn floorboards. Atmosphere of decay and impending ruin.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SAINT_MERAN_DINING",
+      "ordinal": 0,
+      "location_header": "INT. SAINT-MERAN MANSION - DAY",
+      "visual_description": "Aristocratic dining room in Marseilles, 1815. High ceilings, mahogany furniture, silver candelabras. Bright afternoon light filters through velvet curtains. The table is laden with crystal, fine china, and floral centerpieces. Atmosphere of wealthy, royalist exclusivity and celebration.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORREL_HOME_INT",
+      "ordinal": 0,
+      "location_header": "INT. MORREL'S HOME - DAY",
+      "visual_description": "The interior of Morrel’s home and private study, Marseilles, 1829. A somber, quiet atmosphere pervades the once-happy house. The study is orderly but heavy with the threat of disgrace. A clock ticks ominously. Morning light, then night.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_HOUSE_EXT",
+      "ordinal": 0,
+      "location_header": "EXT. VILLEFORT HOUSE - DAY",
+      "visual_description": "Street outside Villefort's residence in Marseilles, 1815. It adjoins the Palais de Justice. Tall stone buildings, cobblestones, antechamber visible through open door full of gendarmes. Sombre atmosphere contrasting with previous scene.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_OPEN_SEA",
+      "ordinal": 0,
+      "location_header": "EXT. MEDITERRANEAN SEA - TWILIGHT",
+      "visual_description": "The Mediterranean Sea at twilight, 1838. A small sailboat cuts through the water. To the west, the sun sets behind the rugged, dark silhouette of Corsica. To the east, the conical, rocky shape of Monte Cristo rises from the indigo waves. The lighting shifts from golden sunset to deep blue twilight. Atmosphere of adventure and isolation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_STUDY",
+      "ordinal": 0,
+      "location_header": "INT. VILLEFORT STUDY - DAY",
+      "visual_description": "Villefort's study in Marseilles, 1815. Dark, imposing room with a large desk piled with papers. A fire burns in the grate. Heavy drapes, bookshelves filled with law volumes. The atmosphere is judicial and intimidating.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DUEL_FIELD_PARIS",
+      "ordinal": 0,
+      "location_header": "EXT. DUELING GROUND - DAY",
+      "visual_description": "A secluded clearing in the Bois de Vincennes, 1838. Tall trees surround a grassy open space. Morning mist hangs in the air. A carriage road is visible in the distance. The atmosphere is tense, cold, and quiet, suitable for a duel.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_HOUSE_PARIS_INT",
+      "ordinal": 0,
+      "location_header": "INT. MONTE CRISTO HOUSE - DAY",
+      "visual_description": "The drawing-room of Monte Cristo's residence on the Champs-Élysées, 1838. Elegant and sparsely furnished with a mix of Oriental and European luxury. Heavy tapestry curtains, plush divans, and polished mahogany surfaces. Late afternoon light softens into evening, illuminated by wax candles and the warm glow of a fireplace. The atmosphere is quiet, controlled, and deceptively simple.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_COAST_DAY",
+      "ordinal": 0,
+      "location_header": "EXT. MONTE CRISTO COAST - DAY",
+      "visual_description": "A rugged Mediterranean coastline bathed in brilliant morning sunlight. Sharp granite rocks frame a dark grotto entrance. White foam laps against the shore. In the distance, a deep blue sea stretches to the horizon. A small boat is anchored on the glittering water. The atmosphere is fresh, bright, and awakening.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PERE_LACHAISE",
+      "ordinal": 0,
+      "location_header": "EXT. PERE LACHAISE CEMETERY - DAY",
+      "visual_description": "Père-Lachaise Cemetery, 1838. Avenues bordered with dark, manicured yew trees. White stone tombs and grand mausoleums rise from the earth. A family vault stands prominent with bronze gates. The weather is dull and stormy, with a cold wind scattering yellow leaves. Atmosphere of silence, wealth, and funereal pomp.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_FOOTNOTES",
+      "ordinal": 0,
+      "location_header": "NARRATOR - FOOTNOTES",
+      "visual_description": "Abstract space for reading footnotes and annotations.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_COAST_EVENING",
+      "ordinal": 0,
+      "location_header": "EXT. MONTE CRISTO COAST - EVENING",
+      "visual_description": "Ext. Monte Cristo Coast - Evening. The sun sets over the Mediterranean, casting opal and gold light on the waves. A light yacht with white sails glides towards the dark, cone-shaped island of Monte Cristo. The atmosphere is calm, melancholy, and magical.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_FUNERAL_PROCESSION",
+      "ordinal": 0,
+      "location_header": "EXT. PARIS STREETS - DAY",
+      "visual_description": "Faubourg Saint-Honoré, Paris, 1838. A long file of black mourning coaches and private carriages extends down the street. Crowds of curious Parisians line the cobblestones. The architecture is grand 19th-century stone. The sky is dull and grey. Atmosphere of solemnity, aristocracy, and public spectacle.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORREL_PARIS_INT",
+      "ordinal": 0,
+      "location_header": "INT. MORREL APARTMENT - DAY",
+      "visual_description": "Interior salon of the Morrel home. Furnished with mahogany and blue velvet curtains. A large vase of Japan porcelain fills the air with flower perfume. Birds sing in a nearby aviary. Sunlight filters through rose acacias outside the window. Atmosphere of tranquility, domestic happiness, and modest wealth.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_COLOSSEUM_RUINS",
+      "ordinal": 0,
+      "location_header": "EXT. COLOSSEUM - NIGHT",
+      "visual_description": "A majestic Roman ruin at night, bathed in silvery moonlight. Gigantic broken arches and dilapidated staircases cast deep shadows. Creeping plants silhouette against the starry blue sky. The atmosphere is ancient, mysterious, and silent.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_NOIRTIER_ROOM_INT",
+      "ordinal": 0,
+      "location_header": "INT. NOIRTIER'S ROOM - DAY",
+      "visual_description": "M. Noirtier's private room in the Villefort mansion, Paris. 1838. Daytime. An invalid's sanctuary, silent and heavy with tension. A large mirror is positioned to reflect the whole room to the wheelchair-bound occupant. The furniture is old-fashioned and imposing: heavy mahogany, velvet armchairs, and thick curtains filtering the light. A bell and a dictionary sit on a table. The atmosphere is stifling, medical, and secretive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_GREENHOUSE",
+      "ordinal": 0,
+      "location_header": "INT. MORCERF CONSERVATORY - NIGHT",
+      "visual_description": "A glass-enclosed conservatory at the end of the Morcerf garden, Paris 1838. Night. Accessed through an archway of linden trees. The air is artificially heated and heavy with the scent of ripening fruits (grapes, peaches). Plants climb the walls. Quiet and secluded compared to the ball.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANGLARS_COURTYARD",
+      "ordinal": 0,
+      "location_header": "EXT. DANGLARS MANSION COURTYARD - NIGHT",
+      "visual_description": "The paved courtyard of Baron Danglars' Parisian mansion, 1838. Night. Large carriage gates separate the space from the street. Gas lamps cast a harsh light on the imposing stone facade. Liveried footmen wait near the entrance. The atmosphere is wealthy, formal, and shadowed.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PIAZZA_DEL_POPOLO_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. APARTMENT OVERLOOKING PIAZZA - DAY",
+      "visual_description": "A rented apartment room in Rome, 1838. Elegant blue and white satin costumes lie on chairs. A window offers a view of the crowded Piazza del Popolo and the scaffold. Bright daylight, festive yet grim atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_POOR_LODGING",
+      "ordinal": 1,
+      "location_header": "INT. MORCERF GARRET - DAY",
+      "visual_description": "A humble garret room in Paris, 1838. Walls covered in cheap gray paper. Uncarpeted floor, simple furniture including a humble pallet bed and a wooden table. No fire in the grate; the room is cold. The atmosphere is one of stark poverty contrasting with the noble bearing of its inhabitants. Dull, gray daylight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHATEAU_IF_CORRIDORS",
+      "ordinal": 1,
+      "location_header": "INT. CHATEAU D'IF CORRIDORS - NIGHT",
+      "visual_description": "Dark, humid stone corridors of the Château d'If, 1816. Torchlight flickers on wet, rough masonry. Shadows stretch long against the walls. The air is foul and stagnant. Oppressive, claustrophobic atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ISLAND_TIBOULEN",
+      "ordinal": 1,
+      "location_header": "EXT. ISLAND OF TIBOULEN - NIGHT",
+      "visual_description": "A barren, jagged islet of grotesque rock in the Mediterranean. Nighttime storm with lightning illuminating the chaotic waves. Rain pours down on the sharp granite. A sense of desolation and wild nature.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LEGHORN_BARBER",
+      "ordinal": 1,
+      "location_header": "INT. BARBER SHOP - DAY",
+      "visual_description": "Interior of a barber shop in Leghorn (Livorno), 1829. A simple room with a chair and a mirror. Sunlight enters from the street. The floor is swept clean. Shaving tools and scissors are laid out.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_JEWELERS_SHOP",
+      "ordinal": 1,
+      "location_header": "INT. JEWELER'S SHOP - DAY",
+      "visual_description": "Interior of a jeweler's back parlor in Leghorn, 1829. Quiet, discreet, and dimly lit. A wooden table for transactions. Shelves with small boxes. An atmosphere of secretive commerce.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BOVILLE_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. BOVILLE'S STUDY - DAY",
+      "visual_description": "M. de Boville's private study, 1829 Marseilles. An orderly room lined with shelves of prison registers and files. A comfortable armchair for guests. The desk is arranged with precision. Bright daylight filters in, illuminating the dust motes. Quiet, administrative atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORREL_OFFICE_INT",
+      "ordinal": 1,
+      "location_header": "INT. MORREL'S OFFICE - DAY",
+      "visual_description": "M. Morrel's private office, Marseilles 1829. A large, somewhat old-fashioned room with a heavy desk cluttered with ledgers. Maps on the walls. A glass door leads to the antechamber. The mood is tense and heavy with anxiety. Late afternoon light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MARSEILLES_HARBOR",
+      "ordinal": 1,
+      "location_header": "EXT. MARSEILLES HARBOR - DAY",
+      "visual_description": "1815 Marseilles harbor under bright midday sun. The stone ramparts of Fort Saint-Jean rise against a blue sky. A large three-masted merchant ship, the Pharaon, navigates the calm waters, rigging detailed with ropes and canvas. A small skiff rows alongside the hull. Bustling docks in the background with crowds in Napoleonic era civilian dress.",
+      "metadata": {},
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/scenes/scene_SCENE_MARSEILLES_HARBOR.jpg"
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_COAST",
+      "ordinal": 1,
+      "location_header": "EXT. MONTE CRISTO COAST - NIGHT",
+      "visual_description": "A hidden cove on the rocky island of Monte Cristo, night. A campfire burns on a small esplanade surrounded by granite rocks and myrtle bushes. The firelight casts dancing shadows on the rough stone and the faces of seated smugglers. A small boat is moored nearby. The atmosphere is secretive and tense, illuminated by the warm glow of the fire against the black night.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BRACCIANO_PALACE",
+      "ordinal": 1,
+      "location_header": "INT. PALAZZO BRACCIANO - NIGHT",
+      "visual_description": "Grand ballroom of the Palazzo Bracciano, Rome, 1838. Opulent baroque decor, crystal chandeliers blazing with light, mirrors reflecting the wealthy guests. The atmosphere is festive, aristocratic, and vibrant.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BANDIT_FOREST",
+      "ordinal": 1,
+      "location_header": "EXT. SABINE FOREST - NIGHT",
+      "visual_description": "A dense pine forest in the Sabine mountains, night. Moonlight filters through the tufted umbrage of huge oak and pine trees. A clearing with a campfire casting long, dancing shadows on the rough ground. The atmosphere is wild, secretive, and tense.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ALBERT_SALON",
+      "ordinal": 1,
+      "location_header": "INT. ALBERT'S SALON - DAY",
+      "visual_description": "A luxurious Parisian bachelor's salon, 1838. Sunlight streams into the room, illuminating a large divan and tables cluttered with tobacco jars, pipes, and cigars. The walls display an eclectic mix of weapons, stuffed birds, and art. The atmosphere is indolent, wealthy, and masculine. Rich colors of Persian textiles and polished wood.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_DE_LONDRES_APARTMENT",
+      "ordinal": 1,
+      "location_header": "INT. HOTEL APARTMENT - DAY",
+      "visual_description": "Franz and Albert's shared apartment in the Hotel de Londres. Comfortable, travel-worn, filled with trunks and personal effects. Mid-day light. A private space for confidential talk.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_SALON",
+      "ordinal": 1,
+      "location_header": "INT. MORCERF SALON - DAY",
+      "visual_description": "Elegant Parisian salon, 1838. Walls adorned with modern masterpieces by Delacroix and landscapes. A prominent portrait of a woman in Catalan dress. Another portrait of a General in uniform. Velvet curtains, gilded furniture. Atmosphere of high aristocracy and artistic taste.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_HOUSE_PARIS_EXT",
+      "ordinal": 1,
+      "location_header": "EXT. MONTE CRISTO HOUSE - DAY",
+      "visual_description": "Exterior of a grand Parisian residence on the Champs-Élysées, 1838. A thick clump of trees masks the front. Two curved gravel alleys lead to a double portico adorned with porcelain vases. Iron gates roll smoothly. Sunlight afternoon atmosphere of wealth and exclusivity.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AUTEUIL_HOUSE_INT",
+      "ordinal": 1,
+      "location_header": "INT. AUTEUIL HOUSE - AFTERNOON",
+      "visual_description": "Interior of the Auteuil house, 1838. The antechambers and staircases are overflowing with fresh flowers. The air is scented with perfumes. The library is stocked with thousands of red-and-gold bound books. A conservatory features rare flowers in china jars and a billiard table. Luxurious, revitalized atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AUTEUIL_GARDEN",
+      "ordinal": 1,
+      "location_header": "EXT. AUTEUIL GARDEN - NIGHT",
+      "visual_description": "A neglected garden at night in Auteuil, 1838. A large plane tree dominates a lawn surrounded by thick clumps of trees and shrubs. Moonlight struggles through billowing dark clouds, casting fitful, dancing shadows. The facade of the dark house is visible in the background. The atmosphere is ominous, heavy with secrets and the memory of violence.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_HOUSE_PARIS_NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. MONTE CRISTO HOUSE - NIGHT",
+      "visual_description": "Grand interior of the Parisian residence on Champs-Élysées, night. Opulent decor with marble statues, rich tapestries, and gold accents. Lit by gas lamps and a rose-colored flambeau held by a servant. Large windows reveal a dark garden. The atmosphere is mysterious, wealthy, and hushed.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORREL_PARIS_EXT",
+      "ordinal": 1,
+      "location_header": "EXT. MORREL'S HOUSE PARIS - DAY",
+      "visual_description": "Exterior of a white stone house and garden at No. 7 Rue Meslay, Paris, 1838. A small court features two beds of flowers and a fountain in a rockwork basin with gold and silver fish. The garden is walled and secluded, dubbed 'The Little Versailles'. Bright afternoon sunlight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_OFFICE_PARIS",
+      "ordinal": 1,
+      "location_header": "INT. VILLEFORT OFFICE - DAY",
+      "visual_description": "Villefort's magistrate office in the Palais de Justice, Paris 1838. A sober, intimidating room with high ceilings and heavy velvet curtains. A large mahogany desk is piled with legal papers. Dim afternoon light. Atmosphere of official power, secrecy, and judicial coldness.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LORD_WILMORE_SALON",
+      "ordinal": 1,
+      "location_header": "INT. LORD WILMORE APARTMENT - NIGHT",
+      "visual_description": "English-style drawing room in Paris, 1838. Furnished with Sèvres vases, Cupid timepiece, and engravings. Gray paper, red and black tapestry. Dim lighting from ground-glass shades. Eccentric, wealthy atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_GARDEN_GATE",
+      "ordinal": 1,
+      "location_header": "EXT. VILLEFORT GARDEN GATE - EVENING",
+      "visual_description": "A secluded corner of a garden in the Faubourg Saint-Honoré, Paris. Late afternoon turning to evening. A high wall and chestnut trees block the view. An old green boarded-up gate separates the garden from a waste patch of lucern. Sunlight filters through dense foliage, fading into twilight. A stone bench sits in the shade. Atmosphere of secrecy, shadows, and romance.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TELEGRAPH_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. TELEGRAPH TOWER ROOM - DAY",
+      "visual_description": "Interior telegraph tower, third story. Small room dominated by the mechanical telegraph controls (two iron handles). Windows overlooking the countryside. Simple functional space.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AUTEUIL_RED_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. RED ROOM - NIGHT",
+      "visual_description": "The 'Red Room' bedroom in the Auteuil house. Unlike the rest of the house, this room is unlit and gloomy. It features old-fashioned furniture, a large bed with blood-colored drapery, and faded crayon portraits. A concealed door leads to a crooked staircase. The atmosphere is sinister and heavy with the past.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ROAD_AUTEUIL_PARIS",
+      "ordinal": 1,
+      "location_header": "EXT. ROAD TO PARIS - NIGHT",
+      "visual_description": "A road leading from Auteuil to Paris at night. Dark and quiet, lit only by the lantern of a moving tilbury. The silhouette of trees passes by. A sense of isolation and potential danger on the dark road.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_BALLROOM_GARDEN",
+      "ordinal": 1,
+      "location_header": "EXT/INT. MORCERF HOUSE AND GARDEN - NIGHT",
+      "visual_description": "The gardens and ground floor of the Count de Morcerf's Parisian house, July 1838. Night. The gardens are illuminated with colored lanterns and filled with guests. The deep blue sky is studded with stars. A supper tent stands on the lawn. Inside, the ballroom shines with brilliant streams of light. Music of waltzes and galops fills the air. Atmosphere of opulence and festivity.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_HOME_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. VILLEFORT STUDY - NIGHT",
+      "visual_description": "Villefort's study in his Parisian home, 1838. Night. A serious, isolated room lined with law books and piled with papers. A desk with a locked drawer stands in the center. The atmosphere is gloomy, secretive, and heavy with ambitious paranoia.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PARIS_CARRIAGE_NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. CARRIAGE - NIGHT",
+      "visual_description": "Interior of a luxurious brougham carriage moving through Paris at night. Plush velvet seats, polished wood trim, and a small lantern providing dim, rhythmic illumination. Through the window, the blur of gaslit boulevards and passing shadows. Atmosphere of intimacy and transit.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_PRINCES_ENTRANCE",
+      "ordinal": 1,
+      "location_header": "EXT. HOTEL DES PRINCES - NIGHT",
+      "visual_description": "Entrance of the Hôtel des Princes, Paris 1838. Night. Gas lamps illuminate the stone facade and the waiting porters. Carriages arrive and depart. A sense of movement and luxury transit.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TRAVELING_CARRIAGE",
+      "ordinal": 1,
+      "location_header": "INT. TRAVELING CARRIAGE - NIGHT",
+      "visual_description": "Interior of a high-speed travelling britzka. Night. Moving rapidly. 1838. The noise of wheels and hooves. Dark landscapes rushing by outside. Comfortable plush seating, lanterns swaying.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_EDITOR_OFFICE",
+      "ordinal": 1,
+      "location_header": "INT. NEWSPAPER OFFICE - DAY",
+      "visual_description": "The office of a ministerial newspaper editor, Paris, 1838. Cluttered with proofs and journals. A breakfast table is set amidst the chaos. Morning light. The atmosphere is busy and cynical.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_INTERIOR_HALL",
+      "ordinal": 1,
+      "location_header": "INT. VILLEFORT STAIRCASE - DAY",
+      "visual_description": "The interior staircase and hallway of the Villefort mansion, 1838. Polished wood floors, a grand staircase with a carved balustrade. Doors lead to various apartments. The light is dim, creating shadows in the corners. The atmosphere is quiet but filled with underlying dread.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PARIS_STREETS_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. PARIS STREETS - NIGHT",
+      "visual_description": "Paris streets at night, 1838. Dark, cobblestoned, and quiet. The dim light of gas lamps or the moon illuminates the facades of sleeping houses. A sense of freedom and danger as the carriage moves through the city gates.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANGLARS_HALLWAY",
+      "ordinal": 1,
+      "location_header": "INT. DANGLARS HALLWAY - NIGHT",
+      "visual_description": "Corridor outside Eugénie's room in the Danglars mansion. Night. Quiet and dimly lit. The door to Eugénie's room is bolted. Atmosphere of unease and maternal anxiety.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ROME_COUNTRYSIDE_STREAM",
+      "ordinal": 1,
+      "location_header": "EXT. ROMAN COUNTRYSIDE - MORNING",
+      "visual_description": "Ext. Roman Countryside - Morning. A desolate spot near a stream in the Italian countryside. Early morning light illuminates the grassy banks and scattered rocks. A lone tree stands nearby. The atmosphere is quiet, cold, and fresh, contrasting with the stale air of the catacombs.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LA_FORCE_VISITORS_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. VISITORS ROOM - DAY",
+      "visual_description": "The visitors' room in La Force prison. A long rectangular space divided by two upright iron gratings three feet apart, preventing contact. Damp, wretched, and horrible. The walls are bare stone. The atmosphere is agonizing and separated. Dim, prison light filters in.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_STREET_OUTSIDE_VILLEFORT",
+      "ordinal": 1,
+      "location_header": "EXT. VILLEFORT HOUSE - DAY",
+      "visual_description": "Street outside Villefort's residence in Marseilles, 1815. It adjoins the Palais de Justice. Tall stone buildings, cobblestones, antechamber visible through open door full of gendarmes. Sombre atmosphere contrasting with previous scene.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_DESPAGNE",
+      "ordinal": 1,
+      "location_header": "EXT. HOTEL D'ESPAGNE - DAY",
+      "visual_description": "Entrance of the Hôtel d'Espagne, Rome 1838. Old Pastrini stands at the door with his hat in hand. A post-chaise arrives. Street urchins and idlers gather around. Bright Roman daylight. Atmosphere of travel and tourism.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_HOTEL",
+      "ordinal": 2,
+      "location_header": "INT. HOTEL DE MADRID - DAY",
+      "visual_description": "Interior of a suite at the Hotel de Madrid, Paris 1815. A transient space with a breakfast table set with silver and china. A fireplace with a fire. A large mirror and a portmanteau nearby. Morning light filters through curtains.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MAXIMILIAN_ROOM_INT",
+      "ordinal": 2,
+      "location_header": "INT. MAXIMILIAN'S BEDROOM - DAY",
+      "visual_description": "Maximilian's bedroom in the Morrel house, Paris. 1838. A simple, masculine room located on an upper floor. A glass-panelled door with a red curtain separates it from the landing. Inside, a desk with pistols and writing materials. The floor is polished. Atmosphere of solitude and desperate resolve.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHATEAU_IF_DUNGEON",
+      "ordinal": 2,
+      "location_header": "INT. CHATEAU D'IF DUNGEON - NIGHT",
+      "visual_description": "The dungeon level of the Château d'If. Located deep underground, reached by descending stone steps. Utter darkness, dampness, and silence. The air is thick and stagnant. Rough stone walls enclose a space of total isolation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AVRIGNY_OFFICE",
+      "ordinal": 2,
+      "location_header": "INT. DOCTOR'S STUDY - DAY",
+      "visual_description": "Doctor d'Avrigny's private study, Paris 1838. A professional, clinical room lined with medical texts and glass cabinets. A desk covered with papers. The atmosphere is grave and urgent. Daylight filters through a window, illuminating the dust.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_HOUSE_PARIS_EXT",
+      "ordinal": 2,
+      "location_header": "EXT. VILLEFORT HOUSE - DAY",
+      "visual_description": "Exterior of Villefort's house in Paris, 1838. Morning. The house looks like a plague-stricken lazaretto, with shutters closed and a desolate air. Servants guard the door suspiciously. Atmosphere of doom.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_GARDEN_INT_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. VILLEFORT GARDEN - NIGHT",
+      "visual_description": "A sprawling Victorian garden in Paris at night, dominated by deep shadows and moonlight. A dense clump of sycamore and chestnut trees stands in the foreground, offering concealment. Beyond the foliage, the gray stone facade of the Villefort mansion rises, mostly dark except for a few dim windows. The atmosphere is suspenseful, cold, and secretive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VAMPA_TERRITORY",
+      "ordinal": 2,
+      "location_header": "EXT. PALESTRINA GROTTO - DAY",
+      "visual_description": "A rugged landscape near Palestrina, Italy. Wild shrubbery and rocks surround a hidden grotto entrance blocked by a large stone. A path winds towards distant blue mountains. Bright Mediterranean sunlight illuminates the dry, dusty terrain. Rustic and isolated.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LEGHORN_TAVERN",
+      "ordinal": 2,
+      "location_header": "INT. LEGHORN TAVERN - NIGHT",
+      "visual_description": "A smoky, dimly lit tavern on the Via del’ Oglio, Leghorn, 1829. Rough wooden tables, low ceiling. Crowded with sailors and smugglers speaking various languages. The air is thick with tobacco smoke and the smell of wine.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHAPELLE_INN_EXT",
+      "ordinal": 2,
+      "location_header": "EXT. CHAPELLE-EN-SERVAL INN - NIGHT",
+      "visual_description": "Exterior of a small country inn at Chapelle-en-Serval, 1838. Night. A simple structure with a moat nearby. The road is quiet and dark, illuminated only by the inn's lantern. Rural atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_COAST_MORNING",
+      "ordinal": 2,
+      "location_header": "EXT. MONTE CRISTO COAST - DAWN",
+      "visual_description": "The shore of Monte Cristo island at daybreak. Pale azure sky with fading stars. Rugged rocks and calm sea. A large white sail visible on the horizon. Atmosphere of peaceful resolution and hope.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_THOMSON_FRENCH_BANK",
+      "ordinal": 2,
+      "location_header": "INT. THOMSON & FRENCH BANK - DAY",
+      "visual_description": "Interior of Thomson & French bank, Rome. A serious financial institution in the Via dei Banchi. Desks with clerks, a bench for waiting clients. Quiet, business-like atmosphere with the scratching of pens.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ISLAND_TIBOULEN_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. ISLAND OF TIBOULEN - DAY",
+      "visual_description": "The same rocky island under the bright, clear light of early morning. The storm has passed. The blue sea stretches to the horizon where the Château d'If is visible. Golden light touches the white crests of the waves.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_HOME_STUDY_DAY",
+      "ordinal": 2,
+      "location_header": "INT. VILLEFORT HOME STUDY - DAY",
+      "visual_description": "Villefort's private study in his Parisian home, 1838. Day. A serious, isolated room lined with law books and piled with papers. A desk stands in the center. The atmosphere is judicial, orderly, and heavy with ambition. Bright but cold daylight filters into the room.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AUTEUIL_COURTYARD",
+      "ordinal": 2,
+      "location_header": "EXT. AUTEUIL COURTYARD - AFTERNOON",
+      "visual_description": "The courtyard of the house at Auteuil. Fresh gravel paths. Servants in livery move busily. Carriages arrive at the steps. The atmosphere is bustling with the arrival of wealthy guests. Late afternoon light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LA_FORCE_PRIVATE_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. PRIVATE CELL - DAY",
+      "visual_description": "A private cell on the first floor of La Force prison. Whitewashed walls, clean relative to the yard. Furnished with a stove, a bed, a chair, and a table. It looks almost brilliant compared to the dungeon. The atmosphere is quiet and secretive, allowing for private conversation. Barred window.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_JOURNEY_TO_IF",
+      "ordinal": 2,
+      "location_header": "EXT/INT. MARSEILLES TO CHATEAU D'IF - NIGHT",
+      "visual_description": "A sequence of gloomy transitions in 1815 Marseilles. First, long, dark stone corridors of the Palais de Justice. Then, the interior of a carriage moving through night streets, grated windows revealing flashes of gaslight. Finally, a small boat on the open dark sea under starlight, with the menacing silhouette of the Château d'If fortress rising from the water.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_ANTECHAMBER",
+      "ordinal": 2,
+      "location_header": "INT. MORCERF ANTECHAMBER - DAY",
+      "visual_description": "Grand antechamber of the Morcerf residence, 1838. A large heraldic shield hangs above the door. Rich furnishings harmonize with the blazon. Footmen in livery stand ready. Atmosphere of formal display and lineage.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MERCEDES_BOUDOIR",
+      "ordinal": 2,
+      "location_header": "INT. MERCEDES BOUDOIR - DAY",
+      "visual_description": "Private boudoir, 1838. Dimly lit, obscured by heavy velvet drapery. Flower stands filled with roses and heliotropes scent the air. Gilded picture frames glint in the gloom. A chaise lounge and mantle with smelling bottles. Intimate, feminine, and melancholy atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_PRINCES_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. HOTEL DES PRINCES ROOM - NIGHT",
+      "visual_description": "A well-appointed hotel room in Paris, 1838. Elegant furniture, fireplace, and heavy curtains. Lit by candles and the glow of a fire. Personal effects of a wealthy traveler scattered about.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MARSEILLES_NIGHT_MONTAGE",
+      "ordinal": 2,
+      "location_header": "INT. VARIOUS LOCATIONS - NIGHT",
+      "visual_description": "A sequence of night scenes in Marseilles. A humble hut interior in darkness. A room with two empty bottles and a flickering candle casting wild shadows. A ship's cabin or office with a ledger. The mood ranges from despair to drunken stupor to cold calculation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ROGLIANO_HOUSE",
+      "ordinal": 2,
+      "location_header": "INT. ROGLIANO HOUSE - NIGHT",
+      "visual_description": "Interior of a Corsican house in Rogliano, night. A simple rustic room turned chaotic. Drawers pulled open, furniture overturned, and clothes scattered. A brazier glows hotly in the center of the room. Shadows dance on the whitewashed walls. The atmosphere is violent, tragic, and filled with smoke.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_STREET_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. MONTE CRISTO STREET - NIGHT",
+      "visual_description": "Street outside the Count's house. Night. High stone wall with coping. Gas lamps in the distance (Champs-Élysées). Dark shadows near the wall. Solitary and dangerous atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HAYDEE_APARTMENTS_NIGHT",
+      "ordinal": 2,
+      "location_header": "INT. HAYDEE'S APARTMENTS - NIGHT",
+      "visual_description": "Circular boudoir in Paris house, 1838, night. Oriental styling with walls of brocaded silk and rich Turkey carpets. Soft, warm light from hanging lamps with colored glass. Luxurious divans with blue satin cushions. A mother-of-pearl guzla and smoking pipes visible. Atmosphere of secluded, exotic luxury.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HILL_VILLEJUIF",
+      "ordinal": 2,
+      "location_header": "EXT. HILL OF VILLEJUIF - NIGHT",
+      "visual_description": "A panoramic view of Paris at night from the high hill of Villejuif. The city lights appear like a sombre sea with millions of phosphorescent waves tossing in the dark. Starlight shines above. A carriage stands on the dusty road. Atmosphere of triumph, farewell, and philosophical contemplation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_NORMANDY_HOUSE",
+      "ordinal": 2,
+      "location_header": "EXT. MONTE CRISTO NORMANDY HOUSE - DAY",
+      "visual_description": "A beautiful park bounded by a small forest, facing the sea. A creek with a sloop. Inside, a library and summer-house. 1838. Atmosphere of seaside luxury and isolation. Bright daylight, sea breeze.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SINBAD_CAVE_INTERIOR",
+      "ordinal": 2,
+      "location_header": "INT. SINBAD'S CAVE - NIGHT",
+      "visual_description": "A fantastical, opulent subterranean palace carved into rock. The walls are lined with crimson brocade and worked with gold flowers. Venetian glass lamps hang from the ceiling, casting soft light on marble floors, antique statues holding baskets of fruit, and piles of luxurious animal skins (lion, tiger, bear). A blend of Arabian Nights fantasy and high-end luxury. Warm, rich colors.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_RUE_ST_GERMAIN_STAIRS",
+      "ordinal": 2,
+      "location_header": "INT. STAIRCASE - DAY",
+      "visual_description": "The staircase of a Parisian house in Rue Saint-Germain-des-Prés, 1838. Dimly lit, with a wooden banister. The walls are plain. It serves as a transitional space between the comfort of the first floor and the poverty of the garret above. Shadows cling to the corners. Quiet and narrow.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_STREET_OUTSIDE_HOTEL_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. ROME STREET - NIGHT",
+      "visual_description": "Street outside the Hotel de Londres, Rome. Deep night, very dark with the moon just rising. The cobblestones are barely visible. A sense of danger and obscurity hangs in the air.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOUSE_OF_PEERS_MORNING",
+      "ordinal": 2,
+      "location_header": "INT. HOUSE OF PEERS - DAY",
+      "visual_description": "The Chamber of Peers, Paris, 1838. A grand, hemicycle hall with marble columns and velvet drapery. Rows of seats for the peers. A tribune for speakers. The atmosphere is solemn, hushed, and judgmental. Bright, cold daylight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GENOA_HARBOR",
+      "ordinal": 2,
+      "location_header": "EXT. GENOA HARBOR - DAY",
+      "visual_description": "Busy harbor of Genoa, 1829. Crowds of spectators and shipbuilders. The smell of sea salt and tar. A sleek new yacht is docked, its rigging pristine. Bright sunlight glitters on the water.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_DRESSING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. DRESSING ROOM - DAY",
+      "visual_description": "Dressing-room in Champs-Élysées house. Day. A small, private antechamber connected to the bedroom. Mahogany furniture, a large mirror, and nautical attire including a sailor's jacket and hat laid out. The atmosphere is transformative and tense.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DANGLARS_STUDY_INT",
+      "ordinal": 3,
+      "location_header": "INT. DANGLARS STUDY - DAY",
+      "visual_description": "Baron Danglars' private study in his Parisian mansion, 1838. Day. A functional, opulent room filled with ledgers and strongboxes. A large desk dominates, piled with dispatches and financial papers. The atmosphere is cold, calculated, and heavy with financial anxiety.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SAINT_MERAN_BEDROOM",
+      "ordinal": 3,
+      "location_header": "INT. MADAME DE SAINT-MERAN'S ROOM - NIGHT",
+      "visual_description": "A guest bedroom in the Villefort house, Paris. Dimly lit by a nightlamp and moonlight filtering through open blinds. A four-poster bed is covered with a white sheet outlining a corpse. Heavy velvet armchairs and dark wood furniture. The atmosphere is sepulchral, silent, and heavy with death.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TEATRO_ARGENTINA",
+      "ordinal": 3,
+      "location_header": "INT. TEATRO ARGENTINA - NIGHT",
+      "visual_description": "Interior of a grand Roman opera house, 1830s. Tiers of gilded boxes lined with crimson velvet. Gaslight illuminates the crowded auditorium. The stage is visible with painted scenery. Atmosphere of aristocratic display and cultural sophistication.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SAN_FELICE_GARDEN",
+      "ordinal": 3,
+      "location_header": "EXT. VILLA SAN FELICE GARDENS - NIGHT",
+      "visual_description": "The gardens of the Villa San-Felice during a carnival ball, night. Thousands of colored lanterns hang from trees, illuminating the terraces. Orchestras play at cross-paths. Tables are spread with refreshments. The atmosphere is festive, vibrant, and filled with moving lights and shadows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_DE_LONDRES",
+      "ordinal": 3,
+      "location_header": "INT. HOTEL D'ESPAGNE APARTMENT - NIGHT",
+      "visual_description": "A private parlor in a Roman hotel, 1838. Modest but comfortable, with two small adjoining rooms. Lit by wax candles in silver sticks. A dining table is set for supper with white linen. Outside the windows, the suggestion of a bustling, crowded city. Warm interior tones, slightly cramped but respectable.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_SALON",
+      "ordinal": 3,
+      "location_header": "INT. VILLEFORT DRAWING ROOM - AFTERNOON",
+      "visual_description": "A lavish Parisian drawing-room in 1838. Rich velvet draperies, brocaded walls, and heavy mahogany furniture. A gilded perch with a parrot stands near a plush sofa. A table holds albums and tortoise-shell boxes. Late afternoon light filters through the curtains, fading into evening. The atmosphere is wealthy, stifling, and elegant.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PARIS_STREETS_MENILMONTANT",
+      "ordinal": 3,
+      "location_header": "EXT. RUE MENILMONTANT - DAY",
+      "visual_description": "Rue Ménilmontant, Paris 1838. Day. A working-class street with simple buildings and shops. The third house on the left has a modest entrance. Bustling with morning activity.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SINBAD_DREAM",
+      "ordinal": 3,
+      "location_header": "INT. FRANZ'S DREAM - NIGHT",
+      "visual_description": "A surreal, hallucinogenic dreamscape. The marble statues of the previous room (Phryne, Cleopatra) appear to soften and come to life, glowing with an ethereal inner light. The background dissolves into a boundless, transparent blue horizon filled with sunlight and sea. The atmosphere is voluptuous, magical, and disorienting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_MANSION_COURTYARD",
+      "ordinal": 3,
+      "location_header": "EXT. MORCERF MANSION - DAY",
+      "visual_description": "The paved courtyard of the Count de Morcerf's grand Parisian mansion, 1838. High walls and an imposing gate. A hackney-coach stands incongruously in the center. The architecture is aristocratic and severe. Late afternoon light casting long shadows. Atmosphere of departure and fallen grace.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_CAVES",
+      "ordinal": 3,
+      "location_header": "INT. MONTE CRISTO CAVES - DAY",
+      "visual_description": "Underground cavern system on Monte Cristo, 1829. Walls of granite sparkle like diamonds in torchlight. The air is warm and still. A second, deeper grotto reveals an ancient oaken chest bound with iron. Atmosphere of mystery and discovered wealth.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_APARTMENT_ROME",
+      "ordinal": 3,
+      "location_header": "INT. MONTE CRISTO APARTMENT - NIGHT",
+      "visual_description": "The Count's apartment in Rome. A small, intimate room lined with luxurious divans. Oriental styling, soft lighting from lamps. The atmosphere is calm, mysterious, and wealthy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BELL_AND_BOTTLE_EXT",
+      "ordinal": 3,
+      "location_header": "EXT. BELL AND BOTTLE INN - NIGHT",
+      "visual_description": "Exterior of the Bell and Bottle Inn at Compiègne, 1838. Night. A picturesque entrance with triple galleries resembling a theatre, adorned with twining jasmine and clematis. A reflected lamp illuminates the sign. Welcoming but quiet atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHATEAU_IF_CLIFFS",
+      "ordinal": 3,
+      "location_header": "EXT. CHATEAU D'IF CLIFFS - NIGHT",
+      "visual_description": "Rocky cliffs outside the Château d'If, 1816. Night time with a black sky and biting Mistral wind. The dark, churning sea crashes against the jagged rocks below. The silhouette of the fortress looms high above. Torchlight cuts through the darkness.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LAFITTE_BANK_WINDOW",
+      "ordinal": 3,
+      "location_header": "INT. LAFITTE'S BANK - DAY",
+      "visual_description": "Interior of Lafitte's banking-house, Paris 1838. A small, arched observation window overlooking the main floor or street. Dark and secluded, allowing a hidden observer to watch without being seen. The atmosphere is business-like but shadowed by the observer's melancholy. View of the diligence outside.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_MANSION_EXT",
+      "ordinal": 3,
+      "location_header": "EXT. MORCERF MANSION - DAY",
+      "visual_description": "Exterior of the Count de Morcerf's grand Parisian mansion, 1838. A large courtyard with paved stones. High walls and an imposing gate. The architecture is aristocratic and severe. Morning light. Atmosphere of departure and fallen grace.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_OPERA_HOUSE_PARIS",
+      "ordinal": 3,
+      "location_header": "INT. PARIS OPERA HOUSE - NIGHT",
+      "visual_description": "The Académie Royale in Paris, 1838. A vast, horseshoe-shaped auditorium illuminated by gas chandeliers. Rows of boxes lined with red velvet and gold leaf. A crowded parterre. The atmosphere is stiflingly hot, noisy, and opulent.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_AUTEUIL_SALON",
+      "ordinal": 3,
+      "location_header": "INT. AUTEUIL SALON - EVENING",
+      "visual_description": "The drawing room of the Auteuil house. Elegant furniture, masterpieces by old masters on the walls (Hobbema, Murillo). Large porcelain jars with marine plants. The room is filled with guests in evening attire. Tension rises as secrets are silently acknowledged.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HELOISE_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. MADAME DE VILLEFORT'S ROOM - DAY",
+      "visual_description": "Madame de Villefort's private apartment, Paris 1838. Elegant ottoman, scattered newspapers and pamphlets on the floor. Soft furnishings, feminine decor but cold atmosphere. Daylight filters through curtains. A sense of impending judgment.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MORCERF_BEDROOM",
+      "ordinal": 4,
+      "location_header": "INT. MORCERF BEDROOM - DAY",
+      "visual_description": "General Morcerf's bedroom, Paris 1838. A masculine room with military accents, swords on the wall, and heavy damask curtains. A window overlooks the courtyard. The atmosphere is desperate, lonely, and final.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHATEAU_IF_CELL",
+      "ordinal": 4,
+      "location_header": "INT. DANTES CELL - NIGHT",
+      "visual_description": "A grim prison cell in the Château d'If, 1816. Bare, reeking stone walls dampen the sound. A single barred window high up admits a faint, struggling light. Modest furniture includes a table, a stool, a pail, and fresh straw in the corner. The atmosphere is cold, damp, and oppressive, lit by dim gray daylight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_APARTMENT",
+      "ordinal": 4,
+      "location_header": "INT. MONTE CRISTO APARTMENT - DAY",
+      "visual_description": "An opulent drawing room in Rome. Walls hung with magnificent paintings and war trophies. Rich Turkey carpets, heavy tapestry curtains, and luxurious divans with high-piled cushions. A mix of Oriental splendor and European art. Warm, wealthy atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_OLD_DANTES_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. OLD DANTES ROOM - DAY",
+      "visual_description": "Small, modest garret room in 1829 Marseilles. A single window with climbing nasturtiums and clematis allows bright afternoon sunlight to filter in. The furniture is sparse and worn, including a chair and a table. A few empty cupboards suggest poverty, but the space is kept clean.",
+      "metadata": {},
+      "image_key": "publications/93436dd2f83a540820533fd84302cb0da886b734/scenes/scene_SCENE_OLD_DANTES_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_CADEROUSSE_GARRET",
+      "ordinal": 4,
+      "location_header": "INT. CADEROUSSE'S GARRET - DAY",
+      "visual_description": "Garret in Rue Ménilmontant, Paris 1838. Third floor. Small, sloping ceiling. Walls peeling. A stove with copper pans emitting steam. A table set for two with wine and fruit. Smells of garlic. Dirty but festive preparation. Daytime light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLEFORT_GARDEN_DAY",
+      "ordinal": 4,
+      "location_header": "EXT. VILLEFORT GARDEN - DAY",
+      "visual_description": "Walled garden of the Villefort house in Paris, late autumn 1838. Dying rose trees and red creeper leaves on the balcony. A thick clump of linden trees with sparse foliage. Pale sunlight casts long shadows on the gravel paths. Atmosphere of decay, madness, and frantic digging.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOTEL_DE_LONDRES_DAY",
+      "ordinal": 4,
+      "location_header": "INT. HOTEL DE LONDRES - MORNING",
+      "visual_description": "A private parlor in a Roman hotel, flooded with bright morning light. The remains of breakfast are on the table. A door leads to the landing where a wooden notice board hangs. Atmosphere of bustling morning activity.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_APPIAN_WAY_NIGHT",
+      "ordinal": 4,
+      "location_header": "EXT. APPIAN WAY - NIGHT",
+      "visual_description": "The Appian Way at night. Ancient ruins and tombs line the road. The moon illuminates the broken landscape of the Campagna. Tall red herbage waves in the wind. Desolate and eerie.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ROCCA_BIANCA",
+      "ordinal": 4,
+      "location_header": "EXT. ROCCA BIANCA - DAY",
+      "visual_description": "The summit of an extinct volcano, Rocca Bianca. Rugged, jagged rocks form a natural fortress. The view commands the surrounding valleys. Bandits are gathered among the stones. The atmosphere is martial and commanding.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BELL_AND_BOTTLE_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. BELL AND BOTTLE INN ROOM - NIGHT",
+      "visual_description": "A comfortable guest room in the Bell and Bottle Inn, 1838. Night. A warm fire crackles in the grate. A table is set with a cold fowl and Bordeaux. The bed is inviting. Atmosphere of relief and temporary safety.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BUSONI_HOUSE_EXT",
+      "ordinal": 4,
+      "location_header": "EXT. STREET - EVENING",
+      "visual_description": "Street outside a modest house adjoining the Villefort mansion. Evening, 1838. Carpenters and masons are busy at work on the facade. The building looks slightly dilapidated but is being repaired. The atmosphere is mysterious and busy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BELL_AND_BOTTLE_ROOM_MORNING",
+      "ordinal": 5,
+      "location_header": "INT. BELL AND BOTTLE INN ROOM - DAY",
+      "visual_description": "The same guest room in the Bell and Bottle Inn. Morning. Bright sunlight streams in. The room is now a trap. Through the window, the courtyard is visible with gendarmes. A chimney offers a dark escape route.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CATACOMBS_INTERIOR",
+      "ordinal": 5,
+      "location_header": "INT. CATACOMBS - NIGHT",
+      "visual_description": "Interior of the Catacombs of St. Sebastian. A large subterranean chamber used as a bandit hideout. Niches in walls (columbarium). Lit by a single flickering lamp and torches. Shadows dance on stone pillars. Tense, subterranean atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SHOOTING_GALLERY",
+      "ordinal": 5,
+      "location_header": "INT. SHOOTING GALLERY - DAY",
+      "visual_description": "Gosset's shooting gallery in Paris, 1838. A specialized vestibule for washing hands leads to the range. The walls are lined with targets and playing cards pierced by bullets. Pistols and ammunition cases lie on tables. The atmosphere is smoky, masculine, and focused.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ABBE_FARIA_CELL",
+      "ordinal": 5,
+      "location_header": "INT. ABBE FARIA'S CELL - NIGHT",
+      "visual_description": "A grim stone dungeon cell in the Château d'If, 1816. The walls are damp and lined with rough masonry. A faint ray of sunlight enters through a high, narrow barred window, illuminating lines scratched into the stone floor. A ragged bed stands in the corner, and a small fireplace is visible. The atmosphere is intellectual but destitute.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ROME_CORSO_MOCCOLETTI",
+      "ordinal": 5,
+      "location_header": "EXT. ROME STREETS - NIGHT",
+      "visual_description": "The Corso in Rome at night, 1838, during the Moccoletti finale. The street is packed with a chaotic crowd. Thousands of small candles illuminate the scene like a sea of stars, casting flickering warm light on the stone facades of palaces. Smoke drifts in the air. Deep shadows contrast with the points of flame.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BELL_AND_BOTTLE_ROOF",
+      "ordinal": 6,
+      "location_header": "EXT. BELL AND BOTTLE ROOF - DAY",
+      "visual_description": "Rooftop of the Bell and Bottle Inn, Compiègne. Morning. Chimney pots and tiles. The massive sixteenth-century Hôtel de Ville looms nearby. Dangerous, exposed, high-up atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTE_CRISTO_STUDY",
+      "ordinal": 6,
+      "location_header": "INT. MONTE CRISTO STUDY - DAY",
+      "visual_description": "The Count's private study in his Champs-Élysées residence. Elegant, intellectual, and wealthy atmosphere. A large table is covered with maps, including one of the route from St. Petersburg to China. Books and scholarly instruments are visible. Bright Parisian daylight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MARSEILLES_CEMETERY",
+      "ordinal": 6,
+      "location_header": "EXT. MARSEILLES CEMETERY - DAY",
+      "visual_description": "Marseilles cemetery, 1838. A quiet enclosure shaded by four tall cypress trees. Two large marble slabs with inscriptions lie side by side. The atmosphere is sombre, peaceful, and respectful. Soft afternoon light filters through the branches.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BELL_AND_BOTTLE_EUGENIE_ROOM",
+      "ordinal": 7,
+      "location_header": "INT. BELL AND BOTTLE INN ROOM 3 - DAY",
+      "visual_description": "A double-bedded room in the Bell and Bottle Inn. Morning. Occupied by two women. A fireplace connects to the chimney above. The door is splintered open. Atmosphere of panic and intrusion.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BEAUCHAMP_OFFICE",
+      "ordinal": 7,
+      "location_header": "INT. BEAUCHAMP'S OFFICE - DAY",
+      "visual_description": "A journalist's office in Paris, 1838. The room is gloomy and dusty, typical of the trade. Piles of newspapers are strewn across the floor and furniture. A desk is cluttered with proofs. A single geranium plant sits near the window. The atmosphere is chaotic and cynical.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CATALAN_VILLAGE",
+      "ordinal": 7,
+      "location_header": "EXT. CATALAN VILLAGE - DAY",
+      "visual_description": "Exterior of the Catalan village, Marseilles 1829. Barren sandy ground, simple whitewashed huts. The vast blue sea stretches to the horizon. Bright, harsh sunlight. A sense of isolation and melancholy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PARIS_STREETS",
+      "ordinal": 8,
+      "location_header": "EXT. PARIS STREETS - DAY",
+      "visual_description": "Street outside the Tuileries, Paris 1815. Cobblestones, imposing palace gates in background. A hackney coach waits. Bustling city atmosphere despite political tension. Grey sky.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CONCIERGERIE_CELL",
+      "ordinal": 8,
+      "location_header": "INT. CONCIERGERIE - NIGHT",
+      "visual_description": "A prison cell in the Conciergerie, Paris. Grim stone walls, iron bars. 1838. Atmosphere of finality and incarceration.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Historical fiction",
+    "Revenge -- Fiction",
+    "Adventure stories",
+    "Prisoners -- Fiction",
+    "France -- History -- 19th century -- Fiction",
+    "Pirates -- Fiction",
+    "Dantès, Edmond (Fictitious character) -- Fiction"
+  ]
+}
