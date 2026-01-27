@@ -10,16 +10,21 @@
       "nautical"
     ],
     "catalog_added_at": "2026-01-25T19:11:33Z",
-    "updated_at": "2026-01-26T16:01:00Z",
+    "updated_at": "2026-01-27T14:37:00Z",
     "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
+      "total_ms": 2952000,
+      "formatted": "49m"
     },
     "cover_url": null,
-    "data_checksum": "c33b93b3eb9b16c19ee3f0f97311ffca438ec8cc2f7bd12d918a52d01ff78dc4",
-    "file_size": 104340922,
+    "data_checksum": "14360fd0e02b82c93d0138391554c48fd2d4c04e75ce7d852b66e7771ff43248",
+    "file_size": 104328407,
     "available_regions": [
-      "US"
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
     ]
   },
   {
