@@ -8,7 +8,7 @@
   "identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
   "publication_type": "novel",
   "cover_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/cover.png",
-  "total_duration_s": 2985.872676,
+  "total_duration_s": 2976.751542,
   "genre_tags": [
     "Classics",
     "Literary Fiction",
@@ -21,7 +21,7 @@
       "ordinal": 0,
       "audio_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2985.872676
+      "end_s": 2976.751542
     }
   ],
   "segments": [
@@ -29,7 +29,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.513,
+      "end_s": 6.512,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -37,8 +37,8 @@
     {
       "ordinal": 1,
       "title": "Chapter I",
-      "start_s": 6.513,
-      "end_s": 1721.13,
+      "start_s": 6.512,
+      "end_s": 1723.499,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -74,8 +74,8 @@
     {
       "ordinal": 2,
       "title": "Chapter II",
-      "start_s": 1721.13,
-      "end_s": 2985.873,
+      "start_s": 1723.499,
+      "end_s": 2976.752,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
