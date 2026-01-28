@@ -1,5 +1,33 @@
 [
   {
+    "publication_identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
+    "sample": true,
+    "title": "The Great Gatsby",
+    "author_names": "F. Scott Fitzgerald",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-27T16:19:00Z",
+    "updated_at": "2026-01-28T13:38:14Z",
+    "duration": {
+      "total_ms": 2977000,
+      "formatted": "50m"
+    },
+    "cover_url": null,
+    "data_checksum": "b952e1a7ba67378bb30a9f05489eae7498dd2787dfbfea2227f21f35e336e145",
+    "file_size": 140347559,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.2.2"
+  },
+  {
     "publication_identifier": "93436dd2f83a540820533fd84302cb0da886b734",
     "sample": true,
     "title": "The Count of Monte Cristo",
@@ -10,16 +38,21 @@
       "nautical"
     ],
     "catalog_added_at": "2026-01-25T19:11:33Z",
-    "updated_at": "2026-01-26T16:01:00Z",
+    "updated_at": "2026-01-27T14:37:00Z",
     "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
+      "total_ms": 2952000,
+      "formatted": "49m"
     },
     "cover_url": null,
-    "data_checksum": "c33b93b3eb9b16c19ee3f0f97311ffca438ec8cc2f7bd12d918a52d01ff78dc4",
-    "file_size": 104340922,
+    "data_checksum": "14360fd0e02b82c93d0138391554c48fd2d4c04e75ce7d852b66e7771ff43248",
+    "file_size": 104328407,
     "available_regions": [
-      "US"
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
     ]
   },
   {
