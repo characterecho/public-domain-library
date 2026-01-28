@@ -2,7 +2,7 @@
   "version": 2,
   "generated_at": "2026-01-28T00:30:18Z",
   "genre_vocabulary_version": 1768326996,
-  "catalog_min_app_version": "1.2.1",
+  "catalog_min_app_version": "1.2.2",
   "publications": [
     {
       "publication_identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
@@ -30,7 +30,7 @@
         "NZ",
         "IE"
       ],
-      "min_app_version": "1.2.1"
+      "min_app_version": "1.2.2"
     },
     {
       "publication_identifier": "93436dd2f83a540820533fd84302cb0da886b734",
