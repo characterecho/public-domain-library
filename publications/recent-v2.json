@@ -1,8 +1,37 @@
 {
   "version": 2,
-  "generated_at": "2026-01-27T14:37:00Z",
+  "generated_at": "2026-01-28T00:30:18Z",
   "genre_vocabulary_version": 1768326996,
+  "catalog_min_app_version": "1.2.1",
   "publications": [
+    {
+      "publication_identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
+      "sample": true,
+      "title": "The Great Gatsby",
+      "author_names": "F. Scott Fitzgerald",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics"
+      ],
+      "catalog_added_at": "2026-01-27T16:19:00Z",
+      "updated_at": "2026-01-28T00:30:18Z",
+      "duration": {
+        "total_ms": 2987000,
+        "formatted": "50m"
+      },
+      "cover_url": null,
+      "data_checksum": "47ba040bcbe407efbc491f9d9b1a394558aec27494a1bbc2a70ab5c1e4832c00",
+      "file_size": 140759031,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.2.1"
+    },
     {
       "publication_identifier": "93436dd2f83a540820533fd84302cb0da886b734",
       "sample": true,
