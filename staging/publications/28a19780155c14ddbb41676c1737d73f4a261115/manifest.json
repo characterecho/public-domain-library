@@ -8,7 +8,7 @@
   "identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
   "publication_type": "novel",
   "cover_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/cover.png",
-  "total_duration_s": 2976.751542,
+  "total_duration_s": 2977.111202,
   "genre_tags": [
     "Classics",
     "Literary Fiction",
@@ -21,7 +21,7 @@
       "ordinal": 0,
       "audio_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2976.751542
+      "end_s": 2977.111202
     }
   ],
   "segments": [
@@ -75,7 +75,7 @@
       "ordinal": 2,
       "title": "Chapter II",
       "start_s": 1723.499,
-      "end_s": 2976.752,
+      "end_s": 2977.111,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -1300,6 +1300,30 @@
   ],
   "scenes": [
     {
+      "identifier": "SCENE_2828_A",
+      "ordinal": 0,
+      "location_header": "INT/EXT. NICK'S BUNGALOW - DAY",
+      "visual_description": "1920s era, summer. A weather-beaten cardboard bungalow in West Egg, overshadowed by colossal mansions. A small, overlooked house with a view of the water and a grassy lawn. Sunshine filters through friendly trees. Inside, modest furnishings suitable for a bachelor, with books on banking in red and gold standing on a shelf.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_A.jpg"
+    },
+    {
+      "identifier": "SCENE_GATSBY_MANSION_INT",
+      "ordinal": 0,
+      "location_header": "INT. GATSBY'S MANSION - NIGHT/DAWN",
+      "visual_description": "1920s era, day. The interior of a colossal mansion. Splendid, feudal, and vast. Marie Antoinette music-rooms, Restoration Salons, Merton College Library. Period bedrooms swathed in rose and lavender silk. A dressing room with patent cabinets piled high with colorful shirts. The sun shines now, filling the rooms with twinkle-bells of light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LAKE_SUPERIOR",
+      "ordinal": 0,
+      "location_header": "EXT. LAKE SUPERIOR - DAY",
+      "visual_description": "Late Victorian era (1900s), day. A view of a calm, flat blue lake. In the foreground, a weather-beaten rowboat bobs gently. In the middle distance, a white, luxurious steam yacht rides at anchor, gleaming in the sun. A stark contrast between the rugged, natural setting and the opulence of the vessel. Bright, clear lighting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
       "identifier": "SCENE_GATSBY_MANSION_AFTERMATH",
       "ordinal": 0,
       "location_header": "INT. GATSBY'S MANSION - DAY",
@@ -1318,22 +1342,6 @@
       "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_COVER_00.jpg"
     },
     {
-      "identifier": "SCENE_2828_A",
-      "ordinal": 0,
-      "location_header": "INT/EXT. NICK'S BUNGALOW - DAY",
-      "visual_description": "1920s era, summer. A weather-beaten cardboard bungalow in West Egg, overshadowed by colossal mansions. A small, overlooked house with a view of the water and a grassy lawn. Sunshine filters through friendly trees. Inside, modest furnishings suitable for a bachelor, with books on banking in red and gold standing on a shelf.",
-      "metadata": {},
-      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_A.jpg"
-    },
-    {
-      "identifier": "SCENE_LAKE_SUPERIOR",
-      "ordinal": 0,
-      "location_header": "EXT. LAKE SUPERIOR - DAY",
-      "visual_description": "Late Victorian era (1900s), day. A view of a calm, flat blue lake. In the foreground, a weather-beaten rowboat bobs gently. In the middle distance, a white, luxurious steam yacht rides at anchor, gleaming in the sun. A stark contrast between the rugged, natural setting and the opulence of the vessel. Bright, clear lighting.",
-      "metadata": {},
-      "image_key": null
-    },
-    {
       "identifier": "SCENE_2828_E",
       "ordinal": 0,
       "location_header": "EXT. NICK'S YARD - NIGHT",
@@ -1342,10 +1350,10 @@
       "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_E.jpg"
     },
     {
-      "identifier": "SCENE_GATSBY_MANSION_INT",
-      "ordinal": 0,
-      "location_header": "INT. GATSBY'S MANSION - NIGHT/DAWN",
-      "visual_description": "1920s era, day. The interior of a colossal mansion. Splendid, feudal, and vast. Marie Antoinette music-rooms, Restoration Salons, Merton College Library. Period bedrooms swathed in rose and lavender silk. A dressing room with patent cabinets piled high with colorful shirts. The sun shines now, filling the rooms with twinkle-bells of light.",
+      "identifier": "SCENE_TRAIN",
+      "ordinal": 1,
+      "location_header": "INT. TRAIN CAR - DAY",
+      "visual_description": "1920s train car interior, sweltering at noon. Straw seats hover on the edge of combustion. Sunlight glares harshly through dusty windows. The atmosphere is stifling, filled with perspiring passengers and the smell of hot machinery. Everything vibrates with the motion of the train.",
       "metadata": {},
       "image_key": null
     },
@@ -1358,18 +1366,26 @@
       "image_key": null
     },
     {
-      "identifier": "SCENE_2828_B",
+      "identifier": "SCENE_GATSBY_STEPS_MORNING",
       "ordinal": 1,
-      "location_header": "EXT. BUCHANAN MANSION - DAY",
-      "visual_description": "A cheerful red-and-white Georgian Colonial mansion overlooking the bay. The lawn runs for a quarter of a mile towards the front door, jumping over sundials and brick walks and burning gardens. French windows glow with reflected gold, wide open to the warm windy afternoon. High society wealth and establishment architecture.",
+      "location_header": "EXT. GATSBY'S MANSION - STEPS - MORNING",
+      "visual_description": "1920s era, autumn morning. The white stone front steps of a grand mansion. A gravel drive curves away past manicured hedges. The lawn is bright with morning dew. The sunlight is sharp and clear. A sense of departure and finality.",
       "metadata": {},
-      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_B.jpg"
+      "image_key": null
     },
     {
       "identifier": "SCENE_GATSBY_CAR_RIDE",
       "ordinal": 1,
       "location_header": "INT/EXT. GATSBY'S CAR - DAY",
       "visual_description": "1920s era, daytime. The interior of a spectacular, rich cream-colored Rolls-Royce. Bright with nickel, swollen with hatboxes and toolboxes. The windshields mirror a dozen suns. Green leather seats inside a sort of conservatory of glass. Through the windows, the dusty Valley of Ashes and the iron girders of the Queensboro Bridge pass by.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_NICKS_BUNGALOW_RAIN",
+      "ordinal": 1,
+      "location_header": "INT. NICK'S BUNGALOW - DAY",
+      "visual_description": "1920s era, day. Inside a modest bungalow. Outside, it is pouring rain, creating a damp mist. The living room is filled with flowers from a greenhouse. The air is tense. The sound of rain is constant, varying from a pour to a mist. A clock sits on a mantelpiece.",
       "metadata": {},
       "image_key": null
     },
@@ -1390,34 +1406,50 @@
       "image_key": null
     },
     {
-      "identifier": "SCENE_GATSBY_STEPS_MORNING",
+      "identifier": "SCENE_2828_B",
       "ordinal": 1,
-      "location_header": "EXT. GATSBY'S MANSION - STEPS - MORNING",
-      "visual_description": "1920s era, autumn morning. The white stone front steps of a grand mansion. A gravel drive curves away past manicured hedges. The lawn is bright with morning dew. The sunlight is sharp and clear. A sense of departure and finality.",
+      "location_header": "EXT. BUCHANAN MANSION - DAY",
+      "visual_description": "A cheerful red-and-white Georgian Colonial mansion overlooking the bay. The lawn runs for a quarter of a mile towards the front door, jumping over sundials and brick walks and burning gardens. French windows glow with reflected gold, wide open to the warm windy afternoon. High society wealth and establishment architecture.",
       "metadata": {},
-      "image_key": null
-    },
-    {
-      "identifier": "SCENE_NICKS_BUNGALOW_RAIN",
-      "ordinal": 1,
-      "location_header": "INT. NICK'S BUNGALOW - DAY",
-      "visual_description": "1920s era, day. Inside a modest bungalow. Outside, it is pouring rain, creating a damp mist. The living room is filled with flowers from a greenhouse. The air is tense. The sound of rain is constant, varying from a pour to a mist. A clock sits on a mantelpiece.",
-      "metadata": {},
-      "image_key": null
-    },
-    {
-      "identifier": "SCENE_TRAIN",
-      "ordinal": 1,
-      "location_header": "INT. TRAIN CAR - DAY",
-      "visual_description": "1920s train car interior, sweltering at noon. Straw seats hover on the edge of combustion. Sunlight glares harshly through dusty windows. The atmosphere is stifling, filled with perspiring passengers and the smell of hot machinery. Everything vibrates with the motion of the train.",
-      "metadata": {},
-      "image_key": null
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_B.jpg"
     },
     {
       "identifier": "SCENE_CEMETERY_RAIN",
       "ordinal": 2,
       "location_header": "EXT. CEMETERY - RAIN",
       "visual_description": "1920s era, afternoon. A grey, sodden cemetery under a heavy downpour. A fresh grave is covered by a protecting canvas, surrounded by wet grass and dripping tombstones. Black hearses and limousines are parked on a muddy path in the background. The sky is a uniform, sullen slate grey. The mood is bleak, cold, and lonely.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2828_C",
+      "ordinal": 2,
+      "location_header": "INT. BUCHANAN LIVING ROOM - DAY",
+      "visual_description": "A high hallway leading into a bright rosy-colored space. French windows at either end, gleaming white. Pale curtains twist up toward a frosted wedding-cake ceiling like flags. A wine-colored rug with shadows rippling over it like wind on the sea. An enormous couch anchors the room. 1920s luxury interior.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_C.jpg"
+    },
+    {
+      "identifier": "SCENE_NICKS_OFFICE",
+      "ordinal": 2,
+      "location_header": "INT. NICK'S OFFICE - DAY",
+      "visual_description": "1920s era, noon. A chaotic stockbroker's office in Wall Street. A heavy wooden desk piled with ticker tape and papers. A black candlestick telephone sits prominently on the desk. Through the window, the grey, imposing facades of skyscrapers block the sky. Harsh, professional lighting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2829_C",
+      "ordinal": 2,
+      "location_header": "EXT. FIFTH AVENUE - DAY",
+      "visual_description": "Fifth Avenue, New York. Warm, soft, and almost pastoral on a summer Sunday afternoon. The streets are clean, bathed in glowing sunshine, contrasting sharply with the ash heaps. 1920s cars and taxis slide through the city.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_C.jpg"
+    },
+    {
+      "identifier": "SCENE_NYC_TWILIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. NEW YORK CITY STREETS - TWILIGHT",
+      "visual_description": "New York City at violet twilight in the 1920s. Fifth Avenue is bustling with taxicabs and crowds. Shop windows glow with warm light against the deepening blue dusk. The perspective is from the street level, looking at the flow of anonymous faces. Mood is romantic but lonely.",
       "metadata": {},
       "image_key": null
     },
@@ -1438,74 +1470,34 @@
       "image_key": null
     },
     {
-      "identifier": "SCENE_2828_C",
-      "ordinal": 2,
-      "location_header": "INT. BUCHANAN LIVING ROOM - DAY",
-      "visual_description": "A high hallway leading into a bright rosy-colored space. French windows at either end, gleaming white. Pale curtains twist up toward a frosted wedding-cake ceiling like flags. A wine-colored rug with shadows rippling over it like wind on the sea. An enormous couch anchors the room. 1920s luxury interior.",
-      "metadata": {},
-      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_C.jpg"
-    },
-    {
-      "identifier": "SCENE_NYC_TWILIGHT",
-      "ordinal": 2,
-      "location_header": "EXT. NEW YORK CITY STREETS - TWILIGHT",
-      "visual_description": "New York City at violet twilight in the 1920s. Fifth Avenue is bustling with taxicabs and crowds. Shop windows glow with warm light against the deepening blue dusk. The perspective is from the street level, looking at the flow of anonymous faces. Mood is romantic but lonely.",
-      "metadata": {},
-      "image_key": null
-    },
-    {
-      "identifier": "SCENE_NICKS_OFFICE",
-      "ordinal": 2,
-      "location_header": "INT. NICK'S OFFICE - DAY",
-      "visual_description": "1920s era, noon. A chaotic stockbroker's office in Wall Street. A heavy wooden desk piled with ticker tape and papers. A black candlestick telephone sits prominently on the desk. Through the window, the grey, imposing facades of skyscrapers block the sky. Harsh, professional lighting.",
-      "metadata": {},
-      "image_key": null
-    },
-    {
-      "identifier": "SCENE_2829_C",
-      "ordinal": 2,
-      "location_header": "EXT. FIFTH AVENUE - DAY",
-      "visual_description": "Fifth Avenue, New York. Warm, soft, and almost pastoral on a summer Sunday afternoon. The streets are clean, bathed in glowing sunshine, contrasting sharply with the ash heaps. 1920s cars and taxis slide through the city.",
-      "metadata": {},
-      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_C.jpg"
-    },
-    {
-      "identifier": "SCENE_UNION_STATION_WINTER",
-      "ordinal": 3,
-      "location_header": "INT. UNION STATION - WINTER",
-      "visual_description": "1910s/1920s era, winter evening. The interior of the old Union Station in Chicago. Murky yellow train cars sit on tracks beside iron gates. The air is filled with steam and the bustle of holiday travelers in fur coats. Dim, warm station lights reflect off the metallic surfaces. Atmosphere is nostalgic, festive, and distinctly Midwestern.",
-      "metadata": {},
-      "image_key": null
-    },
-    {
       "identifier": "SCENE_2829_B",
       "ordinal": 3,
       "location_header": "INT. WILSON'S GARAGE - NIGHT/DAWN",
-      "visual_description": "A small block of yellow brick sitting on the edge of the waste land. Inside the garage, the interior is unprosperous and bare, with cement-colored walls. A dust-covered wreck of a Ford crouches in a dim corner. The atmosphere is grim, dusty, and impoverished.",
+      "visual_description": "A small block of yellow brick buildings sitting on the edge of the urban blight. Inside the garage, the interior is unprosperous and bare, with cement-colored walls. A dust-covered wreck of a 1910s Ford crouches in a dim corner. The atmosphere is grim, dusty, and impoverished.",
       "metadata": {},
       "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_B.jpg"
     },
     {
-      "identifier": "SCENE_2829_A",
+      "identifier": "SCENE_2829_D",
       "ordinal": 3,
-      "location_header": "EXT. VALLEY OF ASHES - DAY",
-      "visual_description": "The Valley of Ashes. A desolate area of land where ashes grow like wheat into ridges and hills and grotesque gardens. Ash-grey men move dimly through powdery air. Above the grey land, the gigantic blue eyes of Doctor T. J. Eckleburg look out from a billboard, wearing enormous yellow spectacles. A bleak, dusty industrial wasteland.",
+      "location_header": "INT. MYRTLE'S APARTMENT - DAY/NIGHT",
+      "visual_description": "A small apartment living room on the top floor. Crowded with a set of tapestried furniture entirely too large for it, featuring scenes of Versailles. The room is full of smoke and cheerful sun, later turning to twilight. A copy of Town Tattle and scandal magazines lie on the table.",
       "metadata": {},
-      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_A.jpg"
-    },
-    {
-      "identifier": "SCENE_GATSBY_MUSIC_ROOM",
-      "ordinal": 3,
-      "location_header": "INT. GATSBY'S MANSION - MUSIC ROOM",
-      "visual_description": "1920s era, twilight/stormy. A large music room in the mansion. A solitary lamp lights a piano. Outside, the wind is loud and thunder flows along the Sound. Inside, the floor gleams, bouncing light from the hall. Shadows and gloom in the corners.",
-      "metadata": {},
-      "image_key": null
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_D.jpg"
     },
     {
       "identifier": "SCENE_CENTRAL_PARK_VICTORIA",
       "ordinal": 3,
       "location_header": "EXT. CENTRAL PARK - TWILIGHT",
       "visual_description": "1920s era, twilight. A horse-drawn victoria carriage moving through Central Park. The sun has set behind the tall apartments of the West Fifties. Hot twilight, clear and blue. The park is filled with the sounds of children and crickets. Dark trees and the facade of Fifty-Ninth Street beaming pale light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_MUSIC_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. GATSBY'S MANSION - MUSIC ROOM",
+      "visual_description": "1920s era, twilight/stormy. A large music room in the mansion. A solitary lamp lights a piano. Outside, the wind is loud and thunder flows along the Sound. Inside, the floor gleams, bouncing light from the hall. Shadows and gloom in the corners.",
       "metadata": {},
       "image_key": null
     },
@@ -1518,6 +1510,14 @@
       "image_key": null
     },
     {
+      "identifier": "SCENE_UNION_STATION_WINTER",
+      "ordinal": 3,
+      "location_header": "INT. UNION STATION - WINTER",
+      "visual_description": "1910s/1920s era, winter evening. The interior of the old Union Station in Chicago. Murky yellow train cars sit on tracks beside iron gates. The air is filled with steam and the bustle of holiday travelers in fur coats. Dim, warm station lights reflect off the metallic surfaces. Atmosphere is nostalgic, festive, and distinctly Midwestern.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
       "identifier": "SCENE_2828_D",
       "ordinal": 3,
       "location_header": "EXT. BUCHANAN PORCH - TWILIGHT",
@@ -1526,12 +1526,12 @@
       "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_D.jpg"
     },
     {
-      "identifier": "SCENE_2829_D",
+      "identifier": "SCENE_2829_A",
       "ordinal": 3,
-      "location_header": "INT. MYRTLE'S APARTMENT - DAY/NIGHT",
-      "visual_description": "A small apartment living room on the top floor. Crowded with a set of tapestried furniture entirely too large for it, featuring scenes of Versailles. The room is full of smoke and cheerful sun, later turning to twilight. A copy of Town Tattle and scandal magazines lie on the table.",
+      "location_header": "EXT. VALLEY OF ASHES - DAY",
+      "visual_description": "Industrial area where everything is covered in soot. Above the grey land, the gigantic blue eyes of Doctor T. J. Eckleburg look out from a billboard, wearing enormous yellow spectacles. A bleak, dusty industrial wasteland.",
       "metadata": {},
-      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_D.jpg"
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_A.jpg"
     },
     {
       "identifier": "SCENE_AUTUMN_WALK",
@@ -1550,18 +1550,18 @@
       "image_key": null
     },
     {
-      "identifier": "SCENE_WEST_EGG_NIGHTMARE",
-      "ordinal": 4,
-      "location_header": "EXT. WEST EGG - NIGHTMARE",
-      "visual_description": "Surreal, El Greco style night scene. A distorted view of West Egg under a sullen, lustreless moon. A hundred conventional houses crouch beneath an overhanging sky. In the foreground, a stretcher is carried along a dark sidewalk. The lighting is high-contrast, sickly, and grotesque, with deep shadows and eerie highlights.",
-      "metadata": {},
-      "image_key": null
-    },
-    {
       "identifier": "SCENE_GATSBY_POOL",
       "ordinal": 4,
       "location_header": "EXT. GATSBY'S POOL - DAY",
       "visual_description": "1920s era, late summer afternoon. A large marble swimming pool filled with still water. Yellowing leaves float on the surface. An inflatable mattress drifts near the center. Surrounding trees are turning autumn colors. The sunlight is raw and bright, casting sharp shadows on the grass.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WEST_EGG_NIGHTMARE",
+      "ordinal": 4,
+      "location_header": "EXT. WEST EGG - NIGHTMARE",
+      "visual_description": "Surreal, El Greco style night scene. A distorted view of West Egg under a sullen, lustreless moon. A hundred conventional houses crouch beneath an overhanging sky. In the foreground, a stretcher is carried along a dark sidewalk. The lighting is high-contrast, sickly, and grotesque, with deep shadows and eerie highlights.",
       "metadata": {},
       "image_key": null
     },
