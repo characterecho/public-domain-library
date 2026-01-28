@@ -1,0 +1,1616 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "The Great Gatsby",
+  "author_names": "F. Scott Fitzgerald",
+  "description": "Publication imported from https://gutenberg.org/ebooks/64317.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/64317.epub3.images",
+  "identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
+  "publication_type": "novel",
+  "cover_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/cover.png",
+  "total_duration_s": 2976.751542,
+  "genre_tags": [
+    "Classics",
+    "Literary Fiction",
+    "Roaring Twenties",
+    "The American Dream",
+    "Wealth and Class"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2976.751542
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.512,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Chapter I",
+      "start_s": 6.512,
+      "end_s": 1723.499,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_2828_A",
+            "location_header": "EXT/INT. NICK'S BUNGALOW - DAY",
+            "visual_description": "1920s era, summer. A weather-beaten cardboard bungalow in West Egg, overshadowed by colossal mansions. A small, overlooked house with a view of the water and a grassy lawn. Sunshine filters through friendly trees. Inside, modest furnishings suitable for a bachelor, with books on banking in red and gold standing on a shelf."
+          },
+          {
+            "identifier": "SCENE_2828_B",
+            "location_header": "EXT. BUCHANAN MANSION - DAY",
+            "visual_description": "A cheerful red-and-white Georgian Colonial mansion overlooking the bay. The lawn runs for a quarter of a mile towards the front door, jumping over sundials and brick walks and burning gardens. French windows glow with reflected gold, wide open to the warm windy afternoon. High society wealth and establishment architecture."
+          },
+          {
+            "identifier": "SCENE_2828_C",
+            "location_header": "INT. BUCHANAN LIVING ROOM - DAY",
+            "visual_description": "A high hallway leading into a bright rosy-colored space. French windows at either end, gleaming white. Pale curtains twist up toward a frosted wedding-cake ceiling like flags. A wine-colored rug with shadows rippling over it like wind on the sea. An enormous couch anchors the room. 1920s luxury interior."
+          },
+          {
+            "identifier": "SCENE_2828_D",
+            "location_header": "EXT. BUCHANAN PORCH - TWILIGHT",
+            "visual_description": "A rosy-colored porch open toward the sunset. Four candles flicker on a table in the diminished wind. Wicker settees in the deep gloom of twilight. The atmosphere is quiet, intimate, and slightly melancholic as the light fades."
+          },
+          {
+            "identifier": "SCENE_2828_E",
+            "location_header": "EXT. NICK'S YARD - NIGHT",
+            "visual_description": "Deep summer night. A dark lawn with the silhouette of a colossal mansion nearby. The silver pepper of stars overhead. Across the dark water, a single minute green light is visible at the end of a dock. Shadows and moonlight."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter II",
+      "start_s": 1723.499,
+      "end_s": 2976.752,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_2829_A",
+            "location_header": "EXT. VALLEY OF ASHES - DAY",
+            "visual_description": "The Valley of Ashes. A desolate area of land where ashes grow like wheat into ridges and hills and grotesque gardens. Ash-grey men move dimly through powdery air. Above the grey land, the gigantic blue eyes of Doctor T. J. Eckleburg look out from a billboard, wearing enormous yellow spectacles. A bleak, dusty industrial wasteland."
+          },
+          {
+            "identifier": "SCENE_2829_B",
+            "location_header": "INT. WILSON'S GARAGE - DAY",
+            "visual_description": "A small block of yellow brick sitting on the edge of the waste land. Inside the garage, the interior is unprosperous and bare, with cement-colored walls. A dust-covered wreck of a Ford crouches in a dim corner. The atmosphere is grim, dusty, and impoverished."
+          },
+          {
+            "identifier": "SCENE_2829_C",
+            "location_header": "EXT. FIFTH AVENUE - DAY",
+            "visual_description": "Fifth Avenue, New York. Warm, soft, and almost pastoral on a summer Sunday afternoon. The streets are clean, bathed in glowing sunshine, contrasting sharply with the ash heaps. 1920s cars and taxis slide through the city."
+          },
+          {
+            "identifier": "SCENE_2829_D",
+            "location_header": "INT. MYRTLE'S APARTMENT - DAY/NIGHT",
+            "visual_description": "A small apartment living room on the top floor. Crowded with a set of tapestried furniture entirely too large for it, featuring scenes of Versailles. The room is full of smoke and cheerful sun, later turning to twilight. A copy of Town Tattle and scandal magazines lie on the table."
+          },
+          {
+            "identifier": "SCENE_2829_E",
+            "location_header": "INT. PENN STATION - MORNING",
+            "visual_description": "The cold lower level of Pennsylvania Station. Early morning. Industrial steel and stone, echoing space. A man lies half asleep staring at a newspaper."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NICK_CARRAWAY",
+      "name": "Nick",
+      "aliases": [],
+      "voice_attributes": [
+        "reflective",
+        "observant",
+        "mid-western",
+        "drunkenly hazy",
+        "somber"
+      ],
+      "visual_attributes": [
+        "young",
+        "clean-shaven",
+        "well-dressed",
+        "suit",
+        "hat"
+      ],
+      "roles": [
+        "protagonist",
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 891,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/NICK_CARRAWAY.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/NICK_CARRAWAY.mp3"
+    },
+    {
+      "identifier": "JAY_GATSBY",
+      "name": "Jay Gatsby",
+      "aliases": [
+        "The Host",
+        "James Gatz"
+      ],
+      "voice_attributes": [
+        "warm",
+        "reassuring",
+        "formal",
+        "elaborate",
+        "nervous",
+        "glowing"
+      ],
+      "visual_attributes": [
+        "tanned skin",
+        "short hair",
+        "elegant suit",
+        "young",
+        "white flannel suit",
+        "silver shirt",
+        "gold tie"
+      ],
+      "roles": [
+        "protagonist",
+        "host"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 173,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "TOM_BUCHANAN",
+      "name": "Tom",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "husky tenor",
+        "aggressive",
+        "fractious",
+        "authoritative",
+        "violent",
+        "dismissive",
+        "defensive",
+        "childlike"
+      ],
+      "visual_attributes": [
+        "sturdy",
+        "straw-haired",
+        "muscular",
+        "arrogant eyes",
+        "cruel body",
+        "large",
+        "well-dressed"
+      ],
+      "roles": [
+        "antagonist",
+        "wealthy"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 154,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/TOM_BUCHANAN.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/TOM_BUCHANAN.mp3"
+    },
+    {
+      "identifier": "DAISY_BUCHANAN",
+      "name": "Daisy",
+      "aliases": [],
+      "voice_attributes": [
+        "low",
+        "thrilling",
+        "singing",
+        "murmuring",
+        "emotional"
+      ],
+      "visual_attributes": [
+        "sad lovely face",
+        "bright eyes",
+        "passionate mouth",
+        "dark hair",
+        "lavender hat"
+      ],
+      "roles": [
+        "love_interest",
+        "wealthy"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 112,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/DAISY_BUCHANAN.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/DAISY_BUCHANAN.mp3"
+    },
+    {
+      "identifier": "JORDAN_BAKER",
+      "name": "Miss Baker",
+      "aliases": [],
+      "voice_attributes": [
+        "contemptuous",
+        "soft",
+        "bored",
+        "cool",
+        "detached",
+        "slightly angry"
+      ],
+      "visual_attributes": [
+        "slender",
+        "small-breasted",
+        "erect carriage",
+        "grey eyes",
+        "wan face",
+        "golf clothes"
+      ],
+      "roles": [
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 94,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/JORDAN_BAKER.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/JORDAN_BAKER.mp3"
+    },
+    {
+      "identifier": "GEORGE_WILSON",
+      "name": "Wilson",
+      "aliases": [],
+      "voice_attributes": [
+        "spiritless",
+        "anaemic",
+        "faint",
+        "sick"
+      ],
+      "visual_attributes": [
+        "blond",
+        "pale",
+        "dust-covered",
+        "greenish face"
+      ],
+      "roles": [
+        "mechanic"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 32,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/GEORGE_WILSON.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/GEORGE_WILSON.mp3"
+    },
+    {
+      "identifier": "MEYER_WOLFSHIEM",
+      "name": "Mr. Wolfshiem",
+      "aliases": [],
+      "voice_attributes": [
+        "sentimental",
+        "gloomy",
+        "expressive",
+        "husky"
+      ],
+      "visual_attributes": [
+        "small",
+        "flat-nosed",
+        "tiny eyes",
+        "large head",
+        "hairy nostrils"
+      ],
+      "roles": [
+        "gambler",
+        "associate"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 30,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MYRTLE_WILSON",
+      "name": "Myrtle",
+      "aliases": [
+        "Mrs. Wilson"
+      ],
+      "voice_attributes": [
+        "soft coarse voice",
+        "vital",
+        "loud",
+        "affected"
+      ],
+      "visual_attributes": [
+        "faintly stout",
+        "dark blue crepe-de-chine",
+        "cream chiffon"
+      ],
+      "roles": [
+        "mistress"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/MYRTLE_WILSON.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/MYRTLE_WILSON.mp3"
+    },
+    {
+      "identifier": "MICHAELIS",
+      "name": "Michaelis",
+      "aliases": [
+        "Mavro Michaelis"
+      ],
+      "voice_attributes": [
+        "astonished",
+        "concerned",
+        "young"
+      ],
+      "visual_attributes": [
+        "young Greek",
+        "pale hair",
+        "worn clothes"
+      ],
+      "roles": [
+        "witness",
+        "neighbor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 18,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HENRY_C_GATZ",
+      "name": "Mr. Gatz",
+      "aliases": [
+        "Gatsby's Father"
+      ],
+      "voice_attributes": [
+        "trembling",
+        "prideful",
+        "helpless",
+        "old"
+      ],
+      "visual_attributes": [
+        "sparse grey beard",
+        "cheap ulster coat",
+        "teary eyes",
+        "solemn face"
+      ],
+      "roles": [
+        "father"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 16,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CATHERINE",
+      "name": "Catherine",
+      "aliases": [],
+      "voice_attributes": [
+        "worldly",
+        "slender",
+        "loud"
+      ],
+      "visual_attributes": [
+        "red bob",
+        "milky white complexion",
+        "plucked eyebrows",
+        "bracelets"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/CATHERINE.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/CATHERINE.mp3"
+    },
+    {
+      "identifier": "OWL_EYES",
+      "name": "Owl Eyes",
+      "aliases": [],
+      "voice_attributes": [
+        "drunk",
+        "slurred",
+        "pompous",
+        "impulsive",
+        "brave",
+        "murmuring",
+        "wiping glasses"
+      ],
+      "visual_attributes": [
+        "stout",
+        "middle-aged",
+        "enormous spectacles",
+        "rain-soaked"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 15,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MOTORCYCLE_POLICEMAN",
+      "name": "Policeman",
+      "aliases": [],
+      "voice_attributes": [
+        "frantic",
+        "deferential",
+        "truculent"
+      ],
+      "visual_attributes": [
+        "police uniform",
+        "motorcycle goggles",
+        "cap",
+        "sweaty"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 14,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "EWING_KLIPSPRINGER",
+      "name": "Mr. Klipspringer",
+      "aliases": [],
+      "voice_attributes": [
+        "embarrassed",
+        "hesitant",
+        "rusty",
+        "nervous",
+        "evasive",
+        "hasty"
+      ],
+      "visual_attributes": [
+        "worn young man",
+        "shell-rimmed glasses",
+        "scanty blond hair",
+        "sport shirt",
+        "sneakers"
+      ],
+      "roles": [
+        "boarder",
+        "pianist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 11,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MRS_MCKEE",
+      "name": "Lucille",
+      "aliases": [
+        "Lucille"
+      ],
+      "voice_attributes": [
+        "shrill",
+        "languid",
+        "confident",
+        "alert",
+        "casual"
+      ],
+      "visual_attributes": [
+        "handsome",
+        "yellow dress",
+        "young"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/MRS_MCKEE.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/MRS_MCKEE.mp3"
+    },
+    {
+      "identifier": "MR_MCKEE",
+      "name": "Mr. McKee",
+      "aliases": [
+        "Chester"
+      ],
+      "voice_attributes": [
+        "respectful",
+        "bored",
+        "feminine"
+      ],
+      "visual_attributes": [
+        "pale",
+        "shaving lather on cheek"
+      ],
+      "roles": [
+        "photographer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/MR_MCKEE.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/MR_MCKEE.mp3"
+    },
+    {
+      "identifier": "GIRL_IN_YELLOW",
+      "name": "Girl in Yellow",
+      "aliases": [],
+      "voice_attributes": [
+        "gossipy",
+        "eager"
+      ],
+      "visual_attributes": [
+        "yellow dress",
+        "young"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "THE_BUTLER",
+      "name": "Buchanan's Butler",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "murmuring",
+        "roaring"
+      ],
+      "visual_attributes": [
+        "formal livery",
+        "servant",
+        "glistening face"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 7,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MR_SLOANE",
+      "name": "Mr. Sloane",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "dismissive",
+        "languid"
+      ],
+      "visual_attributes": [
+        "riding habit",
+        "slicked hair",
+        "sneering expression"
+      ],
+      "roles": [
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PALE_DRIVER",
+      "name": "Pale Driver",
+      "aliases": [],
+      "voice_attributes": [
+        "confused",
+        "slow",
+        "ghostly",
+        "calm"
+      ],
+      "visual_attributes": [
+        "pale",
+        "dancing shoe",
+        "disheveled"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "STELLA",
+      "name": "Stella",
+      "aliases": [],
+      "voice_attributes": [
+        "hostile",
+        "suspicious",
+        "scolding"
+      ],
+      "visual_attributes": [
+        "lovely Jewess",
+        "black hostile eyes",
+        "1920s office attire"
+      ],
+      "roles": [
+        "secretary"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LADY_RIDER",
+      "name": "The Lady",
+      "aliases": [],
+      "voice_attributes": [
+        "cordial",
+        "insistent",
+        "bubbly"
+      ],
+      "visual_attributes": [
+        "brown riding habit",
+        "pretty face",
+        "flushed"
+      ],
+      "roles": [
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BYSTANDER",
+      "name": "Bystander",
+      "aliases": [],
+      "voice_attributes": [
+        "incredulous",
+        "loud"
+      ],
+      "visual_attributes": [
+        "chauffeur uniform",
+        "evening wear"
+      ],
+      "roles": [
+        "observer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UNKNOWN_SERVANT",
+      "name": "Servant",
+      "aliases": [],
+      "voice_attributes": [
+        "flat",
+        "unhelpful"
+      ],
+      "visual_attributes": [
+        "servant livery",
+        "bored expression"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MISS_BAEDEKER",
+      "name": "Miss Baedeker",
+      "aliases": [],
+      "voice_attributes": [
+        "drunk",
+        "slurred",
+        "belligerent",
+        "shrill"
+      ],
+      "visual_attributes": [
+        "disheveled hair",
+        "evening gown",
+        "sleepy eyes"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PUPPY_VENDOR",
+      "name": "Man",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "doubtful"
+      ],
+      "visual_attributes": [
+        "grey old man",
+        "resembles Rockefeller"
+      ],
+      "roles": [
+        "vendor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/PUPPY_VENDOR.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/PUPPY_VENDOR.mp3"
+    },
+    {
+      "identifier": "PARTY_WIFE_1",
+      "name": "Indignant Wife 1",
+      "aliases": [],
+      "voice_attributes": [
+        "angry",
+        "shrill"
+      ],
+      "visual_attributes": [
+        "evening wear"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SLAGLE",
+      "name": "Slagle",
+      "aliases": [],
+      "voice_attributes": [
+        "thin",
+        "rough",
+        "criminal"
+      ],
+      "visual_attributes": [
+        "unseen"
+      ],
+      "roles": [
+        "criminal"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PAMMY",
+      "name": "Pammy",
+      "aliases": [],
+      "voice_attributes": [
+        "shy",
+        "calm",
+        "childlike"
+      ],
+      "visual_attributes": [
+        "small white neck",
+        "old yellowy hair",
+        "white dress"
+      ],
+      "roles": [
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UNFAMILIAR_BUTLER",
+      "name": "The Butler",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "suspicious",
+        "rude"
+      ],
+      "visual_attributes": [
+        "villainous face",
+        "squinting eyes",
+        "servant livery"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MASSIVE_WOMAN",
+      "name": "Reviewer",
+      "aliases": [],
+      "voice_attributes": [
+        "lethargic",
+        "loud",
+        "matter-of-fact"
+      ],
+      "visual_attributes": [
+        "large build",
+        "evening gown",
+        "imposing"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NEGRO_WITNESS",
+      "name": "Witness",
+      "aliases": [],
+      "voice_attributes": [
+        "calm",
+        "observant"
+      ],
+      "visual_attributes": [
+        "pale well-dressed",
+        "negro"
+      ],
+      "roles": [
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "WOMAN_ON_TRAIN",
+      "name": "Woman",
+      "aliases": [],
+      "voice_attributes": [
+        "despairing",
+        "breathless"
+      ],
+      "visual_attributes": [
+        "perspiring face",
+        "white shirtwaist",
+        "damp hair"
+      ],
+      "roles": [
+        "passenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PARTY_WIFE_2",
+      "name": "Indignant Wife 2",
+      "aliases": [],
+      "voice_attributes": [
+        "sympathetic",
+        "complaining"
+      ],
+      "visual_attributes": [
+        "evening wear"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ELEVATOR_BOY",
+      "name": "Elevator Boy",
+      "aliases": [],
+      "voice_attributes": [
+        "snapping"
+      ],
+      "visual_attributes": [
+        "uniform"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/ELEVATOR_BOY.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/ELEVATOR_BOY.mp3"
+    },
+    {
+      "identifier": "PARTY_GUEST_MALE",
+      "name": "Guest",
+      "aliases": [
+        "Mr. Mumble"
+      ],
+      "voice_attributes": [
+        "enthusiastic",
+        "gossipy"
+      ],
+      "visual_attributes": [
+        "evening wear"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NURSE",
+      "name": "Nurse",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "polite"
+      ],
+      "visual_attributes": [
+        "freshly laundered uniform",
+        "clean face"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CONDUCTOR",
+      "name": "Conductor",
+      "aliases": [],
+      "voice_attributes": [
+        "jovial",
+        "loud",
+        "sweaty"
+      ],
+      "visual_attributes": [
+        "conductor uniform",
+        "flushed face",
+        "perspiring"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "BAEDEKER_FRIEND",
+      "name": "Friend",
+      "aliases": [],
+      "voice_attributes": [
+        "dry",
+        "ungrateful"
+      ],
+      "visual_attributes": [
+        "evening wear"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "THE_GARDENER",
+      "name": "The Gardener",
+      "aliases": [],
+      "voice_attributes": [
+        "respectful",
+        "practical",
+        "weary"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "work clothes",
+        "weathered face",
+        "cap"
+      ],
+      "roles": [
+        "staff"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "YOUNG_REPORTER",
+      "name": "The Reporter",
+      "aliases": [],
+      "voice_attributes": [
+        "eager",
+        "inquisitive",
+        "young"
+      ],
+      "visual_attributes": [
+        "fedora",
+        "cheap suit",
+        "notepad",
+        "young face"
+      ],
+      "roles": [
+        "journalist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "NICKS_FATHER",
+      "name": "Nick's Father",
+      "aliases": [],
+      "voice_attributes": [
+        "wise",
+        "reserved",
+        "mid-western"
+      ],
+      "visual_attributes": [
+        "older",
+        "distinguished"
+      ],
+      "roles": [
+        "family"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/NICKS_FATHER.png",
+      "voice_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/characters/NICKS_FATHER.mp3"
+    },
+    {
+      "identifier": "RELUCTANT_HUSBAND",
+      "name": "Husband",
+      "aliases": [],
+      "voice_attributes": [
+        "sheepish",
+        "sober"
+      ],
+      "visual_attributes": [
+        "evening wear"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DOCTOR_CIVET",
+      "name": "Doctor Civet",
+      "aliases": [],
+      "voice_attributes": [
+        "defensive",
+        "shaky"
+      ],
+      "visual_attributes": [
+        "evening wear",
+        "spectacles",
+        "nervous hands"
+      ],
+      "roles": [
+        "guest",
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_GATSBY_MANSION_AFTERMATH",
+      "ordinal": 0,
+      "location_header": "INT. GATSBY'S MANSION - DAY",
+      "visual_description": "1920s era, day. The grand entrance hall and drawing room of Gatsby's mansion, now silent and oppressive. The sunlight filters through heavy curtains, illuminating dust motes in the vast, empty space. A large staircase curves upward in the background. The atmosphere is solemn, hollow, and shadowed, contrasting with the memory of past parties.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_2828_A",
+      "ordinal": 0,
+      "location_header": "INT/EXT. NICK'S BUNGALOW - DAY",
+      "visual_description": "1920s era, summer. A weather-beaten cardboard bungalow in West Egg, overshadowed by colossal mansions. A small, overlooked house with a view of the water and a grassy lawn. Sunshine filters through friendly trees. Inside, modest furnishings suitable for a bachelor, with books on banking in red and gold standing on a shelf.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_A.jpg"
+    },
+    {
+      "identifier": "SCENE_LAKE_SUPERIOR",
+      "ordinal": 0,
+      "location_header": "EXT. LAKE SUPERIOR - DAY",
+      "visual_description": "Late Victorian era (1900s), day. A view of a calm, flat blue lake. In the foreground, a weather-beaten rowboat bobs gently. In the middle distance, a white, luxurious steam yacht rides at anchor, gleaming in the sun. A stark contrast between the rugged, natural setting and the opulence of the vessel. Bright, clear lighting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2828_E",
+      "ordinal": 0,
+      "location_header": "EXT. NICK'S YARD - NIGHT",
+      "visual_description": "Deep summer night. A dark lawn with the silhouette of a colossal mansion nearby. The silver pepper of stars overhead. Across the dark water, a single minute green light is visible at the end of a dock. Shadows and moonlight.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_E.jpg"
+    },
+    {
+      "identifier": "SCENE_GATSBY_MANSION_INT",
+      "ordinal": 0,
+      "location_header": "INT. GATSBY'S MANSION - NIGHT/DAWN",
+      "visual_description": "1920s era, day. The interior of a colossal mansion. Splendid, feudal, and vast. Marie Antoinette music-rooms, Restoration Salons, Merton College Library. Period bedrooms swathed in rose and lavender silk. A dressing room with patent cabinets piled high with colorful shirts. The sun shines now, filling the rooms with twinkle-bells of light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WOLFSHIEM_OFFICE",
+      "ordinal": 1,
+      "location_header": "INT. WOLFSHIEM'S OFFICE - DAY",
+      "visual_description": "1920s era, day. A cramped, chaotic office in New York City marked 'The Swastika Holding Company'. A wooden partition separates the waiting area from the inner office. Piles of paperwork and ticker tape cover a messy desk. Dust floats in the stale air. The lighting is dim and yellowed, suggesting secrecy and illicit business.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2828_B",
+      "ordinal": 1,
+      "location_header": "EXT. BUCHANAN MANSION - DAY",
+      "visual_description": "A cheerful red-and-white Georgian Colonial mansion overlooking the bay. The lawn runs for a quarter of a mile towards the front door, jumping over sundials and brick walks and burning gardens. French windows glow with reflected gold, wide open to the warm windy afternoon. High society wealth and establishment architecture.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_B.jpg"
+    },
+    {
+      "identifier": "SCENE_GATSBY_CAR_RIDE",
+      "ordinal": 1,
+      "location_header": "INT/EXT. GATSBY'S CAR - DAY",
+      "visual_description": "1920s era, daytime. The interior of a spectacular, rich cream-colored Rolls-Royce. Bright with nickel, swollen with hatboxes and toolboxes. The windshields mirror a dozen suns. Green leather seats inside a sort of conservatory of glass. Through the windows, the dusty Valley of Ashes and the iron girders of the Queensboro Bridge pass by.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_DRIVEWAY",
+      "ordinal": 1,
+      "location_header": "EXT. GATSBY'S DRIVEWAY - NIGHT",
+      "visual_description": "A chaotic scene on a road at night, lit by the harsh glare of a dozen car headlights. In a ditch sits a new coupé, violently shorn of one wheel. Shadows of chauffeurs and guests stretch long across the road. The mood is confused, discordant, and bizarre.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_PORCH",
+      "ordinal": 1,
+      "location_header": "EXT. GATSBY'S MANSION - PORCH - DAY",
+      "visual_description": "1920s era, sunny afternoon. The broad, open terrace of a grand mansion. Wicker settees with plush cushions sit on the stone flags. A table holds condensation-beaded glasses of lemonade and highballs. Beyond the balustrade, manicured green lawns stretch out. The atmosphere is socially tense despite the bright sunlight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_STEPS_MORNING",
+      "ordinal": 1,
+      "location_header": "EXT. GATSBY'S MANSION - STEPS - MORNING",
+      "visual_description": "1920s era, autumn morning. The white stone front steps of a grand mansion. A gravel drive curves away past manicured hedges. The lawn is bright with morning dew. The sunlight is sharp and clear. A sense of departure and finality.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_NICKS_BUNGALOW_RAIN",
+      "ordinal": 1,
+      "location_header": "INT. NICK'S BUNGALOW - DAY",
+      "visual_description": "1920s era, day. Inside a modest bungalow. Outside, it is pouring rain, creating a damp mist. The living room is filled with flowers from a greenhouse. The air is tense. The sound of rain is constant, varying from a pour to a mist. A clock sits on a mantelpiece.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TRAIN",
+      "ordinal": 1,
+      "location_header": "INT. TRAIN CAR - DAY",
+      "visual_description": "1920s train car interior, sweltering at noon. Straw seats hover on the edge of combustion. Sunlight glares harshly through dusty windows. The atmosphere is stifling, filled with perspiring passengers and the smell of hot machinery. Everything vibrates with the motion of the train.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CEMETERY_RAIN",
+      "ordinal": 2,
+      "location_header": "EXT. CEMETERY - RAIN",
+      "visual_description": "1920s era, afternoon. A grey, sodden cemetery under a heavy downpour. A fresh grave is covered by a protecting canvas, surrounded by wet grass and dripping tombstones. Black hearses and limousines are parked on a muddy path in the background. The sky is a uniform, sullen slate grey. The mood is bleak, cold, and lonely.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_42ND_ST_CELLAR",
+      "ordinal": 2,
+      "location_header": "INT. RESTAURANT - DAY",
+      "visual_description": "1920s era, noon. A well-fanned cellar restaurant on Forty-second Street. Dim, half-darkness contrasting with the roaring brightness of the street outside. Presbyterian nymphs painted on the ceiling. Crowded, filled with smoke and the murmur of conversation. A speakeasy atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_PARTY",
+      "ordinal": 2,
+      "location_header": "EXT. GATSBY'S GARDENS - NIGHT",
+      "visual_description": "A spectacular 1920s garden party at night. Coloured lights strung like a Christmas tree illuminate a crowded garden. Buffet tables laden with spiced hams and salads glisten. A live orchestra plays on a canvas platform. The atmosphere is gaudy, kaleidoscope-bright, and filled with the movement of flappers and guests in evening wear.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2828_C",
+      "ordinal": 2,
+      "location_header": "INT. BUCHANAN LIVING ROOM - DAY",
+      "visual_description": "A high hallway leading into a bright rosy-colored space. French windows at either end, gleaming white. Pale curtains twist up toward a frosted wedding-cake ceiling like flags. A wine-colored rug with shadows rippling over it like wind on the sea. An enormous couch anchors the room. 1920s luxury interior.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_C.jpg"
+    },
+    {
+      "identifier": "SCENE_NYC_TWILIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. NEW YORK CITY STREETS - TWILIGHT",
+      "visual_description": "New York City at violet twilight in the 1920s. Fifth Avenue is bustling with taxicabs and crowds. Shop windows glow with warm light against the deepening blue dusk. The perspective is from the street level, looking at the flow of anonymous faces. Mood is romantic but lonely.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_NICKS_OFFICE",
+      "ordinal": 2,
+      "location_header": "INT. NICK'S OFFICE - DAY",
+      "visual_description": "1920s era, noon. A chaotic stockbroker's office in Wall Street. A heavy wooden desk piled with ticker tape and papers. A black candlestick telephone sits prominently on the desk. Through the window, the grey, imposing facades of skyscrapers block the sky. Harsh, professional lighting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2829_C",
+      "ordinal": 2,
+      "location_header": "EXT. FIFTH AVENUE - DAY",
+      "visual_description": "Fifth Avenue, New York. Warm, soft, and almost pastoral on a summer Sunday afternoon. The streets are clean, bathed in glowing sunshine, contrasting sharply with the ash heaps. 1920s cars and taxis slide through the city.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_C.jpg"
+    },
+    {
+      "identifier": "SCENE_UNION_STATION_WINTER",
+      "ordinal": 3,
+      "location_header": "INT. UNION STATION - WINTER",
+      "visual_description": "1910s/1920s era, winter evening. The interior of the old Union Station in Chicago. Murky yellow train cars sit on tracks beside iron gates. The air is filled with steam and the bustle of holiday travelers in fur coats. Dim, warm station lights reflect off the metallic surfaces. Atmosphere is nostalgic, festive, and distinctly Midwestern.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2829_B",
+      "ordinal": 3,
+      "location_header": "INT. WILSON'S GARAGE - NIGHT/DAWN",
+      "visual_description": "A small block of yellow brick sitting on the edge of the waste land. Inside the garage, the interior is unprosperous and bare, with cement-colored walls. A dust-covered wreck of a Ford crouches in a dim corner. The atmosphere is grim, dusty, and impoverished.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_B.jpg"
+    },
+    {
+      "identifier": "SCENE_2829_A",
+      "ordinal": 3,
+      "location_header": "EXT. VALLEY OF ASHES - DAY",
+      "visual_description": "The Valley of Ashes. A desolate area of land where ashes grow like wheat into ridges and hills and grotesque gardens. Ash-grey men move dimly through powdery air. Above the grey land, the gigantic blue eyes of Doctor T. J. Eckleburg look out from a billboard, wearing enormous yellow spectacles. A bleak, dusty industrial wasteland.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_A.jpg"
+    },
+    {
+      "identifier": "SCENE_GATSBY_MUSIC_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. GATSBY'S MANSION - MUSIC ROOM",
+      "visual_description": "1920s era, twilight/stormy. A large music room in the mansion. A solitary lamp lights a piano. Outside, the wind is loud and thunder flows along the Sound. Inside, the floor gleams, bouncing light from the hall. Shadows and gloom in the corners.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CENTRAL_PARK_VICTORIA",
+      "ordinal": 3,
+      "location_header": "EXT. CENTRAL PARK - TWILIGHT",
+      "visual_description": "1920s era, twilight. A horse-drawn victoria carriage moving through Central Park. The sun has set behind the tall apartments of the West Fifties. Hot twilight, clear and blue. The park is filled with the sounds of children and crickets. Dark trees and the facade of Fifty-Ninth Street beaming pale light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_STEPS_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. GATSBY'S MANSION - STEPS - NIGHT",
+      "visual_description": "1920s era, late night. The stone front steps of the mansion leading up to the entrance. A rectangle of yellow light spills from the open door onto the dark path. The garden beyond is dark and quiet. Remnants of a party—crushed flowers and fruit rinds—litter the walkway. Melancholy and shadowy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_2828_D",
+      "ordinal": 3,
+      "location_header": "EXT. BUCHANAN PORCH - TWILIGHT",
+      "visual_description": "A rosy-colored porch open toward the sunset. Four candles flicker on a table in the diminished wind. Wicker settees in the deep gloom of twilight. The atmosphere is quiet, intimate, and slightly melancholic as the light fades.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2828_D.jpg"
+    },
+    {
+      "identifier": "SCENE_2829_D",
+      "ordinal": 3,
+      "location_header": "INT. MYRTLE'S APARTMENT - DAY/NIGHT",
+      "visual_description": "A small apartment living room on the top floor. Crowded with a set of tapestried furniture entirely too large for it, featuring scenes of Versailles. The room is full of smoke and cheerful sun, later turning to twilight. A copy of Town Tattle and scandal magazines lie on the table.",
+      "metadata": {},
+      "image_key": "publications/28a19780155c14ddbb41676c1737d73f4a261115/scenes/scene_SCENE_2829_D.jpg"
+    },
+    {
+      "identifier": "SCENE_AUTUMN_WALK",
+      "ordinal": 4,
+      "location_header": "EXT. LOUISVILLE STREET - NIGHT",
+      "visual_description": "1917 era, night. A quiet residential sidewalk. No trees overhead, allowing the sidewalk to shine white with moonlight. Shadows of houses fall across the lawn. The sky is full of stars. The atmosphere is magical, romantic, and still, with a sense of suspended time.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PLAZA_SUITE",
+      "ordinal": 4,
+      "location_header": "INT. PLAZA HOTEL SUITE - DAY",
+      "visual_description": "A large, stifling hotel parlour at the Plaza Hotel. Heavy drapes block the view of Central Park. 1920s luxury furnishings, a bucket of melting ice, and mint sprigs on a table. The room feels claustrophobic and tense, filled with the oppressive heat of the afternoon.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WEST_EGG_NIGHTMARE",
+      "ordinal": 4,
+      "location_header": "EXT. WEST EGG - NIGHTMARE",
+      "visual_description": "Surreal, El Greco style night scene. A distorted view of West Egg under a sullen, lustreless moon. A hundred conventional houses crouch beneath an overhanging sky. In the foreground, a stretcher is carried along a dark sidewalk. The lighting is high-contrast, sickly, and grotesque, with deep shadows and eerie highlights.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_POOL",
+      "ordinal": 4,
+      "location_header": "EXT. GATSBY'S POOL - DAY",
+      "visual_description": "1920s era, late summer afternoon. A large marble swimming pool filled with still water. Yellowing leaves float on the surface. An inflatable mattress drifts near the center. Surrounding trees are turning autumn colors. The sunlight is raw and bright, casting sharp shadows on the grass.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ACCIDENT_NIGHT",
+      "ordinal": 5,
+      "location_header": "EXT. VALLEY OF ASHES - NIGHT",
+      "visual_description": "The Valley of Ashes at night, lit by the harsh glare of auto headlights and a single yellow light from the garage. Shadows stretch long and distorted across the dust. The giant eyes of Dr. Eckleburg watch from the darkness. The mood is tragic, chaotic, and grim.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_JORDAN_INTERIOR",
+      "ordinal": 5,
+      "location_header": "INT. SITTING ROOM - DAY",
+      "visual_description": "1920s era, day. A stiff, elegant sitting room. A large armchair upholstered in expensive fabric sits near a window. Sunlight falls on a golf club leaning against a wall. The room is perfectly ordered but cold, with polished wood furniture and impersonal decor. Atmosphere is tense and formal.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BUCHANAN_GARDEN_NIGHT",
+      "ordinal": 6,
+      "location_header": "EXT. BUCHANAN GARDEN - NIGHT",
+      "visual_description": "The dark garden of the Buchanan estate at night. Moonlight casts silver shadows on the gravel drive and shrubbery. The house glows with a few lighted windows, including a pink glow from a ground floor room. The atmosphere is quiet, secretive, and melancholy.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_FIFTH_AVENUE_AUTUMN",
+      "ordinal": 6,
+      "location_header": "EXT. FIFTH AVENUE - DAY",
+      "visual_description": "1920s era, October afternoon. Fifth Avenue in New York City. The street is busy with pedestrians and automobiles. Shop windows display jewelry and luxury goods. The autumn sun casts long, sharp shadows on the pavement. The architecture is imposing and vertical. Mood is crisp, busy, and indifferent.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GATSBY_BEACH_FINAL",
+      "ordinal": 7,
+      "location_header": "EXT. GATSBY'S BEACH - NIGHT",
+      "visual_description": "1920s era, night. The beach at the edge of Gatsby's property. The moon rises over the dark water of the Sound. In the distance, the green light of a dock is barely visible. The sand is pale in the moonlight. The silhouette of the mansion looms behind. Atmosphere is contemplative, vast, and melancholic.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Psychological fiction",
+    "First loves -- Fiction",
+    "Married women -- Fiction",
+    "Rich people -- Fiction",
+    "Long Island (N.Y.) -- Fiction"
+  ]
+}
