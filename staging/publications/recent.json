@@ -9,14 +9,14 @@
       "classics"
     ],
     "catalog_added_at": "2026-01-27T16:19:00Z",
-    "updated_at": "2026-01-28T00:30:18Z",
+    "updated_at": "2026-01-28T13:38:14Z",
     "duration": {
-      "total_ms": 2987000,
+      "total_ms": 2977000,
       "formatted": "50m"
     },
     "cover_url": null,
-    "data_checksum": "47ba040bcbe407efbc491f9d9b1a394558aec27494a1bbc2a70ab5c1e4832c00",
-    "file_size": 140759031,
+    "data_checksum": "b952e1a7ba67378bb30a9f05489eae7498dd2787dfbfea2227f21f35e336e145",
+    "file_size": 140347559,
     "available_regions": [
       "US",
       "CA",
@@ -25,7 +25,7 @@
       "NZ",
       "IE"
     ],
-    "min_app_version": "1.2.1"
+    "min_app_version": "1.2.2"
   },
   {
     "publication_identifier": "93436dd2f83a540820533fd84302cb0da886b734",
