@@ -8,7 +8,7 @@
   "identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
   "publication_type": "short_story_collection",
   "cover_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/cover.png",
-  "total_duration_s": 11213.405102,
+  "total_duration_s": 11242.414239999998,
   "genre_tags": [
     "Antiquarian Ghost Stories",
     "Gothic Horror"
@@ -18,19 +18,19 @@
       "ordinal": 0,
       "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3304.215533
+      "end_s": 3318.846236
     },
     {
       "ordinal": 1,
       "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_1.mp3",
-      "start_s": 3304.215533,
-      "end_s": 5134.650113
+      "start_s": 3318.846236,
+      "end_s": 5153.069637
     },
     {
       "ordinal": 2,
       "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_2.mp3",
-      "start_s": 5134.650113,
-      "end_s": 11213.405102
+      "start_s": 5153.069637,
+      "end_s": 11242.414239999998
     }
   ],
   "segments": [
@@ -47,7 +47,7 @@
       "ordinal": 1,
       "title": "THE HAUNTED DOLL’S HOUSE.",
       "start_s": 10.206,
-      "end_s": 1653.345,
+      "end_s": 1655.674,
       "part_ordinal": 0,
       "metadata": {
         "genre_tags": [
@@ -63,8 +63,8 @@
     {
       "ordinal": 2,
       "title": "THE UNCOMMON PRAYER-BOOK",
-      "start_s": 1653.345,
-      "end_s": 1655.839,
+      "start_s": 1655.674,
+      "end_s": 1658.167,
       "part_ordinal": 0,
       "metadata": {
         "genre_tags": [
@@ -80,8 +80,8 @@
     {
       "ordinal": 3,
       "title": "Chapter I",
-      "start_s": 1655.839,
-      "end_s": 2650.111,
+      "start_s": 1658.167,
+      "end_s": 2652.435,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -89,8 +89,8 @@
     {
       "ordinal": 4,
       "title": "Chapter II",
-      "start_s": 2650.111,
-      "end_s": 2904.618,
+      "start_s": 2652.435,
+      "end_s": 2906.94,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -98,8 +98,8 @@
     {
       "ordinal": 5,
       "title": "Chapter III",
-      "start_s": 2904.618,
-      "end_s": 3304.216,
+      "start_s": 2906.94,
+      "end_s": 3318.846,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -107,8 +107,8 @@
     {
       "ordinal": 6,
       "title": "Chapter IV",
-      "start_s": 3304.216,
-      "end_s": 3714.061,
+      "start_s": 3318.846,
+      "end_s": 3728.689,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -116,8 +116,8 @@
     {
       "ordinal": 7,
       "title": "A NEIGHBOUR’S LANDMARK",
-      "start_s": 3714.061,
-      "end_s": 5134.65,
+      "start_s": 3728.689,
+      "end_s": 5153.07,
       "part_ordinal": 1,
       "metadata": {
         "genre_tags": [
@@ -133,8 +133,8 @@
     {
       "ordinal": 8,
       "title": "A VIEW FROM A HILL",
-      "start_s": 5134.65,
-      "end_s": 7547.344,
+      "start_s": 5153.07,
+      "end_s": 7552.743,
       "part_ordinal": 2,
       "metadata": {
         "genre_tags": [
@@ -150,8 +150,8 @@
     {
       "ordinal": 9,
       "title": "A WARNING TO THE CURIOUS",
-      "start_s": 7547.344,
-      "end_s": 9790.089,
+      "start_s": 7552.743,
+      "end_s": 9819.105,
       "part_ordinal": 2,
       "metadata": {
         "genre_tags": [
@@ -167,8 +167,8 @@
     {
       "ordinal": 10,
       "title": "AN EVENING’S ENTERTAINMENT",
-      "start_s": 9790.089,
-      "end_s": 11213.405,
+      "start_s": 9819.105,
+      "end_s": 11242.414,
       "part_ordinal": 2,
       "metadata": {
         "genre_tags": [
