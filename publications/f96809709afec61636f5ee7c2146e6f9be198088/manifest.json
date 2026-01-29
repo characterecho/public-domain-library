@@ -8,7 +8,7 @@
   "identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
   "publication_type": "short_story_collection",
   "cover_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/cover.png",
-  "total_duration_s": 11242.414239999998,
+  "total_duration_s": 11229.435918,
   "genre_tags": [
     "Antiquarian Ghost Stories",
     "Gothic Horror"
@@ -18,19 +18,19 @@
       "ordinal": 0,
       "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3318.846236
+      "end_s": 3311.765306
     },
     {
       "ordinal": 1,
       "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_1.mp3",
-      "start_s": 3318.846236,
-      "end_s": 5153.069637
+      "start_s": 3311.765306,
+      "end_s": 5145.9887069999995
     },
     {
       "ordinal": 2,
       "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_2.mp3",
-      "start_s": 5153.069637,
-      "end_s": 11242.414239999998
+      "start_s": 5145.9887069999995,
+      "end_s": 11229.435918
     }
   ],
   "segments": [
@@ -38,7 +38,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 10.206,
+      "end_s": 9.23,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -46,8 +46,8 @@
     {
       "ordinal": 1,
       "title": "THE HAUNTED DOLL’S HOUSE.",
-      "start_s": 10.206,
-      "end_s": 1655.674,
+      "start_s": 9.23,
+      "end_s": 1648.576,
       "part_ordinal": 0,
       "metadata": {
         "genre_tags": [
@@ -63,8 +63,8 @@
     {
       "ordinal": 2,
       "title": "THE UNCOMMON PRAYER-BOOK",
-      "start_s": 1655.674,
-      "end_s": 1658.167,
+      "start_s": 1648.576,
+      "end_s": 1651.07,
       "part_ordinal": 0,
       "metadata": {
         "genre_tags": [
@@ -80,8 +80,8 @@
     {
       "ordinal": 3,
       "title": "Chapter I",
-      "start_s": 1658.167,
-      "end_s": 2652.435,
+      "start_s": 1651.07,
+      "end_s": 2645.347,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -89,8 +89,8 @@
     {
       "ordinal": 4,
       "title": "Chapter II",
-      "start_s": 2652.435,
-      "end_s": 2906.94,
+      "start_s": 2645.347,
+      "end_s": 2899.855,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -98,8 +98,8 @@
     {
       "ordinal": 5,
       "title": "Chapter III",
-      "start_s": 2906.94,
-      "end_s": 3318.846,
+      "start_s": 2899.855,
+      "end_s": 3311.765,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -107,8 +107,8 @@
     {
       "ordinal": 6,
       "title": "Chapter IV",
-      "start_s": 3318.846,
-      "end_s": 3728.689,
+      "start_s": 3311.765,
+      "end_s": 3721.608,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -116,8 +116,8 @@
     {
       "ordinal": 7,
       "title": "A NEIGHBOUR’S LANDMARK",
-      "start_s": 3728.689,
-      "end_s": 5153.07,
+      "start_s": 3721.608,
+      "end_s": 5145.989,
       "part_ordinal": 1,
       "metadata": {
         "genre_tags": [
@@ -133,8 +133,8 @@
     {
       "ordinal": 8,
       "title": "A VIEW FROM A HILL",
-      "start_s": 5153.07,
-      "end_s": 7552.743,
+      "start_s": 5145.989,
+      "end_s": 7540.959,
       "part_ordinal": 2,
       "metadata": {
         "genre_tags": [
@@ -150,8 +150,8 @@
     {
       "ordinal": 9,
       "title": "A WARNING TO THE CURIOUS",
-      "start_s": 7552.743,
-      "end_s": 9819.105,
+      "start_s": 7540.959,
+      "end_s": 9806.125,
       "part_ordinal": 2,
       "metadata": {
         "genre_tags": [
@@ -167,8 +167,8 @@
     {
       "ordinal": 10,
       "title": "AN EVENING’S ENTERTAINMENT",
-      "start_s": 9819.105,
-      "end_s": 11242.414,
+      "start_s": 9806.125,
+      "end_s": 11229.436,
       "part_ordinal": 2,
       "metadata": {
         "genre_tags": [
@@ -205,7 +205,7 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 127,
+      "dialogue_count": 121,
       "image_key": null,
       "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/NARRATOR.mp3"
     },
@@ -390,7 +390,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 31,
+      "dialogue_count": 30,
       "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_ANTIQUARY.png",
       "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_ANTIQUARY.mp3"
     },
