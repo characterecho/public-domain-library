@@ -1,0 +1,1052 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "A Room with a View",
+  "author_names": "E. M. Forster",
+  "description": "Publication imported from https://gutenberg.org/ebooks/2641.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/2641.epub3.images",
+  "identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
+  "publication_type": "novel",
+  "cover_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/cover.png",
+  "total_duration_s": 3513.466553,
+  "genre_tags": [
+    "Classics",
+    "Romance",
+    "Social Satire",
+    "Edwardian",
+    "Italy"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3513.466553
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 8.573,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "PART ONE",
+      "start_s": 8.573,
+      "end_s": 10.257,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter I The Bertolini",
+      "start_s": 10.257,
+      "end_s": 1206.04,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BERTOLINI_DINING",
+            "location_header": "INT. PENSION BERTOLINI - DINING ROOM - NIGHT",
+            "visual_description": "A long, narrow dining room in an Italian pension, lit by electric pendants. A long table runs down the center with white water bottles and red wine bottles. Portraits of Queen Victoria and the Poet Laureate hang on the walls. The atmosphere is stuffy and filled with English tourists."
+          },
+          {
+            "identifier": "SCENE_BERTOLINI_DRAWING",
+            "location_header": "INT. PENSION BERTOLINI - DRAWING ROOM - NIGHT",
+            "visual_description": "A pension drawing room attempting to mimic a Bloomsbury boarding house. Heavy curtains, tomato-colored armchairs, and crowded furniture. The lighting is dim and domestic. A sense of forced gentility."
+          },
+          {
+            "identifier": "SCENE_BERTOLINI_BEDROOMS",
+            "location_header": "INT. PENSION BERTOLINI - BEDROOMS - NIGHT",
+            "visual_description": "A high-ceilinged Italian bedroom with tiled floors and tall shuttered windows. A simple washstand and iron bedstead. Moonlight enters when shutters are open, revealing the distant lights of the Arno. Shadows are deep in the corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter II In Santa Croce with No Baedeker",
+      "start_s": 1206.04,
+      "end_s": 2388.644,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BERTOLINI_INTERIOR",
+            "location_header": "INT. PENSION BERTOLINI - MORNING",
+            "visual_description": "An Italian pension room with a painted ceiling featuring pink griffins and blue amorini in a forest of yellow violins. Tall windows open onto bright sunshine and the river Arno. The mood is fresh and morning-bright."
+          },
+          {
+            "identifier": "SCENE_FLORENCE_STREETS",
+            "location_header": "EXT. FLORENCE STREETS - DAY",
+            "visual_description": "The streets of Florence in bright sunlight. The Lung' Arno with men working on the sandy foreshore. White bullocks, electric trams, and narrow grey-brown side streets. Renaissance architecture mixes with street life."
+          },
+          {
+            "identifier": "SCENE_SANTA_CROCE",
+            "location_header": "INT. SANTA CROCE - DAY",
+            "visual_description": "The vast, barn-like interior of Santa Croce church. It is cold and dusty, with sepulchral slabs paving the nave. Frescoes by Giotto decorate the chapels. A few tourists and worshippers scatter through the immense space."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter III Music, Violets, and the Letter “S”",
+      "start_s": 2388.644,
+      "end_s": 3513.467,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BERTOLINI_DRAWING_DAY",
+            "location_header": "INT. PENSION BERTOLINI - DRAWING ROOM - DAY",
+            "visual_description": "A Victorian drawing room in an Italian pension on a wet afternoon. Heavy curtains partially drawn against the grey light. Tomato-coloured armchairs and crowded furniture. A small draped piano stands in the corner. The atmosphere is dim, domestic, and stifling."
+          },
+          {
+            "identifier": "SCENE_TUNBRIDGE_WELLS_HALL",
+            "location_header": "INT. PARISH HALL - NIGHT (FLASHBACK)",
+            "visual_description": "A parish hall in Tunbridge Wells, England. Rows of wooden seats filled with a respectful audience. A stage with a simple piano. Gas lighting illuminates the polite, restrained atmosphere of a church social."
+          },
+          {
+            "identifier": "SCENE_BERTOLINI_DRAWING_DAY_LATER",
+            "location_header": "INT. PENSION BERTOLINI - DRAWING ROOM - LATER",
+            "visual_description": "The pension drawing room, now darker as evening approaches. Rain streaks the windows. The furniture casts deeper shadows. A sense of intimacy and confinement."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "observational",
+        "wry",
+        "cultured"
+      ],
+      "visual_attributes": [],
+      "roles": [],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 815,
+      "image_key": null,
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "LUCY_HONEYCHURCH",
+      "name": "Lucy",
+      "aliases": [
+        "Lucy",
+        "Lucia"
+      ],
+      "voice_attributes": [
+        "youthful",
+        "uncertain",
+        "earnest",
+        "confused"
+      ],
+      "visual_attributes": [
+        "young",
+        "brown curls",
+        "fresh complexion",
+        "fashionable dress",
+        "bright eyes"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 504,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/LUCY_HONEYCHURCH.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/LUCY_HONEYCHURCH.mp3"
+    },
+    {
+      "identifier": "MISS_BARTLETT",
+      "name": "Charlotte Bartlett",
+      "aliases": [
+        "Charlotte"
+      ],
+      "voice_attributes": [
+        "fussy",
+        "strained",
+        "martyred"
+      ],
+      "visual_attributes": [
+        "long narrow head",
+        "gaunt face",
+        "anxious eyes",
+        "high collar",
+        "brown hair"
+      ],
+      "roles": [
+        "chaperone",
+        "spinster"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 179,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_BARTLETT.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_BARTLETT.mp3"
+    },
+    {
+      "identifier": "MR_BEEBE",
+      "name": "Mr. Beebe",
+      "aliases": [],
+      "voice_attributes": [
+        "pleasant",
+        "genial",
+        "cultivated"
+      ],
+      "visual_attributes": [
+        "stout",
+        "clerical collar",
+        "kind eyes",
+        "black coat"
+      ],
+      "roles": [
+        "clergyman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 163,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MR_BEEBE.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MR_BEEBE.mp3"
+    },
+    {
+      "identifier": "CECIL_VYSE",
+      "name": "Cecil",
+      "aliases": [],
+      "voice_attributes": [
+        "cultivated",
+        "languid",
+        "self-conscious",
+        "supercilious"
+      ],
+      "visual_attributes": [
+        "tall and refined",
+        "square shoulders",
+        "pince-nez",
+        "high forehead",
+        "Gothic appearance",
+        "fastidious dress",
+        "tall",
+        "stiff posture",
+        "well-dressed"
+      ],
+      "roles": [
+        "fiance"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 146,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MRS_HONEYCHURCH",
+      "name": "Mrs. Honeychurch",
+      "aliases": [],
+      "voice_attributes": [
+        "motherly",
+        "fussy",
+        "warm",
+        "direct",
+        "matronly"
+      ],
+      "visual_attributes": [
+        "plump face",
+        "matronly figure",
+        "kind eyes",
+        "Victorian dress",
+        "writing materials",
+        "plump",
+        "middle-aged",
+        "Victorian bonnet",
+        "parasol"
+      ],
+      "roles": [
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 141,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "GEORGE_EMERSON",
+      "name": "George Emerson",
+      "aliases": [
+        "George"
+      ],
+      "voice_attributes": [
+        "perplexed",
+        "sorrowful",
+        "deep"
+      ],
+      "visual_attributes": [
+        "young",
+        "rugged face",
+        "muscular",
+        "grey demeanour",
+        "blue eyes"
+      ],
+      "roles": [
+        "love_interest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 118,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/GEORGE_EMERSON.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/GEORGE_EMERSON.mp3"
+    },
+    {
+      "identifier": "MR_EMERSON",
+      "name": "Mr. Emerson",
+      "aliases": [
+        "The Old Man"
+      ],
+      "voice_attributes": [
+        "loud",
+        "sincere",
+        "brisk",
+        "kindly"
+      ],
+      "visual_attributes": [
+        "heavy build",
+        "fair shaven face",
+        "large childish eyes",
+        "white whiskers",
+        "shabby clothes"
+      ],
+      "roles": [
+        "tourist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 105,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MR_EMERSON.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MR_EMERSON.mp3"
+    },
+    {
+      "identifier": "FREDDY_HONEYCHURCH",
+      "name": "Freddy",
+      "aliases": [],
+      "voice_attributes": [
+        "youthful",
+        "strained",
+        "slangy",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "young face",
+        "tousled hair",
+        "hands stained with chemicals",
+        "casual suit",
+        "expressive"
+      ],
+      "roles": [
+        "brother"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 94,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MR_EAGER",
+      "name": "Mr. Eager",
+      "aliases": [
+        "The Lecturer"
+      ],
+      "voice_attributes": [
+        "frigid",
+        "cultivated",
+        "superior"
+      ],
+      "visual_attributes": [
+        "clergyman attire",
+        "thin face",
+        "severe expression"
+      ],
+      "roles": [
+        "clergyman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 40,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MR_EAGER.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MR_EAGER.mp3"
+    },
+    {
+      "identifier": "MISS_LAVISH",
+      "name": "Miss Lavish",
+      "aliases": [
+        "The Clever Lady"
+      ],
+      "voice_attributes": [
+        "energetic",
+        "loud",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "short",
+        "fidgety",
+        "military cloak",
+        "cropped hair"
+      ],
+      "roles": [
+        "novelist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 38,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_LAVISH.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_LAVISH.mp3"
+    },
+    {
+      "identifier": "MISS_CATHARINE_ALAN",
+      "name": "Miss Catharine Alan",
+      "aliases": [
+        "Miss Alan"
+      ],
+      "voice_attributes": [
+        "plaintive",
+        "gentle",
+        "ladylike",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "frail",
+        "shawl",
+        "grey hair",
+        "spectacles",
+        "anxious expression"
+      ],
+      "roles": [
+        "tourist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_CATHARINE_ALAN.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_CATHARINE_ALAN.mp3"
+    },
+    {
+      "identifier": "PHAETHON",
+      "name": "Phaethon",
+      "aliases": [],
+      "voice_attributes": [
+        "passionate",
+        "bold",
+        "Italian accent"
+      ],
+      "visual_attributes": [
+        "dark eyes",
+        "handsome face",
+        "olive skin",
+        "loose shirt",
+        "slouch hat"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 14,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SIR_HARRY_OTWAY",
+      "name": "Sir Harry",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "mournful",
+        "weak"
+      ],
+      "visual_attributes": [
+        "bald head",
+        "retreating chin",
+        "gentleman's attire"
+      ],
+      "roles": [
+        "landlord"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 10,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MINNIE_BEEBE",
+      "name": "Minnie Beebe",
+      "aliases": [],
+      "voice_attributes": [
+        "youthful",
+        "high-pitched",
+        "playful"
+      ],
+      "visual_attributes": [
+        "young girl",
+        "aged thirteen",
+        "bright eyes",
+        "ribbons in hair"
+      ],
+      "roles": [
+        "niece"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MISS_TERESA_ALAN",
+      "name": "Miss Teresa Alan",
+      "aliases": [
+        "Little Old Lady"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "benign",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "frail",
+        "shawl",
+        "grey hair",
+        "spectacles"
+      ],
+      "roles": [
+        "tourist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_TERESA_ALAN.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/MISS_TERESA_ALAN.mp3"
+    },
+    {
+      "identifier": "MRS_VYSE",
+      "name": "Mrs. Vyse",
+      "aliases": [],
+      "voice_attributes": [
+        "cultivated",
+        "mechanical",
+        "weary"
+      ],
+      "visual_attributes": [
+        "well-dressed",
+        "middle-aged",
+        "elegant",
+        "imposing"
+      ],
+      "roles": [
+        "mother",
+        "socialite"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "POWELL",
+      "name": "Powell",
+      "aliases": [],
+      "voice_attributes": [
+        "respectful",
+        "steady"
+      ],
+      "visual_attributes": [
+        "livery",
+        "tall hat",
+        "weather-beaten face"
+      ],
+      "roles": [
+        "coachman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ANNE",
+      "name": "Anne",
+      "aliases": [],
+      "voice_attributes": [
+        "cheerful",
+        "loud"
+      ],
+      "visual_attributes": [
+        "maid uniform",
+        "cap",
+        "red hands",
+        "smiling"
+      ],
+      "roles": [
+        "maid"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "TUNBRIDGE_VICAR",
+      "name": "The Vicar",
+      "aliases": [],
+      "voice_attributes": [
+        "conventional",
+        "fussy",
+        "polite"
+      ],
+      "visual_attributes": [
+        "clerical collar",
+        "spectacles",
+        "thin hair",
+        "kindly face"
+      ],
+      "roles": [
+        "clergyman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/TUNBRIDGE_VICAR.png",
+      "voice_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/characters/TUNBRIDGE_VICAR.mp3"
+    },
+    {
+      "identifier": "PERSEPHONE",
+      "name": "Persephone",
+      "aliases": [],
+      "voice_attributes": [
+        "soft",
+        "contralto",
+        "Italian accent"
+      ],
+      "visual_attributes": [
+        "tall",
+        "slender",
+        "pale",
+        "beautiful",
+        "simple dress"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "italian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_SUMMER_STREET_ROAD",
+      "ordinal": 0,
+      "location_header": "EXT. SUMMER STREET ROAD - LATE AFTERNOON",
+      "visual_description": "A winding country road near Summer Street, bordered by pine woods and bracken. The scene features a horse-drawn victoria carriage moving past modern villas with red and cream brick facades. The late afternoon light is soft, illuminating the trees and the ugly new buildings.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_LUCYS_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. LUCY'S BEDROOM - LATE AFTERNOON",
+      "visual_description": "Lucy's bedroom at Windy Corner. A private, feminine space with a window looking out over the Weald. The atmosphere is tense and quiet, a place of retreat and internal conflict.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_DINING",
+      "ordinal": 0,
+      "location_header": "INT. PENSION BERTOLINI - DINING ROOM - NIGHT",
+      "visual_description": "A long, narrow dining room in an Italian pension, lit by electric pendants. A long table runs down the center with white water bottles and red wine bottles. Portraits of Queen Victoria and the Poet Laureate hang on the walls. The atmosphere is stuffy and filled with English tourists.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_BERTOLINI_DINING.jpg"
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_DINING",
+      "ordinal": 0,
+      "location_header": "INT. WINDY CORNER DINING ROOM - NIGHT",
+      "visual_description": "The Victorian dining room at night, lit by the warm glow of gas lamps against dark mahogany panelling. A heavy sideboard stands in the background with crystal decanters. The atmosphere is intimate but stifling, with shadows gathering in the corners.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_DRAWING_DAY",
+      "ordinal": 0,
+      "location_header": "INT. PENSION BERTOLINI - DRAWING ROOM - DAY",
+      "visual_description": "A Victorian drawing room in an Italian pension on a wet afternoon. Heavy curtains partially drawn against the grey light. Tomato-coloured armchairs and crowded furniture. A small draped piano stands in the corner. The atmosphere is dim, domestic, and stifling.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_BERTOLINI_DRAWING_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_BEAUCHAMP_MANSIONS_DRAWING",
+      "ordinal": 0,
+      "location_header": "INT. BEAUCHAMP MANSIONS - NIGHT",
+      "visual_description": "A London drawing room in Beauchamp Mansions, elegantly appointed but weary. Dim lighting, grand piano, and heavy curtains. The atmosphere is sophisticated but stifling.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_DINING_MORNING",
+      "ordinal": 0,
+      "location_header": "INT. PENSION BERTOLINI - DINING ROOM - MORNING",
+      "visual_description": "The pension dining room in bright morning light. White tablecloths, breakfast service, and the chatter of tourists. The atmosphere is brisk and social.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TUSCAN_HILLS_ROAD",
+      "ordinal": 0,
+      "location_header": "EXT. TUSCAN HILLS - DAY",
+      "visual_description": "A winding stony road ascending the hills of Fiesole in bright spring sunshine. Budding trees and olive groves line the route. The atmosphere is hazy and luminous. An open carriage moves through the landscape.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_TUSCAN_HILLS_RETURN",
+      "ordinal": 0,
+      "location_header": "EXT. TUSCAN HILLS ROAD - TWILIGHT/STORM",
+      "visual_description": "The winding road from Fiesole descending towards Florence. It is late afternoon turning into evening. Storm clouds gather rapidly, darkening the sky. Rain begins to fall, and lightning flashes illuminate the wet landscape and the frightened occupants of the open carriages.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_INTERIOR",
+      "ordinal": 0,
+      "location_header": "INT. PENSION BERTOLINI - MORNING",
+      "visual_description": "An Italian pension room with a painted ceiling featuring pink griffins and blue amorini in a forest of yellow violins. Tall windows open onto bright sunshine and the river Arno. The mood is fresh and morning-bright.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_BERTOLINI_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_ROOM_EVENING",
+      "ordinal": 0,
+      "location_header": "INT. PENSION BERTOLINI - EVENING",
+      "visual_description": "A hotel room in Florence at twilight. The window is open to the river Arno and distant hills. Soft evening light, sounds of the city drifting up. Romantic and peaceful.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LONDON_MUDIES",
+      "ordinal": 0,
+      "location_header": "INT/EXT. LONDON STREETS / MUDIE'S - DAY",
+      "visual_description": "A wet London street in late afternoon outside Mudie's Library. Grey buildings, umbrellas, shop windows glowing in the gloom. Bustling but impersonal.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SURREY_CARRIAGE",
+      "ordinal": 1,
+      "location_header": "INT. CARRIAGE - DUSK",
+      "visual_description": "Interior of a horse-drawn carriage moving through rainy Surrey lanes at dusk. Close, dim space lit by carriage lamps. Rhythm of hooves.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_DRAWING",
+      "ordinal": 1,
+      "location_header": "INT. PENSION BERTOLINI - DRAWING ROOM - NIGHT",
+      "visual_description": "A pension drawing room attempting to mimic a Bloomsbury boarding house. Heavy curtains, tomato-colored armchairs, and crowded furniture. The lighting is dim and domestic. A sense of forced gentility.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_BERTOLINI_DRAWING.jpg"
+    },
+    {
+      "identifier": "SCENE_FLORENCE_STREETS",
+      "ordinal": 1,
+      "location_header": "EXT. FLORENCE STREETS - DAY",
+      "visual_description": "The streets of Florence in bright sunlight. The Lung' Arno with men working on the sandy foreshore. White bullocks, electric trams, and narrow grey-brown side streets. Renaissance architecture mixes with street life.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_FLORENCE_STREETS.jpg"
+    },
+    {
+      "identifier": "SCENE_FIESOLE_HILLSIDE",
+      "ordinal": 1,
+      "location_header": "EXT. FIESOLE HILLSIDE - DAY",
+      "visual_description": "A wild hillside terrace in Fiesole overlooking the Val d'Arno. Terraced steps, misty olive trees, and dense bushes. The ground is carpeted with grass and patches of blue violets. Florence is visible in the hazy distance.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_BEDROOMS",
+      "ordinal": 1,
+      "location_header": "INT. PENSION BERTOLINI - BEDROOM - NIGHT",
+      "visual_description": "A high-ceilinged bedroom in the Pension Bertolini at night. Rain streams down the tall black windows. The room is lit by a single trembling candle on a chest of drawers, casting monstrous shadows. Trunks and clothes are scattered about for packing.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_BERTOLINI_BEDROOMS.jpg"
+    },
+    {
+      "identifier": "SCENE_TUNBRIDGE_WELLS_HALL",
+      "ordinal": 1,
+      "location_header": "INT. PARISH HALL - NIGHT (FLASHBACK)",
+      "visual_description": "A parish hall in Tunbridge Wells, England. Rows of wooden seats filled with a respectful audience. A stage with a simple piano. Gas lighting illuminates the polite, restrained atmosphere of a church social.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_TUNBRIDGE_WELLS_HALL.jpg"
+    },
+    {
+      "identifier": "SCENE_PIAZZA_SIGNORIA_TWILIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. PIAZZA SIGNORIA - TWILIGHT",
+      "visual_description": "The vast Piazza Signoria at dusk. The Palazzo Vecchio tower rises like a pillar of roughened gold against the darkening sky. The Loggia is a cavern of shadows. The Neptune fountain plashes dreamily. A sense of unreality and ancient power.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PIAZZA_SIGNORIA_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. PIAZZA SIGNORIA - DAY",
+      "visual_description": "The Piazza Signoria in bright sunlight. The fountain is splashing, tourists are walking, and the statues stand clear against the stone. A sense of openness and public life.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CISSIE_VILLA_GARDEN",
+      "ordinal": 1,
+      "location_header": "EXT. CISSIE VILLA GARDEN - DAY",
+      "visual_description": "A modest garden in front of Cissie Villa, a small house near Summer Street. The garden is neat but standard, with a green lawn. Carriages pass on the road nearby. Sunlight flashes on the passing vehicles. A sense of suburban quiet.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BEAUCHAMP_MANSIONS_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. BEAUCHAMP MANSIONS - BEDROOM - NIGHT",
+      "visual_description": "A quiet guest bedroom in the London flat at night. Dark, shadowy, with streetlamp light filtering through curtains. A sense of isolation and suppressed anxiety.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CISSIE_VILLA_INT",
+      "ordinal": 1,
+      "location_header": "INT. CISSIE_VILLA - DAY",
+      "visual_description": "The cluttered interior of Cissie Villa. The hallway is blocked by a large wardrobe. The sitting room is filled with books and furniture in disarray. Sunlight streams through the windows onto stacks of philosophy and poetry.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_HALLWAY",
+      "ordinal": 1,
+      "location_header": "INT. WINDY CORNER HALLWAY - EVENING",
+      "visual_description": "The upper hallway of Windy Corner in the late afternoon. Doors lead to bedrooms. A landing window faces north towards the dark pines, letting in a cold, dim light that contrasts with the warmth of the house below.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_GARDEN",
+      "ordinal": 1,
+      "location_header": "EXT. WINDY CORNER GARDEN - AFTERNOON",
+      "visual_description": "The extensive gardens of Windy Corner. A tennis court lies on a flat section of lawn. Dense shrubberies and laurels border the paths, offering secluded walkways. The view of the Weald is magnificent. The late afternoon sun casts long shadows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_DINING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. WINDY CORNER DINING ROOM - AFTERNOON",
+      "visual_description": "The dining room at Windy Corner. A heavy mahogany table dominates the room. Large windows look out onto the garden. The room is quiet, the table uncleared from tea, creating an atmosphere of domestic suspension.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_TERRACE",
+      "ordinal": 2,
+      "location_header": "EXT. WINDY CORNER TERRACE - EVENING",
+      "visual_description": "A sunny garden terrace at Windy Corner with a rustic seat and flower beds. The view overlooks the Sussex Weald, stretching out like a green magic carpet. The atmosphere is bright, open, and manicured, contrasting with the wilder woods beyond.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_DRAWING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. WINDY CORNER DRAWING_ROOM - DAY",
+      "visual_description": "A comfortable Edwardian drawing room at Windy Corner, protected from the August sun by heavy curtains. The room contains a piano covered with books and a writing table. Through the parted curtains, a glimpse of a sunlit terrace and the Weald beyond. The light inside is subdued and cool.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BERTOLINI_DRAWING_DAY_LATER",
+      "ordinal": 2,
+      "location_header": "INT. PENSION BERTOLINI - DRAWING ROOM - LATER",
+      "visual_description": "The pension drawing room, now darker as evening approaches. Rain streaks the windows. The furniture casts deeper shadows. A sense of intimacy and confinement.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_BERTOLINI_DRAWING_DAY_LATER.jpg"
+    },
+    {
+      "identifier": "SCENE_SANTA_CROCE",
+      "ordinal": 2,
+      "location_header": "INT. SANTA CROCE - DAY",
+      "visual_description": "The vast, barn-like interior of Santa Croce church. It is cold and dusty, with sepulchral slabs paving the nave. Frescoes by Giotto decorate the chapels. A few tourists and worshippers scatter through the immense space.",
+      "metadata": {},
+      "image_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/scenes/scene_SCENE_SANTA_CROCE.jpg"
+    },
+    {
+      "identifier": "SCENE_SACRED_LAKE",
+      "ordinal": 2,
+      "location_header": "EXT. PINE WOODS - CLEARING - DAY",
+      "visual_description": "A secluded clearing in a pine wood containing a small, shallow pool known as the Sacred Lake. The ground is carpeted with pine needles. Sunlight filters through the tall trees, creating a quiet, intimate atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_RECTORY_STUDY",
+      "ordinal": 2,
+      "location_header": "INT. RECTORY STUDY - NIGHT",
+      "visual_description": "Mr. Beebe's study. A cosy, book-lined room lit by a fire. Theological books pile up to the ceiling. Intimate, intellectual, slightly cluttered.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_FLORENCE_SOUVENIR_SHOP",
+      "ordinal": 2,
+      "location_header": "INT. SOUVENIR SHOP - DAY",
+      "visual_description": "A cluttered Florentine souvenir shop. Shelves filled with alabaster statues, picture frames, and mosaics. The air smells of dust and polish. Narrow aisles and a shop counter.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_UFFIZI_ARCADE",
+      "ordinal": 2,
+      "location_header": "EXT. UFFIZI ARCADE - NIGHT",
+      "visual_description": "Stone steps beneath the arches of the Uffizi colonnade. Dim lighting, deep shadows, and the sound of the nearby fountain. The atmosphere is secluded and intimate.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ENGLISH_BANK",
+      "ordinal": 3,
+      "location_header": "INT. ENGLISH BANK - DAY",
+      "visual_description": "The newspaper room of the English bank in Florence. A central table with magazines. Quiet, respectable atmosphere. A safe haven for English tourists.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ARNO_EMBANKMENT_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. ARNO EMBANKMENT - NIGHT",
+      "visual_description": "The stone embankment of the Arno river at night. Streetlamps cast reflections on the rushing dark water. The buildings on the opposite bank are silhouetted against the night sky. A cold wind blows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_BEEHIVE_TAVERN",
+      "ordinal": 3,
+      "location_header": "INT. BEEHIVE TAVERN - LATE AFTERNOON",
+      "visual_description": "The modest interior of a country tavern. Sanded floors, simple wooden furniture, and a window looking out onto the gathering storm. Warm, amber light contrasts with the grey exterior.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WINDY_CORNER_DRAWING_ROOM_NIGHT",
+      "ordinal": 4,
+      "location_header": "INT. WINDY CORNER DRAWING ROOM - NIGHT",
+      "visual_description": "The drawing room in the evening, lit by soft lamps. The curtains are drawn against the gale outside. The piano is the focal point, with family members gathered around.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Humorous stories",
+    "England -- Fiction",
+    "Young women -- Fiction",
+    "British -- Italy -- Fiction",
+    "Florence (Italy) -- Fiction"
+  ]
+}
