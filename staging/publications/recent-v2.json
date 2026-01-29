@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-01-29T21:43:36Z",
+  "generated_at": "2026-01-29T22:52:23Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
@@ -14,14 +14,14 @@
         "horror"
       ],
       "catalog_added_at": "2026-01-29T18:45:33Z",
-      "updated_at": "2026-01-29T21:43:36Z",
+      "updated_at": "2026-01-29T22:52:23Z",
       "duration": {
         "total_ms": 11287000,
         "formatted": "3h 8m"
       },
       "cover_url": null,
-      "data_checksum": "046a0e45e3fd623f26a96aecdd4bc4deb151a8f63c1c30dca361e6d776413af1",
-      "file_size": 543325510,
+      "data_checksum": "c3d28c87d8cb7ed7be83eea8e6757515f5f74f1c966b4c49aed4926935cacb91",
+      "file_size": 543393037,
       "available_regions": [
         "US",
         "CA",
