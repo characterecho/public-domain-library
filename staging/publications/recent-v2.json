@@ -1,9 +1,36 @@
 {
   "version": 2,
-  "generated_at": "2026-01-28T19:41:30Z",
+  "generated_at": "2026-01-29T17:21:29Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
+      "sample": true,
+      "title": "A Room with a View",
+      "author_names": "E. M. Forster",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "satire"
+      ],
+      "catalog_added_at": "2026-01-28T21:42:12Z",
+      "updated_at": "2026-01-29T17:21:29Z",
+      "duration": {
+        "total_ms": 3524000,
+        "formatted": "59m"
+      },
+      "cover_url": null,
+      "data_checksum": "2578a763213ccff38bd7e503c81906acb58a2aeda32c1ab9199742d376174e20",
+      "file_size": 149621792,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ],
+      "min_app_version": "1.2.1"
+    },
     {
       "publication_identifier": "28a19780155c14ddbb41676c1737d73f4a261115",
       "sample": true,
