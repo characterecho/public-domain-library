@@ -1,9 +1,37 @@
 {
   "version": 2,
-  "generated_at": "2026-01-29T18:53:30Z",
+  "generated_at": "2026-01-29T18:55:33Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
+      "sample": false,
+      "title": "A Warning to the Curious, and Other Ghost Stories",
+      "author_names": "M. R. James",
+      "publication_type": "short_story_collection",
+      "genre_tags": [
+        "horror"
+      ],
+      "catalog_added_at": "2026-01-29T18:45:33Z",
+      "updated_at": "2026-01-29T18:55:33Z",
+      "duration": {
+        "total_ms": 11287000,
+        "formatted": "3h 8m"
+      },
+      "cover_url": null,
+      "data_checksum": "fb91cd7ce7cea71cd5582926fe02e305a1e8b9df8ab9f5e4bbca27d3c371f91b",
+      "file_size": 543520356,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
       "sample": true,
@@ -64,34 +92,6 @@
         "IE"
       ],
       "min_app_version": "1.2.1"
-    },
-    {
-      "publication_identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
-      "sample": false,
-      "title": "A Warning to the Curious, and Other Ghost Stories",
-      "author_names": "M. R. James",
-      "publication_type": "short_story_collection",
-      "genre_tags": [
-        "horror"
-      ],
-      "catalog_added_at": "2026-01-29T12:43:07Z",
-      "updated_at": "2026-01-29T18:45:33Z",
-      "duration": {
-        "total_ms": 11215000,
-        "formatted": "3h 7m"
-      },
-      "cover_url": null,
-      "data_checksum": "f0d45f932be6960eecde4b56d13260f9db068963a64c36592e0b96259fb6c14d",
-      "file_size": 543079885,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ],
-      "min_app_version": "1.1.0"
     },
     {
       "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
