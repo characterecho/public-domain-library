@@ -8,7 +8,7 @@
   "identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
   "publication_type": "novel",
   "cover_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/cover.png",
-  "total_duration_s": 2123.495442,
+  "total_duration_s": 2358.575646,
   "genre_tags": [
     "Classics",
     "Gothic Horror",
@@ -21,7 +21,7 @@
       "ordinal": 0,
       "audio_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2123.495442
+      "end_s": 2358.575646
     }
   ],
   "segments": [
@@ -29,7 +29,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.741,
+      "end_s": 9.574,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -37,8 +37,8 @@
     {
       "ordinal": 1,
       "title": "Letter 1",
-      "start_s": 6.741,
-      "end_s": 384.145,
+      "start_s": 9.574,
+      "end_s": 409.203,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -54,8 +54,8 @@
     {
       "ordinal": 2,
       "title": "Letter 2",
-      "start_s": 384.145,
-      "end_s": 770.95,
+      "start_s": 409.203,
+      "end_s": 829.93,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -71,8 +71,8 @@
     {
       "ordinal": 3,
       "title": "Letter 3",
-      "start_s": 770.95,
-      "end_s": 836.989,
+      "start_s": 829.93,
+      "end_s": 934.406,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -88,8 +88,8 @@
     {
       "ordinal": 4,
       "title": "Letter 4",
-      "start_s": 836.989,
-      "end_s": 1629.009,
+      "start_s": 934.406,
+      "end_s": 1796.214,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -110,8 +110,8 @@
     {
       "ordinal": 5,
       "title": "Chapter 1",
-      "start_s": 1629.009,
-      "end_s": 2123.495,
+      "start_s": 1796.214,
+      "end_s": 2358.576,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [

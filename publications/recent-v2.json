@@ -1,9 +1,125 @@
 {
   "version": 2,
-  "generated_at": "2026-01-29T17:48:53Z",
+  "generated_at": "2026-01-29T18:45:55Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
+      "sample": true,
+      "title": "Frankenstein",
+      "author_names": "Mary Wollstonecraft Shelley",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "horror",
+        "scifi",
+        "epistolary"
+      ],
+      "catalog_added_at": "2026-01-28T21:41:12Z",
+      "updated_at": "2026-01-29T18:45:55Z",
+      "duration": {
+        "total_ms": 2368000,
+        "formatted": "39m"
+      },
+      "cover_url": null,
+      "data_checksum": "f4604a08207c1bb313e2294247057f1ddc1c4ca3ce11ff9267701794c2d71de7",
+      "file_size": 103663496,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.2.1"
+    },
+    {
+      "publication_identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
+      "sample": false,
+      "title": "A Warning to the Curious, and Other Ghost Stories",
+      "author_names": "M. R. James",
+      "publication_type": "short_story_collection",
+      "genre_tags": [
+        "horror"
+      ],
+      "catalog_added_at": "2026-01-29T12:43:07Z",
+      "updated_at": "2026-01-29T18:45:33Z",
+      "duration": {
+        "total_ms": 11215000,
+        "formatted": "3h 7m"
+      },
+      "cover_url": null,
+      "data_checksum": "f0d45f932be6960eecde4b56d13260f9db068963a64c36592e0b96259fb6c14d",
+      "file_size": 543079885,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
+    {
+      "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
+      "sample": true,
+      "title": "A Room with a View",
+      "author_names": "E. M. Forster",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "satire"
+      ],
+      "catalog_added_at": "2026-01-28T21:42:12Z",
+      "updated_at": "2026-01-29T18:43:42Z",
+      "duration": {
+        "total_ms": 3524000,
+        "formatted": "59m"
+      },
+      "cover_url": null,
+      "data_checksum": "8569e306d8de2d1588ffbccecbedca90deff07832ada2b83374d7708b6ccd7e4",
+      "file_size": 149621792,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ],
+      "min_app_version": "1.2.1"
+    },
+    {
+      "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
+      "sample": false,
+      "title": "Pride and Prejudice",
+      "author_names": "Jane Austen",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "satire"
+      ],
+      "catalog_added_at": "2026-01-18T03:35:30Z",
+      "updated_at": "2026-01-29T18:43:03Z",
+      "duration": {
+        "total_ms": 36586000,
+        "formatted": "10h 10m"
+      },
+      "cover_url": null,
+      "data_checksum": "92b613c02140a445522210675e4f8a853e61a83a34ff4a873865ad41e61dc106",
+      "file_size": 931236990,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
       "sample": true,
@@ -31,64 +147,6 @@
         "AU",
         "NZ",
         "IE"
-      ],
-      "min_app_version": "1.2.1"
-    },
-    {
-      "publication_identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
-      "sample": true,
-      "title": "Frankenstein",
-      "author_names": "Mary Wollstonecraft Shelley",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "horror",
-        "scifi",
-        "epistolary"
-      ],
-      "catalog_added_at": "2026-01-28T21:41:12Z",
-      "updated_at": "2026-01-29T17:35:06Z",
-      "duration": {
-        "total_ms": 2124000,
-        "formatted": "35m"
-      },
-      "cover_url": null,
-      "data_checksum": "498962df133549fca1275294fd786ae4eb95c94a70b46822e787c9b8330e9ec1",
-      "file_size": 99995246,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ],
-      "min_app_version": "1.2.1"
-    },
-    {
-      "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
-      "sample": true,
-      "title": "A Room with a View",
-      "author_names": "E. M. Forster",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "romance",
-        "satire"
-      ],
-      "catalog_added_at": "2026-01-28T21:42:12Z",
-      "updated_at": "2026-01-29T17:21:29Z",
-      "duration": {
-        "total_ms": 3524000,
-        "formatted": "59m"
-      },
-      "cover_url": null,
-      "data_checksum": "2578a763213ccff38bd7e503c81906acb58a2aeda32c1ab9199742d376174e20",
-      "file_size": 149621792,
-      "available_regions": [
-        "US",
-        "CA",
-        "NZ"
       ],
       "min_app_version": "1.2.1"
     },
@@ -238,34 +296,6 @@
       "cover_url": null,
       "data_checksum": "947411bacf8856bdc78232f75d2210cbaf0e8b2d0536563ce9503c272aba35a4",
       "file_size": 405065215,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ]
-    },
-    {
-      "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
-      "title": "Pride and Prejudice",
-      "author_names": "Jane Austen",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "romance",
-        "satire"
-      ],
-      "catalog_added_at": "2026-01-18T03:35:30Z",
-      "updated_at": "2026-01-19T13:43:26Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "1b3ed67f92cbcd3d9502b037348e41d6d43350200f3fc4402aa4ffae6121e792",
-      "file_size": 931213000,
       "available_regions": [
         "US",
         "CA",
