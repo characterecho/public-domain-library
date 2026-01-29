@@ -8,7 +8,7 @@
   "identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
   "publication_type": "novel",
   "cover_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/cover.png",
-  "total_duration_s": 2070.240907,
+  "total_duration_s": 2240.755329,
   "genre_tags": [
     "Classics",
     "Romance",
@@ -21,7 +21,7 @@
       "ordinal": 0,
       "audio_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2070.240907
+      "end_s": 2240.755329
     }
   ],
   "segments": [
@@ -29,7 +29,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 5.718,
+      "end_s": 8.394,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -37,8 +37,8 @@
     {
       "ordinal": 1,
       "title": "CHAPTER I",
-      "start_s": 5.718,
-      "end_s": 1095.246,
+      "start_s": 8.394,
+      "end_s": 1176.023,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -54,8 +54,8 @@
     {
       "ordinal": 2,
       "title": "CHAPTER II",
-      "start_s": 1095.246,
-      "end_s": 1351.999,
+      "start_s": 1176.023,
+      "end_s": 1483.644,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -71,8 +71,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER III",
-      "start_s": 1351.999,
-      "end_s": 1841.184,
+      "start_s": 1483.644,
+      "end_s": 2005.217,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -93,8 +93,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER IV",
-      "start_s": 1841.184,
-      "end_s": 2070.241,
+      "start_s": 2005.217,
+      "end_s": 2240.755,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
