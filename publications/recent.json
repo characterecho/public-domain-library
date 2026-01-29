@@ -1,5 +1,36 @@
 [
   {
+    "publication_identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
+    "sample": true,
+    "title": "Frankenstein",
+    "author_names": "Mary Wollstonecraft Shelley",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "horror",
+      "scifi",
+      "epistolary"
+    ],
+    "catalog_added_at": "2026-01-28T21:41:12Z",
+    "updated_at": "2026-01-29T17:35:06Z",
+    "duration": {
+      "total_ms": 2124000,
+      "formatted": "35m"
+    },
+    "cover_url": null,
+    "data_checksum": "498962df133549fca1275294fd786ae4eb95c94a70b46822e787c9b8330e9ec1",
+    "file_size": 99995246,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.2.1"
+  },
+  {
     "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
     "sample": true,
     "title": "A Room with a View",
