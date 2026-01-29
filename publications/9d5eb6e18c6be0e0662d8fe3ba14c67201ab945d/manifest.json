@@ -1,0 +1,1240 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "Frankenstein",
+  "author_names": "Mary Wollstonecraft Shelley",
+  "description": "Publication imported from https://gutenberg.org/ebooks/84.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/84.epub3.images",
+  "identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
+  "publication_type": "novel",
+  "cover_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/cover.png",
+  "total_duration_s": 2358.575646,
+  "genre_tags": [
+    "Classics",
+    "Gothic Horror",
+    "Science Fiction",
+    "Epistolary",
+    "Exploration"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2358.575646
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 9.574,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Letter 1",
+      "start_s": 9.574,
+      "end_s": 409.203,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ST_PETERSBURGH_LODGING",
+            "location_header": "INT. ST. PETERSBURGH LODGING - DAY",
+            "visual_description": "A modest 18th-century writer's lodging in St. Petersburgh. Cold northern light filters through a frosted windowpane. A wooden desk is piled with maps and parchment. A single candle burns low. The room is sparse but warm, with heavy fur rugs and a crackling ceramic stove. Muted winter blues and warm firelight."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Letter 2",
+      "start_s": 409.203,
+      "end_s": 829.93,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ARCHANGEL_LODGING",
+            "location_header": "INT. ARCHANGEL LODGING - DAY",
+            "visual_description": "A rustic timber-walled room in Archangel. Through the small window, a view of a frozen harbor and tall sailing ships masts against a grey sky. The room is cluttered with navigational instruments, ropes, and thick furs. A heavy oak table sits in the center. Cool, stark northern light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Letter 3",
+      "start_s": 829.93,
+      "end_s": 934.406,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SHIP_AT_SEA",
+            "location_header": "EXT. SHIP DECK - DAY",
+            "visual_description": "The deck of an 18th-century sailing ship surrounded by open ocean and drifting ice floes. The sun is bright but low on the horizon, casting long shadows. Ropes and rigging creak in the wind. The sea is a mix of deep indigo and blinding white ice. Fresh, cold atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Letter 4",
+      "start_s": 934.406,
+      "end_s": 1796.214,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_ARCTIC_SHIP_DECK",
+            "location_header": "EXT. SHIP DECK - ICE FIELD - DAY",
+            "visual_description": "The wooden deck of a sailing ship trapped in a vast, endless field of jagged ice. Thick fog swirls around the rigging, then clears to reveal a blinding white wasteland under a pale sun. The atmosphere is desolate, freezing, and silent. Cold blues, greys, and stark whites."
+          },
+          {
+            "identifier": "SCENE_SHIP_CABIN",
+            "location_header": "INT. SHIP CABIN - NIGHT",
+            "visual_description": "A small, wooden captain's cabin on a ship. A lantern swings from the low ceiling. A narrow bunk with fur blankets sits against one wall. Maps and journals are scattered on a table. Warm yellow light contrasts with the cold blue light coming from the porthole. Intimate and enclosed."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "Chapter 1",
+      "start_s": 1796.214,
+      "end_s": 2358.576,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GENEVA_HOME",
+            "location_header": "INT. FRANKENSTEIN ESTATE - DAY",
+            "visual_description": "A comfortable 18th-century Genevese estate interior. Large windows overlook a lake and mountains in the distance. The room is furnished with elegant period furniture, velvet chairs, and oil paintings. Soft, warm daylight fills the space. A sense of peace and history."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "R. WALTON",
+      "name": "Robert Walton",
+      "aliases": [],
+      "voice_attributes": [
+        "passionate",
+        "articulate",
+        "hopeful",
+        "concerned"
+      ],
+      "visual_attributes": [
+        "windburned face",
+        "bright eyes",
+        "thick woolen coat",
+        "messy hair",
+        "young gentleman"
+      ],
+      "roles": [
+        "explorer",
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 633,
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/R._WALTON.png",
+      "voice_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/R._WALTON.mp3"
+    },
+    {
+      "identifier": "THE_CREATURE",
+      "name": "The Creature",
+      "aliases": [
+        "The Monster",
+        "The Fiend",
+        "The Daemon"
+      ],
+      "voice_attributes": [
+        "gravelly",
+        "intelligent",
+        "anguished",
+        "powerful"
+      ],
+      "visual_attributes": [
+        "8 foot tall humanoid",
+        "translucent yellow skin",
+        "watery eyes",
+        "black lips",
+        "long black hair",
+        "visible muscles",
+        "patchwork body",
+        "anthropomorphic humanoid",
+        "8 foot tall"
+      ],
+      "roles": [
+        "antagonist",
+        "creation"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "eloquent_european"
+      },
+      "dialogue_count": 211,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "VICTOR_FRANKENSTEIN",
+      "name": "Victor Frankenstein",
+      "aliases": [
+        "The Stranger"
+      ],
+      "voice_attributes": [
+        "cultured",
+        "melancholy",
+        "eloquent",
+        "european",
+        "weak",
+        "feverish"
+      ],
+      "visual_attributes": [
+        "gaunt face",
+        "lustrous dark eyes",
+        "long dark hair",
+        "hollow cheeks",
+        "noble bearing",
+        "fur coat"
+      ],
+      "roles": [
+        "protagonist",
+        "scientist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 188,
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/VICTOR_FRANKENSTEIN.png",
+      "voice_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/VICTOR_FRANKENSTEIN.mp3"
+    },
+    {
+      "identifier": "ELIZABETH_LAVENZA",
+      "name": "Elizabeth",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "enchanting",
+        "soft"
+      ],
+      "visual_attributes": [
+        "radiant beauty",
+        "blonde hair",
+        "gentle blue eyes",
+        "slender frame",
+        "modest dress"
+      ],
+      "roles": [
+        "fiancee",
+        "cousin"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 55,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ALPHONSE_FRANKENSTEIN",
+      "name": "Alphonse Frankenstein",
+      "aliases": [],
+      "voice_attributes": [
+        "kind",
+        "authoritative",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "kind face",
+        "white hair",
+        "patrician",
+        "18th century velvet coat"
+      ],
+      "roles": [
+        "father"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 30,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HENRY_CLERVAL",
+      "name": "Henry Clerval",
+      "aliases": [
+        "Clerval"
+      ],
+      "voice_attributes": [
+        "earnest",
+        "animated",
+        "warm"
+      ],
+      "visual_attributes": [
+        "open face",
+        "kind eyes",
+        "boyish charm",
+        "period traveling clothes"
+      ],
+      "roles": [
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 17,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JUSTINE_MORITZ",
+      "name": "Justine Moritz",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "trembling",
+        "sincere"
+      ],
+      "visual_attributes": [
+        "young woman",
+        "pale face",
+        "dark hair",
+        "mourning dress",
+        "extremely pretty",
+        "tearful eyes"
+      ],
+      "roles": [
+        "accused",
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 12,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DE_LACEY",
+      "name": "De Lacey",
+      "aliases": [
+        "The Old Man"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "frail",
+        "wise"
+      ],
+      "visual_attributes": [
+        "elderly man",
+        "silver hair",
+        "blind eyes",
+        "worn but dignified clothes"
+      ],
+      "roles": [
+        "cottager"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 11,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MR_KIRWIN",
+      "name": "Mr. Kirwin",
+      "aliases": [],
+      "voice_attributes": [
+        "calm",
+        "sympathetic",
+        "educated"
+      ],
+      "visual_attributes": [
+        "benevolent face",
+        "white hair",
+        "gentle eyes",
+        "fine clothes",
+        "magistrate's attire"
+      ],
+      "roles": [
+        "magistrate"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "irish_refined"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ERNEST_FRANKENSTEIN",
+      "name": "Ernest Frankenstein",
+      "aliases": [],
+      "voice_attributes": [
+        "youthful",
+        "earnest",
+        "sorrowful"
+      ],
+      "visual_attributes": [
+        "sixteen years old",
+        "athletic build",
+        "brown hair",
+        "tear-stained face",
+        "outdoor clothes"
+      ],
+      "roles": [
+        "brother"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MONSIEUR_WALDMAN",
+      "name": "M. Waldman",
+      "aliases": [],
+      "voice_attributes": [
+        "benevolent",
+        "melodious",
+        "clear"
+      ],
+      "visual_attributes": [
+        "short erect stature",
+        "benevolent face",
+        "grey temples",
+        "black hair at back",
+        "kind eyes"
+      ],
+      "roles": [
+        "professor",
+        "mentor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COURT_OFFICIAL",
+      "name": "Court Official",
+      "aliases": [],
+      "voice_attributes": [
+        "stern",
+        "official",
+        "impatient"
+      ],
+      "visual_attributes": [
+        "middle-aged man",
+        "stern face",
+        "official robes",
+        "wig"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CAROLINE_BEAUFORT",
+      "name": "Caroline Beaufort",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "loving",
+        "soft"
+      ],
+      "visual_attributes": [
+        "beautiful",
+        "benevolent expression",
+        "soft features",
+        "modest dress",
+        "hair pinned up"
+      ],
+      "roles": [
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/CAROLINE_BEAUFORT.png",
+      "voice_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/CAROLINE_BEAUFORT.mp3"
+    },
+    {
+      "identifier": "MONSIEUR_KREMPE",
+      "name": "M. Krempe",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "uncouth",
+        "deep"
+      ],
+      "visual_attributes": [
+        "squat figure",
+        "repulsive countenance",
+        "rusty black coat",
+        "unkempt hair"
+      ],
+      "roles": [
+        "professor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "european"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "M_KREMPE",
+      "name": "Monsieur Krempe",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "dismissive",
+        "condescending"
+      ],
+      "visual_attributes": [
+        "squat figure",
+        "uncouth face",
+        "bushy eyebrows",
+        "spectacles",
+        "academic robes"
+      ],
+      "roles": [
+        "professor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FELIX",
+      "name": "Felix",
+      "aliases": [],
+      "voice_attributes": [
+        "melancholy",
+        "gentle",
+        "youthful"
+      ],
+      "visual_attributes": [
+        "young man",
+        "sad expression",
+        "rustic clothes",
+        "dark hair"
+      ],
+      "roles": [
+        "cottager"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "WILLIAM_FRANKENSTEIN",
+      "name": "William",
+      "aliases": [],
+      "voice_attributes": [
+        "innocent",
+        "shrill",
+        "childish"
+      ],
+      "visual_attributes": [
+        "beautiful child",
+        "blond curls",
+        "fine clothes",
+        "blue eyes"
+      ],
+      "roles": [
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ILL_LOOKING_MAN",
+      "name": "Constable",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "authoritative",
+        "stern"
+      ],
+      "visual_attributes": [
+        "unpleasant face",
+        "dark eyes",
+        "sturdy build",
+        "worn coat"
+      ],
+      "roles": [
+        "constable"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "irish"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "PRISON_NURSE",
+      "name": "Nurse",
+      "aliases": [],
+      "voice_attributes": [
+        "indifferent",
+        "harsh",
+        "rough"
+      ],
+      "visual_attributes": [
+        "hard features",
+        "lined face",
+        "cold eyes",
+        "apron",
+        "worn dress"
+      ],
+      "roles": [
+        "nurse"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "irish"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "THE_LIEUTENANT",
+      "name": "The Lieutenant",
+      "aliases": [],
+      "voice_attributes": [
+        "ambitious",
+        "english",
+        "respectful"
+      ],
+      "visual_attributes": [
+        "young",
+        "determined face",
+        "windblown hair",
+        "naval uniform"
+      ],
+      "roles": [
+        "sailor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/THE_LIEUTENANT.png",
+      "voice_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/THE_LIEUTENANT.mp3"
+    },
+    {
+      "identifier": "IRISH_MAN",
+      "name": "Local Man",
+      "aliases": [],
+      "voice_attributes": [
+        "hoarse",
+        "suspicious",
+        "rough"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "narrow eyes",
+        "rough clothes",
+        "fisherman's cap"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "irish"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "THE_MASTER",
+      "name": "The Master",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "firm",
+        "deep"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "gentle eyes",
+        "thick beard",
+        "sailor's garb"
+      ],
+      "roles": [
+        "sailor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/THE_MASTER.png",
+      "voice_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/characters/THE_MASTER.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_ST_PETERSBURGH_LODGING",
+      "ordinal": 0,
+      "location_header": "INT. ST. PETERSBURGH LODGING - DAY",
+      "visual_description": "A modest 18th-century writer's lodging in St. Petersburgh. Cold northern light filters through a frosted windowpane. A wooden desk is piled with maps and parchment. A single candle burns low. The room is sparse but warm, with heavy fur rugs and a crackling ceramic stove. Muted winter blues and warm firelight.",
+      "metadata": {},
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_ST_PETERSBURGH_LODGING.jpg"
+    },
+    {
+      "identifier": "SCENE_ARCHANGEL_LODGING",
+      "ordinal": 0,
+      "location_header": "INT. ARCHANGEL LODGING - DAY",
+      "visual_description": "A rustic timber-walled room in Archangel. Through the small window, a view of a frozen harbor and tall sailing ships masts against a grey sky. The room is cluttered with navigational instruments, ropes, and thick furs. A heavy oak table sits in the center. Cool, stark northern light.",
+      "metadata": {},
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_ARCHANGEL_LODGING.jpg"
+    },
+    {
+      "identifier": "SCENE_SHIP_AT_SEA",
+      "ordinal": 0,
+      "location_header": "EXT. SHIP DECK - DAY",
+      "visual_description": "The deck of an 18th-century sailing ship surrounded by open ocean and drifting ice floes. The sun is bright but low on the horizon, casting long shadows. Ropes and rigging creak in the wind. The sea is a mix of deep indigo and blinding white ice. Fresh, cold atmosphere.",
+      "metadata": {},
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_SHIP_AT_SEA.jpg"
+    },
+    {
+      "identifier": "SCENE_ARCTIC_SHIP_DECK",
+      "ordinal": 0,
+      "location_header": "EXT. SHIP DECK - ICE FIELD - DAY",
+      "visual_description": "The wooden deck of a sailing ship trapped in a vast, endless field of jagged ice. Thick fog swirls around the rigging, then clears to reveal a blinding white wasteland under a pale sun. The atmosphere is desolate, freezing, and silent. Cold blues, greys, and stark whites.",
+      "metadata": {},
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_ARCTIC_SHIP_DECK.jpg"
+    },
+    {
+      "identifier": "SCENE_SHIP_CABIN",
+      "ordinal": 0,
+      "location_header": "INT. SHIP CABIN - NIGHT",
+      "visual_description": "A small, wooden captain's cabin on a ship trapped in ice. A lantern swings from the low ceiling, casting shifting shadows. A narrow bunk with fur blankets sits against one wall. Maps and journals are scattered on a table. Warm yellow light contrasts with the cold blue light coming from the porthole. Intimate and enclosed.",
+      "metadata": {},
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_SHIP_CABIN.jpg"
+    },
+    {
+      "identifier": "SCENE_BELRIVE_ESTATE",
+      "ordinal": 0,
+      "location_header": "INT. BELRIVE LIBRARY - DAY",
+      "visual_description": "An 18th-century Swiss estate near Belrive. In the foreground, a library with tall shelves of leather-bound books. Through a glass door, a storm is brewing over the Jura mountains, dark clouds gathering over the lake. The lighting is dim, moody, and electric. Hints of scientific apparatus on a table.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INGOLSTADT_LODGING",
+      "ordinal": 0,
+      "location_header": "INT. INGOLSTADT APARTMENT - DAY",
+      "visual_description": "A solitary student's apartment in 18th-century Ingolstadt. Sparsely furnished with a desk, books, and a single window overlooking a high white steeple. The light is grey and solitary. A sense of scholarly isolation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VICTOR_WORKSHOP",
+      "ordinal": 0,
+      "location_header": "INT. VICTOR'S WORKSHOP - NIGHT",
+      "visual_description": "A small, claustrophobic attic chamber with a sloping roof. A single gallery window admits pale moonlight. The room is a chaotic workshop of creation, filled with anatomical charts, surgical tools, and strange chemical apparatus. The air is thick with obsession.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_COTTAGE_EXTERIOR",
+      "ordinal": 0,
+      "location_header": "EXT. COTTAGE - NIGHT",
+      "visual_description": "The exterior of a rustic cottage near a forest. A garden with vegetables. Night, lit by moonlight and eventually the fierce orange glow of a roaring fire. The atmosphere is chaotic and destructive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GENEVA_COURTROOM",
+      "ordinal": 0,
+      "location_header": "INT. GENEVA COURTROOM - DAY",
+      "visual_description": "A solemn 18th-century courtroom in Geneva. Dark wood paneling and high benches create an intimidating atmosphere. Spectators crowd the gallery. Light streams in from high windows, illuminating the dust motes and the pale face of the accused. The mood is tense and judgmental.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VICTOR_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. VICTOR'S APARTMENT - DAY",
+      "visual_description": "Victor's main living quarters in Ingolstadt. A comfortable student's room with a breakfast table and a fireplace. Sunlight filters through the windows, illuminating books and papers. The mood shifts from peaceful to tragic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHAMOUNIX_VALLEY",
+      "ordinal": 0,
+      "location_header": "EXT. CHAMOUNIX VALLEY - DAY",
+      "visual_description": "The Valley of Chamounix by day. The Arveiron river rushes from a glacier mouth at the base of the mountains. Vast rocky precipices rise abruptly. Shattered pine trees lie scattered near the ice. The atmosphere is solemn, grand, and silent, dominated by the imperial scale of nature.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MER_DE_GLACE",
+      "ordinal": 0,
+      "location_header": "EXT. MER DE GLACE - DAY",
+      "visual_description": "The Sea of Ice on Montanvert. A vast, uneven field of ice stretches out like frozen waves. Deep rifts and crevices cut through the surface. To the distance, the bare rock of the opposite mountain rises perpendicularly. Above all, the glittering peaks of Mont Blanc shine in sunlight above the clouds. Sublime and terrifying.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INGOLSTADT_FOREST",
+      "ordinal": 0,
+      "location_header": "EXT. FOREST - NIGHT",
+      "visual_description": "A dense forest near Ingolstadt at night. A large bright moon shines through the canopy of leaves. A small brook glimmers in the moonlight. In a clearing, a small abandoned fire of glowing embers sends up faint smoke. The atmosphere is primal and mysterious.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_HOVEL_INTERIOR",
+      "ordinal": 0,
+      "location_header": "INT. HOVEL - DAY",
+      "visual_description": "The interior of the creature's secret hovel in winter. Dark wood walls with chinks of light. Through one chink, the warm, fire-lit interior of the De Lacey cottage is visible, with the old man and his children moving about. The hovel floor is covered in clean straw. Atmosphere of secrecy and longing.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LONDON_CITY",
+      "ordinal": 0,
+      "location_header": "EXT. LONDON STREETS - DAY",
+      "visual_description": "The bustling streets of 19th-century London. The dome of St. Paul's Cathedral towers in the distance. The Tower of London is visible. Crowded, historic, and overwhelming atmosphere with narrow cobblestone streets.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ORKNEY_HUT",
+      "ordinal": 0,
+      "location_header": "INT. ORKNEY HUT - NIGHT",
+      "visual_description": "A miserable, thatched hut on a desolate island in the Orkneys. The walls are unplastered, the door rough. Inside, it is squalid and sparse with basic chemical apparatus setup on a table. Outside, the roar of the ocean against barren rocks. Bleak, grey, and isolated.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_KIRWIN_OFFICE",
+      "ordinal": 0,
+      "location_header": "INT. MAGISTRATE OFFICE - DAY",
+      "visual_description": "A magistrate's room in an Irish town. Simple but respectable Georgian furniture. A desk, papers, chairs. Serious, judicial atmosphere with a crowd of witnesses present.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PARIS_LODGING",
+      "ordinal": 0,
+      "location_header": "INT. PARIS APARTMENT - DAY",
+      "visual_description": "An elegant 18th-century Parisian apartment. High ceilings with intricate molding, tall windows draped in heavy velvet overlooking a street. Furnished with Louis XVI chairs and a writing desk. Soft, diffuse daylight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_EVIAN_INN",
+      "ordinal": 0,
+      "location_header": "INT. EVIAN INN - NIGHT",
+      "visual_description": "A rustic inn room in Evian. Night. A large window overlooks Lake Geneva and the mountains. A four-poster bed sits in shadows, and simple wooden furniture is arranged near a cold fireplace. Shadows are deep, lit by a flickering candle and lightning flashes outside. Gloomy and ominous.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_FOREST_POOL",
+      "ordinal": 1,
+      "location_header": "EXT. WOODS - DAY",
+      "visual_description": "A small, clear pool of water in the woods near the cottage. The trees are bare in late winter. The surface of the water acts as a mirror, reflecting the sky and the creature's face. Cold, still atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MOUNTAIN_RESTING_PLACE",
+      "ordinal": 1,
+      "location_header": "EXT. MOUNTAIN SLOPE - NIGHT",
+      "visual_description": "A resting place halfway down the mountain slope at night. A clear fountain bubbles near a group of dark pines. Broken trees lie scattered on the ground from past avalanches. Above, the stars shine intermittently through passing clouds. The atmosphere is solemn, wild, and shadowed.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_ORKNEY_COAST",
+      "ordinal": 1,
+      "location_header": "EXT. ORKNEY COAST - EVENING",
+      "visual_description": "The rocky coast of a desolate Orkney island at sunset. A vast expanse of ocean stretches to the horizon. A few fishing boats are visible in the distance. The shoreline is rugged and barren, covered in coarse grass. Solitary and melancholic atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_KREMPE_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. PROFESSOR KREMPE'S STUDY - DAY",
+      "visual_description": "A cluttered academic study piled high with dusty books and scrolls. Scientific instruments of an older era are scattered about. The room feels cramped and oppressive, lit by a single dusty window. Dark wood tones and shadows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GENEVA_HOME",
+      "ordinal": 1,
+      "location_header": "INT. FRANKENSTEIN ESTATE - DAY",
+      "visual_description": "A comfortable 18th-century Genevese estate interior. Large windows overlook a lake and mountains in the distance. The room is furnished with elegant period furniture, velvet chairs, and oil paintings. Soft, warm daylight fills the space. A sense of peace and history.",
+      "metadata": {},
+      "image_key": "publications/9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d/scenes/scene_SCENE_GENEVA_HOME.jpg"
+    },
+    {
+      "identifier": "SCENE_OXFORD_STREETS",
+      "ordinal": 1,
+      "location_header": "EXT. OXFORD UNIVERSITY - DAY",
+      "visual_description": "The historic streets of Oxford. Ancient colleges with magnificent architecture, towers, spires, and domes rise above aged trees. The river Isis flows nearby through green meadows. The atmosphere is academic, historic, and grand.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LAKE_GENEVA_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. LAKE GENEVA - NIGHT",
+      "visual_description": "The middle of Lake Geneva at night. Dark, glassy water stretches in all directions, reflecting the stars. The silhouette of a small wooden boat is visible in the foreground. The Alps loom as massive black shapes against the night sky. Cold, silent, and solitary atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_DE_LACEY_COTTAGE_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. COTTAGE - DAY",
+      "visual_description": "A rustic cottage interior with a fireplace. Simple wooden furniture. A guitar rests in the corner. Warm firelight contrasts with the poverty but also the neatness of the room.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VICTOR_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. VICTOR'S BEDROOM - NIGHT",
+      "visual_description": "A darkened bedroom in 18th-century Ingolstadt. A large four-poster bed with heavy curtains sits in the corner. Moonlight forces its way through shuttered windows, casting yellow beams across the floor. The atmosphere is terrifying and claustrophobic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MONTANVERT_ASCENT",
+      "ordinal": 1,
+      "location_header": "EXT. MOUNTAIN PATH - RAIN",
+      "visual_description": "A steep, precipitous mountain path winding up Montanvert. Rain pours down from a dark sky, and thick mist curls around the pine trees. Broken trees and rocks litter the slope from past avalanches. The scene is desolate, severe, and dangerously rugged.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PRISON_CELL",
+      "ordinal": 1,
+      "location_header": "INT. PRISON CELL - DAY",
+      "visual_description": "A gloomy stone prison cell. Damp walls and a floor covered in straw. A single barred window lets in a grey beam of light. Heavy iron manacles are visible. The atmosphere is cold, hopeless, and oppressive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHARNEL_HOUSE",
+      "ordinal": 1,
+      "location_header": "INT. CHARNEL HOUSE - NIGHT",
+      "visual_description": "A grim and dimly lit charnel house, damp and smelling of earth. Stacks of bones and decayed remnants line the stone walls. The atmosphere is morbid, cold, and silent, lit only by a flickering lantern held low. Shadows dance across the macabre surroundings.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INN_ROOM_CORPSE",
+      "ordinal": 1,
+      "location_header": "INT. INN ROOM - DAY",
+      "visual_description": "A dim room in an inn. A wooden coffin rests on a table. Shadows, silence. A sense of death and tragedy. A single candle or window lights the scene.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SHEPHERD_HUT",
+      "ordinal": 1,
+      "location_header": "INT. SHEPHERD HUT - DAY",
+      "visual_description": "A rustic shepherd's hut on a rising ground in winter. The landscape is covered in snow. The interior is small and basic, with a fire burning. Simple food—bread, cheese, milk—sits on a table. Sunlight reflects brightly off the snow outside.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_PLAINPALAIS",
+      "ordinal": 1,
+      "location_header": "EXT. PLAINPALAIS - NIGHT",
+      "visual_description": "A hillside near Geneva at night, overlooking a vast dark plain. A violent storm rages. Lightning flashes illuminate the distinct peaks of Mont Blanc and the Jura mountains. The lake below appears like a sheet of fire. A clump of trees provides meager shelter.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WOODLANDS_SPRING",
+      "ordinal": 1,
+      "location_header": "EXT. WOODS - DAY",
+      "visual_description": "A dense forest with a rushing river. Sunlight filtering through fresh spring leaves. Wild, natural, and secluded. The river is deep and rapid. A sense of renewed life contrasting with isolation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INGOLSTADT_COUNTRYSIDE",
+      "ordinal": 2,
+      "location_header": "EXT. INGOLSTADT COUNTRYSIDE - DAY",
+      "visual_description": "A picturesque path winding through the green environs of Ingolstadt in late spring. Verdant fields stretch out under a serene blue sky. Flowers bloom in the hedges. The atmosphere is bright, idyllic, and full of life.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_IRISH_SEA_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. IRISH SEA - NIGHT",
+      "visual_description": "The open sea at night, viewed from a small wooden skiff. Dark, heaving waves reflect the light of a moon that appears and disappears behind thick clouds. The atmosphere is terrifyingly solitary, cold, and vast. Deep blues and blacks dominate.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LAKE_GENEVA_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. LAKE GENEVA - DAY",
+      "visual_description": "A small wooden boat floating on Lake Geneva during the day. The water ripples gently, reflecting the bright sun and clouds. In the distance, the shores are lined with greenery and the Alps rise majestically. The atmosphere is solitary, silent, and contemplative.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_VILLAGE_OUTSKIRTS",
+      "ordinal": 2,
+      "location_header": "EXT. VILLAGE STREET - DAY",
+      "visual_description": "A cobblestone village street near fields. Neat cottages with vegetable gardens and windows displaying food. The architecture is 18th-century German. People are fleeing in panic. Stones lie on the ground. The mood is chaotic and hostile.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_IRISH_PRISON",
+      "ordinal": 2,
+      "location_header": "INT. PRISON CELL - DAY",
+      "visual_description": "A squalid 18th-century prison cell. Barred windows, stone walls, a wretched bed. Gloomy, dirty, and oppressive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_RHINE_BOAT",
+      "ordinal": 2,
+      "location_header": "EXT. RHINE RIVER BOAT - DAY",
+      "visual_description": "The deck of a river boat gliding down the Rhine. Steep vineyards and rugged hills with ruined castles line the banks. The water reflects a cloudless blue sky. It is the vintage season, with green sloping banks and distant villages. Bright and picturesque.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CUMBERLAND_LAKES",
+      "ordinal": 2,
+      "location_header": "EXT. CUMBERLAND LAKES - DAY",
+      "visual_description": "The Lake District in Cumberland. High mountains with patches of lingering snow overlook dark, reflective lakes. Rocky streams dash down the slopes. The landscape resembles Switzerland but on a smaller scale. Green, fresh, and slightly wild.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GENEVA_MAGISTRATE",
+      "ordinal": 2,
+      "location_header": "INT. MAGISTRATE OFFICE - DAY",
+      "visual_description": "A magistrate's office in Geneva. Severe and orderly. Dark wood paneling covers the walls, a high desk stands for the official, and a lower chair for the petitioner. Dust motes dance in a shaft of light from a high window. Stern, bureaucratic atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INGOLSTADT_COURTYARD",
+      "ordinal": 2,
+      "location_header": "EXT. COURTYARD - NIGHT",
+      "visual_description": "A rain-slicked stone courtyard enclosed by high walls. The architecture is heavy and gothic. Shadows stretch long in the gloom of a wet night. The space feels trapped and ominous.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_GENEVA_OUTSKIRTS",
+      "ordinal": 2,
+      "location_header": "EXT. FIELDS - EVENING",
+      "visual_description": "Fields outside Geneva at dusk. The silhouette of the Jura mountains in distance. Tall grass. Soft evening light fading to shadow. A solitary barn stands nearby.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_LONDON_ARRIVAL",
+      "ordinal": 3,
+      "location_header": "EXT. RIVER THAMES - DAY",
+      "visual_description": "The banks of the River Thames near London. Flat, fertile land stretches out under a grey winter sky. The white cliffs are a distant memory. The river is busy with ships. In the distance, the numerous steeples of London, including the massive dome of St. Paul's, rise above the smoke and fog.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_IRISH_HARBOUR",
+      "ordinal": 3,
+      "location_header": "EXT. IRISH HARBOUR - DAY",
+      "visual_description": "A small, neat Irish harbour town in the late 18th century. Stone buildings cluster near the waterfront. A church steeple rises behind a promontory. A crowd of locals in rustic clothes gathers on the cobblestones. The mood is suspicious and hostile.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_SCOTTISH_HIGHLANDS_PERTH",
+      "ordinal": 3,
+      "location_header": "EXT. PERTH COUNTRYSIDE - DAY",
+      "visual_description": "The rugged landscapes near Perth, Scotland. The banks of the river Tay winding through the countryside. Distant mountains and heath. The atmosphere is grey and northern.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WALDMAN_LECTURE_HALL",
+      "ordinal": 3,
+      "location_header": "INT. LECTURE HALL - DAY",
+      "visual_description": "A university lecture hall with tiered wooden seating. A demonstration table stands at the front, laden with chemical apparatus. The room is airy and orderly, filled with respectful silence and the light of learning.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_MOUNTAIN_HUT",
+      "ordinal": 3,
+      "location_header": "INT. MOUNTAIN HUT - DAY",
+      "visual_description": "A rough, small mountain hut on the rock opposite the glacier. A small fire burns in the center, casting flickering light on stone walls. The air is cold and damp. The door stands open to the grey rainy sky outside. Atmosphere is tense and claustrophobic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_CHAMOUNIX_LODGING",
+      "ordinal": 3,
+      "location_header": "INT. CHAMOUNIX INN - NIGHT",
+      "visual_description": "A rustic inn room in Chamounix. Simple wooden furniture and a small bed. A window looks out upon the massive, snow-capped dome of Mont Blanc. Pallid flashes of lightning illuminate the mountain in the twilight. The mood is weary and somber.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INGOLSTADT_STREETS",
+      "ordinal": 3,
+      "location_header": "EXT. INGOLSTADT STREETS - MORNING",
+      "visual_description": "Narrow cobblestone streets of Ingolstadt under a grey, weeping sky. The church steeple looms white in the distance. The streets are empty and slick with rain, reflecting the bleak morning light. A sense of paranoia and flight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_IRISH_SEA_FERRY",
+      "ordinal": 3,
+      "location_header": "EXT. SHIP DECK - NIGHT",
+      "visual_description": "The deck of a sailing vessel at night. Rigging and masts against a starry sky. The dark Irish coast recedes in the distance. The mood is melancholy and transitional.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_WALDMAN_LAB",
+      "ordinal": 4,
+      "location_header": "INT. WALDMAN'S LABORATORY - DAY",
+      "visual_description": "A modern 18th-century chemical laboratory. Shelves are lined with glass retorts, crucibles, and pristine instruments. The space is organized and bright, smelling of chemicals and possibility. Strange machines sit on workbenches.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_KIRWIN_HOUSE",
+      "ordinal": 4,
+      "location_header": "INT. KIRWIN HOUSE - DAY",
+      "visual_description": "The hallway of a respectable Georgian house in an Irish town. Polished wood floors, simple but quality furniture. A sense of order and authority contrasting with the chaos of the street. Natural light filters through a fanlight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_INGOLSTADT_INN",
+      "ordinal": 4,
+      "location_header": "EXT. COACHING INN - MORNING",
+      "visual_description": "The exterior of a coaching inn. A Swiss diligence carriage stands ready, horses breathing steam in the damp air. The scene is bustling but overlaid with the protagonist's anxiety. Grey morning light.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Science fiction",
+    "Horror tales",
+    "Gothic fiction",
+    "Scientists -- Fiction",
+    "Monsters -- Fiction",
+    "Frankenstein, Victor (Fictitious character) -- Fiction",
+    "Frankenstein's monster (Fictitious character) -- Fiction"
+  ]
+}
