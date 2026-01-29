@@ -1,0 +1,1544 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "The Blue Castle: a novel",
+  "author_names": "L. M. Montgomery",
+  "description": "Publication imported from https://gutenberg.org/ebooks/67979.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/67979.epub3.images",
+  "identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
+  "publication_type": "novel",
+  "cover_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/cover.png",
+  "total_duration_s": 2070.240907,
+  "genre_tags": [
+    "Classics",
+    "Romance",
+    "Women's Fiction",
+    "Family Drama",
+    "Humor"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2070.240907
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 5.718,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I",
+      "start_s": 5.718,
+      "end_s": 1095.246,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT. VALANCYS_BEDROOM - MORNING",
+            "location_header": "INT. VALANCYS_BEDROOM - MORNING",
+            "visual_description": "A dismal, ugly bedroom in a Victorian house. A yellow-painted floor with a grotesque hooked rug. Faded dark-red wallpaper and a discolored ceiling with cracks. A narrow washstand, a spotted mirror, and a stiff yellow chair. Grey rainy morning light filters through a window with a brown-paper lambrequin. The atmosphere is sordid, hopeless, and cold."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II",
+      "start_s": 1095.246,
+      "end_s": 1351.999,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT. VALANCYS_BEDROOM - MORNING",
+            "location_header": "INT. VALANCYS_BEDROOM - MORNING",
+            "visual_description": "A dismal, ugly bedroom in a Victorian house. A yellow-painted floor with a grotesque hooked rug. Faded dark-red wallpaper and a discolored ceiling with cracks. A narrow washstand, a spotted mirror, and a stiff yellow chair. Grey rainy morning light filters through a window with a brown-paper lambrequin. The atmosphere is sordid, hopeless, and cold."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III",
+      "start_s": 1351.999,
+      "end_s": 1841.184,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT. STIRLING_HOUSE_DOWNSTAIRS - DAY",
+            "location_header": "INT. STIRLING HOUSE - DAY",
+            "visual_description": "The dining room is chilly and gloomy, lit only by grey light from the rainy window. Gilt-framed ancestors glower from the walls. The table is set with rigid precision: oatmeal, toast, tea, and marmalade. Later, a sitting room with stiff furniture and quilts stored in corners, filled with the silence of enforced industry."
+          },
+          {
+            "identifier": "INT. DEERWOOD_LIBRARY - FLASHBACK",
+            "location_header": "INT. LIBRARY - FLASHBACK",
+            "visual_description": "A quiet, provincial library with wooden shelves and a librarian's desk. Dust motes dance in the light. The atmosphere is hushed and slightly patronizing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV",
+      "start_s": 1841.184,
+      "end_s": 2070.241,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT. DEERWOOD_STREETS - DAY",
+            "location_header": "EXT. DEERWOOD STREETS - DAY",
+            "visual_description": "A small town street wet with recent rain. Puddles reflect the grey sky. Ugly red brick houses line the street, including one box-like house with a glass cupola. Nearby stands a pretty new cottage with leaded casements, looking fresh and inviting in the damp air."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 576,
+      "image_key": null,
+      "voice_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "VALANCY_STIRLING",
+      "name": "Valancy Stirling",
+      "aliases": [
+        "Doss",
+        "Valancy Jane",
+        "Moonlight"
+      ],
+      "voice_attributes": [
+        "quiet",
+        "repressed",
+        "wistful",
+        "timid",
+        "internally sarcastic",
+        "resigned",
+        "bitter",
+        "envious",
+        "emboldened",
+        "reflective",
+        "humiliated",
+        "provocative",
+        "bright",
+        "confident",
+        "joyful",
+        "dreamy",
+        "content",
+        "soft",
+        "playful",
+        "outdoorsy",
+        "poetic",
+        "happy",
+        "relieved",
+        "enthusiastic",
+        "defiant",
+        "observant",
+        "surprised",
+        "modest",
+        "introspective",
+        "passionate",
+        "weary"
+      ],
+      "visual_attributes": [
+        "small pale face",
+        "slanted dark eyes",
+        "straight black hair",
+        "thin figure",
+        "small white face",
+        "pointed chin",
+        "dark brown slanted eyes",
+        "flat-chested",
+        "shabby raincoat",
+        "old hat",
+        "dark eyes",
+        "brown silk dress",
+        "green crêpe dress",
+        "crimson bead girdle",
+        "green crinkled hat",
+        "crimson rose",
+        "clover necklace",
+        "Barney's coat",
+        "shingled black hair",
+        "creamy complexion",
+        "slanted eyes",
+        "fuller figure",
+        "smoke-blue chiffon dress",
+        "pale green bathing suit",
+        "winter clothes",
+        "white tam",
+        "nightgown",
+        "day clothes",
+        "scarlet-collared blanket coat",
+        "pale green sweater",
+        "fillet of linnaea vine",
+        "bare black head",
+        "ugly gingham dress",
+        "haggard"
+      ],
+      "roles": [
+        "protagonist",
+        "spinster"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 342,
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/VALANCY_STIRLING.png",
+      "voice_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/VALANCY_STIRLING.mp3"
+    },
+    {
+      "identifier": "BARNEY_SNAITH",
+      "name": "Barney Snaith",
+      "aliases": [
+        "Bernard Redfern",
+        "John Foster"
+      ],
+      "voice_attributes": [
+        "calm",
+        "cool",
+        "deep",
+        "warm",
+        "philosophical",
+        "cynical",
+        "admiring",
+        "playful",
+        "knowledgeable",
+        "grumpy",
+        "mocking",
+        "jovial",
+        "concerned",
+        "teasing",
+        "driving",
+        "amused",
+        "persuasive",
+        "tender",
+        "silk-smooth"
+      ],
+      "visual_attributes": [
+        "tawny hair",
+        "dark brown eyes",
+        "sticking out ears",
+        "greasy overalls",
+        "cheerful grin",
+        "unshaved",
+        "bristly chin",
+        "blue homespun shirt",
+        "old trousers",
+        "bareheaded",
+        "tobacco-scented coat",
+        "shaved face",
+        "casual clothes",
+        "dark eyes",
+        "pipe",
+        "woodsman clothes",
+        "winter clothes",
+        "snowshoes",
+        "clean-shaven",
+        "decent clothes"
+      ],
+      "roles": [
+        "outlaw",
+        "love_interest",
+        "rescuer",
+        "heir"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 144,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MRS_FREDERICK_STIRLING",
+      "name": "Mrs. Frederick",
+      "aliases": [
+        "Mother"
+      ],
+      "voice_attributes": [
+        "dictatorial",
+        "harsh",
+        "prim",
+        "cold",
+        "sulky",
+        "bitter",
+        "rebuking",
+        "tender"
+      ],
+      "visual_attributes": [
+        "hooked nose",
+        "thick glasses",
+        "grim expression"
+      ],
+      "roles": [
+        "mother",
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 81,
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/MRS_FREDERICK_STIRLING.png",
+      "voice_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/MRS_FREDERICK_STIRLING.mp3"
+    },
+    {
+      "identifier": "UNCLE_BENJAMIN",
+      "name": "Uncle Benjamin",
+      "aliases": [],
+      "voice_attributes": [
+        "wheezy",
+        "chuckling",
+        "leering",
+        "indignant"
+      ],
+      "visual_attributes": [
+        "fat face",
+        "grocer's apron"
+      ],
+      "roles": [
+        "uncle",
+        "grocer"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 73,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COUSIN_STICKLES",
+      "name": "Cousin Stickles",
+      "aliases": [
+        "Christine"
+      ],
+      "voice_attributes": [
+        "whiny",
+        "complaining",
+        "nasal"
+      ],
+      "visual_attributes": [
+        "broad flat wrinkled face",
+        "mole on nose",
+        "chin hairs",
+        "yellow neck",
+        "protruding eyes",
+        "wrinkled face"
+      ],
+      "roles": [
+        "relative",
+        "nuisance"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 36,
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/COUSIN_STICKLES.png",
+      "voice_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/characters/COUSIN_STICKLES.mp3"
+    },
+    {
+      "identifier": "ROARING_ABEL_GAY",
+      "name": "Roaring Abel",
+      "aliases": [
+        "Abel Gay"
+      ],
+      "voice_attributes": [
+        "booming",
+        "raspy",
+        "jovial"
+      ],
+      "visual_attributes": [
+        "white hair",
+        "red beard",
+        "bushy eyebrows",
+        "blue eyes",
+        "flannel shirt",
+        "tartan cap"
+      ],
+      "roles": [
+        "carpenter",
+        "drunkard",
+        "fiddler"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 29,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COUSIN_GEORGIANA",
+      "name": "Cousin Georgiana",
+      "aliases": [
+        "Georgiana"
+      ],
+      "voice_attributes": [
+        "mournful",
+        "doleful"
+      ],
+      "visual_attributes": [
+        "drooping features",
+        "black dress",
+        "long face"
+      ],
+      "roles": [
+        "cousin"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 28,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DR_REDFERN",
+      "name": "Dr. Redfern",
+      "aliases": [],
+      "voice_attributes": [
+        "hearty",
+        "unmodulated",
+        "loud",
+        "fatherly"
+      ],
+      "visual_attributes": [
+        "stout",
+        "short",
+        "pudgy",
+        "rubicund face",
+        "clean-shaven",
+        "steel-rimmed spectacles",
+        "prominent blue eyes",
+        "pursey mouth",
+        "knobby nose",
+        "bald",
+        "green hat",
+        "light fawn overcoat",
+        "loud check suit",
+        "brilliant green tie",
+        "diamond ring"
+      ],
+      "roles": [
+        "father",
+        "millionaire"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 26,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UNCLE_JAMES",
+      "name": "Uncle James",
+      "aliases": [
+        "James Stirling"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "booming"
+      ],
+      "visual_attributes": [
+        "thick eyebrows",
+        "portly",
+        "sideburns"
+      ],
+      "roles": [
+        "uncle",
+        "patriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 26,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "CECILIA_GAY",
+      "name": "Cissy",
+      "aliases": [
+        "Cissy Gay",
+        "Sis"
+      ],
+      "voice_attributes": [
+        "weak",
+        "breathless",
+        "soft"
+      ],
+      "visual_attributes": [
+        "hollow cheeks",
+        "large blue eyes",
+        "golden hair",
+        "wasted figure"
+      ],
+      "roles": [
+        "invalid"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 20,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "OLIVE_STIRLING",
+      "name": "Olive Stirling",
+      "aliases": [],
+      "voice_attributes": [
+        "polished",
+        "confident",
+        "outraged"
+      ],
+      "visual_attributes": [
+        "golden-brown hair",
+        "blue eyes",
+        "pearls"
+      ],
+      "roles": [
+        "cousin",
+        "rival"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 19,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "REV_DR_STALLING",
+      "name": "Dr. Stalling",
+      "aliases": [],
+      "voice_attributes": [
+        "stern",
+        "booming",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "blue glasses",
+        "long knuckly finger"
+      ],
+      "roles": [
+        "clergyman"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 12,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DR_TRENT",
+      "name": "Dr. Trent",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "abrupt",
+        "distracted"
+      ],
+      "visual_attributes": [
+        "shaggy eyebrows",
+        "over seventy",
+        "disheveled"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 11,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "AUNT_WELLINGTON",
+      "name": "Aunt Wellington",
+      "aliases": [
+        "Mary",
+        "Aunt Mary"
+      ],
+      "voice_attributes": [
+        "querulous",
+        "haughty"
+      ],
+      "visual_attributes": [
+        "faded beauty",
+        "jewellery",
+        "high collar"
+      ],
+      "roles": [
+        "aunt"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UNCLE_WELLINGTON",
+      "name": "Uncle Wellington",
+      "aliases": [
+        "Wellington Stirling"
+      ],
+      "voice_attributes": [
+        "harsh",
+        "loud"
+      ],
+      "visual_attributes": [
+        "ugly forehead",
+        "whiskers",
+        "red face"
+      ],
+      "roles": [
+        "uncle"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 8,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UNCLE_HERBERT",
+      "name": "Uncle Herbert",
+      "aliases": [],
+      "voice_attributes": [
+        "jolly",
+        "brisk"
+      ],
+      "visual_attributes": [
+        "spiky grey hair"
+      ],
+      "roles": [
+        "uncle"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SECOND_COUSIN_SARAH_TAYLOR",
+      "name": "Sarah Taylor",
+      "aliases": [
+        "Sarah"
+      ],
+      "voice_attributes": [
+        "scandalized",
+        "prim"
+      ],
+      "visual_attributes": [
+        "plain face",
+        "spectacles"
+      ],
+      "roles": [
+        "cousin"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 5,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "VALANCY_YOUNG",
+      "name": "Valancy",
+      "aliases": [],
+      "voice_attributes": [
+        "childlike",
+        "distressed"
+      ],
+      "visual_attributes": [
+        "scrawny",
+        "thin",
+        "pale"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "COUSIN_GLADYS",
+      "name": "Cousin Gladys",
+      "aliases": [
+        "Gladys"
+      ],
+      "voice_attributes": [
+        "whiny",
+        "pained"
+      ],
+      "visual_attributes": [
+        "strained expression",
+        "hand to head"
+      ],
+      "roles": [
+        "cousin"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "AUNT_ALBERTA",
+      "name": "Aunt Alberta",
+      "aliases": [
+        "Alberta Stirling"
+      ],
+      "voice_attributes": [
+        "fussy",
+        "strained"
+      ],
+      "visual_attributes": [
+        "grey hair",
+        "expensive dress",
+        "pearls"
+      ],
+      "roles": [
+        "aunt",
+        "hostess"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "AUNT_ISABEL",
+      "name": "Aunt Isabel",
+      "aliases": [
+        "Isabel Stirling"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "resentful"
+      ],
+      "visual_attributes": [
+        "thin lips",
+        "severe",
+        "pale eyes"
+      ],
+      "roles": [
+        "aunt"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UP_BACK_LOCAL_1",
+      "name": "Local Man 1",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "rural"
+      ],
+      "visual_attributes": [
+        "unknown"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "OLDER_GIRL",
+      "name": "Older Girl",
+      "aliases": [],
+      "voice_attributes": [
+        "bossy",
+        "loud"
+      ],
+      "visual_attributes": [
+        "schoolgirl attire"
+      ],
+      "roles": [
+        "student"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "AUNT_MILDRED",
+      "name": "Aunt Mildred",
+      "aliases": [
+        "Mildred"
+      ],
+      "voice_attributes": [
+        "complacent",
+        "prosy"
+      ],
+      "visual_attributes": [
+        "plump face",
+        "curled hair"
+      ],
+      "roles": [
+        "aunt"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "REV_MR_BENTLY",
+      "name": "Mr. Bently",
+      "aliases": [
+        "Reverend Bently"
+      ],
+      "voice_attributes": [
+        "pious",
+        "formal"
+      ],
+      "visual_attributes": [
+        "clerical collar"
+      ],
+      "roles": [
+        "minister"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "UP_BACK_LOCAL_2",
+      "name": "Local Man 2",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "rural"
+      ],
+      "visual_attributes": [
+        "unknown"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MR_TOWERS",
+      "name": "Mr. Towers",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "solemn",
+        "ignorant"
+      ],
+      "visual_attributes": [
+        "old",
+        "shabby clothes"
+      ],
+      "roles": [
+        "minister"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MISS_CLARKSON",
+      "name": "Miss Clarkson",
+      "aliases": [],
+      "voice_attributes": [
+        "patronising",
+        "dismissive",
+        "patronizing"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "spectacles",
+        "sensible dress",
+        "librarian attire",
+        "glasses"
+      ],
+      "roles": [
+        "librarian"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "AGGRESSIVE_DANCER",
+      "name": "Dancer",
+      "aliases": [],
+      "voice_attributes": [
+        "drunk",
+        "aggressive",
+        "slurred"
+      ],
+      "visual_attributes": [
+        "tall",
+        "broad-shouldered"
+      ],
+      "roles": [
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MRS_PATTERSON",
+      "name": "Mrs. Patterson",
+      "aliases": [],
+      "voice_attributes": [
+        "sympathetic"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "canadian"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "INT. BLUE_CASTLE_LIVING_ROOM - NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. BLUE CASTLE - LIVING ROOM - NIGHT",
+      "visual_description": "The living room of the Blue Castle in winter. A roaring fire in the stone fireplace. Roaring Abel sits with his fiddle. Checkers on the table. The smell of apples and woodsmoke.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. CISSYS_ROOM - EVENING",
+      "ordinal": 0,
+      "location_header": "INT. CISSYS ROOM - EVENING",
+      "visual_description": "A small, neat bedroom warmly lit by evening light. A window is open to the summer night, revealing a gibbous moon hanging over wooded hills in spectral light. Inside, a horsehair sofa and a simple bed. The atmosphere is intimate, fragile, and shadowed by mortality.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. AUNT_ALBERTAS_DINING_ROOM - NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. AUNT ALBERTAS DINING ROOM - NIGHT",
+      "visual_description": "A Victorian dining room lit by the blue and orange flame of gas logs in the fireplace. A long table set with silver and crystal. Heavy curtains, stiff furniture, and an atmosphere of oppressive formality. Warm but artificial light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_ROAD - NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. MISTAWIS ROAD - NIGHT",
+      "visual_description": "A quiet country road under the moonlight. The old car sits silent by the side of the road. Pine woods stretch away on either side, dark and mysterious. Silver clouds drift across the sky.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. DEERWOOD_ROADS - TWILIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. DEERWOOD ROADS - TWILIGHT",
+      "visual_description": "A dusty country road winding through a small town at twilight. The sky is a clear lemon hue, with stars beginning to twinkle. Houses with verandahs sit back from the road. An old grey car kicks up dust as it speeds past. The atmosphere is kinetic and scandalously public.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "INT. LADY_JANE - NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. LADY JANE - NIGHT",
+      "visual_description": "The interior of an old, noisy car at night. The dashboard is dim. Outside, the dark shapes of trees and the lights of the town flash by. The engine roars and rattles. The atmosphere is intimate despite the noise.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. DR_TRENTS_OFFICE - DAY",
+      "ordinal": 0,
+      "location_header": "INT. DR. TRENTS OFFICE - DAY",
+      "visual_description": "A cluttered country doctor's office. A desk piled with papers, medical instruments, and books. A telephone on the desk. The room feels practical and slightly masculine.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. BLUE_CASTLE_VERANDAH - EVENING",
+      "ordinal": 0,
+      "location_header": "EXT. BLUE CASTLE - VERANDAH - EVENING",
+      "visual_description": "A wooden verandah attached to a log cabin, overhanging a large lake. A simple table is set for supper with mismatched dishes. The sun is setting, painting the water in imperial colors. Pine trees frame the view, and wind sighs through the branches.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. DEERWOOD_ROADS - DAY",
+      "ordinal": 0,
+      "location_header": "EXT. DEERWOOD ROADS - DAY",
+      "visual_description": "A dusty country road lined with houses, leading into Deerwood. Curious faces peer from windows. The sun is bright and the day is warm. It feels public and exposed.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. STIRLING_PARLOUR - DAY",
+      "ordinal": 0,
+      "location_header": "INT. STIRLING PARLOUR - DAY",
+      "visual_description": "A rigid, formal parlour in a brick Victorian house. Horsehair sofas and stiff chairs are arranged precisely. Pictures include a steel engraving and a crayon enlargement. Blue and gilt vases adorn the mantelpiece. The room feels judgmental and airless, now filled with the tension of a confrontation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. ROARING_ABELS_KITCHEN - DAY",
+      "ordinal": 0,
+      "location_header": "INT. ROARING ABELS KITCHEN - DAY",
+      "visual_description": "A large, untidy farmhouse kitchen lit by bright daylight. Unpainted wood walls darkened by time and smoke. A wood stove with a simmering pot, a cluttered table with mismatched chairs, and a general air of lived-in disorder. The smell of cooking and woodsmoke hangs in the air.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_SHORE_MAINLAND - DUSK",
+      "ordinal": 0,
+      "location_header": "EXT. MAINLAND SHORE - DUSK",
+      "visual_description": "A shoreline with tall pines in silhouette against a sunset sky of lilac and gold. A car parked nearby. View across water to a distant island. Twilight atmosphere with deepening shadows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. STIRLING_GARDEN - DAY",
+      "ordinal": 0,
+      "location_header": "EXT. STIRLING GARDEN - DAY",
+      "visual_description": "A Victorian front garden with a small, neat lawn and a wooden gate. A straggling, leafy rosebush grows beside the gate, its branches green but flowerless. A wooden verandah with peeling paint overlooks the garden. The atmosphere is grey and slightly oppressive, with flat, dull daylight.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. UNCLE_HERBERTS_DINING_ROOM - DAY",
+      "ordinal": 0,
+      "location_header": "INT. UNCLE HERBERTS DINING ROOM - DAY",
+      "visual_description": "A stuffy, over-furnished dining room in a prosperous Victorian house. A large mahogany table dominates, laden with silver dishes and crystal. Heavy velvet curtains block most of the daylight. Patterned wallpaper, an ornate sideboard, and stern family portraits on the walls. The air is thick and formal.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. OLIVE_STIRLINGS_ROOM - DAY",
+      "ordinal": 0,
+      "location_header": "INT. OLIVE'S BEDROOM - DAY",
+      "visual_description": "A young woman's bedroom in a brick Victorian house, slightly more modern and fashionable than the rest. A writing desk with stationery dominates the foreground. Afternoon light filters through lace curtains. Pale blues and creams, orderly and expensive.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. RAILROAD_STATION - EVENING",
+      "ordinal": 0,
+      "location_header": "EXT. RAILROAD STATION - EVENING",
+      "visual_description": "A small, deserted railroad station near the pine woods in late afternoon. A little wooden station-house sits beside the tracks which curve away into the trees. The sun hangs low, casting long shadows. A switch mechanism is visible on the tracks. The atmosphere is quiet but tense with the vibration of an approaching train.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. VALANCYS_BEDROOM - NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. VALANCYS BEDROOM - NIGHT",
+      "visual_description": "A small Victorian bedroom at night, enveloped in shadow. Moonlight may trace the edge of the window frame. The room feels oppressive yet private. A simple bed in the corner, a washstand, and the vague shapes of stiff furniture in the darkness. The atmosphere is solemn and introspective.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. VALANCYS_BEDROOM - MORNING",
+      "ordinal": 0,
+      "location_header": "INT. VALANCYS_BEDROOM - MORNING",
+      "visual_description": "A dismal, ugly bedroom in a Victorian house. A yellow-painted floor with a grotesque hooked rug. Faded dark-red wallpaper and a discolored ceiling with cracks. A narrow washstand, a spotted mirror, and a stiff yellow chair. Grey rainy morning light filters through a window with a brown-paper lambrequin. The atmosphere is sordid, hopeless, and cold.",
+      "metadata": {},
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/scenes/scene_INT._VALANCYS_BEDROOM_-_MORNING.jpg"
+    },
+    {
+      "identifier": "EXT. MISTAWIS_WOODS - SPRING_DAY",
+      "ordinal": 0,
+      "location_header": "EXT. MISTAWIS WOODS - SPRING DAY",
+      "visual_description": "Spring in the woods. Young wild plum trees in bloom, red mist on the maples, and dandelions growing in the grass. The air is soft and full of bird song.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. ELM_STREET - DAY",
+      "ordinal": 0,
+      "location_header": "EXT. ELM STREET - DAY",
+      "visual_description": "A respectable residential street lined with mature elm trees. Large, solid brick houses with manicured lawns and fences sit back from the road. The light is bright and clear. The porch of the brick house has a rosebush loaded with buds and a rubber plant beside the prim door.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. VALANCYS_BEDROOM_BLUE_CASTLE - NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. VALANCYS BEDROOM - NIGHT",
+      "visual_description": "A tiny bedroom with the bed placed directly against the window. Pine boughs brush against the glass outside. The room is dark, illuminated only by moonlight or starlight. The door to the living room is open, showing smouldering fire embers.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_WOODS - DAY",
+      "ordinal": 0,
+      "location_header": "EXT. MISTAWIS WOODS - DAY",
+      "visual_description": "A sunlit dell on the banks of Mistawis. White birches grow on one side, ranks of young spruces on the other. Long grasses at the roots of the birches are combed down by the winds. Patches of wild strawberries and blueberries dot the ground.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. STIRLING_HOUSE_DOWNSTAIRS - DAY",
+      "ordinal": 0,
+      "location_header": "INT. STIRLING HOUSE - DAY",
+      "visual_description": "The dining room is chilly and gloomy, lit only by grey light from the rainy window. Gilt-framed ancestors glower from the walls. The table is set with rigid precision: oatmeal, toast, tea, and marmalade. Later, a sitting room with stiff furniture and quilts stored in corners, filled with the silence of enforced industry.",
+      "metadata": {},
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/scenes/scene_INT._STIRLING_HOUSE_DOWNSTAIRS_-_DAY.jpg"
+    },
+    {
+      "identifier": "INT. ROARING_ABELS_KITCHEN - NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. ROARING ABELS KITCHEN - NIGHT",
+      "visual_description": "A large, untidy farmhouse kitchen. Unpainted wood walls darkened by time. A wood stove, a cluttered table, and a worn horsehair sofa in the corner where Cissy lies. Lit by a single kerosene lamp casting deep shadows. A sense of poverty and neglect.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. ROARING_ABELS_GARDEN - TWILIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. ROARING ABELS GARDEN - TWILIGHT",
+      "visual_description": "A ramshackle garden at twilight, overgrown with weeds and wildflowers. A crooked wooden gate hangs loosely. Beyond, the pine woods loom dark. An old, noisy car is parked at the gate, steam or smoke rising from it. The air is cool and smells of pine.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. DEERWOOD_STREETS - DAY",
+      "ordinal": 0,
+      "location_header": "EXT. DEERWOOD STREETS - DAY",
+      "visual_description": "A small town street wet with recent rain. Puddles reflect the grey sky. Ugly red brick houses line the street, including one box-like house with a glass cupola. Nearby stands a pretty new cottage with leaded casements, looking fresh and inviting in the damp air.",
+      "metadata": {},
+      "image_key": "publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/scenes/scene_EXT._DEERWOOD_STREETS_-_DAY.jpg"
+    },
+    {
+      "identifier": "INT. BENJAMINS_GROCERY - DAY",
+      "ordinal": 0,
+      "location_header": "INT. BENJAMINS GROCERY - DAY",
+      "visual_description": "A small-town grocery store interior. Shelves lined with tins and goods, a wooden counter, and barrels of staples. The smell of tea and ground coffee hangs in the air.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. STIRLING_SITTING_ROOM - DAY",
+      "ordinal": 1,
+      "location_header": "INT. STIRLING SITTING ROOM - DAY",
+      "visual_description": "A rigid, formal sitting room in the brick house. Horsehair sofas and stiff chairs are arranged precisely. Pictures include a steel engraving of Quatre Bras and a crayon enlargement of a man. A green cascade of Wandering Jew plant tumbles from a granite saucepan on a window stand. Blue and gilt vases adorn the mantelpiece flanking a china clock.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. CISSYS_ROOM - DAY",
+      "ordinal": 1,
+      "location_header": "INT. CISSYS ROOM - DAY",
+      "visual_description": "A small, humble bedroom on the ground floor. A horsehair sofa where Valancy sleeps, and a bed for the invalid. The room is spotlessly clean and neat, contrasting with the rest of the house. A window looks out onto the wild barrens. Simple, worn furniture.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. ST_ALBANS_CHURCH - FLASHBACK",
+      "ordinal": 1,
+      "location_header": "INT. ST. ALBANS CHURCH - FLASHBACK",
+      "visual_description": "A large, imposing church interior. Rows of empty wooden pews stretch towards the front. Stained glass windows cast coloured light into the shadows. A stern atmosphere prevails.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. LOVERS_LANE - DAY",
+      "ordinal": 1,
+      "location_header": "EXT. LOVERS LANE - DAY",
+      "visual_description": "A wooded path winding behind the village, shaded by great elms and maples. It is damp and muddy from the rain. At the street exit, a battered old grey car is parked.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. SCHOOL_YARD - FLASHBACK",
+      "ordinal": 1,
+      "location_header": "EXT. SCHOOL YARD - FLASHBACK",
+      "visual_description": "A dusty schoolyard in the late Victorian era. A bare patch of earth near a wooden fence, scuffed by children's play. A red brick schoolhouse visible in the background. Bright, harsh sunlight casts sharp shadows. The perspective is low, from a child's eye view.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_WOODS - WINTER_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. MISTAWIS WOODS - WINTER DAY",
+      "visual_description": "A path between ranks of birches in winter. Every twig is outlined in snow. The undergrowth is like a fairy forest of marble. Pale sunshine casts fine, spiritual shadows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. ROARING_ABELS_VERANDAH - EVENING",
+      "ordinal": 1,
+      "location_header": "EXT. ROARING ABELS VERANDAH - EVENING",
+      "visual_description": "The back verandah of the farmhouse in the evening. Shaky wooden steps lead down to the yard. A hammock is swung between posts. Beyond, the barrens stretch out in the moonlight, silver and mysterious. The spruces cast long shadows.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. ROARING_ABELS_PARLOUR - DAY",
+      "ordinal": 1,
+      "location_header": "INT. ROARING ABELS PARLOUR - DAY",
+      "visual_description": "A seldom-used parlour, stiff and dusty. Old-fashioned furniture sits rigidly against the walls. A window looks out to the front. The air is stale. Abel sits in a corner, watching.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. CHIDLEY_CORNERS_HALL - NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. CHIDLEY CORNERS HALL - NIGHT",
+      "visual_description": "A rough community hall decorated with pine and fir boughs. Chinese lanterns cast a colorful but dim light. The floor is waxed wood. A fiddle plays lively music. The atmosphere shifts from festive to rowdy and smoky as the night progresses.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. ROARING_ABELS_GARDEN - MORNING",
+      "ordinal": 1,
+      "location_header": "EXT. ROARING ABELS GARDEN - MORNING",
+      "visual_description": "The garden and lane outside Roaring Abel's house in the early morning sunrise. The world is fresh and brightly lit. A buggy sits in the lane. Abel is slumped on the seat, crushed by grief. The contrast between the bright morning and human sorrow is sharp.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. MR_TOWERS_PARLOUR - NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. MR TOWERS PARLOUR - NIGHT",
+      "visual_description": "A small, shabby parlour in an unfashionable street. A slanting, distorting mirror hangs over the mantelpiece. The furniture is worn. The room feels humble and slightly surreal for a wedding.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_LAKE - SUNSET",
+      "ordinal": 1,
+      "location_header": "EXT. MISTAWIS LAKE - SUNSET",
+      "visual_description": "A large lake at sunset, the water reflecting imperial colors of gold and purple. Feathery headlands and coral bays slide past. Canoes are visible in the distance. The light is fading into a magical afterglow.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. BLUE_CASTLE_LANDING - DAY",
+      "ordinal": 1,
+      "location_header": "EXT. BLUE CASTLE LANDING - DAY",
+      "visual_description": "The landing-place of the Blue Castle under the pines. The lake water laps against the rocks. A narrow trail winds through the trees from the road. A blatantly purple luxury car is parked next to an old battered grey one.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. BLUEBEARDS_CHAMBER - DAY",
+      "ordinal": 1,
+      "location_header": "INT. BLUEBEARDS CHAMBER - DAY",
+      "visual_description": "A small lean-to room, sparsely furnished but lined with books. A commonplace sheet-iron stove stands in the center with a pipe going through the roof. At one end is a table crowded with chemical apparatus and odd utensils. At the other end is a large writing desk and swivel chair. The room is quiet and smells of paper and chemicals.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. ROARING_ABELS_GARDEN - DAY",
+      "ordinal": 2,
+      "location_header": "EXT. ROARING ABELS GARDEN - DAY",
+      "visual_description": "The vegetable garden beside the house. Rows of green plants growing in the dark earth. Weeds are being pulled. A fence separates the garden from the wilder barrens.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_ISLAND_COVE - DAY",
+      "ordinal": 2,
+      "location_header": "EXT. MISTAWIS ISLAND COVE - DAY",
+      "visual_description": "A small sandy cove on the island. A large cone of sand has been piled up, topped with a small Union Jack flag. The lake water laps gently against the shore.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. BLUE_CASTLE_LIVING_ROOM - EVENING",
+      "ordinal": 2,
+      "location_header": "INT. BLUE CASTLE - LIVING ROOM - EVENING",
+      "visual_description": "The living room of the log cabin in the evening. Soft lamp light or firelight illuminates the rustic interior. The room feels cozy and intimate, with wolfskins and comfortable chairs. An oriel window looks out onto the darkening lake.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_WOODS - WINTER_EVENING",
+      "ordinal": 2,
+      "location_header": "EXT. CLEARING - WINTER SUNSET",
+      "visual_description": "An old clearing in the woods at sunset. A snowdrift is shaped like a woman's profile against a dark background of spruce. The setting sun casts a glow on the snow.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. DEERWOOD_POST_OFFICE - DAY",
+      "ordinal": 2,
+      "location_header": "INT. POST OFFICE - DAY",
+      "visual_description": "A small-town post office interior from the early 20th century. Dark wooden wickets with brass grilles separate the public area from the clerks. Rows of small glass-fronted mailboxes line one wall. Dusty sunlight filters through a window with gold lettering. A bulletin board with faded notices hangs near the door.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. BLUE_CASTLE_LIVING_ROOM - DAY",
+      "ordinal": 2,
+      "location_header": "INT. BLUE CASTLE - LIVING ROOM - DAY",
+      "visual_description": "A rustic, cozy living room in a log cabin. A large stone fireplace with a grizzly bearskin rug. An oriel window facing west overlooks a lake and pine trees. Rough homemade bookshelves, stuffed owls, deer heads, and a red plush sofa covered in silver-grey wolf skins. A large, corpulent clock with a painted face ticks in the corner.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_ISLAND - NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. MISTAWIS ISLAND - NIGHT",
+      "visual_description": "A mysterious island shrouded in lilac mist. Two enormous pine trees loom like turrets. A pale moon hangs in the sky, still rose-hued from the afterlight. The water is calm. The atmosphere is magical and enchanting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. BLUE_CASTLE_EXTERIOR - NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. BLUE CASTLE - NIGHT",
+      "visual_description": "The exterior of the log cabin at night, windows glowing with warm light amidst the dark pine woods. Stone steps lead up from the water. Fireflies or distant bonfires twinkle across the dark lake.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. UNCLE_HERBERTS_HOUSE - DAY",
+      "ordinal": 2,
+      "location_header": "INT. UNCLE HERBERTS HOUSE - DAY",
+      "visual_description": "A prosperous, pretentious Victorian interior. The foyer features a heavy staircase with polished banisters. The dining room beyond is crowded with mahogany furniture and silver. Bay windows with lace curtains let in diffused light. Everything is spotless, expensive, and tasteless.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. STIRLING_PARLOUR - FLASHBACK",
+      "ordinal": 2,
+      "location_header": "INT. STIRLING PARLOUR - FLASHBACK",
+      "visual_description": "A rigid, formal parlour. Horsehair sofas and stiff chairs arranged precisely. Heavy drapes, a patterned carpet, and a fireplace with a cold grate. The room feels judgmental and airless, with a sense of enforced piety.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. STIRLING_GARDEN - NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. STIRLING GARDEN - NIGHT",
+      "visual_description": "The garden of the Stirling house at night. A small wooden gate and a path leading to the house. The window of the sitting room glows with light, revealing the people inside.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_HILLS - SUNSET",
+      "ordinal": 2,
+      "location_header": "EXT. MISTAWIS HILLS - SUNSET",
+      "visual_description": "A ferny hollow leading to an old tumble-down rail fence on a hill. The sun is setting, casting a golden glow over the landscape.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_SHORE_MAINLAND - DAY",
+      "ordinal": 2,
+      "location_header": "EXT. MISTAWIS SHORE - DAY",
+      "visual_description": "The shore of the mainland looking across at the Blue Castle. The sky is dark and grey, the lake sullen under the threatening storm. The little house under the pines looks small and pathetic from this distance.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. BLUE_CASTLE_VERANDAH - DAY",
+      "ordinal": 2,
+      "location_header": "EXT. BLUE CASTLE - VERANDAH - DAY",
+      "visual_description": "A wooden verandah attached to a log cabin, overlooking the lake. Rustic furniture including a swing seat. In the southwest, a great thundercloud with white crests and purple shadows is rising over the landscape. The atmosphere is heavy with incoming storm.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. DEERWOOD_LIBRARY - DAY",
+      "ordinal": 2,
+      "location_header": "INT. DEERWOOD LIBRARY - DAY",
+      "visual_description": "A quiet public library reading room. Wooden tables with magazines, shelves of books, and a librarian's desk. Hushed and dusty.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT. MISTAWIS_LAKE_ICE - NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. MISTAWIS LAKE - NIGHT",
+      "visual_description": "The frozen lake surface under moonlight. Dark islands loom in the distance. The ice stretches out white and vast. The Blue Castle on its island has snow on the roof and windows glinting.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. VALANCYS_BEDROOM - AFTERNOON",
+      "ordinal": 3,
+      "location_header": "INT. VALANCYS BEDROOM - AFTERNOON",
+      "visual_description": "A dismal bedroom transformed by bright spring afternoon light. A yellow-painted floor and faded dark-red wallpaper. A narrow washstand and stiff chair. Through the window, a view of blue skies and hazes. The room feels stark against the vibrant life outside.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. BLUE_CASTLE_LIVING_ROOM - CHRISTMAS",
+      "ordinal": 4,
+      "location_header": "INT. BLUE CASTLE - CHRISTMAS",
+      "visual_description": "The living room decorated with pine boughs and tinsel stars. A Christmas dinner is set out. The mood is festive and warm.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT. STIRLING_HOUSE_DOWNSTAIRS - NIGHT",
+      "ordinal": 4,
+      "location_header": "INT. STIRLING HOUSE - NIGHT",
+      "visual_description": "The sitting room of the Stirling house at night, illuminated by oil lamps or weak electric light. Women sit knitting and darning black stockings. The smell of liniment hangs in the air.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Self-actualization (Psychology) -- Fiction",
+    "Single women -- Fiction",
+    "Canada -- History -- 1914-1945 -- Fiction",
+    "Romance fiction",
+    "Love -- Fiction",
+    "Young adult fiction",
+    "Choice (Psychology) -- Fiction"
+  ]
+}

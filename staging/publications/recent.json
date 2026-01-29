@@ -1,5 +1,35 @@
 [
   {
+    "publication_identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
+    "sample": true,
+    "title": "The Blue Castle: a novel",
+    "author_names": "L. M. Montgomery",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "romance",
+      "comedy"
+    ],
+    "catalog_added_at": "2026-01-28T22:06:13Z",
+    "updated_at": "2026-01-29T17:48:53Z",
+    "duration": {
+      "total_ms": 2071000,
+      "formatted": "35m"
+    },
+    "cover_url": null,
+    "data_checksum": "cff41d1e76d389249e2ed008f19ac9c1f932e71aa286c75dd5dd606f93e5ba12",
+    "file_size": 70485569,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.2.1"
+  },
+  {
     "publication_identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
     "sample": true,
     "title": "Frankenstein",
