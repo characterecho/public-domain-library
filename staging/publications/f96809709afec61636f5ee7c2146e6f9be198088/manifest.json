@@ -1,0 +1,1341 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "A Warning to the Curious, and Other Ghost Stories",
+  "author_names": "M. R. James",
+  "description": "EPUB imported from https://gutenberg.org/ebooks/66881.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/66881.epub3.images",
+  "identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
+  "publication_type": "short_story_collection",
+  "cover_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/cover.png",
+  "total_duration_s": 11213.405102,
+  "genre_tags": [
+    "Antiquarian Ghost Stories",
+    "Gothic Horror"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3304.215533
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_1.mp3",
+      "start_s": 3304.215533,
+      "end_s": 5134.650113
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/audio_part_2.mp3",
+      "start_s": 5134.650113,
+      "end_s": 11213.405102
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 10.206,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "THE HAUNTED DOLL’S HOUSE.",
+      "start_s": 10.206,
+      "end_s": 1653.345,
+      "part_ordinal": 0,
+      "metadata": {
+        "genre_tags": [
+          "Ghost Story",
+          "Horror"
+        ],
+        "frame_listeners": [],
+        "is_frame_content": false,
+        "storyteller_in_text_names": []
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "THE UNCOMMON PRAYER-BOOK",
+      "start_s": 1653.345,
+      "end_s": 1655.839,
+      "part_ordinal": 0,
+      "metadata": {
+        "genre_tags": [
+          "Ghost Story",
+          "Horror"
+        ],
+        "frame_listeners": [],
+        "is_frame_content": false,
+        "storyteller_in_text_names": []
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter I",
+      "start_s": 1655.839,
+      "end_s": 2650.111,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter II",
+      "start_s": 2650.111,
+      "end_s": 2904.618,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "Chapter III",
+      "start_s": 2904.618,
+      "end_s": 3304.216,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "Chapter IV",
+      "start_s": 3304.216,
+      "end_s": 3714.061,
+      "part_ordinal": 1,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "A NEIGHBOUR’S LANDMARK",
+      "start_s": 3714.061,
+      "end_s": 5134.65,
+      "part_ordinal": 1,
+      "metadata": {
+        "genre_tags": [
+          "Ghost Story",
+          "Meta-fiction"
+        ],
+        "frame_listeners": [],
+        "is_frame_content": false,
+        "storyteller_in_text_names": []
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "A VIEW FROM A HILL",
+      "start_s": 5134.65,
+      "end_s": 7547.344,
+      "part_ordinal": 2,
+      "metadata": {
+        "genre_tags": [
+          "Ghost Story",
+          "Horror"
+        ],
+        "frame_listeners": [],
+        "is_frame_content": false,
+        "storyteller_in_text_names": []
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "A WARNING TO THE CURIOUS",
+      "start_s": 7547.344,
+      "end_s": 9790.089,
+      "part_ordinal": 2,
+      "metadata": {
+        "genre_tags": [
+          "Ghost Story",
+          "Horror"
+        ],
+        "frame_listeners": [],
+        "is_frame_content": false,
+        "storyteller_in_text_names": []
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "AN EVENING’S ENTERTAINMENT",
+      "start_s": 9790.089,
+      "end_s": 11213.405,
+      "part_ordinal": 2,
+      "metadata": {
+        "genre_tags": [
+          "Folklore",
+          "Essay",
+          "Ghost Story"
+        ],
+        "frame_listeners": [],
+        "is_frame_content": false,
+        "storyteller_in_text_names": []
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [
+        "scholarly",
+        "detached",
+        "atmospheric",
+        "articulate",
+        "storyteller",
+        "neutral"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 127,
+      "image_key": null,
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "THE_FRIEND",
+      "name": "The Friend",
+      "aliases": [
+        "NARRATING_FRIEND"
+      ],
+      "voice_attributes": [
+        "precise",
+        "cultured",
+        "victorian",
+        "sober",
+        "traumatized",
+        "upper-class"
+      ],
+      "visual_attributes": [
+        "spectacles",
+        "older",
+        "formal_suit",
+        "middle-aged",
+        "tired eyes",
+        "formal wear"
+      ],
+      "roles": [
+        "narrator",
+        "protagonist",
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 102,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_FRIEND.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_FRIEND.mp3"
+    },
+    {
+      "identifier": "GRANDMOTHER",
+      "name": "Grandmother",
+      "aliases": [
+        "Granny"
+      ],
+      "voice_attributes": [
+        "cracked",
+        "warm",
+        "authoritative",
+        "rural"
+      ],
+      "visual_attributes": [
+        "white bonnet",
+        "shawl",
+        "wrinkled face",
+        "knitting needles"
+      ],
+      "roles": [
+        "storyteller",
+        "matriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 68,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/GRANDMOTHER.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/GRANDMOTHER.mp3"
+    },
+    {
+      "identifier": "SQUIRE_RICHARDS",
+      "name": "Squire Richards",
+      "aliases": [
+        "Master Henry"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "jovial",
+        "authoritative",
+        "burly"
+      ],
+      "visual_attributes": [
+        "white hair",
+        "ruddy complexion",
+        "stout",
+        "country tweed"
+      ],
+      "roles": [
+        "host",
+        "landowner"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 57,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SQUIRE_RICHARDS.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SQUIRE_RICHARDS.mp3"
+    },
+    {
+      "identifier": "FANSHAWE",
+      "name": "Mr. Fanshawe",
+      "aliases": [],
+      "voice_attributes": [
+        "academic",
+        "curious",
+        "polite",
+        "younger"
+      ],
+      "visual_attributes": [
+        "bespectacled",
+        "tweed suit",
+        "neat hair",
+        "intellectual face"
+      ],
+      "roles": [
+        "protagonist",
+        "scholar"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 47,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/FANSHAWE.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/FANSHAWE.mp3"
+    },
+    {
+      "identifier": "PAXTON",
+      "name": "Paxton",
+      "aliases": [],
+      "voice_attributes": [
+        "anxious",
+        "nervous",
+        "breathless"
+      ],
+      "visual_attributes": [
+        "young",
+        "fair hair",
+        "pale eyes",
+        "anemic"
+      ],
+      "roles": [
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 39,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PAXTON.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PAXTON.mp3"
+    },
+    {
+      "identifier": "THE_ANTIQUARY",
+      "name": "The Antiquary",
+      "aliases": [],
+      "voice_attributes": [
+        "calm",
+        "intellectual",
+        "storyteller",
+        "educated",
+        "reflective"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "scholarly",
+        "well-dressed",
+        "spectacles",
+        "tweed suit"
+      ],
+      "roles": [
+        "storyteller",
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 31,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_ANTIQUARY.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_ANTIQUARY.mp3"
+    },
+    {
+      "identifier": "PHILIPSON",
+      "name": "Philipson",
+      "aliases": [],
+      "voice_attributes": [
+        "practical",
+        "authoritative",
+        "landowner"
+      ],
+      "visual_attributes": [
+        "country_gentleman",
+        "weather-beaten",
+        "tweed"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 25,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PHILIPSON.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PHILIPSON.mp3"
+    },
+    {
+      "identifier": "MR_DAVIDSON",
+      "name": "Mr. Davidson",
+      "aliases": [],
+      "voice_attributes": [
+        "educated",
+        "inquisitive",
+        "calm"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "scholarly appearance",
+        "tweed suit",
+        "spectacles"
+      ],
+      "roles": [
+        "antiquary",
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 22,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_DAVIDSON.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_DAVIDSON.mp3"
+    },
+    {
+      "identifier": "PATTEN",
+      "name": "Patten",
+      "aliases": [],
+      "voice_attributes": [
+        "tremulous",
+        "aged",
+        "loyal",
+        "superstitious"
+      ],
+      "visual_attributes": [
+        "butler uniform",
+        "stooped",
+        "wrinkled",
+        "anxious eyes"
+      ],
+      "roles": [
+        "butler",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_servant"
+      },
+      "dialogue_count": 17,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PATTEN.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PATTEN.mp3"
+    },
+    {
+      "identifier": "MITCHELL",
+      "name": "Mitchell",
+      "aliases": [],
+      "voice_attributes": [
+        "gravelly",
+        "rustic",
+        "slow"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "peasant_dress",
+        "frail"
+      ],
+      "roles": [
+        "supporting"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MITCHELL.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MITCHELL.mp3"
+    },
+    {
+      "identifier": "MR_AVERY",
+      "name": "Mr. Avery",
+      "aliases": [],
+      "voice_attributes": [
+        "piping",
+        "chatty",
+        "elderly"
+      ],
+      "visual_attributes": [
+        "old man",
+        "rustic clothing",
+        "weather-beaten face"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 15,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_AVERY.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_AVERY.mp3"
+    },
+    {
+      "identifier": "MR_DILLET",
+      "name": "Mr. Dillet",
+      "aliases": [],
+      "voice_attributes": [
+        "cultured",
+        "cynical",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "well-dressed",
+        "keen eyes",
+        "walking stick"
+      ],
+      "roles": [
+        "protagonist",
+        "collector"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_DILLET.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_DILLET.mp3"
+    },
+    {
+      "identifier": "MR_CHITTENDEN",
+      "name": "Mr. Chittenden",
+      "aliases": [],
+      "voice_attributes": [
+        "cockney elements",
+        "persuasive",
+        "anxious"
+      ],
+      "visual_attributes": [
+        "dealer apron",
+        "round face",
+        "balding"
+      ],
+      "roles": [
+        "antique dealer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_CHITTENDEN.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_CHITTENDEN.mp3"
+    },
+    {
+      "identifier": "MRS_PORTER",
+      "name": "Mrs. Porter",
+      "aliases": [],
+      "voice_attributes": [
+        "anxious",
+        "respectful",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "housekeeper apron",
+        "neat hair"
+      ],
+      "roles": [
+        "caretaker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MRS_PORTER.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MRS_PORTER.mp3"
+    },
+    {
+      "identifier": "THE_RECTOR",
+      "name": "The Rector",
+      "aliases": [],
+      "voice_attributes": [
+        "kindly",
+        "educated",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "clerical collar",
+        "silver hair"
+      ],
+      "roles": [
+        "informant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_RECTOR.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/THE_RECTOR.mp3"
+    },
+    {
+      "identifier": "INSPECTOR_1",
+      "name": "Inspector",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "brisk",
+        "professional"
+      ],
+      "visual_attributes": [
+        "police uniform or plain clothes",
+        "notebook"
+      ],
+      "roles": [
+        "police"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/INSPECTOR_1.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/INSPECTOR_1.mp3"
+    },
+    {
+      "identifier": "HENRY_LONG",
+      "name": "Henry Long",
+      "aliases": [],
+      "voice_attributes": [
+        "steady",
+        "supportive",
+        "calm"
+      ],
+      "visual_attributes": [
+        "tall",
+        "neatly dressed"
+      ],
+      "roles": [
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/HENRY_LONG.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/HENRY_LONG.mp3"
+    },
+    {
+      "identifier": "CHARLES",
+      "name": "Charles",
+      "aliases": [],
+      "voice_attributes": [
+        "inquisitive",
+        "bright",
+        "young"
+      ],
+      "visual_attributes": [
+        "breeches",
+        "messy hair"
+      ],
+      "roles": [
+        "grandson"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/CHARLES.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/CHARLES.mp3"
+    },
+    {
+      "identifier": "OLD_CHURCH_MAN",
+      "name": "Old Man",
+      "aliases": [],
+      "voice_attributes": [
+        "rustic",
+        "earnest",
+        "elderly"
+      ],
+      "visual_attributes": [
+        "working clothes",
+        "weather-beaten"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/OLD_CHURCH_MAN.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/OLD_CHURCH_MAN.mp3"
+    },
+    {
+      "identifier": "MRS_CHITTENDEN",
+      "name": "Mrs. Chittenden",
+      "aliases": [],
+      "voice_attributes": [
+        "concerned",
+        "sensible"
+      ],
+      "visual_attributes": [
+        "apron",
+        "cap"
+      ],
+      "roles": [
+        "spouse"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MRS_CHITTENDEN.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MRS_CHITTENDEN.mp3"
+    },
+    {
+      "identifier": "WATKINS",
+      "name": "Watkins",
+      "aliases": [],
+      "voice_attributes": [
+        "shaken",
+        "deferential",
+        "working-class"
+      ],
+      "visual_attributes": [
+        "commissionaire uniform",
+        "pale"
+      ],
+      "roles": [
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/WATKINS.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/WATKINS.mp3"
+    },
+    {
+      "identifier": "MR_HOMBERGER",
+      "name": "Mr. Homberger",
+      "aliases": [
+        "Poschwitz",
+        "Henderson"
+      ],
+      "voice_attributes": [
+        "yapping",
+        "foreign",
+        "sharp"
+      ],
+      "visual_attributes": [
+        "small stature",
+        "black hair",
+        "pale face",
+        "pointed beard",
+        "gold pince-nez",
+        "fur coat"
+      ],
+      "roles": [
+        "antagonist",
+        "thief"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "foreign_accented_english"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_HOMBERGER.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_HOMBERGER.mp3"
+    },
+    {
+      "identifier": "INSPECTOR_2",
+      "name": "Second Inspector",
+      "aliases": [],
+      "voice_attributes": [
+        "cautious",
+        "observant"
+      ],
+      "visual_attributes": [
+        "police attire"
+      ],
+      "roles": [
+        "police"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/INSPECTOR_2.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/INSPECTOR_2.mp3"
+    },
+    {
+      "identifier": "SCIENTIFIC_PAPA",
+      "name": "Papa",
+      "aliases": [],
+      "voice_attributes": [
+        "didactic",
+        "pompous",
+        "lecturing"
+      ],
+      "visual_attributes": [
+        "victorian suit",
+        "whiskers"
+      ],
+      "roles": [
+        "fictional_character"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SCIENTIFIC_PAPA.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SCIENTIFIC_PAPA.mp3"
+    },
+    {
+      "identifier": "BOOTS",
+      "name": "The Boots",
+      "aliases": [],
+      "voice_attributes": [
+        "obliging",
+        "curious"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "apron"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_working_class"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/BOOTS.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/BOOTS.mp3"
+    },
+    {
+      "identifier": "SQUIRE_JOHN",
+      "name": "The Squire",
+      "aliases": [
+        "John",
+        "Father"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "thick",
+        "sleepy"
+      ],
+      "visual_attributes": [
+        "hunting clothes",
+        "red face",
+        "whiskers"
+      ],
+      "roles": [
+        "father",
+        "landowner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SQUIRE_JOHN.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SQUIRE_JOHN.mp3"
+    },
+    {
+      "identifier": "SCIENTIFIC_CHARLES",
+      "name": "Charles",
+      "aliases": [],
+      "voice_attributes": [
+        "stilted",
+        "overly polite",
+        "monotone"
+      ],
+      "visual_attributes": [
+        "neatly dressed",
+        "stiff posture"
+      ],
+      "roles": [
+        "fictional_character"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SCIENTIFIC_CHARLES.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/SCIENTIFIC_CHARLES.mp3"
+    },
+    {
+      "identifier": "MR_WITHAM",
+      "name": "Mr. Witham",
+      "aliases": [],
+      "voice_attributes": [
+        "congenial",
+        "educated"
+      ],
+      "visual_attributes": [
+        "gentleman attire",
+        "observant"
+      ],
+      "roles": [
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/MR_WITHAM.mp3"
+    },
+    {
+      "identifier": "HOTEL_SERVANT",
+      "name": "Maid",
+      "aliases": [],
+      "voice_attributes": [
+        "concerned",
+        "helpful"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "cap"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_working_class"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/HOTEL_SERVANT.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/HOTEL_SERVANT.mp3"
+    },
+    {
+      "identifier": "PORTER",
+      "name": "Porter",
+      "aliases": [],
+      "voice_attributes": [
+        "cheerful",
+        "rural",
+        "helpful"
+      ],
+      "visual_attributes": [
+        "uniform cap",
+        "rugged face",
+        "working clothes"
+      ],
+      "roles": [
+        "railway staff"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_country"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PORTER.png",
+      "voice_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/characters/PORTER.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "TRAIN_COMPARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. TRAIN COMPARTMENT - DAY",
+      "visual_description": "Edwardian first-class train carriage interior. Plush red velvet seats, polished mahogany wood paneling, brass fixtures. Sunlight streaming through a window revealing passing English countryside. A folded map rests on the seat. Atmosphere of leisurely travel and solitude.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_TRAIN_COMPARTMENT.jpg"
+    },
+    {
+      "identifier": "INT_TRAIN_CARRIAGE",
+      "ordinal": 0,
+      "location_header": "INT. TRAIN CARRIAGE",
+      "visual_description": "Early 20th century third-class railway carriage. Wooden bench seating with high backs, brass luggage racks, and a framed map of the district on the wall. Daylight streams through the window, showing a passing rural winter landscape. Functional, slightly dusty atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_INT_TRAIN_CARRIAGE.jpg"
+    },
+    {
+      "identifier": "VICTORIAN_STUDY",
+      "ordinal": 0,
+      "location_header": "INT. VICTORIAN STUDY - DAY",
+      "visual_description": "A cluttered Victorian study filled with books and manuscripts. Heavy velvet curtains, a mahogany desk with a reading lamp, and leather armchairs. The atmosphere is quiet, scholarly, and slightly dusty.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_VICTORIAN_STUDY.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_SEABURGH_LANDSCAPE",
+      "ordinal": 0,
+      "location_header": "EXT. SEABURGH - DAY",
+      "visual_description": "Victorian seaside town landscape. Marshes intersected by dykes, flat fields, heath with gorse and fir woods. A flint church with a broad western tower stands at the top of a steep road. Red brick cottages with slate roofs, white windmills on high ground. Sunny, hot atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_SEABURGH_LANDSCAPE.jpg"
+    },
+    {
+      "identifier": "ANTIQUE_SHOP",
+      "ordinal": 0,
+      "location_header": "INT. ANTIQUE SHOP - DAY",
+      "visual_description": "Victorian antique shop interior. Cluttered, dusty atmosphere filled with furniture, china, and curiosities. Dimly lit by daylight filtering through a shop window, highlighting dust motes. Wood textures, old varnish, shadows in corners.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_ANTIQUE_SHOP.jpg"
+    },
+    {
+      "identifier": "VICTORIAN_LIBRARY",
+      "ordinal": 0,
+      "location_header": "INT. ANTIQUARY'S LIBRARY - NIGHT",
+      "visual_description": "Late Victorian private library. Floor-to-ceiling dark oak bookshelves packed with leather-bound volumes. A heavy mahogany desk cluttered with papers and an oil lamp casting a warm, golden glow. Deep shadows in the corners. A comfortable leather armchair near a small fireplace. Atmosphere of scholarly solitude and antiquity.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_VICTORIAN_LIBRARY.jpg"
+    },
+    {
+      "identifier": "CHITTENDEN_PARLOUR",
+      "ordinal": 1,
+      "location_header": "INT. BACK PARLOUR - DAY",
+      "visual_description": "Cozy back parlour of a shop. Domestic setting with a tea table, teapot, and cups. Warmer lighting, perhaps a fireplace glow or gas lamp. Homely, slightly cramped, distinct from the showroom.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_CHITTENDEN_PARLOUR.jpg"
+    },
+    {
+      "identifier": "BETTON_COURT_LIBRARY",
+      "ordinal": 1,
+      "location_header": "INT. BETTON COURT LIBRARY - DAY",
+      "visual_description": "A grand, high-ceilinged library in an English country house. Tall bookshelves packed with leather-bound volumes, a large window with rain streaking the glass, and a view of wet, swaying trees outside. Gloomy afternoon light.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_BETTON_COURT_LIBRARY.jpg"
+    },
+    {
+      "identifier": "RUSTIC_HEARTH",
+      "ordinal": 1,
+      "location_header": "INT. MANOR LIVING ROOM - NIGHT",
+      "visual_description": "Interior of a rural English manor living room, circa 1820. A massive stone hearth with a roaring fire provides the primary light, casting dancing shadows. Heavy timber beams overhead. A high-backed armchair where a man sleeps. A rocking chair for an elderly woman. A rag rug where children sit. Warm colors: orange firelight, brown wood, cream plaster. Cozy but slightly eerie atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_RUSTIC_HEARTH.jpg"
+    },
+    {
+      "identifier": "SCENE_HOTEL_SITTING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. HOTEL SITTING ROOM - NIGHT",
+      "visual_description": "Private hotel sitting-room, Edwardian era. A table set for cards and writing, comfortable armchairs, dim but warm lighting from lamps. A door leading to a corridor. Quiet, private atmosphere with a sense of isolation.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_HOTEL_SITTING_ROOM.jpg"
+    },
+    {
+      "identifier": "EXT_BROCKSTONE_VALLEY",
+      "ordinal": 1,
+      "location_header": "EXT. BROCKSTONE VALLEY",
+      "visual_description": "A secluded, narrow valley in winter. A sudden downward path leads to groups of smokeless stone chimneys and stone-tiled roofs nestled closely together. A dense copse bounds the field, creating a sense of isolation and enclosure around the grey stone buildings.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_EXT_BROCKSTONE_VALLEY.jpg"
+    },
+    {
+      "identifier": "COUNTRY_STATION",
+      "ordinal": 1,
+      "location_header": "EXT. COUNTRY STATION - AFTERNOON",
+      "visual_description": "Quaint English country railway station, late afternoon. Gravel platform, white picket fences, station master's cottage with flower boxes. lush green hills in background. Sunny, peaceful, rural atmosphere. Long shadows stretching across the platform.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_COUNTRY_STATION.jpg"
+    },
+    {
+      "identifier": "MANOR_GARDEN",
+      "ordinal": 2,
+      "location_header": "EXT. MANOR GARDEN - DAY",
+      "visual_description": "Expansive English manor garden, midsummer. A large, ancient lime tree casting deep shade over a manicured lawn. A clear stream flows nearby. Wicker tea furniture set up on the grass. The facade of a plastered wall manor house visible in the distance. Serene and idyllic.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_MANOR_GARDEN.jpg"
+    },
+    {
+      "identifier": "DILLET_HOUSE_EXT",
+      "ordinal": 2,
+      "location_header": "EXT. DILLET'S HOUSE - AFTERNOON",
+      "visual_description": "Front entrance of a wealthy residence. Large wooden door, stone steps. Late afternoon light. A parked vintage car (1920s style) nearby. Sense of stability and wealth.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_DILLET_HOUSE_EXT.jpg"
+    },
+    {
+      "identifier": "INT_BROCKSTONE_COURT",
+      "ordinal": 2,
+      "location_header": "INT. BROCKSTONE COURT",
+      "visual_description": "Grand but abandoned interior of a 17th-century manor. Furniture is shrouded in dust sheets. High ceilings feature painted historical allegories with dark, muted tones. The atmosphere is cold, still, and preserved, smelling of old wood and neglect.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_INT_BROCKSTONE_COURT.jpg"
+    },
+    {
+      "identifier": "BETTON_COURT_LANDSCAPE",
+      "ordinal": 2,
+      "location_header": "EXT. BETTON COURT GROUNDS - LATE AFTERNOON",
+      "visual_description": "A wet English landscape. Dripping shrubberies of box and laurel, a stone Gothic arch in a wall, and a narrow muddy lane leading up a hill. Green and yellow fields, blue hills in the distance, and a grey, rainy sky.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_BETTON_COURT_LANDSCAPE.jpg"
+    },
+    {
+      "identifier": "SCENE_FROSTON_CHURCH",
+      "ordinal": 2,
+      "location_header": "EXT. FROSTON CHURCH - DAY",
+      "visual_description": "Country church exterior. A gothic porch with niches and heraldic shields. A sunny churchyard with gravestones and a path leading to the rectory. Bright daylight, peaceful rural setting.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_FROSTON_CHURCH.jpg"
+    },
+    {
+      "identifier": "MITCHELL_COTTAGE",
+      "ordinal": 3,
+      "location_header": "INT. MITCHELL'S COTTAGE - DAY",
+      "visual_description": "The interior of a rustic cottage. Low ceilings, simple wooden furniture, a hearth with a fire, and an old elbow-chair. Dim, warm lighting.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_MITCHELL_COTTAGE.jpg"
+    },
+    {
+      "identifier": "HILLTOP",
+      "ordinal": 3,
+      "location_header": "EXT. HILLTOP - EVENING",
+      "visual_description": "Top of a grassy hill at sunset. A clump of old Scotch fir trees frames the view. A sturdy wooden bench sits at the edge. Panoramic view of English plains, distant hills, and farmlands bathed in golden hour light. Atmosphere of scenic beauty and quiet observation.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_HILLTOP.jpg"
+    },
+    {
+      "identifier": "INT_BROCKSTONE_CHAPEL",
+      "ordinal": 3,
+      "location_header": "INT. BROCKSTONE CHAPEL",
+      "visual_description": "Interior of a 17th-century Gothic chapel. Stone walls, distinct chancel, and a western gallery with an organ case. Sunbeams illuminate dust motes dancing over blue velvet cushions on stall desks. Rich screen-work and stained glass create a solemn, hushed religious atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_INT_BROCKSTONE_CHAPEL.jpg"
+    },
+    {
+      "identifier": "SCENE_RECTORY_STUDY",
+      "ordinal": 3,
+      "location_header": "INT. RECTORY STUDY - DAY",
+      "visual_description": "Clergyman's study. Walls lined with books, a desk, comfortable chairs. Daytime lighting through a window. Scholarly and traditional atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_RECTORY_STUDY.jpg"
+    },
+    {
+      "identifier": "DILLET_BEDROOM",
+      "ordinal": 3,
+      "location_header": "INT. DILLET'S BEDROOM - NIGHT",
+      "visual_description": "Spacious, high-ceilinged bedroom. Gothic revival architectural details. Large sash windows, heavy curtains. A large kneehole table dominates the space. At night, the room is dark, illuminated only by moonlight or the spectral glow of the dollhouse.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_DILLET_BEDROOM.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_SWAN",
+      "ordinal": 4,
+      "location_header": "INT. SWAN HOTEL",
+      "visual_description": "Foyer and dining area of a country hotel. dark wood panelling, a heavy reception desk, and a staircase leading up. Warm, artificial lighting contrasts with the winter evening outside. Comfortable but slightly worn Victorian decor.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_INT_HOTEL_SWAN.jpg"
+    },
+    {
+      "identifier": "SEASIDE_PROMENADE",
+      "ordinal": 4,
+      "location_header": "EXT. SEASIDE PROMENADE - DAY",
+      "visual_description": "Coastal promenade. Bright, flat daylight. Sea wall, ocean horizon, perhaps a railing. Open air, breezy atmosphere, contrasting with the dark interiors of previous scenes.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SEASIDE_PROMENADE.jpg"
+    },
+    {
+      "identifier": "SCENE_PAXTONS_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. HOTEL BEDROOM - NIGHT",
+      "visual_description": "Hotel bedroom. Iron bed with white counterpane, a kit-bag on a stand or chair. Electric or gas lighting. A silver crown wrapped in handkerchiefs sits on the bed. Tense, enclosed atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_PAXTONS_ROOM.jpg"
+    },
+    {
+      "identifier": "MANOR_HALLWAY",
+      "ordinal": 4,
+      "location_header": "INT. MANOR HALLWAY - EVENING",
+      "visual_description": "Grand entrance hall of the manor. Dark wood paneling, ticking grandfather clock, heavy oak hall table. A mysterious heavy wooden box sits on the table. Dim evening light or candlelight. mood of antiquity and slight shadow.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_MANOR_HALLWAY.jpg"
+    },
+    {
+      "identifier": "SCENE_HOTEL_CORRIDOR",
+      "ordinal": 5,
+      "location_header": "INT. HOTEL CORRIDOR - NIGHT",
+      "visual_description": "Hotel hallway. Rows of doors with shoes left outside. Dim lighting, shadows stretching along the walls. Eerie, silent atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_HOTEL_CORRIDOR.jpg"
+    },
+    {
+      "identifier": "HOTEL_SMOKE_ROOM",
+      "ordinal": 5,
+      "location_header": "INT. HOTEL SMOKE ROOM - DAY",
+      "visual_description": "Hotel smoking room. Leather armchairs, low tables, lingering haze of smoke. Club-like atmosphere, darker wood paneling, private and hushed.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_HOTEL_SMOKE_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_LONDON_OFFICE",
+      "ordinal": 5,
+      "location_header": "INT. LONDON OFFICE",
+      "visual_description": "A dimly lit office in London. Earth-coloured distemper walls, a large fireplace, and a heavy iron safe with its door standing open. Office furniture is scattered, and a layer of strange, fine dust covers surfaces near the safe. A clinical, investigative mood.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_INT_LONDON_OFFICE.jpg"
+    },
+    {
+      "identifier": "DREAM_GARDEN",
+      "ordinal": 5,
+      "location_header": "EXT. DREAM GARDEN - NIGHT",
+      "visual_description": "Surreal, hazy garden setting. A rockery made of old gothic church stones and gargoyles. A dark, ominous burrow or hole beneath a shifted stone. Unsettling, nightmarish atmosphere with unnatural lighting.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_DREAM_GARDEN.jpg"
+    },
+    {
+      "identifier": "SCENE_MOUND_NIGHT",
+      "ordinal": 6,
+      "location_header": "EXT. COASTAL MOUND - NIGHT",
+      "visual_description": "A ridge near the coast at night. A burial mound crowned with knot of dark fir trees. Full moon illuminating the scene, casting deep shadows. Distant church tower and sea visible. Spooky, wind-swept atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_MOUND_NIGHT.jpg"
+    },
+    {
+      "identifier": "MANOR_LIBRARY",
+      "ordinal": 6,
+      "location_header": "INT. MANOR LIBRARY - DAY",
+      "visual_description": "Cluttered country house library. Walls lined with old books. A large desk covered in papers and archaeological drawings. Morning light filtering through sash windows highlighting dust motes. Scholarly and quiet.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_MANOR_LIBRARY.jpg"
+    },
+    {
+      "identifier": "COXHAM_CHURCH",
+      "ordinal": 6,
+      "location_header": "INT. COXHAM CHURCH - DAY",
+      "visual_description": "Old church interior and vestry. Stone walls, stained glass, dust. A derelict room with a glass case containing a model church. Archives, paper files. Ancient, silent, historical weight.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_COXHAM_CHURCH.jpg"
+    },
+    {
+      "identifier": "SCENE_SEABURGH_FRONT",
+      "ordinal": 7,
+      "location_header": "EXT. SEABURGH FRONT - NIGHT",
+      "visual_description": "Seaside promenade at night. Empty road, brilliant full moon reflecting on the water. Hotel entrance visible. Quiet and deserted.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_SEABURGH_FRONT.jpg"
+    },
+    {
+      "identifier": "MANOR_DINING_ROOM",
+      "ordinal": 7,
+      "location_header": "INT. MANOR DINING ROOM - NIGHT",
+      "visual_description": "Formal dining room, dimly lit by candles. Long polished table, crystal glasses, port decanter. Shadows flicker on the walls. Three men seated in evening attire. Atmosphere of intimacy and storytelling.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_MANOR_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "ILBRIDGE_PARK",
+      "ordinal": 7,
+      "location_header": "EXT. ILBRIDGE PARK - DAY",
+      "visual_description": "Overgrown parkland. Ancient, stag-horned trees strangled by ivy. Thick undergrowth. Remnants of a stone terrace and balustrades hidden in grass. Melancholy, ruinous atmosphere.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_ILBRIDGE_PARK.jpg"
+    },
+    {
+      "identifier": "MANOR_TERRACE",
+      "ordinal": 8,
+      "location_header": "EXT. MANOR TERRACE - MORNING",
+      "visual_description": "Stone terrace steps outside the manor. Flagstone pavement, stone balustrades. Morning sunlight. A smashed object and dark stain on the stones. Garden visible beyond. Mood of revelation and finality.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_MANOR_TERRACE.jpg"
+    },
+    {
+      "identifier": "SCENE_SEABURGH_BEACH_MIST",
+      "ordinal": 8,
+      "location_header": "EXT. SEABURGH BEACH - DAY",
+      "visual_description": "Coastal beach and shingle. Thick sea-mist obscuring vision. The ruins of a concrete battery and a martello tower loom in the fog. Desolate, grey, and threatening.",
+      "metadata": {},
+      "image_key": "publications/f96809709afec61636f5ee7c2146e6f9be198088/scenes/scene_SCENE_SEABURGH_BEACH_MIST.jpg"
+    }
+  ],
+  "subjects": [
+    "Short stories, English",
+    "Ghost stories, English",
+    "English fiction -- 20th century"
+  ]
+}
