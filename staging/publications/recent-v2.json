@@ -1,9 +1,97 @@
 {
   "version": 2,
-  "generated_at": "2026-01-29T22:52:23Z",
+  "generated_at": "2026-01-30T12:26:07Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
+      "sample": true,
+      "title": "The Blue Castle: a novel",
+      "author_names": "L. M. Montgomery",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "comedy"
+      ],
+      "catalog_added_at": "2026-01-28T22:06:13Z",
+      "updated_at": "2026-01-30T12:26:06Z",
+      "duration": {
+        "total_ms": 2071000,
+        "formatted": "35m"
+      },
+      "cover_url": null,
+      "data_checksum": "98fb6b12c96844d66e6ed573e8243030530a6a1267e014502c042ae0c70b0e2b",
+      "file_size": 74922012,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.2.1"
+    },
+    {
+      "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
+      "sample": true,
+      "title": "A Room with a View",
+      "author_names": "E. M. Forster",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "satire"
+      ],
+      "catalog_added_at": "2026-01-29T18:43:43Z",
+      "updated_at": "2026-01-30T12:25:44Z",
+      "duration": {
+        "total_ms": 3613000,
+        "formatted": "1h 0m"
+      },
+      "cover_url": null,
+      "data_checksum": "1b86ccb134a275890a7878b86e6eb4a6e1c2a5abd541a0fa7d0f64f33d62a4cc",
+      "file_size": 151134192,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ],
+      "min_app_version": "1.2.1"
+    },
+    {
+      "publication_identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
+      "sample": true,
+      "title": "Frankenstein",
+      "author_names": "Mary Wollstonecraft Shelley",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "horror",
+        "scifi",
+        "epistolary"
+      ],
+      "catalog_added_at": "2026-01-29T18:45:55Z",
+      "updated_at": "2026-01-30T12:25:02Z",
+      "duration": {
+        "total_ms": 2368000,
+        "formatted": "39m"
+      },
+      "cover_url": null,
+      "data_checksum": "19f5e4a5e8d6656b39306d18a65e2bea5b35e1bb081ef1525a2fa860b408da84",
+      "file_size": 104136491,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.2.1"
+    },
     {
       "publication_identifier": "f96809709afec61636f5ee7c2146e6f9be198088",
       "sample": false,
@@ -31,94 +119,6 @@
         "IE"
       ],
       "min_app_version": "1.1.0"
-    },
-    {
-      "publication_identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
-      "sample": true,
-      "title": "The Blue Castle: a novel",
-      "author_names": "L. M. Montgomery",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "romance",
-        "comedy"
-      ],
-      "catalog_added_at": "2026-01-28T22:06:13Z",
-      "updated_at": "2026-01-29T18:53:30Z",
-      "duration": {
-        "total_ms": 2071000,
-        "formatted": "35m"
-      },
-      "cover_url": null,
-      "data_checksum": "6bf443eef57008c31cb60d16419c12daa14402975499fa3d131b08d4215cd967",
-      "file_size": 73102195,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ],
-      "min_app_version": "1.2.1"
-    },
-    {
-      "publication_identifier": "9d5eb6e18c6be0e0662d8fe3ba14c67201ab945d",
-      "sample": true,
-      "title": "Frankenstein",
-      "author_names": "Mary Wollstonecraft Shelley",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "horror",
-        "scifi",
-        "epistolary"
-      ],
-      "catalog_added_at": "2026-01-28T21:41:12Z",
-      "updated_at": "2026-01-29T18:45:55Z",
-      "duration": {
-        "total_ms": 2368000,
-        "formatted": "39m"
-      },
-      "cover_url": null,
-      "data_checksum": "f4604a08207c1bb313e2294247057f1ddc1c4ca3ce11ff9267701794c2d71de7",
-      "file_size": 103663496,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ],
-      "min_app_version": "1.2.1"
-    },
-    {
-      "publication_identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
-      "sample": true,
-      "title": "A Room with a View",
-      "author_names": "E. M. Forster",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "romance",
-        "satire"
-      ],
-      "catalog_added_at": "2026-01-28T21:42:12Z",
-      "updated_at": "2026-01-29T18:43:42Z",
-      "duration": {
-        "total_ms": 3524000,
-        "formatted": "59m"
-      },
-      "cover_url": null,
-      "data_checksum": "8569e306d8de2d1588ffbccecbedca90deff07832ada2b83374d7708b6ccd7e4",
-      "file_size": 149621792,
-      "available_regions": [
-        "US",
-        "CA",
-        "NZ"
-      ],
-      "min_app_version": "1.2.1"
     },
     {
       "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
