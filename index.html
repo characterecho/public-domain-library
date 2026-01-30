@@ -57,15 +57,36 @@
 
     body {
       font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      line-height: 1.6;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1.5em;
+      letter-spacing: 0em;
+      font-size: 1rem;
       background: #ffffff;
       min-height: 100vh;
       color: var(--text-primary);
     }
 
+    p {
+      font-size: 1rem;
+      line-height: 1.5em;
+    }
+
+    .text-lg { font-size: 1.4rem; }
+    .text-sm { font-size: 0.9rem; }
+
     h1, h2, h3, h4, h5, h6 {
       font-family: 'Urbanist', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1.2em;
+      letter-spacing: -0.02em;
     }
+
+    h1 { font-size: 4rem; }
+    h2 { font-size: 2.8rem; }
+    h3 { font-size: 2.2rem; }
+    h4 { font-size: 1.6rem; }
 
     /* Navigation - matches Squarespace */
     .nav {
@@ -76,8 +97,6 @@
     }
 
     .nav-container {
-      max-width: 1400px;
-      margin: 0 auto;
       padding: 6vw 4vw;
       display: flex;
       align-items: center;
@@ -109,7 +128,10 @@
     .nav-links {
       display: flex;
       align-items: center;
-      gap: 2rem;
+      gap: 2vw;
+      text-align: right;
+      margin-left: auto;
+      padding-left: 2vw;
     }
 
     .nav-link {
@@ -192,11 +214,8 @@
     }
 
     .header h1 {
-      font-size: 2.5rem;
-      font-weight: 500;
       margin-bottom: 0.5rem;
       color: var(--text-primary);
-      letter-spacing: -0.02em;
     }
 
     .header .subtitle {
