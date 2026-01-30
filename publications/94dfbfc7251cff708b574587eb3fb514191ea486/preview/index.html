@@ -1,0 +1,480 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Velveteen Rabbit by Margery Williams Bianco | Character Echo</title>
+  <meta name="description" content="Listen to The Velveteen Rabbit by Margery Williams Bianco - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="The Velveteen Rabbit - Audiobook">
+  <meta property="og:description" content="Listen to The Velveteen Rabbit by Margery Williams Bianco with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/94dfbfc7251cff708b574587eb3fb514191ea486">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/94dfbfc7251cff708b574587eb3fb514191ea486/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Velveteen Rabbit">
+  <meta name="twitter:description" content="Listen to The Velveteen Rabbit by Margery Williams Bianco with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/94dfbfc7251cff708b574587eb3fb514191ea486/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-family: var(--font-literary);
+      font-size: 1.85rem;
+      font-weight: 400;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      letter-spacing: 0.02em;
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      font-family: var(--font-literary);
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 1.6rem;
+      font-weight: 400;
+      font-style: italic;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="The Velveteen Rabbit cover" class="cover-image">
+          
+          <h1>The Velveteen Rabbit</h1>
+          <p class="author">by Margery Williams Bianco</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/94dfbfc7251cff708b574587eb3fb514191ea486" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="VELVETEEN_RABBIT" onclick="playVoiceSample('VELVETEEN_RABBIT')">
+              <img src="characters/VELVETEEN_RABBIT.png" alt="The Velveteen Rabbit" class="character-portrait">
+              <div class="character-name">The Velveteen Rabbit</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="SKIN_HORSE" onclick="playVoiceSample('SKIN_HORSE')">
+              <img src="characters/SKIN_HORSE.png" alt="The Skin Horse" class="character-portrait">
+              <div class="character-name">The Skin Horse</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="NANA" onclick="playVoiceSample('NANA')">
+              <img src="characters/NANA.png" alt="Nana" class="character-portrait">
+              <div class="character-name">Nana</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-VELVETEEN_RABBIT" preload="none">
+            <source src="characters/VELVETEEN_RABBIT.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-SKIN_HORSE" preload="none">
+            <source src="characters/SKIN_HORSE.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-NANA" preload="none">
+            <source src="characters/NANA.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>Christmas Morning</h2>
+          <div class="chapter-text">
+            
+              <p>Christmas Morning</p>
+<p>For a long time he lived in the toy cupboard or on the nursery floor, and no one thought very much about him. He was naturally shy, and being only made of velveteen, some of the more expensive toys quite snubbed him. The mechanical toys were very superior, and looked down upon every one else; they were full of modern ideas, and pretended they were real. The model boat, who had lived through two seasons and lost most of his paint, caught the tone from them and never missed an opportunity of referring to his rigging in technical terms. The Rabbit could not claim to be a model of anything, for he didn&#39;t know that real rabbits existed; he thought they were all stuffed with sawdust like himself, and he understood that sawdust was quite out-of-date and should never be mentioned in modern circles. Even Timothy, the jointed wooden lion, who was made by the disabled soldiers, and should have had broader views, put on airs and pretended he was connected with Government. Between them all the poor little Rabbit was made to feel himself very insignificant and commonplace, and the only person who was kind to him at all was the Skin Horse.</p>
+<p>The Skin Horse had lived longer in the nursery than any of the others. He was so old that his brown coat was bald in patches and showed the seams underneath, and most of the hairs in his tail had been pulled out to string bead necklaces. He was wise, for he had seen a long succession of mechanical toys arrive to boast and swagger, and by-and-by break their mainsprings and pass away, and he knew that they were only toys, and would never turn into anything else. For nursery magic is very strange and wonderful, and only those playthings that are old and wise and experienced like the Skin Horse understand all about it.</p>
+<p>&quot;What is REAL?&quot; asked the Rabbit one day, when they were lying side by side near the nursery fender, before Nana came to tidy the room. &quot;Does it mean having things that buzz inside you and a stick-out handle?&quot;</p>
+<p>&quot;Real isn&#39;t how you are made,&quot; said the Skin Horse. &quot;It&#39;s a thing that happens to you. When a child loves you for a long, long time, not just to play with, but REALLY loves you, then you become Real.&quot;</p>
+<p>&quot;Does it hurt?&quot; asked the Rabbit.</p>
+<p>&quot;Sometimes,&quot; said the Skin Horse, for he was always truthful. &quot;When you are Real you don&#39;t mind being hurt.&quot;</p>
+<p>&quot;Does it happen all at once, like being wound up,&quot; he asked, &quot;or bit by bit?&quot;</p>
+<p>&quot;It doesn&#39;t happen all at once,&quot; said the Skin Horse. &quot;You become. It takes a long time. That&#39;s why it doesn&#39;t happen often to people who break easily, or have sharp edges, or who have to be carefully kept. Generally, by the time you are Real, most of your hair has been loved off, and your eyes drop out and you get loose in the joints and very shabby. But these things don&#39;t matter at all, because once you are Real you can&#39;t be ugly, except to people who don&#39;t understand.&quot;</p>
+<p>&quot;I suppose you are real?&quot; said the Rabbit. And then he wished he had not said it, for he thought the Skin Horse might be sensitive. But the Skin Horse only smiled.</p>
+<p>The Skin Horse Tells His Story</p>
+<p>&quot;The Boy&#39;s Uncle made me Real,&quot; he said. &quot;That was a great many years ago; but once you are Real you can&#39;t become unreal again. It lasts for always.&quot;</p>
+<p>The Rabbit sighed. He thought it would be a long time before this magic called Real happened to him. He longed to become Real, to know what it felt like; and yet the idea of growing shabby and losing his eyes and whiskers was rather sad. He wished that he could become it without these uncomfortable things happening to him.</p>
+<p>There was a person called Nana who ruled the nursery. Sometimes she took no notice of the playthings lying about, and sometimes, for no reason whatever, she went swooping about like a great wind and hustled them away in cupboards. She called this &quot;tidying up,&quot; and the playthings all hated it, especially the tin ones. The Rabbit didn&#39;t mind it so much, for wherever he was thrown he came down soft.</p>
+<p>One evening, when the Boy was going to bed, he couldn&#39;t find the china dog that always slept with him. Nana was in a hurry, and it was too much trouble to hunt for china dogs at bedtime, so she simply looked about her, and seeing that the toy cupboard door stood open, she made a swoop.</p>
+<p>&quot;Here,&quot; she said, &quot;take your old Bunny! He&#39;ll do to sleep with you!&quot; And she dragged the Rabbit out by one ear, and put him into the Boy&#39;s arms.</p>
+<p>That night, and for many nights after, the Velveteen Rabbit slept in the Boy&#39;s bed. At first he found it rather uncomfortable, for the Boy hugged him very tight, and sometimes he rolled over on him, and sometimes he pushed him so far under the pillow that the Rabbit could scarcely breathe. And he missed, too, those long moonlight hours in the nursery, when all the house was silent, and his talks with the Skin Horse. But very soon he grew to like it, for the Boy used to talk to him, and made nice tunnels for him under the bedclothes that he said were like the burrows the real rabbits lived in. And they had splendid games together, in whispers, when Nana had gone away to her supper and left the night-light burning on the mantelpiece. And when the Boy dropped off to sleep, the Rabbit would snuggle down close under his little warm chin and dream, with the Boy&#39;s hands clasped close round him all night long.</p>
+<p>And so time went on, and the little Rabbit was very happy-so happy that he never noticed how his beautiful velveteen fur was getting shabbier and shabbier, and his tail becoming unsewn, and all the pink rubbed off his nose where the Boy had kissed him.</p>
+<p>Spring came, and they had long days in the garden, for wherever the Boy went the Rabbit went too. He had rides in the wheelbarrow, and picnics on the grass, and lovely fairy huts built for him under the raspberry canes behind the flower border. And once, when the Boy was called away suddenly to go out to tea, the Rabbit was left out on the lawn until long after dusk, and Nana had to come and look for him with the candle because the Boy couldn&#39;t go to sleep unless he was there. He was wet through with the dew and quite earthy from diving into the burrows the Boy had made for him in the flower bed, and Nana grumbled as she rubbed him off with a corner of her apron.</p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>
+        Listen to the full audiobook on
+        <a href="https://app.characterecho.com/p/94dfbfc7251cff708b574587eb3fb514191ea486">Character Echo</a>
+      </p>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+</body>
+</html>

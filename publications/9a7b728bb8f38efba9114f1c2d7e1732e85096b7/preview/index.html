@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Romeo and Juliet by William Shakespeare | Character Echo</title>
+  <meta name="description" content="Listen to Romeo and Juliet by William Shakespeare - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="Romeo and Juliet - Audiobook">
+  <meta property="og:description" content="Listen to Romeo and Juliet by William Shakespeare with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/9a7b728bb8f38efba9114f1c2d7e1732e85096b7">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Romeo and Juliet">
+  <meta name="twitter:description" content="Listen to Romeo and Juliet by William Shakespeare with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/9a7b728bb8f38efba9114f1c2d7e1732e85096b7/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-family: var(--font-literary);
+      font-size: 1.85rem;
+      font-weight: 400;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      letter-spacing: 0.02em;
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      font-family: var(--font-literary);
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 1.6rem;
+      font-weight: 400;
+      font-style: italic;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="Romeo and Juliet cover" class="cover-image">
+          
+          <h1>Romeo and Juliet</h1>
+          <p class="author">by William Shakespeare</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/9a7b728bb8f38efba9114f1c2d7e1732e85096b7" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="ROMEO" onclick="playVoiceSample('ROMEO')">
+              <img src="characters/ROMEO.png" alt="Romeo" class="character-portrait">
+              <div class="character-name">Romeo</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="CAPULET" onclick="playVoiceSample('CAPULET')">
+              <img src="characters/CAPULET.png" alt="Lord Capulet" class="character-portrait">
+              <div class="character-name">Lord Capulet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="BENVOLIO" onclick="playVoiceSample('BENVOLIO')">
+              <img src="characters/BENVOLIO.png" alt="Benvolio" class="character-portrait">
+              <div class="character-name">Benvolio</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="LADY_CAPULET" onclick="playVoiceSample('LADY_CAPULET')">
+              <img src="characters/LADY_CAPULET.png" alt="Lady Capulet" class="character-portrait">
+              <div class="character-name">Lady Capulet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="PRINCE_ESCALUS" onclick="playVoiceSample('PRINCE_ESCALUS')">
+              <img src="characters/PRINCE_ESCALUS.png" alt="Prince Escalus" class="character-portrait">
+              <div class="character-name">Prince Escalus</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="SAMPSON" onclick="playVoiceSample('SAMPSON')">
+              <img src="characters/SAMPSON.png" alt="Sampson" class="character-portrait">
+              <div class="character-name">Sampson</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="TYBALT" onclick="playVoiceSample('TYBALT')">
+              <img src="characters/TYBALT.png" alt="Tybalt" class="character-portrait">
+              <div class="character-name">Tybalt</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="GREGORY" onclick="playVoiceSample('GREGORY')">
+              <img src="characters/GREGORY.png" alt="Gregory" class="character-portrait">
+              <div class="character-name">Gregory</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-ROMEO" preload="none">
+            <source src="characters/ROMEO.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-CAPULET" preload="none">
+            <source src="characters/CAPULET.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-BENVOLIO" preload="none">
+            <source src="characters/BENVOLIO.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-LADY_CAPULET" preload="none">
+            <source src="characters/LADY_CAPULET.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-PRINCE_ESCALUS" preload="none">
+            <source src="characters/PRINCE_ESCALUS.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-SAMPSON" preload="none">
+            <source src="characters/SAMPSON.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-TYBALT" preload="none">
+            <source src="characters/TYBALT.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-GREGORY" preload="none">
+            <source src="characters/GREGORY.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>ACT I</h2>
+          <div class="chapter-text">
+            
+              <p>ACT I</p>
+<p>Enter Sampson and Gregory armed with swords and bucklers.</p>
+<p> SAMPSON.<br> Gregory, on my word, we’ll not carry coals. </p>
+<p> GREGORY.<br> No, for then we should be colliers. </p>
+<p> SAMPSON.<br> I mean, if we be in choler, we’ll draw. </p>
+<p> GREGORY.<br> Ay, while you live, draw your neck out o’ the collar. </p>
+<p> SAMPSON.<br> I strike quickly, being moved. </p>
+<p> GREGORY.<br> But thou art not quickly moved to strike. </p>
+<p> SAMPSON.<br> A dog of the house of Montague moves me. </p>
+<p> GREGORY.<br> To move is to stir; and to be valiant is to stand: therefore, if thou art moved, thou runn’st away. </p>
+<p> SAMPSON.<br> A dog of that house shall move me to stand.<br> I will take the wall of any man or maid of Montague’s. </p>
+<p> GREGORY.<br> That shows thee a weak slave, for the weakest goes to the wall. </p>
+<p> SAMPSON.<br> True, and therefore women, being the weaker vessels, are ever thrust to the wall: therefore I will push Montague’s men from the wall, and thrust his maids to the wall. </p>
+<p> GREGORY.<br> The quarrel is between our masters and us their men. </p>
+<p> SAMPSON.<br> ’Tis all one, I will show myself a tyrant: when I have fought with the men I will be civil with the maids, I will cut off their heads. </p>
+<p> GREGORY.<br> The heads of the maids? </p>
+<p> SAMPSON.<br> Ay, the heads of the maids, or their maidenheads; take it in what sense thou wilt. </p>
+<p> GREGORY.<br> They must take it in sense that feel it. </p>
+<p> SAMPSON.<br> Me they shall feel while I am able to stand: and ’tis known I am a pretty piece of flesh. </p>
+<p> GREGORY.<br> ’Tis well thou art not fish; if thou hadst, thou hadst been poor John. Draw thy tool; here comes of the house of Montagues. </p>
+<p>Enter Abram and Balthasar.</p>
+<p> SAMPSON.<br> My naked weapon is out: quarrel, I will back thee. </p>
+<p> GREGORY.<br> How? Turn thy back and run? </p>
+<p> SAMPSON.<br> Fear me not. </p>
+<p> GREGORY.<br> No, marry; I fear thee! </p>
+<p> SAMPSON.<br> Let us take the law of our sides; let them begin. </p>
+<p> GREGORY.<br> I will frown as I pass by, and let them take it as they list.</p>
+<p> SAMPSON.<br> Nay, as they dare. I will bite my thumb at them, which is disgrace to them if they bear it. </p>
+<p> ABRAM.<br> Do you bite your thumb at us, sir? </p>
+<p> SAMPSON.<br> I do bite my thumb, sir. </p>
+<p> ABRAM.<br> Do you bite your thumb at us, sir? </p>
+<p> SAMPSON.<br> Is the law of our side if I say ay? </p>
+<p> GREGORY.<br> No. </p>
+<p> SAMPSON.<br> No sir, I do not bite my thumb at you, sir; but I bite my thumb, sir.</p>
+<p> GREGORY.<br> Do you quarrel, sir? </p>
+<p> ABRAM.<br> Quarrel, sir? No, sir. </p>
+<p> SAMPSON.<br> But if you do, sir, I am for you. I serve as good a man as you.</p>
+<p> ABRAM.<br> No better. </p>
+<p> SAMPSON.<br> Well, sir. </p>
+<p>Enter Benvolio.</p>
+<p> GREGORY.<br> Say better; here comes one of my master’s kinsmen. </p>
+<p> SAMPSON.<br> Yes, better, sir. </p>
+<p> ABRAM.<br> You lie. </p>
+<p> SAMPSON.<br> Draw, if you be men. Gregory, remember thy washing blow. </p>
+<p>[<i>They fight.</i>]</p>
+<p> BENVOLIO.<br> Part, fools! put up your swords, you know not what you do. </p>
+<p>[<i>Beats down their swords.</i>]</p>
+<p>Enter Tybalt.</p>
+<p> TYBALT.<br> What, art thou drawn among these heartless hinds?<br> Turn thee Benvolio, look upon thy death. </p>
+<p> BENVOLIO.<br> I do but keep the peace, put up thy sword,<br> Or manage it to part these men with me. </p>
+<p> TYBALT.<br> What, drawn, and talk of peace? I hate the word<br> As I hate hell, all Montagues, and thee:<br> Have at thee, coward. </p>
+<p>[<i>They fight.</i>]</p>
+<p>Enter three or four Citizens with clubs.</p>
+<p> FIRST CITIZEN.<br> Clubs, bills and partisans! Strike! Beat them down!<br> Down with the Capulets! Down with the Montagues! </p>
+<p>Enter Capulet in his gown, and Lady Capulet.</p>
+<p> CAPULET.<br> What noise is this? Give me my long sword, ho! </p>
+<p> LADY CAPULET.<br> A crutch, a crutch! Why call you for a sword? </p>
+<p> CAPULET.<br> My sword, I say! Old Montague is come,<br> And flourishes his blade in spite of me. </p>
+<p>Enter Montague and his Lady Montague.</p>
+<p> MONTAGUE.<br> Thou villain Capulet! Hold me not, let me go. </p>
+<p> LADY MONTAGUE.<br> Thou shalt not stir one foot to seek a foe. </p>
+<p>Enter Prince Escalus, with Attendants.</p>
+<p> PRINCE.<br> Rebellious subjects, enemies to peace,<br> Profaners of this neighbour-stained steel,—<br> Will they not hear? What, ho! You men, you beasts,<br> That quench the fire of your pernicious rage<br> With purple fountains issuing from your veins,<br> On pain of torture, from those bloody hands<br> Throw your mistemper’d weapons to the ground<br> And hear the sentence of your moved prince.<br> Three civil brawls, bred of an airy word,<br> By thee, old Capulet, and Montague,<br> Have thrice disturb’d the quiet of our streets,<br> And made Verona’s ancient citizens<br> Cast by their grave beseeming ornaments,<br> To wield old partisans, in hands as old,<br> Canker’d with peace, to part your canker’d hate.<br> If ever you disturb our streets again,<br> Your lives shall pay the forfeit of the peace.<br> For this time all the rest depart away:<br> You, Capulet, shall go along with me,<br> And Montague, come you this afternoon,<br> To know our farther pleasure in this case,<br> To old Free-town, our common judgement-place.<br> Once more, on pain of death, all men depart. </p>
+<p>[<i>Exeunt Prince and Attendants; Capulet, Lady Capulet, Tybalt, Citizens and Servants.</i>]</p>
+<p> MONTAGUE.<br> Who set this ancient quarrel new abroach?<br> Speak, nephew, were you by when it began? </p>
+<p> BENVOLIO.<br> Here were the servants of your adversary<br> And yours, close fighting ere I did approach.<br> I drew to part them, in the instant came<br> The fiery Tybalt, with his sword prepar’d,<br> Which, as he breath’d defiance to my ears,<br> He swung about his head, and cut the winds,<br> Who nothing hurt withal, hiss’d him in scorn.<br> While we were interchanging thrusts and blows<br> Came more and more, and fought on part and part,<br> Till the Prince came, who parted either part. </p>
+<p> LADY MONTAGUE.<br> O where is Romeo, saw you him today?<br> Right glad I am he was not at this fray. </p>
+<p> BENVOLIO.<br> Madam, an hour before the worshipp’d sun<br> Peer’d forth the golden window of the east,<br> A troubled mind drave me to walk abroad,<br> Where underneath the grove of sycamore<br> That westward rooteth from this city side,<br> So early walking did I see your son.<br> Towards him I made, but he was ware of me,<br> And stole into the covert of the wood.<br> I, measuring his affections by my own,<br> Which then most sought where most might not be found,<br> Being one too many by my weary self,<br> Pursu’d my humour, not pursuing his,<br> And gladly shunn’d who gladly fled from me. </p>
+<p> MONTAGUE.<br> Many a morning hath he there been seen,<br> With tears augmenting the fresh morning’s dew,<br> Adding to clouds more clouds with his deep sighs;<br> But all so soon as the all-cheering sun<br> Should in the farthest east begin to draw<br> The shady curtains from Aurora’s bed,<br> Away from light steals home my heavy son,<br> And private in his chamber pens himself,<br> Shuts up his windows, locks fair daylight out<br> And makes himself an artificial night.<br> Black and portentous must this humour prove,<br> Unless good counsel may the cause remove. </p>
+<p> BENVOLIO.<br> My noble uncle, do you know the cause? </p>
+<p> MONTAGUE.<br> I neither know it nor can learn of him. </p>
+<p> BENVOLIO.<br> Have you importun’d him by any means? </p>
+<p> MONTAGUE.<br> Both by myself and many other friends;<br> But he, his own affections’ counsellor,<br> Is to himself—I will not say how true—<br> But to himself so secret and so close,<br> So far from sounding and discovery,<br> As is the bud bit with an envious worm<br> Ere he can spread his sweet leaves to the air,<br> Or dedicate his beauty to the sun.<br> Could we but learn from whence his sorrows grow,<br> We would as willingly give cure as know. </p>
+<p>Enter Romeo.</p>
+<p> BENVOLIO.<br> See, where he comes. So please you step aside;<br> I’ll know his grievance or be much denied. </p>
+<p> MONTAGUE.<br> I would thou wert so happy by thy stay<br> To hear true shrift. Come, madam, let’s away, </p>
+<p>[<i>Exeunt Montague and Lady Montague.</i>]</p>
+<p> BENVOLIO.<br> Good morrow, cousin. </p>
+<p> ROMEO.<br> Is the day so young? </p>
+<p> BENVOLIO.<br> But new struck nine. </p>
+<p> ROMEO.<br> Ay me, sad hours seem long.<br> Was that my father that went hence so fast? </p>
+<p> BENVOLIO.<br> It was. What sadness lengthens Romeo’s hours? </p>
+<p> ROMEO.<br> Not having that which, having, makes them short. </p>
+<p> BENVOLIO.<br> In love? </p>
+<p> ROMEO.<br> Out. </p>
+<p> BENVOLIO.<br> Of love? </p>
+<p> ROMEO.<br> Out of her favour where I am in love. </p>
+<p> BENVOLIO.<br> Alas that love so gentle in his view,<br> Should be so tyrannous and rough in proof. </p>
+<p> ROMEO.<br> Alas that love, whose view is muffled still,<br> Should, without eyes, see pathways to his will!<br> Where shall we dine? O me! What fray was here?<br> Yet tell me not, for I have heard it all.<br> Here’s much to do with hate, but more with love:<br> Why, then, O brawling love! O loving hate!<br> O anything, of nothing first create!<br> O heavy lightness! serious vanity!<br> Misshapen chaos of well-seeming forms!<br> Feather of lead, bright smoke, cold fire, sick health!<br> Still-waking sleep, that is not what it is!<br> This love feel I, that feel no love in this.<br> Dost thou not laugh? </p>
+<p> BENVOLIO.<br> No coz, I rather weep. </p>
+<p> ROMEO.<br> Good heart, at what? </p>
+<p> BENVOLIO.<br> At thy good heart’s oppression. </p>
+<p> ROMEO.<br> Why such is love’s transgression.<br> Griefs of mine own lie heavy in my breast,<br> Which thou wilt propagate to have it prest<br> With more of thine. This love that thou hast shown<br> Doth add more grief to too much of mine own.<br> Love is a smoke made with the fume of sighs;<br> Being purg’d, a fire sparkling in lovers’ eyes;<br> Being vex’d, a sea nourish’d with lovers’ tears:<br> What is it else? A madness most discreet,<br> A choking gall, and a preserving sweet.<br> Farewell, my coz. </p>
+<p>[<i>Going.</i>]</p>
+<p> BENVOLIO.<br> Soft! I will go along:<br> And if you leave me so, you do me wrong. </p>
+<p> ROMEO.<br> Tut! I have lost myself; I am not here.<br> This is not Romeo, he’s some other where. </p>
+<p> BENVOLIO.<br> Tell me in sadness who is that you love? </p>
+<p> ROMEO.<br> What, shall I groan and tell thee? </p>
+<p> BENVOLIO.<br> Groan! Why, no; but sadly tell me who. </p>
+<p> ROMEO.<br> Bid a sick man in sadness make his will,<br> A word ill urg’d to one that is so ill.<br> In sadness, cousin, I do love a woman. </p>
+<p> BENVOLIO.<br> I aim’d so near when I suppos’d you lov’d. </p>
+<p> ROMEO.<br> A right good markman, and she’s fair I love. </p>
+<p> BENVOLIO.<br> A right fair mark, fair coz, is soonest hit. </p>
+<p> ROMEO.<br> Well, in that hit you miss: she’ll not be hit<br> With Cupid’s arrow, she hath Dian’s wit;<br> And in strong proof of chastity well arm’d,<br> From love’s weak childish bow she lives uncharm’d.<br> She will not stay the siege of loving terms<br> Nor bide th’encounter of assailing eyes,<br> Nor ope her lap to saint-seducing gold:<br> O she’s rich in beauty, only poor<br> That when she dies, with beauty dies her store. </p>
+<p> BENVOLIO.<br> Then she hath sworn that she will still live chaste? </p>
+<p> ROMEO.<br> She hath, and in that sparing makes huge waste;<br> For beauty starv’d with her severity,<br> Cuts beauty off from all posterity.<br> She is too fair, too wise; wisely too fair,<br> To merit bliss by making me despair.<br> She hath forsworn to love, and in that vow<br> Do I live dead, that live to tell it now. </p>
+<p> BENVOLIO.<br> Be rul’d by me, forget to think of her. </p>
+<p> ROMEO.<br> O teach me how I should forget to think. </p>
+<p> BENVOLIO.<br> By giving liberty unto thine eyes;<br> Examine other beauties. </p>
+<p> ROMEO.<br> ’Tis the way<br> To call hers, exquisite, in question more.<br> These happy masks that kiss fair ladies’ brows,<br> Being black, puts us in mind they hide the fair;<br> He that is strucken blind cannot forget<br> The precious treasure of his eyesight lost.<br> Show me a mistress that is passing fair,<br> What doth her beauty serve but as a note<br> Where I may read who pass’d that passing fair?<br> Farewell, thou canst not teach me to forget. </p>
+<p> BENVOLIO.<br> I’ll pay that doctrine, or else die in debt. </p>
+<p>[<i>Exeunt.</i>]</p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>
+        Listen to the full audiobook on
+        <a href="https://app.characterecho.com/p/9a7b728bb8f38efba9114f1c2d7e1732e85096b7">Character Echo</a>
+      </p>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+</body>
+</html>

@@ -1,0 +1,503 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Canterville Ghost by Oscar Wilde | Character Echo</title>
+  <meta name="description" content="Listen to The Canterville Ghost by Oscar Wilde - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="The Canterville Ghost - Audiobook">
+  <meta property="og:description" content="Listen to The Canterville Ghost by Oscar Wilde with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/c83960b8fc4df8d871352b2a0a657a1b95fb656a">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Canterville Ghost">
+  <meta name="twitter:description" content="Listen to The Canterville Ghost by Oscar Wilde with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/c83960b8fc4df8d871352b2a0a657a1b95fb656a/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-family: var(--font-literary);
+      font-size: 1.85rem;
+      font-weight: 400;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      letter-spacing: 0.02em;
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      font-family: var(--font-literary);
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 1.6rem;
+      font-weight: 400;
+      font-style: italic;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="The Canterville Ghost cover" class="cover-image">
+          
+          <h1>The Canterville Ghost</h1>
+          <p class="author">by Oscar Wilde</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/c83960b8fc4df8d871352b2a0a657a1b95fb656a" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="MR_HIRAM_B_OTIS" onclick="playVoiceSample('MR_HIRAM_B_OTIS')">
+              <img src="characters/MR_HIRAM_B_OTIS.png" alt="Mr. Hiram B. Otis" class="character-portrait">
+              <div class="character-name">Mr. Hiram B. Otis</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="LORD_CANTERVILLE" onclick="playVoiceSample('LORD_CANTERVILLE')">
+              <img src="characters/LORD_CANTERVILLE.png" alt="Lord Canterville" class="character-portrait">
+              <div class="character-name">Lord Canterville</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="MRS_OTIS" onclick="playVoiceSample('MRS_OTIS')">
+              <img src="characters/MRS_OTIS.png" alt="Mrs. Otis" class="character-portrait">
+              <div class="character-name">Mrs. Otis</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="MRS_UMNEY" onclick="playVoiceSample('MRS_UMNEY')">
+              <img src="characters/MRS_UMNEY.png" alt="Mrs. Umney" class="character-portrait">
+              <div class="character-name">Mrs. Umney</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="WASHINGTON_OTIS" onclick="playVoiceSample('WASHINGTON_OTIS')">
+              <img src="characters/WASHINGTON_OTIS.png" alt="Washington Otis" class="character-portrait">
+              <div class="character-name">Washington Otis</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-MR_HIRAM_B_OTIS" preload="none">
+            <source src="characters/MR_HIRAM_B_OTIS.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-LORD_CANTERVILLE" preload="none">
+            <source src="characters/LORD_CANTERVILLE.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-MRS_OTIS" preload="none">
+            <source src="characters/MRS_OTIS.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-MRS_UMNEY" preload="none">
+            <source src="characters/MRS_UMNEY.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-WASHINGTON_OTIS" preload="none">
+            <source src="characters/WASHINGTON_OTIS.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>I</h2>
+          <div class="chapter-text">
+            
+              <p>When Mr. Hiram B. Otis, the American Minister, bought Canterville Chase, every one told him he was doing a very foolish thing, as there was no doubt at all that the place was haunted. Indeed, Lord Canterville himself, who was a man of the most punctilious honour, had felt it his duty to mention the fact to Mr. Otis when they came to discuss terms.</p>
+<p>"We have not cared to live in the place ourselves," said Lord Canterville, "since my grandaunt, the Dowager Duchess of Bolton, was frightened into a fit, from which she never really recovered, by two skeleton hands being placed on her shoulders as she was dressing for dinner, and I feel bound to tell you, Mr. Otis, that the ghost has been seen by several living members of my family, as well as by the rector of the parish, the Rev. Augustus Dampier, who is a Fellow of King's College, Cambridge. After the unfortunate accident to the Duchess, none of our younger servants would stay with us, and Lady Canterville often got very little sleep at night, in consequence of the mysterious noises that came from the corridor and the library."</p>
+<p>"My Lord," answered the Minister, "I will take the furniture and the ghost at a valuation. I have come from a modern country, where we have everything that money can buy; and with all our spry young fellows painting the Old World red, and carrying off your best actors and prima-donnas, I reckon that if there were such a thing as a ghost in Europe, we'd have it at home in a very short time in one of our public museums, or on the road as a show."</p>
+<p>"I fear that the ghost exists," said Lord Canterville, smiling, "though it may have resisted the overtures of your enterprising impresarios. It has been well known for three centuries, since 1584 in fact, and always makes its appearance before the death of any member of our family."</p>
+<p>"Well, so does the family doctor for that matter, Lord Canterville. But there is no such thing, sir, as a ghost, and I guess the laws of Nature are not going to be suspended for the British aristocracy."</p>
+<p>"You are certainly very natural in America," answered Lord Canterville, who did not quite understand Mr. Otis's last observation, "and if you don't mind a ghost in the house, it is all right. Only you must remember I warned you."</p>
+<p>MISS VIRGINIA E. OTIS</p>
+<p>A few weeks after this, the purchase was concluded, and at the close of the season the Minister and his family went down to Canterville Chase. Mrs. Otis, who, as Miss Lucretia R. Tappan, of West 53d Street, had been a celebrated New York belle, was now a very handsome, middle-aged woman, with fine eyes, and a superb profile. Many American ladies on leaving their native land adopt an appearance of chronic ill-health, under the impression that it is a form of European refinement, but Mrs. Otis had never fallen into this error. She had a magnificent constitution, and a really wonderful amount of animal spirits. Indeed, in many respects, she was quite English, and was an excellent example of the fact that we have really everything in common with America nowadays, except, of course, language. Her eldest son, christened Washington by his parents in a moment of patriotism, which he never ceased to regret, was a fair-haired, rather good-looking young man, who had qualified himself for American diplomacy by leading the German at the Newport Casino for three successive seasons, and even in London was well known as an excellent dancer. Gardenias and the peerage were his only weaknesses. Otherwise he was extremely sensible. Miss Virginia E. Otis was a little girl of fifteen, lithe and lovely as a fawn, and with a fine freedom in her large blue eyes. She was a wonderful Amazon, and had once raced old Lord Bilton on her pony twice round the park, winning by a length and a half, just in front of the Achilles statue, to the huge delight of the young Duke of Cheshire, who proposed for her on the spot, and was sent back to Eton that very night by his guardians, in floods of tears. After Virginia came the twins, who were usually called "The Star and Stripes," as they were always getting swished. They were delightful boys, and, with the exception of the worthy Minister, the only true republicans of the family.</p>
+<p>"HAD ONCE RACED OLD LORD BILTON ON HER PONY"</p>
+<p>As Canterville Chase is seven miles from Ascot, the nearest railway station, Mr. Otis had telegraphed for a waggonette to meet them, and they started on their drive in high spirits. It was a lovely July evening, and the air was delicate with the scent of the pinewoods. Now and then they heard a wood-pigeon brooding over its own sweet voice, or saw, deep in the rustling fern, the burnished breast of the pheasant. Little squirrels peered at them from the beech-trees as they went by, and the rabbits scudded away through the brushwood and over the mossy knolls, with their white tails in the air. As they entered the avenue of Canterville Chase, however, the sky became suddenly overcast with clouds, a curious stillness seemed to hold the atmosphere, a great flight of rooks passed silently over their heads, and, before they reached the house, some big drops of rain had fallen.</p>
+<p>Standing on the steps to receive them was an old woman, neatly dressed in black silk, with a white cap and apron. This was Mrs. Umney, the housekeeper, whom Mrs. Otis, at Lady Canterville's earnest request, had consented to keep in her former position. She made them each a low curtsey as they alighted, and said in a quaint, old-fashioned manner, "I bid you welcome to Canterville Chase." Following her, they passed through the fine Tudor hall into the library, a long, low room, panelled in black oak, at the end of which was a large stained glass window. Here they found tea laid out for them, and, after taking off their wraps, they sat down and began to look round, while Mrs. Umney waited on them.</p>
+<p>Suddenly Mrs. Otis caught sight of a dull red stain on the floor just by the fireplace, and, quite unconscious of what it really signified, said to Mrs. Umney, "I am afraid something has been spilt there."</p>
+<p>"Yes, madam," replied the old housekeeper in a low voice, "blood has been spilt on that spot."</p>
+<p>"BLOOD HAS BEEN SPILLED ON THAT SPOT"</p>
+<p>"How horrid!" cried Mrs. Otis; "I don't at all care for blood-stains in a sitting-room. It must be removed at once."</p>
+<p>The old woman smiled, and answered in the same low, mysterious voice, "It is the blood of Lady Eleanore de Canterville, who was murdered on that very spot by her own husband, Sir Simon de Canterville, in 1575. Sir Simon survived her nine years, and disappeared suddenly under very mysterious circumstances. His body has never been discovered, but his guilty spirit still haunts the Chase. The blood-stain has been much admired by tourists and others, and cannot be removed."</p>
+<p>"That is all nonsense," cried Washington Otis; "Pinkerton's Champion Stain Remover and Paragon Detergent will clean it up in no time," and before the terrified housekeeper could interfere, he had fallen upon his knees, and was rapidly scouring the floor with a small stick of what looked like a black cosmetic. In a few moments no trace of the blood-stain could be seen.</p>
+<p>"I knew Pinkerton would do it," he exclaimed, triumphantly, as he looked round at his admiring family; but no sooner had he said these words than a terrible flash of lightning lit up the sombre room, a fearful peal of thunder made them all start to their feet, and Mrs. Umney fainted.</p>
+<p>"What a monstrous climate!" said the American Minister, calmly, as he lit a long cheroot. "I guess the old country is so overpopulated that they have not enough decent weather for everybody. I have always been of opinion that emigration is the only thing for England."</p>
+<p>"My dear Hiram," cried Mrs. Otis, "what can we do with a woman who faints?"</p>
+<p>"Charge it to her like breakages," answered the Minister; "she won't faint after that;" and in a few moments Mrs. Umney certainly came to. There was no doubt, however, that she was extremely upset, and she sternly warned Mr. Otis to beware of some trouble coming to the house.</p>
+<p>"I have seen things with my own eyes, sir," she said, "that would make any Christian's hair stand on end, and many and many a night I have not closed my eyes in sleep for the awful things that are done here." Mr. Otis, however, and his wife warmly assured the honest soul that they were not afraid of ghosts, and, after invoking the blessings of Providence on her new master and mistress, and making arrangements for an increase of salary, the old housekeeper tottered off to her own room.</p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>
+        Listen to the full audiobook on
+        <a href="https://app.characterecho.com/p/c83960b8fc4df8d871352b2a0a657a1b95fb656a">Character Echo</a>
+      </p>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+</body>
+</html>
