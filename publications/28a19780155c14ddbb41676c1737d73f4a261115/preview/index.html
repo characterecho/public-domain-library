@@ -368,6 +368,12 @@
           <p class="subtitle">Click to hear their voice</p>
           <div class="characters-grid">
             
+            <div class="character-card" data-character-id="NICK_CARRAWAY" onclick="playVoiceSample('NICK_CARRAWAY')">
+              <img src="characters/NICK_CARRAWAY.png" alt="Nick" class="character-portrait">
+              <div class="character-name">Nick</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
             <div class="character-card" data-character-id="TOM_BUCHANAN" onclick="playVoiceSample('TOM_BUCHANAN')">
               <img src="characters/TOM_BUCHANAN.png" alt="Tom" class="character-portrait">
               <div class="character-name">Tom</div>
@@ -397,6 +403,10 @@
 
         <!-- Hidden audio elements for voice samples -->
         <div class="voice-samples">
+          
+          <audio id="voice-NICK_CARRAWAY" preload="none">
+            <source src="characters/NICK_CARRAWAY.mp3" type="audio/mpeg">
+          </audio>
           
           <audio id="voice-TOM_BUCHANAN" preload="none">
             <source src="characters/TOM_BUCHANAN.mp3" type="audio/mpeg">

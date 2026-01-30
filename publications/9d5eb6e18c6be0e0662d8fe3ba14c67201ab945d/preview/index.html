@@ -363,6 +363,29 @@
         </div>
 
         
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="R. WALTON" onclick="playVoiceSample('R. WALTON')">
+              <img src="characters/R. WALTON.png" alt="Robert Walton" class="character-portrait">
+              <div class="character-name">Robert Walton</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-R. WALTON" preload="none">
+            <source src="characters/R. WALTON.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
       </div>
 
       <!-- Right Column: Chapter Text -->
@@ -398,6 +421,33 @@
     </footer>
   </div>
 
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
   
 </body>
 </html>
