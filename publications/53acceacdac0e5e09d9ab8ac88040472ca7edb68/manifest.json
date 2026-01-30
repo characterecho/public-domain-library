@@ -8,7 +8,7 @@
   "identifier": "53acceacdac0e5e09d9ab8ac88040472ca7edb68",
   "publication_type": "novel",
   "cover_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/cover.png",
-  "total_duration_s": 3513.466553,
+  "total_duration_s": 3609.397166,
   "genre_tags": [
     "Classics",
     "Romance",
@@ -21,7 +21,7 @@
       "ordinal": 0,
       "audio_key": "publications/53acceacdac0e5e09d9ab8ac88040472ca7edb68/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3513.466553
+      "end_s": 3609.397166
     }
   ],
   "segments": [
@@ -47,7 +47,7 @@
       "ordinal": 2,
       "title": "Chapter I The Bertolini",
       "start_s": 10.257,
-      "end_s": 1206.04,
+      "end_s": 1212.375,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -73,8 +73,8 @@
     {
       "ordinal": 3,
       "title": "Chapter II In Santa Croce with No Baedeker",
-      "start_s": 1206.04,
-      "end_s": 2388.644,
+      "start_s": 1212.375,
+      "end_s": 2435.478,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -100,8 +100,8 @@
     {
       "ordinal": 4,
       "title": "Chapter III Music, Violets, and the Letter “S”",
-      "start_s": 2388.644,
-      "end_s": 3513.467,
+      "start_s": 2435.478,
+      "end_s": 3609.397,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
