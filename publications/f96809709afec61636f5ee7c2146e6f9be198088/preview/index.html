@@ -52,6 +52,99 @@
       min-height: 100vh;
     }
 
+    /* Navigation */
+    .nav {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: white;
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    .nav-link {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+
+    .nav-link:hover {
+      color: white;
+    }
+
+    .nav-cta {
+      background: var(--primary-color);
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: background 0.2s;
+    }
+
+    .nav-cta:hover {
+      background: var(--primary-hover);
+    }
+
+    .nav-mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: rgba(0,0,0,0.95);
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-mobile-toggle {
+        display: block;
+      }
+
+      .nav-container {
+        position: relative;
+      }
+    }
+
     .container {
       max-width: 1400px;
       margin: 0 auto;
@@ -338,6 +431,19 @@
   </style>
 </head>
 <body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="https://www.characterecho.com" class="nav-logo">Character Echo</a>
+      <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">&#9776;</button>
+      <div class="nav-links" id="navLinks">
+                <a href="https://library.characterecho.com" class="nav-link">Library</a>
+        <a href="https://www.characterecho.com/about" class="nav-link">About</a>
+        <a href="https://www.characterecho.com/contact" class="nav-link">Contact</a>
+        <a href="https://app.characterecho.com" class="nav-cta">Get the App</a>
+      </div>
+    </div>
+  </nav>
+
   <div class="container">
     <div class="main-content">
       <!-- Left Column: Hero, Audio, CTA, Characters -->
@@ -525,5 +631,12 @@
     }
   </script>
   
+
+  <script>
+    // Mobile nav toggle
+    document.getElementById('navToggle').addEventListener('click', function() {
+      document.getElementById('navLinks').classList.toggle('open');
+    });
+  </script>
 </body>
 </html>
