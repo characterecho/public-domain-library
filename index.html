@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="https://images.squarespace-cdn.com/content/693e911fb26d4b4b3a52c2ce/92c9d8a1-9c41-4cad-8fef-6417bf021ae5/browser.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Urbanist:wght@400;500;600;700&display=swap" rel="stylesheet">
   <title>Public Domain Audiobook Library | Character Echo</title>
   <meta name="description" content="Browse our collection of public domain audiobooks with unique character voices. Classic literature brought to life with AI-powered voice acting.">
 
@@ -53,16 +56,20 @@
     }
 
     body {
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
       line-height: 1.6;
       background: #ffffff;
       min-height: 100vh;
       color: var(--text-primary);
     }
 
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Urbanist', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+
     /* Navigation - matches Squarespace */
     .nav {
-      background: #4a5078;
+      background: #323A7D;
       position: sticky;
       top: 0;
       z-index: 100;
@@ -153,7 +160,7 @@
         top: 100%;
         left: 0;
         right: 0;
-        background: #4a5078;
+        background: #323A7D;
         flex-direction: column;
         padding: 1rem;
         gap: 1rem;
