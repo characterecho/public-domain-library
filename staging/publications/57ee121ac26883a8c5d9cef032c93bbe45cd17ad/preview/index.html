@@ -4,6 +4,9 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" type="image/png" href="https://images.squarespace-cdn.com/content/693e911fb26d4b4b3a52c2ce/92c9d8a1-9c41-4cad-8fef-6417bf021ae5/browser.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Urbanist:wght@400;500;600;700&display=swap" rel="stylesheet">
   <title>The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson | Character Echo</title>
   <meta name="description" content="Listen to The Strange Case of Dr. Jekyll and Mr. Hyde by Robert Louis Stevenson - an immersive audiobook experience with unique character voices.">
 
@@ -44,7 +47,7 @@
     }
 
     body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
       line-height: 1.6;
       color: var(--text-primary);
       
@@ -53,11 +56,13 @@
       min-height: 100vh;
     }
 
-    /* Navigation */
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Urbanist', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    }
+
+    /* Navigation - matches Squarespace */
     .nav {
-      background: rgba(17, 17, 17, 0.85);
-      -webkit-backdrop-filter: blur(12px);
-      backdrop-filter: blur(12px);
+      background: #323A7D;
       position: sticky;
       top: 0;
       z-index: 100;
@@ -66,10 +71,37 @@
     .nav-container {
       max-width: 1400px;
       margin: 0 auto;
-      padding: 1.25rem 2rem;
+      padding: 6vw 4vw;
       display: flex;
       align-items: center;
       justify-content: space-between;
+    }
+
+    @media (min-width: 768px) {
+      .nav-container {
+        padding: 2vw 4vw;
+      }
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .nav-back {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-decoration: none;
+      font-size: 1.5rem;
+      opacity: 0.8;
+      transition: opacity 0.2s;
+    }
+
+    .nav-back:hover {
+      opacity: 1;
     }
 
     .nav-logo {
@@ -78,13 +110,13 @@
     }
 
     .nav-logo img {
-      height: 36px;
+      height: 30px;
       width: auto;
     }
 
     @media (min-width: 768px) {
       .nav-logo img {
-        height: 44px;
+        height: 60px;
       }
     }
 
@@ -103,6 +135,12 @@
 
     .nav-link:hover {
       color: white;
+    }
+
+    .nav-link.active {
+      color: white;
+      text-decoration: underline;
+      text-underline-offset: 4px;
     }
 
     .nav-cta {
@@ -136,7 +174,7 @@
         top: 100%;
         left: 0;
         right: 0;
-        background: rgba(0,0,0,0.95);
+        background: #323A7D;
         flex-direction: column;
         padding: 1rem;
         gap: 1rem;
@@ -466,9 +504,12 @@
 <body>
   <nav class="nav">
     <div class="nav-container">
-      <a href="https://www.characterecho.com" class="nav-logo">
-        <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/897e932a-9fe1-4167-b7c3-51b2a0ecda07/White+logo+-+no+background.png" alt="Character Echo">
-      </a>
+      <div class="nav-left">
+        <a href="https://library.characterecho.com/" class="nav-back" title="Back to Library">&#8592;</a>
+        <a href="https://www.characterecho.com" class="nav-logo">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/897e932a-9fe1-4167-b7c3-51b2a0ecda07/White+logo+-+no+background.png" alt="Character Echo">
+        </a>
+      </div>
       <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">&#9776;</button>
       <div class="nav-links" id="navLinks">
         <a href="https://library.characterecho.com/" class="nav-link">Library</a>
