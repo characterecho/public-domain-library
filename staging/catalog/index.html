@@ -1,0 +1,626 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Public Domain Audiobook Library | Character Echo</title>
+  <meta name="description" content="Browse our collection of public domain audiobooks with unique character voices. Classic literature brought to life with AI-powered voice acting.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="Public Domain Audiobook Library">
+  <meta property="og:description" content="Classic literature brought to life with unique character voices.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://library.characterecho.com/">
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Public Domain Audiobook Library">
+  <meta name="twitter:description" content="Classic literature brought to life with unique character voices.">
+
+  <!-- Schema.org structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "Public Domain Audiobook Library",
+    "description": "A collection of public domain audiobooks with unique character voices",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Character Echo",
+      "url": "https://characterecho.com"
+    }
+  }
+  </script>
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+      min-height: 100vh;
+      color: white;
+    }
+
+    /* Navigation */
+    .nav {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 1rem 2rem;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    .nav-logo {
+      font-size: 1.25rem;
+      font-weight: 600;
+      color: white;
+      text-decoration: none;
+      letter-spacing: -0.02em;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 2rem;
+    }
+
+    .nav-link {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: color 0.2s;
+    }
+
+    .nav-link:hover {
+      color: white;
+    }
+
+    .nav-link.active {
+      color: white;
+    }
+
+    .nav-cta {
+      background: var(--primary-color);
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: background 0.2s;
+    }
+
+    .nav-cta:hover {
+      background: var(--primary-hover);
+    }
+
+    .nav-mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: rgba(0,0,0,0.95);
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-mobile-toggle {
+        display: block;
+      }
+
+      .nav-container {
+        position: relative;
+      }
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Header */
+    .header {
+      text-align: center;
+      margin-bottom: 3rem;
+    }
+
+    .header h1 {
+      font-family: var(--font-literary);
+      font-size: 2.5rem;
+      font-weight: 400;
+      margin-bottom: 0.5rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .header .subtitle {
+      font-size: 1.1rem;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 2rem;
+    }
+
+    /* Search and Filter */
+    .search-bar {
+      max-width: 500px;
+      margin: 0 auto 1rem;
+    }
+
+    .search-input {
+      width: 100%;
+      padding: 0.875rem 1.25rem;
+      font-size: 1rem;
+      border: none;
+      border-radius: 9999px;
+      background: rgba(255,255,255,0.1);
+      backdrop-filter: blur(10px);
+      color: white;
+      outline: none;
+      transition: background 0.2s;
+    }
+
+    .search-input::placeholder {
+      color: rgba(255,255,255,0.5);
+    }
+
+    .search-input:focus {
+      background: rgba(255,255,255,0.15);
+    }
+
+    .filter-tags {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 0.5rem;
+      margin-bottom: 2rem;
+    }
+
+    .filter-tag {
+      padding: 0.5rem 1rem;
+      font-size: 0.875rem;
+      border: 1px solid rgba(255,255,255,0.2);
+      border-radius: 9999px;
+      background: transparent;
+      color: rgba(255,255,255,0.7);
+      cursor: pointer;
+      transition: all 0.2s;
+    }
+
+    .filter-tag:hover {
+      background: rgba(255,255,255,0.1);
+      color: white;
+    }
+
+    .filter-tag.active {
+      background: var(--primary-color);
+      border-color: var(--primary-color);
+      color: white;
+    }
+
+    /* Stats */
+    .stats {
+      text-align: center;
+      margin-bottom: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.9rem;
+    }
+
+    /* Book Grid */
+    .book-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 1.5rem;
+    }
+
+    @media (min-width: 768px) {
+      .book-grid {
+        grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+        gap: 2rem;
+      }
+    }
+
+    .book-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: transform 0.2s, box-shadow 0.2s;
+      text-decoration: none;
+      color: white;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .book-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 20px 40px rgba(0,0,0,0.3);
+    }
+
+    .book-cover-wrapper {
+      position: relative;
+      aspect-ratio: 1;
+      overflow: hidden;
+      background: rgba(255,255,255,0.05);
+    }
+
+    .book-cover {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+    }
+
+    .book-cover-placeholder {
+      width: 100%;
+      height: 100%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: var(--font-literary);
+      font-size: 3rem;
+      color: rgba(255,255,255,0.2);
+    }
+
+    .book-duration {
+      position: absolute;
+      bottom: 0.5rem;
+      right: 0.5rem;
+      background: rgba(0,0,0,0.7);
+      padding: 0.25rem 0.5rem;
+      border-radius: 4px;
+      font-size: 0.75rem;
+      color: rgba(255,255,255,0.9);
+    }
+
+    .book-info {
+      padding: 1rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+    }
+
+    .book-title {
+      font-family: var(--font-literary);
+      font-size: 1rem;
+      font-weight: 400;
+      margin-bottom: 0.25rem;
+      line-height: 1.3;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .book-author {
+      font-size: 0.85rem;
+      color: rgba(255,255,255,0.6);
+      font-style: italic;
+      margin-bottom: 0.5rem;
+    }
+
+    .book-tags {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: auto;
+    }
+
+    .book-tag {
+      font-size: 0.7rem;
+      padding: 0.2rem 0.5rem;
+      background: rgba(255,255,255,0.1);
+      border-radius: 4px;
+      color: rgba(255,255,255,0.7);
+    }
+
+    /* Loading State */
+    .loading {
+      text-align: center;
+      padding: 4rem;
+      color: rgba(255,255,255,0.6);
+    }
+
+    .loading-spinner {
+      width: 40px;
+      height: 40px;
+      border: 3px solid rgba(255,255,255,0.1);
+      border-top-color: var(--primary-color);
+      border-radius: 50%;
+      animation: spin 1s linear infinite;
+      margin: 0 auto 1rem;
+    }
+
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* Empty State */
+    .empty-state {
+      text-align: center;
+      padding: 4rem;
+      color: rgba(255,255,255,0.6);
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 3rem 2rem;
+      color: rgba(255,255,255,0.5);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.7);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    .cta-section {
+      margin-top: 2rem;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <a href="https://www.characterecho.com" class="nav-logo">Character Echo</a>
+      <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">&#9776;</button>
+      <div class="nav-links" id="navLinks">
+                <a href="https://library.characterecho.com" class="nav-link active">Library</a>
+        <a href="https://www.characterecho.com/about" class="nav-link">About</a>
+        <a href="https://www.characterecho.com/contact" class="nav-link">Contact</a>
+        <a href="https://app.characterecho.com" class="nav-cta">Get the App</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <header class="header">
+      <h1>Public Domain Audiobook Library</h1>
+      <p class="subtitle">Classic literature brought to life with unique character voices</p>
+
+      <div class="search-bar">
+        <input type="text" class="search-input" id="searchInput" placeholder="Search by title or author...">
+      </div>
+
+      <div class="filter-tags" id="filterTags">
+        <button class="filter-tag active" data-filter="all">All</button>
+      </div>
+    </header>
+
+    <div class="stats" id="stats"></div>
+
+    <main class="book-grid" id="bookGrid">
+      <div class="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading library...</p>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="cta-section">
+        <a href="https://app.characterecho.com" class="cta-button">Get the App</a>
+      </div>
+      <p style="margin-top: 2rem;">
+        Powered by <a href="https://characterecho.com">Character Echo</a>
+      </p>
+    </footer>
+  </div>
+
+  <script>
+    const MANIFEST_URL = 'publications/recent-v2.json';
+    const PREVIEW_BASE = 'publications';
+
+    let allPublications = [];
+    let activeFilter = 'all';
+    let searchQuery = '';
+
+    async function loadManifest() {
+      try {
+        const response = await fetch(MANIFEST_URL);
+        if (!response.ok) throw new Error('Failed to load manifest');
+        const data = await response.json();
+        allPublications = data.publications || [];
+
+        // Build filter tags from genre_tags
+        buildFilterTags();
+
+        // Render initial grid
+        renderGrid();
+      } catch (error) {
+        console.error('Error loading manifest:', error);
+        document.getElementById('bookGrid').innerHTML = `
+          <div class="empty-state">
+            <p>Unable to load library. Please try again later.</p>
+          </div>
+        `;
+      }
+    }
+
+    function buildFilterTags() {
+      const tagCounts = {};
+      allPublications.forEach(pub => {
+        (pub.genre_tags || []).forEach(tag => {
+          tagCounts[tag] = (tagCounts[tag] || 0) + 1;
+        });
+      });
+
+      // Sort by count and take top tags
+      const topTags = Object.entries(tagCounts)
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, 8)
+        .map(([tag]) => tag);
+
+      const container = document.getElementById('filterTags');
+      topTags.forEach(tag => {
+        const button = document.createElement('button');
+        button.className = 'filter-tag';
+        button.dataset.filter = tag;
+        button.textContent = tag.charAt(0).toUpperCase() + tag.slice(1);
+        button.addEventListener('click', () => setFilter(tag));
+        container.appendChild(button);
+      });
+    }
+
+    function setFilter(filter) {
+      activeFilter = filter;
+      document.querySelectorAll('.filter-tag').forEach(btn => {
+        btn.classList.toggle('active', btn.dataset.filter === filter);
+      });
+      renderGrid();
+    }
+
+    function filterPublications() {
+      return allPublications.filter(pub => {
+        // Filter by genre
+        if (activeFilter !== 'all') {
+          if (!(pub.genre_tags || []).includes(activeFilter)) {
+            return false;
+          }
+        }
+
+        // Filter by search query
+        if (searchQuery) {
+          const query = searchQuery.toLowerCase();
+          const title = (pub.title || '').toLowerCase();
+          const author = (pub.author_names || '').toLowerCase();
+          if (!title.includes(query) && !author.includes(query)) {
+            return false;
+          }
+        }
+
+        return true;
+      });
+    }
+
+    function renderGrid() {
+      const filtered = filterPublications();
+      const grid = document.getElementById('bookGrid');
+      const stats = document.getElementById('stats');
+
+      stats.textContent = `${filtered.length} audiobook${filtered.length !== 1 ? 's' : ''}`;
+
+      if (filtered.length === 0) {
+        grid.innerHTML = `
+          <div class="empty-state" style="grid-column: 1 / -1;">
+            <p>No audiobooks found matching your criteria.</p>
+          </div>
+        `;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(pub => {
+        const previewUrl = `${PREVIEW_BASE}/${pub.publication_identifier}/preview/`;
+        const coverUrl = pub.cover_url || `${previewUrl}cover.jpg`;
+        const duration = pub.duration?.formatted || '';
+        const tags = (pub.genre_tags || []).slice(0, 3);
+
+        return `
+          <a href="${previewUrl}" class="book-card">
+            <div class="book-cover-wrapper">
+              <img
+                src="${coverUrl}"
+                alt="${escapeHtml(pub.title)}"
+                class="book-cover"
+                loading="lazy"
+                onerror="this.parentElement.innerHTML='<div class=\\'book-cover-placeholder\\'>${escapeHtml(pub.title?.charAt(0) || '?')}</div>'"
+              >
+              ${duration ? `<span class="book-duration">${duration}</span>` : ''}
+            </div>
+            <div class="book-info">
+              <h2 class="book-title">${escapeHtml(pub.title)}</h2>
+              <p class="book-author">${escapeHtml(pub.author_names)}</p>
+              ${tags.length ? `
+                <div class="book-tags">
+                  ${tags.map(tag => `<span class="book-tag">${escapeHtml(tag)}</span>`).join('')}
+                </div>
+              ` : ''}
+            </div>
+          </a>
+        `;
+      }).join('');
+    }
+
+    function escapeHtml(text) {
+      if (!text) return '';
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // Search input handler
+    document.getElementById('searchInput').addEventListener('input', (e) => {
+      searchQuery = e.target.value.trim();
+      renderGrid();
+    });
+
+    // "All" filter click handler
+    document.querySelector('[data-filter="all"]').addEventListener('click', () => setFilter('all'));
+
+    // Mobile nav toggle
+    document.getElementById('navToggle').addEventListener('click', () => {
+      document.getElementById('navLinks').classList.toggle('open');
+    });
+
+    // Load on page ready
+    loadManifest();
+  </script>
+</body>
+</html>
