@@ -427,6 +427,29 @@
       text-decoration: underline;
     }
 
+    .store-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+
+    .store-button {
+      display: block;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    .store-button:hover {
+      transform: scale(1.05);
+      text-decoration: none;
+    }
+
+    .store-button img {
+      height: 50px;
+      width: auto;
+    }
+
     /* Hidden audio elements for voice samples */
     .voice-samples {
       display: none;
@@ -451,8 +474,7 @@
                 <a href="https://library.characterecho.com" class="nav-link">Library</a>
         <a href="https://www.characterecho.com/about" class="nav-link">About</a>
         <a href="https://www.characterecho.com/contact" class="nav-link">Contact</a>
-        <a href="https://app.characterecho.com" class="nav-cta">Get the App</a>
-      </div>
+              </div>
     </div>
   </nav>
 
@@ -700,10 +722,15 @@
 
     <!-- Footer -->
     <footer class="footer">
-      <p>
-        Listen to the full audiobook on
-        <a href="https://app.characterecho.com/p/53acceacdac0e5e09d9ab8ac88040472ca7edb68">Character Echo</a>
-      </p>
+      <p>Listen to the full audiobook on Character Echo</p>
+      <div class="store-buttons">
+        <a href="https://apps.apple.com/us/app/character-echo/id6756740052" class="store-button">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/abb8c6f4-7146-4798-be3b-0e2e84e0c9bb/app_store.png" alt="Download on the App Store">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.characterecho.mobile_app" class="store-button">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/d7da6dd1-9329-42c4-b483-4e193b06c821/GetItOnGooglePlay_Badge_Web_color_English.png" alt="Get it on Google Play">
+        </a>
+      </div>
     </footer>
   </div>
 
