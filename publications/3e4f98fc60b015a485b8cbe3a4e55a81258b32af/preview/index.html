@@ -1,0 +1,549 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Maltese Falcon by Dashiell Hammett | Character Echo</title>
+  <meta name="description" content="Listen to The Maltese Falcon by Dashiell Hammett - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="The Maltese Falcon - Audiobook">
+  <meta property="og:description" content="Listen to The Maltese Falcon by Dashiell Hammett with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/3e4f98fc60b015a485b8cbe3a4e55a81258b32af">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Maltese Falcon">
+  <meta name="twitter:description" content="Listen to The Maltese Falcon by Dashiell Hammett with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-family: var(--font-literary);
+      font-size: 1.85rem;
+      font-weight: 400;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      letter-spacing: 0.02em;
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      font-family: var(--font-literary);
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 1.6rem;
+      font-weight: 400;
+      font-style: italic;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="The Maltese Falcon cover" class="cover-image">
+          
+          <h1>The Maltese Falcon</h1>
+          <p class="author">by Dashiell Hammett</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/3e4f98fc60b015a485b8cbe3a4e55a81258b32af" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="SAM_SPADE" onclick="playVoiceSample('SAM_SPADE')">
+              <img src="characters/SAM_SPADE.png" alt="Sam Spade" class="character-portrait">
+              <div class="character-name">Sam Spade</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="BRIGID_OSHAUGHNESSY" onclick="playVoiceSample('BRIGID_OSHAUGHNESSY')">
+              <img src="characters/BRIGID_OSHAUGHNESSY.png" alt="Brigid O&#39;Shaughnessy" class="character-portrait">
+              <div class="character-name">Brigid O&#39;Shaughnessy</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="EFFIE_PERINE" onclick="playVoiceSample('EFFIE_PERINE')">
+              <img src="characters/EFFIE_PERINE.png" alt="Effie Perine" class="character-portrait">
+              <div class="character-name">Effie Perine</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="MILES_ARCHER" onclick="playVoiceSample('MILES_ARCHER')">
+              <img src="characters/MILES_ARCHER.png" alt="Miles Archer" class="character-portrait">
+              <div class="character-name">Miles Archer</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-SAM_SPADE" preload="none">
+            <source src="characters/SAM_SPADE.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-BRIGID_OSHAUGHNESSY" preload="none">
+            <source src="characters/BRIGID_OSHAUGHNESSY.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-EFFIE_PERINE" preload="none">
+            <source src="characters/EFFIE_PERINE.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-MILES_ARCHER" preload="none">
+            <source src="characters/MILES_ARCHER.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>SPADE &amp; ARCHER</h2>
+          <div class="chapter-text">
+            
+              <p>Samuel Spade’s jaw was long and bony, his chin a jutting v under the more flexible v of his mouth. His nostrils curved back to make another, smaller, v. His yellow-grey eyes were horizontal. The v motif was picked up again by thickish brows rising outward from twin creases above a hooked nose, and his pale brown hair grew down—from high flat temples—in a point on his forehead. He looked rather pleasantly like a blond satan.</p>
+<p>He said to Effie Perine: “Yes, sweetheart?”</p>
+<p>She was a lanky sunburned girl whose tan dress of thin woolen stuff clung to her with an effect of dampness. Her eyes were brown and playful in a shiny boyish face. She finished shutting the door behind her, leaned against it, and said: “There’s a girl wants to see you. Her name’s Wonderly.”</p>
+<p>“A customer?”</p>
+<p>“I guess so. You’ll want to see her anyway: she’s a knockout.”</p>
+<p>“Shoo her in, darling,” said Spade. “Shoo her in.”</p>
+<p>Effie Perine opened the door again, following it back into the outer office, standing with a hand on the knob while saying: “Will you come in, Miss Wonderly?”</p>
+<p>A voice said, “Thank you,” so softly that only the purest articulation made the words intelligible, and a young woman came through the doorway. She advanced slowly, with tentative steps, looking at Spade with cobalt-blue eyes that were both shy and probing.</p>
+<p>She was tall and pliantly slender, without angularity anywhere. Her body was erect and high-breasted, her legs long, her hands and feet narrow. She wore two shades of blue that had been selected because of her eyes. The hair curling from under her blue hat was darkly red, her full lips more brightly red. White teeth glistened in the crescent her timid smile made.</p>
+<p>Spade rose bowing and indicating with a thick-fingered hand the oaken armchair beside his desk. He was quite six feet tall. The steep rounded slope of his shoulders made his body seem almost conical—no broader than it was thick—and kept his freshly pressed grey coat from fitting very well.</p>
+<p>Miss Wonderly murmured, “Thank you,” softly as before and sat down on the edge of the chair’s wooden seat.</p>
+<p>Spade sank into his swivel-chair, made a quarter-turn to face her, smiled politely. He smiled without separating his lips. All the v’s in his face grew longer.</p>
+<p>The tappity-tap-tap and the thin bell and muffled whir of Effie Perine’s typewriting came through the closed door. Somewhere in a neighboring office a power-driven machine vibrated dully. On Spade’s desk a limp cigarette smoldered in a brass tray filled with the remains of limp cigarettes. Ragged grey flakes of cigarette-ash dotted the yellow top of the desk and the green blotter and the papers that were there. A buff-curtained window, eight or ten inches open, let in from the court a current of air faintly scented with ammonia. The ashes on the desk twitched and crawled in the current.</p>
+<p>Miss Wonderly watched the grey flakes twitch and crawl. Her eyes were uneasy. She sat on the very edge of the chair. Her feet were flat on the floor, as if she were about to rise. Her hands in dark gloves clasped a flat dark handbag in her lap.</p>
+<p>Spade rocked back in his chair and asked: “Now what can I do for you, Miss Wonderly?”</p>
+<p>She caught her breath and looked at him. She swallowed and said hurriedly: “Could you—? I thought—I—that is—” Then she tortured her lower lip with glistening teeth and said nothing. Only her dark eyes spoke now, pleading.</p>
+<p>Spade smiled and nodded as if he understood her, but pleasantly, as if nothing serious were involved. He said: “Suppose you tell me about it, from the beginning, and then we’ll know what needs doing. Better begin as far back as you can.”</p>
+<p>“That was in New York.”</p>
+<p>“Yes.”</p>
+<p>“I don’t know where she met him. I mean I don’t know where in New York. She’s five years younger than I—only seventeen—and we didn’t have the same friends. I don’t suppose we’ve ever been as close as sisters should be. Mama and Papa are in Europe. It would kill them. I’ve got to get her back before they come home.”</p>
+<p>“Yes,” he said.</p>
+<p>“They’re coming home the first of the month.”</p>
+<p>Spade’s eyes brightened. “Then we’ve two weeks,” he said.</p>
+<p>“I didn’t know what she had done until her letter came. I was frantic.” Her lips trembled. Her hands mashed the dark handbag in her lap. “I was too afraid she had done something like this to go to the police, and the fear that something had happened to her kept urging me to go. There wasn’t anyone I could go to for advice. I didn’t know what to do. What could I do?”</p>
+<p>“Nothing, of course,” Spade said, “but then her letter came?”</p>
+<p>“Yes, and I sent her a telegram asking her to come home. I sent it to General Delivery here. That was the only address she gave me. I waited a whole week, but no answer came, not another word from her. And Mama and Papa’s return was drawing nearer and nearer. So I came to San Francisco to get her. I wrote her I was coming. I shouldn’t have done that, should I?”</p>
+<p>“Maybe not. It’s not always easy to know what to do. You haven’t found her?”</p>
+<p>“No, I haven’t. I wrote her that I would go to the St. Mark, and I begged her to come and let me talk to her even if she didn’t intend to go home with me. But she didn’t come. I waited three days, and she didn’t come, didn’t even send me a message of any sort.”</p>
+<p>Spade nodded his blond satan’s head, frowned sympathetically, and tightened his lips together.</p>
+<p>“It was horrible,” Miss Wonderly said, trying to smile. “I couldn’t sit there like that—waiting—not knowing what had happened to her, what might be happening to her.” She stopped trying to smile. She shuddered. “The only address I had was General Delivery. I wrote her another letter, and yesterday afternoon I went to the Post Office. I stayed there until after dark, but I didn’t see her. I went there again this morning, and still didn’t see Corinne, but I saw Floyd Thursby.”</p>
+<p>Spade nodded again. His frown went away. In its place came a look of sharp attentiveness.</p>
+<p>“He wouldn’t tell me where Corinne was,” she went on, hopelessly. “He wouldn’t tell me anything, except that she was well and happy. But how can I believe that? That is what he would tell me anyhow, isn’t it?”</p>
+<p>“Sure,” Spade agreed. “But it might be true.”</p>
+<p>“I hope it is. I do hope it is,” she exclaimed. “But I can’t go back home like this, without having seen her, without even having talked to her on the phone. He wouldn’t take me to her. He said she didn’t want to see me. I can’t believe that. He promised to tell her he had seen me, and to bring her to see me—if she would come—this evening at the hotel. He said he knew she wouldn’t. He promised to come himself if she wouldn’t. He—”</p>
+<p>She broke off with a startled hand to her mouth as the door opened.</p>
+<p>The man who had opened the door came in a step, said, “Oh, excuse me!” hastily took his brown hat from his head, and backed out.</p>
+<p>“It’s all right, Miles,” Spade told him. “Come in. Miss Wonderly, this is Mr. Archer, my partner.”</p>
+<p>Miles Archer came into the office again, shutting the door behind him, ducking his head and smiling at Miss Wonderly, making a vaguely polite gesture with the hat in his hand. He was of medium height, solidly built, wide in the shoulders, thick in the neck, with a jovial heavy-jawed red face and some grey in his close-trimmed hair. He was apparently as many years past forty as Spade was past thirty.</p>
+<p>Spade said: “Miss Wonderly’s sister ran away from New York with a fellow named Floyd Thursby. They’re here. Miss Wonderly has seen Thursby and has a date with him tonight. Maybe he’ll bring the sister with him. The chances are he won’t. Miss Wonderly wants us to find the sister and get her away from him and back home.” He looked at Miss Wonderly. “Right?”</p>
+<p>“Yes,” she said indistinctly. The embarrassment that had gradually been driven away by Spade’s ingratiating smiles and nods and assurances was pinkening her face again. She looked at the bag in her lap and picked nervously at it with a gloved finger.</p>
+<p>Spade winked at his partner.</p>
+<p>Miles Archer came forward to stand at a corner of the desk. While the girl looked at her bag he looked at her. His little brown eyes ran their bold appraising gaze from her lowered face to her feet and up to her face again. Then he looked at Spade and made a silent whistling mouth of appreciation.</p>
+<p>Spade lifted two fingers from the arm of his chair in a brief warning gesture and said:</p>
+<p>“We shouldn’t have any trouble with it. It’s simply a matter of having a man at the hotel this evening to shadow him away when he leaves, and shadow him until he leads us to your sister. If she comes with him, and you persuade her to return with you, so much the better. Otherwise—if she doesn’t want to leave him after we’ve found her—well, we’ll find a way of managing that.”</p>
+<p>Archer said: “Yeh.” His voice was heavy, coarse.</p>
+<p>Miss Wonderly looked up at Spade, quickly, puckering her forehead between her eyebrows.</p>
+<p>“Oh, but you must be careful!” Her voice shook a little, and her lips shaped the words with nervous jerkiness. “I’m deathly afraid of him, of what he might do. She’s so young and his bringing her here from New York is such a serious—Mightn’t he—mightn’t he do—something to her?”</p>
+<p>Spade smiled and patted the arms of his chair.</p>
+<p>“Just leave that to us,” he said. “We’ll know how to handle him.”</p>
+<p>“But mightn’t he?” she insisted.</p>
+<p>“There’s always a chance.” Spade nodded judicially. “But you can trust us to take care of that.”</p>
+<p>“I do trust you,” she said earnestly, “but I want you to know that he’s a dangerous man. I honestly don’t think he’d stop at anything. I don’t believe he’d hesitate to—to kill Corinne if he thought it would save him. Mightn’t he do that?”</p>
+<p>“You didn’t threaten him, did you?”</p>
+<p>“I told him that all I wanted was to get her home before Mama and Papa came so they’d never know what she had done. I promised him I’d never say a word to them about it if he helped me, but if he didn’t Papa would certainly see that he was punished. I—I don’t suppose he believed me, altogether.”</p>
+<p>“Can he cover up by marrying her?” Archer asked.</p>
+<p>The girl blushed and replied in a confused voice: “He has a wife and three children in England. Corinne wrote me that, to explain why she had gone off with him.”</p>
+<p>“They usually do,” Spade said, “though not always in England.” He leaned forward to reach for pencil and pad of paper. “What does he look like?”</p>
+<p>“Oh, he’s thirty-five years old, perhaps, and as tall as you, and either naturally dark or quite sunburned. His hair is dark too, and he has thick eyebrows. He talks in a rather loud, blustery way and has a nervous, irritable manner. He gives the impression of being—of violence.”</p>
+<p>Spade, scribbling on the pad, asked without looking up: “What color eyes?”</p>
+<p>“They’re blue-grey and watery, though not in a weak way. And—oh, yes—he has a marked cleft in his chin.”</p>
+<p>“Thin, medium, or heavy build?”</p>
+<p>“Quite athletic. He’s broad-shouldered and carries himself erect, has what could be called a decidedly military carriage. He was wearing a light grey suit and a grey hat when I saw him this morning.”</p>
+<p>“What does he do for a living?” Spade asked as he laid down his pencil.</p>
+<p>“I don’t know,” she said. “I haven’t the slightest idea.”</p>
+<p>“What time is he coming to see you?”</p>
+<p>“After eight o’clock.”</p>
+<p>“All right, Miss Wonderly, we’ll have a man there. It’ll help if—”</p>
+<p>“Mr. Spade, could either you or Mr. Archer?” She made an appealing gesture with both hands. “Could either of you look after it personally? I don’t mean that the man you’d send wouldn’t be capable, but—oh!—I’m so afraid of what might happen to Corinne. I’m afraid of him. Could you? I’d be—I’d expect to be charged more, of course.” She opened her handbag with nervous fingers and put two hundred-dollar bills on Spade’s desk. “Would that be enough?”</p>
+<p>“Yeh,” Archer said, “and I’ll look after it myself.”</p>
+<p>Miss Wonderly stood up, impulsively holding a hand out to him.</p>
+<p>“Thank you! Thank you!” she exclaimed, and then gave Spade her hand, repeating: “Thank you!”</p>
+<p>“Not at all,” Spade said over it. “Glad to. It’ll help some if you either meet Thursby downstairs or let yourself be seen in the lobby with him at some time.”</p>
+<p>“I will,” she promised, and thanked the partners again.</p>
+<p>“And don’t look for me,” Archer cautioned her. “I’ll see you all right.”</p>
+<p>Spade went to the corridor-door with Miss Wonderly. When he returned to his desk Archer nodded at the hundred-dollar bills there, growled complacently, “They’re right enough,” picked one up, folded it, and tucked it into a vest-pocket. “And they had brothers in her bag.”</p>
+<p>Spade pocketed the other bill before he sat down. Then he said: “Well, don’t dynamite her too much. What do you think of her?”</p>
+<p>“Sweet! And you telling me not to dynamite her.” Archer guffawed suddenly without merriment. “Maybe you saw her first, Sam, but I spoke first.” He put his hands in his trousers-pockets and teetered on his heels.</p>
+<p>“You’ll play hell with her, you will.” Spade grinned wolfishly, showing the edges of teeth far back in his jaw. “You’ve got brains, yes you have.” He began to make a cigarette.</p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>
+        Listen to the full audiobook on
+        <a href="https://app.characterecho.com/p/3e4f98fc60b015a485b8cbe3a4e55a81258b32af">Character Echo</a>
+      </p>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+</body>
+</html>
