@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Wonderful Wizard of Oz by L. Frank Baum | Character Echo</title>
+  <meta name="description" content="Listen to The Wonderful Wizard of Oz by L. Frank Baum - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="The Wonderful Wizard of Oz - Audiobook">
+  <meta property="og:description" content="Listen to The Wonderful Wizard of Oz by L. Frank Baum with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/69e1dfb19f523c5d756253ecf46d858ad839bd94">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Wonderful Wizard of Oz">
+  <meta name="twitter:description" content="Listen to The Wonderful Wizard of Oz by L. Frank Baum with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/69e1dfb19f523c5d756253ecf46d858ad839bd94/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-family: var(--font-literary);
+      font-size: 1.85rem;
+      font-weight: 400;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+      letter-spacing: 0.02em;
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      font-family: var(--font-literary);
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 1.6rem;
+      font-weight: 400;
+      font-style: italic;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="The Wonderful Wizard of Oz cover" class="cover-image">
+          
+          <h1>The Wonderful Wizard of Oz</h1>
+          <p class="author">by L. Frank Baum</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/69e1dfb19f523c5d756253ecf46d858ad839bd94" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="AUNT_EM" onclick="playVoiceSample('AUNT_EM')">
+              <img src="characters/AUNT_EM.png" alt="Aunt Em" class="character-portrait">
+              <div class="character-name">Aunt Em</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="UNCLE_HENRY" onclick="playVoiceSample('UNCLE_HENRY')">
+              <img src="characters/UNCLE_HENRY.png" alt="Uncle Henry" class="character-portrait">
+              <div class="character-name">Uncle Henry</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-AUNT_EM" preload="none">
+            <source src="characters/AUNT_EM.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-UNCLE_HENRY" preload="none">
+            <source src="characters/UNCLE_HENRY.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>Chapter I The Cyclone</h2>
+          <div class="chapter-text">
+            
+              <p> Dorothy lived in the midst of the great Kansas prairies, with Uncle Henry, who was a farmer, and Aunt Em, who was the farmer’s wife. Their house was small, for the lumber to build it had to be carried by wagon many miles. There were four walls, a floor and a roof, which made one room; and this room contained a rusty looking cookstove, a cupboard for the dishes, a table, three or four chairs, and the beds. Uncle Henry and Aunt Em had a big bed in one corner, and Dorothy a little bed in another corner. There was no garret at all, and no cellar—except a small hole dug in the ground, called a cyclone cellar, where the family could go in case one of those great whirlwinds arose, mighty enough to crush any building in its path. It was reached by a trap door in the middle of the floor, from which a ladder led down into the small, dark hole. </p>
+<p> When Dorothy stood in the doorway and looked around, she could see nothing but the great gray prairie on every side. Not a tree nor a house broke the broad sweep of flat country that reached to the edge of the sky in all directions. The sun had baked the plowed land into a gray mass, with little cracks running through it. Even the grass was not green, for the sun had burned the tops of the long blades until they were the same gray color to be seen everywhere. Once the house had been painted, but the sun blistered the paint and the rains washed it away, and now the house was as dull and gray as everything else. </p>
+<p> When Aunt Em came there to live she was a young, pretty wife. The sun and wind had changed her, too. They had taken the sparkle from her eyes and left them a sober gray; they had taken the red from her cheeks and lips, and they were gray also. She was thin and gaunt, and never smiled now. When Dorothy, who was an orphan, first came to her, Aunt Em had been so startled by the child’s laughter that she would scream and press her hand upon her heart whenever Dorothy’s merry voice reached her ears; and she still looked at the little girl with wonder that she could find anything to laugh at. </p>
+<p> Uncle Henry never laughed. He worked hard from morning till night and did not know what joy was. He was gray also, from his long beard to his rough boots, and he looked stern and solemn, and rarely spoke. </p>
+<p> It was Toto that made Dorothy laugh, and saved her from growing as gray as her other surroundings. Toto was not gray; he was a little black dog, with long silky hair and small black eyes that twinkled merrily on either side of his funny, wee nose. Toto played all day long, and Dorothy played with him, and loved him dearly. </p>
+<p> Today, however, they were not playing. Uncle Henry sat upon the doorstep and looked anxiously at the sky, which was even grayer than usual. Dorothy stood in the door with Toto in her arms, and looked at the sky too. Aunt Em was washing the dishes. </p>
+<p> From the far north they heard a low wail of the wind, and Uncle Henry and Dorothy could see where the long grass bowed in waves before the coming storm. There now came a sharp whistling in the air from the south, and as they turned their eyes that way they saw ripples in the grass coming from that direction also. </p>
+<p> Suddenly Uncle Henry stood up. </p>
+<p> “There’s a cyclone coming, Em,” he called to his wife. “I’ll go look after the stock.” Then he ran toward the sheds where the cows and horses were kept. </p>
+<p> Aunt Em dropped her work and came to the door. One glance told her of the danger close at hand. </p>
+<p> “Quick, Dorothy!” she screamed. “Run for the cellar!” </p>
+<p> Toto jumped out of Dorothy’s arms and hid under the bed, and the girl started to get him. Aunt Em, badly frightened, threw open the trap door in the floor and climbed down the ladder into the small, dark hole. Dorothy caught Toto at last and started to follow her aunt. When she was halfway across the room there came a great shriek from the wind, and the house shook so hard that she lost her footing and sat down suddenly upon the floor. </p>
+<p> Then a strange thing happened. </p>
+<p> The house whirled around two or three times and rose slowly through the air. Dorothy felt as if she were going up in a balloon. </p>
+<p> The north and south winds met where the house stood, and made it the exact center of the cyclone. In the middle of a cyclone the air is generally still, but the great pressure of the wind on every side of the house raised it up higher and higher, until it was at the very top of the cyclone; and there it remained and was carried miles and miles away as easily as you could carry a feather. </p>
+<p> It was very dark, and the wind howled horribly around her, but Dorothy found she was riding quite easily. After the first few whirls around, and one other time when the house tipped badly, she felt as if she were being rocked gently, like a baby in a cradle. </p>
+<p> Toto did not like it. He ran about the room, now here, now there, barking loudly; but Dorothy sat quite still on the floor and waited to see what would happen. </p>
+<p> Once Toto got too near the open trap door, and fell in; and at first the little girl thought she had lost him. But soon she saw one of his ears sticking up through the hole, for the strong pressure of the air was keeping him up so that he could not fall. She crept to the hole, caught Toto by the ear, and dragged him into the room again, afterward closing the trap door so that no more accidents could happen. </p>
+<p> Hour after hour passed away, and slowly Dorothy got over her fright; but she felt quite lonely, and the wind shrieked so loudly all about her that she nearly became deaf. At first she had wondered if she would be dashed to pieces when the house fell again; but as the hours passed and nothing terrible happened, she stopped worrying and resolved to wait calmly and see what the future would bring. At last she crawled over the swaying floor to her bed, and lay down upon it; and Toto followed and lay down beside her. </p>
+<p> In spite of the swaying of the house and the wailing of the wind, Dorothy soon closed her eyes and fell fast asleep. </p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>
+        Listen to the full audiobook on
+        <a href="https://app.characterecho.com/p/69e1dfb19f523c5d756253ecf46d858ad839bd94">Character Echo</a>
+      </p>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+</body>
+</html>
