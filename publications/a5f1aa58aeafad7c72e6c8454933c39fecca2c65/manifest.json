@@ -1,5 +1,6 @@
 {
   "manifest_version": 2,
+  "sample": false,
   "title": "A Study in Scarlet",
   "author_names": "Arthur Conan Doyle",
   "description": "Publication imported from https://gutenberg.org/ebooks/244.epub3.images",
@@ -7,7 +8,7 @@
   "identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
   "publication_type": "novel",
   "cover_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/cover.png",
-  "total_duration_s": 13416.343447000001,
+  "total_duration_s": 13386.793424,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective",
@@ -20,25 +21,25 @@
       "ordinal": 0,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3213.626712
+      "end_s": 3212.232494
     },
     {
       "ordinal": 1,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_1.mp3",
-      "start_s": 3213.626712,
-      "end_s": 6705.174127
+      "start_s": 3212.232494,
+      "end_s": 6680.619796
     },
     {
       "ordinal": 2,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_2.mp3",
-      "start_s": 6705.174127,
-      "end_s": 9330.182585
+      "start_s": 6680.619796,
+      "end_s": 9300.401361
     },
     {
       "ordinal": 3,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_3.mp3",
-      "start_s": 9330.182585,
-      "end_s": 13416.343447000001
+      "start_s": 9300.401361,
+      "end_s": 13386.793424
     }
   ],
   "segments": [
@@ -46,7 +47,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 6.955,
+      "end_s": 7.216,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -54,8 +55,8 @@
     {
       "ordinal": 1,
       "title": "PART I.",
-      "start_s": 6.955,
-      "end_s": 16.285,
+      "start_s": 7.216,
+      "end_s": 15.88,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -71,8 +72,8 @@
     {
       "ordinal": 2,
       "title": "CHAPTER I. MR. SHERLOCK HOLMES.",
-      "start_s": 16.285,
-      "end_s": 858.992,
+      "start_s": 15.88,
+      "end_s": 858.692,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -98,8 +99,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER II. THE SCIENCE OF DEDUCTION.",
-      "start_s": 858.992,
-      "end_s": 2009.497,
+      "start_s": 858.692,
+      "end_s": 2008.883,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -115,8 +116,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER III. THE LAURISTON GARDENS MYSTERY",
-      "start_s": 2009.497,
-      "end_s": 3213.627,
+      "start_s": 2008.883,
+      "end_s": 3212.232,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -137,8 +138,8 @@
     {
       "ordinal": 5,
       "title": "CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
-      "start_s": 3213.627,
-      "end_s": 3935.898,
+      "start_s": 3212.232,
+      "end_s": 3931.312,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -159,8 +160,8 @@
     {
       "ordinal": 6,
       "title": "CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.",
-      "start_s": 3935.898,
-      "end_s": 4710.202,
+      "start_s": 3931.312,
+      "end_s": 4705.684,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -176,8 +177,8 @@
     {
       "ordinal": 7,
       "title": "CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.",
-      "start_s": 4710.202,
-      "end_s": 5719.44,
+      "start_s": 4705.684,
+      "end_s": 5698.126,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -193,8 +194,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VII. LIGHT IN THE DARKNESS.",
-      "start_s": 5719.44,
-      "end_s": 6701.716,
+      "start_s": 5698.126,
+      "end_s": 6676.901,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -210,8 +211,8 @@
     {
       "ordinal": 9,
       "title": "PART II. The Country of the Saints.",
-      "start_s": 6701.716,
-      "end_s": 6705.174,
+      "start_s": 6676.901,
+      "end_s": 6680.62,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -219,8 +220,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER I. ON THE GREAT ALKALI PLAIN.",
-      "start_s": 6705.174,
-      "end_s": 7897.655,
+      "start_s": 6680.62,
+      "end_s": 7867.488,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -236,8 +237,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER II. THE FLOWER OF UTAH.",
-      "start_s": 7897.655,
-      "end_s": 8742.983,
+      "start_s": 7867.488,
+      "end_s": 8712.95,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -263,8 +264,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.",
-      "start_s": 8742.983,
-      "end_s": 9330.183,
+      "start_s": 8712.95,
+      "end_s": 9300.401,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -280,8 +281,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER IV. A FLIGHT FOR LIFE.",
-      "start_s": 9330.183,
-      "end_s": 10355.255,
+      "start_s": 9300.401,
+      "end_s": 10335.666,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -312,8 +313,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER V. THE AVENGING ANGELS.",
-      "start_s": 10355.255,
-      "end_s": 11497.235,
+      "start_s": 10335.666,
+      "end_s": 11467.83,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -339,8 +340,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-      "start_s": 11497.235,
-      "end_s": 12782.578,
+      "start_s": 11467.83,
+      "end_s": 12754.343,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -361,8 +362,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER VII. THE CONCLUSION.",
-      "start_s": 12782.578,
-      "end_s": 13416.343,
+      "start_s": 12754.343,
+      "end_s": 13386.793,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -403,7 +404,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 413,
+      "dialogue_count": 570,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_H_WATSON.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_H_WATSON.mp3"
     },
@@ -439,24 +440,6 @@
       "dialogue_count": 235,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SHERLOCK_HOLMES.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SHERLOCK_HOLMES.mp3"
-    },
-    {
-      "identifier": "NARRATOR",
-      "name": "Narrator",
-      "aliases": [],
-      "voice_attributes": [],
-      "visual_attributes": [],
-      "roles": [
-        "narrator"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 160,
-      "image_key": null,
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/NARRATOR.mp3"
     },
     {
       "identifier": "CAB_DRIVER",
@@ -951,6 +934,32 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SENTINEL.mp3"
     },
     {
+      "identifier": "MORMON_SCOUT",
+      "name": "Mormon Scout",
+      "aliases": [],
+      "voice_attributes": [
+        "eager",
+        "young"
+      ],
+      "visual_attributes": [
+        "young face",
+        "keen eyes",
+        "homespun clothes",
+        "rifle"
+      ],
+      "roles": [
+        "scout"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.mp3"
+    },
+    {
       "identifier": "MORMON_PILGRIM",
       "name": "Mormon Pilgrim",
       "aliases": [],
@@ -1005,58 +1014,6 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COMMISSIONAIRE.mp3"
     },
     {
-      "identifier": "MORMON_SCOUT",
-      "name": "Mormon Scout",
-      "aliases": [],
-      "voice_attributes": [
-        "eager",
-        "young"
-      ],
-      "visual_attributes": [
-        "young face",
-        "keen eyes",
-        "homespun clothes",
-        "rifle"
-      ],
-      "roles": [
-        "scout"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.mp3"
-    },
-    {
-      "identifier": "MORMON_CAPTAIN",
-      "name": "Mormon Captain",
-      "aliases": [],
-      "voice_attributes": [
-        "authoritative",
-        "hushed"
-      ],
-      "visual_attributes": [
-        "hooded cloak",
-        "hidden face",
-        "tall figure"
-      ],
-      "roles": [
-        "guard",
-        "mormon"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.mp3"
-    },
-    {
       "identifier": "WIGGINS",
       "name": "Wiggins",
       "aliases": [],
@@ -1087,6 +1044,32 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.mp3"
     },
     {
+      "identifier": "MORMON_CAPTAIN",
+      "name": "Mormon Captain",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "hushed"
+      ],
+      "visual_attributes": [
+        "hooded cloak",
+        "hidden face",
+        "tall figure"
+      ],
+      "roles": [
+        "guard",
+        "mormon"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.mp3"
+    },
+    {
       "identifier": "MORMON_SUBORDINATE",
       "name": "Mormon Subordinate",
       "aliases": [],
@@ -1110,6 +1093,24 @@
       "dialogue_count": 2,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.mp3"
+    },
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "aliases": [],
+      "voice_attributes": [],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 0,
+      "image_key": null,
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/NARRATOR.mp3"
     }
   ],
   "scenes": [

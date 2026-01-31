@@ -1,5 +1,34 @@
 [
   {
+    "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
+    "sample": false,
+    "title": "A Study in Scarlet",
+    "author_names": "Arthur Conan Doyle",
+    "publication_type": "novel",
+    "genre_tags": [
+      "mystery",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-17T23:08:25Z",
+    "updated_at": "2026-01-31T15:08:28Z",
+    "duration": {
+      "total_ms": 13426000,
+      "formatted": "3h 44m"
+    },
+    "cover_url": null,
+    "data_checksum": "73f62749103321530bf64ca85feda3b708c1a6369759885694a78e11e8a02676",
+    "file_size": 403243804,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
     "sample": false,
     "title": "The Wonderful Wizard of Oz",
@@ -300,33 +329,6 @@
       "US",
       "CA",
       "NZ"
-    ]
-  },
-  {
-    "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
-    "title": "A Study in Scarlet",
-    "author_names": "Arthur Conan Doyle",
-    "publication_type": "novel",
-    "genre_tags": [
-      "mystery",
-      "classics"
-    ],
-    "catalog_added_at": "2026-01-17T23:08:25Z",
-    "updated_at": "2026-01-19T13:45:44Z",
-    "duration": {
-      "total_ms": 0,
-      "formatted": "0m"
-    },
-    "cover_url": null,
-    "data_checksum": "947411bacf8856bdc78232f75d2210cbaf0e8b2d0536563ce9503c272aba35a4",
-    "file_size": 405065215,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
     ]
   },
   {
