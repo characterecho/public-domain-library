@@ -1,9 +1,40 @@
 {
   "version": 2,
-  "generated_at": "2026-01-31T11:41:26Z",
+  "generated_at": "2026-01-31T11:53:23Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
+      "sample": false,
+      "title": "The Wonderful Wizard of Oz",
+      "author_names": "L. Frank Baum",
+      "publication_type": "novella",
+      "genre_tags": [
+        "fantasy",
+        "childrens",
+        "adventure",
+        "classics"
+      ],
+      "catalog_added_at": "2026-01-16T15:55:06Z",
+      "updated_at": "2026-01-31T11:53:23Z",
+      "duration": {
+        "total_ms": 11651000,
+        "formatted": "3h 14m"
+      },
+      "cover_url": null,
+      "data_checksum": "c1c88ea80e6bab3b1e6892063e183a96bd0981f8eca97c7124fc25f4bdbd4d12",
+      "file_size": 428181214,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
       "sample": false,
@@ -274,35 +305,6 @@
         "US",
         "CA",
         "NZ"
-      ]
-    },
-    {
-      "publication_identifier": "69e1dfb19f523c5d756253ecf46d858ad839bd94",
-      "title": "The Wonderful Wizard of Oz",
-      "author_names": "L. Frank Baum",
-      "publication_type": "novel",
-      "genre_tags": [
-        "fantasy",
-        "childrens",
-        "adventure",
-        "classics"
-      ],
-      "catalog_added_at": "2026-01-16T15:55:06Z",
-      "updated_at": "2026-01-21T14:50:32Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "500d93d53e15b5b0f625271c55b9cd88d311188413bac0164e8dc8e3b527dc3e",
-      "file_size": 428151548,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
       ]
     },
     {
