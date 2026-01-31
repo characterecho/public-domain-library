@@ -6,7 +6,7 @@
   <link rel="icon" type="image/png" href="https://images.squarespace-cdn.com/content/693e911fb26d4b4b3a52c2ce/92c9d8a1-9c41-4cad-8fef-6417bf021ae5/browser.png">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&family=Urbanist:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Urbanist:wght@300;400;500;600;700&display=swap" rel="stylesheet">
   <title>The Wind in the Willows by Kenneth Grahame | Character Echo</title>
   <meta name="description" content="Listen to The Wind in the Willows by Kenneth Grahame - an immersive audiobook experience with unique character voices.">
 
@@ -145,7 +145,6 @@
       gap: 2vw;
       text-align: right;
       margin-left: auto;
-      padding-left: 2vw;
     }
 
     .nav-link {
@@ -156,9 +155,16 @@
       line-height: 1.5em;
       letter-spacing: 0em;
       text-transform: none;
-      color: rgba(255,255,255,0.8);
+      white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.1em 0;
+      color: hsla(0, 0%, 100%, 1);
       text-decoration: none;
       transition: color 0.2s;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      backface-visibility: hidden;
     }
 
     .nav-link:hover {
@@ -167,8 +173,10 @@
 
     .nav-link.active {
       color: white;
-      text-decoration: underline;
-      text-underline-offset: 4px;
+      background-image: linear-gradient(currentColor, currentColor);
+      background-repeat: repeat-x;
+      background-size: 1px 1px;
+      background-position: 0 calc(100% - 0.1em);
     }
 
     .nav-cta {
