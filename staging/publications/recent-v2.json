@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-01-31T15:19:43Z",
+  "generated_at": "2026-01-31T15:29:27Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
@@ -15,14 +15,14 @@
         "classics"
       ],
       "catalog_added_at": "2026-01-17T23:08:25Z",
-      "updated_at": "2026-01-31T15:19:43Z",
+      "updated_at": "2026-01-31T15:29:27Z",
       "duration": {
         "total_ms": 13426000,
         "formatted": "3h 44m"
       },
       "cover_url": null,
-      "data_checksum": "4ff836d841943df30a4a47b118029c12db18603f80d0da6d447677c9e307017d",
-      "file_size": 403250844,
+      "data_checksum": "f3038372acfeba3d3daef71d46196d1fb8154d66349e1ec7d4660d21e81b2a0c",
+      "file_size": 403231668,
       "available_regions": [
         "US",
         "CA",
