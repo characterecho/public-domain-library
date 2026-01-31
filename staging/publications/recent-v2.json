@@ -1,9 +1,36 @@
 {
   "version": 2,
-  "generated_at": "2026-01-30T12:26:07Z",
+  "generated_at": "2026-01-31T11:41:26Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
+      "sample": false,
+      "title": "Winnie-the-Pooh",
+      "author_names": "A. A. Milne",
+      "publication_type": "novella",
+      "genre_tags": [
+        "classics",
+        "childrens",
+        "fantasy"
+      ],
+      "catalog_added_at": "2026-01-14T20:32:36Z",
+      "updated_at": "2026-01-31T11:41:26Z",
+      "duration": {
+        "total_ms": 6721000,
+        "formatted": "1h 52m"
+      },
+      "cover_url": null,
+      "data_checksum": "c1dff98b80ffac31d08b304764f939ed10cb24cc9601f90d605cc3001244481d",
+      "file_size": 241560106,
+      "available_regions": [
+        "US",
+        "CA",
+        "NZ"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e",
       "sample": true,
@@ -303,29 +330,6 @@
         "AU",
         "NZ",
         "IE"
-      ]
-    },
-    {
-      "publication_identifier": "f337cc27d6b2f4676afc7673980770204b06575b",
-      "title": "Winnie-the-Pooh",
-      "author_names": "A. A. Milne",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "childrens",
-        "fantasy"
-      ],
-      "catalog_added_at": "2026-01-14T20:32:36Z",
-      "updated_at": "2026-01-19T13:37:47Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "2a24470d8b66fceb57384a02af30c192f1f9d0a6d9e8ad166d27f90059263bbf",
-      "file_size": 241501495,
-      "available_regions": [
-        "US"
       ]
     },
     {
