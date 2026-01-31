@@ -8,7 +8,7 @@
   "identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
   "publication_type": "novel",
   "cover_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/cover.png",
-  "total_duration_s": 13386.551429,
+  "total_duration_s": 13374.068799,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective",
@@ -21,25 +21,25 @@
       "ordinal": 0,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3211.584762
+      "end_s": 3210.248118
     },
     {
       "ordinal": 1,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_1.mp3",
-      "start_s": 3211.584762,
-      "end_s": 6680.3778010000005
+      "start_s": 3210.248118,
+      "end_s": 6673.649819
     },
     {
       "ordinal": 2,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_2.mp3",
-      "start_s": 6680.3778010000005,
-      "end_s": 9300.159366
+      "start_s": 6673.649819,
+      "end_s": 9293.900409
     },
     {
       "ordinal": 3,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_3.mp3",
-      "start_s": 9300.159366,
-      "end_s": 13386.551429
+      "start_s": 9293.900409,
+      "end_s": 13374.068799
     }
   ],
   "segments": [
@@ -73,7 +73,7 @@
       "ordinal": 2,
       "title": "CHAPTER I. MR. SHERLOCK HOLMES.",
       "start_s": 15.88,
-      "end_s": 858.689,
+      "end_s": 858.691,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -99,8 +99,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER II. THE SCIENCE OF DEDUCTION.",
-      "start_s": 858.689,
-      "end_s": 2008.24,
+      "start_s": 858.691,
+      "end_s": 2009.918,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -116,8 +116,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER III. THE LAURISTON GARDENS MYSTERY",
-      "start_s": 2008.24,
-      "end_s": 3211.585,
+      "start_s": 2009.918,
+      "end_s": 3210.248,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -138,8 +138,8 @@
     {
       "ordinal": 5,
       "title": "CHAPTER IV. WHAT JOHN RANCE HAD TO TELL.",
-      "start_s": 3211.585,
-      "end_s": 3930.665,
+      "start_s": 3210.248,
+      "end_s": 3929.322,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -160,8 +160,8 @@
     {
       "ordinal": 6,
       "title": "CHAPTER V. OUR ADVERTISEMENT BRINGS A VISITOR.",
-      "start_s": 3930.665,
-      "end_s": 4705.036,
+      "start_s": 3929.322,
+      "end_s": 4699.237,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -177,8 +177,8 @@
     {
       "ordinal": 7,
       "title": "CHAPTER VI. TOBIAS GREGSON SHOWS WHAT HE CAN DO.",
-      "start_s": 4705.036,
-      "end_s": 5697.518,
+      "start_s": 4699.237,
+      "end_s": 5694.581,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -194,8 +194,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VII. LIGHT IN THE DARKNESS.",
-      "start_s": 5697.518,
-      "end_s": 6676.659,
+      "start_s": 5694.581,
+      "end_s": 6669.931,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -211,8 +211,8 @@
     {
       "ordinal": 9,
       "title": "PART II. The Country of the Saints.",
-      "start_s": 6676.659,
-      "end_s": 6680.378,
+      "start_s": 6669.931,
+      "end_s": 6673.65,
       "part_ordinal": 1,
       "metadata": {},
       "background_key": null
@@ -220,8 +220,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER I. ON THE GREAT ALKALI PLAIN.",
-      "start_s": 6680.378,
-      "end_s": 7867.246,
+      "start_s": 6673.65,
+      "end_s": 7862.41,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -237,8 +237,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER II. THE FLOWER OF UTAH.",
-      "start_s": 7867.246,
-      "end_s": 8712.708,
+      "start_s": 7862.41,
+      "end_s": 8707.093,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -264,8 +264,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.",
-      "start_s": 8712.708,
-      "end_s": 9300.159,
+      "start_s": 8707.093,
+      "end_s": 9293.9,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -281,8 +281,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER IV. A FLIGHT FOR LIFE.",
-      "start_s": 9300.159,
-      "end_s": 10335.424,
+      "start_s": 9293.9,
+      "end_s": 10327.811,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -313,8 +313,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER V. THE AVENGING ANGELS.",
-      "start_s": 10335.424,
-      "end_s": 11467.588,
+      "start_s": 10327.811,
+      "end_s": 11459.206,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -340,8 +340,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-      "start_s": 11467.588,
-      "end_s": 12754.101,
+      "start_s": 11459.206,
+      "end_s": 12741.958,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -362,8 +362,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER VII. THE CONCLUSION.",
-      "start_s": 12754.101,
-      "end_s": 13386.551,
+      "start_s": 12741.958,
+      "end_s": 13374.069,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -587,6 +587,108 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/G_LESTRADE.mp3"
     },
     {
+      "identifier": "JOHN_RANCE",
+      "name": "Constable Rance",
+      "aliases": [],
+      "voice_attributes": [
+        "slow",
+        "irritable",
+        "confused",
+        "greedy"
+      ],
+      "visual_attributes": [
+        "sleepy eyes",
+        "tousled hair",
+        "unbuttoned uniform tunic",
+        "ruddy face",
+        "thick neck"
+      ],
+      "roles": [
+        "police officer",
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 20,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.mp3"
+    },
+    {
+      "identifier": "STAMFORD",
+      "name": "Stamford",
+      "aliases": [
+        "Young Stamford"
+      ],
+      "voice_attributes": [
+        "cheerful",
+        "friendly",
+        "light"
+      ],
+      "visual_attributes": [
+        "round friendly face",
+        "sideburns",
+        "frock coat",
+        "silk cravat",
+        "cheerful expression",
+        "top hat"
+      ],
+      "roles": [
+        "friend",
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 20,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/STAMFORD.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/STAMFORD.mp3"
+    },
+    {
+      "identifier": "THE_CHILD",
+      "name": "The Child",
+      "aliases": [
+        "Young Lucy",
+        "Lucy (child)"
+      ],
+      "voice_attributes": [
+        "high-pitched",
+        "innocent",
+        "childlike",
+        "sweet",
+        "young"
+      ],
+      "visual_attributes": [
+        "pale heart-shaped face",
+        "golden curls",
+        "pink frock",
+        "white apron",
+        "dainty shoes",
+        "bright brown eyes",
+        "heart-shaped face",
+        "pale complexion",
+        "long chestnut hair",
+        "bright eyes",
+        "riding habit"
+      ],
+      "roles": [
+        "child",
+        "survivor"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/THE_CHILD.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/THE_CHILD.mp3"
+    },
+    {
       "identifier": "LUCY_FERRIER",
       "name": "Lucy Ferrier",
       "aliases": [
@@ -625,71 +727,9 @@
         "gender": "female",
         "voice_accent": "american"
       },
-      "dialogue_count": 30,
+      "dialogue_count": 14,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/LUCY_FERRIER.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/LUCY_FERRIER.mp3"
-    },
-    {
-      "identifier": "STAMFORD",
-      "name": "Stamford",
-      "aliases": [
-        "Young Stamford"
-      ],
-      "voice_attributes": [
-        "cheerful",
-        "friendly",
-        "light"
-      ],
-      "visual_attributes": [
-        "round friendly face",
-        "sideburns",
-        "frock coat",
-        "silk cravat",
-        "cheerful expression",
-        "top hat"
-      ],
-      "roles": [
-        "friend",
-        "doctor"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 20,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/STAMFORD.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/STAMFORD.mp3"
-    },
-    {
-      "identifier": "JOHN_RANCE",
-      "name": "Constable Rance",
-      "aliases": [],
-      "voice_attributes": [
-        "slow",
-        "irritable",
-        "confused",
-        "greedy"
-      ],
-      "visual_attributes": [
-        "sleepy eyes",
-        "tousled hair",
-        "unbuttoned uniform tunic",
-        "ruddy face",
-        "thick neck"
-      ],
-      "roles": [
-        "police officer",
-        "witness"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "cockney"
-      },
-      "dialogue_count": 20,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.mp3"
     },
     {
       "identifier": "BRIGHAM_YOUNG",
@@ -721,37 +761,6 @@
       "dialogue_count": 11,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/BRIGHAM_YOUNG.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/BRIGHAM_YOUNG.mp3"
-    },
-    {
-      "identifier": "COWPER",
-      "name": "Cowper",
-      "aliases": [
-        "The Mormon"
-      ],
-      "voice_attributes": [
-        "anxious",
-        "hushed",
-        "astonished"
-      ],
-      "visual_attributes": [
-        "pale anxious face",
-        "travel-stained clothes",
-        "wide-brimmed hat",
-        "brown hair",
-        "mounted on horse"
-      ],
-      "roles": [
-        "mormon",
-        "acquaintance"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 6,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.mp3"
     },
     {
       "identifier": "MRS_SAWYER",
@@ -787,6 +796,37 @@
       "dialogue_count": 6,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MRS_SAWYER.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MRS_SAWYER.mp3"
+    },
+    {
+      "identifier": "COWPER",
+      "name": "Cowper",
+      "aliases": [
+        "The Mormon"
+      ],
+      "voice_attributes": [
+        "anxious",
+        "hushed",
+        "astonished"
+      ],
+      "visual_attributes": [
+        "pale anxious face",
+        "travel-stained clothes",
+        "wide-brimmed hat",
+        "brown hair",
+        "mounted on horse"
+      ],
+      "roles": [
+        "mormon",
+        "acquaintance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.mp3"
     },
     {
       "identifier": "ELDER_STANGERSON",
@@ -849,32 +889,31 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/POLICE_INSPECTOR.mp3"
     },
     {
-      "identifier": "JOSEPH_STANGERSON",
-      "name": "Joseph Stangerson",
+      "identifier": "SENTINEL",
+      "name": "The Sentinel",
       "aliases": [],
       "voice_attributes": [
-        "nasal",
-        "cold",
-        "threatening"
+        "stern",
+        "military",
+        "loud"
       ],
       "visual_attributes": [
-        "long pale face",
-        "thin lips",
-        "cocked hat",
-        "traveling clothes"
+        "mormon militia uniform",
+        "rifle",
+        "beard",
+        "keen eyes"
       ],
       "roles": [
-        "antagonist",
-        "mormon elder"
+        "guard"
       ],
       "metadata": {
-        "age_group": "young",
+        "age_group": "middle_aged",
         "gender": "male",
         "voice_accent": "american"
       },
       "dialogue_count": 4,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOSEPH_STANGERSON.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOSEPH_STANGERSON.mp3"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SENTINEL.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SENTINEL.mp3"
     },
     {
       "identifier": "ENOCH_DREBBER",
@@ -907,82 +946,32 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/ENOCH_DREBBER.mp3"
     },
     {
-      "identifier": "SENTINEL",
-      "name": "The Sentinel",
+      "identifier": "JOSEPH_STANGERSON",
+      "name": "Joseph Stangerson",
       "aliases": [],
       "voice_attributes": [
-        "stern",
-        "military",
-        "loud"
+        "nasal",
+        "cold",
+        "threatening"
       ],
       "visual_attributes": [
-        "mormon militia uniform",
-        "rifle",
-        "beard",
-        "keen eyes"
+        "long pale face",
+        "thin lips",
+        "cocked hat",
+        "traveling clothes"
       ],
       "roles": [
-        "guard"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SENTINEL.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/SENTINEL.mp3"
-    },
-    {
-      "identifier": "MORMON_SCOUT",
-      "name": "Mormon Scout",
-      "aliases": [],
-      "voice_attributes": [
-        "eager",
-        "young"
-      ],
-      "visual_attributes": [
-        "young face",
-        "keen eyes",
-        "homespun clothes",
-        "rifle"
-      ],
-      "roles": [
-        "scout"
+        "antagonist",
+        "mormon elder"
       ],
       "metadata": {
         "age_group": "young",
         "gender": "male",
         "voice_accent": "american"
       },
-      "dialogue_count": 3,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.mp3"
-    },
-    {
-      "identifier": "MORMON_PILGRIM",
-      "name": "Mormon Pilgrim",
-      "aliases": [],
-      "voice_attributes": [
-        "earnest",
-        "fervent"
-      ],
-      "visual_attributes": [
-        "weather-beaten face",
-        "dusty clothes",
-        "hat"
-      ],
-      "roles": [
-        "traveller"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.mp3"
+      "dialogue_count": 4,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOSEPH_STANGERSON.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOSEPH_STANGERSON.mp3"
     },
     {
       "identifier": "COMMISSIONAIRE",
@@ -1014,34 +1003,80 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COMMISSIONAIRE.mp3"
     },
     {
-      "identifier": "WIGGINS",
-      "name": "Wiggins",
+      "identifier": "MORMON_PILGRIM",
+      "name": "Mormon Pilgrim",
       "aliases": [],
       "voice_attributes": [
-        "cockney",
-        "street-smart",
-        "shrill",
-        "confident"
+        "earnest",
+        "fervent"
       ],
       "visual_attributes": [
-        "dirty face",
-        "wild hair",
-        "ragged oversized clothes",
-        "sharp eyes",
-        "bare feet"
+        "weather-beaten face",
+        "dusty clothes",
+        "hat"
       ],
       "roles": [
-        "informant",
-        "street arab"
+        "traveller"
       ],
       "metadata": {
-        "age_group": "child",
+        "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "cockney"
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.mp3"
+    },
+    {
+      "identifier": "MORMON_SCOUT",
+      "name": "Mormon Scout",
+      "aliases": [],
+      "voice_attributes": [
+        "eager",
+        "young"
+      ],
+      "visual_attributes": [
+        "young face",
+        "keen eyes",
+        "homespun clothes",
+        "rifle"
+      ],
+      "roles": [
+        "scout"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.mp3"
+    },
+    {
+      "identifier": "MORMON_SUBORDINATE",
+      "name": "Mormon Subordinate",
+      "aliases": [],
+      "voice_attributes": [
+        "obedient",
+        "hushed"
+      ],
+      "visual_attributes": [
+        "dark clothes",
+        "slight build"
+      ],
+      "roles": [
+        "guard",
+        "mormon"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
       },
       "dialogue_count": 2,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.mp3"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.mp3"
     },
     {
       "identifier": "MORMON_CAPTAIN",
@@ -1070,47 +1105,34 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.mp3"
     },
     {
-      "identifier": "MORMON_SUBORDINATE",
-      "name": "Mormon Subordinate",
+      "identifier": "WIGGINS",
+      "name": "Wiggins",
       "aliases": [],
       "voice_attributes": [
-        "obedient",
-        "hushed"
+        "cockney",
+        "street-smart",
+        "shrill",
+        "confident"
       ],
       "visual_attributes": [
-        "dark clothes",
-        "slight build"
+        "dirty face",
+        "wild hair",
+        "ragged oversized clothes",
+        "sharp eyes",
+        "bare feet"
       ],
       "roles": [
-        "guard",
-        "mormon"
+        "informant",
+        "street arab"
       ],
       "metadata": {
-        "age_group": "young",
+        "age_group": "child",
         "gender": "male",
-        "voice_accent": "american"
+        "voice_accent": "cockney"
       },
       "dialogue_count": 2,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.mp3"
-    },
-    {
-      "identifier": "NARRATOR",
-      "name": "Narrator",
-      "aliases": [],
-      "voice_attributes": [],
-      "visual_attributes": [],
-      "roles": [
-        "narrator"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 0,
-      "image_key": null,
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/NARRATOR.mp3"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.mp3"
     }
   ],
   "scenes": [
