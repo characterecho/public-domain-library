@@ -1,0 +1,1048 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "The Sign of the Four",
+  "author_names": "Arthur Conan Doyle",
+  "description": "Publication imported from https://gutenberg.org/ebooks/2097.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/2097.epub3.images",
+  "identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
+  "publication_type": "novel",
+  "cover_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/cover.png",
+  "total_duration_s": 13305.484149,
+  "genre_tags": [
+    "Mystery & Thriller",
+    "Detective Fiction",
+    "Victorian",
+    "Classic Literature",
+    "Deduction"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3284.426644
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_1.mp3",
+      "start_s": 3284.426644,
+      "end_s": 6349.157324
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_2.mp3",
+      "start_s": 6349.157324,
+      "end_s": 9476.133469
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_3.mp3",
+      "start_s": 9476.133469,
+      "end_s": 13305.484149
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction.",
+      "start_s": 0.0,
+      "end_s": 6.982,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Chapter I. The Science of Deduction.",
+      "start_s": 6.982,
+      "end_s": 921.079,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter II. The Statement of the Case.",
+      "start_s": 921.079,
+      "end_s": 1524.884,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter III. In Quest of a Solution.",
+      "start_s": 1524.884,
+      "end_s": 2091.484,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          },
+          {
+            "identifier": "CAB_RIDE_LONDON_FOG",
+            "location_header": "INT. HANSOM CAB - NIGHT",
+            "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco."
+          },
+          {
+            "identifier": "SUBURBAN_STREET_EXTERIOR",
+            "location_header": "EXT. SUBURBAN STREET - NIGHT",
+            "visual_description": "A dark, forbidding suburban street in South London. Rows of identical dull brick houses stretch into the gloom. A single house shows a glimmer of light in a kitchen window. The atmosphere is desolate, damp, and eerie, with yellow fog swirling around gas lamps."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter IV. The Story of the Bald-Headed Man.",
+      "start_s": 2091.484,
+      "end_s": 3284.427,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "THADDEUS_SHOLTO_APARTMENT",
+            "location_header": "INT. LUXURIOUS APARTMENT ROOM - NIGHT",
+            "visual_description": "An opulent, bizarre room inside a sordid house. The 'oasis of art' features rich tapestries, glossy curtains, and tiger skins on a thick amber-and-black carpet. A silver dove lamp hangs from the ceiling, filling the air with aromatic smoke from a large hookah. The room is a striking contrast of Eastern luxury against a backdrop of suburban decay."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "Chapter V. The Tragedy of Pondicherry Lodge.",
+      "start_s": 3284.427,
+      "end_s": 4087.498,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_PONDICHERRY_LODGE_NIGHT",
+            "location_header": "EXT. PONDICHERRY LODGE - NIGHT",
+            "visual_description": "A gloomy, high-walled estate in South London shrouded in darkness. A narrow iron-clamped door is the only entrance. Inside, a desolate gravel path winds through neglected grounds towards a huge, square, prosaic house plunged in shadow. A single moonbeam strikes a high garret window. The atmosphere is ominous and deathly silent."
+          },
+          {
+            "identifier": "INT_HOUSEKEEPERS_ROOM_NIGHT",
+            "location_header": "INT. HOUSEKEEPER'S ROOM - NIGHT",
+            "visual_description": "A small, modest room on the ground floor of the dark house. Lit by a single lamp, creating deep shadows in the corners. Simple furniture, a fireplace, and a general air of anxiety. The room feels like a small sanctuary within the vast, gloomy mansion."
+          },
+          {
+            "identifier": "INT_BARTHOLOMEW_LAB_NIGHT",
+            "location_header": "INT. BARTHOLOMEW SHOLTO'S LABORATORY - NIGHT",
+            "visual_description": "A strange, chemical-smelling room under the roof. Fitted as a laboratory with rows of glass-stoppered bottles, Bunsen burners, and carboys of acid. A trap-door is visible in the ceiling. In the center, a wooden armchair holds a rigid figure. Moonlight streams in, illuminating the clutter of scientific equipment and lath-and-plaster debris."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "Chapter VI. Sherlock Holmes Gives a Demonstration.",
+      "start_s": 4087.498,
+      "end_s": 5021.291,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_BARTHOLOMEW_LAB_NIGHT",
+            "location_header": "INT. BARTHOLOMEW SHOLTO'S LABORATORY - NIGHT",
+            "visual_description": "A strange, chemical-smelling room under the roof. Fitted as a laboratory with rows of glass-stoppered bottles, Bunsen burners, and carboys of acid. A trap-door is visible in the ceiling. In the center, a wooden armchair holds a rigid figure. Moonlight streams in, illuminating the clutter of scientific equipment and lath-and-plaster debris."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "Chapter VII. The Episode of the Barrel.",
+      "start_s": 5021.291,
+      "end_s": 6349.157,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HANSOM_CAB_NIGHT",
+            "location_header": "INT. HANSOM CAB - NIGHT",
+            "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco."
+          },
+          {
+            "identifier": "EXT_PINCHIN_LANE_NIGHT",
+            "location_header": "EXT. PINCHIN LANE - NIGHT",
+            "visual_description": "A dark, shabby street in Lambeth with two-storied brick houses. A glint of light shows from an upper window of number three. The surroundings are poor and neglected, with shadows masking the details of the grime."
+          },
+          {
+            "identifier": "INT_SHERMANS_HOUSE_NIGHT",
+            "location_header": "INT. SHERMAN'S HOUSE - NIGHT",
+            "visual_description": "A chaotic, cluttered room filled with animal cages and dark corners. The rafters are lined with roosting fowls. Shadows dance from a single candle held by the eccentric owner. Glinting eyes peep from every cranny. The air is thick with the smell of a menagerie."
+          },
+          {
+            "identifier": "EXT_PONDICHERRY_LODGE_NIGHT",
+            "location_header": "EXT. PONDICHERRY LODGE - NIGHT",
+            "visual_description": "A gloomy, high-walled estate in South London shrouded in darkness. A narrow iron-clamped door is the only entrance. Inside, a desolate gravel path winds through neglected grounds towards a huge, square, prosaic house plunged in shadow. A single moonbeam strikes a high garret window. The atmosphere is ominous and deathly silent."
+          },
+          {
+            "identifier": "EXT_LONDON_STREETS_DAWN",
+            "location_header": "EXT. LONDON STREETS - DAWN",
+            "visual_description": "Grey morning light filtering through the streets of South London. Rows of brick houses and slatternly shops are just waking up. The sky is a cold, pale grey. The streets are damp and gritty, with the occasional laborer appearing. A sense of weary urban morning."
+          },
+          {
+            "identifier": "EXT_TIMBER_YARD_MORNING",
+            "location_header": "EXT. TIMBER YARD - MORNING",
+            "visual_description": "A large, enclosed timber yard near the river. Stacks of wood and piles of sawdust create a maze-like environment. The early morning sun hits the rough textures of the wood. A hand-trolley with a large barrel stands conspicuously in the sawdust. The smell of creosote and wood shavings is implied."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "Chapter VIII. The Baker Street Irregulars.",
+      "start_s": 6349.157,
+      "end_s": 7379.232,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_TIMBER_YARD_MORNING",
+            "location_header": "EXT. TIMBER YARD - MORNING",
+            "visual_description": "A large, enclosed timber yard near the river. Stacks of wood and piles of sawdust create a maze-like environment. The early morning sun hits the rough textures of the wood. A hand-trolley with a large barrel stands conspicuously in the sawdust. The smell of creosote and wood shavings is implied."
+          },
+          {
+            "identifier": "EXT_SMITHS_WHARF_DAY",
+            "location_header": "EXT. SMITH'S WHARF - DAY",
+            "visual_description": "A small wooden wharf at the water's edge of the Thames. A small brick house with a wooden placard stands nearby. A pile of coke lies on the jetty. Punts and skiffs bob in the water. The area is modest and functional, with the dark current of the river beyond."
+          },
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "Chapter IX. A Break in the Chain.",
+      "start_s": 7379.232,
+      "end_s": 8466.127,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          },
+          {
+            "identifier": "INT_FORRESTER_DRAWING_ROOM",
+            "location_header": "INT. FORRESTER DRAWING ROOM - DAY",
+            "visual_description": "A comfortable, well-appointed drawing room in Camberwell. Soft feminine touches with lace antimacassars and floral arrangements. Afternoon light filters through draped windows. The furniture is upholstered in warm fabrics, creating a safe, domestic atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "Chapter X. The End of the Islander.",
+      "start_s": 8466.127,
+      "end_s": 9476.133,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          },
+          {
+            "identifier": "EXT_POLICE_LAUNCH_NIGHT",
+            "location_header": "EXT. POLICE LAUNCH - NIGHT",
+            "visual_description": "The deck of a steam launch moving along the Thames at night. The glow of the furnace illuminates the eager faces of the men. Dark, swirling water rushes past. Lights from the shore and bridges twinkle in the distance. The atmosphere is tense and energetic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "Chapter XI. The Great Agra Treasure.",
+      "start_s": 9476.133,
+      "end_s": 10142.186,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LAUNCH_CABIN",
+            "location_header": "INT. CABIN - POLICE LAUNCH - NIGHT",
+            "visual_description": "A cramped, wooden ship's cabin lit by a swaying oil lamp. Shadows dance on mahogany walls. The space is filled with the smell of wet wool, tobacco smoke, and the river. A heavy iron box sits on a table. Condensation beads on the porthole glass. The atmosphere is tense but resigned."
+          },
+          {
+            "identifier": "SCENE_FORRESTER_DRAWING_ROOM",
+            "location_header": "INT. FORRESTER DRAWING ROOM - NIGHT",
+            "visual_description": "A comfortable Victorian drawing room bathed in the soft, warm glow of a shaded lamp. Feminine touches include lace antimacassars and floral arrangements. A basket chair sits near an open window with heavy drapes. The atmosphere is intimate, quiet, and safe, contrasting with the dark night outside."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "Chapter XII. The Strange Story of Jonathan Small.",
+      "start_s": 10142.186,
+      "end_s": 13305.484,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HANSOM_CAB_NIGHT",
+            "location_header": "INT. HANSOM CAB - NIGHT",
+            "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco."
+          },
+          {
+            "identifier": "BAKER_STREET_SITTING_ROOM",
+            "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+            "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "WATSON",
+      "name": "Watson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "JOHN_H_WATSON"
+      ],
+      "voice_attributes": [
+        "educated",
+        "weary",
+        "clear timbre",
+        "warm"
+      ],
+      "visual_attributes": [
+        "mustache",
+        "military bearing",
+        "sensible tweed suit",
+        "sturdy build"
+      ],
+      "roles": [
+        "protagonist",
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 433,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WATSON.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WATSON.mp3"
+    },
+    {
+      "identifier": "SHERLOCK_HOLMES",
+      "name": "Holmes",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mr. Sherlock Holmes"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "energetic",
+        "intellectual",
+        "high-pitched",
+        "crisp"
+      ],
+      "visual_attributes": [
+        "tall and thin",
+        "hawk-like nose",
+        "piercing eyes",
+        "square chin",
+        "dressing gown",
+        "pale complexion"
+      ],
+      "roles": [
+        "detective",
+        "scientist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 270,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/SHERLOCK_HOLMES.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/SHERLOCK_HOLMES.mp3"
+    },
+    {
+      "identifier": "JONATHAN_SMALL",
+      "name": "Jonathan Small",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "strident",
+        "angry",
+        "high-pitched",
+        "cracked",
+        "resigned"
+      ],
+      "visual_attributes": [
+        "wooden leg",
+        "powerful build",
+        "brown monkey-face",
+        "seafaring clothes",
+        "sunburned",
+        "mahogany features"
+      ],
+      "roles": [
+        "villain",
+        "convict"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 177,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/JONATHAN_SMALL.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/JONATHAN_SMALL.mp3"
+    },
+    {
+      "identifier": "THADDEUS_SHOLTO",
+      "name": "Mr. Thaddeus Sholto",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "high-pitched",
+        "jerky",
+        "nervous",
+        "thin"
+      ],
+      "visual_attributes": [
+        "bald shining scalp",
+        "fringe of red hair",
+        "pendulous lip",
+        "yellow irregular teeth",
+        "twitching features",
+        "youthful appearance"
+      ],
+      "roles": [
+        "heir",
+        "eccentric"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 61,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/THADDEUS_SHOLTO.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/THADDEUS_SHOLTO.mp3"
+    },
+    {
+      "identifier": "ATHELNEY_JONES",
+      "name": "Athelney Jones",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Inspector Jones"
+      ],
+      "voice_attributes": [
+        "wheezing",
+        "husky",
+        "pompous",
+        "meek"
+      ],
+      "visual_attributes": [
+        "stout",
+        "red-faced",
+        "grey suit",
+        "swollen eyes"
+      ],
+      "roles": [
+        "detective"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 50,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/ATHELNEY_JONES.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/ATHELNEY_JONES.mp3"
+    },
+    {
+      "identifier": "MARY_MORSTAN",
+      "name": "Miss Morstan",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "sweet",
+        "amiable",
+        "deep rich tones",
+        "refined"
+      ],
+      "visual_attributes": [
+        "blonde hair",
+        "blue eyes",
+        "small and dainty",
+        "greyish beige dress",
+        "grey turban",
+        "white feather"
+      ],
+      "roles": [
+        "client",
+        "love interest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 42,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MARY_MORSTAN.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MARY_MORSTAN.mp3"
+    },
+    {
+      "identifier": "MRS_SMITH",
+      "name": "Mrs. Smith",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "anxious",
+        "working-class"
+      ],
+      "visual_attributes": [
+        "stoutish figure",
+        "red face",
+        "plain dress",
+        "rolled sleeves"
+      ],
+      "roles": [
+        "witness",
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_SMITH.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_SMITH.mp3"
+    },
+    {
+      "identifier": "SHERLOCK_HOLMES_OLD_SAILOR",
+      "name": "Old Sailor",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "wheezing",
+        "rattling",
+        "thick",
+        "foggy",
+        "asthmatic"
+      ],
+      "visual_attributes": [
+        "aged face",
+        "bushy white brows",
+        "long grey side-whiskers",
+        "seafaring garb",
+        "pea-jacket",
+        "bowed back"
+      ],
+      "roles": [
+        "detective",
+        "disguise"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/SHERLOCK_HOLMES_OLD_SAILOR.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/SHERLOCK_HOLMES_OLD_SAILOR.mp3"
+    },
+    {
+      "identifier": "MR_SHERMAN",
+      "name": "Sherman",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "shouting",
+        "cantankerous"
+      ],
+      "visual_attributes": [
+        "lanky",
+        "stooping",
+        "blue-tinted glasses",
+        "stringy neck"
+      ],
+      "roles": [
+        "taxidermist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MR_SHERMAN.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MR_SHERMAN.mp3"
+    },
+    {
+      "identifier": "MCMURDO",
+      "name": "McMurdo",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "rough",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "boxer's build",
+        "smashed face",
+        "deep-chested",
+        "twinkling distrustful eyes"
+      ],
+      "roles": [
+        "prize-fighter",
+        "gatekeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MCMURDO.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MCMURDO.mp3"
+    },
+    {
+      "identifier": "MRS_BERNSTONE",
+      "name": "Mrs. Bernstone",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "hysterical",
+        "muffled",
+        "frightened"
+      ],
+      "visual_attributes": [
+        "tall",
+        "old",
+        "grey hair",
+        "housekeeper dress"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_BERNSTONE.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_BERNSTONE.mp3"
+    },
+    {
+      "identifier": "MRS_HUDSON",
+      "name": "Mrs. Hudson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "respectful",
+        "matronly"
+      ],
+      "visual_attributes": [
+        "apron",
+        "tidy cap",
+        "kindly face",
+        "grey hair"
+      ],
+      "roles": [
+        "landlady"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_HUDSON.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_HUDSON.mp3"
+    },
+    {
+      "identifier": "POLICE_INSPECTOR",
+      "name": "Inspector",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "weary",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "police uniform",
+        "heavy coat",
+        "tired eyes",
+        "thick mustache"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/POLICE_INSPECTOR.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/POLICE_INSPECTOR.mp3"
+    },
+    {
+      "identifier": "WIGGINS",
+      "name": "Wiggins",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "cockney",
+        "street-smart",
+        "confident",
+        "rough"
+      ],
+      "visual_attributes": [
+        "tall for age",
+        "ragged clothes",
+        "dirty face",
+        "keen eyes",
+        "lounging posture"
+      ],
+      "roles": [
+        "informant",
+        "street_urchin"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WIGGINS.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WIGGINS.mp3"
+    },
+    {
+      "identifier": "WILLIAMS",
+      "name": "Driver",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "dogged",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "small and dark",
+        "coachman's dress",
+        "penetrating eyes"
+      ],
+      "roles": [
+        "coachman",
+        "boxer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WILLIAMS.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WILLIAMS.mp3"
+    },
+    {
+      "identifier": "JACK_SMITH",
+      "name": "Jack",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "childlike",
+        "precocious",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "curly hair",
+        "rosy cheeks",
+        "dirty face",
+        "simple clothes"
+      ],
+      "roles": [
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/JACK_SMITH.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/JACK_SMITH.mp3"
+    },
+    {
+      "identifier": "KHITMUTGAR",
+      "name": "Servant",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "accented"
+      ],
+      "visual_attributes": [
+        "yellow turban",
+        "white loose clothes",
+        "yellow sash",
+        "dark skin"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "indian"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/KHITMUTGAR.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/KHITMUTGAR.mp3"
+    },
+    {
+      "identifier": "MRS_FORRESTER",
+      "name": "Mrs. Forrester",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cultured",
+        "kind",
+        "romantic"
+      ],
+      "visual_attributes": [
+        "elegant dress",
+        "kind face",
+        "neatly arranged hair",
+        "jewelry"
+      ],
+      "roles": [
+        "employer",
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_FORRESTER.png",
+      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/MRS_FORRESTER.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "EXT_TIMBER_YARD_MORNING",
+      "ordinal": 0,
+      "location_header": "EXT. TIMBER YARD - MORNING",
+      "visual_description": "A large, enclosed timber yard near the river. Stacks of wood and piles of sawdust create a maze-like environment. The early morning sun hits the rough textures of the wood. A hand-trolley with a large barrel stands conspicuously in the sawdust. The smell of creosote and wood shavings is implied.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_TIMBER_YARD_MORNING.jpg"
+    },
+    {
+      "identifier": "INT_HANSOM_CAB_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. HANSOM CAB - NIGHT",
+      "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_HANSOM_CAB_NIGHT.jpg"
+    },
+    {
+      "identifier": "INT_BARTHOLOMEW_LAB_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. BARTHOLOMEW SHOLTO'S LABORATORY - NIGHT",
+      "visual_description": "A strange, chemical-smelling room under the roof. Fitted as a laboratory with rows of glass-stoppered bottles, Bunsen burners, and carboys of acid. A trap-door is visible in the ceiling. In the center, a wooden armchair holds a rigid figure. Moonlight streams in, illuminating the clutter of scientific equipment and lath-and-plaster debris.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_BARTHOLOMEW_LAB_NIGHT.jpg"
+    },
+    {
+      "identifier": "THADDEUS_SHOLTO_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. LUXURIOUS APARTMENT ROOM - NIGHT",
+      "visual_description": "An opulent, bizarre room inside a sordid house. The 'oasis of art' features rich tapestries, glossy curtains, and tiger skins on a thick amber-and-black carpet. A silver dove lamp hangs from the ceiling, filling the air with aromatic smoke from a large hookah. The room is a striking contrast of Eastern luxury against a backdrop of suburban decay.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_THADDEUS_SHOLTO_APARTMENT.jpg"
+    },
+    {
+      "identifier": "SCENE_LAUNCH_CABIN",
+      "ordinal": 0,
+      "location_header": "INT. CABIN - POLICE LAUNCH - NIGHT",
+      "visual_description": "A cramped, wooden ship's cabin lit by a swaying oil lamp. Shadows dance on mahogany walls. The space is filled with the smell of wet wool, tobacco smoke, and the river. A heavy iron box sits on a table. Condensation beads on the porthole glass. The atmosphere is tense but resigned.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_LAUNCH_CABIN.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "EXT_SMITHS_WHARF_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. SMITH'S WHARF - DAY",
+      "visual_description": "A small wooden wharf at the water's edge of the Thames. A small brick house with a wooden placard stands nearby. A pile of coke lies on the jetty. Punts and skiffs bob in the water. The area is modest and functional, with the dark current of the river beyond.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_SMITHS_WHARF_DAY.jpg"
+    },
+    {
+      "identifier": "CAB_RIDE_LONDON_FOG",
+      "ordinal": 1,
+      "location_header": "INT. HANSOM CAB - NIGHT",
+      "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_CAB_RIDE_LONDON_FOG.jpg"
+    },
+    {
+      "identifier": "EXT_POLICE_LAUNCH_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. POLICE LAUNCH - NIGHT",
+      "visual_description": "The deck of a steam launch moving along the Thames at night. The glow of the furnace illuminates the eager faces of the men. Dark, swirling water rushes past. Lights from the shore and bridges twinkle in the distance. The atmosphere is tense and energetic.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_POLICE_LAUNCH_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_FORRESTER_DRAWING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. FORRESTER DRAWING ROOM - NIGHT",
+      "visual_description": "A comfortable Victorian drawing room bathed in the soft, warm glow of a shaded lamp. Feminine touches include lace antimacassars and floral arrangements. A basket chair sits near an open window with heavy drapes. The atmosphere is intimate, quiet, and safe, contrasting with the dark night outside.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_FORRESTER_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_HOUSEKEEPERS_ROOM_NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. HOUSEKEEPER'S ROOM - NIGHT",
+      "visual_description": "A small, modest room on the ground floor of the dark house. Lit by a single lamp, creating deep shadows in the corners. Simple furniture, a fireplace, and a general air of anxiety. The room feels like a small sanctuary within the vast, gloomy mansion.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_HOUSEKEEPERS_ROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_PINCHIN_LANE_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. PINCHIN LANE - NIGHT",
+      "visual_description": "A dark, shabby street in Lambeth with two-storied brick houses. A glint of light shows from an upper window of number three. The surroundings are poor and neglected, with shadows masking the details of the grime.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_PINCHIN_LANE_NIGHT.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_SITTING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. BAKER STREET SITTING ROOM - DAY",
+      "visual_description": "A cluttered Victorian bachelor's sitting room in Baker Street, filled with the haze of tobacco smoke. A chemistry table stands in the corner with acid-stained wood. The mantelpiece holds a jack-knife transfixing correspondence. Daylight struggles through yellow fog outside the windows. Books, papers, and a violin case are scattered about. The mood is lethargic yet intellectual.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_BAKER_STREET_SITTING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_FORRESTER_DRAWING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. FORRESTER DRAWING ROOM - DAY",
+      "visual_description": "A comfortable, well-appointed drawing room in Camberwell. Soft feminine touches with lace antimacassars and floral arrangements. Afternoon light filters through draped windows. The furniture is upholstered in warm fabrics, creating a safe, domestic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_FORRESTER_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SUBURBAN_STREET_EXTERIOR",
+      "ordinal": 2,
+      "location_header": "EXT. SUBURBAN STREET - NIGHT",
+      "visual_description": "A dark, forbidding suburban street in South London. Rows of identical dull brick houses stretch into the gloom. A single house shows a glimmer of light in a kitchen window. The atmosphere is desolate, damp, and eerie, with yellow fog swirling around gas lamps.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SUBURBAN_STREET_EXTERIOR.jpg"
+    },
+    {
+      "identifier": "INT_SHERMANS_HOUSE_NIGHT",
+      "ordinal": 2,
+      "location_header": "INT. SHERMAN'S HOUSE - NIGHT",
+      "visual_description": "A chaotic, cluttered room filled with animal cages and dark corners. The rafters are lined with roosting fowls. Shadows dance from a single candle held by the eccentric owner. Glinting eyes peep from every cranny. The air is thick with the smell of a menagerie.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_SHERMANS_HOUSE_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_PONDICHERRY_LODGE_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. PONDICHERRY LODGE - NIGHT",
+      "visual_description": "A gloomy, high-walled estate in South London shrouded in darkness. A narrow iron-clamped door is the only entrance. Inside, a desolate gravel path winds through neglected grounds towards a huge, square, prosaic house plunged in shadow. A single moonbeam strikes a high garret window. The atmosphere is ominous and deathly silent.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_PONDICHERRY_LODGE_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_LONDON_STREETS_DAWN",
+      "ordinal": 4,
+      "location_header": "EXT. LONDON STREETS - DAWN",
+      "visual_description": "Grey morning light filtering through the streets of South London. Rows of brick houses and slatternly shops are just waking up. The sky is a cold, pale grey. The streets are damp and gritty, with the occasional laborer appearing. A sense of weary urban morning.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_LONDON_STREETS_DAWN.jpg"
+    }
+  ],
+  "subjects": [
+    "Holmes, Sherlock (Fictitious character) -- Fiction",
+    "Private investigators -- England -- Fiction",
+    "Detective and mystery stories"
+  ]
+}
