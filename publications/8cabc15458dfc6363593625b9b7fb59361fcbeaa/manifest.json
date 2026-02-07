@@ -8,7 +8,7 @@
   "identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
   "publication_type": "novel",
   "cover_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/cover.png",
-  "total_duration_s": 13305.484149,
+  "total_duration_s": 13302.077686,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -21,25 +21,25 @@
       "ordinal": 0,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3284.426644
+      "end_s": 3281.020181
     },
     {
       "ordinal": 1,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_1.mp3",
-      "start_s": 3284.426644,
-      "end_s": 6349.157324
+      "start_s": 3281.020181,
+      "end_s": 6345.750861
     },
     {
       "ordinal": 2,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_2.mp3",
-      "start_s": 6349.157324,
-      "end_s": 9476.133469
+      "start_s": 6345.750861,
+      "end_s": 9472.727006000001
     },
     {
       "ordinal": 3,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_3.mp3",
-      "start_s": 9476.133469,
-      "end_s": 13305.484149
+      "start_s": 9472.727006000001,
+      "end_s": 13302.077686
     }
   ],
   "segments": [
@@ -56,7 +56,7 @@
       "ordinal": 1,
       "title": "Chapter I. The Science of Deduction.",
       "start_s": 6.982,
-      "end_s": 921.079,
+      "end_s": 917.675,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -72,8 +72,8 @@
     {
       "ordinal": 2,
       "title": "Chapter II. The Statement of the Case.",
-      "start_s": 921.079,
-      "end_s": 1524.884,
+      "start_s": 917.675,
+      "end_s": 1521.479,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -89,8 +89,8 @@
     {
       "ordinal": 3,
       "title": "Chapter III. In Quest of a Solution.",
-      "start_s": 1524.884,
-      "end_s": 2091.484,
+      "start_s": 1521.479,
+      "end_s": 2088.079,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -116,8 +116,8 @@
     {
       "ordinal": 4,
       "title": "Chapter IV. The Story of the Bald-Headed Man.",
-      "start_s": 2091.484,
-      "end_s": 3284.427,
+      "start_s": 2088.079,
+      "end_s": 3281.02,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -133,8 +133,8 @@
     {
       "ordinal": 5,
       "title": "Chapter V. The Tragedy of Pondicherry Lodge.",
-      "start_s": 3284.427,
-      "end_s": 4087.498,
+      "start_s": 3281.02,
+      "end_s": 4084.092,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -160,8 +160,8 @@
     {
       "ordinal": 6,
       "title": "Chapter VI. Sherlock Holmes Gives a Demonstration.",
-      "start_s": 4087.498,
-      "end_s": 5021.291,
+      "start_s": 4084.092,
+      "end_s": 5017.885,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -177,8 +177,8 @@
     {
       "ordinal": 7,
       "title": "Chapter VII. The Episode of the Barrel.",
-      "start_s": 5021.291,
-      "end_s": 6349.157,
+      "start_s": 5017.885,
+      "end_s": 6345.751,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -219,8 +219,8 @@
     {
       "ordinal": 8,
       "title": "Chapter VIII. The Baker Street Irregulars.",
-      "start_s": 6349.157,
-      "end_s": 7379.232,
+      "start_s": 6345.751,
+      "end_s": 7375.826,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -246,8 +246,8 @@
     {
       "ordinal": 9,
       "title": "Chapter IX. A Break in the Chain.",
-      "start_s": 7379.232,
-      "end_s": 8466.127,
+      "start_s": 7375.826,
+      "end_s": 8462.72,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -268,8 +268,8 @@
     {
       "ordinal": 10,
       "title": "Chapter X. The End of the Islander.",
-      "start_s": 8466.127,
-      "end_s": 9476.133,
+      "start_s": 8462.72,
+      "end_s": 9472.727,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -290,8 +290,8 @@
     {
       "ordinal": 11,
       "title": "Chapter XI. The Great Agra Treasure.",
-      "start_s": 9476.133,
-      "end_s": 10142.186,
+      "start_s": 9472.727,
+      "end_s": 10138.779,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -312,8 +312,8 @@
     {
       "ordinal": 12,
       "title": "Chapter XII. The Strange Story of Jonathan Small.",
-      "start_s": 10142.186,
-      "end_s": 13305.484,
+      "start_s": 10138.779,
+      "end_s": 13302.078,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
