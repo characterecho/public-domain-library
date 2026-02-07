@@ -1,5 +1,34 @@
 [
   {
+    "publication_identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
+    "sample": false,
+    "title": "The Sign of the Four",
+    "author_names": "Arthur Conan Doyle",
+    "publication_type": "novel",
+    "genre_tags": [
+      "mystery",
+      "classics"
+    ],
+    "catalog_added_at": "2026-01-31T16:04:56Z",
+    "updated_at": "2026-02-07T15:43:53Z",
+    "duration": {
+      "total_ms": 13317000,
+      "formatted": "3h 42m"
+    },
+    "cover_url": null,
+    "data_checksum": "d5fad4a774a65c52d9a098caa6a60d4d2d4471e45052dc6b79130d18df21f601",
+    "file_size": 379087885,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
     "sample": false,
     "title": "A Study in Scarlet",
