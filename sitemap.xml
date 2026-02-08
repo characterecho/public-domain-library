@@ -6,6 +6,26 @@
     <priority>1.0</priority>
   </url>
 <url>
+  <loc>https://library.characterecho.com/publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/preview/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://library.characterecho.com/publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/preview/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://library.characterecho.com/publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/preview/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>https://library.characterecho.com/publications/f337cc27d6b2f4676afc7673980770204b06575b/preview/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
   <loc>https://library.characterecho.com/publications/b54dc4bf3a0ed3774dacbe16ab131f2b9e2ba84e/preview/</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
@@ -47,21 +67,6 @@
 </url>
 <url>
   <loc>https://library.characterecho.com/publications/3e4f98fc60b015a485b8cbe3a4e55a81258b32af/preview/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://library.characterecho.com/publications/69e1dfb19f523c5d756253ecf46d858ad839bd94/preview/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://library.characterecho.com/publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/preview/</loc>
-  <changefreq>monthly</changefreq>
-  <priority>0.8</priority>
-</url>
-<url>
-  <loc>https://library.characterecho.com/publications/f337cc27d6b2f4676afc7673980770204b06575b/preview/</loc>
   <changefreq>monthly</changefreq>
   <priority>0.8</priority>
 </url>
