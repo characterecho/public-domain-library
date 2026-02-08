@@ -8,7 +8,7 @@
   "identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
   "publication_type": "novel",
   "cover_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/cover.png",
-  "total_duration_s": 13295.373106,
+  "total_duration_s": 13295.791066,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -27,19 +27,19 @@
       "ordinal": 1,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_1.mp3",
       "start_s": 3281.294422,
-      "end_s": 6339.046281
+      "end_s": 6339.464241
     },
     {
       "ordinal": 2,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_2.mp3",
-      "start_s": 6339.046281,
-      "end_s": 9466.022426
+      "start_s": 6339.464241,
+      "end_s": 9466.440386
     },
     {
       "ordinal": 3,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_3.mp3",
-      "start_s": 9466.022426,
-      "end_s": 13295.373106
+      "start_s": 9466.440386,
+      "end_s": 13295.791066
     }
   ],
   "segments": [
@@ -178,7 +178,7 @@
       "ordinal": 7,
       "title": "Chapter VII. The Episode of the Barrel.",
       "start_s": 5011.199,
-      "end_s": 6339.046,
+      "end_s": 6339.464,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -219,8 +219,8 @@
     {
       "ordinal": 8,
       "title": "Chapter VIII. The Baker Street Irregulars.",
-      "start_s": 6339.046,
-      "end_s": 7369.121,
+      "start_s": 6339.464,
+      "end_s": 7369.539,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -246,8 +246,8 @@
     {
       "ordinal": 9,
       "title": "Chapter IX. A Break in the Chain.",
-      "start_s": 7369.121,
-      "end_s": 8456.015,
+      "start_s": 7369.539,
+      "end_s": 8456.433,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -268,8 +268,8 @@
     {
       "ordinal": 10,
       "title": "Chapter X. The End of the Islander.",
-      "start_s": 8456.015,
-      "end_s": 9466.022,
+      "start_s": 8456.433,
+      "end_s": 9466.44,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -290,8 +290,8 @@
     {
       "ordinal": 11,
       "title": "Chapter XI. The Great Agra Treasure.",
-      "start_s": 9466.022,
-      "end_s": 10132.075,
+      "start_s": 9466.44,
+      "end_s": 10132.493,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -312,8 +312,8 @@
     {
       "ordinal": 12,
       "title": "Chapter XII. The Strange Story of Jonathan Small.",
-      "start_s": 10132.075,
-      "end_s": 13295.373,
+      "start_s": 10132.493,
+      "end_s": 13295.791,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
