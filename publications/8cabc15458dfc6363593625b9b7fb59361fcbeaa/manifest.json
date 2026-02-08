@@ -8,7 +8,7 @@
   "identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
   "publication_type": "novel",
   "cover_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/cover.png",
-  "total_duration_s": 13302.077686,
+  "total_duration_s": 13295.373106,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -21,25 +21,25 @@
       "ordinal": 0,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3281.020181
+      "end_s": 3281.294422
     },
     {
       "ordinal": 1,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_1.mp3",
-      "start_s": 3281.020181,
-      "end_s": 6345.750861
+      "start_s": 3281.294422,
+      "end_s": 6339.046281
     },
     {
       "ordinal": 2,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_2.mp3",
-      "start_s": 6345.750861,
-      "end_s": 9472.727006000001
+      "start_s": 6339.046281,
+      "end_s": 9466.022426
     },
     {
       "ordinal": 3,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_3.mp3",
-      "start_s": 9472.727006000001,
-      "end_s": 13302.077686
+      "start_s": 9466.022426,
+      "end_s": 13295.373106
     }
   ],
   "segments": [
@@ -117,7 +117,7 @@
       "ordinal": 4,
       "title": "Chapter IV. The Story of the Bald-Headed Man.",
       "start_s": 2088.079,
-      "end_s": 3281.02,
+      "end_s": 3281.294,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -133,8 +133,8 @@
     {
       "ordinal": 5,
       "title": "Chapter V. The Tragedy of Pondicherry Lodge.",
-      "start_s": 3281.02,
-      "end_s": 4084.092,
+      "start_s": 3281.294,
+      "end_s": 4084.355,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -160,8 +160,8 @@
     {
       "ordinal": 6,
       "title": "Chapter VI. Sherlock Holmes Gives a Demonstration.",
-      "start_s": 4084.092,
-      "end_s": 5017.885,
+      "start_s": 4084.355,
+      "end_s": 5011.199,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -177,8 +177,8 @@
     {
       "ordinal": 7,
       "title": "Chapter VII. The Episode of the Barrel.",
-      "start_s": 5017.885,
-      "end_s": 6345.751,
+      "start_s": 5011.199,
+      "end_s": 6339.046,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -219,8 +219,8 @@
     {
       "ordinal": 8,
       "title": "Chapter VIII. The Baker Street Irregulars.",
-      "start_s": 6345.751,
-      "end_s": 7375.826,
+      "start_s": 6339.046,
+      "end_s": 7369.121,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -246,8 +246,8 @@
     {
       "ordinal": 9,
       "title": "Chapter IX. A Break in the Chain.",
-      "start_s": 7375.826,
-      "end_s": 8462.72,
+      "start_s": 7369.121,
+      "end_s": 8456.015,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -268,8 +268,8 @@
     {
       "ordinal": 10,
       "title": "Chapter X. The End of the Islander.",
-      "start_s": 8462.72,
-      "end_s": 9472.727,
+      "start_s": 8456.015,
+      "end_s": 9466.022,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -290,8 +290,8 @@
     {
       "ordinal": 11,
       "title": "Chapter XI. The Great Agra Treasure.",
-      "start_s": 9472.727,
-      "end_s": 10138.779,
+      "start_s": 9466.022,
+      "end_s": 10132.075,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -312,8 +312,8 @@
     {
       "ordinal": 12,
       "title": "Chapter XII. The Strange Story of Jonathan Small.",
-      "start_s": 10138.779,
-      "end_s": 13302.078,
+      "start_s": 10132.075,
+      "end_s": 13295.373,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -831,7 +831,7 @@
       },
       "dialogue_count": 2,
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/JACK_SMITH.png",
-      "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/JACK_SMITH.mp3"
+      "voice_key": null
     },
     {
       "identifier": "KHITMUTGAR",
@@ -897,9 +897,17 @@
       "identifier": "EXT_TIMBER_YARD_MORNING",
       "ordinal": 0,
       "location_header": "EXT. TIMBER YARD - MORNING",
-      "visual_description": "A large, enclosed timber yard near the river. Stacks of wood and piles of sawdust create a maze-like environment. The early morning sun hits the rough textures of the wood. A hand-trolley with a large barrel stands conspicuously in the sawdust. The smell of creosote and wood shavings is implied.",
+      "visual_description": "A large, enclosed Victorian timber yard near the river. Stacks of wood and piles of sawdust create a maze-like environment. The early morning sun hits the rough textures of the wood. A hand-trolley with a large barrel stands conspicuously in the sawdust. The smell of creosote and wood shavings is implied.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_TIMBER_YARD_MORNING.jpg"
+    },
+    {
+      "identifier": "THADDEUS_SHOLTO_APARTMENT",
+      "ordinal": 0,
+      "location_header": "INT. LUXURIOUS APARTMENT ROOM - NIGHT",
+      "visual_description": "An opulent, bizarre room inside a sordid Vcitorian house. The 'oasis of art' features rich tapestries, glossy curtains, and tiger skins on a thick amber-and-black carpet. A silver dove lamp hangs from the ceiling, filling the air with aromatic smoke from a large hookah. The room is a striking contrast of Eastern luxury against a backdrop of suburban Victorian decay.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_THADDEUS_SHOLTO_APARTMENT.jpg"
     },
     {
       "identifier": "INT_HANSOM_CAB_NIGHT",
@@ -908,30 +916,6 @@
       "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_HANSOM_CAB_NIGHT.jpg"
-    },
-    {
-      "identifier": "INT_BARTHOLOMEW_LAB_NIGHT",
-      "ordinal": 0,
-      "location_header": "INT. BARTHOLOMEW SHOLTO'S LABORATORY - NIGHT",
-      "visual_description": "A strange, chemical-smelling room under the roof. Fitted as a laboratory with rows of glass-stoppered bottles, Bunsen burners, and carboys of acid. A trap-door is visible in the ceiling. In the center, a wooden armchair holds a rigid figure. Moonlight streams in, illuminating the clutter of scientific equipment and lath-and-plaster debris.",
-      "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_BARTHOLOMEW_LAB_NIGHT.jpg"
-    },
-    {
-      "identifier": "THADDEUS_SHOLTO_APARTMENT",
-      "ordinal": 0,
-      "location_header": "INT. LUXURIOUS APARTMENT ROOM - NIGHT",
-      "visual_description": "An opulent, bizarre room inside a sordid house. The 'oasis of art' features rich tapestries, glossy curtains, and tiger skins on a thick amber-and-black carpet. A silver dove lamp hangs from the ceiling, filling the air with aromatic smoke from a large hookah. The room is a striking contrast of Eastern luxury against a backdrop of suburban decay.",
-      "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_THADDEUS_SHOLTO_APARTMENT.jpg"
-    },
-    {
-      "identifier": "SCENE_LAUNCH_CABIN",
-      "ordinal": 0,
-      "location_header": "INT. CABIN - POLICE LAUNCH - NIGHT",
-      "visual_description": "A cramped, wooden ship's cabin lit by a swaying oil lamp. Shadows dance on mahogany walls. The space is filled with the smell of wet wool, tobacco smoke, and the river. A heavy iron box sits on a table. Condensation beads on the porthole glass. The atmosphere is tense but resigned.",
-      "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_LAUNCH_CABIN.jpg"
     },
     {
       "identifier": "SCENE_COVER_00",
@@ -944,34 +928,26 @@
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_COVER_00.jpg"
     },
     {
-      "identifier": "EXT_SMITHS_WHARF_DAY",
-      "ordinal": 1,
-      "location_header": "EXT. SMITH'S WHARF - DAY",
-      "visual_description": "A small wooden wharf at the water's edge of the Thames. A small brick house with a wooden placard stands nearby. A pile of coke lies on the jetty. Punts and skiffs bob in the water. The area is modest and functional, with the dark current of the river beyond.",
+      "identifier": "SCENE_LAUNCH_CABIN",
+      "ordinal": 0,
+      "location_header": "INT. CABIN - POLICE LAUNCH - NIGHT",
+      "visual_description": "A cramped, wooden ship's cabin lit by a swaying oil lamp. Shadows dance on mahogany walls. The space is filled with the smell of wet wool, tobacco smoke, and the river. A heavy iron box sits on a table. Condensation beads on the porthole glass. The atmosphere is tense but resigned.",
       "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_SMITHS_WHARF_DAY.jpg"
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_LAUNCH_CABIN.jpg"
     },
     {
-      "identifier": "CAB_RIDE_LONDON_FOG",
-      "ordinal": 1,
-      "location_header": "INT. HANSOM CAB - NIGHT",
-      "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco.",
+      "identifier": "INT_BARTHOLOMEW_LAB_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. BARTHOLOMEW SHOLTO'S LABORATORY - NIGHT",
+      "visual_description": "A strange, chemical-smelling room under the roof. Fitted as a laboratory with rows of glass-stoppered bottles, Bunsen burners, and carboys of acid. A trap-door is visible in the ceiling. In the center, a wooden armchair holds a rigid figure. Moonlight streams in, illuminating the clutter of scientific equipment and lath-and-plaster debris.",
       "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_CAB_RIDE_LONDON_FOG.jpg"
-    },
-    {
-      "identifier": "EXT_POLICE_LAUNCH_NIGHT",
-      "ordinal": 1,
-      "location_header": "EXT. POLICE LAUNCH - NIGHT",
-      "visual_description": "The deck of a steam launch moving along the Thames at night. The glow of the furnace illuminates the eager faces of the men. Dark, swirling water rushes past. Lights from the shore and bridges twinkle in the distance. The atmosphere is tense and energetic.",
-      "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_POLICE_LAUNCH_NIGHT.jpg"
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_BARTHOLOMEW_LAB_NIGHT.jpg"
     },
     {
       "identifier": "SCENE_FORRESTER_DRAWING_ROOM",
       "ordinal": 1,
       "location_header": "INT. FORRESTER DRAWING ROOM - NIGHT",
-      "visual_description": "A comfortable Victorian drawing room bathed in the soft, warm glow of a shaded lamp. Feminine touches include lace antimacassars and floral arrangements. A basket chair sits near an open window with heavy drapes. The atmosphere is intimate, quiet, and safe, contrasting with the dark night outside.",
+      "visual_description": "A comfortable Victorian drawing room bathed in the soft, warm glow of a shaded kerosene lamp. Feminine touches include lace antimacassars and floral arrangements. A basket chair sits near an open window with heavy drapes. The atmosphere is intimate, quiet, and safe, contrasting with the dark night outside.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SCENE_FORRESTER_DRAWING_ROOM.jpg"
     },
@@ -979,7 +955,7 @@
       "identifier": "INT_HOUSEKEEPERS_ROOM_NIGHT",
       "ordinal": 1,
       "location_header": "INT. HOUSEKEEPER'S ROOM - NIGHT",
-      "visual_description": "A small, modest room on the ground floor of the dark house. Lit by a single lamp, creating deep shadows in the corners. Simple furniture, a fireplace, and a general air of anxiety. The room feels like a small sanctuary within the vast, gloomy mansion.",
+      "visual_description": "A small, modest room on the ground floor of the dark Victorian house. Lit by a single kerosene lamp, creating deep shadows in the corners. Simple furniture, a fireplace, and a general air of anxiety. The room feels like a small sanctuary within the vast, gloomy mansion.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_HOUSEKEEPERS_ROOM_NIGHT.jpg"
     },
@@ -990,6 +966,14 @@
       "visual_description": "A dark, shabby street in Lambeth with two-storied brick houses. A glint of light shows from an upper window of number three. The surroundings are poor and neglected, with shadows masking the details of the grime.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_PINCHIN_LANE_NIGHT.jpg"
+    },
+    {
+      "identifier": "CAB_RIDE_LONDON_FOG",
+      "ordinal": 1,
+      "location_header": "INT. HANSOM CAB - NIGHT",
+      "visual_description": "Interior of a four-wheeler cab rattling through foggy London streets. The mood is intimate and claustrophobic. Dim gas lamps flicker past the windows, revealing mist and shadows. The interior is dark leather, smelling of damp wool and old tobacco.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_CAB_RIDE_LONDON_FOG.jpg"
     },
     {
       "identifier": "BAKER_STREET_SITTING_ROOM",
@@ -1003,17 +987,25 @@
       "identifier": "INT_FORRESTER_DRAWING_ROOM",
       "ordinal": 1,
       "location_header": "INT. FORRESTER DRAWING ROOM - DAY",
-      "visual_description": "A comfortable, well-appointed drawing room in Camberwell. Soft feminine touches with lace antimacassars and floral arrangements. Afternoon light filters through draped windows. The furniture is upholstered in warm fabrics, creating a safe, domestic atmosphere.",
+      "visual_description": "A comfortable, well-appointed Victorian drawing room in Camberwell. Soft feminine touches with lace antimacassars and floral arrangements. Afternoon light filters through draped windows. The furniture is upholstered in warm fabrics, creating a safe, domestic atmosphere.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_FORRESTER_DRAWING_ROOM.jpg"
     },
     {
-      "identifier": "SUBURBAN_STREET_EXTERIOR",
-      "ordinal": 2,
-      "location_header": "EXT. SUBURBAN STREET - NIGHT",
-      "visual_description": "A dark, forbidding suburban street in South London. Rows of identical dull brick houses stretch into the gloom. A single house shows a glimmer of light in a kitchen window. The atmosphere is desolate, damp, and eerie, with yellow fog swirling around gas lamps.",
+      "identifier": "EXT_SMITHS_WHARF_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. SMITH'S WHARF - DAY",
+      "visual_description": "A small wooden wharf at the water's edge of the Thames. A small brick house with a wooden placard stands nearby. A pile of coke lies on the jetty. Punts and skiffs bob in the water. The area is modest and functional, with the dark current of the river beyond.",
       "metadata": {},
-      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SUBURBAN_STREET_EXTERIOR.jpg"
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_SMITHS_WHARF_DAY.jpg"
+    },
+    {
+      "identifier": "EXT_POLICE_LAUNCH_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. POLICE LAUNCH - NIGHT",
+      "visual_description": "The deck of a steam launch moving along the Victorian Thames at night. The glow of the furnace illuminates the eager faces of the men. Dark, swirling water rushes past. Lights from the shore and bridges twinkle in the distance. The atmosphere is tense and energetic.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_EXT_POLICE_LAUNCH_NIGHT.jpg"
     },
     {
       "identifier": "INT_SHERMANS_HOUSE_NIGHT",
@@ -1022,6 +1014,14 @@
       "visual_description": "A chaotic, cluttered room filled with animal cages and dark corners. The rafters are lined with roosting fowls. Shadows dance from a single candle held by the eccentric owner. Glinting eyes peep from every cranny. The air is thick with the smell of a menagerie.",
       "metadata": {},
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_INT_SHERMANS_HOUSE_NIGHT.jpg"
+    },
+    {
+      "identifier": "SUBURBAN_STREET_EXTERIOR",
+      "ordinal": 2,
+      "location_header": "EXT. SUBURBAN STREET - NIGHT",
+      "visual_description": "A dark, forbidding suburban street in South London. Rows of identical dull brick houses stretch into the gloom. A single house shows a glimmer of light in a kitchen window. The atmosphere is desolate, damp, and eerie, with yellow fog swirling around gas lamps.",
+      "metadata": {},
+      "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/scenes/scene_SUBURBAN_STREET_EXTERIOR.jpg"
     },
     {
       "identifier": "EXT_PONDICHERRY_LODGE_NIGHT",
