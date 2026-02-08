@@ -1,0 +1,2602 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "The Adventures of Sherlock Holmes",
+  "author_names": "Arthur Conan Doyle",
+  "description": "Publication imported from https://gutenberg.org/ebooks/1661.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/1661.epub3.images",
+  "identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
+  "publication_type": "novel",
+  "cover_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/cover.png",
+  "total_duration_s": 31287.620568,
+  "genre_tags": [
+    "Mystery & Thriller",
+    "Detective Fiction",
+    "Victorian",
+    "Deduction",
+    "Classics"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2258.237846
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_1.mp3",
+      "start_s": 2258.237846,
+      "end_s": 5089.497529
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_2.mp3",
+      "start_s": 5089.497529,
+      "end_s": 7221.039275
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_3.mp3",
+      "start_s": 7221.039275,
+      "end_s": 10076.496622
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_4.mp3",
+      "start_s": 10076.496622,
+      "end_s": 12333.136327
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_5.mp3",
+      "start_s": 12333.136327,
+      "end_s": 15231.509410999999
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_6.mp3",
+      "start_s": 15231.509410999999,
+      "end_s": 17531.924693999998
+    },
+    {
+      "ordinal": 7,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_7.mp3",
+      "start_s": 17531.924693999998,
+      "end_s": 20492.729343
+    },
+    {
+      "ordinal": 8,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_8.mp3",
+      "start_s": 20492.729343,
+      "end_s": 22908.326962
+    },
+    {
+      "ordinal": 9,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_9.mp3",
+      "start_s": 22908.326962,
+      "end_s": 25367.589978
+    },
+    {
+      "ordinal": 10,
+      "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_10.mp3",
+      "start_s": 25367.589978,
+      "end_s": 31287.620568
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.787,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "I. A SCANDAL IN BOHEMIA",
+      "start_s": 7.787,
+      "end_s": 10.888,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter I.",
+      "start_s": 10.888,
+      "end_s": 980.771,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_STUDY_NIGHT",
+            "location_header": "INT. 221B BAKER STREET - NIGHT",
+            "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture, piles of old books, and scientific equipment. A coal fire burns in the grate, casting warm orange glow on two armchairs and a bearskin rug. Thick curtains drawn against the night. Haze of tobacco smoke in the air."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter II.",
+      "start_s": 980.771,
+      "end_s": 1920.441,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_STUDY_DAY",
+            "location_header": "INT. 221B BAKER STREET - AFTERNOON",
+            "visual_description": "A Victorian study in afternoon light. The room is messy with books and papers. A fire crackles in the hearth. Holmes sits by the fire, laughing, dressed in a tweed suit. Watson sits opposite, listening."
+          },
+          {
+            "identifier": "BRIONY_LODGE_EXTERIOR",
+            "location_header": "EXT. SERPENTINE AVENUE - DUSK",
+            "visual_description": "Dusk in a quiet London street, 1888. A charming two-story villa with a garden wall stands back from the road. Street lamps glow yellow against the twilight. A horse-drawn landau carriage waits at the curb. Brick facades and leafy trees visible in the gathering dark."
+          },
+          {
+            "identifier": "BRIONY_LODGE_INTERIOR",
+            "location_header": "INT. BRIONY LODGE - NIGHT",
+            "visual_description": "A Victorian sitting-room, elegantly furnished with pastel feminine decor. Floral wallpaper, plush velvet sofa, and gas lamps lit against the night. A large window stands open to the street. A bell-pull hangs near a sliding panel. Smoke hangs in the air."
+          },
+          {
+            "identifier": "LONDON_STREET_NIGHT",
+            "location_header": "EXT. LONDON STREET - NIGHT",
+            "visual_description": "A quiet residential London street at night, dimly lit by gas lamps. Shadows stretch across the pavement. Brick row houses line the road. Mist swirls around the lamp posts."
+          },
+          {
+            "identifier": "BAKER_STREET_DOORSTEP",
+            "location_header": "EXT. 221B BAKER STREET - NIGHT",
+            "visual_description": "The exterior doorstep of 221B Baker Street at night. The black painted door with brass knocker is visible. The pavement is dimly lit by a nearby streetlamp. Foggy London atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter III.",
+      "start_s": 1920.441,
+      "end_s": 2258.238,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_STUDY_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study in bright morning light. The breakfast table is set with toast and coffee. The room is messy with books and papers. Dust motes dance in the sunbeams."
+          },
+          {
+            "identifier": "BRIONY_LODGE_INTERIOR_DAY",
+            "location_header": "INT. BRIONY LODGE - DAY",
+            "visual_description": "A Victorian sitting-room in disarray. Drawers hang open, papers are scattered on the floor, and shelves are dismantled. Sunlight streams through the large window. The room looks ransacked."
+          },
+          {
+            "identifier": "BAKER_STREET_STREET_DAY",
+            "location_header": "EXT. BAKER STREET - DAY",
+            "visual_description": "The busy street outside 221B Baker Street in daylight. Pedestrians walk by, carriages rattle past. The black door stands closed. London bustling atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "II. THE RED-HEADED LEAGUE",
+      "start_s": 2258.238,
+      "end_s": 5089.498,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study in bright morning light. The breakfast table is set with toast and coffee. The room is messy with books and papers. Dust motes dance in the sunbeams falling across a Persian slipper filled with tobacco."
+          },
+          {
+            "identifier": "SCENE_02_SAXE_COBURG",
+            "location_header": "EXT. SAXE-COBURG SQUARE - DAY",
+            "visual_description": "A poky, shabby-genteel London square under a grey sky. Dingy two-storied brick houses surround a small enclosure of weedy grass and faded laurel bushes. A corner shop features three gilt balls and a sign reading 'JABEZ WILSON'. Smoke-laden atmosphere."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_NIGHT",
+            "location_header": "INT. 221B BAKER STREET - NIGHT",
+            "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture. A coal fire burns in the grate, casting warm orange glow on two armchairs. Thick curtains drawn against the night."
+          },
+          {
+            "identifier": "SCENE_04_BANK_CELLAR",
+            "location_header": "INT. BANK CELLAR - NIGHT",
+            "visual_description": "A vast, cold stone vault or cellar. Pitch darkness is cut by a single thin beam of a lantern, revealing massive wooden crates and boxes piled high. The floor is lined with large stone flags. The air is damp and earth-smelling."
+          },
+          {
+            "identifier": "SCENE_05_BAKER_ST_DAWN",
+            "location_header": "INT. 221B BAKER STREET - DAWN",
+            "visual_description": "A Victorian study in the early grey hours of dawn. A siphon of soda water and whisky glasses sit on the table. The gas lamps are dimming as cold morning light begins to bleed through the curtains. The fire has burned down to ash."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "III. A CASE OF IDENTITY",
+      "start_s": 5089.498,
+      "end_s": 7221.039,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - DAY",
+            "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A coal fire burns in the grate between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_EVENING",
+            "location_header": "INT. 221B BAKER STREET - EVENING",
+            "visual_description": "A messy Victorian study at night, illuminated by the warm glow of gas lamps and a fireplace. A large table is covered in chemical apparatus, test tubes, and bottles. Deep shadows fill the corners. The atmosphere is cozy but scientific, with a thick blue haze of pipe smoke."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "IV. THE BOSCOMBE VALLEY MYSTERY",
+      "start_s": 7221.039,
+      "end_s": 10076.497,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WATSON_BREAKFAST",
+            "location_header": "INT. WATSON'S HOME - DAY",
+            "visual_description": "A Victorian breakfast room bathed in soft morning light. A table set with crisp white linens, silver cutlery, and china sits in the foreground. Sunlight streams through sash windows, illuminating dust motes. Warm cream walls and mahogany furniture create a domestic atmosphere."
+          },
+          {
+            "identifier": "SCENE_TRAIN_JOURNEY",
+            "location_header": "INT. TRAIN COMPARTMENT - DAY",
+            "visual_description": "A first-class Victorian train compartment in motion. Plush velvet seats with lace antimacassars face each other. A large window reveals passing English countryside. The rack above is piled with luggage. Piles of newspapers and documents clutter the seats. Natural daylight shifts with the train's movement."
+          },
+          {
+            "identifier": "SCENE_HEREFORD_ARMS",
+            "location_header": "INT. HEREFORD ARMS - DAY",
+            "visual_description": "A private sitting room in a country hotel. Faded floral wallpaper and chintz armchairs. A tea table with a silver service sits near a fireplace. A window looks out onto a quiet country street. Soft afternoon light filters through lace curtains."
+          },
+          {
+            "identifier": "SCENE_BOSCOMBE_POOL",
+            "location_header": "EXT. BOSCOMBE POOL - DAY",
+            "visual_description": "A damp, wooded glade in the English countryside. Tall beech trees cast dappled shadows over marshy ground. A small reed-girt pool reflects the grey sky. Red pinnacles of a manor house are visible in the distance. Muted greens and browns dominant."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "V. THE FIVE ORANGE PIPS",
+      "start_s": 10076.497,
+      "end_s": 12333.136,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BAKER_ST_STORM",
+            "location_header": "INT. 221B BAKER STREET - STORMY NIGHT",
+            "visual_description": "A comfortable Victorian study offering refuge from a violent storm outside. Rain lashes against dark windows while a fire roars in the hearth, casting flickering orange light on books, scientific charts, and two armchairs. The room feels enclosed and warm against the howling gale outside. Tobacco smoke hangs in the air."
+          },
+          {
+            "identifier": "BAKER_STREET_STUDY_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study in bright morning light. The breakfast table is set with toast and coffee. The room is messy with books and papers. Dust motes dance in the sunbeams."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_NIGHT",
+            "location_header": "INT. 221B BAKER STREET - NIGHT",
+            "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture. A coal fire burns in the grate, casting warm orange glow on two armchairs. Thick curtains drawn against the night."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "VI. THE MAN WITH THE TWISTED LIP",
+      "start_s": 12333.136,
+      "end_s": 15231.509,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WATSON_HOME",
+            "location_header": "INT. WATSON'S HOME - NIGHT",
+            "visual_description": "A cozy Victorian sitting room at night, illuminated by the warm glow of a lamp. A needlework basket sits near an armchair. The room is comfortably furnished with domestic touches, but shadows gather in the corners. Heavy curtains shut out the night."
+          },
+          {
+            "identifier": "SCENE_OPIUM_DEN",
+            "location_header": "INT. OPIUM DEN - NIGHT",
+            "visual_description": "A long, low, vile room filled with thick brown opium smoke. Wooden berths line the walls like a ship's forecastle. Small red circles of light glow from pipe bowls in the gloom. A brazier of burning charcoal sits at the far end, casting eerie shadows on the rough floor."
+          },
+          {
+            "identifier": "SCENE_DOG_CART",
+            "location_header": "EXT. DOG CART - NIGHT",
+            "visual_description": "The interior of a moving dog-cart travelling through dark London streets and country roads. Lanterns on the side throw tunnels of yellow light into the gloom. The rhythm of hooves and wheels provides a backdrop. Hints of passing brick villas and hedges in the darkness."
+          },
+          {
+            "identifier": "SCENE_THE_CEDARS_DINING",
+            "location_header": "INT. THE CEDARS DINING ROOM - NIGHT",
+            "visual_description": "A well-lit Victorian dining room with a cold supper laid out on the table. A basket-chair sits near the rug. The atmosphere is anxious but domestic. Soft gaslight illuminates the anxious face of the hostess."
+          },
+          {
+            "identifier": "SCENE_THE_CEDARS_BEDROOM",
+            "location_header": "INT. THE CEDARS BEDROOM - MORNING",
+            "visual_description": "A large double-bedded room filled with a dense haze of tobacco smoke. Sunlight streams in, contrasting with the stale remnants of the night. An improvised Eastern divan of pillows sits on the floor. A Gladstone bag rests near the door."
+          },
+          {
+            "identifier": "SCENE_BOW_STREET",
+            "location_header": "INT. BOW STREET POLICE STATION - MORNING",
+            "visual_description": "A stark, whitewashed corridor in a police station with a line of heavy doors. A barred cell door stands open. Inside, a simple cot and a water jug are visible. The light is cold and institutional, smelling of carbolic acid and stone."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "VII. THE ADVENTURE OF THE BLUE CARBUNCLE",
+      "start_s": 15231.509,
+      "end_s": 17531.925,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A coal fire burns in the grate between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_EVENING",
+            "location_header": "INT. 221B BAKER STREET - EVENING",
+            "visual_description": "A messy Victorian study at night, illuminated by the warm glow of gas lamps and a fireplace. A large table is covered in chemical apparatus, test tubes, and bottles. Deep shadows fill the corners. The atmosphere is cozy but scientific, with a thick blue haze of pipe smoke."
+          },
+          {
+            "identifier": "SCENE_ALPHA_INN",
+            "location_header": "INT. ALPHA INN - NIGHT",
+            "visual_description": "A cozy Victorian public house bar in Bloomsbury. Etched glass screens partition the space, reflecting the warm glow of gas lamps. A polished mahogany counter dominates the foreground with brass beer taps. Frosted windows look out onto the dark street. Sawdust on the floor and a ruddy, inviting atmosphere."
+          },
+          {
+            "identifier": "SCENE_COVENT_GARDEN",
+            "location_header": "EXT. COVENT GARDEN MARKET - NIGHT",
+            "visual_description": "A bustling Victorian market at night, lit by hissing gas flares that cast dramatic shadows. Open-fronted stalls display rows of hanging poultry. Marble slabs are slick with moisture. The background fades into the dark, looming shapes of market buildings. Cold, blue-grey tones contrast with yellow gaslight."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_NIGHT",
+            "location_header": "INT. 221B BAKER STREET - NIGHT",
+            "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture. A coal fire burns in the grate, casting warm orange glow on two armchairs. Thick curtains drawn against the night."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
+      "start_s": 17531.925,
+      "end_s": 20492.729,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A coal fire burns in the grate between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke."
+          },
+          {
+            "identifier": "SCENE_TRAIN_AND_TRAP",
+            "location_header": "EXT. SURREY LANES - DAY",
+            "visual_description": "The interior of a moving dog-cart travelling through lovely Surrey lanes under a bright sun. Green shoots appear on wayside hedges. A heavily timbered park with a grey gabled mansion is visible in the distance across meadows. Fresh spring atmosphere with moist earth tones."
+          },
+          {
+            "identifier": "EXT_STOKE_MORAN_DAY",
+            "location_header": "EXT. STOKE MORAN MANOR - DAY",
+            "visual_description": "The neglected grounds of an old grey stone manor house. Lichen-blotched stone walls feature a high central portion and two curving wings. One wing is ruined with broken windows; the other is modern with blue smoke from chimneys. An ill-trimmed lawn stretches before the building under afternoon light."
+          },
+          {
+            "identifier": "INT_STOKE_MORAN_BEDROOMS",
+            "location_header": "INT. HELEN'S BEDROOM - DAY",
+            "visual_description": "A homely Victorian bedroom with a low ceiling and a gaping fireplace. Brown worm-eaten oak panelling lines the walls. A narrow white-counterpaned bed stands in the corner next to a bell-rope. A small ventilator opening is visible high on the wall. Dust motes dance in the afternoon sun."
+          },
+          {
+            "identifier": "INT_ROYLOTT_CHAMBER",
+            "location_header": "INT. DR. ROYLOTT'S CHAMBER - DAY",
+            "visual_description": "A plain, masculine bedroom with a camp-bed and a small shelf of technical books. A large iron safe sits prominently on a round table next to a saucer of milk. A wooden chair stands against the wall. Austere and functional with a clinical atmosphere."
+          },
+          {
+            "identifier": "INT_CROWN_INN_ROOM",
+            "location_header": "INT. CROWN INN - DUSK",
+            "visual_description": "An upper-floor sitting room in a village inn at dusk. A window looks out towards the manor house gates and avenue. Shadows gather in the corners as evening falls. Simple rustic furniture and a sense of waiting."
+          },
+          {
+            "identifier": "INT_STOKE_MORAN_BEDROOM_NIGHT",
+            "location_header": "INT. HELEN'S BEDROOM - NIGHT",
+            "visual_description": "A pitch-black bedroom, tension palpable in the darkness. Only a sliver of light might show from a ventilator. The vague shapes of a bed and a cane are barely discernible. A sense of suffocating silence and claustrophobia."
+          },
+          {
+            "identifier": "SCENE_TRAIN_JOURNEY",
+            "location_header": "INT. TRAIN COMPARTMENT - DAY",
+            "visual_description": "A first-class Victorian train compartment in motion. Plush velvet seats with lace antimacassars face each other. A large window reveals passing English countryside. The rack above is piled with luggage. Piles of newspapers and documents clutter the seats. Natural daylight shifts with the train's movement."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
+      "start_s": 20492.729,
+      "end_s": 22908.327,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_WATSON_CONSULTING_ROOM",
+            "location_header": "INT. CONSULTING ROOM - MORNING",
+            "visual_description": "A Victorian medical consulting room in early morning light. A mahogany desk sits orderly with medical journals. Glass cabinets display instruments. The atmosphere is quiet and professional, with a view of the street through sheer curtains."
+          },
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A coal fire burns in the grate between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke."
+          },
+          {
+            "identifier": "INT_VICTORIA_ST_OFFICE",
+            "location_header": "INT. VICTORIA STREET OFFICE - DAY",
+            "visual_description": "A dreary, sparsely furnished office in Victorian London. A solitary desk sits in the center with a single chair. Dust motes dance in the light from a high window. The walls are bare, emphasizing the lack of business. Cool grey and brown tones."
+          },
+          {
+            "identifier": "INT_STARK_HOUSE_WAITING_ROOM",
+            "location_header": "INT. COUNTRY HOUSE - NIGHT",
+            "visual_description": "A dimly lit room in a country house at night. A round table holds German books. A harmonium stands by the door. Heavy drapes cover the windows. The only light comes from a single oil lamp, casting long, eerie shadows. The atmosphere is silent and oppressive."
+          },
+          {
+            "identifier": "INT_HYDRAULIC_PRESS_ROOM",
+            "location_header": "INT. HYDRAULIC PRESS - NIGHT",
+            "visual_description": "A cramped, square chamber with wooden walls and a floor of metallic crust. The ceiling is a low, heavy iron slab. A small door offers the only exit. An oil lamp on the floor throws harsh, upward shadows, highlighting the industrial nature of the space."
+          },
+          {
+            "identifier": "EXT_STARK_GARDEN_NIGHT",
+            "location_header": "EXT. GARDEN - NIGHT",
+            "visual_description": "A Victorian country garden bathed in moonlight. Rose bushes cast dark shapes against the lawn. The facade of the house looms above, with a single open window on the second floor. The mood is tense and cold."
+          },
+          {
+            "identifier": "SCENE_TRAIN_JOURNEY",
+            "location_header": "INT. TRAIN COMPARTMENT - DAY",
+            "visual_description": "A first-class Victorian train compartment in motion. Plush velvet seats with lace antimacassars face each other. A large window reveals passing English countryside. The rack above is piled with luggage. Piles of newspapers and documents clutter the seats. Natural daylight shifts with the train's movement."
+          },
+          {
+            "identifier": "EXT_EYFORD_FIRE",
+            "location_header": "EXT. BURNING HOUSE - DAY",
+            "visual_description": "A large country house engulfed in flames during the day. Fire engines pump water in the foreground. A column of black smoke rises into the sky. A crowd of locals watches from the gravel drive. The atmosphere is chaotic and smoky."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "X. THE ADVENTURE OF THE NOBLE BACHELOR",
+      "start_s": 22908.327,
+      "end_s": 25367.59,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_STUDY_DAY",
+            "location_header": "INT. 221B BAKER STREET - AFTERNOON",
+            "visual_description": "A late Victorian study in afternoon light. The room is messy with books and papers. A fire crackles in the hearth. Holmes sits by the fire, laughing, dressed in a tweed suit. Watson sits opposite, listening."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_EVENING",
+            "location_header": "INT. 221B BAKER STREET - NIGHT",
+            "visual_description": "A messy Victorian study at night, illuminated by the warm glow of gas lamps and a fireplace. A large table is covered in chemical apparatus, test tubes, and bottles. Deep shadows fill the corners. The atmosphere is cozy but scientific, with a thick blue haze of pipe smoke."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "XI. THE ADVENTURE OF THE BERYL CORONET",
+      "start_s": 25367.59,
+      "end_s": 28314.988,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A coal fire burns in the grate between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke."
+          },
+          {
+            "identifier": "SCENE_FAIRBANK_DINING",
+            "location_header": "INT. FAIRBANK DINING ROOM - DAY",
+            "visual_description": "A respectable Victorian dining room in a stone house. A fire crackles in a dark marble hearth, offering warmth against the snowy winter day outside. Heavy velvet drapes frame tall windows looking out onto white grounds. Mahogany furniture is polished but modest. The atmosphere is tense and quiet."
+          },
+          {
+            "identifier": "SCENE_FAIRBANK_DRESSING",
+            "location_header": "INT. FAIRBANK DRESSING ROOM - DAY",
+            "visual_description": "A purely functional Victorian dressing room. A grey carpet covers the floor. A large wooden bureau with a lock dominates one wall, alongside a long mirror reflecting the cold winter light. The room is plainly furnished and orderly, with a clinical, masculine atmosphere."
+          },
+          {
+            "identifier": "SCENE_BAKER_ST_AFTERNOON",
+            "location_header": "INT. 221B BAKER STREET - AFTERNOON",
+            "visual_description": "The familiar Baker Street study in the waning light of a winter afternoon. The fire has burned low. Remnants of a rude meal sit on the sideboard. The room feels transitional and quiet, waiting for activity. Muted browns and greys with fading daylight."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "XII. THE ADVENTURE OF THE COPPER BEECHES",
+      "start_s": 28314.988,
+      "end_s": 31287.621,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_01_BAKER_ST_MORNING",
+            "location_header": "INT. 221B BAKER STREET - MORNING",
+            "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A coal fire burns in the grate between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke."
+          },
+          {
+            "identifier": "INT_WESTAWAYS_AGENCY",
+            "location_header": "INT. WESTAWAYS AGENCY - DAY",
+            "visual_description": "A Victorian employment agency office. A small, orderly room with a manager's desk piled with ledgers. A glass-paneled door leads to an anteroom. The walls are lined with filing cabinets. The atmosphere is stiff and bureaucratic, lit by diffused daylight through a frosted window. Muted greys and browns."
+          },
+          {
+            "identifier": "INT_COPPER_BEECHES_DRAWING_ROOM",
+            "location_header": "INT. COPPER_BEECHES DRAWING ROOM - DAY",
+            "visual_description": "A grand Victorian drawing room stretching the length of the house. Three tall floor-to-ceiling windows flood the space with light. The furniture is expensive but eclectic. A heavy curtain or blind is fitted to the windows. The atmosphere is bright but strangely tense. Pale walls and polished wood floors."
+          },
+          {
+            "identifier": "EXT_COPPER_BEECHES_GROUNDS",
+            "location_header": "EXT. COPPER BEECHES - DAY",
+            "visual_description": "The grounds of a whitewashed country house. A large clump of copper beech trees with dark, metallic foliage dominates the foreground. A small wooden outhouse stands near the kitchen door. The atmosphere is rural but shadowed and slightly ominous. Afternoon light filtering through dark leaves."
+          },
+          {
+            "identifier": "INT_COPPER_BEECHES_VIOLET_ROOM",
+            "location_header": "INT. VIOLET'S BEDROOM - NIGHT",
+            "visual_description": "A comfortable Victorian bedroom with a view of the lawn. An old chest of drawers stands against the wall. A large trunk sits open on the floor. Moonlight streams in through the window, casting silvery squares on the carpet. The room feels private but slightly claustrophobic."
+          },
+          {
+            "identifier": "INT_COPPER_BEECHES_LOCKED_WING",
+            "location_header": "INT. LOCKED WING - DUSK",
+            "visual_description": "A dusty, uncarpeted corridor in a disused wing of the house. Paint peels from the walls. A heavy wooden door is barred with a metal bed-frame and padlocked. A slit of light shines from beneath the door. The atmosphere is grim, dirty, and threatening. Dim evening light."
+          },
+          {
+            "identifier": "SCENE_03_BAKER_ST_NIGHT",
+            "location_header": "INT. 221B BAKER STREET - NIGHT",
+            "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture. A coal fire burns in the grate, casting warm orange glow on two armchairs. Thick curtains drawn against the night."
+          },
+          {
+            "identifier": "SCENE_TRAIN_JOURNEY",
+            "location_header": "INT. TRAIN COMPARTMENT - DAY",
+            "visual_description": "A first-class Victorian train compartment in motion. Plush velvet seats with lace antimacassars face each other. A large window reveals passing English countryside. The rack above is piled with luggage. Piles of newspapers and documents clutter the seats. Natural daylight shifts with the train's movement."
+          },
+          {
+            "identifier": "INT_BLACK_SWAN_HOTEL",
+            "location_header": "INT. BLACK SWAN HOTEL - DAY",
+            "visual_description": "A private sitting room in a provincial Victorian hotel. A table is set for lunch with white linen and silver. A fire burns in the grate. The room is furnished with chintz armchairs and heavy drapes. The atmosphere is respectable and quiet."
+          },
+          {
+            "identifier": "EXT_COPPER_BEECHES_EVENING",
+            "location_header": "EXT. COPPER BEECHES - EVENING",
+            "visual_description": "The exterior of the country house at sunset. The copper beeches shine like burnished metal. Long shadows stretch across the lawn. The house stands silent, its windows reflecting the dying light. A trap waits in the distance. Ominous and still."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "SHERLOCK_HOLMES",
+      "name": "Holmes",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mr. Sherlock Holmes",
+        "Groom",
+        "Nonconformist Clergyman",
+        "The Old Man",
+        "Holmes",
+        "The Loafer"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "energetic",
+        "high pitch",
+        "cultivated british"
+      ],
+      "visual_attributes": [
+        "tall spare figure",
+        "hawk-like nose",
+        "piercing eyes",
+        "dressing gown",
+        "black hair",
+        "disguised as clergyman",
+        "frock coat",
+        "travelling-cloak",
+        "cloth cap"
+      ],
+      "roles": [
+        "detective",
+        "scientist",
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1074,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/SHERLOCK_HOLMES.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/SHERLOCK_HOLMES.mp3"
+    },
+    {
+      "identifier": "WATSON",
+      "name": "Watson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "JOHN_H_WATSON",
+        "Dr. Watson",
+        "John H. Watson"
+      ],
+      "voice_attributes": [
+        "educated british",
+        "weary",
+        "warm",
+        "clear timbre"
+      ],
+      "visual_attributes": [
+        "mustache",
+        "sensible suit",
+        "kind eyes",
+        "sturdy build"
+      ],
+      "roles": [
+        "protagonist",
+        "doctor",
+        "narrator",
+        "storyteller"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 931,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/WATSON.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/WATSON.mp3"
+    },
+    {
+      "identifier": "ALEXANDER_HOLDER",
+      "name": "Mr. Holder",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Holder"
+      ],
+      "voice_attributes": [
+        "distressed",
+        "formal",
+        "educated",
+        "panting"
+      ],
+      "visual_attributes": [
+        "tall and portly",
+        "massive face",
+        "black frock-coat",
+        "shining hat",
+        "anxious expression"
+      ],
+      "roles": [
+        "client",
+        "banker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 130,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ALEXANDER_HOLDER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ALEXANDER_HOLDER.mp3"
+    },
+    {
+      "identifier": "VICTOR_HATHERLEY",
+      "name": "Victor Hatherley",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "The Engineer",
+        "Mr. Hatherley"
+      ],
+      "voice_attributes": [
+        "trembling",
+        "educated",
+        "traumatized",
+        "young"
+      ],
+      "visual_attributes": [
+        "missing thumb",
+        "pale face",
+        "tweed suit",
+        "soft cloth cap"
+      ],
+      "roles": [
+        "victim",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 91,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/VICTOR_HATHERLEY.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/VICTOR_HATHERLEY.mp3"
+    },
+    {
+      "identifier": "VIOLET_HUNTER",
+      "name": "Violet Hunter",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Miss Hunter"
+      ],
+      "voice_attributes": [
+        "spirited",
+        "clear",
+        "intelligent",
+        "brave"
+      ],
+      "visual_attributes": [
+        "bright quick face",
+        "freckled",
+        "neatly dressed",
+        "short copper hair"
+      ],
+      "roles": [
+        "client",
+        "governess"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 84,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/VIOLET_HUNTER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/VIOLET_HUNTER.mp3"
+    },
+    {
+      "identifier": "HELEN_STONER",
+      "name": "Helen Stoner",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Miss Stoner",
+        "The Lady"
+      ],
+      "voice_attributes": [
+        "trembling",
+        "low",
+        "weary",
+        "fearful"
+      ],
+      "visual_attributes": [
+        "face drawn and grey",
+        "restless frightened eyes",
+        "hair shot with premature grey",
+        "dressed in black",
+        "heavily veiled"
+      ],
+      "roles": [
+        "client",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 83,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/HELEN_STONER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/HELEN_STONER.mp3"
+    },
+    {
+      "identifier": "JOHN_OPENSHAW",
+      "name": "John Openshaw",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "refined",
+        "anxious",
+        "trembling",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "pale young face",
+        "golden pince-nez",
+        "wet dishevelled hair",
+        "shining waterproof coat",
+        "trimly clad"
+      ],
+      "roles": [
+        "client",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 74,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JOHN_OPENSHAW.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JOHN_OPENSHAW.mp3"
+    },
+    {
+      "identifier": "JABEZ_WILSON",
+      "name": "Mr. Wilson",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "The Red-Headed Man"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "slow",
+        "wheezy",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "florid face",
+        "fiery red hair",
+        "small fat-encircled eyes",
+        "faded brown overcoat"
+      ],
+      "roles": [
+        "client",
+        "pawnbroker"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 60,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JABEZ_WILSON.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JABEZ_WILSON.mp3"
+    },
+    {
+      "identifier": "LORD_ROBERT_ST_SIMON",
+      "name": "Lord St. Simon",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Robert St. Simon",
+        "Lord Robert"
+      ],
+      "voice_attributes": [
+        "aristocratic",
+        "brisk",
+        "foppish",
+        "slightly high-pitched"
+      ],
+      "visual_attributes": [
+        "pale high-nosed face",
+        "petulant mouth",
+        "grizzled hair thin on top",
+        "high collar",
+        "black frock-coat",
+        "monocle"
+      ],
+      "roles": [
+        "client",
+        "nobleman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 57,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/LORD_ROBERT_ST_SIMON.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/LORD_ROBERT_ST_SIMON.mp3"
+    },
+    {
+      "identifier": "WILHELM_VON_ORMSTEIN",
+      "name": "The King",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Count Von Kramm"
+      ],
+      "voice_attributes": [
+        "deep harsh voice",
+        "strong german accent",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "giant stature",
+        "thick hanging lip",
+        "long straight chin",
+        "rich fur-trimmed coat",
+        "deep blue cloak",
+        "rich clothes",
+        "anxious expression"
+      ],
+      "roles": [
+        "king",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 51,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/WILHELM_VON_ORMSTEIN.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/WILHELM_VON_ORMSTEIN.mp3"
+    },
+    {
+      "identifier": "G_LESTRADE",
+      "name": "Lestrade",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Mr. Lestrade"
+      ],
+      "voice_attributes": [
+        "pompous",
+        "sneering",
+        "resonant",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "ferret-like face",
+        "sly-looking",
+        "light brown dustcoat",
+        "leather-leggings"
+      ],
+      "roles": [
+        "detective",
+        "scotland yarder"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 43,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/G_LESTRADE.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/G_LESTRADE.mp3"
+    },
+    {
+      "identifier": "MARY_SUTHERLAND",
+      "name": "Mary Sutherland",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "The Maiden"
+      ],
+      "voice_attributes": [
+        "breathless",
+        "nervous",
+        "earnest",
+        "working class"
+      ],
+      "visual_attributes": [
+        "broad good-humoured face",
+        "pince-nez glasses",
+        "slate-coloured straw hat",
+        "brickish red feather",
+        "black beaded jacket",
+        "purple plush details"
+      ],
+      "roles": [
+        "client",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 40,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MARY_SUTHERLAND.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MARY_SUTHERLAND.mp3"
+    },
+    {
+      "identifier": "MRS_ST_CLAIR",
+      "name": "Mrs. St. Clair",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "eager",
+        "brave",
+        "refined"
+      ],
+      "visual_attributes": [
+        "blonde hair",
+        "light mousseline de soie dress",
+        "pink chiffon",
+        "eager eyes"
+      ],
+      "roles": [
+        "client",
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 38,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_ST_CLAIR.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_ST_CLAIR.mp3"
+    },
+    {
+      "identifier": "JAMES_RYDER",
+      "name": "James Ryder",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "John Robinson",
+        "The Little Man"
+      ],
+      "voice_attributes": [
+        "quavering",
+        "high-pitched",
+        "thin",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "rat-faced",
+        "pale",
+        "small stature",
+        "shifty eyes"
+      ],
+      "roles": [
+        "thief",
+        "attendant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 35,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JAMES_RYDER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JAMES_RYDER.mp3"
+    },
+    {
+      "identifier": "COLONEL_LYSANDER_STARK",
+      "name": "Colonel Stark",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Colonel",
+        "Colonel Lysander Stark"
+      ],
+      "voice_attributes": [
+        "smooth",
+        "sinister",
+        "german accent",
+        "thin voice"
+      ],
+      "visual_attributes": [
+        "extremely thin",
+        "sharp nose",
+        "tight skin",
+        "neat dress"
+      ],
+      "roles": [
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 31,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/COLONEL_LYSANDER_STARK.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/COLONEL_LYSANDER_STARK.mp3"
+    },
+    {
+      "identifier": "JEPHRO_RUCASTLE",
+      "name": "Mr. Rucastle",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Rucastle"
+      ],
+      "voice_attributes": [
+        "jovial",
+        "sinister",
+        "wheezy laugh",
+        "boisterous"
+      ],
+      "visual_attributes": [
+        "prodigiously stout",
+        "heavy chin",
+        "smiling face",
+        "glasses"
+      ],
+      "roles": [
+        "antagonist",
+        "employer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 30,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JEPHRO_RUCASTLE.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JEPHRO_RUCASTLE.mp3"
+    },
+    {
+      "identifier": "INSPECTOR_BRADSTREET",
+      "name": "Inspector Bradstreet",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Bradstreet"
+      ],
+      "voice_attributes": [
+        "authoritative",
+        "professional",
+        "stout"
+      ],
+      "visual_attributes": [
+        "tall",
+        "stout",
+        "peaked cap",
+        "frogged jacket"
+      ],
+      "roles": [
+        "police officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 29,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/INSPECTOR_BRADSTREET.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/INSPECTOR_BRADSTREET.mp3"
+    },
+    {
+      "identifier": "BRECKINRIDGE",
+      "name": "Breckinridge",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Salesman"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "angry",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "horsey-looking",
+        "sharp face",
+        "trim side-whiskers",
+        "apron"
+      ],
+      "roles": [
+        "poulterer",
+        "salesman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/BRECKINRIDGE.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/BRECKINRIDGE.mp3"
+    },
+    {
+      "identifier": "JAMES_MCCARTHY",
+      "name": "James McCarthy",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mr. James McCarthy"
+      ],
+      "voice_attributes": [
+        "honest",
+        "troubled",
+        "youthful"
+      ],
+      "visual_attributes": [
+        "young face",
+        "open expression"
+      ],
+      "roles": [
+        "suspect",
+        "son"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JAMES_MCCARTHY.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JAMES_MCCARTHY.mp3"
+    },
+    {
+      "identifier": "NEVILLE_ST_CLAIR",
+      "name": "Neville St. Clair",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Hugh Boone"
+      ],
+      "voice_attributes": [
+        "refined",
+        "educated",
+        "smooth"
+      ],
+      "visual_attributes": [
+        "pale sad face",
+        "black hair",
+        "smooth skin",
+        "refined looking"
+      ],
+      "roles": [
+        "beggar",
+        "journalist",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/NEVILLE_ST_CLAIR.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/NEVILLE_ST_CLAIR.mp3"
+    },
+    {
+      "identifier": "JOHN_TURNER",
+      "name": "Mr. Turner",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "Black Jack of Ballarat"
+      ],
+      "voice_attributes": [
+        "deep",
+        "raspy",
+        "labored",
+        "weary"
+      ],
+      "visual_attributes": [
+        "tangled beard",
+        "grizzled hair",
+        "drooping eyebrows",
+        "ashen white face",
+        "giant frame"
+      ],
+      "roles": [
+        "landowner",
+        "confessor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JOHN_TURNER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JOHN_TURNER.mp3"
+    },
+    {
+      "identifier": "HATTY_DORAN",
+      "name": "Hatty Doran",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mrs. Moulton",
+        "Mrs. Francis Hay Moulton",
+        "Lady St. Simon",
+        "Miss Hatty Doran"
+      ],
+      "voice_attributes": [
+        "american",
+        "spirited",
+        "frank",
+        "emotional"
+      ],
+      "visual_attributes": [
+        "lustrous black hair",
+        "large dark eyes",
+        "exquisite mouth",
+        "traveling dress"
+      ],
+      "roles": [
+        "client",
+        "bride"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/HATTY_DORAN.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/HATTY_DORAN.mp3"
+    },
+    {
+      "identifier": "MARY_HOLDER",
+      "name": "Mary",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Miss Holder"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "firm",
+        "emotional",
+        "refined"
+      ],
+      "visual_attributes": [
+        "slim figure",
+        "dark hair",
+        "dark eyes",
+        "very pale skin",
+        "bloodless lips"
+      ],
+      "roles": [
+        "niece",
+        "suspect"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MARY_HOLDER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MARY_HOLDER.mp3"
+    },
+    {
+      "identifier": "CORONER",
+      "name": "The Coroner",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "stern",
+        "dry"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "formal wig",
+        "spectacles"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CORONER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CORONER.mp3"
+    },
+    {
+      "identifier": "ALICE_TURNER",
+      "name": "Alice Turner",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Miss Turner"
+      ],
+      "voice_attributes": [
+        "emotional",
+        "earnest",
+        "clear",
+        "young"
+      ],
+      "visual_attributes": [
+        "violet eyes",
+        "pink flush",
+        "lovely face",
+        "traveling dress"
+      ],
+      "roles": [
+        "client",
+        "love interest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 12,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ALICE_TURNER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ALICE_TURNER.mp3"
+    },
+    {
+      "identifier": "IRENE_ADLER",
+      "name": "Irene Adler",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Slim Youth",
+        "Irene Norton"
+      ],
+      "voice_attributes": [
+        "contralto",
+        "refined",
+        "american accent"
+      ],
+      "visual_attributes": [
+        "beautiful face",
+        "superb figure",
+        "elegant gown",
+        "dark hair",
+        "evening dress (photo)"
+      ],
+      "roles": [
+        "antagonist",
+        "opera singer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/IRENE_ADLER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/IRENE_ADLER.mp3"
+    },
+    {
+      "identifier": "DR_GRIMESBY_ROYLOTT",
+      "name": "Dr. Roylott",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "Doctor Roylott",
+        "The Doctor"
+      ],
+      "voice_attributes": [
+        "deep",
+        "harsh",
+        "furious",
+        "screaming"
+      ],
+      "visual_attributes": [
+        "huge stature",
+        "yellow face seared with wrinkles",
+        "deep-set bile-shot eyes",
+        "high thin nose",
+        "black top-hat",
+        "frock-coat"
+      ],
+      "roles": [
+        "antagonist",
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/DR_GRIMESBY_ROYLOTT.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/DR_GRIMESBY_ROYLOTT.mp3"
+    },
+    {
+      "identifier": "JAMES_WINDIBANK",
+      "name": "Mr. Windibank",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Hosmer Angel"
+      ],
+      "voice_attributes": [
+        "smooth",
+        "insinuating",
+        "sneering",
+        "oily"
+      ],
+      "visual_attributes": [
+        "clean-shaven",
+        "sallow skin",
+        "sharp grey eyes",
+        "sturdy build",
+        "shiny top hat",
+        "middle-sized"
+      ],
+      "roles": [
+        "antagonist",
+        "stepfather"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JAMES_WINDIBANK.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JAMES_WINDIBANK.mp3"
+    },
+    {
+      "identifier": "MR_MERRYWEATHER",
+      "name": "Mr. Merryweather",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "melancholy",
+        "thin",
+        "complaining"
+      ],
+      "visual_attributes": [
+        "long thin face",
+        "shiny hat",
+        "frock coat",
+        "sad expression"
+      ],
+      "roles": [
+        "bank director"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MR_MERRYWEATHER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MR_MERRYWEATHER.mp3"
+    },
+    {
+      "identifier": "MRS_TOLLER",
+      "name": "Mrs. Toller",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "grim",
+        "deep",
+        "sour"
+      ],
+      "visual_attributes": [
+        "tall",
+        "gaunt",
+        "strong features"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_TOLLER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_TOLLER.mp3"
+    },
+    {
+      "identifier": "PETER_JONES",
+      "name": "Jones",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Mr. Jones"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "consequential",
+        "husky"
+      ],
+      "visual_attributes": [
+        "bulky frame",
+        "red face",
+        "thick neck"
+      ],
+      "roles": [
+        "police officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PETER_JONES.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PETER_JONES.mp3"
+    },
+    {
+      "identifier": "HENRY_BAKER",
+      "name": "Mr. Baker",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Henry Baker"
+      ],
+      "voice_attributes": [
+        "slow",
+        "staccato",
+        "educated",
+        "weary"
+      ],
+      "visual_attributes": [
+        "rounded shoulders",
+        "massive head",
+        "pointed grizzled beard",
+        "rusty frock-coat",
+        "lank wrists"
+      ],
+      "roles": [
+        "suspect",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/HENRY_BAKER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/HENRY_BAKER.mp3"
+    },
+    {
+      "identifier": "JOHN_CLAY",
+      "name": "John Clay",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Vincent Spaulding"
+      ],
+      "voice_attributes": [
+        "smooth",
+        "arrogant",
+        "refined",
+        "educated"
+      ],
+      "visual_attributes": [
+        "pale boyish face",
+        "clean-shaven",
+        "white splash of acid on forehead",
+        "pierced ears"
+      ],
+      "roles": [
+        "antagonist",
+        "criminal mastermind"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JOHN_CLAY.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/JOHN_CLAY.mp3"
+    },
+    {
+      "identifier": "PETERSON",
+      "name": "Peterson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Commissionaire"
+      ],
+      "voice_attributes": [
+        "respectful",
+        "earnest",
+        "working class"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "honest face",
+        "flushed cheeks",
+        "sturdy build"
+      ],
+      "roles": [
+        "commissionaire"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PETERSON.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PETERSON.mp3"
+    },
+    {
+      "identifier": "ELISE",
+      "name": "Elise",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "The Woman"
+      ],
+      "voice_attributes": [
+        "fearful",
+        "urgent",
+        "foreign accent",
+        "whispering"
+      ],
+      "visual_attributes": [
+        "beautiful face",
+        "dark dress",
+        "terrified eyes"
+      ],
+      "roles": [
+        "ally"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ELISE.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ELISE.mp3"
+    },
+    {
+      "identifier": "ISA_WHITNEY",
+      "name": "Isa Whitney",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "trembling",
+        "weak",
+        "high treble",
+        "twittering"
+      ],
+      "visual_attributes": [
+        "yellow pasty face",
+        "drooping lids",
+        "pin-point pupils",
+        "haggard"
+      ],
+      "roles": [
+        "victim",
+        "addict"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ISA_WHITNEY.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ISA_WHITNEY.mp3"
+    },
+    {
+      "identifier": "MRS_WATSON",
+      "name": "Mrs. Watson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "concerned",
+        "soft"
+      ],
+      "visual_attributes": [
+        "soft features",
+        "neatly pinned hair",
+        "morning dress"
+      ],
+      "roles": [
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_WATSON.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_WATSON.mp3"
+    },
+    {
+      "identifier": "CROWD_MEMBER_1",
+      "name": "Man in Crowd",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "loud"
+      ],
+      "visual_attributes": [
+        "shabby clothes",
+        "flat cap"
+      ],
+      "roles": [
+        "extra"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_1.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_1.mp3"
+    },
+    {
+      "identifier": "STATION_MASTER",
+      "name": "Station-master",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cheerful",
+        "rural"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "waistcoat"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/STATION_MASTER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/STATION_MASTER.mp3"
+    },
+    {
+      "identifier": "KATE_WHITNEY",
+      "name": "Kate Whitney",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Kate"
+      ],
+      "voice_attributes": [
+        "anxious",
+        "timid",
+        "tearful"
+      ],
+      "visual_attributes": [
+        "dark-coloured stuff dress",
+        "black veil",
+        "tear-stained face"
+      ],
+      "roles": [
+        "wife",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/KATE_WHITNEY.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/KATE_WHITNEY.mp3"
+    },
+    {
+      "identifier": "ELDERLY_WOMAN",
+      "name": "Elderly Woman",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "sardonic",
+        "cracked"
+      ],
+      "visual_attributes": [
+        "grey hair",
+        "servant's apron",
+        "wrinkled face"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ELDERLY_WOMAN.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ELDERLY_WOMAN.mp3"
+    },
+    {
+      "identifier": "PADDINGTON_GUARD",
+      "name": "Guard",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Guard"
+      ],
+      "voice_attributes": [
+        "whispering",
+        "helpful",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "cap",
+        "whistle"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PADDINGTON_GUARD.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PADDINGTON_GUARD.mp3"
+    },
+    {
+      "identifier": "FRANCIS_HAY_MOULTON",
+      "name": "Frank",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Francis H. Moulton",
+        "Mr. Moulton"
+      ],
+      "voice_attributes": [
+        "american",
+        "direct",
+        "wiry"
+      ],
+      "visual_attributes": [
+        "sharp face",
+        "sunburnt complexion",
+        "clean-shaven",
+        "alert expression"
+      ],
+      "roles": [
+        "husband",
+        "miner"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/FRANCIS_HAY_MOULTON.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/FRANCIS_HAY_MOULTON.mp3"
+    },
+    {
+      "identifier": "MISS_STOPER",
+      "name": "Miss Stoper",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "sharp",
+        "business-like",
+        "cold"
+      ],
+      "visual_attributes": [
+        "severe expression",
+        "spectacles",
+        "office dress"
+      ],
+      "roles": [
+        "manager"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MISS_STOPER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MISS_STOPER.mp3"
+    },
+    {
+      "identifier": "TRAP_DRIVER",
+      "name": "Driver",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "rural",
+        "helpful"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "cap",
+        "rough coat"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/TRAP_DRIVER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/TRAP_DRIVER.mp3"
+    },
+    {
+      "identifier": "CROWD_MEMBER_2",
+      "name": "Woman in Crowd",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "sympathetic",
+        "loud"
+      ],
+      "visual_attributes": [
+        "shawl",
+        "bonnet"
+      ],
+      "roles": [
+        "extra"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_2.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_2.mp3"
+    },
+    {
+      "identifier": "PLAIN_CLOTHES_MAN",
+      "name": "Officer",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Plain-clothes man"
+      ],
+      "voice_attributes": [
+        "neutral",
+        "professional"
+      ],
+      "visual_attributes": [
+        "bowler hat",
+        "suit"
+      ],
+      "roles": [
+        "police officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PLAIN_CLOTHES_MAN.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PLAIN_CLOTHES_MAN.mp3"
+    },
+    {
+      "identifier": "TOLLER",
+      "name": "Toller",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "drunken"
+      ],
+      "visual_attributes": [
+        "grizzled hair",
+        "rough face"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/TOLLER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/TOLLER.mp3"
+    },
+    {
+      "identifier": "MRS_RUCASTLE",
+      "name": "Mrs. Rucastle",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "quiet",
+        "flat",
+        "anxious"
+      ],
+      "visual_attributes": [
+        "pale face",
+        "light grey eyes",
+        "silent"
+      ],
+      "roles": [
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_RUCASTLE.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/MRS_RUCASTLE.mp3"
+    },
+    {
+      "identifier": "PAGE_BOY",
+      "name": "The Page",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "Boy in Buttons"
+      ],
+      "voice_attributes": [
+        "youthful",
+        "polite"
+      ],
+      "visual_attributes": [
+        "small stature",
+        "uniform with buttons"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PAGE_BOY.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PAGE_BOY.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "BAKER_STREET_STUDY_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. 221B BAKER STREET - NIGHT",
+      "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture, piles of old books, and scientific equipment. A coal fire burns in the grate, casting warm orange glow on two armchairs and a bearskin rug. Thick curtains drawn against the night. Haze of tobacco smoke in the air.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BAKER_STREET_STUDY_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_BAKER_ST_STORM",
+      "ordinal": 0,
+      "location_header": "INT. 221B BAKER STREET - STORMY NIGHT",
+      "visual_description": "A comfortable Victorian study offering refuge from a violent storm outside. Rain lashes against dark windows while a fire roars in the hearth, casting flickering orange light on books, scientific charts, and two armchairs. The room feels enclosed and warm against the howling gale outside. Tobacco smoke hangs in the air.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_BAKER_ST_STORM.jpg"
+    },
+    {
+      "identifier": "SCENE_WATSON_HOME",
+      "ordinal": 0,
+      "location_header": "INT. WATSON'S HOME - NIGHT",
+      "visual_description": "A cozy Victorian sitting room at night, illuminated by the warm glow of a lamp. A needlework basket sits near an armchair. The room is comfortably furnished with domestic touches, but shadows gather in the corners. Heavy curtains shut out the night.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_WATSON_HOME.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_STUDY_DAY",
+      "ordinal": 0,
+      "location_header": "INT. 221B BAKER STREET - AFTERNOON",
+      "visual_description": "A late Victorian study in afternoon light. The room is messy with books and papers. A fire crackles in the hearth. Holmes sits by the fire, laughing, dressed in a tweed suit. Watson sits opposite, listening.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BAKER_STREET_STUDY_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_WATSON_BREAKFAST",
+      "ordinal": 0,
+      "location_header": "INT. WATSON'S HOME - DAY",
+      "visual_description": "A Victorian breakfast room bathed in soft morning light. A table set with crisp white linens, silver cutlery, and china sits in the foreground. Sunlight streams through sash windows, illuminating dust motes. Warm cream walls and mahogany furniture create a domestic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_WATSON_BREAKFAST.jpg"
+    },
+    {
+      "identifier": "INT_WATSON_CONSULTING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. CONSULTING ROOM - MORNING",
+      "visual_description": "A Victorian medical consulting room in early morning light. A mahogany desk sits orderly with medical journals. Glass cabinets display instruments. The atmosphere is quiet and professional, with a view of the street through sheer curtains.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_WATSON_CONSULTING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_01_BAKER_ST_MORNING",
+      "ordinal": 0,
+      "location_header": "INT. 221B BAKER STREET - MORNING",
+      "visual_description": "A late Victorian study bathed in pale morning light entering through a large window. A  fire crackles in the hearth between two comfortable armchairs. The room is cluttered with books, papers, and scientific instruments. A breakfast table sits nearby. Warm mahogany and amber tones with a haze of tobacco smoke.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_01_BAKER_ST_MORNING.jpg"
+    },
+    {
+      "identifier": "SCENE_TRAIN_AND_TRAP",
+      "ordinal": 1,
+      "location_header": "EXT. SURREY LANES - DAY",
+      "visual_description": "The interior of a moving dog-cart travelling through lovely Surrey lanes under a bright sun. Green shoots appear on wayside hedges. A heavily timbered park with a grey gabled mansion is visible in the distance across meadows. Fresh spring atmosphere with moist earth tones.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_TRAIN_AND_TRAP.jpg"
+    },
+    {
+      "identifier": "SCENE_03_BAKER_ST_EVENING",
+      "ordinal": 1,
+      "location_header": "INT. 221B BAKER STREET - NIGHT",
+      "visual_description": "A messy Victorian study at night, illuminated by the warm glow of gas lamps and a fireplace. A large table is covered in chemical apparatus, test tubes, and bottles. Deep shadows fill the corners. The atmosphere is cozy but scientific, with a thick blue haze of pipe smoke.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_03_BAKER_ST_EVENING.jpg"
+    },
+    {
+      "identifier": "SCENE_OPIUM_DEN",
+      "ordinal": 1,
+      "location_header": "INT. OPIUM DEN - NIGHT",
+      "visual_description": "A long, low, vile room filled with thick brown opium smoke. Wooden berths line the walls like a ship's forecastle. Small red circles of light glow from pipe bowls in the gloom. A brazier of burning charcoal sits at the far end, casting eerie shadows on the rough floor.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_OPIUM_DEN.jpg"
+    },
+    {
+      "identifier": "BRIONY_LODGE_EXTERIOR",
+      "ordinal": 1,
+      "location_header": "EXT. SERPENTINE AVENUE - DUSK",
+      "visual_description": "Dusk in a quiet London street, 1888. A charming two-story villa with a garden wall stands back from the road. Street lamps glow yellow against the twilight. A horse-drawn landau carriage waits at the curb. Brick facades and leafy trees visible in the gathering dark.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BRIONY_LODGE_EXTERIOR.jpg"
+    },
+    {
+      "identifier": "BRIONY_LODGE_INTERIOR_DAY",
+      "ordinal": 1,
+      "location_header": "INT. BRIONY LODGE - DAY",
+      "visual_description": "A Victorian sitting-room in disarray. Drawers hang open, papers are scattered on the floor, and shelves are dismantled. Sunlight streams through the large window. The room looks ransacked.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BRIONY_LODGE_INTERIOR_DAY.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_STUDY_MORNING",
+      "ordinal": 1,
+      "location_header": "INT. 221B BAKER STREET - MORNING",
+      "visual_description": "A late Victorian study in bright morning light. The breakfast table is set with toast and coffee. The room is messy with books and papers. Dust motes dance in the sunbeams.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BAKER_STREET_STUDY_MORNING.jpg"
+    },
+    {
+      "identifier": "INT_WESTAWAYS_AGENCY",
+      "ordinal": 1,
+      "location_header": "INT. WESTAWAYS AGENCY - DAY",
+      "visual_description": "A Victorian employment agency office. A small, orderly room with a manager's desk piled with ledgers. A glass-paneled door leads to an anteroom. The walls are lined with filing cabinets. The atmosphere is stiff and bureaucratic, lit by diffused daylight through a frosted window. Muted greys and browns.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_WESTAWAYS_AGENCY.jpg"
+    },
+    {
+      "identifier": "SCENE_02_SAXE_COBURG",
+      "ordinal": 1,
+      "location_header": "EXT. SAXE-COBURG SQUARE - DAY",
+      "visual_description": "A poky, shabby-genteel London square under a grey sky. Dingy two-storied brick houses surround a small enclosure of weedy grass and faded laurel bushes. A corner shop features three gilt balls and a sign reading 'JABEZ WILSON'. Smoke-laden atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_02_SAXE_COBURG.jpg"
+    },
+    {
+      "identifier": "SCENE_FAIRBANK_DINING",
+      "ordinal": 1,
+      "location_header": "INT. FAIRBANK DINING ROOM - DAY",
+      "visual_description": "A respectable Victorian dining room in a stone house. A fire crackles in a dark marble hearth, offering warmth against the snowy winter day outside. Heavy velvet drapes frame tall windows looking out onto white grounds. Mahogany furniture is polished but modest. The atmosphere is tense and quiet.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_FAIRBANK_DINING.jpg"
+    },
+    {
+      "identifier": "BRIONY_LODGE_INTERIOR",
+      "ordinal": 2,
+      "location_header": "INT. BRIONY LODGE - NIGHT",
+      "visual_description": "A Victorian sitting-room, elegantly furnished with pastel feminine decor. Floral wallpaper, plush velvet sofa, and gas lamps lit against the night. A large window stands open to the street. A bell-pull hangs near a sliding panel. Smoke hangs in the air.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BRIONY_LODGE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_DOG_CART",
+      "ordinal": 2,
+      "location_header": "EXT. DOG CART - NIGHT",
+      "visual_description": "The interior of a moving dog-cart travelling through dark London streets and country roads. Lanterns on the side throw tunnels of yellow light into the gloom. The rhythm of hooves and wheels provides a backdrop. Hints of passing brick villas and hedges in the darkness.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_DOG_CART.jpg"
+    },
+    {
+      "identifier": "SCENE_HEREFORD_ARMS",
+      "ordinal": 2,
+      "location_header": "INT. HEREFORD ARMS - DAY",
+      "visual_description": "A private sitting room in a country hotel. Faded floral wallpaper and chintz armchairs. A tea table with a silver service sits near a fireplace. A window looks out onto a quiet country street. Soft afternoon light filters through lace curtains.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_HEREFORD_ARMS.jpg"
+    },
+    {
+      "identifier": "INT_VICTORIA_ST_OFFICE",
+      "ordinal": 2,
+      "location_header": "INT. VICTORIA STREET OFFICE - DAY",
+      "visual_description": "A dreary, sparsely furnished office in Victorian London. A solitary desk sits in the center with a single chair. Dust motes dance in the light from a high window. The walls are bare, emphasizing the lack of business. Cool grey and brown tones.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_VICTORIA_ST_OFFICE.jpg"
+    },
+    {
+      "identifier": "INT_COPPER_BEECHES_DRAWING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. COPPER_BEECHES DRAWING ROOM - DAY",
+      "visual_description": "A grand Victorian drawing room stretching the length of the house. Three tall floor-to-ceiling windows flood the space with light. The furniture is expensive but eclectic. A heavy curtain or blind is fitted to the windows. The atmosphere is bright but strangely tense. Pale walls and polished wood floors.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_COPPER_BEECHES_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_ALPHA_INN",
+      "ordinal": 2,
+      "location_header": "INT. ALPHA INN - NIGHT",
+      "visual_description": "A cozy Victorian public house bar in Bloomsbury. Etched glass screens partition the space, reflecting the warm glow of gas lamps. A polished mahogany counter dominates the foreground with brass beer taps. Frosted windows look out onto the dark street. Sawdust on the floor and a ruddy, inviting atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_ALPHA_INN.jpg"
+    },
+    {
+      "identifier": "SCENE_FAIRBANK_DRESSING",
+      "ordinal": 2,
+      "location_header": "INT. FAIRBANK DRESSING ROOM - DAY",
+      "visual_description": "A purely functional Victorian dressing room. A grey carpet covers the floor. A large wooden bureau with a lock dominates one wall, alongside a long mirror reflecting the cold winter light. The room is plainly furnished and orderly, with a clinical, masculine atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_FAIRBANK_DRESSING.jpg"
+    },
+    {
+      "identifier": "EXT_STOKE_MORAN_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. STOKE MORAN MANOR - DAY",
+      "visual_description": "The neglected grounds of an old grey stone manor house. Lichen-blotched stone walls feature a high central portion and two curving wings. One wing is ruined with broken windows; the other is modern with blue smoke from chimneys. An ill-trimmed lawn stretches before the building under afternoon light.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_EXT_STOKE_MORAN_DAY.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_STREET_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. BAKER STREET - DAY",
+      "visual_description": "The busy street outside 221B Baker Street in daylight. Pedestrians walk by, carriages rattle past. The black door stands closed. London bustling atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BAKER_STREET_STREET_DAY.jpg"
+    },
+    {
+      "identifier": "SCENE_BAKER_ST_AFTERNOON",
+      "ordinal": 3,
+      "location_header": "INT. 221B BAKER STREET - AFTERNOON",
+      "visual_description": "The familiar Baker Street study in the waning light of a winter afternoon. The fire has burned low. Remnants of a rude meal sit on the sideboard. The room feels transitional and quiet, waiting for activity. Muted browns and greys with fading daylight.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_BAKER_ST_AFTERNOON.jpg"
+    },
+    {
+      "identifier": "INT_STARK_HOUSE_WAITING_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. COUNTRY HOUSE - NIGHT",
+      "visual_description": "A dimly lit room in a country house at night. A round table holds German books. A harmonium stands by the door. Heavy drapes cover the windows. The only light comes from a single oil lamp, casting long, eerie shadows. The atmosphere is silent and oppressive.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_STARK_HOUSE_WAITING_ROOM.jpg"
+    },
+    {
+      "identifier": "LONDON_STREET_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. LONDON STREET - NIGHT",
+      "visual_description": "A quiet residential London street at night, dimly lit by gas lamps. Shadows stretch across the pavement. Brick row houses line the road. Mist swirls around the lamp posts.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_LONDON_STREET_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_THE_CEDARS_DINING",
+      "ordinal": 3,
+      "location_header": "INT. THE CEDARS DINING ROOM - NIGHT",
+      "visual_description": "A well-lit Victorian dining room with a cold supper laid out on the table. A basket-chair sits near the rug. The atmosphere is anxious but domestic. Soft gaslight illuminates the anxious face of the hostess.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_THE_CEDARS_DINING.jpg"
+    },
+    {
+      "identifier": "SCENE_04_BANK_CELLAR",
+      "ordinal": 3,
+      "location_header": "INT. BANK CELLAR - NIGHT",
+      "visual_description": "A vast, cold stone vault or cellar. Pitch darkness is cut by a single thin beam of a lantern, revealing massive wooden crates and boxes piled high. The floor is lined with large stone flags. The air is damp and earth-smelling.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_04_BANK_CELLAR.jpg"
+    },
+    {
+      "identifier": "SCENE_BOSCOMBE_POOL",
+      "ordinal": 3,
+      "location_header": "EXT. BOSCOMBE POOL - DAY",
+      "visual_description": "A damp, wooded glade in the English countryside. Tall beech trees cast dappled shadows over marshy ground. A small reed-girt pool reflects the grey sky. Red pinnacles of a manor house are visible in the distance. Muted greens and browns dominant.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_BOSCOMBE_POOL.jpg"
+    },
+    {
+      "identifier": "INT_STOKE_MORAN_BEDROOMS",
+      "ordinal": 3,
+      "location_header": "INT. HELEN'S BEDROOM - DAY",
+      "visual_description": "A homely Victorian bedroom with a low ceiling and a gaping fireplace. Brown worm-eaten oak panelling lines the walls. A narrow white-counterpaned bed stands in the corner next to a bell-rope. A small ventilator opening is visible high on the wall. Dust motes dance in the afternoon sun.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_STOKE_MORAN_BEDROOMS.jpg"
+    },
+    {
+      "identifier": "SCENE_COVENT_GARDEN",
+      "ordinal": 3,
+      "location_header": "EXT. COVENT GARDEN MARKET - NIGHT",
+      "visual_description": "A bustling Victorian market at night, lit by hissing gas flares that cast dramatic shadows. Open-fronted stalls display rows of hanging poultry. Marble slabs are slick with moisture. The background fades into the dark, looming shapes of market buildings. Cold, blue-grey tones contrast with yellow gaslight.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_COVENT_GARDEN.jpg"
+    },
+    {
+      "identifier": "EXT_COPPER_BEECHES_GROUNDS",
+      "ordinal": 3,
+      "location_header": "EXT. COPPER BEECHES - DAY",
+      "visual_description": "The grounds of a whitewashed country house. A large clump of copper beech trees with dark, metallic foliage dominates the foreground. A small wooden outhouse stands near the kitchen door. The atmosphere is rural but shadowed and slightly ominous. Afternoon light filtering through dark leaves.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_EXT_COPPER_BEECHES_GROUNDS.jpg"
+    },
+    {
+      "identifier": "INT_ROYLOTT_CHAMBER",
+      "ordinal": 4,
+      "location_header": "INT. DR. ROYLOTT'S CHAMBER - DAY",
+      "visual_description": "A plain, masculine bedroom with a camp-bed and a small shelf of technical books. A large iron safe sits prominently on a round table next to a saucer of milk. A wooden chair stands against the wall. Austere and functional with a clinical atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_ROYLOTT_CHAMBER.jpg"
+    },
+    {
+      "identifier": "INT_HYDRAULIC_PRESS_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. HYDRAULIC PRESS - NIGHT",
+      "visual_description": "A cramped, square chamber with wooden walls and a floor of metallic crust. The ceiling is a low, heavy iron slab. A small door offers the only exit. An oil lamp on the floor throws harsh, upward shadows, highlighting the industrial nature of the space.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_HYDRAULIC_PRESS_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_05_BAKER_ST_DAWN",
+      "ordinal": 4,
+      "location_header": "INT. 221B BAKER STREET - DAWN",
+      "visual_description": "A Victorian study in the early grey hours of dawn. A siphon of soda water and whisky glasses sit on the table. The gas lamps are dimming as cold morning light begins to bleed through the curtains. The fire has burned down to ash.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_05_BAKER_ST_DAWN.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_DOORSTEP",
+      "ordinal": 4,
+      "location_header": "EXT. 221B BAKER STREET - NIGHT",
+      "visual_description": "The exterior doorstep of 221B Baker Street at night. The black painted door with brass knocker is visible. The pavement is dimly lit by a nearby streetlamp. Foggy London atmosphere.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_BAKER_STREET_DOORSTEP.jpg"
+    },
+    {
+      "identifier": "SCENE_THE_CEDARS_BEDROOM",
+      "ordinal": 4,
+      "location_header": "INT. THE CEDARS BEDROOM - MORNING",
+      "visual_description": "A large double-bedded room filled with a dense haze of tobacco smoke. Sunlight streams in, contrasting with the stale remnants of the night. An improvised Eastern divan of pillows sits on the floor. A Gladstone bag rests near the door.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_THE_CEDARS_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_BOW_STREET",
+      "ordinal": 5,
+      "location_header": "INT. BOW STREET POLICE STATION - MORNING",
+      "visual_description": "A stark, whitewashed corridor in a police station with a line of heavy doors. A barred cell door stands open. Inside, a simple cot and a water jug are visible. The light is cold and institutional, smelling of carbolic acid and stone.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_BOW_STREET.jpg"
+    },
+    {
+      "identifier": "INT_CROWN_INN_ROOM",
+      "ordinal": 5,
+      "location_header": "INT. CROWN INN - DUSK",
+      "visual_description": "An upper-floor sitting room in a village inn at dusk. A window looks out towards the manor house gates and avenue. Shadows gather in the corners as evening falls. Simple rustic furniture and a sense of waiting.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_CROWN_INN_ROOM.jpg"
+    },
+    {
+      "identifier": "EXT_STARK_GARDEN_NIGHT",
+      "ordinal": 5,
+      "location_header": "EXT. GARDEN - NIGHT",
+      "visual_description": "A Victorian country garden bathed in moonlight. Rose bushes cast dark shapes against the lawn. The facade of the house looms above, with a single open window on the second floor. The mood is tense and cold.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_EXT_STARK_GARDEN_NIGHT.jpg"
+    },
+    {
+      "identifier": "INT_COPPER_BEECHES_LOCKED_WING",
+      "ordinal": 5,
+      "location_header": "INT. LOCKED WING - DUSK",
+      "visual_description": "A dusty, uncarpeted corridor in a disused wing of the house. Paint peels from the walls. A heavy wooden door is barred with a metal bed-frame and padlocked. A slit of light shines from beneath the door. The atmosphere is grim, dirty, and threatening. Dim evening light.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_COPPER_BEECHES_LOCKED_WING.jpg"
+    },
+    {
+      "identifier": "SCENE_03_BAKER_ST_NIGHT",
+      "ordinal": 6,
+      "location_header": "INT. 221B BAKER STREET - NIGHT",
+      "visual_description": "A late Victorian gentleman's study at night, cluttered and cozy. Gaslight flickers on dark mahogany furniture. A coal fire burns in the grate, casting warm orange glow on two armchairs. Thick curtains drawn against the night.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_03_BAKER_ST_NIGHT.jpg"
+    },
+    {
+      "identifier": "INT_STOKE_MORAN_BEDROOM_NIGHT",
+      "ordinal": 6,
+      "location_header": "INT. HELEN'S BEDROOM - NIGHT",
+      "visual_description": "A pitch-black bedroom, tension palpable in the darkness. Only a sliver of light might show from a ventilator. The vague shapes of a bed and a cane are barely discernible. A sense of suffocating silence and claustrophobia.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_STOKE_MORAN_BEDROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_EYFORD_FIRE",
+      "ordinal": 7,
+      "location_header": "EXT. BURNING HOUSE - DAY",
+      "visual_description": "A large Victorian country house engulfed in flames during the day. Victorian fire engines pump water in the foreground. A column of black smoke rises into the sky. A crowd of locals watches from the gravel drive. The atmosphere is chaotic and smoky.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_EXT_EYFORD_FIRE.jpg"
+    },
+    {
+      "identifier": "SCENE_TRAIN_JOURNEY",
+      "ordinal": 7,
+      "location_header": "INT. TRAIN COMPARTMENT - DAY",
+      "visual_description": "A first-class Victorian train compartment in motion. Plush velvet seats with lace antimacassars face each other. A large window reveals passing English countryside. The rack above is piled with luggage. Piles of newspapers and documents clutter the seats. Natural daylight shifts with the train's movement.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_SCENE_TRAIN_JOURNEY.jpg"
+    },
+    {
+      "identifier": "INT_BLACK_SWAN_HOTEL",
+      "ordinal": 8,
+      "location_header": "INT. BLACK SWAN HOTEL - DAY",
+      "visual_description": "A private sitting room in a provincial Victorian hotel. A table is set for lunch with white linen and silver. A fire burns in the grate. The room is furnished with chintz armchairs and heavy drapes. The atmosphere is respectable and quiet.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_INT_BLACK_SWAN_HOTEL.jpg"
+    },
+    {
+      "identifier": "EXT_COPPER_BEECHES_EVENING",
+      "ordinal": 9,
+      "location_header": "EXT. COPPER BEECHES - EVENING",
+      "visual_description": "The exterior of the country house at sunset. The copper beeches shine like burnished metal. Long shadows stretch across the lawn. The house stands silent, its windows reflecting the dying light. A trap waits in the distance. Ominous and still.",
+      "metadata": {},
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/scenes/scene_EXT_COPPER_BEECHES_EVENING.jpg"
+    }
+  ],
+  "subjects": [
+    "Holmes, Sherlock (Fictitious character) -- Fiction",
+    "Private investigators -- England -- Fiction",
+    "Detective and mystery stories, English"
+  ]
+}
