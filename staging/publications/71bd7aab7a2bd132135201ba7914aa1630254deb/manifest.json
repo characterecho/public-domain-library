@@ -8,7 +8,7 @@
   "identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
   "publication_type": "novel",
   "cover_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/cover.png",
-  "total_duration_s": 31087.273945,
+  "total_duration_s": 31287.620568,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -21,67 +21,67 @@
       "ordinal": 0,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2250.282358
+      "end_s": 2258.237846
     },
     {
       "ordinal": 1,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_1.mp3",
-      "start_s": 2250.282358,
-      "end_s": 5059.070657
+      "start_s": 2258.237846,
+      "end_s": 5089.497529
     },
     {
       "ordinal": 2,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_2.mp3",
-      "start_s": 5059.070657,
-      "end_s": 7164.358276000001
+      "start_s": 5089.497529,
+      "end_s": 7221.039275
     },
     {
       "ordinal": 3,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_3.mp3",
-      "start_s": 7164.358276000001,
-      "end_s": 10006.517165000001
+      "start_s": 7221.039275,
+      "end_s": 10076.496622
     },
     {
       "ordinal": 4,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_4.mp3",
-      "start_s": 10006.517165000001,
-      "end_s": 12263.15687
+      "start_s": 10076.496622,
+      "end_s": 12333.136327
     },
     {
       "ordinal": 5,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_5.mp3",
-      "start_s": 12263.15687,
-      "end_s": 15160.74263
+      "start_s": 12333.136327,
+      "end_s": 15231.509410999999
     },
     {
       "ordinal": 6,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_6.mp3",
-      "start_s": 15160.74263,
-      "end_s": 17444.895510000002
+      "start_s": 15231.509410999999,
+      "end_s": 17531.924693999998
     },
     {
       "ordinal": 7,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_7.mp3",
-      "start_s": 17444.895510000002,
-      "end_s": 20389.776757000003
+      "start_s": 17531.924693999998,
+      "end_s": 20492.729343
     },
     {
       "ordinal": 8,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_8.mp3",
-      "start_s": 20389.776757000003,
-      "end_s": 22806.706666000002
+      "start_s": 20492.729343,
+      "end_s": 22908.326962
     },
     {
       "ordinal": 9,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_9.mp3",
-      "start_s": 22806.706666000002,
-      "end_s": 25233.152426
+      "start_s": 22908.326962,
+      "end_s": 25367.589978
     },
     {
       "ordinal": 10,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_10.mp3",
-      "start_s": 25233.152426,
-      "end_s": 31087.273945
+      "start_s": 25367.589978,
+      "end_s": 31287.620568
     }
   ],
   "segments": [
@@ -107,7 +107,7 @@
       "ordinal": 2,
       "title": "Chapter I.",
       "start_s": 10.888,
-      "end_s": 974.42,
+      "end_s": 980.771,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -123,8 +123,8 @@
     {
       "ordinal": 3,
       "title": "Chapter II.",
-      "start_s": 974.42,
-      "end_s": 1914.09,
+      "start_s": 980.771,
+      "end_s": 1920.441,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -160,8 +160,8 @@
     {
       "ordinal": 4,
       "title": "Chapter III.",
-      "start_s": 1914.09,
-      "end_s": 2250.282,
+      "start_s": 1920.441,
+      "end_s": 2258.238,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -187,8 +187,8 @@
     {
       "ordinal": 5,
       "title": "II. THE RED-HEADED LEAGUE",
-      "start_s": 2250.282,
-      "end_s": 5059.071,
+      "start_s": 2258.238,
+      "end_s": 5089.498,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -224,8 +224,8 @@
     {
       "ordinal": 6,
       "title": "III. A CASE OF IDENTITY",
-      "start_s": 5059.071,
-      "end_s": 7164.358,
+      "start_s": 5089.498,
+      "end_s": 7221.039,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -246,8 +246,8 @@
     {
       "ordinal": 7,
       "title": "IV. THE BOSCOMBE VALLEY MYSTERY",
-      "start_s": 7164.358,
-      "end_s": 10006.517,
+      "start_s": 7221.039,
+      "end_s": 10076.497,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -278,8 +278,8 @@
     {
       "ordinal": 8,
       "title": "V. THE FIVE ORANGE PIPS",
-      "start_s": 10006.517,
-      "end_s": 12263.157,
+      "start_s": 10076.497,
+      "end_s": 12333.136,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -305,8 +305,8 @@
     {
       "ordinal": 9,
       "title": "VI. THE MAN WITH THE TWISTED LIP",
-      "start_s": 12263.157,
-      "end_s": 15160.743,
+      "start_s": 12333.136,
+      "end_s": 15231.509,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -347,8 +347,8 @@
     {
       "ordinal": 10,
       "title": "VII. THE ADVENTURE OF THE BLUE CARBUNCLE",
-      "start_s": 15160.743,
-      "end_s": 17444.896,
+      "start_s": 15231.509,
+      "end_s": 17531.925,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -384,8 +384,8 @@
     {
       "ordinal": 11,
       "title": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
-      "start_s": 17444.896,
-      "end_s": 20389.777,
+      "start_s": 17531.925,
+      "end_s": 20492.729,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -436,8 +436,8 @@
     {
       "ordinal": 12,
       "title": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
-      "start_s": 20389.777,
-      "end_s": 22806.707,
+      "start_s": 20492.729,
+      "end_s": 22908.327,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -488,8 +488,8 @@
     {
       "ordinal": 13,
       "title": "X. THE ADVENTURE OF THE NOBLE BACHELOR",
-      "start_s": 22806.707,
-      "end_s": 25233.152,
+      "start_s": 22908.327,
+      "end_s": 25367.59,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -510,8 +510,8 @@
     {
       "ordinal": 14,
       "title": "XI. THE ADVENTURE OF THE BERYL CORONET",
-      "start_s": 25233.152,
-      "end_s": 28151.864,
+      "start_s": 25367.59,
+      "end_s": 28314.988,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -542,8 +542,8 @@
     {
       "ordinal": 15,
       "title": "XII. THE ADVENTURE OF THE COPPER BEECHES",
-      "start_s": 28151.864,
-      "end_s": 31087.274,
+      "start_s": 28314.988,
+      "end_s": 31287.621,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -680,7 +680,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 928,
+      "dialogue_count": 931,
       "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/WATSON.png",
       "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/WATSON.mp3"
     },
@@ -985,7 +985,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 45,
+      "dialogue_count": 43,
       "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/G_LESTRADE.png",
       "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/G_LESTRADE.mp3"
     },
@@ -1798,32 +1798,6 @@
       "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/ISA_WHITNEY.mp3"
     },
     {
-      "identifier": "STATION_MASTER",
-      "name": "Station-master",
-      "age_group": "middle_aged",
-      "generation_hint": "parent_generation",
-      "aliases": [],
-      "voice_attributes": [
-        "cheerful",
-        "rural"
-      ],
-      "visual_attributes": [
-        "uniform",
-        "waistcoat"
-      ],
-      "roles": [
-        "official"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 5,
-      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/STATION_MASTER.png",
-      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/STATION_MASTER.mp3"
-    },
-    {
       "identifier": "MRS_WATSON",
       "name": "Mrs. Watson",
       "age_group": "young",
@@ -1876,6 +1850,32 @@
       "dialogue_count": 4,
       "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_1.png",
       "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_1.mp3"
+    },
+    {
+      "identifier": "STATION_MASTER",
+      "name": "Station-master",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cheerful",
+        "rural"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "waistcoat"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/STATION_MASTER.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/STATION_MASTER.mp3"
     },
     {
       "identifier": "KATE_WHITNEY",
@@ -2054,6 +2054,32 @@
       "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/TRAP_DRIVER.mp3"
     },
     {
+      "identifier": "CROWD_MEMBER_2",
+      "name": "Woman in Crowd",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "sympathetic",
+        "loud"
+      ],
+      "visual_attributes": [
+        "shawl",
+        "bonnet"
+      ],
+      "roles": [
+        "extra"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_2.png",
+      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_2.mp3"
+    },
+    {
       "identifier": "PLAIN_CLOTHES_MAN",
       "name": "Officer",
       "age_group": "middle_aged",
@@ -2080,32 +2106,6 @@
       "dialogue_count": 1,
       "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PLAIN_CLOTHES_MAN.png",
       "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/PLAIN_CLOTHES_MAN.mp3"
-    },
-    {
-      "identifier": "CROWD_MEMBER_2",
-      "name": "Woman in Crowd",
-      "age_group": "middle_aged",
-      "generation_hint": "parent_generation",
-      "aliases": [],
-      "voice_attributes": [
-        "sympathetic",
-        "loud"
-      ],
-      "visual_attributes": [
-        "shawl",
-        "bonnet"
-      ],
-      "roles": [
-        "extra"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "female",
-        "voice_accent": "cockney"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_2.png",
-      "voice_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/characters/CROWD_MEMBER_2.mp3"
     },
     {
       "identifier": "TOLLER",
