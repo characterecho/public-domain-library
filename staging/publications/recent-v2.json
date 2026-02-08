@@ -1,9 +1,38 @@
 {
   "version": 2,
-  "generated_at": "2026-02-08T15:44:46Z",
+  "generated_at": "2026-02-08T17:28:45Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
+      "sample": false,
+      "title": "The Adventures of Sherlock Holmes",
+      "author_names": "Arthur Conan Doyle",
+      "publication_type": "novel",
+      "genre_tags": [
+        "mystery",
+        "classics"
+      ],
+      "catalog_added_at": "2026-02-01T01:15:28Z",
+      "updated_at": "2026-02-08T17:28:45Z",
+      "duration": {
+        "total_ms": 31047000,
+        "formatted": "8h 37m"
+      },
+      "cover_url": null,
+      "data_checksum": "258c1411165a2b95edd6c7fdcc2bb7c5aec8dd8c357001b2537e897931672c58",
+      "file_size": 948879785,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
       "sample": false,
