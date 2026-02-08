@@ -8,7 +8,7 @@
   "identifier": "a5f1aa58aeafad7c72e6c8454933c39fecca2c65",
   "publication_type": "novel",
   "cover_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/cover.png",
-  "total_duration_s": 13374.068799,
+  "total_duration_s": 13370.492336,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective",
@@ -33,13 +33,13 @@
       "ordinal": 2,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_2.mp3",
       "start_s": 6673.649819,
-      "end_s": 9293.900409
+      "end_s": 9296.191701
     },
     {
       "ordinal": 3,
       "audio_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/audio_part_3.mp3",
-      "start_s": 9293.900409,
-      "end_s": 13374.068799
+      "start_s": 9296.191701,
+      "end_s": 13370.492336
     }
   ],
   "segments": [
@@ -221,7 +221,7 @@
       "ordinal": 10,
       "title": "CHAPTER I. ON THE GREAT ALKALI PLAIN.",
       "start_s": 6673.65,
-      "end_s": 7862.41,
+      "end_s": 7862.416,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -237,8 +237,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER II. THE FLOWER OF UTAH.",
-      "start_s": 7862.41,
-      "end_s": 8707.093,
+      "start_s": 7862.416,
+      "end_s": 8706.828,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -264,8 +264,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER III. JOHN FERRIER TALKS WITH THE PROPHET.",
-      "start_s": 8707.093,
-      "end_s": 9293.9,
+      "start_s": 8706.828,
+      "end_s": 9296.192,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -281,8 +281,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER IV. A FLIGHT FOR LIFE.",
-      "start_s": 9293.9,
-      "end_s": 10327.811,
+      "start_s": 9296.192,
+      "end_s": 10327.135,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -313,8 +313,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER V. THE AVENGING ANGELS.",
-      "start_s": 10327.811,
-      "end_s": 11459.206,
+      "start_s": 10327.135,
+      "end_s": 11457.641,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -340,8 +340,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER VI. A CONTINUATION OF THE REMINISCENCES OF JOHN WATSON, M.D.",
-      "start_s": 11459.206,
-      "end_s": 12741.958,
+      "start_s": 11457.641,
+      "end_s": 12738.382,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -362,8 +362,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER VII. THE CONCLUSION.",
-      "start_s": 12741.958,
-      "end_s": 13374.069,
+      "start_s": 12738.382,
+      "end_s": 13370.492,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -381,6 +381,8 @@
     {
       "identifier": "JOHN_H_WATSON",
       "name": "Watson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "weary",
@@ -411,6 +413,8 @@
     {
       "identifier": "SHERLOCK_HOLMES",
       "name": "Holmes",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Mr. Sherlock Holmes"
       ],
@@ -444,6 +448,8 @@
     {
       "identifier": "CAB_DRIVER",
       "name": "Jefferson Hope",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "The Cabman",
         "JEFFERSON_HOPE_YOUNG",
@@ -494,6 +500,8 @@
     {
       "identifier": "TOBIAS_GREGSON",
       "name": "Gregson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "Detective Gregson"
       ],
@@ -525,6 +533,8 @@
     {
       "identifier": "JOHN_FERRIER",
       "name": "John Ferrier",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "The Traveller",
         "The Wanderer"
@@ -558,6 +568,8 @@
     {
       "identifier": "G_LESTRADE",
       "name": "Lestrade",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "Detective Lestrade"
       ],
@@ -587,38 +599,10 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/G_LESTRADE.mp3"
     },
     {
-      "identifier": "JOHN_RANCE",
-      "name": "Constable Rance",
-      "aliases": [],
-      "voice_attributes": [
-        "slow",
-        "irritable",
-        "confused",
-        "greedy"
-      ],
-      "visual_attributes": [
-        "sleepy eyes",
-        "tousled hair",
-        "unbuttoned uniform tunic",
-        "ruddy face",
-        "thick neck"
-      ],
-      "roles": [
-        "police officer",
-        "witness"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "cockney"
-      },
-      "dialogue_count": 20,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.mp3"
-    },
-    {
       "identifier": "STAMFORD",
       "name": "Stamford",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Young Stamford"
       ],
@@ -649,8 +633,42 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/STAMFORD.mp3"
     },
     {
+      "identifier": "JOHN_RANCE",
+      "name": "Constable Rance",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "slow",
+        "irritable",
+        "confused",
+        "greedy"
+      ],
+      "visual_attributes": [
+        "sleepy eyes",
+        "tousled hair",
+        "unbuttoned uniform tunic",
+        "ruddy face",
+        "thick neck"
+      ],
+      "roles": [
+        "police officer",
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 20,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOHN_RANCE.mp3"
+    },
+    {
       "identifier": "THE_CHILD",
       "name": "The Child",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [
         "Young Lucy",
         "Lucy (child)"
@@ -691,6 +709,8 @@
     {
       "identifier": "LUCY_FERRIER",
       "name": "Lucy Ferrier",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
       "aliases": [
         "The Child",
         "LUCY_FERRIER_ADULT",
@@ -723,7 +743,7 @@
         "love interest"
       ],
       "metadata": {
-        "age_group": "young",
+        "age_group": "teenager",
         "gender": "female",
         "voice_accent": "american"
       },
@@ -734,6 +754,8 @@
     {
       "identifier": "BRIGHAM_YOUNG",
       "name": "Brigham Young",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "The Leader",
         "The Prophet"
@@ -763,8 +785,43 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/BRIGHAM_YOUNG.mp3"
     },
     {
+      "identifier": "COWPER",
+      "name": "Cowper",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Mormon"
+      ],
+      "voice_attributes": [
+        "anxious",
+        "hushed",
+        "astonished"
+      ],
+      "visual_attributes": [
+        "pale anxious face",
+        "travel-stained clothes",
+        "wide-brimmed hat",
+        "brown hair",
+        "mounted on horse"
+      ],
+      "roles": [
+        "mormon",
+        "acquaintance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.mp3"
+    },
+    {
       "identifier": "MRS_SAWYER",
       "name": "Mrs. Sawyer",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "The Old Woman",
         "Young Accomplice"
@@ -798,39 +855,10 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MRS_SAWYER.mp3"
     },
     {
-      "identifier": "COWPER",
-      "name": "Cowper",
-      "aliases": [
-        "The Mormon"
-      ],
-      "voice_attributes": [
-        "anxious",
-        "hushed",
-        "astonished"
-      ],
-      "visual_attributes": [
-        "pale anxious face",
-        "travel-stained clothes",
-        "wide-brimmed hat",
-        "brown hair",
-        "mounted on horse"
-      ],
-      "roles": [
-        "mormon",
-        "acquaintance"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 6,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COWPER.mp3"
-    },
-    {
       "identifier": "ELDER_STANGERSON",
       "name": "Elder Stangerson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "Brother Stangerson"
       ],
@@ -861,6 +889,8 @@
     {
       "identifier": "POLICE_INSPECTOR",
       "name": "The Inspector",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "dull",
@@ -891,6 +921,8 @@
     {
       "identifier": "SENTINEL",
       "name": "The Sentinel",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "stern",
@@ -918,6 +950,8 @@
     {
       "identifier": "ENOCH_DREBBER",
       "name": "Enoch Drebber",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Young Drebber"
       ],
@@ -948,6 +982,8 @@
     {
       "identifier": "JOSEPH_STANGERSON",
       "name": "Joseph Stangerson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "nasal",
@@ -974,8 +1010,37 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/JOSEPH_STANGERSON.mp3"
     },
     {
+      "identifier": "MORMON_PILGRIM",
+      "name": "Mormon Pilgrim",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "earnest",
+        "fervent"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "dusty clothes",
+        "hat"
+      ],
+      "roles": [
+        "traveller"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.mp3"
+    },
+    {
       "identifier": "COMMISSIONAIRE",
       "name": "The Commissionaire",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "gruff",
@@ -1003,33 +1068,10 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/COMMISSIONAIRE.mp3"
     },
     {
-      "identifier": "MORMON_PILGRIM",
-      "name": "Mormon Pilgrim",
-      "aliases": [],
-      "voice_attributes": [
-        "earnest",
-        "fervent"
-      ],
-      "visual_attributes": [
-        "weather-beaten face",
-        "dusty clothes",
-        "hat"
-      ],
-      "roles": [
-        "traveller"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_PILGRIM.mp3"
-    },
-    {
       "identifier": "MORMON_SCOUT",
       "name": "Mormon Scout",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "eager",
@@ -1054,59 +1096,10 @@
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SCOUT.mp3"
     },
     {
-      "identifier": "MORMON_SUBORDINATE",
-      "name": "Mormon Subordinate",
-      "aliases": [],
-      "voice_attributes": [
-        "obedient",
-        "hushed"
-      ],
-      "visual_attributes": [
-        "dark clothes",
-        "slight build"
-      ],
-      "roles": [
-        "guard",
-        "mormon"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.mp3"
-    },
-    {
-      "identifier": "MORMON_CAPTAIN",
-      "name": "Mormon Captain",
-      "aliases": [],
-      "voice_attributes": [
-        "authoritative",
-        "hushed"
-      ],
-      "visual_attributes": [
-        "hooded cloak",
-        "hidden face",
-        "tall figure"
-      ],
-      "roles": [
-        "guard",
-        "mormon"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.png",
-      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.mp3"
-    },
-    {
       "identifier": "WIGGINS",
       "name": "Wiggins",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [],
       "voice_attributes": [
         "cockney",
@@ -1133,16 +1126,71 @@
       "dialogue_count": 2,
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.png",
       "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/WIGGINS.mp3"
+    },
+    {
+      "identifier": "MORMON_CAPTAIN",
+      "name": "Mormon Captain",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "hushed"
+      ],
+      "visual_attributes": [
+        "hooded cloak",
+        "hidden face",
+        "tall figure"
+      ],
+      "roles": [
+        "guard",
+        "mormon"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_CAPTAIN.mp3"
+    },
+    {
+      "identifier": "MORMON_SUBORDINATE",
+      "name": "Mormon Subordinate",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "obedient",
+        "hushed"
+      ],
+      "visual_attributes": [
+        "dark clothes",
+        "slight build"
+      ],
+      "roles": [
+        "guard",
+        "mormon"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.png",
+      "voice_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/characters/MORMON_SUBORDINATE.mp3"
     }
   ],
   "scenes": [
     {
-      "identifier": "SCENE_SALT_LAKE_VALLEY",
+      "identifier": "SCENE_221B_SITTING_ROOM",
       "ordinal": 0,
-      "location_header": "EXT. SALT LAKE VALLEY - DAY",
-      "visual_description": "A sweeping panoramic view of the Salt Lake Valley in the mid-19th century, bathed in bright sunlight. In the foreground, golden wheat fields ripple in the breeze. Beyond, the early settlement of Salt Lake City rises with orderly streets and the framework of a great temple. The majestic, snow-capped Wasatch Mountains form a dramatic backdrop against a deep blue sky. Earth tones, gold, and vibrant blue capture a mood of pioneer prosperity.",
+      "location_header": "INT. 221B BAKER STREET - DAY",
+      "visual_description": "A chaotic but comfortable Victorian sitting room illuminated by two broad windows. A breakfast table set with white linen and silver sits near the center. One corner is dominated by a deal table acid-stained and cluttered with chemical retorts and test tubes. Books, newspapers, and a violin case are scattered about. The atmosphere is intellectual and bohemian, with tobacco-hazed sunlight.",
       "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_SALT_LAKE_VALLEY.jpg"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_221B_SITTING_ROOM.jpg"
     },
     {
       "identifier": "SCENE_COVER_00",
@@ -1153,30 +1201,6 @@
         "type": "cover_placeholder"
       },
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_COVER_00.jpg"
-    },
-    {
-      "identifier": "SCENE_CAB_RIDE",
-      "ordinal": 0,
-      "location_header": "INT. HANSOM CAB - DAY",
-      "visual_description": "Interior of a Victorian hansom cab rattling through London streets. Moving views of grey brick buildings and wet cobblestones blur past small windows. The leather seats are worn, and the smell of stale tobacco lingers. Dim, moving daylight filters in, casting shifting shadows on the passengers.",
-      "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_CAB_RIDE.jpg"
-    },
-    {
-      "identifier": "SCENE_MOUNTAIN_DEFILES",
-      "ordinal": 0,
-      "location_header": "EXT. MOUNTAIN GORGES - DAY",
-      "visual_description": "A rugged, barren mountain valley in the American West during the 1860s. Towering snow-capped peaks loom on all sides above steep, rocky banks strewn with fallen pine trees and boulders. The lighting shifts from cold pre-dawn greys to harsh, bright sunlight revealing the desolate, savage beauty of the gorge. The atmosphere is isolated, perilous, and vast.",
-      "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_MOUNTAIN_DEFILES.jpg"
-    },
-    {
-      "identifier": "SCENE_221B_SITTING_ROOM",
-      "ordinal": 0,
-      "location_header": "INT. 221B BAKER STREET - DAY",
-      "visual_description": "A chaotic but comfortable Victorian sitting room illuminated by two broad windows. A breakfast table set with white linen and silver sits near the center. One corner is dominated by a deal table acid-stained and cluttered with chemical retorts and test tubes. Books, newspapers, and a violin case are scattered about. The atmosphere is intellectual and bohemian, with tobacco-hazed sunlight.",
-      "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_221B_SITTING_ROOM.jpg"
     },
     {
       "identifier": "SCENE_HOTEL_ROOM",
@@ -1203,12 +1227,28 @@
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_FERRIER_SITTING_ROOM.jpg"
     },
     {
-      "identifier": "SCENE_RANCE_PARLOUR",
-      "ordinal": 1,
-      "location_header": "INT. RANCE'S PARLOUR - DAY",
-      "visual_description": "A small, stuffy front parlour in a working-class Victorian home. A stiff horsehair sofa dominates the cramped space. Lace curtains filter the dull light from the street, illuminating cheap ornaments and a small table with a patterned cloth. The atmosphere is modest, slightly untidy, and dim.",
+      "identifier": "SCENE_SALT_LAKE_VALLEY",
+      "ordinal": 0,
+      "location_header": "EXT. SALT LAKE VALLEY - DAY",
+      "visual_description": "A sweeping panoramic view of the Salt Lake Valley in the mid-19th century, bathed in bright sunlight. In the foreground, golden wheat fields ripple in the breeze. Beyond, the early settlement of Salt Lake City rises with orderly streets and the framework of a great temple. The majestic, snow-capped Wasatch Mountains form a dramatic backdrop against a deep blue sky. Earth tones, gold, and vibrant blue capture a mood of pioneer prosperity.",
       "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_RANCE_PARLOUR.jpg"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_SALT_LAKE_VALLEY.jpg"
+    },
+    {
+      "identifier": "SCENE_MOUNTAIN_DEFILES",
+      "ordinal": 0,
+      "location_header": "EXT. MOUNTAIN GORGES - DAY",
+      "visual_description": "A rugged, barren mountain valley in the American West during the 1860s. Towering snow-capped peaks loom on all sides above steep, rocky banks strewn with fallen pine trees and boulders. The lighting shifts from cold pre-dawn greys to harsh, bright sunlight revealing the desolate, savage beauty of the gorge. The atmosphere is isolated, perilous, and vast.",
+      "metadata": {},
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_MOUNTAIN_DEFILES.jpg"
+    },
+    {
+      "identifier": "SCENE_CAB_RIDE",
+      "ordinal": 0,
+      "location_header": "INT. HANSOM CAB - DAY",
+      "visual_description": "Interior of a Victorian hansom cab rattling through London streets. Moving views of grey brick buildings and wet cobblestones blur past small windows. The leather seats are worn, and the smell of stale tobacco lingers. Dim, moving daylight filters in, casting shifting shadows on the passengers.",
+      "metadata": {},
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_CAB_RIDE.jpg"
     },
     {
       "identifier": "SCENE_HOLBORN_RESTAURANT",
@@ -1219,36 +1259,12 @@
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_HOLBORN_RESTAURANT.jpg"
     },
     {
-      "identifier": "SCENE_LAURISTON_GARDENS",
+      "identifier": "SCENE_RANCE_PARLOUR",
       "ordinal": 1,
-      "location_header": "INT. 3 LAURISTON GARDENS - DAY",
-      "visual_description": "A grim, unlit Victorian room stripped of furniture. Dirty floorboards are scattered with dust. A showy marble mantelpiece holds a red wax candle stump. Mildewed wallpaper peels in strips, revealing yellow plaster. A single grimy window filters dull grey light. The atmosphere is oppressive and decaying, with muted greys and sickly yellows.",
+      "location_header": "INT. RANCE'S PARLOUR - DAY",
+      "visual_description": "A small, stuffy front parlour in a working-class Victorian home. A stiff horsehair sofa dominates the cramped space. Lace curtains filter the dull light from the street, illuminating cheap ornaments and a small table with a patterned cloth. The atmosphere is modest, slightly untidy, and dim.",
       "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_LAURISTON_GARDENS.jpg"
-    },
-    {
-      "identifier": "SCENE_SALT_LAKE_ROAD",
-      "ordinal": 1,
-      "location_header": "EXT. ROAD TO SALT LAKE CITY - DAY",
-      "visual_description": "A dusty dirt road on the outskirts of Salt Lake City, 1860s. The foreground features the rough, trampled earth of the track, clouded with rising dust. To the sides, sagebrush and scrub extend to the foothills. The lighting is harsh midday sun, casting short, sharp shadows. The atmosphere is arid, open, and slightly chaotic with the sense of movement. Rugged Western textures dominate.",
-      "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_SALT_LAKE_ROAD.jpg"
-    },
-    {
-      "identifier": "SCENE_SALT_LAKE_OVERLOOK",
-      "ordinal": 1,
-      "location_header": "EXT. MOUNTAIN OVERLOOK - DAY",
-      "visual_description": "A high, rocky vantage point overlooking the distant Salt Lake City in the 1870s. In the foreground, weathered grey rocks and scrub brush frame the view. Below, the city spreads out with grid-like streets, the flags on the Endowment House barely visible. The lighting is the hard, clear light of the high desert. The mood is grim, solitary, and vengeful.",
-      "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_SALT_LAKE_OVERLOOK.jpg"
-    },
-    {
-      "identifier": "SCENE_POLICE_STATION",
-      "ordinal": 1,
-      "location_header": "INT. POLICE STATION - NIGHT",
-      "visual_description": "A stark Victorian police inspector's office. A battered wooden desk sits central, illuminated by the harsh hiss of a gas lamp. Behind it, a darkened window reflects the room's interior. Shadows cluster in the corners of the peeling plaster walls. A heavy door with iron fittings dominates one side. The palette is cold and institutional: slate greys, dull browns, and ink black.",
-      "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_POLICE_STATION.jpg"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_RANCE_PARLOUR.jpg"
     },
     {
       "identifier": "SCENE_FERRIER_SITTING_ROOM_NIGHT",
@@ -1259,20 +1275,36 @@
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_FERRIER_SITTING_ROOM_NIGHT.jpg"
     },
     {
-      "identifier": "SCENE_CHEMICAL_LABORATORY",
-      "ordinal": 2,
-      "location_header": "INT. ST. BARTHOLOMEW'S LABORATORY - DAY",
-      "visual_description": "A lofty, cavernous room lined with shelves of chemical bottles. Broad, low tables are cluttered with retorts, test tubes, and Bunsen burners emitting blue flickering flames. The lighting is functional and stark, casting long shadows against whitewashed walls. An atmosphere of chaotic scientific industry.",
+      "identifier": "SCENE_SALT_LAKE_ROAD",
+      "ordinal": 1,
+      "location_header": "EXT. ROAD TO SALT LAKE CITY - DAY",
+      "visual_description": "A dusty dirt road on the outskirts of Salt Lake City, 1860s. The foreground features the rough, trampled earth of the track, clouded with rising dust. To the sides, sagebrush and scrub extend to the foothills. The lighting is harsh midday sun, casting short, sharp shadows. The atmosphere is arid, open, and slightly chaotic with the sense of movement. Rugged Western textures dominate.",
       "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_CHEMICAL_LABORATORY.jpg"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_SALT_LAKE_ROAD.jpg"
     },
     {
-      "identifier": "SCENE_FERRIER_GARDEN_NIGHT",
-      "ordinal": 2,
-      "location_header": "EXT. FERRIER FARM - NIGHT",
-      "visual_description": "The exterior of a frontier log villa under a starry night sky. The house is dark, looming against the faint outline of cornfields. A dense hedge and wooden fence run through the foreground, offering patches of deep shadow. The atmosphere is suspenseful and still, with cool blues and blacks dominating the palette.",
+      "identifier": "SCENE_POLICE_STATION",
+      "ordinal": 1,
+      "location_header": "INT. POLICE STATION - NIGHT",
+      "visual_description": "A stark Victorian police inspector's office. A battered wooden desk sits central, illuminated by the harsh hiss of a gas lamp. Behind it, a darkened window reflects the room's interior. Shadows cluster in the corners of the peeling plaster walls. A heavy door with iron fittings dominates one side. The palette is cold and institutional: slate greys, dull browns, and ink black.",
       "metadata": {},
-      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_FERRIER_GARDEN_NIGHT.jpg"
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_POLICE_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_SALT_LAKE_OVERLOOK",
+      "ordinal": 1,
+      "location_header": "EXT. MOUNTAIN OVERLOOK - DAY",
+      "visual_description": "A high, rocky vantage point overlooking the distant Salt Lake City in the 1870s. In the foreground, weathered grey rocks and scrub brush frame the view. Below, the city spreads out with grid-like streets, the flags on the Endowment House barely visible. The lighting is the hard, clear light of the high desert. The mood is grim, solitary, and vengeful.",
+      "metadata": {},
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_SALT_LAKE_OVERLOOK.jpg"
+    },
+    {
+      "identifier": "SCENE_LAURISTON_GARDENS",
+      "ordinal": 1,
+      "location_header": "INT. 3 LAURISTON GARDENS - DAY",
+      "visual_description": "A grim, unlit Victorian room stripped of furniture. Dirty floorboards are scattered with dust. A showy marble mantelpiece holds a red wax candle stump. Mildewed wallpaper peels in strips, revealing yellow plaster. A single grimy window filters dull grey light. The atmosphere is oppressive and decaying, with muted greys and sickly yellows.",
+      "metadata": {},
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_LAURISTON_GARDENS.jpg"
     },
     {
       "identifier": "SCENE_MOURNING_CHAMBER",
@@ -1289,6 +1321,22 @@
       "visual_description": "The wooden gate and fence of a prosperous frontier homestead at sunset. A sturdy log villa with multiple additions stands amidst well-tended fruit trees in the background. The warm, golden light of the setting sun bathes the scene in nostalgic amber hues, creating long, soft shadows across the grass. A peaceful, romantic Western atmosphere with rich browns and twilight purples.",
       "metadata": {},
       "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_FERRIER_FARM.jpg"
+    },
+    {
+      "identifier": "SCENE_CHEMICAL_LABORATORY",
+      "ordinal": 2,
+      "location_header": "INT. ST. BARTHOLOMEW'S LABORATORY - DAY",
+      "visual_description": "A lofty, cavernous room lined with shelves of chemical bottles. Broad, low tables are cluttered with retorts, test tubes, and Bunsen burners emitting blue flickering flames. The lighting is functional and stark, casting long shadows against whitewashed walls. An atmosphere of chaotic scientific industry.",
+      "metadata": {},
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_CHEMICAL_LABORATORY.jpg"
+    },
+    {
+      "identifier": "SCENE_FERRIER_GARDEN_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. FERRIER FARM - NIGHT",
+      "visual_description": "The exterior of a frontier log villa under a starry night sky. The house is dark, looming against the faint outline of cornfields. A dense hedge and wooden fence run through the foreground, offering patches of deep shadow. The atmosphere is suspenseful and still, with cool blues and blacks dominating the palette.",
+      "metadata": {},
+      "image_key": "publications/a5f1aa58aeafad7c72e6c8454933c39fecca2c65/scenes/scene_SCENE_FERRIER_GARDEN_NIGHT.jpg"
     },
     {
       "identifier": "SCENE_EAGLE_CANON",
