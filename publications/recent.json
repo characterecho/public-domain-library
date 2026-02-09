@@ -1,5 +1,35 @@
 [
   {
+    "publication_identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
+    "sample": false,
+    "title": "Little Women",
+    "author_names": "Louisa May Alcott",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "historical",
+      "coming_of_age"
+    ],
+    "catalog_added_at": "2026-02-05T14:42:32Z",
+    "updated_at": "2026-02-09T21:59:26Z",
+    "duration": {
+      "total_ms": 42766000,
+      "formatted": "11h 53m"
+    },
+    "cover_url": null,
+    "data_checksum": "3bda5bfe684ab6670694a9aa50ff53aff1acd82e4689d6858ff4e3ca4489d4b9",
+    "file_size": 1452268295,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
     "sample": false,
     "title": "The Adventures of Sherlock Holmes",
