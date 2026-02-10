@@ -8,7 +8,7 @@
   "identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
   "publication_type": "novel",
   "cover_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/cover.png",
-  "total_duration_s": 13271.754649,
+  "total_duration_s": 13271.650159,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -39,7 +39,7 @@
       "ordinal": 3,
       "audio_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/audio_part_3.mp3",
       "start_s": 9442.769683,
-      "end_s": 13271.754649
+      "end_s": 13271.650159
     }
   ],
   "segments": [
@@ -313,7 +313,7 @@
       "ordinal": 12,
       "title": "Chapter XII. The Strange Story of Jonathan Small.",
       "start_s": 10108.457,
-      "end_s": 13271.755,
+      "end_s": 13271.65,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -362,7 +362,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 433,
+      "dialogue_count": 434,
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WATSON.png",
       "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/WATSON.mp3"
     },
@@ -398,7 +398,7 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 273,
+      "dialogue_count": 272,
       "image_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/SHERLOCK_HOLMES.png",
       "voice_key": "publications/8cabc15458dfc6363593625b9b7fb59361fcbeaa/characters/SHERLOCK_HOLMES.mp3"
     },
