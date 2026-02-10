@@ -1,5 +1,34 @@
 [
   {
+    "publication_identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
+    "sample": false,
+    "title": "The Sign of the Four",
+    "author_names": "Arthur Conan Doyle",
+    "publication_type": "novel",
+    "genre_tags": [
+      "mystery",
+      "classics"
+    ],
+    "catalog_added_at": "2026-02-08T15:44:45Z",
+    "updated_at": "2026-02-10T17:25:00Z",
+    "duration": {
+      "total_ms": 13317000,
+      "formatted": "3h 42m"
+    },
+    "cover_url": null,
+    "data_checksum": "47018d3a1df781e9ed9f38da31cd8690a0d2a4b14e94c614267a240a6e11a89a",
+    "file_size": 377528999,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
     "sample": false,
     "title": "Little Women",
@@ -48,35 +77,6 @@
     "cover_url": null,
     "data_checksum": "9bd924502711fbae0953e91fa82c50869c75377d911ffc5a51d6ec862c4e7a2f",
     "file_size": 952052992,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ],
-    "min_app_version": "1.1.0"
-  },
-  {
-    "publication_identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
-    "sample": false,
-    "title": "The Sign of the Four",
-    "author_names": "Arthur Conan Doyle",
-    "publication_type": "novel",
-    "genre_tags": [
-      "mystery",
-      "classics"
-    ],
-    "catalog_added_at": "2026-02-08T15:44:45Z",
-    "updated_at": "2026-02-08T19:51:55Z",
-    "duration": {
-      "total_ms": 13317000,
-      "formatted": "3h 42m"
-    },
-    "cover_url": null,
-    "data_checksum": "22e37a8d872a36b8bac3fe9537c444dda902f1e908c42e8ba98a201f7a4590be",
-    "file_size": 377795664,
     "available_regions": [
       "US",
       "CA",
