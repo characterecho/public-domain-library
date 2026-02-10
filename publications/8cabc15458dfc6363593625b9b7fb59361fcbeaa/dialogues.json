@@ -15223,7 +15223,7 @@
     "audio_description": "snarling, bitter",
     "trailing_silence_s": 0.2,
     "start_s": 10278.664,
-    "end_s": 10288.783,
+    "end_s": 10288.782,
     "duration_s": 10.026667,
     "part_ordinal": 3
   },
@@ -15239,7 +15239,7 @@
     "speed": 1.0,
     "audio_description": "impassioned, angry",
     "trailing_silence_s": 0.2,
-    "start_s": 10288.783,
+    "start_s": 10288.782,
     "end_s": 10304.406,
     "duration_s": 15.634286,
     "part_ordinal": 3
@@ -16277,7 +16277,7 @@
     "audio_description": "curious",
     "trailing_silence_s": 0.3,
     "start_s": 11390.934,
-    "end_s": 11394.707,
+    "end_s": 11394.706,
     "duration_s": 3.774694,
     "part_ordinal": 3
   },
@@ -16293,7 +16293,7 @@
     "speed": 1.0,
     "audio_description": "imitating Abdullah",
     "trailing_silence_s": 0.5,
-    "start_s": 11394.707,
+    "start_s": 11394.706,
     "end_s": 11401.219,
     "duration_s": 6.517551,
     "part_ordinal": 3
@@ -16447,7 +16447,7 @@
     "audio_description": "imitating Achmet, breathless",
     "trailing_silence_s": 0.3,
     "start_s": 11522.177,
-    "end_s": 11541.586,
+    "end_s": 11541.585,
     "duration_s": 19.422041,
     "part_ordinal": 3
   },
@@ -16463,7 +16463,7 @@
     "speed": 1.0,
     "audio_description": "blunt",
     "trailing_silence_s": 0.3,
-    "start_s": 11541.586,
+    "start_s": 11541.585,
     "end_s": 11544.11,
     "duration_s": 2.526667,
     "part_ordinal": 3
@@ -16549,7 +16549,7 @@
     "audio_description": "narrative, fast",
     "trailing_silence_s": 0.3,
     "start_s": 11606.293,
-    "end_s": 11624.397,
+    "end_s": 11624.396,
     "duration_s": 18.115918,
     "part_ordinal": 3
   },
@@ -16565,7 +16565,7 @@
     "speed": 1.0,
     "audio_description": "narrative, brutal",
     "trailing_silence_s": 0.3,
-    "start_s": 11624.397,
+    "start_s": 11624.396,
     "end_s": 11641.325,
     "duration_s": 16.940408,
     "part_ordinal": 3
@@ -17909,7 +17909,7 @@
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
     "start_s": 12965.558,
-    "end_s": 12986.35,
+    "end_s": 12986.349,
     "duration_s": 20.806531,
     "part_ordinal": 3
   },
@@ -17925,7 +17925,7 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
-    "start_s": 12986.35,
+    "start_s": 12986.349,
     "end_s": 13006.332,
     "duration_s": 19.996735,
     "part_ordinal": 3
@@ -18113,7 +18113,7 @@
     "audio_description": "polite, resigned",
     "trailing_silence_s": 0.5,
     "start_s": 13147.058,
-    "end_s": 13149.144,
+    "end_s": 13149.143,
     "duration_s": 2.086667,
     "part_ordinal": 3
   },
@@ -18129,7 +18129,7 @@
     "speed": 1.0,
     "audio_description": "wary, commanding",
     "trailing_silence_s": 0.5,
-    "start_s": 13149.144,
+    "start_s": 13149.143,
     "end_s": 13157.405,
     "duration_s": 8.267755,
     "part_ordinal": 3
@@ -18154,8 +18154,8 @@
   {
     "ordinal": 1067,
     "segment_ordinal": 12,
-    "character_identifier": "SHERLOCK_HOLMES",
-    "display_name": "Holmes",
+    "character_identifier": "WATSON",
+    "display_name": "Watson",
     "scene_identifier": "BAKER_STREET_SITTING_ROOM",
     "narrative": true,
     "local_ordinal": 189,
@@ -18164,8 +18164,8 @@
     "audio_description": "narrative",
     "trailing_silence_s": 0.3,
     "start_s": 13170.776,
-    "end_s": 13172.747,
-    "duration_s": 1.972245,
+    "end_s": 13172.642,
+    "duration_s": 1.867755,
     "part_ordinal": 3
   },
   {
@@ -18180,8 +18180,8 @@
     "speed": 1.0,
     "audio_description": "dismal, blunt",
     "trailing_silence_s": 0.5,
-    "start_s": 13172.747,
-    "end_s": 13176.671,
+    "start_s": 13172.642,
+    "end_s": 13176.566,
     "duration_s": 3.926667,
     "part_ordinal": 3
   },
@@ -18197,8 +18197,8 @@
     "speed": 1.0,
     "audio_description": "narrative",
     "trailing_silence_s": 0.2,
-    "start_s": 13176.671,
-    "end_s": 13177.937,
+    "start_s": 13176.566,
+    "end_s": 13177.832,
     "duration_s": 1.266939,
     "part_ordinal": 3
   },
@@ -18214,8 +18214,8 @@
     "speed": 1.0,
     "audio_description": "hurt, defensive",
     "trailing_silence_s": 0.5,
-    "start_s": 13177.937,
-    "end_s": 13181.369,
+    "start_s": 13177.832,
+    "end_s": 13181.265,
     "duration_s": 3.435102,
     "part_ordinal": 3
   },
@@ -18231,8 +18231,8 @@
     "speed": 1.0,
     "audio_description": "rational, detached",
     "trailing_silence_s": 0.5,
-    "start_s": 13181.369,
-    "end_s": 13206.442,
+    "start_s": 13181.265,
+    "end_s": 13206.338,
     "duration_s": 25.090612,
     "part_ordinal": 3
   },
@@ -18248,8 +18248,8 @@
     "speed": 1.0,
     "audio_description": "laughing, concerned",
     "trailing_silence_s": 0.5,
-    "start_s": 13206.442,
-    "end_s": 13211.337,
+    "start_s": 13206.338,
+    "end_s": 13211.232,
     "duration_s": 4.897959,
     "part_ordinal": 3
   },
@@ -18265,8 +18265,8 @@
     "speed": 1.0,
     "audio_description": "weary, drained",
     "trailing_silence_s": 0.5,
-    "start_s": 13211.337,
-    "end_s": 13217.171,
+    "start_s": 13211.232,
+    "end_s": 13217.066,
     "duration_s": 5.838367,
     "part_ordinal": 3
   },
@@ -18282,8 +18282,8 @@
     "speed": 1.0,
     "audio_description": "reflective",
     "trailing_silence_s": 0.5,
-    "start_s": 13217.171,
-    "end_s": 13223.449,
+    "start_s": 13217.066,
+    "end_s": 13223.344,
     "duration_s": 6.282449,
     "part_ordinal": 3
   },
@@ -18299,8 +18299,8 @@
     "speed": 1.0,
     "audio_description": "thoughtful",
     "trailing_silence_s": 0.2,
-    "start_s": 13223.449,
-    "end_s": 13232.285,
+    "start_s": 13223.344,
+    "end_s": 13232.181,
     "duration_s": 8.842449,
     "part_ordinal": 3
   },
@@ -18316,8 +18316,8 @@
     "speed": 1.0,
     "audio_description": "quoting German, intellectual",
     "trailing_silence_s": 0.5,
-    "start_s": 13232.285,
-    "end_s": 13239.127,
+    "start_s": 13232.181,
+    "end_s": 13239.023,
     "duration_s": 6.846667,
     "part_ordinal": 3
   },
@@ -18333,8 +18333,8 @@
     "speed": 1.0,
     "audio_description": "casual, analytic",
     "trailing_silence_s": 0.5,
-    "start_s": 13239.127,
-    "end_s": 13254.045,
+    "start_s": 13239.023,
+    "end_s": 13253.941,
     "duration_s": 14.92898,
     "part_ordinal": 3
   },
@@ -18350,8 +18350,8 @@
     "speed": 1.0,
     "audio_description": "sympathetic",
     "trailing_silence_s": 0.5,
-    "start_s": 13254.045,
-    "end_s": 13262.725,
+    "start_s": 13253.941,
+    "end_s": 13262.62,
     "duration_s": 8.685714,
     "part_ordinal": 3
   },
@@ -18367,8 +18367,8 @@
     "speed": 1.0,
     "audio_description": "resigned, quiet",
     "trailing_silence_s": 0.5,
-    "start_s": 13262.725,
-    "end_s": 13265.49,
+    "start_s": 13262.62,
+    "end_s": 13265.385,
     "duration_s": 2.766667,
     "part_ordinal": 3
   },
@@ -18384,8 +18384,8 @@
     "speed": 1.0,
     "audio_description": "narrative, concluding",
     "trailing_silence_s": 1.0,
-    "start_s": 13265.49,
-    "end_s": 13268.479,
+    "start_s": 13265.385,
+    "end_s": 13268.374,
     "duration_s": 2.99102,
     "part_ordinal": 3
   },
@@ -18401,8 +18401,8 @@
     "speed": 1.0,
     "audio_description": "",
     "trailing_silence_s": 2.0,
-    "start_s": 13268.479,
-    "end_s": 13271.755,
+    "start_s": 13268.374,
+    "end_s": 13271.65,
     "duration_s": 3.278367,
     "title": true,
     "part_ordinal": 3
