@@ -1,5 +1,35 @@
 [
   {
+    "publication_identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
+    "sample": false,
+    "title": "Little Women",
+    "author_names": "Louisa May Alcott",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "historical",
+      "coming_of_age"
+    ],
+    "catalog_added_at": "2026-02-05T14:42:32Z",
+    "updated_at": "2026-02-10T20:21:01Z",
+    "duration": {
+      "total_ms": 42766000,
+      "formatted": "11h 53m"
+    },
+    "cover_url": null,
+    "data_checksum": "10ce3883b82ec28773710d5537e6d6d93749088e9a8f6850eaabf4e88f2c62c9",
+    "file_size": 1276539268,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "8cabc15458dfc6363593625b9b7fb59361fcbeaa",
     "sample": false,
     "title": "The Sign of the Four",
@@ -18,36 +48,6 @@
     "cover_url": null,
     "data_checksum": "e01dab0239b7dce6aba6933ba139280b09bbee38429cccaffac4c6076b2a5bf2",
     "file_size": 377527252,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ],
-    "min_app_version": "1.1.0"
-  },
-  {
-    "publication_identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
-    "sample": false,
-    "title": "Little Women",
-    "author_names": "Louisa May Alcott",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "historical",
-      "coming_of_age"
-    ],
-    "catalog_added_at": "2026-02-05T14:42:32Z",
-    "updated_at": "2026-02-10T01:06:59Z",
-    "duration": {
-      "total_ms": 42766000,
-      "formatted": "11h 53m"
-    },
-    "cover_url": null,
-    "data_checksum": "2dab186aad83f7fd1a04fecc28ba918546679f3217f57f6ca358f0e1387de9ff",
-    "file_size": 1452576678,
     "available_regions": [
       "US",
       "CA",
