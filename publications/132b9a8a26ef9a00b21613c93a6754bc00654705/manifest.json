@@ -1,0 +1,4465 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "Little Women",
+  "author_names": "Louisa May Alcott",
+  "description": "Publication imported from https://gutenberg.org/ebooks/37106.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/37106.epub3.images",
+  "identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
+  "publication_type": "novel",
+  "cover_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/cover.png",
+  "total_duration_s": 42665.937688000005,
+  "genre_tags": [
+    "Classics",
+    "Historical Fiction",
+    "Coming of Age",
+    "Family Life",
+    "Civil War Era"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3590.471361
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_1.mp3",
+      "start_s": 3590.471361,
+      "end_s": 6682.468253999999
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_2.mp3",
+      "start_s": 6682.468253999999,
+      "end_s": 9979.331361
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_3.mp3",
+      "start_s": 9979.331361,
+      "end_s": 13329.918096000001
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_4.mp3",
+      "start_s": 13329.918096000001,
+      "end_s": 16263.156803000002
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_5.mp3",
+      "start_s": 16263.156803000002,
+      "end_s": 19519.331746000003
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_6.mp3",
+      "start_s": 19519.331746000003,
+      "end_s": 22522.250862000004
+    },
+    {
+      "ordinal": 7,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_7.mp3",
+      "start_s": 22522.250862000004,
+      "end_s": 25820.752200000003
+    },
+    {
+      "ordinal": 8,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_8.mp3",
+      "start_s": 25820.752200000003,
+      "end_s": 28078.577325000002
+    },
+    {
+      "ordinal": 9,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_9.mp3",
+      "start_s": 28078.577325000002,
+      "end_s": 31660.115035000003
+    },
+    {
+      "ordinal": 10,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_10.mp3",
+      "start_s": 31660.115035000003,
+      "end_s": 34331.920182
+    },
+    {
+      "ordinal": 11,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_11.mp3",
+      "start_s": 34331.920182,
+      "end_s": 37884.574309
+    },
+    {
+      "ordinal": 12,
+      "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_12.mp3",
+      "start_s": 37884.574309,
+      "end_s": 42665.937688000005
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.781,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "I. Playing Pilgrims.",
+      "start_s": 6.781,
+      "end_s": 904.492,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - TWILIGHT",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "II. A Merry Christmas.",
+      "start_s": 904.492,
+      "end_s": 1511.886,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. BEDROOM - DAWN",
+            "visual_description": "An attic-like bedroom in the early gray dawn of winter. Two beds with colorful quilts, a washstand, and simple furnishings. The morning light is just beginning to creep in, touching the frosty windows."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. PARLOR - MORNING",
+            "visual_description": "The comfortable parlor in bright winter morning light. The breakfast table is set with simple fare. Gifts are hidden under the sofa. The room is festive with homemade decorations and evergreen branches."
+          },
+          {
+            "identifier": "HUMMEL_ROOM",
+            "location_header": "INT. TENEMENT ROOM - DAY",
+            "visual_description": "A bare, miserable tenement room. Broken windows stuffed with rags, a cold hearth, and ragged bedclothes. The air is frigid and the atmosphere is one of stark poverty and desperation, contrasting with the warmth of the March home."
+          },
+          {
+            "identifier": "PLAY_SCENE",
+            "location_header": "INT. BEDROOM THEATRE - NIGHT",
+            "visual_description": "The March bedroom converted into a makeshift theatre. Sheets divide the stage from the 'dress-circle' on the bed. Props and costumes are scattered about. A clothes-horse forms a cave, and a small furnace glows with dramatic effect."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "III. The Laurence Boy.",
+      "start_s": 1511.886,
+      "end_s": 2621.388,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - DAY",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams. A sunny window seat is piled with cushions and an old three-legged sofa. Dust motes dance in the shaft of light. A few russet apples and books are scattered about. Cozy, secluded, and worn."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. BEDROOM - DAWN",
+            "visual_description": "An attic-like bedroom in the early gray dawn of winter. Two beds with colorful quilts, a washstand, and simple furnishings. The morning light is just beginning to creep in, touching the frosty windows."
+          },
+          {
+            "identifier": "GARDINER_BALLROOM",
+            "location_header": "INT. GARDINER BALLROOM - NIGHT",
+            "visual_description": "A festive Victorian ballroom filled with light and music. Polished wood floors reflect the gaslight from crystal chandeliers. Garlands of holly and crimson berries adorn the walls. A curtained recess with red velvet drapes offers a secluded nook off the main dance floor."
+          },
+          {
+            "identifier": "GARDINER_SIDE_ROOM",
+            "location_header": "INT. GARDINER SIDE ROOM - NIGHT",
+            "visual_description": "A quiet, dimly lit ante-room away from the party noise. A plush velvet sofa sits against the wall. A door to a china closet stands ajar. The atmosphere is hushed and private, contrasting with the distant music."
+          },
+          {
+            "identifier": "CARRIAGE_INTERIOR",
+            "location_header": "INT. CARRIAGE - NIGHT",
+            "visual_description": "The interior of a luxurious Victorian closed carriage. Plush velvet seats, a small lantern casting a warm, swaying light. Rain streaks the glass windows, blurring the passing gaslights outside. Intimate and comfortable."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "IV. Burdens.",
+      "start_s": 2621.388,
+      "end_s": 3590.471,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "EXT_STREET_WINTER",
+            "location_header": "EXT. STREET - DAY",
+            "visual_description": "A New England village street on a bitter winter morning. Snow piled high in drifts along the fences. Gray sky hangs low overhead, promising more snow. The wind whips down the unpaved road, rattling the bare branches of elm trees."
+          },
+          {
+            "identifier": "AUNT_MARCH_LIBRARY",
+            "location_header": "INT. LIBRARY - DAY",
+            "visual_description": "A grand but dusty library in a wealthy Victorian home. Tall mahogany bookcases filled with leather-bound volumes line the walls. Marble busts stare down from above. A large, velvet easy-chair sits in a quiet corner, surrounded by globes and piles of books. The atmosphere is silent, scholarly, and slightly imposing."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. BEDROOM - DAY",
+            "visual_description": "An attic-like bedroom in the bright light of day. Two beds with colorful quilts. A collection of old dolls, some bandaged or missing limbs, are arranged with tender care in a makeshift hospital corner. Simple, neat, and full of childish affection."
+          },
+          {
+            "identifier": "SCHOOL_ROOM",
+            "location_header": "INT. SCHOOLROOM - DAY",
+            "visual_description": "A strict 19th-century schoolroom. Rows of wooden desks with inkwells. A blackboard with sums and maps. A large stove in the corner provides heat. The atmosphere is disciplined but busy with students."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "V. Being Neighborly.",
+      "start_s": 3590.471,
+      "end_s": 4954.381,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "EXT_MARCH_GARDEN",
+            "location_header": "EXT. GARDEN - DAY",
+            "visual_description": "A winter garden landscape covered in fresh snow. A low hedge separates a modest wooden house from a stately stone mansion next door. Bare trees and bushes are coated in white. The sky is gray and heavy. Footprints and shoveled paths cut through the pristine snow."
+          },
+          {
+            "identifier": "LAURENCE_PARLOR",
+            "location_header": "INT. LAURENCE PARLOR - DAY",
+            "visual_description": "A cozy, masculine sitting room on the upper floor of a Victorian mansion. Dark wood paneling, a velvet sofa, and shelves of books. A fireplace with a small fire. Medicines and books clutter the tables. A large window overlooks the snowy garden."
+          },
+          {
+            "identifier": "LAURENCE_LIBRARY",
+            "location_header": "INT. LIBRARY - DAY",
+            "visual_description": "A grand Victorian library lined with floor-to-ceiling mahogany bookshelves. Bronze busts and statues sit atop cabinets. A large open fireplace with quaint tiles dominates one wall. Deep velvet 'sleepy-hollow' chairs and curio cabinets filled with coins. Rich, scholarly atmosphere."
+          },
+          {
+            "identifier": "LAURENCE_HALL",
+            "location_header": "INT. HALLWAY - DAY",
+            "visual_description": "A grand Victorian hallway with a sweeping staircase and polished wood floors. Oil portraits of ancestors line the walls. A tall grandfather clock stands sentinel. The space is echoing and impressive, lit by gas sconces."
+          },
+          {
+            "identifier": "LAURENCE_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "A formal Victorian dining room. A long mahogany table set with fine china and silver service. Heavy draperies frame tall windows. The room is imposing but warmed by the smell of tea and toast."
+          },
+          {
+            "identifier": "LAURENCE_CONSERVATORY",
+            "location_header": "INT. CONSERVATORY - NIGHT",
+            "visual_description": "A lush, glass-enclosed Victorian conservatory filled with tropical plants. Tall palms and blooming flowers line the tiled walkways. Gas lamps cast a soft, warm glow on the greenery, contrasting with the dark winter night outside."
+          },
+          {
+            "identifier": "LAURENCE_DRAWING_ROOM",
+            "location_header": "INT. DRAWING ROOM - NIGHT",
+            "visual_description": "A cavernous, elegant drawing room. A grand piano stands open near the fireplace. Heavy velvet drapes, crystal chandeliers, and oil portraits in gilded frames. The room is imposing but warmed by the fire and the presence of music."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "VI. Beth finds the Palace Beautiful.",
+      "start_s": 4954.381,
+      "end_s": 5822.819,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LAURENCE_DRAWING_ROOM",
+            "location_header": "INT. DRAWING ROOM - DAY",
+            "visual_description": "A cavernous, elegant drawing room. A grand piano stands open near the fireplace. Heavy velvet drapes, crystal chandeliers, and oil portraits in gilded frames. The room is imposing but warmed by the fire and the presence of music."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "LAURENCE_STUDY",
+            "location_header": "INT. STUDY - DAY",
+            "visual_description": "A private, somewhat austere study. A large desk covered in papers, a leather armchair, and a wall of reference books. Serious and quiet, the retreat of an old scholar."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "VII. Amy's Valley of Humiliation.",
+      "start_s": 5822.819,
+      "end_s": 6682.468,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "SCHOOL_ROOM",
+            "location_header": "INT. SCHOOLROOM - DAY",
+            "visual_description": "A strict 19th-century schoolroom. Rows of wooden desks with inkwells. A blackboard with sums and maps. A large stove in the corner provides heat. The atmosphere is disciplined but busy with students."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "VIII. Jo Meets Apollyon.",
+      "start_s": 6682.468,
+      "end_s": 7740.834,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "THEATER_INTERIOR",
+            "location_header": "INT. THEATER - DAY",
+            "visual_description": "Interior of a 19th-century theater during a matinee performance. A brightly lit stage features a fairy-tale set with painted castles and sparkling props. Red velvet curtains frame the proscenium. The view is from the audience seating, looking past the heads of spectators towards the magical spectacle on stage. Warm gaslight and theatrical atmosphere."
+          },
+          {
+            "identifier": "EXT_RIVER_WINTER",
+            "location_header": "EXT. RIVER - DAY",
+            "visual_description": "A frozen river landscape in late afternoon winter light. A sweeping bend of ice winds between snow-covered banks. Bare trees line the shore, their branches dark against a gray, heavy sky. In the center of the river, the ice looks darker and treacherous. A fence rail lies near the snowy bank. Cold, dangerous, and stark."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "IX. Meg goes to Vanity Fair.",
+      "start_s": 7740.834,
+      "end_s": 8887.112,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MOFFAT_DRAWING_ROOM",
+            "location_header": "INT. MOFFAT DRAWING ROOM - DAY",
+            "visual_description": "A lavish Victorian drawing room showcasing considerable wealth. Overstuffed furniture upholstered in silk, heavy gilded mirrors, and thick carpets. Tables are cluttered with expensive knick-knacks and vases. The atmosphere is opulent but perhaps slightly ostentatious compared to the March home. Large windows with heavy draperies."
+          },
+          {
+            "identifier": "MOFFAT_BALLROOM",
+            "location_header": "INT. BALLROOM - NIGHT",
+            "visual_description": "A grand ballroom in a wealthy home, prepared for a party. Crystal chandeliers blaze with light, reflecting on the polished wooden floor. Groups of well-dressed young people in bright silks and tarlatans mingle. Festive and airy, with music implied by the setting."
+          },
+          {
+            "identifier": "MOFFAT_CONSERVATORY",
+            "location_header": "INT. CONSERVATORY - NIGHT",
+            "visual_description": "A glass-walled conservatory adjacent to the ballroom. Tall tropical plants and ferns create green privacy screens. Gas lamps cast soft, leafy shadows. A bench or seat is tucked behind a wall of flowers, offering a hiding place. The air is warm and humid."
+          },
+          {
+            "identifier": "MOFFAT_BOUDOIR",
+            "location_header": "INT. BOUDOIR - EVENING",
+            "visual_description": "A young lady's luxurious bedroom and dressing area. A large vanity table with a mirror is covered in powders, perfumes, and jewelry boxes. Dresses are laid out on a bed. The room is feminine, cluttered with finery, and lit by bright lamps for dressing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "X. The P. C. and P. O.",
+      "start_s": 8887.112,
+      "end_s": 9052.792,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_MARCH_GARDEN",
+            "location_header": "EXT. MARCH GARDEN - DAY",
+            "visual_description": "A large, rambling garden in spring. Divided into four distinct plots: one with roses and heliotrope, one chaotic with sunflowers, one with old-fashioned fragrant herbs and sweet peas, and a bower with honeysuckles and morning-glories. Fresh green growth everywhere under a bright spring sky."
+          },
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - EVENING",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams. A sunny window seat is piled with cushions. Three chairs are arranged in a row before a table with a lamp and badges. Dust motes dance in the shaft of light. Cozy, secluded, and worn."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "XI. Experiments.",
+      "start_s": 9052.792,
+      "end_s": 9979.331,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_KITCHEN",
+            "location_header": "INT. KITCHEN - DAY",
+            "visual_description": "A large, rustic Victorian kitchen with a cast-iron stove and wooden worktables. Copper pots hang from the ceiling. A pantry door stands open. The room is messy, with flour dusting the surfaces and piles of unwashed dishes. Morning light streams through a window."
+          },
+          {
+            "identifier": "MARCH_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "A sunny Victorian dining room. A mahogany table is set for a dinner party with china and glass. Tall windows overlook the garden. The atmosphere is bright but slightly tense. A sideboard holds serving dishes."
+          },
+          {
+            "identifier": "EXT_MARCH_PORCH",
+            "location_header": "EXT. PORCH - TWILIGHT",
+            "visual_description": "A wooden porch of a Victorian house at twilight. Climbing roses in full bloom frame the pillars. Wicker chairs are arranged in a circle. The light is soft, blue, and dimming, creating a peaceful, intimate atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "XII. Camp Laurence",
+      "start_s": 9979.331,
+      "end_s": 12240.754,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor. A large fireplace with a mantle. Faded carpet and plain furniture. A sewing table with a basket of white rolls. Marmee's corner has a vase for flowers. Warm, lived-in atmosphere."
+          },
+          {
+            "identifier": "MARCH_STUDY",
+            "location_header": "INT. MARCH STUDY - DAY",
+            "visual_description": "A small, cluttered study or writing corner. A bust of Plato with an old hat on it. Piles of manuscripts, inkstained desk. Cozy but messy. Quiet atmosphere suitable for writing."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - MORNING",
+            "visual_description": "An attic-like bedroom in the bright light of a summer morning. Two beds with colorful quilts. A window overlooks the garden and neighboring house. Simple, neat, and full of girlish preparations."
+          },
+          {
+            "identifier": "EXT_LAURENCE_LAWN",
+            "location_header": "EXT. LAURENCE LAWN - MORNING",
+            "visual_description": "A manicured Victorian lawn in summer. A grand house in the background. A carriage stands in the drive. Green grass and garden beds. Bright morning sunshine."
+          },
+          {
+            "identifier": "EXT_RIVER_SUMMER",
+            "location_header": "EXT. RIVER - DAY",
+            "visual_description": "A sparkling river in summer sun. Green banks lined with willows and reeds. Rowboats sit on the water. Blue sky reflected in the surface. Peaceful and bright."
+          },
+          {
+            "identifier": "EXT_LONGMEADOW",
+            "location_header": "EXT. LONGMEADOW - DAY",
+            "visual_description": "A sunny green meadow by the river. Three large oaks provide shade. A white canvas tent is pitched. Croquet wickets dot the grass. Summer afternoon light. A picnic spread on the ground."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "XIII. Castles in the Air.",
+      "start_s": 12240.754,
+      "end_s": 13329.918,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LAURENCE_GARDEN",
+            "location_header": "EXT. LAURENCE GARDEN - AFTERNOON",
+            "visual_description": "A lush Victorian garden on a warm September afternoon. A hammock is strung between horse-chestnut trees in green gloom. A fence separates this garden from the neighboring yard. Peaceful and drowsy."
+          },
+          {
+            "identifier": "EXT_PINE_GROVE",
+            "location_header": "EXT. PINE GROVE - AFTERNOON",
+            "visual_description": "A secluded pine grove on a hilltop. Golden September light filtering through branches. Views of a distant river and city spires. Brown pine needles cover the ground. Ferns and birches add texture. Sunset colors beginning to show."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "XIV. Secrets.",
+      "start_s": 13329.918,
+      "end_s": 14079.076,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - DAY",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams. A sunny window seat is piled with cushions and an old three-legged sofa. Dust motes dance in the shaft of light. A few russet apples and books are scattered about. Cozy, secluded, and worn."
+          },
+          {
+            "identifier": "EXT_CITY_STREET_AUTUMN",
+            "location_header": "EXT. CITY STREET - DAY",
+            "visual_description": "A busy 1860s city street in October. Red brick buildings and cobblestones. A dentist's sign with large artificial jaws hangs near a doorway. Autumn leaves swirl on the pavement among pedestrians and carriages. Overcast but bright."
+          },
+          {
+            "identifier": "EXT_ROAD_AUTUMN",
+            "location_header": "EXT. COUNTRY ROAD - DAY",
+            "visual_description": "A smooth country road winding through hills in late afternoon October light. A stone wall runs alongside. A large maple tree sheds crimson leaves onto the grassy bank. Rolling hills in the distance. Rural and peaceful."
+          },
+          {
+            "identifier": "EXT_MARCH_GARDEN",
+            "location_header": "EXT. MARCH GARDEN - DAY",
+            "visual_description": "A large, rambling garden in autumn. Sunflowers have gone to seed, and the garden beds are covered in fallen leaves. The bower is brown and withered. A chill wind blows through the bare branches. Late afternoon light."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Books scattered about. A cozy, lived-in atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "XV. A Telegram.",
+      "start_s": 14079.076,
+      "end_s": 14754.705,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in November. A large fireplace with a fire implied but not enough to dispel the dullness. Plain furniture. A work-basket on the table. The garden outside is frost-bitten and gray. Atmosphere of quiet boredom before the storm."
+          },
+          {
+            "identifier": "MARCH_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - EVENING",
+            "visual_description": "A sunny Victorian dining room in evening light. A mahogany table is set for supper. Tall windows overlook the darkening garden. The atmosphere is tense but communal. A sideboard holds serving dishes."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - NIGHT",
+            "visual_description": "An attic-like bedroom at night. Two beds with colorful quilts. A collection of old dolls in a corner. Lit by a lamp or moonlight. Quiet, intimate atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "XVI. Letters.",
+      "start_s": 14754.705,
+      "end_s": 15527.219,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAWN",
+            "visual_description": "A sunny Victorian dining room in the cold gray dawn. A trunk stands in the hall. Mother's cloak and bonnet are on the sofa. The atmosphere is hushed and tense with suppressed emotion. Early morning light."
+          },
+          {
+            "identifier": "EXT_MARCH_PORCH",
+            "location_header": "EXT. MARCH PORCH - MORNING",
+            "visual_description": "A wooden porch of a Victorian house in early morning. A carriage waits at the gate. The sun is just breaking through clouds. A group stands waving. Bittersweet atmosphere."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Books scattered about. A cozy, lived-in atmosphere."
+          },
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - DAY",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams. A sunny window seat is piled with cushions and an old three-legged sofa. Dust motes dance in the shaft of light. A few russet apples and books are scattered about. Cozy, secluded, and worn."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - DAY",
+            "visual_description": "An attic-like bedroom in the bright light of day. Two beds with colorful quilts. A collection of old dolls, some bandaged or missing limbs, are arranged with tender care in a makeshift hospital corner. Simple, neat, and full of childish affection."
+          },
+          {
+            "identifier": "MARCH_KITCHEN",
+            "location_header": "INT. KITCHEN - DAY",
+            "visual_description": "A large, rustic Victorian kitchen with a cast-iron stove and wooden worktables. Copper pots hang from the ceiling. A pantry door stands open. The room is messy, with flour dusting the surfaces and piles of unwashed dishes. Morning light streams through a window."
+          },
+          {
+            "identifier": "LAURENCE_STUDY",
+            "location_header": "INT. LAURENCE STUDY - DAY",
+            "visual_description": "A private, somewhat austere study. A large desk covered in papers, a leather armchair, and a wall of reference books. Serious and quiet, the retreat of an old scholar."
+          },
+          {
+            "identifier": "LAURENCE_LIBRARY",
+            "location_header": "INT. LAURENCE LIBRARY - DAY",
+            "visual_description": "A grand Victorian library lined with floor-to-ceiling mahogany bookshelves. Bronze busts and statues sit atop cabinets. A large open fireplace with quaint tiles dominates one wall. Deep velvet 'sleepy-hollow' chairs and curio cabinets filled with coins. Rich, scholarly atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "XVII. Little Faithful.",
+      "start_s": 15527.219,
+      "end_s": 16263.157,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "MARCH_PARENTS_ROOM",
+            "location_header": "INT. MOTHER'S ROOM - DAY",
+            "visual_description": "A large, quiet master bedroom in a Victorian home. A four-poster bed with heavy curtains stands in the corner. A well-worn easy chair sits near a medicine chest. The atmosphere is dim and hushed, lit only by the grey winter light from the window."
+          },
+          {
+            "identifier": "AUNT_MARCH_PARLOR",
+            "location_header": "INT. AUNT MARCH'S PARLOR - DAY",
+            "visual_description": "A stiff, formal Victorian parlor filled with old-fashioned furniture. Chairs with claw legs and elaborate carving are arranged precisely. A large parrot cage stands near the window. The room is spotless, dustless, and imposing, with heavy draperies blocking much of the light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "XVIII. Dark Days.",
+      "start_s": 16263.157,
+      "end_s": 17209.634,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARENTS_ROOM",
+            "location_header": "INT. SICK ROOM - DAY",
+            "visual_description": "A large, quiet master bedroom in a Victorian home. A four-poster bed with heavy curtains stands in the corner. A well-worn easy chair sits near a medicine chest. The atmosphere is dim and hushed, lit only by the grey winter light from the window."
+          },
+          {
+            "identifier": "MARCH_HALLWAY",
+            "location_header": "INT. MARCH HALLWAY - DAY",
+            "visual_description": "A simple Victorian entry hall. A staircase with polished banisters leads up. A hall tree holds coats and hats. A single chair sits near the door. Winter light filters through the transom window, but the space is cool and drafty."
+          },
+          {
+            "identifier": "MARCH_KITCHEN",
+            "location_header": "INT. KITCHEN - DAY",
+            "visual_description": "A large, rustic Victorian kitchen with a cast-iron stove and wooden worktables. Copper pots hang from the ceiling. A pantry door stands open. The room is messy, with flour dusting the surfaces and piles of unwashed dishes. Morning light streams through a window."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "XIX. Amy's Will.",
+      "start_s": 17209.634,
+      "end_s": 17859.63,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "AUNT_MARCH_PARLOR",
+            "location_header": "INT. AUNT MARCH'S PARLOR - DAY",
+            "visual_description": "A stiff, formal Victorian parlor filled with old-fashioned furniture. Chairs with claw legs and elaborate carving are arranged precisely. A large Indian cabinet filled with curios stands in the room. The room is spotless, dustless, and imposing, with heavy draperies blocking much of the light."
+          },
+          {
+            "identifier": "AUNT_MARCH_CHAPEL",
+            "location_header": "INT. CHAPEL - DAY",
+            "visual_description": "A small, quiet closet or dressing-room converted into a private chapel. A little table acts as an altar with a vase of flowers and a religious picture. A footstool is placed for prayer. The atmosphere is dim, intimate, and peaceful."
+          },
+          {
+            "identifier": "AUNT_MARCH_SPARE_ROOM",
+            "location_header": "INT. SPARE ROOM - DAY",
+            "visual_description": "A large, seldom-used guest chamber in a grand house. A massive wardrobe stands open, revealing old-fashioned brocades and costumes. A long mirror reflects the play of dress-up. The room is dusty but filled with the magic of old clothes."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "XX. Confidential.",
+      "start_s": 17859.63,
+      "end_s": 18671.284,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARENTS_ROOM",
+            "location_header": "INT. SICK ROOM - DAY",
+            "visual_description": "A large, quiet master bedroom in a Victorian home. A four-poster bed with heavy curtains stands in the corner. A well-worn easy chair sits near a medicine chest. The atmosphere is dim and hushed, lit only by the grey winter light from the window."
+          },
+          {
+            "identifier": "AUNT_MARCH_CHAPEL",
+            "location_header": "INT. CHAPEL - DAY",
+            "visual_description": "A small, quiet closet or dressing-room converted into a private chapel. A little table acts as an altar with a vase of flowers and a religious picture. A footstool is placed for prayer. The atmosphere is dim, intimate, and peaceful."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 21,
+      "title": "XXI. Laurie makes Mischief, and Jo makes Peace.",
+      "start_s": 18671.284,
+      "end_s": 19519.332,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "LAURENCE_BOYS_STUDY",
+            "location_header": "INT. LAURIE'S STUDY - DAY",
+            "visual_description": "A young gentleman's study, messy and boyish. A desk is cluttered with books, papers, and a railroad map. Comfortable chairs are scattered about. A window overlooks the neighboring house. The room reflects a restless, energetic spirit."
+          },
+          {
+            "identifier": "LAURENCE_LIBRARY",
+            "location_header": "INT. LAURENCE LIBRARY - DAY",
+            "visual_description": "A grand Victorian library lined with floor-to-ceiling mahogany bookshelves. Bronze busts and statues sit atop cabinets. A large open fireplace with quaint tiles dominates one wall. Deep velvet 'sleepy-hollow' chairs and curio cabinets filled with coins. Rich, scholarly atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 22,
+      "title": "XXII. Pleasant Meadows.",
+      "start_s": 19519.332,
+      "end_s": 20093.849,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          },
+          {
+            "identifier": "MARCH_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "A sunny Victorian dining room. A mahogany table is set for a dinner party with china and glass. Tall windows overlook the garden. The atmosphere is bright but slightly tense. A sideboard holds serving dishes."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 23,
+      "title": "XXIII. Aunt March settles the Question.",
+      "start_s": 20093.849,
+      "end_s": 21161.394,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor in winter twilight. A large fireplace with a crackling fire casts warm orange glow on faded carpet and plain furniture. Chrysanthemums bloom in the windows against the falling snow outside. A cozy, lived-in atmosphere with knitting baskets and books scattered about."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 24,
+      "title": "XXIV. Gossip.",
+      "start_s": 21161.394,
+      "end_s": 21754.95,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DOVE_COTE_INTERIOR",
+            "location_header": "INT. DOVE COTE - DAY",
+            "visual_description": "A tiny, charming cottage interior in June. Simple but tasteful furnishings. A small parlor with books, pictures, and a flower stand. A neat kitchen visible with polished pans. The house is small and narrow but filled with loving touches and gifts. Bright summer light streams through muslin curtains."
+          },
+          {
+            "identifier": "EXT_SUBURBAN_LANE_SUMMER",
+            "location_header": "EXT. LANE - LATE AFTERNOON",
+            "visual_description": "A quiet suburban lane in June late afternoon. Green trees line the road. Low fences separate gardens from the unpaved path. The light is golden and warm, casting long shadows. A peaceful, leafy atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 25,
+      "title": "XXV. The First Wedding.",
+      "start_s": 21754.95,
+      "end_s": 22522.251,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - DAY",
+            "visual_description": "An attic-like bedroom in the bright light of a June morning. Two beds with colorful quilts. A collection of old dolls arranged with tender care in a makeshift hospital corner. Simple, neat, and full of childish affection. Sunlight streams in, illuminating fresh roses and the simple wedding preparations."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable mid-19th century American parlor dressed for a wedding. Garlands of flowers and green boughs decorate the walls. A large fireplace with a screen stands ready. The furniture is pushed back to create space. The atmosphere is festive, crowded, and warm with family affection. Sunshine filters through chrysanthemum-filled windows."
+          },
+          {
+            "identifier": "EXT_MARCH_GARDEN",
+            "location_header": "EXT. MARCH GARDEN - DAY",
+            "visual_description": "A large, rambling garden in June. Divided into distinct plots with roses, sunflowers, and herbs. A green arch is set up for the ceremony. A grass-plot is prepared for dancing. Fresh green growth everywhere under a bright summer sky. A table is set with cake and fruit under the trees."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 26,
+      "title": "XXVI. Artistic Attempts.",
+      "start_s": 22522.251,
+      "end_s": 23129.354,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - DAY",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams, serving as an art studio. A sunny window seat is piled with cushions. The room is scattered with art supplies: paints, charcoal, clay, and half-finished sketches pinned to the walls. Dust motes dance in shafts of light. Creative clutter everywhere."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable but worn mid-19th century American parlor. A large fireplace with a crackling fire casts warm light on faded carpet and plain furniture. Books and sewing baskets are scattered about. A cozy, lived-in atmosphere."
+          },
+          {
+            "identifier": "INT_OMNIBUS",
+            "location_header": "INT. OMNIBUS - DAY",
+            "visual_description": "Interior of a horse-drawn omnibus in the 1860s. Narrow wooden benches, straw on the floor, and rattling glass windows. Viewed from inside with passengers. Dusty, utilitarian public transport atmosphere with light flickering as it moves through town."
+          },
+          {
+            "identifier": "MARCH_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "A sunny Victorian dining room. A mahogany table is set for a meal. Tall windows overlook the garden. The atmosphere is bright but slightly tense. A sideboard holds serving dishes."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 27,
+      "title": "XXVII. Literary Lessons.",
+      "start_s": 23129.354,
+      "end_s": 23554.855,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - DAY",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams, serving as a writer's sanctum. A sunny window seat is piled with cushions. An old tin-kitchen is used as a manuscript safe. The room is quiet, dusty, and secluded, filled with the scratching sound of a pen. The red bow on Jo's cap is the only bright spot of color."
+          },
+          {
+            "identifier": "INT_LECTURE_HALL",
+            "location_header": "INT. LECTURE HALL - NIGHT",
+            "visual_description": "A public lecture hall, 1860s. Rows of wooden benches filled with a diverse audience of matrons, lovers, and workers. A platform with a speaker's lectern stands at the front. Gas lighting casts a yellowish glow. The atmosphere is somewhat stuffy and crowded, filled with the drone of a lecture."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable mid-19th century American parlor. A large fireplace with a crackling fire casts warm light on faded carpet and plain furniture. Books and sewing baskets are scattered about. The family gathers here for councils and news. A cozy, lived-in atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 28,
+      "title": "XXVIII. Domestic Experiences.",
+      "start_s": 23554.855,
+      "end_s": 24371.792,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DOVE_COTE_INTERIOR",
+            "location_header": "INT. DOVE COTE - DAY",
+            "visual_description": "A tiny, charming cottage interior. Simple but tasteful furnishings. A small parlor with books, pictures, and a flower stand. A neat kitchen visible with polished pans. The house is small and narrow but filled with loving touches and gifts. Bright summer light streams through muslin curtains."
+          },
+          {
+            "identifier": "DOVE_COTE_KITCHEN",
+            "location_header": "INT. KITCHEN - DAY",
+            "visual_description": "A small Victorian cottage kitchen in a state of chaotic disarray. Sticky pots of red jelly bubble on the cast-iron stove, some boiling over. Sugar stains the floor. Unwashed bowls and spoons clutter the table. The room is stiflingly hot and filled with steam and the smell of burnt sugar."
+          },
+          {
+            "identifier": "EXT_DOVE_COTE_GARDEN",
+            "location_header": "EXT. COTTAGE GARDEN - DAY",
+            "visual_description": "A small, modest garden attached to a cottage. Currant bushes line the fence. A few vegetables and flowers struggle for space. The late afternoon sun casts long shadows. A sense of quiet solitude, broken only by the buzzing of insects."
+          },
+          {
+            "identifier": "DOVE_COTE_PARLOR",
+            "location_header": "INT. PARLOR - EVENING",
+            "visual_description": "The small parlor of the Dove Cote, now tidy but tense. A sofa and simple chairs are arranged near the window. The evening light is fading into twilight, casting cool blue shadows. A sewing basket sits on a table. The atmosphere is strained and silent."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 29,
+      "title": "XXIX. Calls.",
+      "start_s": 24371.792,
+      "end_s": 25820.752,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - DAY",
+            "visual_description": "An attic-like bedroom in the bright light of a July day. Two beds with colorful quilts. Dresses and sewing materials are scattered about, indicating a dressmaking session. Sunlight streams in, illuminating the simple but cozy space."
+          },
+          {
+            "identifier": "EXT_SUBURBAN_LANE_SUMMER",
+            "location_header": "EXT. LANE - DAY",
+            "visual_description": "A quiet suburban lane in July. Green trees line the road, their leaves heavy with summer dust. Low fences separate gardens from the unpaved path. The light is bright and warm. A peaceful, leafy atmosphere."
+          },
+          {
+            "identifier": "CHESTER_DRAWING_ROOM",
+            "location_header": "INT. CHESTER DRAWING ROOM - DAY",
+            "visual_description": "A formal, elegant drawing room in a wealthy home. Stiff furniture is arranged precisely. The atmosphere is cool and slightly haughty. Hints of expensive taste and fashionable decor."
+          },
+          {
+            "identifier": "LAMB_DRAWING_ROOM",
+            "location_header": "INT. LAMB DRAWING ROOM - DAY",
+            "visual_description": "A lively, comfortable drawing room filled with people. The furniture is less formal, encouraging conversation. The room feels warm and social, with a buzz of activity."
+          },
+          {
+            "identifier": "EXT_THIRD_HOUSE_GARDEN",
+            "location_header": "EXT. GARDEN - DAY",
+            "visual_description": "A pleasant garden with a grassy lawn. A large tree offers shade where boys are encamped. A dirty-footed dog runs about. The atmosphere is casual, noisy, and fun."
+          },
+          {
+            "identifier": "AUNT_MARCH_PARLOR",
+            "location_header": "INT. AUNT MARCH'S PARLOR - DAY",
+            "visual_description": "A stiff, formal Victorian parlor filled with old-fashioned furniture. Chairs with claw legs and elaborate carving are arranged precisely. A large Indian cabinet filled with curios stands in the room. The room is spotless, dustless, and imposing, with heavy draperies blocking much of the light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 30,
+      "title": "XXX. Consequences.",
+      "start_s": 25820.752,
+      "end_s": 26807.461,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_FAIR_HALL",
+            "location_header": "INT. FAIR HALL - DAY",
+            "visual_description": "A large, festive hall prepared for a charity fair in the 1860s. Rows of draped tables laden with fancy goods, painted vases, and needlework. An art table stands prominently. A flower stand features an evergreen arch. Bunting and garlands decorate the walls. Bustling atmosphere with ladies arranging displays."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - NIGHT",
+            "visual_description": "A comfortable mid-19th century American parlor. Garlands of flowers and green boughs decorate the walls. A large fireplace with a screen stands ready. The furniture is pushed back to create space. The atmosphere is festive, crowded, and warm with family affection. Sunshine filters through chrysanthemum-filled windows."
+          },
+          {
+            "identifier": "EXT_MARCH_GATE",
+            "location_header": "EXT. MARCH GATE - DUSK",
+            "visual_description": "The garden gate of the March house at dusk. A picket fence separates the garden from the road. Lilac bushes and trees frame the entrance. The house is visible in the background with warm light in the windows. Peaceful suburban evening atmosphere."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - NIGHT",
+            "visual_description": "An attic-like bedroom. Two beds with colorful quilts. A collection of old dolls arranged with tender care in a makeshift hospital corner. Simple, neat, and full of childish affection. Lit by candlelight."
+          },
+          {
+            "identifier": "EXT_STEAMER_DOCK",
+            "location_header": "EXT. DOCK - DAY",
+            "visual_description": "A busy steamship dock in the 1860s. A large wooden gangway leads up to the ship's deck. Crowds of people waving handkerchiefs. Barrels and trunks stacked nearby. The ocean visible beyond. Bright summer sunshine."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 31,
+      "title": "XXXI. Our Foreign Correspondent.",
+      "start_s": 26807.461,
+      "end_s": 28078.577,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HOTEL_LONDON",
+            "location_header": "INT. HOTEL LONDON - DAY",
+            "visual_description": "A comfortable but slightly worn hotel room in 1860s London. A writing desk near a window overlooking Piccadilly. Sketchbooks and travel gear scattered about. A coal fire in the grate. Grey daylight."
+          },
+          {
+            "identifier": "INT_HOTEL_PARIS",
+            "location_header": "INT. HOTEL PARIS - DAY",
+            "visual_description": "An elegant Parisian hotel room with tall french windows opening onto a balcony. View of the Rue de Rivoli. Louis XIV style furniture, gilt mirrors, bright and airy. Sunlight streaming in."
+          },
+          {
+            "identifier": "INT_HOTEL_HEIDELBERG",
+            "location_header": "INT. HOTEL HEIDELBERG - DAY",
+            "visual_description": "A quaint German hotel room. Heavy wooden furniture, a porcelain stove. A window looking out towards the castle ruins and the Neckar river. Warm afternoon light. Sketching materials on a table."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 32,
+      "title": "XXXII. Tender Troubles.",
+      "start_s": 28078.577,
+      "end_s": 29422.756,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable mid-19th century American parlor. A large fireplace with a screen stands ready. The furniture is pushed back to create space, though an old, large sofa remains prominent. The atmosphere is warm with family affection. Sunshine filters through chrysanthemum-filled windows."
+          },
+          {
+            "identifier": "MARCH_BEDROOM",
+            "location_header": "INT. MARCH BEDROOM - DAY",
+            "visual_description": "An attic-like bedroom in the bright light of a autumn afternoon. Two beds with colorful quilts. A window overlooks a dull, autumnal landscape. Simple, neat, and full of sisterly affection. A writing desk is cluttered with papers."
+          },
+          {
+            "identifier": "MARCH_BEDROOM_NIGHT",
+            "location_header": "INT. MARCH BEDROOM - NIGHT",
+            "visual_description": "An attic-like bedroom in the dark of night. Lit only by soft moonlight or a dim candle. Two beds with colorful quilts. Shadows are deep in the corners. The atmosphere is quiet and intimate."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 33,
+      "title": "XXXIII. Jo's Journal.",
+      "start_s": 29422.756,
+      "end_s": 30704.901,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_JO_SKY_PARLOR_NY",
+            "location_header": "INT. JO'S ROOM - DAY",
+            "visual_description": "A small, attic-like room in a New York boarding house. A cast-iron stove stands in the corner. A table is pushed against a sunny window offering a view of a church tower. Simple furnishings, a bed, and a sense of cozy, independent clutter. Bright winter light."
+          },
+          {
+            "identifier": "INT_KIRKE_HALLWAY",
+            "location_header": "INT. BOARDING HOUSE HALLWAY - DAY",
+            "visual_description": "A tall, narrow boarding house hallway with long flights of stairs. Worn carpets, gas sconces, and a busy atmosphere. Residents pass by."
+          },
+          {
+            "identifier": "INT_KIRKE_PARLOR",
+            "location_header": "INT. BOARDING HOUSE PARLOR - EVENING",
+            "visual_description": "A comfortable, communal parlor. Practical furniture, a glass door leading to a nursery. Toys scattered about. Homely and lived-in. Warm gaslight."
+          },
+          {
+            "identifier": "INT_KIRKE_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "A long boarding house dining room. A large table set for many boarders. Noisy, filled with the clatter of cutlery and conversation. Utilitarian decor."
+          },
+          {
+            "identifier": "INT_BHAER_ROOM",
+            "location_header": "INT. PROFESSOR BHAER'S ROOM - DAY",
+            "visual_description": "A chaotic, scholarly den. Books and papers stacked everywhere. A mantelpiece holding a broken meerschaum and flute. A birdcage in the window. Dusty, cluttered, but filled with a warm, intellectual spirit."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 34,
+      "title": "XXXIV. A Friend.",
+      "start_s": 30704.901,
+      "end_s": 31660.115,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_VOLCANO_OFFICE",
+            "location_header": "INT. WEEKLY VOLCANO OFFICE - DAY",
+            "visual_description": "A disorderly editorial office in 1860s New York. Clouds of cigar smoke hang in the air. A desk piled high with papers and manuscripts. Dirty windows overlook a busy street. Gentlemen sitting with feet up. Dusty, masculine, and business-like."
+          },
+          {
+            "identifier": "INT_SYMPOSIUM",
+            "location_header": "INT. LITERARY SYMPOSIUM - NIGHT",
+            "visual_description": "A crowded literary salon in a New York drawing room. Gaslight illuminates intellectual celebrities holding teacups. Fashionable dress mixed with eccentric artistic attire. A buzz of conversation. Elegant but stifling."
+          },
+          {
+            "identifier": "INT_KIRKE_PARLOR",
+            "location_header": "INT. BOARDING HOUSE PARLOR - NIGHT",
+            "visual_description": "A comfortable, communal parlor. Practical furniture, a glass door leading to a nursery. Toys scattered about. Homely and lived-in. Warm gaslight."
+          },
+          {
+            "identifier": "INT_JO_SKY_PARLOR_NY",
+            "location_header": "INT. JO'S ROOM - NIGHT",
+            "visual_description": "A small, attic-like room in a New York boarding house. A cast-iron stove stands in the corner. A table is pushed against a sunny window offering a view of a church tower. Simple furnishings, a bed, and a sense of cozy, independent clutter. Bright winter light."
+          },
+          {
+            "identifier": "EXT_TRAIN_STATION_PLATFORM",
+            "location_header": "EXT. TRAIN STATION - MORNING",
+            "visual_description": "A busy train station platform in morning light. Steam engines hissing, crowds of travelers. Trunks and luggage carts. The atmosphere is hurried but hopeful."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 35,
+      "title": "XXXV. Heartache.",
+      "start_s": 31660.115,
+      "end_s": 32574.742,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_COLLEGE_GROUNDS",
+            "location_header": "EXT. COLLEGE GROUNDS - DAY",
+            "visual_description": "The grounds of a university after graduation. Crowds of people in formal dress. Carriages waiting. Late afternoon light. Festive atmosphere."
+          },
+          {
+            "identifier": "EXT_GROVE_PATH",
+            "location_header": "EXT. GROVE PATH - AFTERNOON",
+            "visual_description": "A quiet, wooded path leading through a pine grove. Dappled sunlight filtering through the trees. A wooden stile near a stone wall. Wildflowers and tall grass. Secluded and romantic but tense."
+          },
+          {
+            "identifier": "LAURENCE_LIBRARY",
+            "location_header": "INT. LAURENCE LIBRARY - LATE AFTERNOON",
+            "visual_description": "A grand Victorian library lined with floor-to-ceiling mahogany bookshelves. Bronze busts and statues sit atop cabinets. A large open fireplace with quaint tiles dominates one wall. Deep velvet 'sleepy-hollow' chairs and curio cabinets filled with coins. Rich, scholarly atmosphere."
+          },
+          {
+            "identifier": "LAURENCE_DRAWING_ROOM",
+            "location_header": "INT. LAURENCE DRAWING ROOM - TWILIGHT",
+            "visual_description": "A cavernous, elegant drawing room. A grand piano stands open near the fireplace. Heavy velvet drapes, crystal chandeliers, and oil portraits in gilded frames. The room is imposing but warmed by the fire and the presence of music."
+          },
+          {
+            "identifier": "EXT_MARCH_PORCH",
+            "location_header": "EXT. PORCH - TWILIGHT",
+            "visual_description": "A wooden porch of a Victorian house at twilight. Climbing roses in full bloom frame the pillars. Wicker chairs are arranged in a circle. The light is soft, blue, and dimming, creating a peaceful, intimate atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 36,
+      "title": "XXXVI. Beth's Secret.",
+      "start_s": 32574.742,
+      "end_s": 33245.295,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_SEASIDE_ROCKS",
+            "location_header": "EXT. SEASIDE ROCKS - DAY",
+            "visual_description": "A quiet, unfashionable rocky beach in spring. Grey rocks warmed by the sun. The vast ocean stretches out, blue and rhythmic. Secluded and peaceful, with the sound of wind and waves."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable mid-19th century American parlor dressed for a wedding. Garlands of flowers and green boughs decorate the walls. A large fireplace with a screen stands ready. The furniture is pushed back to create space. The atmosphere is festive, crowded, and warm with family affection. Sunshine filters through chrysanthemum-filled windows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 37,
+      "title": "XXXVII. New Impressions.",
+      "start_s": 33245.295,
+      "end_s": 34331.92,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_NICE_PROMENADE",
+            "location_header": "EXT. PROMENADE DES ANGLAIS - DAY",
+            "visual_description": "The Promenade des Anglais in Nice, 1860s. A wide, sunny walk bordered by palm trees and tropical shrubs. The sparkling blue Mediterranean on one side, grand white hotels on the other. Crowded with carriages and fashionable people in bright costumes."
+          },
+          {
+            "identifier": "EXT_NICE_STREETS",
+            "location_header": "EXT. STREETS OF NICE - DAY",
+            "visual_description": "The narrow, winding streets of the Old City in Nice. Tall, weathered buildings with picturesque dirt and character. Shadows cast by arches. A religious procession passes with candles and canopies. Old World atmosphere."
+          },
+          {
+            "identifier": "EXT_CASTLE_HILL",
+            "location_header": "EXT. CASTLE HILL RUINS - DAY",
+            "visual_description": "The ruins of an old fort atop a hill in Nice. Crumbling stone walls overgrown with greenery. Brilliant peacocks roam the grounds. A sweeping view of the bay, the red-tiled roofs below, and the distant island of Corsica on the horizon."
+          },
+          {
+            "identifier": "INT_HOTEL_SALOON_NICE",
+            "location_header": "INT. HOTEL SALON - EVENING",
+            "visual_description": "A long, elegant private hotel salon in Nice. Tall windows draped with red curtains. A crystal chandelier casts a flattering light. Polished floors, gilded mirrors, and French furniture. Evening atmosphere, ready for a ball."
+          },
+          {
+            "identifier": "INT_HOTEL_BALLROOM_NICE",
+            "location_header": "INT. HOTEL BALLROOM - NIGHT",
+            "visual_description": "A grand dining hall converted into a ballroom. Brightly lit by chandeliers. Festive Christmas decorations, holly and ivy. Crowded with an international mix of guests in evening wear. Music playing, lively and colorful."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 38,
+      "title": "XXXVIII. On the Shelf.",
+      "start_s": 34331.92,
+      "end_s": 35807.165,
+      "part_ordinal": 11,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DOVE_COTE_PARLOR",
+            "location_header": "INT. DOVE COTE PARLOR - DAY",
+            "visual_description": "A small, modest Victorian parlor in a cottage. Simple but tasteful furnishings show signs of wear and baby-proofing. A sewing basket overflows on a side table. Soft afternoon light filters through muslin curtains. The atmosphere is domestic, slightly cluttered, and cozy."
+          },
+          {
+            "identifier": "INT_DOVE_COTE_NURSERY",
+            "location_header": "INT. NURSERY - NIGHT",
+            "visual_description": "A cozy nursery bedroom in the cottage at night. Two small cribs stand in the shadows. A low fire burns in the grate, casting a warm red glow across the room and onto a rocking chair. The room is tidy but lived-in, with a few scattered toys. Quiet and intimate atmosphere."
+          },
+          {
+            "identifier": "DOVE_COTE_PARLOR_NIGHT",
+            "location_header": "INT. DOVE COTE PARLOR - NIGHT",
+            "visual_description": "The Dove Cote parlor at night, lit by a cheerful lamp. A tea tray is set on a small table. A bonnet with lace and flowers sits on a workspace. The room feels warmer and more romantic than in the day, a small haven of domestic peace."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 39,
+      "title": "XXXIX. Lazy Laurence.",
+      "start_s": 35807.165,
+      "end_s": 36358.496,
+      "part_ordinal": 11,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HOTEL_NICE_NOON",
+            "location_header": "INT. HOTEL SALON - DAY",
+            "visual_description": "An elegant private salon in a Nice hotel, shielded from the midday sun by heavy curtains. Bright shards of light pierce the gloom, illuminating velvet armchairs and a writing desk. Sketchbooks and letters are scattered about. A lazy, quiet atmosphere of noon repose."
+          },
+          {
+            "identifier": "EXT_VALROSA_TERRACE",
+            "location_header": "EXT. VILLA VALROSA TERRACE - DAY",
+            "visual_description": "A magnificent stone terrace at Villa Valrosa, bathed in brilliant Mediterranean sunlight. Roses of every color climb the balustrades and drape over urns. A wide view of the blue sea and white-walled city below. A rustic seat sits in the shade of a palm tree. Idyllic and fragrant."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 40,
+      "title": "XL. The Valley of the Shadow.",
+      "start_s": 36358.496,
+      "end_s": 37056.303,
+      "part_ordinal": 11,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_BETHS_ROOM_FINAL",
+            "location_header": "INT. BETH'S ROOM - DAY",
+            "visual_description": "A bright, peaceful sickroom filled with signs of love. A piano, a desk, and a vase of fresh flowers sit in the sun. A fire burns low in the grate. The atmosphere is not gloomy, but calm and spiritual, like a private chapel. Spring sunshine streams in."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 41,
+      "title": "XLI. Learning to Forget.",
+      "start_s": 37056.303,
+      "end_s": 37413.276,
+      "part_ordinal": 11,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_LAURIE_ROOM_VIENNA",
+            "location_header": "INT. LAURIE'S APARTMENT - NIGHT",
+            "visual_description": "A messy musician's apartment in Vienna at night. A grand piano is piled with music sheets. Marble busts of composers line the shelves. Gaslight flickers on a writing desk cluttered with letters and bills. A fireplace with dying embers. Moody and artistic atmosphere."
+          },
+          {
+            "identifier": "EXT_VALROSA_TERRACE",
+            "location_header": "EXT. VILLA VALROSA TERRACE - DAY",
+            "visual_description": "A magnificent stone terrace at Villa Valrosa, bathed in brilliant Mediterranean sunlight. Roses of every color climb the balustrades and drape over urns. A wide view of the blue sea and white-walled city below. A rustic seat sits in the shade of a palm tree. Idyllic and fragrant."
+          },
+          {
+            "identifier": "EXT_CHATEAU_GARDEN_VEVAY",
+            "location_header": "EXT. CHATEAU GARDEN - DAY",
+            "visual_description": "A pleasant old garden on the borders of Lake Geneva. Chestnuts rustle overhead, and ivy climbs the stone walls. The black shadow of an old tower falls across the sunny water. A bench sits in a quiet corner. Peaceful, sunny, and romantic."
+          },
+          {
+            "identifier": "EXT_LAKE_GENEVA_BOAT",
+            "location_header": "EXT. LAKE GENEVA - DAY",
+            "visual_description": "A view from a small wooden rowboat on Lake Geneva at noonday. The water is deep blue and calm. In the distance, the Alps of Savoy and the Dent du Midi rise majestically against a cloudless sky. Pretty Vevay is visible in the valley. Bright, open, and serene."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 42,
+      "title": "XLII. All Alone.",
+      "start_s": 37413.276,
+      "end_s": 37884.574,
+      "part_ordinal": 11,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_BEDROOM_NIGHT",
+            "location_header": "INT. MARCH BEDROOM - NIGHT",
+            "visual_description": "An attic-like bedroom in the dark of night. Lit only by soft moonlight or a dim candle. Two beds with colorful quilts. Shadows are deep in the corners. The atmosphere is quiet and intimate."
+          },
+          {
+            "identifier": "MARCH_STUDY",
+            "location_header": "INT. MARCH STUDY - DAY",
+            "visual_description": "A small, cluttered study or writing corner. A bust of Plato with an old hat on it. Piles of manuscripts, inkstained desk. Cozy but messy. Quiet atmosphere suitable for writing."
+          },
+          {
+            "identifier": "MARCH_KITCHEN",
+            "location_header": "INT. KITCHEN - DAY",
+            "visual_description": "A large, rustic Victorian kitchen with a cast-iron stove and wooden worktables. Copper pots hang from the ceiling. A pantry door stands open. The room is messy, with flour dusting the surfaces and piles of unwashed dishes. Morning light streams through a window."
+          },
+          {
+            "identifier": "DOVE_COTE_NURSERY",
+            "location_header": "INT. NURSERY - DAY",
+            "visual_description": "A cozy nursery bedroom in the cottage. Two small cribs stand near a rocking chair. A low fire burns in the grate. The room is tidy but lived-in, with a few scattered toys. Quiet and intimate atmosphere."
+          },
+          {
+            "identifier": "MARCH_ATTIC",
+            "location_header": "INT. MARCH ATTIC - DAY",
+            "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams, serving as a writer's sanctum. A sunny window seat is piled with cushions. An old tin-kitchen is used as a manuscript safe. The room is quiet, dusty, and secluded, filled with the scratching sound of a pen."
+          },
+          {
+            "identifier": "MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable mid-19th century American parlor. A large fireplace with a screen stands ready. The furniture is pushed back to create space. The atmosphere is warm with family affection. Sunshine filters through chrysanthemum-filled windows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 43,
+      "title": "XLIII. Surprises",
+      "start_s": 37884.574,
+      "end_s": 39204.158,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR_EVENING",
+            "location_header": "INT. MARCH PARLOR - EVENING",
+            "visual_description": "A comfortable American Victorian parlor at twilight, illuminated by the warm glow of a large fireplace. Worn but inviting armchairs and a sofa are arranged near the hearth. The room is filled with homey details: a work basket, books, and family mementos. Soft shadows dance on the walls, creating an intimate, peaceful atmosphere."
+          },
+          {
+            "identifier": "INT_BHAER_ROOM",
+            "location_header": "INT. PROFESSOR BHAER'S ROOM - NIGHT",
+            "visual_description": "A chaotic, scholarly den. Books and papers stacked everywhere. A mantelpiece holding a broken meerschaum and flute. A birdcage in the window. Dusty, cluttered, but filled with a warm, intellectual spirit."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 44,
+      "title": "XLIV. My Lord and Lady.",
+      "start_s": 39204.158,
+      "end_s": 39693.949,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "MARCH_PARLOR_EVENING",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable American Victorian parlor. Worn but inviting armchairs and a sofa are arranged near the hearth. The room is filled with homey details: a work basket, books, and family mementos. Soft light fills the room."
+          },
+          {
+            "identifier": "LAURENCE_DRAWING_ROOM",
+            "location_header": "INT. LAURENCE DRAWING ROOM - EVENING",
+            "visual_description": "A cavernous, elegant drawing room. A grand piano stands open near the fireplace. Heavy velvet drapes, crystal chandeliers, and oil portraits in gilded frames. The room is imposing but warmed by the fire and the presence of music."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 45,
+      "title": "XLV. Daisy and Demi.",
+      "start_s": 39693.949,
+      "end_s": 39922.349,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DOVE_COTE_INTERIOR",
+            "location_header": "INT. DOVE COTE - DAY",
+            "visual_description": "A tiny, charming cottage interior in June. Simple but tasteful furnishings. A small parlor with books, pictures, and a flower stand. A neat kitchen visible with polished pans. The house is small and narrow but filled with loving touches and gifts. Bright summer light streams through muslin curtains."
+          },
+          {
+            "identifier": "MARCH_STUDY",
+            "location_header": "INT. MARCH STUDY - DAY",
+            "visual_description": "A small, cluttered study or writing corner. A bust of Plato with an old hat on it. Piles of manuscripts, inkstained desk. Cozy but messy. Quiet atmosphere suitable for writing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 46,
+      "title": "XLVI. Under the Umbrella.",
+      "start_s": 39922.349,
+      "end_s": 41401.275,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_CITY_STREET_RAIN",
+            "location_header": "EXT. CITY STREET - DAY",
+            "visual_description": "A busy 1860s city street under a lowering gray sky. Muddy puddles cover the cobblestones. Red brick warehouses and wholesale stores line the road. Rain falls steadily, creating a wet, gloomy atmosphere. A few umbrellas bob in the distance."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 47,
+      "title": "XLVII. Harvest Time.",
+      "start_s": 41401.275,
+      "end_s": 42665.938,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_MARCH_PARLOR",
+            "location_header": "INT. MARCH PARLOR - DAY",
+            "visual_description": "A comfortable mid-19th century American parlor. Worn but inviting armchairs and a sofa arranged near a large fireplace. Homey details like a work basket, books, and family mementos fill the room. Warm, domestic atmosphere."
+          },
+          {
+            "identifier": "EXT_PLUMFIELD_ORCHARD",
+            "location_header": "EXT. PLUMFIELD ORCHARD - DAY",
+            "visual_description": "A large apple orchard in mellow October sunshine. Mossy stone walls are fringed with golden-rod and asters. Trees heavy with red and yellow apples shade green grass where a picnic is spread. A festive, rural atmosphere with ladders against trees and baskets of fruit."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "warm",
+        "intimate",
+        "comforting",
+        "whimsical",
+        "articulate",
+        "omniscient",
+        "storyteller",
+        "clear",
+        "narrative"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1216,
+      "image_key": null,
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "JO_MARCH",
+      "name": "Jo",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Josephine",
+        "Jo",
+        "JO_MARCH_SHORT_HAIR",
+        "Teddy's Jo",
+        "Grandma",
+        "Aunt Dodo",
+        "Miss Marsch",
+        "Professorin",
+        "Mrs. Bhaer",
+        "Mother Bhaer"
+      ],
+      "voice_attributes": [
+        "boyish",
+        "energetic",
+        "decisive",
+        "tender",
+        "wistful",
+        "protective",
+        "quiet",
+        "loving",
+        "warm",
+        "scandalized",
+        "motherly",
+        "happy"
+      ],
+      "visual_attributes": [
+        "tall",
+        "thin",
+        "sharp gray eyes",
+        "thick chestnut hair",
+        "comic nose",
+        "round shoulders",
+        "chestnut hair",
+        "sharp eyes",
+        "short cropped hair",
+        "boyish look",
+        "pinafore",
+        "tired eyes",
+        "gentle hands",
+        "protective",
+        "damp clothes",
+        "crimson bow",
+        "thirty",
+        "plain dress",
+        "lively eyes"
+      ],
+      "roles": [
+        "protagonist",
+        "sister",
+        "writer",
+        "nurse",
+        "aunt",
+        "mother",
+        "teacher",
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "boyish",
+            "energetic",
+            "decisive",
+            "tender",
+            "wistful",
+            "protective",
+            "quiet",
+            "loving",
+            "warm",
+            "scandalized",
+            "motherly",
+            "happy"
+          ],
+          "visual_attributes": [
+            "tall",
+            "thin",
+            "sharp gray eyes",
+            "thick chestnut hair",
+            "comic nose",
+            "round shoulders",
+            "chestnut hair",
+            "sharp eyes",
+            "short cropped hair",
+            "boyish look",
+            "pinafore",
+            "tired eyes",
+            "gentle hands",
+            "protective",
+            "damp clothes",
+            "crimson bow",
+            "thirty",
+            "plain dress",
+            "lively eyes"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "boyish",
+            "energetic",
+            "decisive",
+            "tender",
+            "wistful",
+            "protective",
+            "quiet",
+            "loving",
+            "warm",
+            "scandalized",
+            "motherly",
+            "happy"
+          ],
+          "visual_attributes": [
+            "tall",
+            "thin",
+            "sharp gray eyes",
+            "thick chestnut hair",
+            "comic nose",
+            "round shoulders",
+            "chestnut hair",
+            "sharp eyes",
+            "short cropped hair",
+            "boyish look",
+            "pinafore",
+            "tired eyes",
+            "gentle hands",
+            "protective",
+            "damp clothes",
+            "crimson bow",
+            "thirty",
+            "plain dress",
+            "lively eyes"
+          ]
+        }
+      ],
+      "dialogue_count": 826,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/JO_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/JO_MARCH.mp3"
+    },
+    {
+      "identifier": "THEODORE_LAURENCE",
+      "name": "Laurie",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "The Laurence Boy",
+        "Laurie Laurence",
+        "Dora",
+        "Teddy",
+        "My lord",
+        "Theodore"
+      ],
+      "voice_attributes": [
+        "friendly",
+        "educated",
+        "warm",
+        "slightly foreign intonation",
+        "blunt",
+        "bored",
+        "lazy",
+        "charming",
+        "sensible",
+        "steady"
+      ],
+      "visual_attributes": [
+        "curly black hair",
+        "brown skin",
+        "big black eyes",
+        "handsome nose",
+        "fine teeth",
+        "tall",
+        "broad-shouldered",
+        "cropped hair",
+        "handsome",
+        "moody expression",
+        "English dress",
+        "handsome face",
+        "languid eyes",
+        "fashionable suit",
+        "young man",
+        "business-like suit"
+      ],
+      "roles": [
+        "neighbor",
+        "friend",
+        "husband",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "friendly",
+            "educated",
+            "warm",
+            "slightly foreign intonation",
+            "blunt",
+            "bored",
+            "lazy",
+            "charming",
+            "sensible",
+            "steady"
+          ],
+          "visual_attributes": [
+            "curly black hair",
+            "brown skin",
+            "big black eyes",
+            "handsome nose",
+            "fine teeth",
+            "tall",
+            "broad-shouldered",
+            "cropped hair",
+            "handsome",
+            "moody expression",
+            "English dress",
+            "handsome face",
+            "languid eyes",
+            "fashionable suit",
+            "young man",
+            "business-like suit"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "friendly",
+            "educated",
+            "warm",
+            "slightly foreign intonation",
+            "blunt",
+            "bored",
+            "lazy",
+            "charming",
+            "sensible",
+            "steady"
+          ],
+          "visual_attributes": [
+            "curly black hair",
+            "brown skin",
+            "big black eyes",
+            "handsome nose",
+            "fine teeth",
+            "tall",
+            "broad-shouldered",
+            "cropped hair",
+            "handsome",
+            "moody expression",
+            "English dress",
+            "handsome face",
+            "languid eyes",
+            "fashionable suit",
+            "young man",
+            "business-like suit"
+          ]
+        }
+      ],
+      "dialogue_count": 447,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/THEODORE_LAURENCE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/THEODORE_LAURENCE.mp3"
+    },
+    {
+      "identifier": "MEG_MARCH",
+      "name": "Meg",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Margaret",
+        "Meg",
+        "Mrs. Brooke",
+        "Marmar"
+      ],
+      "voice_attributes": [
+        "sweet",
+        "prim",
+        "motherly",
+        "slightly weary",
+        "maternal",
+        "gentle",
+        "content"
+      ],
+      "visual_attributes": [
+        "plump",
+        "fair skin",
+        "large eyes",
+        "soft brown hair",
+        "sweet mouth",
+        "white hands",
+        "fair",
+        "brown hair",
+        "womanly",
+        "pretty",
+        "pretty face",
+        "tired eyes",
+        "simple dress",
+        "young woman",
+        "motherly",
+        "neat dress"
+      ],
+      "roles": [
+        "sister",
+        "bride",
+        "wife",
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "sweet",
+            "prim",
+            "motherly",
+            "slightly weary",
+            "maternal",
+            "gentle",
+            "content"
+          ],
+          "visual_attributes": [
+            "plump",
+            "fair skin",
+            "large eyes",
+            "soft brown hair",
+            "sweet mouth",
+            "white hands",
+            "fair",
+            "brown hair",
+            "womanly",
+            "pretty",
+            "pretty face",
+            "tired eyes",
+            "simple dress",
+            "young woman",
+            "motherly",
+            "neat dress"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "sweet",
+            "prim",
+            "motherly",
+            "slightly weary",
+            "maternal",
+            "gentle",
+            "content"
+          ],
+          "visual_attributes": [
+            "plump",
+            "fair skin",
+            "large eyes",
+            "soft brown hair",
+            "sweet mouth",
+            "white hands",
+            "fair",
+            "brown hair",
+            "womanly",
+            "pretty",
+            "pretty face",
+            "tired eyes",
+            "simple dress",
+            "young woman",
+            "motherly",
+            "neat dress"
+          ]
+        }
+      ],
+      "dialogue_count": 349,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MEG_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MEG_MARCH.mp3"
+    },
+    {
+      "identifier": "AMY_MARCH",
+      "name": "Amy",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "Amy",
+        "Josephine",
+        "Jo",
+        "JO_MARCH_SHORT_HAIR",
+        "AMY_MARCH_YOUNG",
+        "AMY_MARCH_ADULT",
+        "Amy March",
+        "Mrs. Laurence",
+        "Her ladyship",
+        "My lady",
+        "Madame Récamier",
+        "AMY_LAURENCE",
+        "AMY_MARCH"
+      ],
+      "voice_attributes": [
+        "affected",
+        "particular",
+        "chirpy",
+        "boyish",
+        "energetic",
+        "decisive",
+        "sprightly",
+        "graceful",
+        "self-possessed",
+        "aristocratic",
+        "elegant",
+        "refined",
+        "musical",
+        "sarcastic",
+        "soft",
+        "melodic",
+        "gentle",
+        "maturing",
+        "tender",
+        "sweet"
+      ],
+      "visual_attributes": [
+        "slender",
+        "pale",
+        "blue eyes",
+        "yellow curls",
+        "snow-maiden look",
+        "blonde curls",
+        "handsome",
+        "stylish",
+        "tall",
+        "thin",
+        "sharp gray eyes",
+        "thick chestnut hair",
+        "comic nose",
+        "round shoulders",
+        "chestnut hair",
+        "sharp eyes",
+        "short cropped hair",
+        "boyish look",
+        "pinafore",
+        "fashionable dress",
+        "golden gloss of hair",
+        "fresh color",
+        "graceful bearing",
+        "stylish young woman",
+        "parasol",
+        "sketchbook",
+        "golden curls",
+        "pale complexion",
+        "stylish dress",
+        "black ribbon in hair",
+        "womanly",
+        "young woman",
+        "golden hair",
+        "elegant"
+      ],
+      "roles": [
+        "sister",
+        "protagonist",
+        "writer",
+        "artist",
+        "love interest",
+        "wife",
+        "mother"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Childhood",
+          "age_group": "child",
+          "voice_attributes": [
+            "affected",
+            "particular",
+            "chirpy",
+            "boyish",
+            "energetic",
+            "decisive",
+            "sprightly",
+            "graceful",
+            "self-possessed",
+            "aristocratic",
+            "elegant",
+            "refined",
+            "musical",
+            "sarcastic",
+            "soft",
+            "melodic",
+            "gentle",
+            "maturing",
+            "tender",
+            "sweet"
+          ],
+          "visual_attributes": [
+            "slender",
+            "pale",
+            "blue eyes",
+            "yellow curls",
+            "snow-maiden look",
+            "blonde curls",
+            "handsome",
+            "stylish",
+            "tall",
+            "thin",
+            "sharp gray eyes",
+            "thick chestnut hair",
+            "comic nose",
+            "round shoulders",
+            "chestnut hair",
+            "sharp eyes",
+            "short cropped hair",
+            "boyish look",
+            "pinafore",
+            "fashionable dress",
+            "golden gloss of hair",
+            "fresh color",
+            "graceful bearing",
+            "stylish young woman",
+            "parasol",
+            "sketchbook",
+            "golden curls",
+            "pale complexion",
+            "stylish dress",
+            "black ribbon in hair",
+            "womanly",
+            "young woman",
+            "golden hair",
+            "elegant"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "affected",
+            "particular",
+            "chirpy",
+            "boyish",
+            "energetic",
+            "decisive",
+            "sprightly",
+            "graceful",
+            "self-possessed",
+            "aristocratic",
+            "elegant",
+            "refined",
+            "musical",
+            "sarcastic",
+            "soft",
+            "melodic",
+            "gentle",
+            "maturing",
+            "tender",
+            "sweet"
+          ],
+          "visual_attributes": [
+            "slender",
+            "pale",
+            "blue eyes",
+            "yellow curls",
+            "snow-maiden look",
+            "blonde curls",
+            "handsome",
+            "stylish",
+            "tall",
+            "thin",
+            "sharp gray eyes",
+            "thick chestnut hair",
+            "comic nose",
+            "round shoulders",
+            "chestnut hair",
+            "sharp eyes",
+            "short cropped hair",
+            "boyish look",
+            "pinafore",
+            "fashionable dress",
+            "golden gloss of hair",
+            "fresh color",
+            "graceful bearing",
+            "stylish young woman",
+            "parasol",
+            "sketchbook",
+            "golden curls",
+            "pale complexion",
+            "stylish dress",
+            "black ribbon in hair",
+            "womanly",
+            "young woman",
+            "golden hair",
+            "elegant"
+          ]
+        }
+      ],
+      "dialogue_count": 311,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/AMY_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/AMY_MARCH.mp3"
+    },
+    {
+      "identifier": "MRS_MARCH",
+      "name": "Marmee",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "Mother",
+        "Mrs. March",
+        "Grandma"
+      ],
+      "voice_attributes": [
+        "warm",
+        "cheery",
+        "dignified",
+        "wise",
+        "comforting",
+        "motherly"
+      ],
+      "visual_attributes": [
+        "tall",
+        "motherly",
+        "noble face",
+        "gray cloak",
+        "unfashionable bonnet",
+        "grayer",
+        "graying hair",
+        "kind face",
+        "modest clothes",
+        "noble expression",
+        "elderly",
+        "gray hair"
+      ],
+      "roles": [
+        "mother",
+        "grandmother",
+        "matriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Middle Age",
+          "age_group": "middle_aged",
+          "voice_attributes": [
+            "warm",
+            "cheery",
+            "dignified",
+            "wise",
+            "comforting",
+            "motherly"
+          ],
+          "visual_attributes": [
+            "tall",
+            "motherly",
+            "noble face",
+            "gray cloak",
+            "unfashionable bonnet",
+            "grayer",
+            "graying hair",
+            "kind face",
+            "modest clothes",
+            "noble expression",
+            "elderly",
+            "gray hair"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Elder Years",
+          "age_group": "old",
+          "voice_attributes": [
+            "warm",
+            "cheery",
+            "dignified",
+            "wise",
+            "comforting",
+            "motherly"
+          ],
+          "visual_attributes": [
+            "tall",
+            "motherly",
+            "noble face",
+            "gray cloak",
+            "unfashionable bonnet",
+            "grayer",
+            "graying hair",
+            "kind face",
+            "modest clothes",
+            "noble expression",
+            "elderly",
+            "gray hair"
+          ]
+        }
+      ],
+      "dialogue_count": 199,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_MARCH.mp3"
+    },
+    {
+      "identifier": "BETH_MARCH",
+      "name": "Beth",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Elizabeth",
+        "Beth",
+        "Little Tranquillity",
+        "Mouse",
+        "Josephine",
+        "Jo"
+      ],
+      "voice_attributes": [
+        "timid",
+        "gentle",
+        "quiet",
+        "weak",
+        "serene",
+        "feeble"
+      ],
+      "visual_attributes": [
+        "rosy face",
+        "smooth hair",
+        "bright eyes",
+        "peaceful expression",
+        "rosy",
+        "thin",
+        "delicate",
+        "transparent skin",
+        "frail",
+        "pale face",
+        "frail body"
+      ],
+      "roles": [
+        "sister",
+        "saint"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Childhood",
+          "age_group": "child",
+          "voice_attributes": [
+            "timid",
+            "gentle",
+            "quiet",
+            "weak",
+            "serene",
+            "feeble"
+          ],
+          "visual_attributes": [
+            "rosy face",
+            "smooth hair",
+            "bright eyes",
+            "peaceful expression",
+            "rosy",
+            "thin",
+            "delicate",
+            "transparent skin",
+            "frail",
+            "pale face",
+            "frail body"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "timid",
+            "gentle",
+            "quiet",
+            "weak",
+            "serene",
+            "feeble"
+          ],
+          "visual_attributes": [
+            "rosy face",
+            "smooth hair",
+            "bright eyes",
+            "peaceful expression",
+            "rosy",
+            "thin",
+            "delicate",
+            "transparent skin",
+            "frail",
+            "pale face",
+            "frail body"
+          ]
+        },
+        {
+          "phase_ordinal": 3,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "timid",
+            "gentle",
+            "quiet",
+            "weak",
+            "serene",
+            "feeble"
+          ],
+          "visual_attributes": [
+            "rosy face",
+            "smooth hair",
+            "bright eyes",
+            "peaceful expression",
+            "rosy",
+            "thin",
+            "delicate",
+            "transparent skin",
+            "frail",
+            "pale face",
+            "frail body"
+          ]
+        }
+      ],
+      "dialogue_count": 124,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/BETH_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/BETH_MARCH.mp3"
+    },
+    {
+      "identifier": "FRIEDRICH_BHAER",
+      "name": "Professor Bhaer",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Old Fritz",
+        "Mr. Bhaer",
+        "Fritz",
+        "Friedrich",
+        "Father Bhaer"
+      ],
+      "voice_attributes": [
+        "german accent",
+        "loud",
+        "cheerful",
+        "kind",
+        "splendid big voice",
+        "warm",
+        "deep",
+        "jolly"
+      ],
+      "visual_attributes": [
+        "stout",
+        "brown hair tumbled",
+        "bushy beard",
+        "good nose",
+        "kindest eyes",
+        "beautiful teeth",
+        "rusty clothes",
+        "bushy hair",
+        "beard",
+        "fine forehead",
+        "middle-aged",
+        "kind eyes",
+        "shabby clothes",
+        "wet hat",
+        "graying hair",
+        "cheery face"
+      ],
+      "roles": [
+        "professor",
+        "love interest",
+        "friend",
+        "suitor",
+        "father",
+        "teacher",
+        "husband"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 69,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/FRIEDRICH_BHAER.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/FRIEDRICH_BHAER.mp3"
+    },
+    {
+      "identifier": "JOHN_BROOKE",
+      "name": "John",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "John"
+      ],
+      "voice_attributes": [
+        "quiet",
+        "pleasant",
+        "grave",
+        "patient",
+        "sensible",
+        "firm"
+      ],
+      "visual_attributes": [
+        "handsome brown eyes",
+        "bookish",
+        "serious demeanor",
+        "simple suit",
+        "quiet demeanor"
+      ],
+      "roles": [
+        "tutor",
+        "suitor",
+        "groom",
+        "husband",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 60,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/JOHN_BROOKE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/JOHN_BROOKE.mp3"
+    },
+    {
+      "identifier": "JAMES_LAURENCE",
+      "name": "Mr. Laurence",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "The Old Gentleman",
+        "Grandpa"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "authoritative",
+        "warm",
+        "jovial"
+      ],
+      "visual_attributes": [
+        "bushy gray eyebrows",
+        "sharp eyes",
+        "clean-shaven",
+        "velvet coat",
+        "white hair",
+        "elderly",
+        "fine coat"
+      ],
+      "roles": [
+        "neighbor",
+        "grandfather",
+        "patron"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 44,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/JAMES_LAURENCE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/JAMES_LAURENCE.mp3"
+    },
+    {
+      "identifier": "AUNT_MARCH",
+      "name": "Aunt March",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "shrill",
+        "peppery",
+        "irascible"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "frowning",
+        "elaborate cap",
+        "spectacles",
+        "stiff dress"
+      ],
+      "roles": [
+        "aunt",
+        "wealthy relative"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 27,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/AUNT_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/AUNT_MARCH.mp3"
+    },
+    {
+      "identifier": "MR_MARCH",
+      "name": "Father",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "Grandpa",
+        "Dranpa"
+      ],
+      "voice_attributes": [
+        "warm",
+        "gentle",
+        "slightly weak",
+        "placid",
+        "patient",
+        "scholarly"
+      ],
+      "visual_attributes": [
+        "thin pale face",
+        "graying hair",
+        "kind eyes",
+        "worn clothes",
+        "spectacles",
+        "white hair",
+        "kind face"
+      ],
+      "roles": [
+        "father",
+        "chaplain",
+        "grandfather",
+        "patriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Middle Age",
+          "age_group": "middle_aged",
+          "voice_attributes": [
+            "warm",
+            "gentle",
+            "slightly weak",
+            "placid",
+            "patient",
+            "scholarly"
+          ],
+          "visual_attributes": [
+            "thin pale face",
+            "graying hair",
+            "kind eyes",
+            "worn clothes",
+            "spectacles",
+            "white hair",
+            "kind face"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Elder Years",
+          "age_group": "old",
+          "voice_attributes": [
+            "warm",
+            "gentle",
+            "slightly weak",
+            "placid",
+            "patient",
+            "scholarly"
+          ],
+          "visual_attributes": [
+            "thin pale face",
+            "graying hair",
+            "kind eyes",
+            "worn clothes",
+            "spectacles",
+            "white hair",
+            "kind face"
+          ]
+        }
+      ],
+      "dialogue_count": 22,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_MARCH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_MARCH.mp3"
+    },
+    {
+      "identifier": "DEMI_BROOKE",
+      "name": "Demi",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "Demi",
+        "The young philosopher"
+      ],
+      "voice_attributes": [
+        "childish",
+        "loud",
+        "stubborn"
+      ],
+      "visual_attributes": [
+        "toddler",
+        "white nightgown",
+        "curly hair",
+        "round face",
+        "short plaid legs",
+        "scarlet stockings"
+      ],
+      "roles": [
+        "child",
+        "nephew"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/DEMI_BROOKE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/DEMI_BROOKE.mp3"
+    },
+    {
+      "identifier": "HANNAH",
+      "name": "Hannah",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "loyal"
+      ],
+      "visual_attributes": [
+        "older",
+        "stout",
+        "apron",
+        "servant cap",
+        "servant"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 19,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/HANNAH.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/HANNAH.mp3"
+    },
+    {
+      "identifier": "FRED_VAUGHN",
+      "name": "Fred",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "riotous",
+        "slangy"
+      ],
+      "visual_attributes": [
+        "young face",
+        "active build",
+        "flushed"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 14,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/FRED_VAUGHN.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/FRED_VAUGHN.mp3"
+    },
+    {
+      "identifier": "KATE_VAUGHN",
+      "name": "Miss Kate",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "condescending",
+        "english",
+        "expressionless reading"
+      ],
+      "visual_attributes": [
+        "simple dress",
+        "monocle",
+        "haughty expression",
+        "pale"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 12,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/KATE_VAUGHN.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/KATE_VAUGHN.mp3"
+    },
+    {
+      "identifier": "MR_DAVIS",
+      "name": "Mr. Davis",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "nasal",
+        "irritable",
+        "stern"
+      ],
+      "visual_attributes": [
+        "yellow complexion",
+        "nervous tic",
+        "frowning",
+        "formal coat"
+      ],
+      "roles": [
+        "teacher"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_DAVIS.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_DAVIS.mp3"
+    },
+    {
+      "identifier": "SALLIE_GARDINER",
+      "name": "Sallie",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "chattering",
+        "bright"
+      ],
+      "visual_attributes": [
+        "white piqué dress",
+        "ringlets",
+        "pretty"
+      ],
+      "roles": [
+        "friend"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/SALLIE_GARDINER.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/SALLIE_GARDINER.mp3"
+    },
+    {
+      "identifier": "POLLY_PARROT",
+      "name": "Polly",
+      "age_group": "ageless",
+      "generation_hint": "ageless",
+      "aliases": [],
+      "voice_attributes": [
+        "squawking",
+        "mimicking",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "anthropomorphic parrot",
+        "grey feathers",
+        "red tail",
+        "sharp curved beak",
+        "beady eyes"
+      ],
+      "roles": [
+        "pet"
+      ],
+      "metadata": {
+        "age_group": "ageless",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/POLLY_PARROT.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/POLLY_PARROT.mp3"
+    },
+    {
+      "identifier": "MR_DASHWOOD",
+      "name": "Mr. Dashwood",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "business-like",
+        "careless",
+        "gruff"
+      ],
+      "visual_attributes": [
+        "disheveled hair",
+        "cigar",
+        "ink-stained fingers",
+        "waistcoat",
+        "middle-aged face"
+      ],
+      "roles": [
+        "editor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_DASHWOOD.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_DASHWOOD.mp3"
+    },
+    {
+      "identifier": "BELLE_MOFFAT",
+      "name": "Belle Moffat",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "sophisticated",
+        "persuasive",
+        "condescending"
+      ],
+      "visual_attributes": [
+        "stylish",
+        "coiffed hair",
+        "elegant gown"
+      ],
+      "roles": [
+        "older sister"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/BELLE_MOFFAT.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/BELLE_MOFFAT.mp3"
+    },
+    {
+      "identifier": "MAY_CHESTER",
+      "name": "May Chester",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "May"
+      ],
+      "voice_attributes": [
+        "jealous",
+        "haughty",
+        "young"
+      ],
+      "visual_attributes": [
+        "fashionable dress",
+        "sullen expression",
+        "dark hair",
+        "young"
+      ],
+      "roles": [
+        "rival"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MAY_CHESTER.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MAY_CHESTER.mp3"
+    },
+    {
+      "identifier": "ESTHER_VALNOR",
+      "name": "Esther",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Estelle"
+      ],
+      "voice_attributes": [
+        "french accent",
+        "kind",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "neat black dress",
+        "white apron",
+        "cap",
+        "shrewd face"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/ESTHER_VALNOR.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/ESTHER_VALNOR.mp3"
+    },
+    {
+      "identifier": "LAURENCE_MAID",
+      "name": "Maid",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "polite"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "cap"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/LAURENCE_MAID.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/LAURENCE_MAID.mp3"
+    },
+    {
+      "identifier": "LECTURE_LAD",
+      "name": "Lad",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "Boy"
+      ],
+      "voice_attributes": [
+        "friendly",
+        "boyish",
+        "casual"
+      ],
+      "visual_attributes": [
+        "young face",
+        "plain clothes",
+        "bright eyes"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/LECTURE_LAD.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/LECTURE_LAD.mp3"
+    },
+    {
+      "identifier": "ANNIE_MOFFAT",
+      "name": "Annie Moffat",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "silly",
+        "friendly"
+      ],
+      "visual_attributes": [
+        "fashionable",
+        "curled hair",
+        "young face",
+        "silk dress"
+      ],
+      "roles": [
+        "friend",
+        "hostess"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/ANNIE_MOFFAT.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/ANNIE_MOFFAT.mp3"
+    },
+    {
+      "identifier": "MRS_MOFFAT",
+      "name": "Mrs. Moffat",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "jolly",
+        "pretentious"
+      ],
+      "visual_attributes": [
+        "stout",
+        "elaborate dress",
+        "red face",
+        "jewelry"
+      ],
+      "roles": [
+        "hostess",
+        "matron",
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_MOFFAT.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_MOFFAT.mp3"
+    },
+    {
+      "identifier": "NED_MOFFAT",
+      "name": "Ned Moffat",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "foolish",
+        "slurring"
+      ],
+      "visual_attributes": [
+        "young man",
+        "formal wear",
+        "soft face"
+      ],
+      "roles": [
+        "suitor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/NED_MOFFAT.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/NED_MOFFAT.mp3"
+    },
+    {
+      "identifier": "AUNT_CARROL",
+      "name": "Aunt Carrol",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "kindly",
+        "soft-spoken"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "gentle face"
+      ],
+      "roles": [
+        "relative"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/AUNT_CARROL.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/AUNT_CARROL.mp3"
+    },
+    {
+      "identifier": "MRS_KIRKE",
+      "name": "Mrs. Kirke",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Mrs. K."
+      ],
+      "voice_attributes": [
+        "motherly",
+        "bustling",
+        "kind"
+      ],
+      "visual_attributes": [
+        "short",
+        "stout",
+        "cap"
+      ],
+      "roles": [
+        "landlady"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_KIRKE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_KIRKE.mp3"
+    },
+    {
+      "identifier": "FRANK_VAUGHN",
+      "name": "Frank",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gentle",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "pale",
+        "gentle eyes",
+        "crutch",
+        "thin"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/FRANK_VAUGHN.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/FRANK_VAUGHN.mp3"
+    },
+    {
+      "identifier": "GRACE_VAUGHN",
+      "name": "Grace",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "merry"
+      ],
+      "visual_attributes": [
+        "merry face",
+        "child",
+        "English dress"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/GRACE_VAUGHN.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/GRACE_VAUGHN.mp3"
+    },
+    {
+      "identifier": "MR_LAMB",
+      "name": "Mr. Lamb",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "appreciative",
+        "warm"
+      ],
+      "visual_attributes": [
+        "young man",
+        "smiling"
+      ],
+      "roles": [
+        "acquaintance"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_LAMB.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MR_LAMB.mp3"
+    },
+    {
+      "identifier": "CLARA_MOFFAT",
+      "name": "Clara Moffat",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "gossipy",
+        "sharp"
+      ],
+      "visual_attributes": [
+        "fashionable",
+        "young"
+      ],
+      "roles": [
+        "older sister"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/CLARA_MOFFAT.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/CLARA_MOFFAT.mp3"
+    },
+    {
+      "identifier": "MRS_CHESTER",
+      "name": "Mrs. Chester",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cold",
+        "polite",
+        "bland"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "wealthy dress",
+        "imposing",
+        "bonnet"
+      ],
+      "roles": [
+        "hostess"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_CHESTER.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_CHESTER.mp3"
+    },
+    {
+      "identifier": "TUDOR",
+      "name": "Tudor",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mr. Tudor"
+      ],
+      "voice_attributes": [
+        "polished",
+        "amused",
+        "polite"
+      ],
+      "visual_attributes": [
+        "young man",
+        "handsome",
+        "elegant clothes",
+        "top hat"
+      ],
+      "roles": [
+        "student"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/TUDOR.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/TUDOR.mp3"
+    },
+    {
+      "identifier": "TINA",
+      "name": "Tina",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "childish",
+        "high-pitched"
+      ],
+      "visual_attributes": [
+        "small",
+        "morsel of a child",
+        "pretty hair"
+      ],
+      "roles": [
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/TINA.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/TINA.mp3"
+    },
+    {
+      "identifier": "YOUNG_MAN_1",
+      "name": "Young Man",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "casual",
+        "smoking"
+      ],
+      "visual_attributes": [
+        "young man"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/YOUNG_MAN_1.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/YOUNG_MAN_1.mp3"
+    },
+    {
+      "identifier": "YOUNG_MAN_2",
+      "name": "Friend",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "casual"
+      ],
+      "visual_attributes": [
+        "young man"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/YOUNG_MAN_2.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/YOUNG_MAN_2.mp3"
+    },
+    {
+      "identifier": "MINNIE_KIRKE",
+      "name": "Minnie",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "old-fashioned",
+        "prim"
+      ],
+      "visual_attributes": [
+        "young girl"
+      ],
+      "roles": [
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MINNIE_KIRKE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MINNIE_KIRKE.mp3"
+    },
+    {
+      "identifier": "KITTY_KIRKE",
+      "name": "Kitty",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "childish",
+        "energetic"
+      ],
+      "visual_attributes": [
+        "young girl"
+      ],
+      "roles": [
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/KITTY_KIRKE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/KITTY_KIRKE.mp3"
+    },
+    {
+      "identifier": "MISS_LAMB",
+      "name": "Miss Lamb",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "friendly",
+        "amused"
+      ],
+      "visual_attributes": [
+        "young",
+        "bright dress"
+      ],
+      "roles": [
+        "acquaintance"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MISS_LAMB.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MISS_LAMB.mp3"
+    },
+    {
+      "identifier": "MISS_CHESTER",
+      "name": "Miss Chester",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "haughty",
+        "cold"
+      ],
+      "visual_attributes": [
+        "fashionable dress",
+        "bored expression"
+      ],
+      "roles": [
+        "acquaintance"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MISS_CHESTER.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MISS_CHESTER.mp3"
+    },
+    {
+      "identifier": "DR_BANGS",
+      "name": "Dr. Bangs",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "professional",
+        "fatherly"
+      ],
+      "visual_attributes": [
+        "middle_aged",
+        "spectacles",
+        "side whiskers",
+        "black bag"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/DR_BANGS.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/DR_BANGS.mp3"
+    },
+    {
+      "identifier": "STUDENT_1",
+      "name": "Student",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "coquettish",
+        "affected"
+      ],
+      "visual_attributes": [
+        "young lady"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/STUDENT_1.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/STUDENT_1.mp3"
+    },
+    {
+      "identifier": "MAJOR_LINCOLN",
+      "name": "Major Lincoln",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "critical",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "military bearing",
+        "mustache"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MAJOR_LINCOLN.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MAJOR_LINCOLN.mp3"
+    },
+    {
+      "identifier": "PARKER",
+      "name": "Parker",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Little Parker"
+      ],
+      "voice_attributes": [
+        "eager",
+        "boyish",
+        "trying to be witty"
+      ],
+      "visual_attributes": [
+        "young",
+        "college suit",
+        "smooth face"
+      ],
+      "roles": [
+        "student"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/PARKER.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/PARKER.mp3"
+    },
+    {
+      "identifier": "SCHOOL_GIRL",
+      "name": "School Girl",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "whispering"
+      ],
+      "visual_attributes": [
+        "pigtails",
+        "apron"
+      ],
+      "roles": [
+        "student"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/SCHOOL_GIRL.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/SCHOOL_GIRL.mp3"
+    },
+    {
+      "identifier": "MRS_HUMMEL",
+      "name": "Mrs. Hummel",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Poor Woman"
+      ],
+      "voice_attributes": [
+        "weary",
+        "grateful",
+        "german accent"
+      ],
+      "visual_attributes": [
+        "pale",
+        "ragged"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_HUMMEL.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/MRS_HUMMEL.mp3"
+    },
+    {
+      "identifier": "DAISY_BROOKE",
+      "name": "Daisy",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "prattling",
+        "sweet",
+        "angelic",
+        "loving"
+      ],
+      "visual_attributes": [
+        "rosy",
+        "chubby",
+        "sunshiny",
+        "gold hair"
+      ],
+      "roles": [
+        "child"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "female",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/DAISY_BROOKE.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/DAISY_BROOKE.mp3"
+    },
+    {
+      "identifier": "OLD_GENTLEMAN_STREET",
+      "name": "Old Gentleman",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "OLD_GENTLEMAN_COLLISION"
+      ],
+      "voice_attributes": [
+        "offended",
+        "formal",
+        "gruff"
+      ],
+      "visual_attributes": [
+        "stately",
+        "elderly",
+        "formal coat"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/OLD_GENTLEMAN_STREET.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/OLD_GENTLEMAN_STREET.mp3"
+    },
+    {
+      "identifier": "STORE_CLERK",
+      "name": "Clerk",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "salesman-like",
+        "condescending"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "apron",
+        "neat"
+      ],
+      "roles": [
+        "minor",
+        "shopkeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/STORE_CLERK.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/STORE_CLERK.mp3"
+    },
+    {
+      "identifier": "HUMMEL_CHILDREN",
+      "name": "Hummel Child",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "weak",
+        "excited"
+      ],
+      "visual_attributes": [
+        "pale",
+        "huddled"
+      ],
+      "roles": [
+        "minor"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/HUMMEL_CHILDREN.png",
+      "voice_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/characters/HUMMEL_CHILDREN.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "MOFFAT_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. MOFFAT DRAWING ROOM - DAY",
+      "visual_description": "A lavish Victorian drawing room showcasing considerable wealth. Overstuffed furniture upholstered in silk, heavy gilded mirrors, and thick carpets. Tables are cluttered with expensive knick-knacks and vases. The atmosphere is opulent but perhaps slightly ostentatious compared to the March home. Large windows with heavy draperies.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MOFFAT_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_MARCH_PARLOR",
+      "ordinal": 0,
+      "location_header": "INT. MARCH PARLOR - DAY",
+      "visual_description": "A comfortable mid-19th century American parlor. Worn but inviting armchairs and a sofa arranged near a large fireplace. Homey details like a work basket, books, and family mementos fill the room. Warm, domestic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_MARCH_PARLOR.jpg"
+    },
+    {
+      "identifier": "EXT_SEASIDE_ROCKS",
+      "ordinal": 0,
+      "location_header": "EXT. SEASIDE ROCKS - DAY",
+      "visual_description": "A quiet, unfashionable rocky beach in spring. Grey rocks warmed by the sun. The vast ocean stretches out, blue and rhythmic. Secluded and peaceful, with the sound of wind and waves.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_SEASIDE_ROCKS.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_LONDON",
+      "ordinal": 0,
+      "location_header": "INT. HOTEL LONDON - DAY",
+      "visual_description": "A comfortable but slightly worn hotel room in 1860s London. A writing desk near a window overlooking Piccadilly. Sketchbooks and travel gear scattered about. A coal fire in the grate. Grey daylight.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_HOTEL_LONDON.jpg"
+    },
+    {
+      "identifier": "EXT_CITY_STREET_RAIN",
+      "ordinal": 0,
+      "location_header": "EXT. CITY STREET - DAY",
+      "visual_description": "A busy 1860s city street under a lowering gray sky. Muddy puddles cover the cobblestones. Red brick warehouses and wholesale stores line the road. Rain falls steadily, creating a wet, gloomy atmosphere. A few umbrellas bob in the distance.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_CITY_STREET_RAIN.jpg"
+    },
+    {
+      "identifier": "INT_FAIR_HALL",
+      "ordinal": 0,
+      "location_header": "INT. FAIR HALL - DAY",
+      "visual_description": "A large, festive hall prepared for a charity fair in the 1860s. Rows of draped tables laden with fancy goods, painted vases, and needlework. An art table stands prominently. A flower stand features an evergreen arch. Bunting and garlands decorate the walls. Bustling atmosphere with ladies arranging displays.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_FAIR_HALL.jpg"
+    },
+    {
+      "identifier": "MARCH_PARENTS_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. SICK ROOM - DAY",
+      "visual_description": "A large, quiet master bedroom in a Victorian home. A four-poster bed with heavy curtains stands in the corner. A well-worn easy chair sits near a medicine chest. The atmosphere is dim and hushed, lit only by the grey winter light from the window.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_PARENTS_ROOM.jpg"
+    },
+    {
+      "identifier": "DOVE_COTE_INTERIOR",
+      "ordinal": 0,
+      "location_header": "INT. DOVE COTE - DAY",
+      "visual_description": "A tiny, charming cottage interior in June. Simple but tasteful furnishings. A small parlor with books, pictures, and a flower stand. A neat kitchen visible with polished pans. The house is small and narrow but filled with loving touches and gifts. Bright summer light streams through muslin curtains.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_DOVE_COTE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "EXT_LAURENCE_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. LAURENCE GARDEN - AFTERNOON",
+      "visual_description": "A lush Victorian garden on a warm September afternoon. A hammock is strung between horse-chestnut trees in green gloom. A fence separates this garden from the neighboring yard. Peaceful and drowsy.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_LAURENCE_GARDEN.jpg"
+    },
+    {
+      "identifier": "MARCH_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. MARCH BEDROOM - DAY",
+      "visual_description": "An attic-like bedroom in the bright light of a June morning. Two beds with colorful quilts. A collection of old dolls arranged with tender care in a makeshift hospital corner. Simple, neat, and full of childish affection. Sunlight streams in, illuminating fresh roses and the simple wedding preparations.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_BEDROOM.jpg"
+    },
+    {
+      "identifier": "MARCH_PARLOR_EVENING",
+      "ordinal": 0,
+      "location_header": "INT. MARCH PARLOR - EVENING",
+      "visual_description": "A comfortable American Victorian parlor at twilight, illuminated by the warm glow of a large fireplace. Worn but inviting armchairs and a sofa are arranged near the hearth. The room is filled with homey details: a work basket, books, and family mementos. Soft shadows dance on the walls, creating an intimate, peaceful atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_PARLOR_EVENING.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "EXT_MARCH_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. MARCH GARDEN - DAY",
+      "visual_description": "A large, rambling garden in spring. Divided into four distinct plots: one with roses and heliotrope, one chaotic with sunflowers, one with old-fashioned fragrant herbs and sweet peas, and a bower with honeysuckles and morning-glories. Fresh green growth everywhere under a bright spring sky.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_MARCH_GARDEN.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_NICE_NOON",
+      "ordinal": 0,
+      "location_header": "INT. HOTEL SALON - DAY",
+      "visual_description": "An elegant private salon in a Nice hotel, shielded from the midday sun by heavy curtains. Bright shards of light pierce the gloom, illuminating velvet armchairs and a writing desk. Sketchbooks and letters are scattered about. A lazy, quiet atmosphere of noon repose.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_HOTEL_NICE_NOON.jpg"
+    },
+    {
+      "identifier": "MARCH_BEDROOM_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. MARCH BEDROOM - NIGHT",
+      "visual_description": "An attic-like bedroom in the dark of night. Lit only by soft moonlight or a dim candle. Two beds with colorful quilts. Shadows are deep in the corners. The atmosphere is quiet and intimate.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_BEDROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_COLLEGE_GROUNDS",
+      "ordinal": 0,
+      "location_header": "EXT. COLLEGE GROUNDS - DAY",
+      "visual_description": "The grounds of a university after graduation. Crowds of people in formal dress. Carriages waiting. Late afternoon light. Festive atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_COLLEGE_GROUNDS.jpg"
+    },
+    {
+      "identifier": "INT_VOLCANO_OFFICE",
+      "ordinal": 0,
+      "location_header": "INT. WEEKLY VOLCANO OFFICE - DAY",
+      "visual_description": "A disorderly editorial office in 1860s New York. Clouds of cigar smoke hang in the air. A desk piled high with papers and manuscripts. Dirty windows overlook a busy street. Gentlemen sitting with feet up. Dusty, masculine, and business-like.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_VOLCANO_OFFICE.jpg"
+    },
+    {
+      "identifier": "DOVE_COTE_PARLOR",
+      "ordinal": 0,
+      "location_header": "INT. DOVE COTE PARLOR - DAY",
+      "visual_description": "A small, modest Victorian parlor in a cottage. Simple but tasteful furnishings show signs of wear and baby-proofing. A sewing basket overflows on a side table. Soft afternoon light filters through muslin curtains. The atmosphere is domestic, slightly cluttered, and cozy.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_DOVE_COTE_PARLOR.jpg"
+    },
+    {
+      "identifier": "INT_LAURIE_ROOM_VIENNA",
+      "ordinal": 0,
+      "location_header": "INT. LAURIE'S APARTMENT - NIGHT",
+      "visual_description": "A messy musician's apartment in Vienna at night. A grand piano is piled with music sheets. Marble busts of composers line the shelves. Gaslight flickers on a writing desk cluttered with letters and bills. A fireplace with dying embers. Moody and artistic atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_LAURIE_ROOM_VIENNA.jpg"
+    },
+    {
+      "identifier": "MARCH_ATTIC",
+      "ordinal": 0,
+      "location_header": "INT. MARCH ATTIC - DAY",
+      "visual_description": "A rustic attic garret with a sloping roof and rough wooden beams, serving as a writer's sanctum. A sunny window seat is piled with cushions. An old tin-kitchen is used as a manuscript safe. The room is quiet, dusty, and secluded, filled with the scratching sound of a pen. The red bow on Jo's cap is the only bright spot of color.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_ATTIC.jpg"
+    },
+    {
+      "identifier": "EXT_NICE_PROMENADE",
+      "ordinal": 0,
+      "location_header": "EXT. PROMENADE DES ANGLAIS - DAY",
+      "visual_description": "The Promenade des Anglais in Nice, 1860s. A wide, sunny walk bordered by palm trees and tropical shrubs. The sparkling blue Mediterranean on one side, grand white hotels on the other. Crowded with carriages and fashionable people in bright costumes.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_NICE_PROMENADE.jpg"
+    },
+    {
+      "identifier": "INT_BETHS_ROOM_FINAL",
+      "ordinal": 0,
+      "location_header": "INT. BETH'S ROOM - DAY",
+      "visual_description": "A bright, peaceful sickroom filled with signs of love. A piano, a desk, and a vase of fresh flowers sit in the sun. A fire burns low in the grate. The atmosphere is not gloomy, but calm and spiritual, like a private chapel. Spring sunshine streams in.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_BETHS_ROOM_FINAL.jpg"
+    },
+    {
+      "identifier": "INT_BHAER_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. PROFESSOR BHAER'S ROOM - NIGHT",
+      "visual_description": "A chaotic, scholarly den. Books and papers stacked everywhere. A mantelpiece holding a broken meerschaum and flute. A birdcage in the window. Dusty, cluttered, but filled with a warm, intellectual spirit.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_BHAER_ROOM.jpg"
+    },
+    {
+      "identifier": "MARCH_PARLOR",
+      "ordinal": 1,
+      "location_header": "INT. MARCH PARLOR - DAY",
+      "visual_description": "A comfortable mid-19th century American parlor dressed for a wedding. Garlands of flowers and green boughs decorate the walls. A large fireplace with a screen stands ready. The furniture is pushed back to create space. The atmosphere is festive, crowded, and warm with family affection. Sunshine filters through chrysanthemum-filled windows.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_PARLOR.jpg"
+    },
+    {
+      "identifier": "EXT_STREET_WINTER",
+      "ordinal": 1,
+      "location_header": "EXT. STREET - DAY",
+      "visual_description": "A New England village street on a bitter winter morning. Snow piled high in drifts along the fences. Gray sky hangs low overhead, promising more snow. The wind whips down the unpaved road, rattling the bare branches of elm trees.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_STREET_WINTER.jpg"
+    },
+    {
+      "identifier": "SCHOOL_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. SCHOOLROOM - DAY",
+      "visual_description": "A strict 19th-century schoolroom. Rows of wooden desks with inkwells. A blackboard with sums and maps. A large stove in the corner provides heat. The atmosphere is disciplined but busy with students.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_SCHOOL_ROOM.jpg"
+    },
+    {
+      "identifier": "MARCH_DINING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. DINING ROOM - DAY",
+      "visual_description": "A sunny Victorian dining room. A mahogany table is set for a dinner party with china and glass. Tall windows overlook the garden. The atmosphere is bright but slightly tense. A sideboard holds serving dishes.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "LAURENCE_DRAWING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LAURENCE DRAWING ROOM - EVENING",
+      "visual_description": "A cavernous, elegant drawing room. A grand piano stands open near the fireplace. Heavy velvet drapes, crystal chandeliers, and oil portraits in gilded frames. The room is imposing but warmed by the fire and the presence of music.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "EXT_RIVER_WINTER",
+      "ordinal": 1,
+      "location_header": "EXT. RIVER - DAY",
+      "visual_description": "A frozen river landscape in late afternoon winter light. A sweeping bend of ice winds between snow-covered banks. Bare trees line the shore, their branches dark against a gray, heavy sky. In the center of the river, the ice looks darker and treacherous. A fence rail lies near the snowy bank. Cold, dangerous, and stark.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_RIVER_WINTER.jpg"
+    },
+    {
+      "identifier": "MOFFAT_BALLROOM",
+      "ordinal": 1,
+      "location_header": "INT. BALLROOM - NIGHT",
+      "visual_description": "A grand ballroom in a wealthy home, prepared for a party. Crystal chandeliers blaze with light, reflecting on the polished wooden floor. Groups of well-dressed young people in bright silks and tarlatans mingle. Festive and airy, with music implied by the setting.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MOFFAT_BALLROOM.jpg"
+    },
+    {
+      "identifier": "MARCH_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. MARCH STUDY - DAY",
+      "visual_description": "A small, cluttered study or writing corner. A bust of Plato with an old hat on it. Piles of manuscripts, inkstained desk. Cozy but messy. Quiet atmosphere suitable for writing.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_STUDY.jpg"
+    },
+    {
+      "identifier": "EXT_PINE_GROVE",
+      "ordinal": 1,
+      "location_header": "EXT. PINE GROVE - AFTERNOON",
+      "visual_description": "A secluded pine grove on a hilltop. Golden September light filtering through branches. Views of a distant river and city spires. Brown pine needles cover the ground. Ferns and birches add texture. Sunset colors beginning to show.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_PINE_GROVE.jpg"
+    },
+    {
+      "identifier": "INT_LECTURE_HALL",
+      "ordinal": 1,
+      "location_header": "INT. LECTURE HALL - NIGHT",
+      "visual_description": "A public lecture hall, 1860s. Rows of wooden benches filled with a diverse audience of matrons, lovers, and workers. A platform with a speaker's lectern stands at the front. Gas lighting casts a yellowish glow. The atmosphere is somewhat stuffy and crowded, filled with the drone of a lecture.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_LECTURE_HALL.jpg"
+    },
+    {
+      "identifier": "MARCH_HALLWAY",
+      "ordinal": 1,
+      "location_header": "INT. MARCH HALLWAY - DAY",
+      "visual_description": "A simple Victorian entry hall. A staircase with polished banisters leads up. A hall tree holds coats and hats. A single chair sits near the door. Winter light filters through the transom window, but the space is cool and drafty.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_HALLWAY.jpg"
+    },
+    {
+      "identifier": "AUNT_MARCH_CHAPEL",
+      "ordinal": 1,
+      "location_header": "INT. CHAPEL - DAY",
+      "visual_description": "A small, quiet closet or dressing-room converted into a private chapel. A little table acts as an altar with a vase of flowers and a religious picture. A footstool is placed for prayer. The atmosphere is dim, intimate, and peaceful.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_AUNT_MARCH_CHAPEL.jpg"
+    },
+    {
+      "identifier": "LAURENCE_BOYS_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. LAURIE'S STUDY - DAY",
+      "visual_description": "A young gentleman's study, messy and boyish. A desk is cluttered with books, papers, and a railroad map. Comfortable chairs are scattered about. A window overlooks the neighboring house. The room reflects a restless, energetic spirit.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_BOYS_STUDY.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_PARIS",
+      "ordinal": 1,
+      "location_header": "INT. HOTEL PARIS - DAY",
+      "visual_description": "An elegant Parisian hotel room with tall french windows opening onto a balcony. View of the Rue de Rivoli. Louis XIV style furniture, gilt mirrors, bright and airy. Sunlight streaming in.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_HOTEL_PARIS.jpg"
+    },
+    {
+      "identifier": "EXT_NICE_STREETS",
+      "ordinal": 1,
+      "location_header": "EXT. STREETS OF NICE - DAY",
+      "visual_description": "The narrow, winding streets of the Old City in Nice. Tall, weathered buildings with picturesque dirt and character. Shadows cast by arches. A religious procession passes with candles and canopies. Old World atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_NICE_STREETS.jpg"
+    },
+    {
+      "identifier": "DOVE_COTE_KITCHEN",
+      "ordinal": 1,
+      "location_header": "INT. KITCHEN - DAY",
+      "visual_description": "A small Victorian cottage kitchen in a state of chaotic disarray. Sticky pots of red jelly bubble on the cast-iron stove, some boiling over. Sugar stains the floor. Unwashed bowls and spoons clutter the table. The room is stiflingly hot and filled with steam and the smell of burnt sugar.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_DOVE_COTE_KITCHEN.jpg"
+    },
+    {
+      "identifier": "EXT_SUBURBAN_LANE_SUMMER",
+      "ordinal": 1,
+      "location_header": "EXT. LANE - DAY",
+      "visual_description": "A quiet suburban lane in July. Green trees line the road, their leaves heavy with summer dust. Low fences separate gardens from the unpaved path. The light is bright and warm. A peaceful, leafy atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_SUBURBAN_LANE_SUMMER.jpg"
+    },
+    {
+      "identifier": "INT_KIRKE_HALLWAY",
+      "ordinal": 1,
+      "location_header": "INT. BOARDING HOUSE HALLWAY - DAY",
+      "visual_description": "A tall, narrow boarding house hallway with long flights of stairs. Worn carpets, gas sconces, and a busy atmosphere. Residents pass by.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_KIRKE_HALLWAY.jpg"
+    },
+    {
+      "identifier": "INT_SYMPOSIUM",
+      "ordinal": 1,
+      "location_header": "INT. LITERARY SYMPOSIUM - NIGHT",
+      "visual_description": "A crowded literary salon in a New York drawing room. Gaslight illuminates intellectual celebrities holding teacups. Fashionable dress mixed with eccentric artistic attire. A buzz of conversation. Elegant but stifling.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_SYMPOSIUM.jpg"
+    },
+    {
+      "identifier": "EXT_GROVE_PATH",
+      "ordinal": 1,
+      "location_header": "EXT. GROVE PATH - AFTERNOON",
+      "visual_description": "A quiet, wooded path leading through a pine grove. Dappled sunlight filtering through the trees. A wooden stile near a stone wall. Wildflowers and tall grass. Secluded and romantic but tense.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_GROVE_PATH.jpg"
+    },
+    {
+      "identifier": "INT_DOVE_COTE_NURSERY",
+      "ordinal": 1,
+      "location_header": "INT. NURSERY - NIGHT",
+      "visual_description": "A cozy nursery bedroom in the cottage at night. Two small cribs stand in the shadows. A low fire burns in the grate, casting a warm red glow across the room and onto a rocking chair. The room is tidy but lived-in, with a few scattered toys. Quiet and intimate atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_DOVE_COTE_NURSERY.jpg"
+    },
+    {
+      "identifier": "EXT_VALROSA_TERRACE",
+      "ordinal": 1,
+      "location_header": "EXT. VILLA VALROSA TERRACE - DAY",
+      "visual_description": "A magnificent stone terrace at Villa Valrosa, bathed in brilliant Mediterranean sunlight. Roses of every color climb the balustrades and drape over urns. A wide view of the blue sea and white-walled city below. A rustic seat sits in the shade of a palm tree. Idyllic and fragrant.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_VALROSA_TERRACE.jpg"
+    },
+    {
+      "identifier": "EXT_PLUMFIELD_ORCHARD",
+      "ordinal": 1,
+      "location_header": "EXT. PLUMFIELD ORCHARD - DAY",
+      "visual_description": "A large apple orchard in mellow October sunshine. Mossy stone walls are fringed with golden-rod and asters. Trees heavy with red and yellow apples shade green grass where a picnic is spread. A festive, rural atmosphere with ladders against trees and baskets of fruit.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_PLUMFIELD_ORCHARD.jpg"
+    },
+    {
+      "identifier": "EXT_CITY_STREET_AUTUMN",
+      "ordinal": 1,
+      "location_header": "EXT. CITY STREET - DAY",
+      "visual_description": "A busy 1860s city street in October. Red brick buildings and cobblestones. A dentist's sign with large artificial jaws hangs near a doorway. Autumn leaves swirl on the pavement among pedestrians and carriages. Overcast but bright.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_CITY_STREET_AUTUMN.jpg"
+    },
+    {
+      "identifier": "MOFFAT_CONSERVATORY",
+      "ordinal": 2,
+      "location_header": "INT. CONSERVATORY - NIGHT",
+      "visual_description": "A glass-walled conservatory adjacent to the ballroom. Tall tropical plants and ferns create green privacy screens. Gas lamps cast soft, leafy shadows. A bench or seat is tucked behind a wall of flowers, offering a hiding place. The air is warm and humid.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MOFFAT_CONSERVATORY.jpg"
+    },
+    {
+      "identifier": "EXT_CASTLE_HILL",
+      "ordinal": 2,
+      "location_header": "EXT. CASTLE HILL RUINS - DAY",
+      "visual_description": "The ruins of an old fort atop a hill in Nice. Crumbling stone walls overgrown with greenery. Brilliant peacocks roam the grounds. A sweeping view of the bay, the red-tiled roofs below, and the distant island of Corsica on the horizon.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_CASTLE_HILL.jpg"
+    },
+    {
+      "identifier": "EXT_CHATEAU_GARDEN_VEVAY",
+      "ordinal": 2,
+      "location_header": "EXT. CHATEAU GARDEN - DAY",
+      "visual_description": "A pleasant old garden on the borders of Lake Geneva. Chestnuts rustle overhead, and ivy climbs the stone walls. The black shadow of an old tower falls across the sunny water. A bench sits in a quiet corner. Peaceful, sunny, and romantic.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_CHATEAU_GARDEN_VEVAY.jpg"
+    },
+    {
+      "identifier": "EXT_DOVE_COTE_GARDEN",
+      "ordinal": 2,
+      "location_header": "EXT. COTTAGE GARDEN - DAY",
+      "visual_description": "A small, modest garden attached to a cottage. Currant bushes line the fence. A few vegetables and flowers struggle for space. The late afternoon sun casts long shadows. A sense of quiet solitude, broken only by the buzzing of insects.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_DOVE_COTE_GARDEN.jpg"
+    },
+    {
+      "identifier": "GARDINER_BALLROOM",
+      "ordinal": 2,
+      "location_header": "INT. GARDINER BALLROOM - NIGHT",
+      "visual_description": "A festive Victorian ballroom filled with light and music. Polished wood floors reflect the gaslight from crystal chandeliers. Garlands of holly and crimson berries adorn the walls. A curtained recess with red velvet drapes offers a secluded nook off the main dance floor.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_GARDINER_BALLROOM.jpg"
+    },
+    {
+      "identifier": "INT_KIRKE_PARLOR",
+      "ordinal": 2,
+      "location_header": "INT. BOARDING HOUSE PARLOR - NIGHT",
+      "visual_description": "A comfortable, communal parlor. Practical furniture, a glass door leading to a nursery. Toys scattered about. Homely and lived-in. Warm gaslight.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_KIRKE_PARLOR.jpg"
+    },
+    {
+      "identifier": "LAURENCE_LIBRARY",
+      "ordinal": 2,
+      "location_header": "INT. LAURENCE LIBRARY - LATE AFTERNOON",
+      "visual_description": "A grand Victorian library lined with floor-to-ceiling mahogany bookshelves. Bronze busts and statues sit atop cabinets. A large open fireplace with quaint tiles dominates one wall. Deep velvet 'sleepy-hollow' chairs and curio cabinets filled with coins. Rich, scholarly atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_LIBRARY.jpg"
+    },
+    {
+      "identifier": "HUMMEL_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. TENEMENT ROOM - DAY",
+      "visual_description": "A bare, miserable tenement room. Broken windows stuffed with rags, a cold hearth, and ragged bedclothes. The air is frigid and the atmosphere is one of stark poverty and desperation, contrasting with the warmth of the March home.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_HUMMEL_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_OMNIBUS",
+      "ordinal": 2,
+      "location_header": "INT. OMNIBUS - DAY",
+      "visual_description": "Interior of a horse-drawn omnibus in the 1860s. Narrow wooden benches, straw on the floor, and rattling glass windows. Viewed from inside with passengers. Dusty, utilitarian public transport atmosphere with light flickering as it moves through town.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_OMNIBUS.jpg"
+    },
+    {
+      "identifier": "EXT_ROAD_AUTUMN",
+      "ordinal": 2,
+      "location_header": "EXT. COUNTRY ROAD - DAY",
+      "visual_description": "A smooth country road winding through hills in late afternoon October light. A stone wall runs alongside. A large maple tree sheds crimson leaves onto the grassy bank. Rolling hills in the distance. Rural and peaceful.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_ROAD_AUTUMN.jpg"
+    },
+    {
+      "identifier": "DOVE_COTE_PARLOR_NIGHT",
+      "ordinal": 2,
+      "location_header": "INT. DOVE COTE PARLOR - NIGHT",
+      "visual_description": "The Dove Cote parlor at night, lit by a cheerful lamp. A tea tray is set on a small table. A bonnet with lace and flowers sits on a workspace. The room feels warmer and more romantic than in the day, a small haven of domestic peace.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_DOVE_COTE_PARLOR_NIGHT.jpg"
+    },
+    {
+      "identifier": "MARCH_KITCHEN",
+      "ordinal": 2,
+      "location_header": "INT. KITCHEN - DAY",
+      "visual_description": "A large, rustic Victorian kitchen with a cast-iron stove and wooden worktables. Copper pots hang from the ceiling. A pantry door stands open. The room is messy, with flour dusting the surfaces and piles of unwashed dishes. Morning light streams through a window.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MARCH_KITCHEN.jpg"
+    },
+    {
+      "identifier": "AUNT_MARCH_SPARE_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. SPARE ROOM - DAY",
+      "visual_description": "A large, seldom-used guest chamber in a grand house. A massive wardrobe stands open, revealing old-fashioned brocades and costumes. A long mirror reflects the play of dress-up. The room is dusty but filled with the magic of old clothes.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_AUNT_MARCH_SPARE_ROOM.jpg"
+    },
+    {
+      "identifier": "LAURENCE_PARLOR",
+      "ordinal": 2,
+      "location_header": "INT. LAURENCE PARLOR - DAY",
+      "visual_description": "A cozy, masculine sitting room on the upper floor of a Victorian mansion. Dark wood paneling, a velvet sofa, and shelves of books. A fireplace with a small fire. Medicines and books clutter the tables. A large window overlooks the snowy garden.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_PARLOR.jpg"
+    },
+    {
+      "identifier": "EXT_MARCH_GATE",
+      "ordinal": 2,
+      "location_header": "EXT. MARCH GATE - DUSK",
+      "visual_description": "The garden gate of the March house at dusk. A picket fence separates the garden from the road. Lilac bushes and trees frame the entrance. The house is visible in the background with warm light in the windows. Peaceful suburban evening atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_MARCH_GATE.jpg"
+    },
+    {
+      "identifier": "AUNT_MARCH_LIBRARY",
+      "ordinal": 2,
+      "location_header": "INT. LIBRARY - DAY",
+      "visual_description": "A grand but dusty library in a wealthy Victorian home. Tall mahogany bookcases filled with leather-bound volumes line the walls. Marble busts stare down from above. A large, velvet easy-chair sits in a quiet corner, surrounded by globes and piles of books. The atmosphere is silent, scholarly, and slightly imposing.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_AUNT_MARCH_LIBRARY.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_HEIDELBERG",
+      "ordinal": 2,
+      "location_header": "INT. HOTEL HEIDELBERG - DAY",
+      "visual_description": "A quaint German hotel room. Heavy wooden furniture, a porcelain stove. A window looking out towards the castle ruins and the Neckar river. Warm afternoon light. Sketching materials on a table.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_HOTEL_HEIDELBERG.jpg"
+    },
+    {
+      "identifier": "LAMB_DRAWING_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. LAMB DRAWING ROOM - DAY",
+      "visual_description": "A lively, comfortable drawing room filled with people. The furniture is less formal, encouraging conversation. The room feels warm and social, with a buzz of activity.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAMB_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_KIRKE_DINING_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. DINING ROOM - DAY",
+      "visual_description": "A long boarding house dining room. A large table set for many boarders. Noisy, filled with the clatter of cutlery and conversation. Utilitarian decor.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_KIRKE_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_SALOON_NICE",
+      "ordinal": 3,
+      "location_header": "INT. HOTEL SALON - EVENING",
+      "visual_description": "A long, elegant private hotel salon in Nice. Tall windows draped with red curtains. A crystal chandelier casts a flattering light. Polished floors, gilded mirrors, and French furniture. Evening atmosphere, ready for a ball.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_HOTEL_SALOON_NICE.jpg"
+    },
+    {
+      "identifier": "MOFFAT_BOUDOIR",
+      "ordinal": 3,
+      "location_header": "INT. BOUDOIR - EVENING",
+      "visual_description": "A young lady's luxurious bedroom and dressing area. A large vanity table with a mirror is covered in powders, perfumes, and jewelry boxes. Dresses are laid out on a bed. The room is feminine, cluttered with finery, and lit by bright lamps for dressing.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_MOFFAT_BOUDOIR.jpg"
+    },
+    {
+      "identifier": "EXT_LAURENCE_LAWN",
+      "ordinal": 3,
+      "location_header": "EXT. LAURENCE LAWN - MORNING",
+      "visual_description": "A manicured Victorian lawn in summer. A grand house in the background. A carriage stands in the drive. Green grass and garden beds. Bright morning sunshine.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_LAURENCE_LAWN.jpg"
+    },
+    {
+      "identifier": "GARDINER_SIDE_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. GARDINER SIDE ROOM - NIGHT",
+      "visual_description": "A quiet, dimly lit ante-room away from the party noise. A plush velvet sofa sits against the wall. A door to a china closet stands ajar. The atmosphere is hushed and private, contrasting with the distant music.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_GARDINER_SIDE_ROOM.jpg"
+    },
+    {
+      "identifier": "DOVE_COTE_NURSERY",
+      "ordinal": 3,
+      "location_header": "INT. NURSERY - DAY",
+      "visual_description": "A cozy nursery bedroom in the cottage. Two small cribs stand near a rocking chair. A low fire burns in the grate. The room is tidy but lived-in, with a few scattered toys. Quiet and intimate atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_DOVE_COTE_NURSERY.jpg"
+    },
+    {
+      "identifier": "EXT_LAKE_GENEVA_BOAT",
+      "ordinal": 3,
+      "location_header": "EXT. LAKE GENEVA - DAY",
+      "visual_description": "A view from a small wooden rowboat on Lake Geneva at noonday. The water is deep blue and calm. In the distance, the Alps of Savoy and the Dent du Midi rise majestically against a cloudless sky. Pretty Vevay is visible in the valley. Bright, open, and serene.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_LAKE_GENEVA_BOAT.jpg"
+    },
+    {
+      "identifier": "INT_JO_SKY_PARLOR_NY",
+      "ordinal": 3,
+      "location_header": "INT. JO'S ROOM - NIGHT",
+      "visual_description": "A small, attic-like room in a New York boarding house. A cast-iron stove stands in the corner. A table is pushed against a sunny window offering a view of a church tower. Simple furnishings, a bed, and a sense of cozy, independent clutter. Bright winter light.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_JO_SKY_PARLOR_NY.jpg"
+    },
+    {
+      "identifier": "PLAY_SCENE",
+      "ordinal": 3,
+      "location_header": "INT. BEDROOM THEATRE - NIGHT",
+      "visual_description": "The March bedroom converted into a makeshift theatre. Sheets divide the stage from the 'dress-circle' on the bed. Props and costumes are scattered about. A clothes-horse forms a cave, and a small furnace glows with dramatic effect.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_PLAY_SCENE.jpg"
+    },
+    {
+      "identifier": "EXT_THIRD_HOUSE_GARDEN",
+      "ordinal": 4,
+      "location_header": "EXT. GARDEN - DAY",
+      "visual_description": "A pleasant garden with a grassy lawn. A large tree offers shade where boys are encamped. A dirty-footed dog runs about. The atmosphere is casual, noisy, and fun.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_THIRD_HOUSE_GARDEN.jpg"
+    },
+    {
+      "identifier": "EXT_MARCH_PORCH",
+      "ordinal": 4,
+      "location_header": "EXT. PORCH - TWILIGHT",
+      "visual_description": "A wooden porch of a Victorian house at twilight. Climbing roses in full bloom frame the pillars. Wicker chairs are arranged in a circle. The light is soft, blue, and dimming, creating a peaceful, intimate atmosphere.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_MARCH_PORCH.jpg"
+    },
+    {
+      "identifier": "LAURENCE_HALL",
+      "ordinal": 4,
+      "location_header": "INT. HALLWAY - DAY",
+      "visual_description": "A grand Victorian hallway with a sweeping staircase and polished wood floors. Oil portraits of ancestors line the walls. A tall grandfather clock stands sentinel. The space is echoing and impressive, lit by gas sconces.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_HALL.jpg"
+    },
+    {
+      "identifier": "EXT_RIVER_SUMMER",
+      "ordinal": 4,
+      "location_header": "EXT. RIVER - DAY",
+      "visual_description": "A sparkling river in summer sun. Green banks lined with willows and reeds. Rowboats sit on the water. Blue sky reflected in the surface. Peaceful and bright.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_RIVER_SUMMER.jpg"
+    },
+    {
+      "identifier": "EXT_STEAMER_DOCK",
+      "ordinal": 4,
+      "location_header": "EXT. DOCK - DAY",
+      "visual_description": "A busy steamship dock in the 1860s. A large wooden gangway leads up to the ship's deck. Crowds of people waving handkerchiefs. Barrels and trunks stacked nearby. The ocean visible beyond. Bright summer sunshine.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_STEAMER_DOCK.jpg"
+    },
+    {
+      "identifier": "INT_HOTEL_BALLROOM_NICE",
+      "ordinal": 4,
+      "location_header": "INT. HOTEL BALLROOM - NIGHT",
+      "visual_description": "A grand dining hall converted into a ballroom. Brightly lit by chandeliers. Festive Christmas decorations, holly and ivy. Crowded with an international mix of guests in evening wear. Music playing, lively and colorful.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_INT_HOTEL_BALLROOM_NICE.jpg"
+    },
+    {
+      "identifier": "CARRIAGE_INTERIOR",
+      "ordinal": 4,
+      "location_header": "INT. CARRIAGE - NIGHT",
+      "visual_description": "The interior of a luxurious Victorian closed carriage. Plush velvet seats, a small lantern casting a warm, swaying light. Rain streaks the glass windows, blurring the passing gaslights outside. Intimate and comfortable.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_CARRIAGE_INTERIOR.jpg"
+    },
+    {
+      "identifier": "AUNT_MARCH_PARLOR",
+      "ordinal": 5,
+      "location_header": "INT. AUNT MARCH'S PARLOR - DAY",
+      "visual_description": "A stiff, formal Victorian parlor filled with old-fashioned furniture. Chairs with claw legs and elaborate carving are arranged precisely. A large Indian cabinet filled with curios stands in the room. The room is spotless, dustless, and imposing, with heavy draperies blocking much of the light.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_AUNT_MARCH_PARLOR.jpg"
+    },
+    {
+      "identifier": "EXT_LONGMEADOW",
+      "ordinal": 5,
+      "location_header": "EXT. LONGMEADOW - DAY",
+      "visual_description": "A sunny green meadow by the river. Three large oaks provide shade. A white canvas tent is pitched. Croquet wickets dot the grass. Summer afternoon light. A picnic spread on the ground.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_EXT_LONGMEADOW.jpg"
+    },
+    {
+      "identifier": "LAURENCE_DINING_ROOM",
+      "ordinal": 5,
+      "location_header": "INT. DINING ROOM - DAY",
+      "visual_description": "A formal Victorian dining room. A long mahogany table set with fine china and silver service. Heavy draperies frame tall windows. The room is imposing but warmed by the smell of tea and toast.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "LAURENCE_CONSERVATORY",
+      "ordinal": 6,
+      "location_header": "INT. CONSERVATORY - NIGHT",
+      "visual_description": "A lush, glass-enclosed Victorian conservatory filled with tropical plants. Tall palms and blooming flowers line the tiled walkways. Gas lamps cast a soft, warm glow on the greenery, contrasting with the dark winter night outside.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_CONSERVATORY.jpg"
+    },
+    {
+      "identifier": "LAURENCE_STUDY",
+      "ordinal": 6,
+      "location_header": "INT. LAURENCE STUDY - DAY",
+      "visual_description": "A private, somewhat austere study. A large desk covered in papers, a leather armchair, and a wall of reference books. Serious and quiet, the retreat of an old scholar.",
+      "metadata": {},
+      "image_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/scenes/scene_LAURENCE_STUDY.jpg"
+    }
+  ],
+  "subjects": [
+    "Autobiographical fiction",
+    "Young women -- Fiction",
+    "Sisters -- Fiction",
+    "Domestic fiction",
+    "Family life -- New England -- Fiction",
+    "New England -- Fiction",
+    "Bildungsromans",
+    "Mothers and daughters -- Fiction",
+    "March family (Fictitious characters) -- Fiction"
+  ]
+}
