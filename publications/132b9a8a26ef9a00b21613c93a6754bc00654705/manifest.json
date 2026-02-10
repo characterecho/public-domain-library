@@ -8,7 +8,7 @@
   "identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
   "publication_type": "novel",
   "cover_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/cover.png",
-  "total_duration_s": 42664.439706000005,
+  "total_duration_s": 42665.937688000005,
   "genre_tags": [
     "Classics",
     "Historical Fiction",
@@ -21,79 +21,79 @@
       "ordinal": 0,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3588.973379
+      "end_s": 3590.471361
     },
     {
       "ordinal": 1,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_1.mp3",
-      "start_s": 3588.973379,
-      "end_s": 6680.9702720000005
+      "start_s": 3590.471361,
+      "end_s": 6682.468253999999
     },
     {
       "ordinal": 2,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_2.mp3",
-      "start_s": 6680.9702720000005,
-      "end_s": 9977.833379
+      "start_s": 6682.468253999999,
+      "end_s": 9979.331361
     },
     {
       "ordinal": 3,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_3.mp3",
-      "start_s": 9977.833379,
-      "end_s": 13328.420114
+      "start_s": 9979.331361,
+      "end_s": 13329.918096000001
     },
     {
       "ordinal": 4,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_4.mp3",
-      "start_s": 13328.420114,
-      "end_s": 16261.658821
+      "start_s": 13329.918096000001,
+      "end_s": 16263.156803000002
     },
     {
       "ordinal": 5,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_5.mp3",
-      "start_s": 16261.658821,
-      "end_s": 19517.833764000003
+      "start_s": 16263.156803000002,
+      "end_s": 19519.331746000003
     },
     {
       "ordinal": 6,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_6.mp3",
-      "start_s": 19517.833764000003,
-      "end_s": 22520.752880000004
+      "start_s": 19519.331746000003,
+      "end_s": 22522.250862000004
     },
     {
       "ordinal": 7,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_7.mp3",
-      "start_s": 22520.752880000004,
-      "end_s": 25819.254218000002
+      "start_s": 22522.250862000004,
+      "end_s": 25820.752200000003
     },
     {
       "ordinal": 8,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_8.mp3",
-      "start_s": 25819.254218000002,
-      "end_s": 28077.079343
+      "start_s": 25820.752200000003,
+      "end_s": 28078.577325000002
     },
     {
       "ordinal": 9,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_9.mp3",
-      "start_s": 28077.079343,
-      "end_s": 31658.617053
+      "start_s": 28078.577325000002,
+      "end_s": 31660.115035000003
     },
     {
       "ordinal": 10,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_10.mp3",
-      "start_s": 31658.617053,
-      "end_s": 34330.4222
+      "start_s": 31660.115035000003,
+      "end_s": 34331.920182
     },
     {
       "ordinal": 11,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_11.mp3",
-      "start_s": 34330.4222,
-      "end_s": 37883.076327
+      "start_s": 34331.920182,
+      "end_s": 37884.574309
     },
     {
       "ordinal": 12,
       "audio_key": "publications/132b9a8a26ef9a00b21613c93a6754bc00654705/audio_part_12.mp3",
-      "start_s": 37883.076327,
-      "end_s": 42664.439706000005
+      "start_s": 37884.574309,
+      "end_s": 42665.937688000005
     }
   ],
   "segments": [
@@ -127,7 +127,7 @@
       "ordinal": 2,
       "title": "II. A Merry Christmas.",
       "start_s": 904.492,
-      "end_s": 1510.633,
+      "end_s": 1511.886,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -158,8 +158,8 @@
     {
       "ordinal": 3,
       "title": "III. The Laurence Boy.",
-      "start_s": 1510.633,
-      "end_s": 2619.891,
+      "start_s": 1511.886,
+      "end_s": 2621.388,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -195,8 +195,8 @@
     {
       "ordinal": 4,
       "title": "IV. Burdens.",
-      "start_s": 2619.891,
-      "end_s": 3588.973,
+      "start_s": 2621.388,
+      "end_s": 3590.471,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -232,8 +232,8 @@
     {
       "ordinal": 5,
       "title": "V. Being Neighborly.",
-      "start_s": 3588.973,
-      "end_s": 4952.883,
+      "start_s": 3590.471,
+      "end_s": 4954.381,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -284,8 +284,8 @@
     {
       "ordinal": 6,
       "title": "VI. Beth finds the Palace Beautiful.",
-      "start_s": 4952.883,
-      "end_s": 5821.321,
+      "start_s": 4954.381,
+      "end_s": 5822.819,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -311,8 +311,8 @@
     {
       "ordinal": 7,
       "title": "VII. Amy's Valley of Humiliation.",
-      "start_s": 5821.321,
-      "end_s": 6680.97,
+      "start_s": 5822.819,
+      "end_s": 6682.468,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -333,8 +333,8 @@
     {
       "ordinal": 8,
       "title": "VIII. Jo Meets Apollyon.",
-      "start_s": 6680.97,
-      "end_s": 7739.336,
+      "start_s": 6682.468,
+      "end_s": 7740.834,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -355,8 +355,8 @@
     {
       "ordinal": 9,
       "title": "IX. Meg goes to Vanity Fair.",
-      "start_s": 7739.336,
-      "end_s": 8885.614,
+      "start_s": 7740.834,
+      "end_s": 8887.112,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -387,8 +387,8 @@
     {
       "ordinal": 10,
       "title": "X. The P. C. and P. O.",
-      "start_s": 8885.614,
-      "end_s": 9051.294,
+      "start_s": 8887.112,
+      "end_s": 9052.792,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -409,8 +409,8 @@
     {
       "ordinal": 11,
       "title": "XI. Experiments.",
-      "start_s": 9051.294,
-      "end_s": 9977.833,
+      "start_s": 9052.792,
+      "end_s": 9979.331,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -436,8 +436,8 @@
     {
       "ordinal": 12,
       "title": "XII. Camp Laurence",
-      "start_s": 9977.833,
-      "end_s": 12239.256,
+      "start_s": 9979.331,
+      "end_s": 12240.754,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -478,8 +478,8 @@
     {
       "ordinal": 13,
       "title": "XIII. Castles in the Air.",
-      "start_s": 12239.256,
-      "end_s": 13328.42,
+      "start_s": 12240.754,
+      "end_s": 13329.918,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -500,8 +500,8 @@
     {
       "ordinal": 14,
       "title": "XIV. Secrets.",
-      "start_s": 13328.42,
-      "end_s": 14077.578,
+      "start_s": 13329.918,
+      "end_s": 14079.076,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -537,8 +537,8 @@
     {
       "ordinal": 15,
       "title": "XV. A Telegram.",
-      "start_s": 14077.578,
-      "end_s": 14753.207,
+      "start_s": 14079.076,
+      "end_s": 14754.705,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -564,8 +564,8 @@
     {
       "ordinal": 16,
       "title": "XVI. Letters.",
-      "start_s": 14753.207,
-      "end_s": 15525.721,
+      "start_s": 14754.705,
+      "end_s": 15527.219,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -616,8 +616,8 @@
     {
       "ordinal": 17,
       "title": "XVII. Little Faithful.",
-      "start_s": 15525.721,
-      "end_s": 16261.659,
+      "start_s": 15527.219,
+      "end_s": 16263.157,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -643,8 +643,8 @@
     {
       "ordinal": 18,
       "title": "XVIII. Dark Days.",
-      "start_s": 16261.659,
-      "end_s": 17208.136,
+      "start_s": 16263.157,
+      "end_s": 17209.634,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -670,8 +670,8 @@
     {
       "ordinal": 19,
       "title": "XIX. Amy's Will.",
-      "start_s": 17208.136,
-      "end_s": 17858.132,
+      "start_s": 17209.634,
+      "end_s": 17859.63,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -697,8 +697,8 @@
     {
       "ordinal": 20,
       "title": "XX. Confidential.",
-      "start_s": 17858.132,
-      "end_s": 18669.786,
+      "start_s": 17859.63,
+      "end_s": 18671.284,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -719,8 +719,8 @@
     {
       "ordinal": 21,
       "title": "XXI. Laurie makes Mischief, and Jo makes Peace.",
-      "start_s": 18669.786,
-      "end_s": 19517.834,
+      "start_s": 18671.284,
+      "end_s": 19519.332,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -746,8 +746,8 @@
     {
       "ordinal": 22,
       "title": "XXII. Pleasant Meadows.",
-      "start_s": 19517.834,
-      "end_s": 20092.351,
+      "start_s": 19519.332,
+      "end_s": 20093.849,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -768,8 +768,8 @@
     {
       "ordinal": 23,
       "title": "XXIII. Aunt March settles the Question.",
-      "start_s": 20092.351,
-      "end_s": 21159.896,
+      "start_s": 20093.849,
+      "end_s": 21161.394,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -785,8 +785,8 @@
     {
       "ordinal": 24,
       "title": "XXIV. Gossip.",
-      "start_s": 21159.896,
-      "end_s": 21753.452,
+      "start_s": 21161.394,
+      "end_s": 21754.95,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -807,8 +807,8 @@
     {
       "ordinal": 25,
       "title": "XXV. The First Wedding.",
-      "start_s": 21753.452,
-      "end_s": 22520.753,
+      "start_s": 21754.95,
+      "end_s": 22522.251,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -834,8 +834,8 @@
     {
       "ordinal": 26,
       "title": "XXVI. Artistic Attempts.",
-      "start_s": 22520.753,
-      "end_s": 23127.856,
+      "start_s": 22522.251,
+      "end_s": 23129.354,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -866,8 +866,8 @@
     {
       "ordinal": 27,
       "title": "XXVII. Literary Lessons.",
-      "start_s": 23127.856,
-      "end_s": 23553.357,
+      "start_s": 23129.354,
+      "end_s": 23554.855,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -893,8 +893,8 @@
     {
       "ordinal": 28,
       "title": "XXVIII. Domestic Experiences.",
-      "start_s": 23553.357,
-      "end_s": 24370.294,
+      "start_s": 23554.855,
+      "end_s": 24371.792,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -925,8 +925,8 @@
     {
       "ordinal": 29,
       "title": "XXIX. Calls.",
-      "start_s": 24370.294,
-      "end_s": 25819.254,
+      "start_s": 24371.792,
+      "end_s": 25820.752,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -967,8 +967,8 @@
     {
       "ordinal": 30,
       "title": "XXX. Consequences.",
-      "start_s": 25819.254,
-      "end_s": 26805.963,
+      "start_s": 25820.752,
+      "end_s": 26807.461,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1004,8 +1004,8 @@
     {
       "ordinal": 31,
       "title": "XXXI. Our Foreign Correspondent.",
-      "start_s": 26805.963,
-      "end_s": 28077.079,
+      "start_s": 26807.461,
+      "end_s": 28078.577,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1031,8 +1031,8 @@
     {
       "ordinal": 32,
       "title": "XXXII. Tender Troubles.",
-      "start_s": 28077.079,
-      "end_s": 29421.258,
+      "start_s": 28078.577,
+      "end_s": 29422.756,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1058,8 +1058,8 @@
     {
       "ordinal": 33,
       "title": "XXXIII. Jo's Journal.",
-      "start_s": 29421.258,
-      "end_s": 30703.403,
+      "start_s": 29422.756,
+      "end_s": 30704.901,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1095,8 +1095,8 @@
     {
       "ordinal": 34,
       "title": "XXXIV. A Friend.",
-      "start_s": 30703.403,
-      "end_s": 31658.617,
+      "start_s": 30704.901,
+      "end_s": 31660.115,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1132,8 +1132,8 @@
     {
       "ordinal": 35,
       "title": "XXXV. Heartache.",
-      "start_s": 31658.617,
-      "end_s": 32573.244,
+      "start_s": 31660.115,
+      "end_s": 32574.742,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1169,8 +1169,8 @@
     {
       "ordinal": 36,
       "title": "XXXVI. Beth's Secret.",
-      "start_s": 32573.244,
-      "end_s": 33243.797,
+      "start_s": 32574.742,
+      "end_s": 33245.295,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1191,8 +1191,8 @@
     {
       "ordinal": 37,
       "title": "XXXVII. New Impressions.",
-      "start_s": 33243.797,
-      "end_s": 34330.422,
+      "start_s": 33245.295,
+      "end_s": 34331.92,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1228,8 +1228,8 @@
     {
       "ordinal": 38,
       "title": "XXXVIII. On the Shelf.",
-      "start_s": 34330.422,
-      "end_s": 35805.667,
+      "start_s": 34331.92,
+      "end_s": 35807.165,
       "part_ordinal": 11,
       "metadata": {
         "scenes": [
@@ -1255,8 +1255,8 @@
     {
       "ordinal": 39,
       "title": "XXXIX. Lazy Laurence.",
-      "start_s": 35805.667,
-      "end_s": 36356.998,
+      "start_s": 35807.165,
+      "end_s": 36358.496,
       "part_ordinal": 11,
       "metadata": {
         "scenes": [
@@ -1277,8 +1277,8 @@
     {
       "ordinal": 40,
       "title": "XL. The Valley of the Shadow.",
-      "start_s": 36356.998,
-      "end_s": 37054.805,
+      "start_s": 36358.496,
+      "end_s": 37056.303,
       "part_ordinal": 11,
       "metadata": {
         "scenes": [
@@ -1294,8 +1294,8 @@
     {
       "ordinal": 41,
       "title": "XLI. Learning to Forget.",
-      "start_s": 37054.805,
-      "end_s": 37411.778,
+      "start_s": 37056.303,
+      "end_s": 37413.276,
       "part_ordinal": 11,
       "metadata": {
         "scenes": [
@@ -1326,8 +1326,8 @@
     {
       "ordinal": 42,
       "title": "XLII. All Alone.",
-      "start_s": 37411.778,
-      "end_s": 37883.076,
+      "start_s": 37413.276,
+      "end_s": 37884.574,
       "part_ordinal": 11,
       "metadata": {
         "scenes": [
@@ -1368,8 +1368,8 @@
     {
       "ordinal": 43,
       "title": "XLIII. Surprises",
-      "start_s": 37883.076,
-      "end_s": 39202.66,
+      "start_s": 37884.574,
+      "end_s": 39204.158,
       "part_ordinal": 12,
       "metadata": {
         "scenes": [
@@ -1390,8 +1390,8 @@
     {
       "ordinal": 44,
       "title": "XLIV. My Lord and Lady.",
-      "start_s": 39202.66,
-      "end_s": 39692.451,
+      "start_s": 39204.158,
+      "end_s": 39693.949,
       "part_ordinal": 12,
       "metadata": {
         "scenes": [
@@ -1412,8 +1412,8 @@
     {
       "ordinal": 45,
       "title": "XLV. Daisy and Demi.",
-      "start_s": 39692.451,
-      "end_s": 39920.851,
+      "start_s": 39693.949,
+      "end_s": 39922.349,
       "part_ordinal": 12,
       "metadata": {
         "scenes": [
@@ -1434,8 +1434,8 @@
     {
       "ordinal": 46,
       "title": "XLVI. Under the Umbrella.",
-      "start_s": 39920.851,
-      "end_s": 41399.777,
+      "start_s": 39922.349,
+      "end_s": 41401.275,
       "part_ordinal": 12,
       "metadata": {
         "scenes": [
@@ -1451,8 +1451,8 @@
     {
       "ordinal": 47,
       "title": "XLVII. Harvest Time.",
-      "start_s": 41399.777,
-      "end_s": 42664.44,
+      "start_s": 41401.275,
+      "end_s": 42665.938,
       "part_ordinal": 12,
       "metadata": {
         "scenes": [
