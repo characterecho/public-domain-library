@@ -8,7 +8,7 @@
   "identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
   "publication_type": "novel",
   "cover_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/cover.png",
-  "total_duration_s": 31287.620568,
+  "total_duration_s": 31264.237370000003,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -21,67 +21,67 @@
       "ordinal": 0,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2258.237846
+      "end_s": 2254.556236
     },
     {
       "ordinal": 1,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_1.mp3",
-      "start_s": 2258.237846,
-      "end_s": 5089.497529
+      "start_s": 2254.556236,
+      "end_s": 5066.114331
     },
     {
       "ordinal": 2,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_2.mp3",
-      "start_s": 5089.497529,
-      "end_s": 7221.039275
+      "start_s": 5066.114331,
+      "end_s": 7197.656077
     },
     {
       "ordinal": 3,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_3.mp3",
-      "start_s": 7221.039275,
-      "end_s": 10076.496622
+      "start_s": 7197.656077,
+      "end_s": 10053.113424
     },
     {
       "ordinal": 4,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_4.mp3",
-      "start_s": 10076.496622,
-      "end_s": 12333.136327
+      "start_s": 10053.113424,
+      "end_s": 12309.753128999999
     },
     {
       "ordinal": 5,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_5.mp3",
-      "start_s": 12333.136327,
-      "end_s": 15231.509410999999
+      "start_s": 12309.753128999999,
+      "end_s": 15208.126213
     },
     {
       "ordinal": 6,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_6.mp3",
-      "start_s": 15231.509410999999,
-      "end_s": 17531.924693999998
+      "start_s": 15208.126213,
+      "end_s": 17508.541495999998
     },
     {
       "ordinal": 7,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_7.mp3",
-      "start_s": 17531.924693999998,
-      "end_s": 20492.729343
+      "start_s": 17508.541495999998,
+      "end_s": 20469.346145
     },
     {
       "ordinal": 8,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_8.mp3",
-      "start_s": 20492.729343,
-      "end_s": 22908.326962
+      "start_s": 20469.346145,
+      "end_s": 22884.943764
     },
     {
       "ordinal": 9,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_9.mp3",
-      "start_s": 22908.326962,
-      "end_s": 25367.589978
+      "start_s": 22884.943764,
+      "end_s": 25344.20678
     },
     {
       "ordinal": 10,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_10.mp3",
-      "start_s": 25367.589978,
-      "end_s": 31287.620568
+      "start_s": 25344.20678,
+      "end_s": 31264.237370000003
     }
   ],
   "segments": [
@@ -107,7 +107,7 @@
       "ordinal": 2,
       "title": "Chapter I.",
       "start_s": 10.888,
-      "end_s": 980.771,
+      "end_s": 976.867,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -123,8 +123,8 @@
     {
       "ordinal": 3,
       "title": "Chapter II.",
-      "start_s": 980.771,
-      "end_s": 1920.441,
+      "start_s": 976.867,
+      "end_s": 1915.819,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -160,8 +160,8 @@
     {
       "ordinal": 4,
       "title": "Chapter III.",
-      "start_s": 1920.441,
-      "end_s": 2258.238,
+      "start_s": 1915.819,
+      "end_s": 2254.556,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -187,8 +187,8 @@
     {
       "ordinal": 5,
       "title": "II. THE RED-HEADED LEAGUE",
-      "start_s": 2258.238,
-      "end_s": 5089.498,
+      "start_s": 2254.556,
+      "end_s": 5066.114,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -224,8 +224,8 @@
     {
       "ordinal": 6,
       "title": "III. A CASE OF IDENTITY",
-      "start_s": 5089.498,
-      "end_s": 7221.039,
+      "start_s": 5066.114,
+      "end_s": 7197.656,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -246,8 +246,8 @@
     {
       "ordinal": 7,
       "title": "IV. THE BOSCOMBE VALLEY MYSTERY",
-      "start_s": 7221.039,
-      "end_s": 10076.497,
+      "start_s": 7197.656,
+      "end_s": 10053.113,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -278,8 +278,8 @@
     {
       "ordinal": 8,
       "title": "V. THE FIVE ORANGE PIPS",
-      "start_s": 10076.497,
-      "end_s": 12333.136,
+      "start_s": 10053.113,
+      "end_s": 12309.753,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -305,8 +305,8 @@
     {
       "ordinal": 9,
       "title": "VI. THE MAN WITH THE TWISTED LIP",
-      "start_s": 12333.136,
-      "end_s": 15231.509,
+      "start_s": 12309.753,
+      "end_s": 15208.126,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -347,8 +347,8 @@
     {
       "ordinal": 10,
       "title": "VII. THE ADVENTURE OF THE BLUE CARBUNCLE",
-      "start_s": 15231.509,
-      "end_s": 17531.925,
+      "start_s": 15208.126,
+      "end_s": 17508.541,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -384,8 +384,8 @@
     {
       "ordinal": 11,
       "title": "VIII. THE ADVENTURE OF THE SPECKLED BAND",
-      "start_s": 17531.925,
-      "end_s": 20492.729,
+      "start_s": 17508.541,
+      "end_s": 20469.346,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -436,8 +436,8 @@
     {
       "ordinal": 12,
       "title": "IX. THE ADVENTURE OF THE ENGINEER’S THUMB",
-      "start_s": 20492.729,
-      "end_s": 22908.327,
+      "start_s": 20469.346,
+      "end_s": 22884.944,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -488,8 +488,8 @@
     {
       "ordinal": 13,
       "title": "X. THE ADVENTURE OF THE NOBLE BACHELOR",
-      "start_s": 22908.327,
-      "end_s": 25367.59,
+      "start_s": 22884.944,
+      "end_s": 25344.207,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -510,8 +510,8 @@
     {
       "ordinal": 14,
       "title": "XI. THE ADVENTURE OF THE BERYL CORONET",
-      "start_s": 25367.59,
-      "end_s": 28314.988,
+      "start_s": 25344.207,
+      "end_s": 28291.605,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -542,8 +542,8 @@
     {
       "ordinal": 15,
       "title": "XII. THE ADVENTURE OF THE COPPER BEECHES",
-      "start_s": 28314.988,
-      "end_s": 31287.621,
+      "start_s": 28291.605,
+      "end_s": 31264.237,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
