@@ -1,5 +1,34 @@
 [
   {
+    "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
+    "sample": false,
+    "title": "The Adventures of Sherlock Holmes",
+    "author_names": "Arthur Conan Doyle",
+    "publication_type": "novel",
+    "genre_tags": [
+      "mystery",
+      "classics"
+    ],
+    "catalog_added_at": "2026-02-08T19:57:15Z",
+    "updated_at": "2026-02-14T17:49:46Z",
+    "duration": {
+      "total_ms": 31244000,
+      "formatted": "8h 41m"
+    },
+    "cover_url": null,
+    "data_checksum": "b517c9a808f747ee00c7e21c2efe429066a61243f13872212fb2f2177cb89940",
+    "file_size": 951766947,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "132b9a8a26ef9a00b21613c93a6754bc00654705",
     "sample": false,
     "title": "Little Women",
@@ -48,35 +77,6 @@
     "cover_url": null,
     "data_checksum": "e01dab0239b7dce6aba6933ba139280b09bbee38429cccaffac4c6076b2a5bf2",
     "file_size": 377527252,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ],
-    "min_app_version": "1.1.0"
-  },
-  {
-    "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
-    "sample": false,
-    "title": "The Adventures of Sherlock Holmes",
-    "author_names": "Arthur Conan Doyle",
-    "publication_type": "novel",
-    "genre_tags": [
-      "mystery",
-      "classics"
-    ],
-    "catalog_added_at": "2026-02-01T01:15:28Z",
-    "updated_at": "2026-02-08T19:57:15Z",
-    "duration": {
-      "total_ms": 31244000,
-      "formatted": "8h 41m"
-    },
-    "cover_url": null,
-    "data_checksum": "9bd924502711fbae0953e91fa82c50869c75377d911ffc5a51d6ec862c4e7a2f",
-    "file_size": 952052992,
     "available_regions": [
       "US",
       "CA",
