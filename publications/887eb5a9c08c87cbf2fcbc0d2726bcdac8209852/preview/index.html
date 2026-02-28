@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="https://images.squarespace-cdn.com/content/693e911fb26d4b4b3a52c2ce/92c9d8a1-9c41-4cad-8fef-6417bf021ae5/browser.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Urbanist:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <title>Wuthering Heights by Emily Brontë | Character Echo</title>
+  <meta name="description" content="Listen to Wuthering Heights by Emily Brontë - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="Wuthering Heights - Audiobook">
+  <meta property="og:description" content="Listen to Wuthering Heights by Emily Brontë with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Wuthering Heights">
+  <meta name="twitter:description" content="Listen to Wuthering Heights by Emily Brontë with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1.5em;
+      letter-spacing: 0em;
+      font-size: 1rem;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.5em;
+    }
+
+    .text-lg { font-size: 1.4rem; }
+    .text-sm { font-size: 0.9rem; }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Urbanist', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1.2em;
+      letter-spacing: -0.02em;
+    }
+
+    h1 { font-size: 4rem; }
+    h2 { font-size: 2.8rem; }
+    h3 { font-size: 2.2rem; }
+    h4 { font-size: 1.6rem; }
+
+    /* Navigation - matches Squarespace */
+    .nav {
+      background: #323A7D;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-container {
+      padding: 6vw 4vw;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    @media (min-width: 768px) {
+      .nav-container {
+        padding: 2vw 4vw;
+      }
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .nav-back {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-decoration: none;
+      font-size: 1.5rem;
+      opacity: 0.8;
+      transition: opacity 0.2s;
+    }
+
+    .nav-back:hover {
+      opacity: 1;
+    }
+
+    .nav-logo {
+      display: flex;
+      align-items: center;
+    }
+
+    .nav-logo img {
+      height: 30px;
+      width: auto;
+    }
+
+    @media (min-width: 768px) {
+      .nav-logo img {
+        height: 60px;
+      }
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 2vw;
+      text-align: right;
+      margin-left: auto;
+    }
+
+    .nav-link {
+      font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1rem;
+      line-height: 1.5em;
+      letter-spacing: 0em;
+      text-transform: none;
+      white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.1em 0;
+      color: hsla(0, 0%, 100%, 1);
+      text-decoration: none;
+      transition: color 0.2s;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      backface-visibility: hidden;
+    }
+
+    .nav-link:hover {
+      color: white;
+    }
+
+    .nav-link.active {
+      color: white;
+      background-image: linear-gradient(currentColor, currentColor);
+      background-repeat: repeat-x;
+      background-size: 1px 1px;
+      background-position: 0 calc(100% - 0.1em);
+    }
+
+    .nav-cta {
+      background: var(--primary-color);
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: background 0.2s;
+    }
+
+    .nav-cta:hover {
+      background: var(--primary-hover);
+    }
+
+    .nav-mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #323A7D;
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-mobile-toggle {
+        display: block;
+      }
+
+      .nav-container {
+        position: relative;
+      }
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    .store-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+
+    .store-button {
+      display: block;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    .store-button:hover {
+      transform: scale(1.05);
+      text-decoration: none;
+    }
+
+    .store-button img {
+      height: 50px;
+      width: auto;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <div class="nav-left">
+        <a href="https://library.characterecho.com/" class="nav-back" title="Back to Library">&#8592;</a>
+        <a href="https://www.characterecho.com" class="nav-logo">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/897e932a-9fe1-4167-b7c3-51b2a0ecda07/White+logo+-+no+background.png" alt="Character Echo">
+        </a>
+      </div>
+      <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">&#9776;</button>
+      <div class="nav-links" id="navLinks">
+        <a href="https://library.characterecho.com/" class="nav-link">Library</a>
+        <a href="https://www.characterecho.com/about" class="nav-link">About</a>
+        <a href="https://www.characterecho.com/contact" class="nav-link">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="Wuthering Heights cover" class="cover-image">
+          
+          <h1>Wuthering Heights</h1>
+          <p class="author">by Emily Brontë</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="LOCKWOOD" onclick="playVoiceSample('LOCKWOOD')">
+              <img src="characters/LOCKWOOD.png" alt="Lockwood" class="character-portrait">
+              <div class="character-name">Lockwood</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="HEATHCLIFF" onclick="playVoiceSample('HEATHCLIFF')">
+              <img src="characters/HEATHCLIFF.png" alt="Heathcliff" class="character-portrait">
+              <div class="character-name">Heathcliff</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="JOSEPH" onclick="playVoiceSample('JOSEPH')">
+              <img src="characters/JOSEPH.png" alt="Joseph" class="character-portrait">
+              <div class="character-name">Joseph</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-LOCKWOOD" preload="none">
+            <source src="characters/LOCKWOOD.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-HEATHCLIFF" preload="none">
+            <source src="characters/HEATHCLIFF.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-JOSEPH" preload="none">
+            <source src="characters/JOSEPH.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>CHAPTER I</h2>
+          <div class="chapter-text">
+            
+              <p> 1801—I have just returned from a visit to my landlord—the solitary neighbour that I shall be troubled with. This is certainly a beautiful country! In all England, I do not believe that I could have fixed on a situation so completely removed from the stir of society. A perfect misanthropist’s Heaven—and Mr. Heathcliff and I are such a suitable pair to divide the desolation between us. A capital fellow! He little imagined how my heart warmed towards him when I beheld his black eyes withdraw so suspiciously under their brows, as I rode up, and when his fingers sheltered themselves, with a jealous resolution, still further in his waistcoat, as I announced my name. </p>
+<p> “Mr. Heathcliff?” I said. </p>
+<p> A nod was the answer. </p>
+<p> “Mr. Lockwood, your new tenant, sir. I do myself the honour of calling as soon as possible after my arrival, to express the hope that I have not inconvenienced you by my perseverance in soliciting the occupation of Thrushcross Grange: I heard yesterday you had had some thoughts—” </p>
+<p> “Thrushcross Grange is my own, sir,” he interrupted, wincing. “I should not allow any one to inconvenience me, if I could hinder it—walk in!” </p>
+<p> The “walk in” was uttered with closed teeth, and expressed the sentiment, “Go to the Deuce!” even the gate over which he leant manifested no sympathising movement to the words; and I think that circumstance determined me to accept the invitation: I felt interested in a man who seemed more exaggeratedly reserved than myself. </p>
+<p> When he saw my horse’s breast fairly pushing the barrier, he did put out his hand to unchain it, and then sullenly preceded me up the causeway, calling, as we entered the court,—“Joseph, take Mr. Lockwood’s horse; and bring up some wine.” </p>
+<p> “Here we have the whole establishment of domestics, I suppose,” was the reflection suggested by this compound order. “No wonder the grass grows up between the flags, and cattle are the only hedge-cutters.” </p>
+<p> Joseph was an elderly, nay, an old man, very old, perhaps, though hale and sinewy. “The Lord help us!” he soliloquised in an undertone of peevish displeasure, while relieving me of my horse: looking, meantime, in my face so sourly that I charitably conjectured he must have need of divine aid to digest his dinner, and his pious ejaculation had no reference to my unexpected advent. </p>
+<p> Wuthering Heights is the name of Mr. Heathcliff’s dwelling. “Wuthering” being a significant provincial adjective, descriptive of the atmospheric tumult to which its station is exposed in stormy weather. Pure, bracing ventilation they must have up there at all times, indeed: one may guess the power of the north wind, blowing over the edge, by the excessive slant of a few stunted firs at the end of the house; and by a range of gaunt thorns all stretching their limbs one way, as if craving alms of the sun. Happily, the architect had foresight to build it strong: the narrow windows are deeply set in the wall, and the corners defended with large jutting stones. </p>
+<p> Before passing the threshold, I paused to admire a quantity of grotesque carving lavished over the front, and especially about the principal door; above which, among a wilderness of crumbling griffins and shameless little boys, I detected the date “1500,” and the name “Hareton Earnshaw.” I would have made a few comments, and requested a short history of the place from the surly owner; but his attitude at the door appeared to demand my speedy entrance, or complete departure, and I had no desire to aggravate his impatience previous to inspecting the penetralium. </p>
+<p> One step brought us into the family sitting-room, without any introductory lobby or passage: they call it here “the house” pre-eminently. It includes kitchen and parlour, generally; but I believe at Wuthering Heights the kitchen is forced to retreat altogether into another quarter: at least I distinguished a chatter of tongues, and a clatter of culinary utensils, deep within; and I observed no signs of roasting, boiling, or baking, about the huge fireplace; nor any glitter of copper saucepans and tin cullenders on the walls. One end, indeed, reflected splendidly both light and heat from ranks of immense pewter dishes, interspersed with silver jugs and tankards, towering row after row, on a vast oak dresser, to the very roof. The latter had never been under-drawn: its entire anatomy lay bare to an inquiring eye, except where a frame of wood laden with oatcakes and clusters of legs of beef, mutton, and ham, concealed it. Above the chimney were sundry villainous old guns, and a couple of horse-pistols: and, by way of ornament, three gaudily painted canisters disposed along its ledge. The floor was of smooth, white stone; the chairs, high-backed, primitive structures, painted green: one or two heavy black ones lurking in the shade. In an arch under the dresser reposed a huge, liver-coloured bitch pointer, surrounded by a swarm of squealing puppies; and other dogs haunted other recesses. </p>
+<p> The apartment and furniture would have been nothing extraordinary as belonging to a homely, northern farmer, with a stubborn countenance, and stalwart limbs set out to advantage in knee-breeches and gaiters. Such an individual seated in his arm-chair, his mug of ale frothing on the round table before him, is to be seen in any circuit of five or six miles among these hills, if you go at the right time after dinner. But Mr. Heathcliff forms a singular contrast to his abode and style of living. He is a dark-skinned gipsy in aspect, in dress and manners a gentleman: that is, as much a gentleman as many a country squire: rather slovenly, perhaps, yet not looking amiss with his negligence, because he has an erect and handsome figure; and rather morose. Possibly, some people might suspect him of a degree of under-bred pride; I have a sympathetic chord within that tells me it is nothing of the sort: I know, by instinct, his reserve springs from an aversion to showy displays of feeling—to manifestations of mutual kindliness. He’ll love and hate equally under cover, and esteem it a species of impertinence to be loved or hated again. No, I’m running on too fast: I bestow my own attributes over-liberally on him. Mr. Heathcliff may have entirely dissimilar reasons for keeping his hand out of the way when he meets a would-be acquaintance, to those which actuate me. Let me hope my constitution is almost peculiar: my dear mother used to say I should never have a comfortable home; and only last summer I proved myself perfectly unworthy of one. </p>
+<p> While enjoying a month of fine weather at the sea-coast, I was thrown into the company of a most fascinating creature: a real goddess in my eyes, as long as she took no notice of me. I “never told my love” vocally; still, if looks have language, the merest idiot might have guessed I was over head and ears: she understood me at last, and looked a return—the sweetest of all imaginable looks. And what did I do? I confess it with shame—shrunk icily into myself, like a snail; at every glance retired colder and farther; till finally the poor innocent was led to doubt her own senses, and, overwhelmed with confusion at her supposed mistake, persuaded her mamma to decamp. </p>
+<p> By this curious turn of disposition I have gained the reputation of deliberate heartlessness; how undeserved, I alone can appreciate. </p>
+<p> I took a seat at the end of the hearthstone opposite that towards which my landlord advanced, and filled up an interval of silence by attempting to caress the canine mother, who had left her nursery, and was sneaking wolfishly to the back of my legs, her lip curled up, and her white teeth watering for a snatch. My caress provoked a long, guttural gnarl. </p>
+<p> “You’d better let the dog alone,” growled Mr. Heathcliff in unison, checking fiercer demonstrations with a punch of his foot. “She’s not accustomed to be spoiled—not kept for a pet.” Then, striding to a side door, he shouted again, “Joseph!” </p>
+<p> Joseph mumbled indistinctly in the depths of the cellar, but gave no intimation of ascending; so his master dived down to him, leaving me <i>vis-à-vis</i> the ruffianly bitch and a pair of grim shaggy sheep-dogs, who shared with her a jealous guardianship over all my movements. Not anxious to come in contact with their fangs, I sat still; but, imagining they would scarcely understand tacit insults, I unfortunately indulged in winking and making faces at the trio, and some turn of my physiognomy so irritated madam, that she suddenly broke into a fury and leapt on my knees. I flung her back, and hastened to interpose the table between us. This proceeding aroused the whole hive: half-a-dozen four-footed fiends, of various sizes and ages, issued from hidden dens to the common centre. I felt my heels and coat-laps peculiar subjects of assault; and parrying off the larger combatants as effectually as I could with the poker, I was constrained to demand, aloud, assistance from some of the household in re-establishing peace. </p>
+<p> Mr. Heathcliff and his man climbed the cellar steps with vexatious phlegm: I don’t think they moved one second faster than usual, though the hearth was an absolute tempest of worrying and yelping. Happily, an inhabitant of the kitchen made more dispatch; a lusty dame, with tucked-up gown, bare arms, and fire-flushed cheeks, rushed into the midst of us flourishing a frying-pan: and used that weapon, and her tongue, to such purpose, that the storm subsided magically, and she only remained, heaving like a sea after a high wind, when her master entered on the scene. </p>
+<p> “What the devil is the matter?” he asked, eyeing me in a manner that I could ill endure after this inhospitable treatment. </p>
+<p> “What the devil, indeed!” I muttered. “The herd of possessed swine could have had no worse spirits in them than those animals of yours, sir. You might as well leave a stranger with a brood of tigers!” </p>
+<p> “They won’t meddle with persons who touch nothing,” he remarked, putting the bottle before me, and restoring the displaced table. “The dogs do right to be vigilant. Take a glass of wine?” </p>
+<p> “No, thank you.” </p>
+<p> “Not bitten, are you?” </p>
+<p> “If I had been, I would have set my signet on the biter.” Heathcliff’s countenance relaxed into a grin. </p>
+<p> “Come, come,” he said, “you are flurried, Mr. Lockwood. Here, take a little wine. Guests are so exceedingly rare in this house that I and my dogs, I am willing to own, hardly know how to receive them. Your health, sir?” </p>
+<p> I bowed and returned the pledge; beginning to perceive that it would be foolish to sit sulking for the misbehaviour of a pack of curs; besides, I felt loth to yield the fellow further amusement at my expense; since his humour took that turn. He—probably swayed by prudential consideration of the folly of offending a good tenant—relaxed a little in the laconic style of chipping off his pronouns and auxiliary verbs, and introduced what he supposed would be a subject of interest to me,—a discourse on the advantages and disadvantages of my present place of retirement. I found him very intelligent on the topics we touched; and before I went home, I was encouraged so far as to volunteer another visit to-morrow. He evidently wished no repetition of my intrusion. I shall go, notwithstanding. It is astonishing how sociable I feel myself compared with him. </p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>Listen to the full audiobook on Character Echo</p>
+      <div class="store-buttons">
+        <a href="https://apps.apple.com/us/app/character-echo/id6756740052" class="store-button">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/abb8c6f4-7146-4798-be3b-0e2e84e0c9bb/app_store.png" alt="Download on the App Store">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.characterecho.mobile_app" class="store-button">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/d7da6dd1-9329-42c4-b483-4e193b06c821/GetItOnGooglePlay_Badge_Web_color_English.png" alt="Get it on Google Play">
+        </a>
+      </div>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+
+  <script>
+    // Mobile nav toggle
+    document.getElementById('navToggle').addEventListener('click', function() {
+      document.getElementById('navLinks').classList.toggle('open');
+    });
+  </script>
+</body>
+</html>
