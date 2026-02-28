@@ -1,9 +1,39 @@
 {
   "version": 2,
-  "generated_at": "2026-02-26T16:20:23Z",
+  "generated_at": "2026-02-28T17:18:52Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "887eb5a9c08c87cbf2fcbc0d2726bcdac8209852",
+      "sample": true,
+      "title": "Wuthering Heights",
+      "author_names": "Emily Brontë",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "romance",
+        "psychological"
+      ],
+      "catalog_added_at": "2026-02-08T15:37:30Z",
+      "updated_at": "2026-02-28T17:18:52Z",
+      "duration": {
+        "total_ms": 2492000,
+        "formatted": "42m"
+      },
+      "cover_url": null,
+      "data_checksum": "536497ebf5be4b910ec1313bee1afa1d474ca089dd689450e168873a4015fbd8",
+      "file_size": 117483757,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.2.1"
+    },
     {
       "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
       "sample": false,
@@ -15,14 +45,14 @@
         "classics"
       ],
       "catalog_added_at": "2026-02-08T19:57:15Z",
-      "updated_at": "2026-02-26T16:20:22Z",
+      "updated_at": "2026-02-28T17:18:22Z",
       "duration": {
         "total_ms": 31244000,
         "formatted": "8h 41m"
       },
       "cover_url": null,
-      "data_checksum": "bffbb2c2a97cc4ddc0772782e09eecfdc33e634b1f07d97df732220438e6e93a",
-      "file_size": 951764763,
+      "data_checksum": "44c5e991fbb799dede95e05f70b4e6fc4ba688d8653bd1b23866143df9357e45",
+      "file_size": 951742737,
       "available_regions": [
         "US",
         "CA",
