@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-02-28T17:18:52Z",
+  "generated_at": "2026-02-28T23:05:55Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
@@ -15,15 +15,15 @@
         "romance",
         "psychological"
       ],
-      "catalog_added_at": "2026-02-08T15:37:30Z",
-      "updated_at": "2026-02-28T17:18:52Z",
+      "catalog_added_at": "2026-02-28T17:18:52Z",
+      "updated_at": "2026-02-28T23:05:54Z",
       "duration": {
         "total_ms": 2492000,
         "formatted": "42m"
       },
       "cover_url": null,
-      "data_checksum": "536497ebf5be4b910ec1313bee1afa1d474ca089dd689450e168873a4015fbd8",
-      "file_size": 117483757,
+      "data_checksum": "8bd604973def8e75bd24ef78753d2d8df525972686c4c801be7ea7d0b380fa70",
+      "file_size": 117481224,
       "available_regions": [
         "US",
         "CA",
@@ -33,6 +33,35 @@
         "IE"
       ],
       "min_app_version": "1.2.1"
+    },
+    {
+      "publication_identifier": "add5b6b6feaa76a5ad6c268190feacb91fcee4ad",
+      "sample": false,
+      "title": "The Memoirs of Sherlock Holmes",
+      "author_names": "Arthur Conan Doyle",
+      "publication_type": "novel",
+      "genre_tags": [
+        "mystery",
+        "classics"
+      ],
+      "catalog_added_at": "2026-02-01T01:16:53Z",
+      "updated_at": "2026-02-28T23:05:26Z",
+      "duration": {
+        "total_ms": 28198000,
+        "formatted": "7h 50m"
+      },
+      "cover_url": null,
+      "data_checksum": "3f68a1e8261c4cdf437417d335525cc243175190a77a3448c86fa96041906977",
+      "file_size": 987473750,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
     },
     {
       "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
@@ -45,14 +74,14 @@
         "classics"
       ],
       "catalog_added_at": "2026-02-08T19:57:15Z",
-      "updated_at": "2026-02-28T17:18:22Z",
+      "updated_at": "2026-02-28T23:00:37Z",
       "duration": {
         "total_ms": 31244000,
         "formatted": "8h 41m"
       },
       "cover_url": null,
-      "data_checksum": "44c5e991fbb799dede95e05f70b4e6fc4ba688d8653bd1b23866143df9357e45",
-      "file_size": 951742737,
+      "data_checksum": "56d4c4c93c7f57db91f1d72c12338a12dc621164c49cfb4630bbb36fb3249025",
+      "file_size": 951754074,
       "available_regions": [
         "US",
         "CA",
