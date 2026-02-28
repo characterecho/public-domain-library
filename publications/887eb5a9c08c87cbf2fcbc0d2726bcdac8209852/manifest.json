@@ -1,0 +1,1867 @@
+{
+  "manifest_version": 2,
+  "sample": true,
+  "title": "Wuthering Heights",
+  "author_names": "Emily Brontë",
+  "description": "Publication imported from https://gutenberg.org/ebooks/768.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/768.epub3.images",
+  "identifier": "887eb5a9c08c87cbf2fcbc0d2726bcdac8209852",
+  "publication_type": "novel",
+  "cover_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/cover.png",
+  "total_duration_s": 2496.34644,
+  "genre_tags": [
+    "Classics",
+    "Gothic Fiction",
+    "Romance",
+    "Victorian Literature",
+    "Psychological Drama"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2496.34644
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.629,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I",
+      "start_s": 6.629,
+      "end_s": 611.628,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "WH_MAIN_ROOM",
+            "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - DAY",
+            "visual_description": "A rustic, cavernous sitting room in a Yorkshire farmhouse, 1801. A huge fireplace dominates, though bare of cooking pots. Rows of immense pewter dishes and silver jugs gleam on a vast oak dresser reaching the roof. The floor is smooth white stone; chairs are high-backed and primitive painted green. Dark, shadowy, and masculine atmosphere with little domestic comfort."
+          },
+          {
+            "identifier": "WH_EXTERIOR",
+            "location_header": "EXT. WUTHERING HEIGHTS - DAY",
+            "visual_description": "The exterior of a stark stone farmhouse on a wind-swept moor. 1801. Narrow windows are deeply set in the wall, corners defended with large jutting stones. Grotesque carvings of crumbling griffins surround the principal door. Gaunt thorn trees stretch their limbs away from the wind. Grey, overcast, and forbidding light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II",
+      "start_s": 611.628,
+      "end_s": 1565.512,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "WH_MAIN_ROOM_SNOW",
+            "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - EVENING",
+            "visual_description": "The main sitting room of Wuthering Heights, 1801. A huge coal and peat fire glows warmly, casting long shadows. A table is laid for a plentiful evening meal. Outside, a blizzard rages against the narrow windows. The interior is warm and cheerful in contrast to the storm, but the atmosphere is tense and hostile. Stone floors and rustic furniture."
+          },
+          {
+            "identifier": "WH_EXTERIOR_SNOW",
+            "location_header": "EXT. WUTHERING HEIGHTS - EVENING",
+            "visual_description": "The courtyard of Wuthering Heights in a blinding snowstorm. Twilight. The ground is hard with black frost and covered in snow. Straggling gooseberry bushes border the flagged causeway. A barn with a round window overlooks the yard. Cold, grey, and miserable."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III",
+      "start_s": 1565.512,
+      "end_s": 2496.346,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "WH_OAK_CLOSET",
+            "location_header": "INT. OAK CLOSET - NIGHT",
+            "visual_description": "A small, dark oak closet inside a larger bedroom, 1801. A large wooden case with sliding panels and window-like squares forms the bed. A window ledge serves as a table, piled with mildewed books and a candle. The pane is broken. Claustrophobic, shadowy, and musty."
+          },
+          {
+            "identifier": "WH_MAIN_ROOM_MORNING",
+            "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - MORNING",
+            "visual_description": "The main sitting room of Wuthering Heights in the cold, clear light of early morning. The fire has burned down to embers. The stone floor is cold. The atmosphere is hungover and resentful."
+          },
+          {
+            "identifier": "THRUSHCROSS_STUDY",
+            "location_header": "INT. THRUSHCROSS GRANGE - STUDY - DAY",
+            "visual_description": "A refined gentleman's study at Thrushcross Grange. 1801. A cheerful fire burns in the grate. Bookshelves line the walls. A table with smoking coffee. Warm, civilized, and safe."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "ELLEN_DEAN",
+      "name": "Nelly",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Mrs. Dean",
+        "Nelly",
+        "Ellen"
+      ],
+      "voice_attributes": [
+        "sensible",
+        "warm",
+        "steady",
+        "storytelling",
+        "robust",
+        "motherly",
+        "worried"
+      ],
+      "visual_attributes": [
+        "stout",
+        "motherly",
+        "capable",
+        "motherly face",
+        "neat cap",
+        "apron"
+      ],
+      "roles": [
+        "narrator",
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_educated"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Young Nelly",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "sensible",
+            "warm",
+            "storytelling",
+            "robust",
+            "youthful",
+            "spirited",
+            "servile"
+          ],
+          "visual_attributes": [
+            "stout",
+            "motherly face",
+            "neat cap",
+            "apron",
+            "young",
+            "fresh-faced",
+            "servant dress"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Nelly Dean",
+          "age_group": "middle_aged",
+          "voice_attributes": [
+            "sensible",
+            "warm",
+            "steady",
+            "storytelling",
+            "robust",
+            "motherly",
+            "worried"
+          ],
+          "visual_attributes": [
+            "stout",
+            "motherly",
+            "capable",
+            "motherly face",
+            "neat cap",
+            "apron"
+          ]
+        }
+      ],
+      "dialogue_count": 805,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LOCKWOOD",
+      "name": "Lockwood",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "observational",
+        "polite",
+        "slightly pompous",
+        "frightened",
+        "exhausted",
+        "cultivated",
+        "curious",
+        "shaken",
+        "weary",
+        "educated",
+        "reflective"
+      ],
+      "visual_attributes": [
+        "gentleman",
+        "well-dressed",
+        "city-bred",
+        "disheveled",
+        "young gentleman",
+        "fashionable coat",
+        "smooth face",
+        "neat hair",
+        "snow-covered coat",
+        "pale invalid",
+        "nightshirt",
+        "disheveled hair",
+        "travel-stained clothes",
+        "pale face",
+        "intelligent eyes"
+      ],
+      "roles": [
+        "storyteller",
+        "protagonist",
+        "narrator",
+        "listener"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "observational",
+            "polite",
+            "slightly pompous",
+            "frightened",
+            "exhausted",
+            "cultivated",
+            "curious",
+            "shaken",
+            "weary",
+            "educated",
+            "reflective"
+          ],
+          "visual_attributes": [
+            "gentleman",
+            "well-dressed",
+            "city-bred",
+            "disheveled",
+            "young gentleman",
+            "fashionable coat",
+            "smooth face",
+            "neat hair",
+            "snow-covered coat",
+            "pale invalid",
+            "nightshirt",
+            "disheveled hair",
+            "travel-stained clothes",
+            "pale face",
+            "intelligent eyes"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Middle Age",
+          "age_group": "middle_aged",
+          "voice_attributes": [
+            "observational",
+            "polite",
+            "slightly pompous",
+            "frightened",
+            "exhausted",
+            "cultivated",
+            "curious",
+            "shaken",
+            "weary",
+            "educated",
+            "reflective"
+          ],
+          "visual_attributes": [
+            "gentleman",
+            "well-dressed",
+            "city-bred",
+            "disheveled",
+            "young gentleman",
+            "fashionable coat",
+            "smooth face",
+            "neat hair",
+            "snow-covered coat",
+            "pale invalid",
+            "nightshirt",
+            "disheveled hair",
+            "travel-stained clothes",
+            "pale face",
+            "intelligent eyes"
+          ]
+        }
+      ],
+      "dialogue_count": 527,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/LOCKWOOD.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/LOCKWOOD.mp3"
+    },
+    {
+      "identifier": "HEATHCLIFF",
+      "name": "Heathcliff",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "HEATHCLIFF_CHILD",
+        "The Gipsy Brat",
+        "Imp of Satan",
+        "Mr. Heathcliff",
+        "The Master"
+      ],
+      "voice_attributes": [
+        "morose",
+        "reserved",
+        "educated but rough",
+        "sarcastic",
+        "harsh",
+        "anguished",
+        "furious",
+        "desperate",
+        "gruff",
+        "deep",
+        "commanding",
+        "terrified",
+        "enraged",
+        "sullen",
+        "quiet",
+        "stoic",
+        "resentful",
+        "mournful",
+        "passionate",
+        "excited",
+        "defiant",
+        "vivid storyteller",
+        "stern",
+        "brooding",
+        "tortured",
+        "calculating",
+        "anxious",
+        "restless",
+        "menacing",
+        "weary",
+        "melancholy",
+        "distracted",
+        "eager",
+        "haunted",
+        "intense",
+        "dismissive"
+      ],
+      "visual_attributes": [
+        "dark-skinned",
+        "gypsy aspect",
+        "erect handsome figure",
+        "black eyes",
+        "deep brows",
+        "handsome",
+        "stern",
+        "pale with emotion",
+        "shirt and trousers",
+        "gypsy-like complexion",
+        "erect figure",
+        "gentleman's dress",
+        "snow-covered",
+        "pale face",
+        "trembling",
+        "dark skin",
+        "black hair",
+        "ragged clothes",
+        "intense eyes",
+        "wet clothes",
+        "shining eyes",
+        "wild hair",
+        "teenager",
+        "tall",
+        "athletic build",
+        "dark complexion",
+        "black whiskers",
+        "deep-set eyes",
+        "gentleman's clothes",
+        "dark hair",
+        "blood on forehead",
+        "brooding",
+        "broad brow",
+        "gaunt face",
+        "sharp teeth"
+      ],
+      "roles": [
+        "landlord",
+        "antagonist",
+        "tragic figure",
+        "anti-hero",
+        "protagonist",
+        "rebel",
+        "love interest",
+        "father",
+        "uncle"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_rough"
+      },
+      "dialogue_count": 268,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/HEATHCLIFF.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/HEATHCLIFF.mp3"
+    },
+    {
+      "identifier": "YOUNG_CATHERINE",
+      "name": "Catherine",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Miss Cathy",
+        "Catherine Linton",
+        "Mrs. Linton",
+        "Mrs. Heathcliff"
+      ],
+      "voice_attributes": [
+        "spirited",
+        "childish",
+        "rebellious",
+        "sharp",
+        "scornful",
+        "youthful",
+        "defiant",
+        "radiant",
+        "passionate",
+        "tearful",
+        "mournful",
+        "sulky",
+        "sweet",
+        "playful",
+        "sarcastic",
+        "scared",
+        "perplexed",
+        "excited"
+      ],
+      "visual_attributes": [
+        "invisible",
+        "slender",
+        "exquisite face",
+        "flaxen ringlets",
+        "delicate neck",
+        "black frock",
+        "young lady",
+        "golden ringlets",
+        "bright cheek",
+        "wild rose bloom",
+        "radiant eyes",
+        "yellow curls",
+        "beautiful",
+        "dark eyes"
+      ],
+      "roles": [
+        "memory",
+        "daughter-in-law",
+        "daughter",
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_educated"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "spirited",
+            "childish",
+            "rebellious",
+            "sharp",
+            "scornful",
+            "youthful",
+            "defiant",
+            "radiant",
+            "passionate",
+            "tearful",
+            "mournful",
+            "sulky",
+            "sweet",
+            "playful",
+            "sarcastic",
+            "scared",
+            "perplexed",
+            "excited"
+          ],
+          "visual_attributes": [
+            "invisible",
+            "slender",
+            "exquisite face",
+            "flaxen ringlets",
+            "delicate neck",
+            "black frock",
+            "young lady",
+            "golden ringlets",
+            "bright cheek",
+            "wild rose bloom",
+            "radiant eyes",
+            "yellow curls",
+            "beautiful",
+            "dark eyes"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "spirited",
+            "childish",
+            "rebellious",
+            "sharp",
+            "scornful",
+            "youthful",
+            "defiant",
+            "radiant",
+            "passionate",
+            "tearful",
+            "mournful",
+            "sulky",
+            "sweet",
+            "playful",
+            "sarcastic",
+            "scared",
+            "perplexed",
+            "excited"
+          ],
+          "visual_attributes": [
+            "invisible",
+            "slender",
+            "exquisite face",
+            "flaxen ringlets",
+            "delicate neck",
+            "black frock",
+            "young lady",
+            "golden ringlets",
+            "bright cheek",
+            "wild rose bloom",
+            "radiant eyes",
+            "yellow curls",
+            "beautiful",
+            "dark eyes"
+          ]
+        }
+      ],
+      "dialogue_count": 208,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/YOUNG_CATHERINE.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/YOUNG_CATHERINE.mp3"
+    },
+    {
+      "identifier": "GHOST_CATHERINE",
+      "name": "Catherine",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Catherine Linton",
+        "CATHERINE_EARNSHAW",
+        "The Ghost",
+        "The Waif",
+        "Miss Cathy",
+        "Miss Earnshaw",
+        "Miss Catherine",
+        "CATHERINE_LINTON",
+        "Cathy",
+        "Mrs. Linton",
+        "Catherine Earnshaw"
+      ],
+      "voice_attributes": [
+        "sobbing",
+        "melancholy",
+        "shivering",
+        "child-like",
+        "wild",
+        "laughing",
+        "saucy",
+        "high-spirited",
+        "spirited",
+        "proud",
+        "passionate",
+        "willful",
+        "anxious",
+        "imperious",
+        "charming",
+        "volatile",
+        "haughty",
+        "emotional",
+        "sharp",
+        "weak",
+        "faint",
+        "dreamy"
+      ],
+      "visual_attributes": [
+        "spectral child",
+        "bleeding wrist",
+        "pale face",
+        "spectral human",
+        "child's face",
+        "pale",
+        "beautiful eyes",
+        "wild hair",
+        "mischievous smile",
+        "beautiful dark eyes",
+        "brown ringlets",
+        "slender figure",
+        "expressive face",
+        "stylish silk frock",
+        "beautiful",
+        "dark eyes",
+        "fine silk dress",
+        "long dark hair",
+        "slender",
+        "elegant gown",
+        "loose white dress",
+        "thick long dark hair",
+        "pale haggard face",
+        "unearthly beauty",
+        "shawl"
+      ],
+      "roles": [
+        "ghost",
+        "protagonist",
+        "heroine",
+        "love interest",
+        "mistress",
+        "tragic figure"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_educated"
+      },
+      "dialogue_count": 179,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/GHOST_CATHERINE.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/GHOST_CATHERINE.mp3"
+    },
+    {
+      "identifier": "ISABELLA_LINTON",
+      "name": "Isabella Linton",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "Miss Linton",
+        "Miss Isabella",
+        "Mrs. Heathcliff"
+      ],
+      "voice_attributes": [
+        "infantile",
+        "keen",
+        "petulant",
+        "frightened",
+        "desperate"
+      ],
+      "visual_attributes": [
+        "charming",
+        "yellow hair",
+        "white skin",
+        "dainty",
+        "wan face",
+        "wan",
+        "listless",
+        "uncurled hair",
+        "slatternly dress",
+        "pale"
+      ],
+      "roles": [
+        "sister",
+        "victim",
+        "narrator",
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "female",
+        "voice_accent": "british_received_pronunciation"
+      },
+      "dialogue_count": 142,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "LINTON_HEATHCLIFF",
+      "name": "Linton",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "peevish",
+        "whiny",
+        "faint",
+        "high-pitched",
+        "languid",
+        "terrified"
+      ],
+      "visual_attributes": [
+        "pale delicate face",
+        "flaxen curls",
+        "large blue eyes",
+        "slender frame",
+        "effeminate",
+        "fur-lined cloak",
+        "languid eyes",
+        "slight form",
+        "pretty features"
+      ],
+      "roles": [
+        "son",
+        "pawn",
+        "cousin",
+        "invalid"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "male",
+        "voice_accent": "british_received_pronunciation"
+      },
+      "dialogue_count": 72,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JOSEPH",
+      "name": "Joseph",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "peevish",
+        "cracked",
+        "grumbling",
+        "thick dialect",
+        "sinister",
+        "silent",
+        "harsh",
+        "self-righteous",
+        "furious",
+        "ranting"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "vinegar-faced",
+        "hale and sinewy",
+        "very old",
+        "sour face",
+        "servant's dress",
+        "old man",
+        "lantern jaw",
+        "plain clothes",
+        "fanatical eyes",
+        "Sunday garments"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_thick"
+      },
+      "dialogue_count": 49,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/JOSEPH.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/JOSEPH.mp3"
+    },
+    {
+      "identifier": "EDGAR_LINTON",
+      "name": "Edgar",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Master Linton",
+        "Master Edgar",
+        "Mr. Linton",
+        "The Master"
+      ],
+      "voice_attributes": [
+        "soft-spoken",
+        "gentle",
+        "polite",
+        "timid",
+        "cultured",
+        "anxious",
+        "peevish",
+        "cold",
+        "rageful",
+        "sad",
+        "weak"
+      ],
+      "visual_attributes": [
+        "soft features",
+        "light hair",
+        "large blue eyes",
+        "fair skin",
+        "graceful build",
+        "fine clothes",
+        "blue eyes",
+        "slender",
+        "mourning clothes",
+        "invalid"
+      ],
+      "roles": [
+        "suitor",
+        "rival",
+        "husband",
+        "master",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_received_pronunciation"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "soft-spoken",
+            "gentle",
+            "polite",
+            "timid",
+            "cultured",
+            "anxious",
+            "peevish",
+            "cold",
+            "rageful",
+            "sad",
+            "weak"
+          ],
+          "visual_attributes": [
+            "soft features",
+            "light hair",
+            "large blue eyes",
+            "fair skin",
+            "graceful build",
+            "fine clothes",
+            "blue eyes",
+            "slender",
+            "mourning clothes",
+            "invalid"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "soft-spoken",
+            "gentle",
+            "polite",
+            "timid",
+            "cultured",
+            "anxious",
+            "peevish",
+            "cold",
+            "rageful",
+            "sad",
+            "weak"
+          ],
+          "visual_attributes": [
+            "soft features",
+            "light hair",
+            "large blue eyes",
+            "fair skin",
+            "graceful build",
+            "fine clothes",
+            "blue eyes",
+            "slender",
+            "mourning clothes",
+            "invalid"
+          ]
+        },
+        {
+          "phase_ordinal": 3,
+          "phase_name": "Middle Age",
+          "age_group": "middle_aged",
+          "voice_attributes": [
+            "soft-spoken",
+            "gentle",
+            "polite",
+            "timid",
+            "cultured",
+            "anxious",
+            "peevish",
+            "cold",
+            "rageful",
+            "sad",
+            "weak"
+          ],
+          "visual_attributes": [
+            "soft features",
+            "light hair",
+            "large blue eyes",
+            "fair skin",
+            "graceful build",
+            "fine clothes",
+            "blue eyes",
+            "slender",
+            "mourning clothes",
+            "invalid"
+          ]
+        }
+      ],
+      "dialogue_count": 46,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "ZILLAH",
+      "name": "Zillah",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "robust",
+        "loud",
+        "capable",
+        "kind",
+        "whispering",
+        "stout"
+      ],
+      "visual_attributes": [
+        "lusty dame",
+        "stout",
+        "fire-flushed cheeks",
+        "bare arms",
+        "housewife",
+        "ruddy face",
+        "stout housewife"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_common"
+      },
+      "dialogue_count": 42,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/ZILLAH.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/ZILLAH.mp3"
+    },
+    {
+      "identifier": "HINDLEY_EARNSHAW",
+      "name": "Hindley",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mr. Earnshaw"
+      ],
+      "voice_attributes": [
+        "petulant",
+        "bullying",
+        "loud",
+        "tyrannical",
+        "altered",
+        "severe"
+      ],
+      "visual_attributes": [
+        "boy of fourteen",
+        "brown hair",
+        "strong build",
+        "spare",
+        "well-dressed",
+        "pale",
+        "young man",
+        "disheveled",
+        "wild eyes",
+        "shaggy hair"
+      ],
+      "roles": [
+        "bully",
+        "brother",
+        "antagonist",
+        "master",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_educated"
+      },
+      "age_phases": [
+        {
+          "phase_ordinal": 1,
+          "phase_name": "Teenage Years",
+          "age_group": "teenager",
+          "voice_attributes": [
+            "petulant",
+            "bullying",
+            "loud",
+            "tyrannical",
+            "altered",
+            "severe"
+          ],
+          "visual_attributes": [
+            "boy of fourteen",
+            "brown hair",
+            "strong build",
+            "spare",
+            "well-dressed",
+            "pale",
+            "young man",
+            "disheveled",
+            "wild eyes",
+            "shaggy hair"
+          ]
+        },
+        {
+          "phase_ordinal": 2,
+          "phase_name": "Young Adult",
+          "age_group": "young",
+          "voice_attributes": [
+            "petulant",
+            "bullying",
+            "loud",
+            "tyrannical",
+            "altered",
+            "severe"
+          ],
+          "visual_attributes": [
+            "boy of fourteen",
+            "brown hair",
+            "strong build",
+            "spare",
+            "well-dressed",
+            "pale",
+            "young man",
+            "disheveled",
+            "wild eyes",
+            "shaggy hair"
+          ]
+        }
+      ],
+      "dialogue_count": 33,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HARETON_EARNSHAW",
+      "name": "Hareton",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Earnshaw"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "surly",
+        "unrefined",
+        "rough",
+        "sullen",
+        "cursing",
+        "deep",
+        "softened",
+        "shy",
+        "puzzled",
+        "defensive",
+        "whispering",
+        "curious"
+      ],
+      "visual_attributes": [
+        "young man",
+        "thick brown curls",
+        "whiskers",
+        "working clothes",
+        "shabby coat",
+        "embrowned hands",
+        "haughty bearing",
+        "strong build",
+        "awkward",
+        "rough clothes",
+        "sunburnt",
+        "handsome",
+        "rustic clothes",
+        "brown curls",
+        "athletic"
+      ],
+      "roles": [
+        "resident",
+        "cousin",
+        "boor",
+        "love interest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_rough"
+      },
+      "dialogue_count": 32,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/HARETON_EARNSHAW.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/HARETON_EARNSHAW.mp3"
+    },
+    {
+      "identifier": "HARETON_CHILD",
+      "name": "Hareton Earnshaw",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "The Child",
+        "The Brat"
+      ],
+      "voice_attributes": [
+        "crying",
+        "whimpering",
+        "screaming",
+        "cursing",
+        "rough",
+        "sullen"
+      ],
+      "visual_attributes": [
+        "toddler",
+        "chubby face",
+        "tear-stained",
+        "frightened eyes",
+        "simple nightshirt",
+        "simple clothes",
+        "dirty garb"
+      ],
+      "roles": [
+        "child",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_common"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "DR_KENNETH",
+      "name": "Mr. Kenneth",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "sensible",
+        "shrewd",
+        "plain-spoken"
+      ],
+      "visual_attributes": [
+        "plain rough face",
+        "weather-beaten",
+        "stout",
+        "country doctor's coat",
+        "shrewd eyes"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_common"
+      },
+      "dialogue_count": 9,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MR_EARNSHAW",
+      "name": "Mr. Earnshaw",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "The Master",
+        "Old Master"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "weary",
+        "authoritative",
+        "kind-hearted",
+        "frail",
+        "irritable",
+        "shaking",
+        "weak"
+      ],
+      "visual_attributes": [
+        "broad weather-beaten face",
+        "grey hair",
+        "heavy coat",
+        "white hair",
+        "gaunt face",
+        "invalid"
+      ],
+      "roles": [
+        "patriarch"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_thick"
+      },
+      "dialogue_count": 6,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "SERVANT_GIRL",
+      "name": "The Servant Girl",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "breathless",
+        "gossiping",
+        "excited"
+      ],
+      "visual_attributes": [
+        "simple country dress",
+        "bonnet",
+        "young"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_common"
+      },
+      "dialogue_count": 4,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "MARY",
+      "name": "Mary",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "excited",
+        "breathless",
+        "clamorous"
+      ],
+      "visual_attributes": [
+        "young servant girl",
+        "cap and apron",
+        "flustered expression",
+        "untidy hair"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_common"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "OLD_WOMAN_GRANGE",
+      "name": "Old Woman",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cracked",
+        "surprised",
+        "broad dialect"
+      ],
+      "visual_attributes": [
+        "elderly",
+        "smoking pipe",
+        "apron",
+        "lined face"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_thick"
+      },
+      "dialogue_count": 3,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "HERD_BOY",
+      "name": "Herd Boy",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "Little Man"
+      ],
+      "voice_attributes": [
+        "rough",
+        "youthful",
+        "broad dialect",
+        "tearful",
+        "frightened",
+        "young"
+      ],
+      "visual_attributes": [
+        "scruffy",
+        "sunburnt",
+        "simple clothes",
+        "child"
+      ],
+      "roles": [
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_thick"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "OSTLER",
+      "name": "Ostler",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "friendly",
+        "broad dialect"
+      ],
+      "visual_attributes": [
+        "working clothes",
+        "weather-beaten face",
+        "holding pail"
+      ],
+      "roles": [
+        "minor character"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_yorkshire_thick"
+      },
+      "dialogue_count": 2,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "FRANCES_EARNSHAW",
+      "name": "Frances",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "prattling",
+        "hysterical",
+        "breathless",
+        "coughing"
+      ],
+      "visual_attributes": [
+        "thin",
+        "fresh-complexioned",
+        "bright eyes"
+      ],
+      "roles": [
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_yorkshire_common"
+      },
+      "dialogue_count": 1,
+      "image_key": null,
+      "voice_key": null
+    },
+    {
+      "identifier": "JABEZ_BRANDERHAM",
+      "name": "Jabez Branderham",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "zealous",
+        "thundering",
+        "preaching",
+        "booming",
+        "solemn",
+        "puritanical"
+      ],
+      "visual_attributes": [
+        "clergyman",
+        "dream figure",
+        "stern face"
+      ],
+      "roles": [
+        "dream character",
+        "dream figure"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_northern_preacher"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/JABEZ_BRANDERHAM.png",
+      "voice_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/characters/JABEZ_BRANDERHAM.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "INT_WH_MAIN_ROOM_SPRING",
+      "ordinal": 0,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - DAY",
+      "visual_description": "The main sitting room of Wuthering Heights in April, filled with sweet spring air. A large table is set for meals near the hearth. Through the open door and lattice windows, blooming apple trees and green grass are visible in the garden. The atmosphere is a strange mix of domestic routine and supernatural tension. Warm sunlight contrasts with the gloomy interior corners.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_SNOW",
+      "ordinal": 0,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - EVENING",
+      "visual_description": "The main sitting room of Wuthering Heights, 1801. A huge coal and peat fire glows warmly, casting long shadows. A table is laid for a plentiful evening meal. Outside, a blizzard rages against the narrow windows. The interior is warm and cheerful in contrast to the storm, but the atmosphere is tense and hostile. Stone floors and rustic furniture.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_WH_MAIN_ROOM_SNOW.jpg"
+    },
+    {
+      "identifier": "SCENE_TC_PARK_EVENING",
+      "ordinal": 0,
+      "location_header": "EXT. THRUSHCROSS GRANGE - PARK - EVENING",
+      "visual_description": "The park of Thrushcross Grange in summer evening light. Long shadows stretch across mossy turf and ancient trees. The carriage drive winds through the green grounds. Soft, golden hour lighting, tranquil but expectant.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_WH_GATE_WINTER",
+      "ordinal": 0,
+      "location_header": "EXT. WUTHERING HEIGHTS - GATE - DAY",
+      "visual_description": "A rough stone pillar guide-post on the edge of the moors, winter afternoon. Frost covers the bare ground. The grey stone gate of Wuthering Heights stands nearby. A lonely, wind-swept landscape under a cold sun.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_OAK_CLOSET",
+      "ordinal": 0,
+      "location_header": "INT. OAK CLOSET - NIGHT",
+      "visual_description": "A small, dark oak closet inside a larger bedroom, 1801. A large wooden case with sliding panels and window-like squares forms the bed. A window ledge serves as a table, piled with mildewed books and a candle. The pane is broken. Claustrophobic, shadowy, and musty.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_WH_OAK_CLOSET.jpg"
+    },
+    {
+      "identifier": "EXT_HAY_FIELD",
+      "ordinal": 0,
+      "location_header": "EXT. MEADOW - DAY",
+      "visual_description": "A sunlit hay meadow in Yorkshire, June 1778. Tall grass and wildflowers. Rakes and haycocks scattered about. Green rolling hills in the distance under a bright blue sky. Warm and pastoral.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TC_SICKROOM",
+      "ordinal": 0,
+      "location_header": "INT. LOCKWOOD'S CHAMBER - DAY",
+      "visual_description": "A comfortable but confining invalid's bedchamber in a Georgian manor, 1801. Winter light fights through heavy velvet drapes. A bedside table is cluttered with medicine vials, pillboxes, and books. A coal fire burns in the grate, casting flickering shadows on damask wallpaper. The atmosphere is stifling and medicinal.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TC_PARLOUR_EVENING",
+      "ordinal": 0,
+      "location_header": "INT. THRUSHCROSS GRANGE - PARLOUR - EVENING",
+      "visual_description": "The elegant parlour of Thrushcross Grange in the evening. A fire burns in the grate. Plush furniture, including a sofa. Tense atmosphere, shadows flickering on the walls.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_MOORS_RIDE",
+      "ordinal": 0,
+      "location_header": "EXT. MOORS - DAY",
+      "visual_description": "The open Yorkshire moors on a misty autumn morning. Half frost, half drizzle. Temporary brooks gurgle from the uplands, crossing the path. The landscape is grey, wet, and obscured by low-hanging mist. Cold and miserable.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_BREAKFAST",
+      "ordinal": 0,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - DAY",
+      "visual_description": "The main sitting room of Wuthering Heights in the bright morning light of spring. A large table is laid for breakfast with porridge and tea. Sunlight reveals the rough stone floor and cavernous fireplace. Through the lattice windows, a garden area is visible where currant bushes have been dug up. The atmosphere is tense with impending conflict.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_TC_LIBRARY",
+      "ordinal": 0,
+      "location_header": "INT. THRUSHCROSS GRANGE - LIBRARY - NIGHT",
+      "visual_description": "A refined library at Thrushcross Grange in the evening, 1784. Warm firelight flickers against floor-to-ceiling bookshelves and portraits. Moonlight filters through the window, blending with the orange glow of the embers. The atmosphere is mournful and quiet.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT_TC_CATH_CHAMBER",
+      "ordinal": 0,
+      "location_header": "INT. THRUSHCROSS GRANGE - CATHERINE'S CHAMBER - DAY",
+      "visual_description": "A fine Georgian bedchamber at Thrushcross Grange, 1784. The room is transformed into a sickroom, with medicine vials on the bedside table. Soft spring light filters through heavy curtains. A large four-poster bed dominates the space. The atmosphere is hushed, medicinal, and anxious.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_TC_COURTYARD_1802",
+      "ordinal": 0,
+      "location_header": "EXT. THRUSHCROSS GRANGE - COURTYARD - DAY",
+      "visual_description": "The paved courtyard of Thrushcross Grange in September 1802. Warm afternoon sunshine illuminates the stone manor, but weeds growing between the flagstones signal neglect. An old ash tree casts soft shadows. An old woman sits smoking on the house steps while a child knits nearby. The atmosphere is peaceful, warm, and slightly melancholic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_MOORS_SUMMER",
+      "ordinal": 0,
+      "location_header": "EXT. MOORS - DAY",
+      "visual_description": "A high Yorkshire moorland in late summer. Hazy, sultry atmosphere with soft mellow clouds obscuring the sun. Purple heather in full bloom stretches to the horizon. A rough stone guide-post stands at a cross-road. Muted greens and purples under a grey-white sky.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_PAST",
+      "ordinal": 0,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - EVENING",
+      "visual_description": "The main sitting room of Wuthering Heights, circa 1772. A huge fireplace with a dying fire. The atmosphere is tense and oppressive, dominated by sickness and religious severity. Shadows lengthen in the corners. The mood is heavy with impending death.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_TC_PARK_MORNING",
+      "ordinal": 0,
+      "location_header": "EXT. THRUSHCROSS GRANGE - PARK - DAY",
+      "visual_description": "The park of Thrushcross Grange at dawn, 1784. An old ash tree with a knotted trunk stands prominent. Dew covers the budded branches. Birds are active in the early light. The atmosphere is fresh and pure, contrasting with human tragedy. Soft morning light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT_TC_EDGARS_CHAMBER",
+      "ordinal": 1,
+      "location_header": "INT. THRUSHCROSS GRANGE - EDGAR'S CHAMBER - NIGHT",
+      "visual_description": "A grand master bedroom at Thrushcross Grange, 1801. The room is shadowed, lit by a low fire and evening light filtering through heavy velvet curtains. A large four-poster bed with invalid comforts. Medicine bottles on a side table. Atmosphere of solemn quiet and approaching death.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_MOORS_SPRING",
+      "ordinal": 1,
+      "location_header": "EXT. MOORS - DAY",
+      "visual_description": "The high moors in bright spring sunshine. Patches of heather and bilberry plants. Hillocks and banks of earth. Blue sky with larks singing. Wild, open, and colorful.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_TC_WALL_ROAD",
+      "ordinal": 1,
+      "location_header": "EXT. THRUSHCROSS GRANGE - PERIMETER WALL - DAY",
+      "visual_description": "A high stone perimeter wall of Thrushcross Grange bordering a damp country road. A locked wooden door is set into the masonry. Wild-rose branches with scarlet hips overhang the wall. A high rough bank with exposed tree roots rises on the opposite side. Grey, watery light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_GIMMERTON_VILLAGE",
+      "ordinal": 1,
+      "location_header": "EXT. GIMMERTON VILLAGE - DAY",
+      "visual_description": "A rustic Yorkshire village street, late 18th century. Stone cottages with slate roofs line the unpaved road. Grey overcast sky. A sense of rural isolation.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_EXTERIOR",
+      "ordinal": 1,
+      "location_header": "EXT. WUTHERING HEIGHTS - DAY",
+      "visual_description": "The exterior of a stark stone farmhouse on a wind-swept moor. 1801. Narrow windows are deeply set in the wall, corners defended with large jutting stones. Grotesque carvings of crumbling griffins surround the principal door. Gaunt thorn trees stretch their limbs away from the wind. Grey, overcast, and forbidding light.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_WH_EXTERIOR.jpg"
+    },
+    {
+      "identifier": "WH_EXTERIOR_SNOW",
+      "ordinal": 1,
+      "location_header": "EXT. WUTHERING HEIGHTS - EVENING",
+      "visual_description": "The courtyard of Wuthering Heights in a blinding snowstorm. Twilight. The ground is hard with black frost and covered in snow. Straggling gooseberry bushes border the flagged causeway. A barn with a round window overlooks the yard. Cold, grey, and miserable.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_WH_EXTERIOR_SNOW.jpg"
+    },
+    {
+      "identifier": "WH_MAIN_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - DAY",
+      "visual_description": "A rustic, cavernous sitting room in a Yorkshire farmhouse, 1801. A huge fireplace dominates, though bare of cooking pots. Rows of immense pewter dishes and silver jugs gleam on a vast oak dresser reaching the roof. The floor is smooth white stone; chairs are high-backed and primitive painted green. Dark, shadowy, and masculine atmosphere with little domestic comfort.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_WH_MAIN_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_WH_OAK_CLOSET_DEATH",
+      "ordinal": 1,
+      "location_header": "INT. WUTHERING HEIGHTS - OAK CLOSET - NIGHT",
+      "visual_description": "The claustrophobic oak closet containing the panelled bed, lit only by a candle and later the grey dawn. The lattice window swings open, letting in rain and wind. The dark wood panels enclose the space like a coffin. A grim, shadowy atmosphere with wet bedclothes and a pervasive sense of the uncanny.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT_TC_KITCHEN",
+      "ordinal": 1,
+      "location_header": "INT. THRUSHCROSS GRANGE - KITCHEN - DAY",
+      "visual_description": "A large, well-ordered kitchen at Thrushcross Grange. Stone flagged floor, large hearth, but cleaner and more refined than the Heights. Views through lattice windows to the paved court. Late afternoon light.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_DEATH_PAST",
+      "ordinal": 1,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - NIGHT",
+      "visual_description": "The main sitting room of Wuthering Heights, circa 1777. October evening. A high wind roars in the chimney. The fire casts a warm but flickering light on the group gathered at the hearth. The room feels isolated by the storm outside. Somber, intimate, and eerie.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_BACK_KITCHEN",
+      "ordinal": 1,
+      "location_header": "INT. WUTHERING HEIGHTS - BACK KITCHEN - NIGHT",
+      "visual_description": "The back-kitchen of Wuthering Heights, a scullery area used by servants. Stone floor, simple hearth, drying clothes. Rain beats against the lattice window. A single candle burns. The mood is intimate and secretive as Heathcliff recounts his adventure.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_EVENING_FLASHBACK",
+      "ordinal": 1,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - NIGHT",
+      "visual_description": "The main sitting room of Wuthering Heights at twilight. A coal fire casts a warm, flickering glow on the hearth where two young people sit close together reading. The rest of the large room is in shadow. The mood is intimate and peaceful, contrasting with the dark figure of Heathcliff pacing in the background.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TC_PARLOUR_PAST",
+      "ordinal": 1,
+      "location_header": "INT. THRUSHCROSS GRANGE - PARLOUR - DAY",
+      "visual_description": "An elegant Georgian parlour at Thrushcross Grange, March 1784. Tall sash windows look out onto rolling moors where snow is melting into patches of white against green. Warm golden sunlight fills the room. Plush furniture, polished wood floors, and a general air of refined comfort. A fire crackles cheerfully.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_TC_GARDEN_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. THRUSHCROSS GRANGE - GARDEN - NIGHT",
+      "visual_description": "The garden and road outside Thrushcross Grange at 2 AM. Pitch black darkness, misty. High stone walls. The faint outline of the house. A bridle hook on the wall.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_EXTERIOR_EVENING_1802",
+      "ordinal": 1,
+      "location_header": "EXT. WUTHERING HEIGHTS - GARDEN - NIGHT",
+      "visual_description": "The exterior of Wuthering Heights under a splendid full moon, September 1802. A garden of stocks and wallflowers blooms in the foreground, scenting the air. The lattice windows of the farmhouse glow with warm red firelight, revealing a cozy interior. The usual bleak moors are softened by the gentle moonlight and flowers.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_TC_COURTYARD_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. THRUSHCROSS GRANGE - COURTYARD - DAY",
+      "visual_description": "The paved courtyard and stable yard of Thrushcross Grange in morning light. High stone walls, a mounting block, and a bridle hook by the door. The manor house rises imposingly nearby.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT_TC_PARLOUR_EVENING",
+      "ordinal": 2,
+      "location_header": "INT. THRUSHCROSS GRANGE - PARLOUR - EVENING",
+      "visual_description": "The elegant parlour of Thrushcross Grange in the evening. A fire burns in the grate. Plush furniture, including a sofa. Tense atmosphere, shadows flickering on the walls.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_EXTERIOR_SUMMER_STORM",
+      "ordinal": 2,
+      "location_header": "EXT. WUTHERING HEIGHTS - NIGHT",
+      "visual_description": "The exterior of Wuthering Heights at night during a violent summer thunderstorm. Flashes of lightning illuminate the stark stone farmhouse and gaunt thorn trees. Rain lashes against the walls. Oppressive and chaotic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_EVENING_PAST",
+      "ordinal": 2,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - EVENING",
+      "visual_description": "The main sitting room of Wuthering Heights, circa 1770s. Late evening. The room is dim, lit only by the fire and perhaps a tallow candle. Shadows dance on the stone floor. The mood is tense and weary after a long wait.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_CHRISTMAS",
+      "ordinal": 2,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - NIGHT",
+      "visual_description": "The main sitting room of Wuthering Heights decorated for Christmas Eve, 1777. A great fire roars in the hearth, casting warm dancing light on holly and ivy decking the clock and dresser. The room is filled with the smell of roasting spices and cakes. Festive and cheerful.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TC_EXT_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. THRUSHCROSS GRANGE - COURTYARD - NIGHT",
+      "visual_description": "The stone steps and courtyard of Thrushcross Grange under a full moon, September 1783. High stone walls cast deep, sharp shadows. The air is soft and misty. The kitchen door stands ajar, spilling warm yellow light onto the flagstones. Atmospheric, mysterious, and still.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_KITCHEN_1802",
+      "ordinal": 2,
+      "location_header": "INT. WUTHERING HEIGHTS - KITCHEN - NIGHT",
+      "visual_description": "The kitchen of Wuthering Heights, 1802. A large, stone-floored room lit by a cheerful fire. Nelly Dean sits sewing in a rocking chair. The space is cleaner and more orderly than in years past, though still rustic with hams hanging from the beams and a large oak dresser. Warm, domestic, and welcoming.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_WH_MOORS_FINAL",
+      "ordinal": 2,
+      "location_header": "EXT. WUTHERING HEIGHTS / KIRKYARD - DAY",
+      "visual_description": "The exterior of Wuthering Heights and the surrounding moors in fluctuating weather—from thunderstorms to benign evening skies. The scene encompasses the stone garden gate, the wild path to the churchyard, and the three headstones half-buried in heath. The mood shifts from ominous and stormy to a peaceful, transcendent quiet under the vast sky.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_STABLE_PAST",
+      "ordinal": 3,
+      "location_header": "INT. WUTHERING HEIGHTS - STABLE - DAY",
+      "visual_description": "A rustic stable interior at Wuthering Heights, circa 1770s. Rough stone walls, wooden stalls, and the smell of hay and horses. Sunlight streams through the open porch door. Dust motes dance in the air. Rough, agricultural atmosphere.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TC_PARLOUR_NIGHT",
+      "ordinal": 3,
+      "location_header": "INT. THRUSHCROSS GRANGE - PARLOUR - NIGHT",
+      "visual_description": "The Thrushcross Grange parlour at night, lit by a roaring fire and candles. The windows are dark, reflecting the interior like mirrors. A tea table is set with fine china and silver. The room feels cozy but charged with underlying tension. Rich fabrics and civilized order.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_KIRKYARD",
+      "ordinal": 3,
+      "location_header": "EXT. CHURCHYARD - DAY",
+      "visual_description": "A green slope in a corner of a churchyard, 1784. A low stone wall is overgrown with heath and bilberry plants from the adjacent moor. Peat mould covers the ground. Simple headstones stand against a backdrop of wild moors. Grey and windswept.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "EXT_WH_YARD_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. WUTHERING HEIGHTS - YARD - NIGHT",
+      "visual_description": "The cobbled yard of Wuthering Heights at night, 1784. Pitch black darkness, illuminated only by the flickering light of a dip candle held by a servant. High stone walls enclose the space. The farmhouse looms large and forbidding in the shadows. Cold and ominous.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "SCENE_TC_NELLY_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. THRUSHCROSS GRANGE - NELLY'S ROOM - DAY",
+      "visual_description": "A modest servant's bedchamber at Thrushcross Grange. Simple furniture, a narrow bed, and a window looking out to the moors. It is daytime but the room is quiet and secluded. A fire burns in the grate. Intimate and domestic.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_MORNING",
+      "ordinal": 3,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - MORNING",
+      "visual_description": "The main sitting room of Wuthering Heights in the cold, clear light of early morning. The fire has burned down to embers. The stone floor is cold. The atmosphere is hungover and resentful.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_WH_MAIN_ROOM_MORNING.jpg"
+    },
+    {
+      "identifier": "WH_KITCHEN_FLASHBACK",
+      "ordinal": 3,
+      "location_header": "INT. WUTHERING HEIGHTS - KITCHEN - DAY",
+      "visual_description": "The kitchen of Wuthering Heights, spring 1802. A cavernous room with a stone floor and large hearth. Easter Monday sunlight streams through lattice windows, illuminating ironing equipment and piles of linen. A window-seat offers a view of the moors. The atmosphere is tense yet domestic, with smoke from a pipe drifting in the air.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT_WH_KITCHEN_DIRTY",
+      "ordinal": 4,
+      "location_header": "INT. WUTHERING HEIGHTS - KITCHEN - NIGHT",
+      "visual_description": "The kitchen of Wuthering Heights, 1784. A dingy, untidy hole with a large hearth where a peat fire burns. Pewter dishes on the dresser are dull and tarnished. The floor is unswept stone. Shadows cluster in the corners. The atmosphere is neglected and hostile.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "THRUSHCROSS_STUDY",
+      "ordinal": 4,
+      "location_header": "INT. THRUSHCROSS GRANGE - STUDY - NIGHT",
+      "visual_description": "A refined gentleman's study at Thrushcross Grange, 1801. A cheerful fire burns in the grate, casting a warm glow on bookshelves lining the walls. A table is set with supper. The atmosphere is quiet, civilized, and slightly lonely. Warm firelight contrasts with the dark evening outside.",
+      "metadata": {},
+      "image_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/scenes/scene_THRUSHCROSS_STUDY.jpg"
+    },
+    {
+      "identifier": "WH_MAIN_ROOM_NIGHT",
+      "ordinal": 5,
+      "location_header": "INT. WUTHERING HEIGHTS - MAIN ROOM - NIGHT",
+      "visual_description": "The main sitting room of Wuthering Heights, 1784. A huge coal fire glows warmly, but the room is dusty and tarnished. The pewter dishes are dull. The floor is a uniform grey. Shadows lengthen in the corners of the cavernous space. The mood is gloomy, tense, and neglected.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "WH_GARRET",
+      "ordinal": 6,
+      "location_header": "INT. WUTHERING HEIGHTS - GARRET - NIGHT",
+      "visual_description": "A dusty garret under the roof of Wuthering Heights. Rough hewn beams and a sloping ceiling. Piles of malt and grain sacks leave a bare space in the middle. Moonlight filters through dirty glass skylights. The smell of malt is strong. Solitary and prison-like.",
+      "metadata": {},
+      "image_key": null
+    },
+    {
+      "identifier": "INT_WH_HARETONS_ROOM",
+      "ordinal": 7,
+      "location_header": "INT. WUTHERING HEIGHTS - HARETON'S ROOM - NIGHT",
+      "visual_description": "A small, empty bedchamber at Wuthering Heights. The room is bare of furniture save for a chair by the hearth. A fire burns in the grate. The walls are naked stone. The atmosphere is stark, lonely, and temporary.",
+      "metadata": {},
+      "image_key": null
+    }
+  ],
+  "subjects": [
+    "Revenge -- Fiction",
+    "Psychological fiction",
+    "Rejection (Psychology) -- Fiction",
+    "Love stories",
+    "Domestic fiction",
+    "Yorkshire (England) -- Fiction",
+    "Foundlings -- Fiction",
+    "Rural families -- Fiction",
+    "Heathcliff (Fictitious character : Brontë) -- Fiction",
+    "Triangles (Interpersonal relations) -- Fiction"
+  ]
+}
