@@ -8,7 +8,7 @@
   "identifier": "887eb5a9c08c87cbf2fcbc0d2726bcdac8209852",
   "publication_type": "novel",
   "cover_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/cover.png",
-  "total_duration_s": 2497.161361,
+  "total_duration_s": 2462.572426,
   "genre_tags": [
     "Classics",
     "Gothic Fiction",
@@ -21,7 +21,7 @@
       "ordinal": 0,
       "audio_key": "publications/887eb5a9c08c87cbf2fcbc0d2726bcdac8209852/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2497.161361
+      "end_s": 2462.572426
     }
   ],
   "segments": [
@@ -29,7 +29,7 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 7.431,
+      "end_s": 7.067,
       "part_ordinal": 0,
       "metadata": {},
       "background_key": null
@@ -37,8 +37,8 @@
     {
       "ordinal": 1,
       "title": "CHAPTER I",
-      "start_s": 7.431,
-      "end_s": 612.434,
+      "start_s": 7.067,
+      "end_s": 601.801,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -59,8 +59,8 @@
     {
       "ordinal": 2,
       "title": "CHAPTER II",
-      "start_s": 612.434,
-      "end_s": 1566.323,
+      "start_s": 601.801,
+      "end_s": 1526.995,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -81,8 +81,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER III",
-      "start_s": 1566.323,
-      "end_s": 2497.161,
+      "start_s": 1526.995,
+      "end_s": 2462.572,
       "part_ordinal": 0,
       "metadata": {
         "scenes": [
@@ -239,7 +239,7 @@
       "metadata": {
         "age_group": "middle_aged",
         "gender": "male",
-        "voice_accent": "american"
+        "voice_accent": "British"
       },
       "age_phases": [
         {
