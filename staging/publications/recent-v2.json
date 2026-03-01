@@ -1,9 +1,39 @@
 {
   "version": 2,
-  "generated_at": "2026-02-28T23:05:55Z",
+  "generated_at": "2026-03-01T15:37:18Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "9140bdded572c5d6e72af7f9d589a9e57fa02993",
+      "sample": false,
+      "title": "Twenty Thousand Leagues under the Sea",
+      "author_names": "Jules Verne",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "scifi",
+        "mystery"
+      ],
+      "catalog_added_at": "2026-02-10T16:38:32Z",
+      "updated_at": "2026-03-01T15:37:17Z",
+      "duration": {
+        "total_ms": 30928000,
+        "formatted": "8h 35m"
+      },
+      "cover_url": null,
+      "data_checksum": "0f9c87d53b05687e20903de525e343f019fe11f4ba60e172612d7a391792b78e",
+      "file_size": 971820635,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "887eb5a9c08c87cbf2fcbc0d2726bcdac8209852",
       "sample": true,
@@ -16,14 +46,14 @@
         "psychological"
       ],
       "catalog_added_at": "2026-02-28T17:18:52Z",
-      "updated_at": "2026-02-28T23:05:54Z",
+      "updated_at": "2026-03-01T15:32:18Z",
       "duration": {
-        "total_ms": 2492000,
-        "formatted": "42m"
+        "total_ms": 2466000,
+        "formatted": "41m"
       },
       "cover_url": null,
-      "data_checksum": "8bd604973def8e75bd24ef78753d2d8df525972686c4c801be7ea7d0b380fa70",
-      "file_size": 117481224,
+      "data_checksum": "1e661672311b22300020d6a3ca32edb69607a9a90307f20253ac35817a7842f7",
+      "file_size": 117092445,
       "available_regions": [
         "US",
         "CA",
@@ -33,6 +63,64 @@
         "IE"
       ],
       "min_app_version": "1.2.1"
+    },
+    {
+      "publication_identifier": "7b84a051046b146eb90617138320b5f88f933866",
+      "sample": false,
+      "title": "The Hound of the Baskervilles",
+      "author_names": "Arthur Conan Doyle",
+      "publication_type": "novel",
+      "genre_tags": [
+        "mystery",
+        "classics"
+      ],
+      "catalog_added_at": "2026-03-01T15:22:56Z",
+      "updated_at": "2026-03-01T15:31:44Z",
+      "duration": {
+        "total_ms": 18046000,
+        "formatted": "5h 1m"
+      },
+      "cover_url": null,
+      "data_checksum": "cda74f3ce370fb098acb7bafabab59a68da22e57be31175833d4278d35e3f105",
+      "file_size": 564833604,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
+    {
+      "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
+      "sample": false,
+      "title": "A Christmas Carol",
+      "author_names": "Charles Dickens",
+      "publication_type": "novella",
+      "genre_tags": [
+        "classics",
+        "horror"
+      ],
+      "catalog_added_at": "2026-01-11T23:12:29Z",
+      "updated_at": "2026-03-01T15:28:30Z",
+      "duration": {
+        "total_ms": 9248000,
+        "formatted": "2h 34m"
+      },
+      "cover_url": null,
+      "data_checksum": "2942b0f4d2aa4d7211db989554817f5e41b8c7586e97a4c3ea74c0b382306a4d",
+      "file_size": 356257841,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
     },
     {
       "publication_identifier": "add5b6b6feaa76a5ad6c268190feacb91fcee4ad",
@@ -751,33 +839,6 @@
       "cover_url": null,
       "data_checksum": "d763d84609d1232de599ac37b332d0e775020bed83e74192efd661a9b6cc1f7d",
       "file_size": 267327806,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ]
-    },
-    {
-      "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
-      "title": "A Christmas Carol",
-      "author_names": "Charles Dickens",
-      "publication_type": "novel",
-      "genre_tags": [
-        "classics",
-        "horror"
-      ],
-      "catalog_added_at": "2026-01-11T23:12:29Z",
-      "updated_at": "2026-01-15T02:39:11Z",
-      "duration": {
-        "total_ms": 0,
-        "formatted": "0m"
-      },
-      "cover_url": null,
-      "data_checksum": "d86fc65294f3ce350ebb9e311c2260a645eaf26702460259c3d8cae61f81451d",
-      "file_size": 220908623,
       "available_regions": [
         "US",
         "CA",

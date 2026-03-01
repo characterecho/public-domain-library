@@ -1,0 +1,2086 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "Twenty Thousand Leagues under the Sea",
+  "author_names": "Jules Verne",
+  "description": "Publication imported from https://gutenberg.org/ebooks/164.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/164.epub3.images",
+  "identifier": "9140bdded572c5d6e72af7f9d589a9e57fa02993",
+  "publication_type": "novel",
+  "cover_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/cover.png",
+  "total_duration_s": 30911.578458,
+  "genre_tags": [
+    "Classics",
+    "Science Fiction",
+    "Maritime Adventure",
+    "Mystery",
+    "Victorian"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3493.274943
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_1.mp3",
+      "start_s": 3493.274943,
+      "end_s": 6927.44551
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_2.mp3",
+      "start_s": 6927.44551,
+      "end_s": 10384.551156
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_3.mp3",
+      "start_s": 10384.551156,
+      "end_s": 13826.266485
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_4.mp3",
+      "start_s": 13826.266485,
+      "end_s": 16438.705487
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_5.mp3",
+      "start_s": 16438.705487,
+      "end_s": 19774.488072
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_6.mp3",
+      "start_s": 19774.488072,
+      "end_s": 23094.066848
+    },
+    {
+      "ordinal": 7,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_7.mp3",
+      "start_s": 23094.066848,
+      "end_s": 25926.285215
+    },
+    {
+      "ordinal": 8,
+      "audio_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/audio_part_8.mp3",
+      "start_s": 25926.285215,
+      "end_s": 30911.578458
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.921,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "PART ONE",
+      "start_s": 7.921,
+      "end_s": 9.527,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER I A SHIFTING REEF",
+      "start_s": 9.527,
+      "end_s": 559.333,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "VICTORIAN_STUDY",
+            "location_header": "INT. ARONNAX'S STUDY - DAY",
+            "visual_description": "A cluttered Victorian study filled with maps, globes, and scientific specimens. Heavy velvet curtains partially block grey daylight. A mahogany desk is piled with newspapers and journals. Warm brown and sepia tones create an academic, slightly dusty atmosphere."
+          },
+          {
+            "identifier": "SCOTIA_DECK",
+            "location_header": "EXT. STEAMSHIP DECK - DAY",
+            "visual_description": "The deck of a 19th-century steamship on a calm open sea. Polished wood railings and brass fittings gleam in the afternoon sun. Smoke trails from the funnels above. The atmosphere is peaceful but with an underlying tension."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER II PRO AND CON",
+      "start_s": 559.333,
+      "end_s": 948.535,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ARONNAX_HOTEL_ROOM",
+            "location_header": "INT. HOTEL ROOM - DAY",
+            "visual_description": "A hotel room in 1860s New York, filled with packing crates and scientific specimens. Maps and papers cover a writing desk. The room is tidy but crowded with the evidence of a natural history expedition. Daylight filters through sash windows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER III I FORM MY RESOLUTION",
+      "start_s": 948.535,
+      "end_s": 1277.507,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ARONNAX_HOTEL_ROOM",
+            "location_header": "INT. HOTEL ROOM - DAY",
+            "visual_description": "A hotel room in 1860s New York, filled with packing crates and scientific specimens. Maps and papers cover a writing desk. The room is tidy but crowded with the evidence of a natural history expedition. Daylight filters through sash windows."
+          },
+          {
+            "identifier": "ABRAHAM_LINCOLN_DECK",
+            "location_header": "EXT. SHIP DECK - DAY",
+            "visual_description": "The busy deck of a steam frigate preparing for departure. Sailors hurry about coiling ropes and loading supplies. The Brooklyn skyline is visible in the background across the water. The mood is energetic and expectant."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER IV NED LAND",
+      "start_s": 1277.507,
+      "end_s": 1764.724,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ABRAHAM_LINCOLN_DECK",
+            "location_header": "EXT. SHIP DECK - DAY",
+            "visual_description": "The busy deck of a steam frigate preparing for departure. Sailors hurry about coiling ropes and loading supplies. The Brooklyn skyline is visible in the background across the water. The mood is energetic and expectant."
+          },
+          {
+            "identifier": "ABRAHAM_LINCOLN_POOP_DECK",
+            "location_header": "EXT. POOP DECK - EVENING",
+            "visual_description": "The poop deck of the frigate at sunset. The vast ocean stretches out to the horizon, turning purple and gold. The rigging casts long shadows across the wooden planks. A sense of isolation and mystery pervades the scene."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER V AT A VENTURE",
+      "start_s": 1764.724,
+      "end_s": 2166.025,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ABRAHAM_LINCOLN_DECK",
+            "location_header": "EXT. SHIP DECK - DAY",
+            "visual_description": "The busy deck of a steam frigate preparing for departure. Sailors hurry about coiling ropes and loading supplies. The Brooklyn skyline is visible in the background across the water. The mood is energetic and expectant."
+          },
+          {
+            "identifier": "ABRAHAM_LINCOLN_DECK_NIGHT",
+            "location_header": "EXT. SHIP DECK - NIGHT",
+            "visual_description": "The deck of the frigate at night under a cloudy moon. Shadows obscure the rigging and gunwales. The sea is dark and calm. Officers with night glasses peer into the gloom. The atmosphere is tense and quiet."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VI AT FULL STEAM",
+      "start_s": 2166.025,
+      "end_s": 2914.928,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "ABRAHAM_LINCOLN_DECK_NIGHT",
+            "location_header": "EXT. SHIP DECK - NIGHT",
+            "visual_description": "The deck of the frigate at night under a cloudy moon. Shadows obscure the rigging and gunwales. The sea is dark and calm, occasionally illuminated by strange phosphorescence. Officers with night glasses peer into the gloom. The atmosphere is tense and quiet."
+          },
+          {
+            "identifier": "ABRAHAM_LINCOLN_DECK_DAY",
+            "location_header": "EXT. SHIP DECK - DAY",
+            "visual_description": "The deck of a steam frigate in daylight, initially shrouded in thick grey fog which lifts to reveal a wide horizon. Black smoke pours from the funnels, vibrating the rigging. The wooden planks are wet with spray. The ocean is choppy and vast."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VII AN UNKNOWN SPECIES OF WHALE",
+      "start_s": 2914.928,
+      "end_s": 3493.275,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "OPEN_OCEAN_NIGHT",
+            "location_header": "EXT. OPEN OCEAN - NIGHT",
+            "visual_description": "The open ocean at night. Intense darkness is broken only by the faint lights of a ship disappearing in the distance and phosphorescent waves. The swimmer's perspective is low to the water, overwhelmed by black waves and solitude. The moon occasionally breaks through thick clouds."
+          },
+          {
+            "identifier": "NAUTILUS_EXTERIOR",
+            "location_header": "EXT. STRANGE PLATFORM - NIGHT",
+            "visual_description": "The curved steel back of a massive submarine hull emerging from black ocean waters like a floating island. Riveted iron plates gleam faintly under moonlight. A small platform or deck rises from the water. The sea laps against the metallic sides."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER VIII MOBILIS IN MOBILI",
+      "start_s": 3493.275,
+      "end_s": 3961.858,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_CELL",
+            "location_header": "INT. METAL CELL - NIGHT",
+            "visual_description": "A windowless steel cabin with riveted plates. Stark, industrial 19th-century interior with an iron table and stools. Initially pitch black, then illuminated by a brilliant, blinding white electric light from a half-globe in the ceiling. The air is still."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER IX NED LAND’S TEMPERS",
+      "start_s": 3961.858,
+      "end_s": 4143.728,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_CELL",
+            "location_header": "INT. METAL CELL - NIGHT",
+            "visual_description": "A windowless steel cabin with riveted plates. Stark, industrial 19th-century interior with an iron table and stools. Initially pitch black, then illuminated by a brilliant, blinding white electric light from a half-globe in the ceiling. The air is still."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER X THE MAN OF THE SEAS",
+      "start_s": 4143.728,
+      "end_s": 5753.273,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_CELL",
+            "location_header": "INT. NAUTILUS CELL - DAY",
+            "visual_description": "A stark, windowless steel cabin with riveted plates, characteristic of 19th-century industrial design. An iron table and stools sit in the center, illuminated by a brilliant, blinding white electric light from a half-globe in the ceiling. The atmosphere is sterile, cold, and confining."
+          },
+          {
+            "identifier": "NAUTILUS_DINING_ROOM",
+            "location_header": "INT. NAUTILUS DINING ROOM - DAY",
+            "visual_description": "A lavish dining room aboard a submarine, decorated in severe but elegant taste. High oaken sideboards inlaid with ebony stand at the ends. Shelves glitter with china and crystal. A luminous ceiling sheds soft light over a rich table setting. Exquisite paintings adorn the walls."
+          },
+          {
+            "identifier": "NAUTILUS_LIBRARY",
+            "location_header": "INT. NAUTILUS LIBRARY - DAY",
+            "visual_description": "A magnificent library with high shelves of black violet ebony inlaid with brass. Curved brown leather divans provide comfort. Movable desks slide in and out. Four unpolished globes in the ceiling flood the room with electric light. Thousands of uniformly bound books line the walls."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum or artist's studio. A luminous ceiling with arabesques sheds clear light. The walls are hung with tapestries and thirty masterpieces of art. Glass cases display precious marine specimens. A model piano-organ occupies one panel."
+          },
+          {
+            "identifier": "NAUTILUS_CAPTAIN_ROOM",
+            "location_header": "INT. CAPTAIN NEMO'S ROOM - DAY",
+            "visual_description": "A severe, almost monkish room. A small iron bedstead and a simple table constitute the furniture. The space is lit by a skylight. There are no comforts, only strict necessities, creating an atmosphere of ascetic discipline."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XI ALL BY ELECTRICITY",
+      "start_s": 5753.273,
+      "end_s": 6282.843,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_CAPTAIN_ROOM",
+            "location_header": "INT. CAPTAIN NEMO'S ROOM - DAY",
+            "visual_description": "A severe, almost monkish room. A small iron bedstead and a simple table constitute the furniture. The space is lit by a skylight. There are no comforts, only strict necessities. The walls are hung with various complex navigational instruments."
+          },
+          {
+            "identifier": "NAUTILUS_WAIST_CORRIDOR",
+            "location_header": "INT. NAUTILUS CORRIDOR - DAY",
+            "visual_description": "A central corridor area aboard the submarine. A metal well opens between partitions with an iron ladder leading upward. Stark industrial design with riveted plates. An electric light illuminates the area. It feels like the functional heart of a ship."
+          },
+          {
+            "identifier": "NAUTILUS_ENGINE_ROOM",
+            "location_header": "INT. NAUTILUS ENGINE ROOM - DAY",
+            "visual_description": "A massive, brightly lit engine room, at least sixty-five feet long. Divided into sections for electricity production and propulsion machinery. Large Bunsen batteries, electro-magnets, levers, and cog-wheels fill the space. The air hums with electric power."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum or artist's studio. A luminous ceiling with arabesques sheds clear light. The walls are hung with tapestries and thirty masterpieces of art. Glass cases display precious marine specimens."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "CHAPTER XII SOME FIGURES",
+      "start_s": 6282.843,
+      "end_s": 6927.446,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum or artist's studio. A luminous ceiling with arabesques sheds clear light. The walls are hung with tapestries and thirty masterpieces of art. Glass cases display precious marine specimens. Comfortable divans offer seating."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "CHAPTER XIII THE BLACK RIVER",
+      "start_s": 6927.446,
+      "end_s": 7610.485,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM_DARK",
+            "location_header": "INT. NAUTILUS SALOON - VIEWING MODE",
+            "visual_description": "The Nautilus saloon plunged into darkness, illuminated only by the electric brilliance of the ocean outside. Two large oblong panels in the walls have slid open, revealing the deep blue water. The room is shadowy, with the focus entirely on the liquid light and marine life visible through the thick crystal windows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "CHAPTER XIV A NOTE OF INVITATION",
+      "start_s": 7610.485,
+      "end_s": 8382.59,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky."
+          },
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_DINING_ROOM",
+            "location_header": "INT. NAUTILUS DINING ROOM - DAY",
+            "visual_description": "A lavish dining room aboard the Nautilus. High oaken sideboards inlaid with ebony stand at the ends, shelves glittering with china and crystal. A luminous ceiling sheds soft light over a rich table setting. The room feels severe but elegant."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "CHAPTER XV A WALK ON THE BOTTOM OF THE SEA",
+      "start_s": 8382.59,
+      "end_s": 9007.228,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_DIVING_ROOM",
+            "location_header": "INT. NAUTILUS ARSENAL - DAY",
+            "visual_description": "A utilitarian metal chamber serving as the Nautilus's arsenal and wardrobe. Riveted steel walls are lined with hanging rubber diving suits and copper helmets. Machinery, air pumps, and tanks crowd the space. Industrial lighting and the smell of oil and rubber. An air-lock door stands at one end."
+          },
+          {
+            "identifier": "UNDERWATER_PLAINS",
+            "location_header": "EXT. OCEAN FLOOR - DAY",
+            "visual_description": "The ocean floor at thirty feet deep, bathed in brilliant sunlight filtering through the water. A floor of fine, white sand stretches endlessly, reflecting the light. The water is crystalline and blue. In the distance, vague rock formations loom. A surreal, silent, aquatic landscape."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "CHAPTER XVI A SUBMARINE FOREST",
+      "start_s": 9007.228,
+      "end_s": 9796.875,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "UNDERWATER_FOREST",
+            "location_header": "EXT. UNDERWATER FOREST - DAY",
+            "visual_description": "A surreal submarine forest where giant seaweed and kelp grow in rigid, vertical lines towards the surface. Dark, towering plant forms create gloomy arcades. The light is dim and filtered, creating a greenish twilight. Alien flowers and zoophytes carpet the rocky ground. Mysterious, silent, and claustrophobic."
+          },
+          {
+            "identifier": "UNDERWATER_SHALLOWS",
+            "location_header": "EXT. UNDERWATER SHALLOWS - DAY",
+            "visual_description": "A sandy seabed just a few feet below the ocean surface. The underside of the water acts as a mirror, reflecting the divers below. Bright sunlight penetrates clearly. Schools of fish dart through the clear water. The atmosphere is open and luminous."
+          },
+          {
+            "identifier": "NAUTILUS_DIVING_ROOM",
+            "location_header": "INT. NAUTILUS ARSENAL - DAY",
+            "visual_description": "A utilitarian metal chamber serving as the Nautilus's arsenal and wardrobe. Riveted steel walls are lined with hanging rubber diving suits and copper helmets. Machinery, air pumps, and tanks crowd the space. Industrial lighting and the smell of oil and rubber. An air-lock door stands at one end."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "CHAPTER XVII FOUR THOUSAND LEAGUES UNDER THE PACIFIC",
+      "start_s": 9796.875,
+      "end_s": 10384.551,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "CHAPTER XVIII VANIKORO",
+      "start_s": 10384.551,
+      "end_s": 11322.136,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "CHAPTER XIX TORRES STRAITS",
+      "start_s": 11322.136,
+      "end_s": 11993.698,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky."
+          },
+          {
+            "identifier": "NAUTILUS_BOAT_DAY",
+            "location_header": "EXT. NAUTILUS BOAT - DAY",
+            "visual_description": "A small wooden boat moving rapidly through calm turquoise waters. The lush green coast of the island of Gilboa approaches in the background, featuring dense screw-pine forests. The Nautilus is visible in the distance behind them, looking like a dark rock. Bright morning light floods the scene."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 21,
+      "title": "CHAPTER XX A FEW DAYS ON LAND",
+      "start_s": 11993.698,
+      "end_s": 12858.926,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "GILBOA_FOREST_DAY",
+            "location_header": "EXT. ISLAND FOREST - DAY",
+            "visual_description": "A dense Papuan forest with towering trees, some 200 feet high, linked by garlands of bindweed. Mimosas, figs, and palm trees create a verdant vault overhead. Orchids and ferns carpet the ground. Filtered sunlight breaks through the thick canopy, creating a humid, lush green atmosphere."
+          },
+          {
+            "identifier": "GILBOA_BEACH_EVENING",
+            "location_header": "EXT. ISLAND BEACH - EVENING",
+            "visual_description": "A tropical beach at dusk with heavy sand and scattered coral rocks. The edge of a dense forest lines the background. A cooking fire of dead wood crackles on the sand. In the distance, the Nautilus floats like a long dark rock on the calming sea. Warm orange light from the fire against the deepening blue twilight."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 22,
+      "title": "CHAPTER XXI CAPTAIN NEMO’S THUNDERBOLT",
+      "start_s": 12858.926,
+      "end_s": 13826.266,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "GILBOA_FOREST_EDGE",
+            "location_header": "EXT. ISLAND EDGE - DAY",
+            "visual_description": "The edge of a dense Papuan forest meeting the beach. Lush tropical vegetation creates a green wall against the sand. The late afternoon sun casts long shadows. A small boat is moored in the shallow turquoise water nearby. Tense and quiet."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - EVENING",
+            "visual_description": "The narrow steel deck of the Nautilus, barely rising above the water. The curved hull gleams wetly. The coastline of the island is visible in the distance, dotted with fires as evening falls. The open ocean stretches out on the other side. Industrial and solitary."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - NIGHT",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. A large organ stands at one end. Rich furnishings include brown leather divans. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The tropical island is clearly visible across the water. Hundreds of natives line the shore and coral reefs. The metal plates of the submarine are hot under the sun. Clear blue sky and water."
+          },
+          {
+            "identifier": "NAUTILUS_WAIST_CORRIDOR",
+            "location_header": "INT. NAUTILUS CORRIDOR - DAY",
+            "visual_description": "A central corridor area aboard the submarine. A metal well opens between partitions with an iron ladder leading upward to the platform. Stark industrial design with riveted plates. An electric light illuminates the area. Functional and metallic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 23,
+      "title": "CHAPTER XXII “ÆGRI SOMNIA”",
+      "start_s": 13826.266,
+      "end_s": 14177.802,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_SPEED",
+            "location_header": "EXT. OPEN OCEAN - DAY",
+            "visual_description": "The deck of the Nautilus cutting rapidly through the ocean. The wake foams white against the dark water. The horizon is a flat line separating sea and sky. Wind rushes past. The atmosphere is exhilarating but tense with the unnatural speed."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries. Large viewing ports reveal the underwater world outside. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_CELL",
+            "location_header": "INT. NAUTILUS CELL - DAY",
+            "visual_description": "A stark, windowless steel cabin with riveted plates. An iron table and stools sit in the center, illuminated by a white electric light. The room is sterile, cold, and confining, with a heavy door that locks from the outside."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 24,
+      "title": "CHAPTER XXIII THE CORAL KINGDOM",
+      "start_s": 14177.802,
+      "end_s": 14664.26,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries. Nemo paces restlessly. The atmosphere is heavy and somber."
+          },
+          {
+            "identifier": "NAUTILUS_SICK_BAY",
+            "location_header": "INT. NAUTILUS SICK BAY - DAY",
+            "visual_description": "A small crew cabin aboard the Nautilus. A single bunk is bolted to the wall. Industrial lighting casts harsh shadows. Medical supplies are laid out on a small metal table. A wounded man lies on the bed, his head swathed in bloody bandages. Functional, austere, and claustrophobic."
+          },
+          {
+            "identifier": "CORAL_KINGDOM",
+            "location_header": "EXT. UNDERWATER FOREST - DAY",
+            "visual_description": "A submarine forest of petrified coral trees at great depth. Giant branching corals create natural arches and thickets. The light from lamps illuminates pink, red, and white coral formations against the deep blue darkness. A clearing reveals a cross made of coral. Solemn and surreal."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, surrounded by the open ocean. The sky is bright overhead. The binnacle stands near the center. The mood is melancholy after the funeral."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 25,
+      "title": "PART TWO",
+      "start_s": 14664.26,
+      "end_s": 14666.018,
+      "part_ordinal": 4,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 26,
+      "title": "CHAPTER I THE INDIAN OCEAN",
+      "start_s": 14666.018,
+      "end_s": 14857.514,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright sun. The Indian Ocean stretches endlessly in all directions. Crew members use instruments to take solar readings. The air is fresh and salty."
+          },
+          {
+            "identifier": "NAUTILUS_MUSEUM",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries. Large viewing ports reveal the underwater world outside. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_NIGHT",
+            "location_header": "EXT. NAUTILUS PLATFORM - NIGHT",
+            "visual_description": "The deck of the Nautilus at night under a starlit sky. The ocean glows with a milky, supernatural whiteness. The horizon seems to blend into the sky. Eerie and silent."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 27,
+      "title": "CHAPTER II A NOVEL PROPOSAL OF CAPTAIN NEMO’S",
+      "start_s": 14857.514,
+      "end_s": 15348.885,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 28,
+      "title": "CHAPTER III A PEARL OF TEN MILLIONS",
+      "start_s": 15348.885,
+      "end_s": 16438.705,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_BOAT_DAY",
+            "location_header": "EXT. NAUTILUS BOAT - DAY",
+            "visual_description": "A small wooden boat moving rapidly through calm turquoise waters. The lush green coast of the island of Gilboa approaches in the background, featuring dense screw-pine forests. The Nautilus is visible in the distance behind them, looking like a dark rock. Bright morning light floods the scene."
+          },
+          {
+            "identifier": "UNDERWATER_PEARL_BANK",
+            "location_header": "EXT. UNDERWATER PEARL BANK - DAY",
+            "visual_description": "The floor of the Pearl Bank, a rugged underwater terrain of rocks and sand roughly thirty feet down. Sunlight filters through the clear tropical water, illuminating piles of oysters and swaying hydrophytes. Schools of brightly colored fish dart among coral formations. The atmosphere is clear, luminous, and teeming with marine life."
+          },
+          {
+            "identifier": "UNDERWATER_GROTTO",
+            "location_header": "INT. UNDERWATER GROTTO - DAY",
+            "visual_description": "A vast underwater cavern formed by a picturesque heap of rocks. Natural granite pillars support a dark, vaulted ceiling. The light is dim and aquatic, filtering in from the entrance. In the center, on a granite table, sits a colossal oyster, isolated and majestic. The mood is mysterious and reverent."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 29,
+      "title": "CHAPTER IV THE RED SEA",
+      "start_s": 16438.705,
+      "end_s": 17457.762,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The tropical island is clearly visible across the water. Hundreds of natives line the shore and coral reefs. The metal plates of the submarine are hot under the sun. Clear blue sky and water."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 30,
+      "title": "CHAPTER V THE ARABIAN TUNNEL",
+      "start_s": 17457.762,
+      "end_s": 18216.497,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The tropical island is clearly visible across the water. Hundreds of natives line the shore and coral reefs. The metal plates of the submarine are hot under the sun. Clear blue sky and water."
+          },
+          {
+            "identifier": "NAUTILUS_BOAT_DAY",
+            "location_header": "EXT. NAUTILUS BOAT - DAY",
+            "visual_description": "A small wooden boat moving rapidly through calm turquoise waters. The lush green coast of the island of Gilboa approaches in the background, featuring dense screw-pine forests. The Nautilus is visible in the distance behind them, looking like a dark rock. Bright morning light floods the scene."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_NIGHT",
+            "location_header": "EXT. NAUTILUS PLATFORM - NIGHT",
+            "visual_description": "The deck of the Nautilus at night under a starlit sky. The ocean glows with a milky, supernatural whiteness. The horizon seems to blend into the sky. Eerie and silent."
+          },
+          {
+            "identifier": "NAUTILUS_PILOT_CAGE",
+            "location_header": "INT. PILOT CAGE - NIGHT",
+            "visual_description": "The interior of a small, steel pilot's cabin atop the Nautilus hull. A vertical wheel stands in the center, held by a strong pilot. Four circular glass ports offer a view of the illuminated sea outside. The space is cramped, functional, and dark, lit only by the glow from outside and instrument dials. 19th-century industrial maritime aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_TUNNEL_INTERIOR",
+            "location_header": "INT. NAUTILUS TUNNEL - NIGHT",
+            "visual_description": "A rushing blur of black water and rock walls streaking past the viewports. Brilliant electric rays from the Nautilus cut through the darkness, illuminating jagged tunnel sides. The sense of speed is intense. Streaks of light and bubbles create a chaotic, high-velocity underwater tunnel effect."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 31,
+      "title": "CHAPTER VI THE GRECIAN ARCHIPELAGO",
+      "start_s": 18216.497,
+      "end_s": 18796.788,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The tropical island is clearly visible across the water. Hundreds of natives line the shore and coral reefs. The metal plates of the submarine are hot under the sun. Clear blue sky and water."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON_VOLCANIC",
+            "location_header": "INT. NAUTILUS SALOON - VOLCANIC ERUPTION",
+            "visual_description": "The Nautilus saloon bathed in an intense, hellish red light. Through the large viewing panels, the ocean outside boils and swirls in clouds of white sulphurous vapour and scarlet reflections. The interior shadows are harsh and dramatic. The atmosphere is suffocating and heated."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 32,
+      "title": "CHAPTER VII THE MEDITERRANEAN IN FORTY-EIGHT HOURS",
+      "start_s": 18796.788,
+      "end_s": 18952.127,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 33,
+      "title": "CHAPTER VIII VIGO BAY",
+      "start_s": 18952.127,
+      "end_s": 19449.013,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus. The vast, empty ocean horizon stretches in all directions under a pure sky. A strong southerly gale is blowing, making the sea swollen and billowy. The platform rocks violently with the heavy rolls of the waves."
+          },
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 34,
+      "title": "CHAPTER IX A VANISHED CONTINENT",
+      "start_s": 19449.013,
+      "end_s": 19774.488,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_DIVING_ROOM",
+            "location_header": "INT. NAUTILUS ARSENAL - DAY",
+            "visual_description": "A utilitarian metal chamber serving as the Nautilus's arsenal and wardrobe. Riveted steel walls are lined with hanging rubber diving suits and copper helmets. Machinery, air pumps, and tanks crowd the space. Industrial lighting and the smell of oil and rubber. An air-lock door stands at one end."
+          },
+          {
+            "identifier": "EXT_ATLANTIS_PATH",
+            "location_header": "EXT. UNDERWATER PATH - NIGHT",
+            "visual_description": "A dark, craggy underwater landscape lit by a distant, reddish glow. Petrified trees with black branches stretch up like skeletons. The ground is rocky and covered in seaweed. The water is murky, illuminated only by the strange red light ahead. Oppressive and mysterious."
+          },
+          {
+            "identifier": "EXT_ATLANTIS_RUINS",
+            "location_header": "EXT. ATLANTIS RUINS - NIGHT",
+            "visual_description": "An underwater volcano spewing torrents of silent, white-hot lava into the dark ocean. In the foreground, the ruined columns and arches of an ancient sunken city are illuminated by the volcanic glare. Broken temples and walls lie scattered on the sea floor. Surreal, majestic, and catastrophic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 35,
+      "title": "CHAPTER X THE SUBMARINE COAL-MINES",
+      "start_s": 19774.488,
+      "end_s": 20646.161,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "VOLCANIC_CAVERN_PLATFORM",
+            "location_header": "INT. VOLCANIC CAVERN - DAY",
+            "visual_description": "The steel deck of the Nautilus floating in a subterranean lake inside a vast extinct volcano. High rocky walls curve up to a vaulted dome 600 yards high. A small circular opening at the top admits a shaft of daylight, but the cavern is mostly lit by the Nautilus's powerful electric lantern. Industrial and mysterious."
+          },
+          {
+            "identifier": "VOLCANIC_CAVERN_SHORE",
+            "location_header": "INT. VOLCANIC CAVERN SHORE - ARTIFICIAL LIGHT",
+            "visual_description": "A sandy shore encircling a subterranean lake. Piles of volcanic blocks, pumice, and black basalt lie scattered. The ground glitters with mica dust under the electric light. Honeycombed rock faces rise steeply. Alien vegetation like dragon-trees struggles in the gloom."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 36,
+      "title": "CHAPTER XI THE SARGASSO SEA",
+      "start_s": 20646.161,
+      "end_s": 21199.414,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 37,
+      "title": "CHAPTER XII CACHALOTS AND WHALES",
+      "start_s": 21199.414,
+      "end_s": 22106.04,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 38,
+      "title": "CHAPTER XIII THE ICEBERG",
+      "start_s": 22106.04,
+      "end_s": 23094.067,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_ICE",
+            "location_header": "EXT. ANTARCTIC ICE - DAY",
+            "visual_description": "The deck of the Nautilus navigating a channel through dazzling white ice fields. Jagged icebergs tower around, some resembling oriental towns or fallen cities. The sky is grey and foggy, but the ice reflects prismatic colors—green veins and amethyst hues. Cold, desolate, and majestic."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 39,
+      "title": "CHAPTER XIV THE SOUTH POLE",
+      "start_s": 23094.067,
+      "end_s": 24240.75,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The tropical island is clearly visible across the water. Hundreds of natives line the shore and coral reefs. The metal plates of the submarine are hot under the sun. Clear blue sky and water."
+          },
+          {
+            "identifier": "EXT_SOUTH_POLE_COAST",
+            "location_header": "EXT. ANTARCTIC COAST - DAY",
+            "visual_description": "A desolate Antarctic shoreline of reddish volcanic rock and crushed pumice. Jets of sulphurous smoke rise from ground fissures. The sea is dotted with ice. Thousands of penguins and seabirds crowd the black rocks. A grey, leaden sky hangs low over the stark, otherworldly landscape."
+          },
+          {
+            "identifier": "EXT_SOUTH_POLE_PEAK",
+            "location_header": "EXT. SOUTH POLE PEAK - DAY",
+            "visual_description": "The summit of a sharp volcanic peak composed of porphyry and basalt. A vast panorama of the open polar sea stretches to the north. Fields of dazzling white ice lie below. The pale azure sky is free of fog. The low sun sits on the horizon like a ball of fire."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 40,
+      "title": "CHAPTER XV ACCIDENT OR INCIDENT?",
+      "start_s": 24240.75,
+      "end_s": 24910.201,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - NIGHT",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_LIBRARY",
+            "location_header": "INT. NAUTILUS LIBRARY - DAY",
+            "visual_description": "A magnificent library with high shelves of black violet ebony inlaid with brass. Curved brown leather divans provide comfort. Movable desks slide in and out. Four unpolished globes in the ceiling flood the room with electric light. Thousands of uniformly bound books line the walls."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 41,
+      "title": "CHAPTER XVI WANT OF AIR",
+      "start_s": 24910.201,
+      "end_s": 25926.285,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "EXT_ICE_TUNNEL_WORK_SITE",
+            "location_header": "EXT. ICE TUNNEL - UNDERWATER",
+            "visual_description": "A narrow, claustrophobic tunnel of ice illuminated by the Nautilus's searchlight. The water is freezing and murky. Massive blue-white walls of ice press in from all sides. Men in diving suits hack desperately at the ice with pickaxes. Bubbles rise in the harsh electric light."
+          },
+          {
+            "identifier": "NAUTILUS_GALLEYS",
+            "location_header": "INT. NAUTILUS GALLEYS - DAY",
+            "visual_description": "The functional galley of the Nautilus, dominated by large distillatory machines and piping. Electric heat coils glow red. Steam rises from troughs where water boils. The air is hot and humid, contrasting with the cold steel walls. Copper and glass apparatus glint in the light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 42,
+      "title": "CHAPTER XVII FROM CAPE HORN TO THE AMAZON",
+      "start_s": 25926.285,
+      "end_s": 26743.52,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The vast, empty ocean stretches to the horizon under a pure sky. The metal plates of the submarine are hot under the sun. The atmosphere is open and liberating."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 43,
+      "title": "CHAPTER XVIII THE POULPS",
+      "start_s": 26743.52,
+      "end_s": 27520.813,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The vast, empty ocean stretches to the horizon under a pure sky. The metal plates of the submarine are hot under the sun. The atmosphere is open and liberating."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 44,
+      "title": "CHAPTER XIX THE GULF STREAM",
+      "start_s": 27520.813,
+      "end_s": 28391.756,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_CAPTAIN_ROOM",
+            "location_header": "INT. CAPTAIN NEMO'S ROOM - DAY",
+            "visual_description": "A severe, almost monkish room. A small iron bedstead and a simple table constitute the furniture. The space is lit by a skylight. There are no comforts, only strict necessities. The walls are hung with various complex navigational instruments."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_STORM",
+            "location_header": "EXT. NAUTILUS PLATFORM - STORM",
+            "visual_description": "The steel deck of the Nautilus amidst a furious hurricane. Towering grey waves crash over the hull. The sky is black and purple, streaked with vivid lightning. Rain lashes horizontally. The atmosphere is chaotic, violent, and overwhelmingly loud with the roar of wind and thunder."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 45,
+      "title": "CHAPTER XX FROM LATITUDE 47° 24′ TO LONGITUDE 17° 28′",
+      "start_s": 28391.756,
+      "end_s": 29063.333,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "UNDERWATER_ATLANTIC_CABLE",
+            "location_header": "EXT. UNDERWATER CABLE - DAY",
+            "visual_description": "The floor of the Atlantic Ocean, a valley of deep silt and shells. A massive transatlantic cable snakes across the bottom, encrusted with shells and marine life. The water is deep, dark, and still, illuminated by the Nautilus's searchlight. A silent, monumental underwater landscape."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under bright morning sun. The vast, empty ocean stretches to the horizon under a pure sky. The metal plates of the submarine are hot under the sun. The atmosphere is open and liberating."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "UNDERWATER_WRECK_VENGEUR",
+            "location_header": "EXT. UNDERWATER WRECK - DAY",
+            "visual_description": "The sunken wreck of a 19th-century warship, the 'Vengeur', coated in white shells like snow. It sits upright on the ocean floor, masts gone but hull intact. The scene is illuminated by the Nautilus's lights against the deep blue darkness. Solemn, ghostly, and historic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 46,
+      "title": "CHAPTER XXI A HECATOMB",
+      "start_s": 29063.333,
+      "end_s": 30007.494,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus under a grey, foggy sky. The vast ocean stretches out, broken only by the distant silhouette of a large warship puffing black smoke. The metal plating of the submarine glistens with sea spray. The atmosphere is tense and ominous."
+          },
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_NIGHT",
+            "location_header": "EXT. NAUTILUS PLATFORM - NIGHT",
+            "visual_description": "The deck of the Nautilus at night under a starlit sky. The ocean glows with a milky, supernatural whiteness. The horizon seems to blend into the sky. In the distance, the lights of a pursuing ship burn red and green. Eerie and silent."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON_BATTLE",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "The Nautilus saloon in dim lighting. Through the large glass viewing panels, the underwater hull of a sinking warship is visible, surrounded by churned white water and sinking debris. Dark shapes of the wreck loom against the blue-black water. The atmosphere is horrific and somber."
+          },
+          {
+            "identifier": "NAUTILUS_CAPTAIN_ROOM",
+            "location_header": "INT. CAPTAIN NEMO'S ROOM - DAY",
+            "visual_description": "A severe, almost monkish room. A small iron bedstead and a simple table constitute the furniture. The space is lit by a skylight. On the end wall hangs a portrait of a young woman and two children. There are no comforts, only strict necessities."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 47,
+      "title": "CHAPTER XXII THE LAST WORDS OF CAPTAIN NEMO",
+      "start_s": 30007.494,
+      "end_s": 30755.375,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NAUTILUS_SALOON",
+            "location_header": "INT. NAUTILUS SALOON - DAY",
+            "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design."
+          },
+          {
+            "identifier": "NAUTILUS_ARONNAX_CABIN",
+            "location_header": "INT. ARONNAX CABIN - DAY",
+            "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic."
+          },
+          {
+            "identifier": "NAUTILUS_PLATFORM_DAY",
+            "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+            "visual_description": "The steel deck of the Nautilus amidst heavy, grey seas. Thick mist obscures the horizon. The deck is wet and slippery, rocking violently with the waves. The atmosphere is cold, turbulent, and threatening."
+          },
+          {
+            "identifier": "NAUTILUS_SALOON_NIGHT",
+            "location_header": "INT. NAUTILUS SALOON - NIGHT",
+            "visual_description": "The Nautilus saloon plunged into darkness, save for the faint glow from the library door. The shapes of furniture and display cases are vague shadows. A deep, melancholy silence fills the room, broken only by the sound of an organ playing. Mysterious and somber."
+          },
+          {
+            "identifier": "NAUTILUS_BOAT_ESCAPE",
+            "location_header": "EXT. NAUTILUS BOAT - NIGHT",
+            "visual_description": "The interior of a small, cramped metal dinghy. It is dark and violently tossing. Through the opening, the steel hull of the Nautilus is visible. The roar of crashing water and wind is overwhelming. Chaotic and terrifying."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 48,
+      "title": "CHAPTER XXIII CONCLUSION",
+      "start_s": 30755.375,
+      "end_s": 30911.578,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FISHERMANS_HUT_LOFFODEN",
+            "location_header": "INT. FISHERMAN'S HUT - DAY",
+            "visual_description": "The interior of a humble fisherman's hut in the Loffoden Isles. Rough wooden walls are hung with fishing nets and tools. A simple fire burns in the hearth. A small window reveals a view of the rugged Norwegian coast. The atmosphere is safe, quiet, and rustic."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "PIERRE_ARONNAX",
+      "name": "Pierre Aronnax",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "educated",
+        "narrative",
+        "french_accent"
+      ],
+      "visual_attributes": [
+        "high forehead",
+        "intelligent eyes",
+        "sideburns",
+        "formal suit",
+        "bow tie",
+        "wet clothes",
+        "exhausted",
+        "dishevelled suit"
+      ],
+      "roles": [
+        "protagonist",
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 1449,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/PIERRE_ARONNAX.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/PIERRE_ARONNAX.mp3"
+    },
+    {
+      "identifier": "CAPTAIN_NEMO",
+      "name": "Captain Nemo",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "commanding",
+        "intellectual",
+        "deep",
+        "refined"
+      ],
+      "visual_attributes": [
+        "tall",
+        "pale skin",
+        "black eyes",
+        "wide-set eyes",
+        "high forehead",
+        "authoritative bearing"
+      ],
+      "roles": [
+        "captain",
+        "antagonist"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "neutral_refined"
+      },
+      "dialogue_count": 397,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CAPTAIN_NEMO.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CAPTAIN_NEMO.mp3"
+    },
+    {
+      "identifier": "NED_LAND",
+      "name": "Ned Land",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Canadian"
+      ],
+      "voice_attributes": [
+        "deep",
+        "rough",
+        "canadian_accent"
+      ],
+      "visual_attributes": [
+        "tall",
+        "powerful build",
+        "piercing eyes",
+        "broad forehead",
+        "weathered skin",
+        "wet clothes",
+        "angry expression"
+      ],
+      "roles": [
+        "harpooner"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american_canadian"
+      },
+      "dialogue_count": 221,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/NED_LAND.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/NED_LAND.mp3"
+    },
+    {
+      "identifier": "CONSEIL",
+      "name": "Conseil",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "calm",
+        "monotone",
+        "formal",
+        "flemish_accent"
+      ],
+      "visual_attributes": [
+        "stoic face",
+        "sturdy build",
+        "neat servant's clothes",
+        "impassive expression",
+        "wet servant's clothes"
+      ],
+      "roles": [
+        "servant",
+        "companion"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "dutch"
+      },
+      "dialogue_count": 153,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CONSEIL.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CONSEIL.mp3"
+    },
+    {
+      "identifier": "COMMANDER_FARRAGUT",
+      "name": "Commander Farragut",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "nautical",
+        "direct"
+      ],
+      "visual_attributes": [
+        "naval uniform",
+        "weathered face",
+        "determined eyes",
+        "grey beard"
+      ],
+      "roles": [
+        "captain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/COMMANDER_FARRAGUT.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/COMMANDER_FARRAGUT.mp3"
+    },
+    {
+      "identifier": "CHIEF_ENGINEER",
+      "name": "Chief Engineer",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "loud"
+      ],
+      "visual_attributes": [
+        "grease-stained uniform",
+        "pragmatic"
+      ],
+      "roles": [
+        "crew"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CHIEF_ENGINEER.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CHIEF_ENGINEER.mp3"
+    },
+    {
+      "identifier": "HELMSMAN",
+      "name": "Helmsman",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "focused",
+        "loud"
+      ],
+      "visual_attributes": [
+        "sailor's cap",
+        "weathered hands"
+      ],
+      "roles": [
+        "crew"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/HELMSMAN.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/HELMSMAN.mp3"
+    },
+    {
+      "identifier": "NAUTILUS_CREW",
+      "name": "Nautilus Crewman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "silent",
+        "strong"
+      ],
+      "visual_attributes": [
+        "masked faces",
+        "strange uniforms"
+      ],
+      "roles": [
+        "crew"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "neutral"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/NAUTILUS_CREW.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/NAUTILUS_CREW.mp3"
+    },
+    {
+      "identifier": "CARPENTERS_WATCH",
+      "name": "Carpenter's Watch",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "loud",
+        "urgent"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "sailor's cap",
+        "work clothes",
+        "thick hands"
+      ],
+      "roles": [
+        "sailor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CARPENTERS_WATCH.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/CARPENTERS_WATCH.mp3"
+    },
+    {
+      "identifier": "J_B_HOBSON",
+      "name": "J.B. Hobson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "formal",
+        "official",
+        "american"
+      ],
+      "visual_attributes": [
+        "unseen"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/J_B_HOBSON.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/J_B_HOBSON.mp3"
+    },
+    {
+      "identifier": "OFFICER_ABRAHAM_LINCOLN",
+      "name": "Officer",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "tense"
+      ],
+      "visual_attributes": [
+        "naval uniform",
+        "cap",
+        "telescope"
+      ],
+      "roles": [
+        "crew"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/OFFICER_ABRAHAM_LINCOLN.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/OFFICER_ABRAHAM_LINCOLN.mp3"
+    },
+    {
+      "identifier": "NAUTILUS_FIRST_MATE",
+      "name": "Second Officer",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "silent",
+        "strong",
+        "foreign"
+      ],
+      "visual_attributes": [
+        "short",
+        "muscular",
+        "broad-shouldered",
+        "thick moustache",
+        "black hair"
+      ],
+      "roles": [
+        "crew"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "neutral"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/NAUTILUS_FIRST_MATE.png",
+      "voice_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/characters/NAUTILUS_FIRST_MATE.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "GILBOA_FOREST_EDGE",
+      "ordinal": 0,
+      "location_header": "EXT. ISLAND EDGE - DAY",
+      "visual_description": "The edge of a dense Papuan forest meeting the beach. Lush tropical vegetation creates a green wall against the sand. The late afternoon sun casts long shadows. A small boat is moored in the shallow turquoise water nearby. Tense and quiet.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_GILBOA_FOREST_EDGE.jpg"
+    },
+    {
+      "identifier": "ABRAHAM_LINCOLN_DECK",
+      "ordinal": 0,
+      "location_header": "EXT. SHIP DECK - DAY",
+      "visual_description": "The busy deck of a steam frigate preparing for departure. Sailors hurry about coiling ropes and loading supplies. The Brooklyn skyline is visible in the background across the water. The mood is energetic and expectant.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_ABRAHAM_LINCOLN_DECK.jpg"
+    },
+    {
+      "identifier": "FISHERMANS_HUT_LOFFODEN",
+      "ordinal": 0,
+      "location_header": "INT. FISHERMAN'S HUT - DAY",
+      "visual_description": "The interior of a humble fisherman's hut in the Loffoden Isles. Rough wooden walls are hung with fishing nets and tools. A simple fire burns in the hearth. A small window reveals a view of the rugged Norwegian coast. The atmosphere is safe, quiet, and rustic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_FISHERMANS_HUT_LOFFODEN.jpg"
+    },
+    {
+      "identifier": "ABRAHAM_LINCOLN_DECK_NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. SHIP DECK - NIGHT",
+      "visual_description": "The deck of the frigate at night under a cloudy moon. Shadows obscure the rigging and gunwales. The sea is dark and calm, occasionally illuminated by strange phosphorescence. Officers with night glasses peer into the gloom. The atmosphere is tense and quiet.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_ABRAHAM_LINCOLN_DECK_NIGHT.jpg"
+    },
+    {
+      "identifier": "OPEN_OCEAN_NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. OPEN OCEAN - NIGHT",
+      "visual_description": "The open ocean at night. Intense darkness is broken only by the faint lights of a ship disappearing in the distance and phosphorescent waves. The swimmer's perspective is low to the water, overwhelmed by black waves and solitude. The moon occasionally breaks through thick clouds.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_OPEN_OCEAN_NIGHT.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_CELL",
+      "ordinal": 0,
+      "location_header": "INT. NAUTILUS CELL - DAY",
+      "visual_description": "A stark, windowless steel cabin with riveted plates, characteristic of 19th-century industrial design. An iron table and stools sit in the center, illuminated by a brilliant, blinding white electric light from a half-globe in the ceiling. The atmosphere is sterile, cold, and confining.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_CELL.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_MUSEUM",
+      "ordinal": 0,
+      "location_header": "INT. NAUTILUS SALOON - DAY",
+      "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_MUSEUM.jpg"
+    },
+    {
+      "identifier": "VICTORIAN_STUDY",
+      "ordinal": 0,
+      "location_header": "INT. ARONNAX'S STUDY - DAY",
+      "visual_description": "A cluttered Victorian study filled with maps, globes, and scientific specimens. Heavy velvet curtains partially block grey daylight. A mahogany desk is piled with newspapers and journals. Warm brown and sepia tones create an academic, slightly dusty atmosphere.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_VICTORIAN_STUDY.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_SALOON",
+      "ordinal": 0,
+      "location_header": "INT. NAUTILUS SALOON - DAY",
+      "visual_description": "A vast, splendidly lit drawing room resembling a museum. High ceilings with luminous panels shed clear light on glass cases filled with marine specimens. The walls are hung with tapestries and masterpieces. Rich furnishings include brown leather divans and a piano-organ. 19th-century luxury meets industrial design.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_SALOON.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_ATLANTIC_CABLE",
+      "ordinal": 0,
+      "location_header": "EXT. UNDERWATER CABLE - DAY",
+      "visual_description": "The floor of the Atlantic Ocean, a valley of deep silt and shells. A massive transatlantic cable snakes across the bottom, encrusted with shells and marine life. The water is deep, dark, and still, illuminated by the Nautilus's searchlight. A silent, monumental underwater landscape.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_ATLANTIC_CABLE.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PLATFORM_DAY",
+      "ordinal": 0,
+      "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+      "visual_description": "The steel deck of the Nautilus under a grey, foggy sky. The vast ocean stretches out, broken only by the distant silhouette of a large warship puffing black smoke. The metal plating of the submarine glistens with sea spray. The atmosphere is tense and ominous.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PLATFORM_DAY.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PLATFORM_ICE",
+      "ordinal": 0,
+      "location_header": "EXT. ANTARCTIC ICE - DAY",
+      "visual_description": "The deck of the Nautilus navigating a channel through dazzling white ice fields. Jagged icebergs tower around, some resembling oriental towns or fallen cities. The sky is grey and foggy, but the ice reflects prismatic colors—green veins and amethyst hues. Cold, desolate, and majestic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PLATFORM_ICE.jpg"
+    },
+    {
+      "identifier": "ARONNAX_HOTEL_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. HOTEL ROOM - DAY",
+      "visual_description": "A hotel room in 1860s New York, filled with packing crates and scientific specimens. Maps and papers cover a writing desk. The room is tidy but crowded with the evidence of a natural history expedition. Daylight filters through sash windows.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_ARONNAX_HOTEL_ROOM.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_FOREST",
+      "ordinal": 0,
+      "location_header": "EXT. UNDERWATER FOREST - DAY",
+      "visual_description": "A surreal submarine forest where giant seaweed and kelp grow in rigid, vertical lines towards the surface. Dark, towering plant forms create gloomy arcades. The light is dim and filtered, creating a greenish twilight. Alien flowers and zoophytes carpet the rocky ground. Mysterious, silent, and claustrophobic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_FOREST.jpg"
+    },
+    {
+      "identifier": "GILBOA_FOREST_DAY",
+      "ordinal": 0,
+      "location_header": "EXT. ISLAND FOREST - DAY",
+      "visual_description": "A dense Papuan forest with towering trees, some 200 feet high, linked by garlands of bindweed. Mimosas, figs, and palm trees create a verdant vault overhead. Orchids and ferns carpet the ground. Filtered sunlight breaks through the thick canopy, creating a humid, lush green atmosphere.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_GILBOA_FOREST_DAY.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PLATFORM_SPEED",
+      "ordinal": 0,
+      "location_header": "EXT. OPEN OCEAN - DAY",
+      "visual_description": "The deck of the Nautilus cutting rapidly through the ocean. The wake foams white against the dark water. The horizon is a flat line separating sea and sky. Wind rushes past. The atmosphere is exhilarating but tense with the unnatural speed.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PLATFORM_SPEED.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_BOAT_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. NAUTILUS BOAT - DAY",
+      "visual_description": "A small wooden boat moving rapidly through calm turquoise waters. The lush green coast of the island of Gilboa approaches in the background, featuring dense screw-pine forests. The Nautilus is visible in the distance behind them, looking like a dark rock. Bright morning light floods the scene.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_BOAT_DAY.jpg"
+    },
+    {
+      "identifier": "EXT_ICE_TUNNEL_WORK_SITE",
+      "ordinal": 1,
+      "location_header": "EXT. ICE TUNNEL - UNDERWATER",
+      "visual_description": "A narrow, claustrophobic tunnel of ice illuminated by the Nautilus's searchlight. The water is freezing and murky. Massive blue-white walls of ice press in from all sides. Men in diving suits hack desperately at the ice with pickaxes. Bubbles rise in the harsh electric light.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_EXT_ICE_TUNNEL_WORK_SITE.jpg"
+    },
+    {
+      "identifier": "ABRAHAM_LINCOLN_POOP_DECK",
+      "ordinal": 1,
+      "location_header": "EXT. POOP DECK - EVENING",
+      "visual_description": "The poop deck of the frigate at sunset. The vast ocean stretches out to the horizon, turning purple and gold. The rigging casts long shadows across the wooden planks. A sense of isolation and mystery pervades the scene.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_ABRAHAM_LINCOLN_POOP_DECK.jpg"
+    },
+    {
+      "identifier": "EXT_SOUTH_POLE_COAST",
+      "ordinal": 1,
+      "location_header": "EXT. ANTARCTIC COAST - DAY",
+      "visual_description": "A desolate Antarctic shoreline of reddish volcanic rock and crushed pumice. Jets of sulphurous smoke rise from ground fissures. The sea is dotted with ice. Thousands of penguins and seabirds crowd the black rocks. A grey, leaden sky hangs low over the stark, otherworldly landscape.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_EXT_SOUTH_POLE_COAST.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_PLAINS",
+      "ordinal": 1,
+      "location_header": "EXT. OCEAN FLOOR - DAY",
+      "visual_description": "The ocean floor at thirty feet deep, bathed in brilliant sunlight filtering through the water. A floor of fine, white sand stretches endlessly, reflecting the light. The water is crystalline and blue. In the distance, vague rock formations loom. A surreal, silent, aquatic landscape.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_PLAINS.jpg"
+    },
+    {
+      "identifier": "ABRAHAM_LINCOLN_DECK_DAY",
+      "ordinal": 1,
+      "location_header": "EXT. SHIP DECK - DAY",
+      "visual_description": "The deck of a steam frigate in daylight, initially shrouded in thick grey fog which lifts to reveal a wide horizon. Black smoke pours from the funnels, vibrating the rigging. The wooden planks are wet with spray. The ocean is choppy and vast.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_ABRAHAM_LINCOLN_DECK_DAY.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PLATFORM",
+      "ordinal": 1,
+      "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+      "visual_description": "The narrow steel deck of the Nautilus, only three feet above the calm sea. The spindle-shaped hull curves away like a giant cigar. Riveted iron plates resemble reptile scales. Two low cages with thick glass protrude. The vast, empty ocean horizon stretches in all directions under a pure sky.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PLATFORM.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_EXTERIOR",
+      "ordinal": 1,
+      "location_header": "EXT. NAUTILUS PLATFORM - DAY",
+      "visual_description": "The curved steel hull of the submarine emerging from the ocean. A flat platform with a slight iron railing rises barely above the waves. A glass cage for the steersman protrudes from the hull. The vast, empty ocean stretches to the horizon under a pure sky.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_EXTERIOR.jpg"
+    },
+    {
+      "identifier": "GILBOA_BEACH_EVENING",
+      "ordinal": 1,
+      "location_header": "EXT. ISLAND BEACH - EVENING",
+      "visual_description": "A tropical beach at dusk with heavy sand and scattered coral rocks. The edge of a dense forest lines the background. A cooking fire of dead wood crackles on the sand. In the distance, the Nautilus floats like a long dark rock on the calming sea. Warm orange light from the fire against the deepening blue twilight.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_GILBOA_BEACH_EVENING.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_SHALLOWS",
+      "ordinal": 1,
+      "location_header": "EXT. UNDERWATER SHALLOWS - DAY",
+      "visual_description": "A sandy seabed just a few feet below the ocean surface. The underside of the water acts as a mirror, reflecting the divers below. Bright sunlight penetrates clearly. Schools of fish dart through the clear water. The atmosphere is open and luminous.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_SHALLOWS.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_LIBRARY",
+      "ordinal": 1,
+      "location_header": "INT. NAUTILUS LIBRARY - DAY",
+      "visual_description": "A magnificent library with high shelves of black violet ebony inlaid with brass. Curved brown leather divans provide comfort. Movable desks slide in and out. Four unpolished globes in the ceiling flood the room with electric light. Thousands of uniformly bound books line the walls.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_LIBRARY.jpg"
+    },
+    {
+      "identifier": "SCOTIA_DECK",
+      "ordinal": 1,
+      "location_header": "EXT. STEAMSHIP DECK - DAY",
+      "visual_description": "The deck of a 19th-century steamship on a calm open sea. Polished wood railings and brass fittings gleam in the afternoon sun. Smoke trails from the funnels above. The atmosphere is peaceful but with an underlying tension.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_SCOTIA_DECK.jpg"
+    },
+    {
+      "identifier": "VOLCANIC_CAVERN_PLATFORM",
+      "ordinal": 1,
+      "location_header": "INT. VOLCANIC CAVERN - DAY",
+      "visual_description": "The steel deck of the Nautilus floating in a subterranean lake inside a vast extinct volcano. High rocky walls curve up to a vaulted dome 600 yards high. A small circular opening at the top admits a shaft of daylight, but the cavern is mostly lit by the Nautilus's powerful electric lantern. Industrial and mysterious.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_VOLCANIC_CAVERN_PLATFORM.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_WAIST_CORRIDOR",
+      "ordinal": 1,
+      "location_header": "INT. NAUTILUS CORRIDOR - DAY",
+      "visual_description": "A central corridor area aboard the submarine. A metal well opens between partitions with an iron ladder leading upward. Stark industrial design with riveted plates. An electric light illuminates the area. It feels like the functional heart of a ship.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_WAIST_CORRIDOR.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_ARONNAX_CABIN",
+      "ordinal": 1,
+      "location_header": "INT. ARONNAX CABIN - DAY",
+      "visual_description": "A compact, functional cabin aboard the Nautilus. A simple couch of seagrass stands against the riveted steel wall. A small table holds scientific instruments. The room is efficient and somewhat austere, lit by the glow of electric fixtures. 19th-century industrial aesthetic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_ARONNAX_CABIN.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_PEARL_BANK",
+      "ordinal": 2,
+      "location_header": "EXT. UNDERWATER PEARL BANK - DAY",
+      "visual_description": "The floor of the Pearl Bank, a rugged underwater terrain of rocks and sand roughly thirty feet down. Sunlight filters through the clear tropical water, illuminating piles of oysters and swaying hydrophytes. Schools of brightly colored fish dart among coral formations. The atmosphere is clear, luminous, and teeming with marine life.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_PEARL_BANK.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_ENGINE_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. NAUTILUS ENGINE ROOM - DAY",
+      "visual_description": "A massive, brightly lit engine room, at least sixty-five feet long. Divided into sections for electricity production and propulsion machinery. Large Bunsen batteries, electro-magnets, levers, and cog-wheels fill the space. The air hums with electric power.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_ENGINE_ROOM.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_MUSEUM_DARK",
+      "ordinal": 2,
+      "location_header": "INT. NAUTILUS SALOON - VIEWING MODE",
+      "visual_description": "The Nautilus saloon plunged into darkness, illuminated only by the electric brilliance of the ocean outside. Two large oblong panels in the walls have slid open, revealing the deep blue water. The room is shadowy, with the focus entirely on the liquid light and marine life visible through the thick crystal windows.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_MUSEUM_DARK.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_DIVING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. NAUTILUS ARSENAL - DAY",
+      "visual_description": "A utilitarian metal chamber serving as the Nautilus's arsenal and wardrobe. Riveted steel walls are lined with hanging rubber diving suits and copper helmets. Machinery, air pumps, and tanks crowd the space. Industrial lighting and the smell of oil and rubber. An air-lock door stands at one end.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_DIVING_ROOM.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_SICK_BAY",
+      "ordinal": 2,
+      "location_header": "INT. NAUTILUS SICK BAY - DAY",
+      "visual_description": "A small crew cabin aboard the Nautilus. A single bunk is bolted to the wall. Industrial lighting casts harsh shadows. Medical supplies are laid out on a small metal table. A wounded man lies on the bed, his head swathed in bloody bandages. Functional, austere, and claustrophobic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_SICK_BAY.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_SALOON_VOLCANIC",
+      "ordinal": 2,
+      "location_header": "INT. NAUTILUS SALOON - VOLCANIC ERUPTION",
+      "visual_description": "The Nautilus saloon bathed in an intense, hellish red light. Through the large viewing panels, the ocean outside boils and swirls in clouds of white sulphurous vapour and scarlet reflections. The interior shadows are harsh and dramatic. The atmosphere is suffocating and heated.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_SALOON_VOLCANIC.jpg"
+    },
+    {
+      "identifier": "EXT_SOUTH_POLE_PEAK",
+      "ordinal": 2,
+      "location_header": "EXT. SOUTH POLE PEAK - DAY",
+      "visual_description": "The summit of a sharp volcanic peak composed of porphyry and basalt. A vast panorama of the open polar sea stretches to the north. Fields of dazzling white ice lie below. The pale azure sky is free of fog. The low sun sits on the horizon like a ball of fire.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_EXT_SOUTH_POLE_PEAK.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_GALLEYS",
+      "ordinal": 2,
+      "location_header": "INT. NAUTILUS GALLEYS - DAY",
+      "visual_description": "The functional galley of the Nautilus, dominated by large distillatory machines and piping. Electric heat coils glow red. Steam rises from troughs where water boils. The air is hot and humid, contrasting with the cold steel walls. Copper and glass apparatus glint in the light.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_GALLEYS.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PLATFORM_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. NAUTILUS PLATFORM - NIGHT",
+      "visual_description": "The deck of the Nautilus at night under a starlit sky. The ocean glows with a milky, supernatural whiteness. The horizon seems to blend into the sky. In the distance, the lights of a pursuing ship burn red and green. Eerie and silent.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PLATFORM_NIGHT.jpg"
+    },
+    {
+      "identifier": "VOLCANIC_CAVERN_SHORE",
+      "ordinal": 2,
+      "location_header": "INT. VOLCANIC CAVERN SHORE - ARTIFICIAL LIGHT",
+      "visual_description": "A sandy shore encircling a subterranean lake. Piles of volcanic blocks, pumice, and black basalt lie scattered. The ground glitters with mica dust under the electric light. Honeycombed rock faces rise steeply. Alien vegetation like dragon-trees struggles in the gloom.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_VOLCANIC_CAVERN_SHORE.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_WRECK_VENGEUR",
+      "ordinal": 3,
+      "location_header": "EXT. UNDERWATER WRECK - DAY",
+      "visual_description": "The sunken wreck of a 19th-century warship, the 'Vengeur', coated in white shells like snow. It sits upright on the ocean floor, masts gone but hull intact. The scene is illuminated by the Nautilus's lights against the deep blue darkness. Solemn, ghostly, and historic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_WRECK_VENGEUR.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PILOT_CAGE",
+      "ordinal": 3,
+      "location_header": "INT. PILOT CAGE - NIGHT",
+      "visual_description": "The interior of a small, steel pilot's cabin atop the Nautilus hull. A vertical wheel stands in the center, held by a strong pilot. Four circular glass ports offer a view of the illuminated sea outside. The space is cramped, functional, and dark, lit only by the glow from outside and instrument dials. 19th-century industrial maritime aesthetic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PILOT_CAGE.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_PLATFORM_STORM",
+      "ordinal": 3,
+      "location_header": "EXT. NAUTILUS PLATFORM - STORM",
+      "visual_description": "The steel deck of the Nautilus amidst a furious hurricane. Towering grey waves crash over the hull. The sky is black and purple, streaked with vivid lightning. Rain lashes horizontally. The atmosphere is chaotic, violent, and overwhelmingly loud with the roar of wind and thunder.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_PLATFORM_STORM.jpg"
+    },
+    {
+      "identifier": "EXT_ATLANTIS_PATH",
+      "ordinal": 3,
+      "location_header": "EXT. UNDERWATER PATH - NIGHT",
+      "visual_description": "A dark, craggy underwater landscape lit by a distant, reddish glow. Petrified trees with black branches stretch up like skeletons. The ground is rocky and covered in seaweed. The water is murky, illuminated only by the strange red light ahead. Oppressive and mysterious.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_EXT_ATLANTIS_PATH.jpg"
+    },
+    {
+      "identifier": "UNDERWATER_GROTTO",
+      "ordinal": 3,
+      "location_header": "INT. UNDERWATER GROTTO - DAY",
+      "visual_description": "A vast underwater cavern formed by a picturesque heap of rocks. Natural granite pillars support a dark, vaulted ceiling. The light is dim and aquatic, filtering in from the entrance. In the center, on a granite table, sits a colossal oyster, isolated and majestic. The mood is mysterious and reverent.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_UNDERWATER_GROTTO.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_SALOON_BATTLE",
+      "ordinal": 3,
+      "location_header": "INT. NAUTILUS SALOON - DAY",
+      "visual_description": "The Nautilus saloon in dim lighting. Through the large glass viewing panels, the underwater hull of a sinking warship is visible, surrounded by churned white water and sinking debris. Dark shapes of the wreck loom against the blue-black water. The atmosphere is horrific and somber.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_SALOON_BATTLE.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_SALOON_NIGHT",
+      "ordinal": 3,
+      "location_header": "INT. NAUTILUS SALOON - NIGHT",
+      "visual_description": "The Nautilus saloon plunged into darkness, save for the faint glow from the library door. The shapes of furniture and display cases are vague shadows. A deep, melancholy silence fills the room, broken only by the sound of an organ playing. Mysterious and somber.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_SALOON_NIGHT.jpg"
+    },
+    {
+      "identifier": "CORAL_KINGDOM",
+      "ordinal": 3,
+      "location_header": "EXT. UNDERWATER FOREST - DAY",
+      "visual_description": "A submarine forest of petrified coral trees at great depth. Giant branching corals create natural arches and thickets. The light from lamps illuminates pink, red, and white coral formations against the deep blue darkness. A clearing reveals a cross made of coral. Solemn and surreal.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_CORAL_KINGDOM.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_DINING_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. NAUTILUS DINING ROOM - DAY",
+      "visual_description": "A lavish dining room aboard a submarine, decorated in severe but elegant taste. High oaken sideboards inlaid with ebony stand at the ends. Shelves glitter with china and crystal. A luminous ceiling sheds soft light over a rich table setting. Exquisite paintings adorn the walls.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_CAPTAIN_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. CAPTAIN NEMO'S ROOM - DAY",
+      "visual_description": "A severe, almost monkish room. A small iron bedstead and a simple table constitute the furniture. The space is lit by a skylight. On the end wall hangs a portrait of a young woman and two children. There are no comforts, only strict necessities.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_CAPTAIN_ROOM.jpg"
+    },
+    {
+      "identifier": "EXT_ATLANTIS_RUINS",
+      "ordinal": 4,
+      "location_header": "EXT. ATLANTIS RUINS - NIGHT",
+      "visual_description": "An underwater volcano spewing torrents of silent, white-hot lava into the dark ocean. In the foreground, the ruined columns and arches of an ancient sunken city are illuminated by the volcanic glare. Broken temples and walls lie scattered on the sea floor. Surreal, majestic, and catastrophic.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_EXT_ATLANTIS_RUINS.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_TUNNEL_INTERIOR",
+      "ordinal": 4,
+      "location_header": "INT. NAUTILUS TUNNEL - NIGHT",
+      "visual_description": "A rushing blur of black water and rock walls streaking past the viewports. Brilliant electric rays from the Nautilus cut through the darkness, illuminating jagged tunnel sides. The sense of speed is intense. Streaks of light and bubbles create a chaotic, high-velocity underwater tunnel effect.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_TUNNEL_INTERIOR.jpg"
+    },
+    {
+      "identifier": "NAUTILUS_BOAT_ESCAPE",
+      "ordinal": 4,
+      "location_header": "EXT. NAUTILUS BOAT - NIGHT",
+      "visual_description": "The interior of a small, cramped metal dinghy. It is dark and violently tossing. Through the opening, the steel hull of the Nautilus is visible. The roar of crashing water and wind is overwhelming. Chaotic and terrifying.",
+      "metadata": {},
+      "image_key": "publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/scenes/scene_NAUTILUS_BOAT_ESCAPE.jpg"
+    }
+  ],
+  "subjects": [
+    "Science fiction",
+    "Submarines (Ships) -- Fiction",
+    "Sea stories",
+    "Adventure stories",
+    "Underwater exploration -- Fiction"
+  ]
+}
