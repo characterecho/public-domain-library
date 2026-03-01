@@ -1,0 +1,746 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/png" href="https://images.squarespace-cdn.com/content/693e911fb26d4b4b3a52c2ce/92c9d8a1-9c41-4cad-8fef-6417bf021ae5/browser.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Urbanist:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <title>The Hound of the Baskervilles by Arthur Conan Doyle | Character Echo</title>
+  <meta name="description" content="Listen to The Hound of the Baskervilles by Arthur Conan Doyle - an immersive audiobook experience with unique character voices.">
+
+  <!-- Open Graph meta tags -->
+  <meta property="og:title" content="The Hound of the Baskervilles - Audiobook">
+  <meta property="og:description" content="Listen to The Hound of the Baskervilles by Arthur Conan Doyle with unique character voices.">
+  <meta property="og:type" content="book">
+  <meta property="og:url" content="https://app.characterecho.com/p/7b84a051046b146eb90617138320b5f88f933866">
+  
+  <meta property="og:image" content="https://app.characterecho.com/preview/7b84a051046b146eb90617138320b5f88f933866/cover.jpg">
+  <meta property="og:image:width" content="1024">
+  <meta property="og:image:height" content="1024">
+  
+
+  <!-- Twitter Card meta tags -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="The Hound of the Baskervilles">
+  <meta name="twitter:description" content="Listen to The Hound of the Baskervilles by Arthur Conan Doyle with unique character voices.">
+  
+  <meta name="twitter:image" content="https://app.characterecho.com/preview/7b84a051046b146eb90617138320b5f88f933866/cover.jpg">
+  
+
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    :root {
+      --primary-color: #6366f1;
+      --primary-hover: #4f46e5;
+      --text-primary: #1f2937;
+      --text-secondary: #4b5563;
+      --bg-light: #f9fafb;
+      --bg-dark: #111827;
+      --font-literary: 'Georgia', 'Cambria', 'Times New Roman', 'Times', serif;
+    }
+
+    body {
+      font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1.5em;
+      letter-spacing: 0em;
+      font-size: 1rem;
+      color: var(--text-primary);
+      
+      background: linear-gradient(rgba(0,0,0,0.15), rgba(0,0,0,0.25)), url('background.jpg') center/cover fixed;
+      
+      min-height: 100vh;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.5em;
+    }
+
+    .text-lg { font-size: 1.4rem; }
+    .text-sm { font-size: 0.9rem; }
+
+    h1, h2, h3, h4, h5, h6 {
+      font-family: 'Urbanist', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      line-height: 1.2em;
+      letter-spacing: -0.02em;
+    }
+
+    h1 { font-size: 4rem; }
+    h2 { font-size: 2.8rem; }
+    h3 { font-size: 2.2rem; }
+    h4 { font-size: 1.6rem; }
+
+    /* Navigation - matches Squarespace */
+    .nav {
+      background: #323A7D;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+
+    .nav-container {
+      padding: 6vw 4vw;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+    }
+
+    @media (min-width: 768px) {
+      .nav-container {
+        padding: 2vw 4vw;
+      }
+    }
+
+    .nav-left {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+    }
+
+    .nav-back {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: white;
+      text-decoration: none;
+      font-size: 1.5rem;
+      opacity: 0.8;
+      transition: opacity 0.2s;
+    }
+
+    .nav-back:hover {
+      opacity: 1;
+    }
+
+    .nav-logo {
+      display: flex;
+      align-items: center;
+    }
+
+    .nav-logo img {
+      height: 30px;
+      width: auto;
+    }
+
+    @media (min-width: 768px) {
+      .nav-logo img {
+        height: 60px;
+      }
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 2vw;
+      text-align: right;
+      margin-left: auto;
+    }
+
+    .nav-link {
+      font-family: 'Poppins', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-style: normal;
+      font-size: 1rem;
+      line-height: 1.5em;
+      letter-spacing: 0em;
+      text-transform: none;
+      white-space: nowrap;
+      display: inline-flex;
+      align-items: center;
+      padding: 0.1em 0;
+      color: hsla(0, 0%, 100%, 1);
+      text-decoration: none;
+      transition: color 0.2s;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+      backface-visibility: hidden;
+    }
+
+    .nav-link:hover {
+      color: white;
+    }
+
+    .nav-link.active {
+      color: white;
+      background-image: linear-gradient(currentColor, currentColor);
+      background-repeat: repeat-x;
+      background-size: 1px 1px;
+      background-position: 0 calc(100% - 0.1em);
+    }
+
+    .nav-cta {
+      background: var(--primary-color);
+      color: white;
+      padding: 0.5rem 1rem;
+      border-radius: 6px;
+      text-decoration: none;
+      font-size: 0.9rem;
+      font-weight: 500;
+      transition: background 0.2s;
+    }
+
+    .nav-cta:hover {
+      background: var(--primary-hover);
+    }
+
+    .nav-mobile-toggle {
+      display: none;
+      background: none;
+      border: none;
+      color: white;
+      font-size: 1.5rem;
+      cursor: pointer;
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        display: none;
+        position: absolute;
+        top: 100%;
+        left: 0;
+        right: 0;
+        background: #323A7D;
+        flex-direction: column;
+        padding: 1rem;
+        gap: 1rem;
+      }
+
+      .nav-links.open {
+        display: flex;
+      }
+
+      .nav-mobile-toggle {
+        display: block;
+      }
+
+      .nav-container {
+        position: relative;
+      }
+    }
+
+    .container {
+      max-width: 1400px;
+      margin: 0 auto;
+      padding: 2rem;
+    }
+
+    /* Two-column layout */
+    .main-content {
+      display: flex;
+      flex-direction: column;
+      gap: 2rem;
+    }
+
+    @media (min-width: 1024px) {
+      .main-content {
+        flex-direction: row;
+        align-items: flex-start;
+      }
+
+      .left-column {
+        flex: 0 0 450px;
+        position: sticky;
+        top: 2rem;
+      }
+
+      .right-column {
+        flex: 1;
+        min-width: 0;
+      }
+    }
+
+    /* Left Column - Hero & Characters */
+    .left-column {
+      color: white;
+    }
+
+    .hero-card {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2rem;
+      text-align: center;
+    }
+
+    .cover-image {
+      width: 240px;
+      height: 240px;
+      border-radius: 12px;
+      box-shadow: 0 25px 50px -12px rgba(0,0,0,0.5);
+      object-fit: cover;
+      margin: 0 auto 1.5rem;
+      display: block;
+    }
+
+    .hero-card h1 {
+      font-size: 2.2rem;
+      margin-bottom: 0.35rem;
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+
+    .hero-card .author {
+      font-family: var(--font-literary);
+      font-size: 1.05rem;
+      font-style: italic;
+      color: rgba(255,255,255,0.85);
+      margin-bottom: 1.5rem;
+    }
+
+    /* Audio Player */
+    .audio-player {
+      background: rgba(255,255,255,0.1);
+      border-radius: 12px;
+      padding: 1rem;
+      margin-bottom: 1.5rem;
+    }
+
+    .audio-player h3 {
+      color: white;
+      margin-bottom: 0.75rem;
+      font-size: 0.75rem;
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+    }
+
+    .audio-player audio {
+      width: 100%;
+    }
+
+    /* CTA Button */
+    .cta-button {
+      display: inline-block;
+      background: var(--primary-color);
+      color: white;
+      padding: 0.875rem 1.75rem;
+      border-radius: 9999px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 1rem;
+      transition: background 0.2s, transform 0.2s;
+      box-shadow: 0 10px 25px -5px rgba(99, 102, 241, 0.4);
+    }
+
+    .cta-button:hover {
+      background: var(--primary-hover);
+      transform: translateY(-2px);
+    }
+
+    /* Characters Section */
+    .characters-section {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 1.5rem;
+      margin-top: 1.5rem;
+    }
+
+    .characters-section h2 {
+      text-align: center;
+      margin-bottom: 0.5rem;
+      color: white;
+      font-size: 1.1rem;
+    }
+
+    .characters-section .subtitle {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      margin-bottom: 1rem;
+      font-size: 0.8rem;
+    }
+
+    .characters-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 1rem;
+    }
+
+    @media (max-width: 1023px) {
+      .characters-grid {
+        grid-template-columns: repeat(auto-fit, minmax(100px, 1fr));
+      }
+    }
+
+    .character-card {
+      text-align: center;
+      cursor: pointer;
+      transition: transform 0.2s;
+    }
+
+    .character-card:hover {
+      transform: scale(1.05);
+    }
+
+    .character-portrait {
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid rgba(255,255,255,0.9);
+      box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+      margin: 0 auto 0.5rem;
+      display: block;
+    }
+
+    .character-card.playing .character-portrait {
+      border-color: var(--primary-color);
+      box-shadow: 0 0 0 3px rgba(99, 102, 241, 0.3);
+    }
+
+    .character-name {
+      font-weight: 600;
+      color: white;
+      font-size: 0.75rem;
+      line-height: 1.2;
+      text-shadow: 0 1px 2px rgba(0,0,0,0.3);
+    }
+
+    .character-card .play-indicator {
+      font-size: 0.65rem;
+      color: rgba(255,255,255,0.8);
+      margin-top: 0.2rem;
+      opacity: 0;
+      transition: opacity 0.2s;
+    }
+
+    .character-card:hover .play-indicator,
+    .character-card.playing .play-indicator {
+      opacity: 1;
+    }
+
+    /* Right Column - Chapter Text */
+    .right-column {
+      background: rgba(0,0,0,0.3);
+      backdrop-filter: blur(10px);
+      border-radius: 16px;
+      padding: 2.5rem;
+      max-height: calc(100vh - 4rem);
+      overflow-y: auto;
+      /* Slim scrollbar */
+      scrollbar-width: thin; /* Firefox */
+      scrollbar-color: rgba(255,255,255,0.3) transparent;
+    }
+
+    .right-column::-webkit-scrollbar {
+      width: 6px;
+    }
+
+    .right-column::-webkit-scrollbar-track {
+      background: transparent;
+    }
+
+    .right-column::-webkit-scrollbar-thumb {
+      background: rgba(255,255,255,0.3);
+      border-radius: 3px;
+    }
+
+    .right-column::-webkit-scrollbar-thumb:hover {
+      background: rgba(255,255,255,0.5);
+    }
+
+    .chapter-section h2 {
+      margin-bottom: 1.5rem;
+      color: white;
+      font-size: 2rem;
+      border-bottom: 1px solid rgba(255,255,255,0.2);
+      padding-bottom: 0.75rem;
+      text-shadow: 0 1px 3px rgba(0,0,0,0.3);
+    }
+
+    .chapter-text {
+      font-family: var(--font-literary);
+      color: rgba(255,255,255,0.9);
+      font-size: 1.125rem;
+      line-height: 1.9;
+      letter-spacing: 0.01em;
+    }
+
+    .chapter-text p {
+      margin-bottom: 1.5rem;
+      text-indent: 1.75em;
+    }
+
+    .chapter-text p:first-child {
+      text-indent: 0;
+    }
+
+    .chapter-text i, .chapter-text em {
+      font-style: italic;
+    }
+
+    /* Footer */
+    .footer {
+      text-align: center;
+      padding: 2rem;
+      color: rgba(255,255,255,0.6);
+      font-size: 0.875rem;
+    }
+
+    .footer a {
+      color: rgba(255,255,255,0.8);
+      text-decoration: none;
+    }
+
+    .footer a:hover {
+      text-decoration: underline;
+    }
+
+    .store-buttons {
+      display: flex;
+      justify-content: center;
+      gap: 1rem;
+      flex-wrap: wrap;
+      margin-top: 1rem;
+    }
+
+    .store-button {
+      display: block;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    .store-button:hover {
+      transform: scale(1.05);
+      text-decoration: none;
+    }
+
+    .store-button img {
+      height: 50px;
+      width: auto;
+    }
+
+    /* Hidden audio elements for voice samples */
+    .voice-samples {
+      display: none;
+    }
+
+    /* Mobile adjustments */
+    @media (max-width: 1023px) {
+      .right-column {
+        max-height: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <nav class="nav">
+    <div class="nav-container">
+      <div class="nav-left">
+        <a href="https://library.characterecho.com/" class="nav-back" title="Back to Library">&#8592;</a>
+        <a href="https://www.characterecho.com" class="nav-logo">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/897e932a-9fe1-4167-b7c3-51b2a0ecda07/White+logo+-+no+background.png" alt="Character Echo">
+        </a>
+      </div>
+      <button class="nav-mobile-toggle" id="navToggle" aria-label="Toggle menu">&#9776;</button>
+      <div class="nav-links" id="navLinks">
+        <a href="https://library.characterecho.com/" class="nav-link">Library</a>
+        <a href="https://www.characterecho.com/about" class="nav-link">About</a>
+        <a href="https://www.characterecho.com/contact" class="nav-link">Contact</a>
+      </div>
+    </div>
+  </nav>
+
+  <div class="container">
+    <div class="main-content">
+      <!-- Left Column: Hero, Audio, CTA, Characters -->
+      <div class="left-column">
+        <div class="hero-card">
+          
+          <img src="cover.jpg" alt="The Hound of the Baskervilles cover" class="cover-image">
+          
+          <h1>The Hound of the Baskervilles</h1>
+          <p class="author">by Arthur Conan Doyle</p>
+
+          
+          <div class="audio-player">
+            <h3>Preview</h3>
+            <audio controls preload="metadata">
+              <source src="preview.mp3" type="audio/mpeg">
+              Your browser does not support the audio element.
+            </audio>
+          </div>
+          
+
+          <a href="https://app.characterecho.com/p/7b84a051046b146eb90617138320b5f88f933866" class="cta-button">Listen on Character Echo</a>
+        </div>
+
+        
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="WATSON" onclick="playVoiceSample('WATSON')">
+              <img src="characters/WATSON.png" alt="Watson" class="character-portrait">
+              <div class="character-name">Watson</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="SHERLOCK_HOLMES" onclick="playVoiceSample('SHERLOCK_HOLMES')">
+              <img src="characters/SHERLOCK_HOLMES.png" alt="Holmes" class="character-portrait">
+              <div class="character-name">Holmes</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="JAMES_MORTIMER" onclick="playVoiceSample('JAMES_MORTIMER')">
+              <img src="characters/JAMES_MORTIMER.png" alt="Dr. Mortimer" class="character-portrait">
+              <div class="character-name">Dr. Mortimer</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-WATSON" preload="none">
+            <source src="characters/WATSON.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-SHERLOCK_HOLMES" preload="none">
+            <source src="characters/SHERLOCK_HOLMES.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-JAMES_MORTIMER" preload="none">
+            <source src="characters/JAMES_MORTIMER.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
+      </div>
+
+      <!-- Right Column: Chapter Text -->
+      <div class="right-column">
+        <section class="chapter-section">
+          <h2>Chapter I. Mr. Sherlock Holmes.</h2>
+          <div class="chapter-text">
+            
+              <p> Mr. Sherlock Holmes, who was usually very late in the mornings, save upon those not infrequent occasions when he was up all night, was seated at the breakfast table. I stood upon the hearth-rug and picked up the stick which our visitor had left behind him the night before. It was a fine, thick piece of wood, bulbous-headed, of the sort which is known as a “Penang lawyer.” Just under the head was a broad silver band nearly an inch across. “To James Mortimer, M.R.C.S., from his friends of the C.C.H.,” was engraved upon it, with the date “1884.” It was just such a stick as the old-fashioned family practitioner used to carry—dignified, solid, and reassuring. </p>
+<p> “Well, Watson, what do you make of it?” </p>
+<p> Holmes was sitting with his back to me, and I had given him no sign of my occupation. </p>
+<p> “How did you know what I was doing? I believe you have eyes in the back of your head.” </p>
+<p> “I have, at least, a well-polished, silver-plated coffee-pot in front of me,” said he. “But, tell me, Watson, what do you make of our visitor’s stick? Since we have been so unfortunate as to miss him and have no notion of his errand, this accidental souvenir becomes of importance. Let me hear you reconstruct the man by an examination of it.” </p>
+<p> “I think,” said I, following as far as I could the methods of my companion, “that Dr. Mortimer is a successful, elderly medical man, well-esteemed since those who know him give him this mark of their appreciation.” </p>
+<p> “Good!” said Holmes. “Excellent!” </p>
+<p> “I think also that the probability is in favour of his being a country practitioner who does a great deal of his visiting on foot.” </p>
+<p> “Why so?” </p>
+<p> “Because this stick, though originally a very handsome one has been so knocked about that I can hardly imagine a town practitioner carrying it. The thick-iron ferrule is worn down, so it is evident that he has done a great amount of walking with it.” </p>
+<p> “Perfectly sound!” said Holmes. </p>
+<p> “And then again, there is the ‘friends of the C.C.H.’ I should guess that to be the Something Hunt, the local hunt to whose members he has possibly given some surgical assistance, and which has made him a small presentation in return.” </p>
+<p> “Really, Watson, you excel yourself,” said Holmes, pushing back his chair and lighting a cigarette. “I am bound to say that in all the accounts which you have been so good as to give of my own small achievements you have habitually underrated your own abilities. It may be that you are not yourself luminous, but you are a conductor of light. Some people without possessing genius have a remarkable power of stimulating it. I confess, my dear fellow, that I am very much in your debt.” </p>
+<p> He had never said as much before, and I must admit that his words gave me keen pleasure, for I had often been piqued by his indifference to my admiration and to the attempts which I had made to give publicity to his methods. I was proud, too, to think that I had so far mastered his system as to apply it in a way which earned his approval. He now took the stick from my hands and examined it for a few minutes with his naked eyes. Then with an expression of interest he laid down his cigarette, and carrying the cane to the window, he looked over it again with a convex lens. </p>
+<p> “Interesting, though elementary,” said he as he returned to his favourite corner of the settee. “There are certainly one or two indications upon the stick. It gives us the basis for several deductions.” </p>
+<p> “Has anything escaped me?” I asked with some self-importance. “I trust that there is nothing of consequence which I have overlooked?” </p>
+<p> “I am afraid, my dear Watson, that most of your conclusions were erroneous. When I said that you stimulated me I meant, to be frank, that in noting your fallacies I was occasionally guided towards the truth. Not that you are entirely wrong in this instance. The man is certainly a country practitioner. And he walks a good deal.” </p>
+<p> “Then I was right.” </p>
+<p> “To that extent.” </p>
+<p> “But that was all.” </p>
+<p> “No, no, my dear Watson, not all—by no means all. I would suggest, for example, that a presentation to a doctor is more likely to come from a hospital than from a hunt, and that when the initials ‘C.C.’ are placed before that hospital the words ‘Charing Cross’ very naturally suggest themselves.” </p>
+<p> “You may be right.” </p>
+<p> “The probability lies in that direction. And if we take this as a working hypothesis we have a fresh basis from which to start our construction of this unknown visitor.” </p>
+<p> “Well, then, supposing that ‘C.C.H.’ does stand for ‘Charing Cross Hospital,’ what further inferences may we draw?” </p>
+<p> “Do none suggest themselves? You know my methods. Apply them!” </p>
+<p> “I can only think of the obvious conclusion that the man has practised in town before going to the country.” </p>
+<p> “I think that we might venture a little farther than this. Look at it in this light. On what occasion would it be most probable that such a presentation would be made? When would his friends unite to give him a pledge of their good will? Obviously at the moment when Dr. Mortimer withdrew from the service of the hospital in order to start a practice for himself. We know there has been a presentation. We believe there has been a change from a town hospital to a country practice. Is it, then, stretching our inference too far to say that the presentation was on the occasion of the change?” </p>
+<p> “It certainly seems probable.” </p>
+<p> “Now, you will observe that he could not have been on the <i>staff</i> of the hospital, since only a man well-established in a London practice could hold such a position, and such a one would not drift into the country. What was he, then? If he was in the hospital and yet not on the staff he could only have been a house-surgeon or a house-physician—little more than a senior student. And he left five years ago—the date is on the stick. So your grave, middle-aged family practitioner vanishes into thin air, my dear Watson, and there emerges a young fellow under thirty, amiable, unambitious, absent-minded, and the possessor of a favourite dog, which I should describe roughly as being larger than a terrier and smaller than a mastiff.” </p>
+<p> I laughed incredulously as Sherlock Holmes leaned back in his settee and blew little wavering rings of smoke up to the ceiling. </p>
+<p> “As to the latter part, I have no means of checking you,” said I, “but at least it is not difficult to find out a few particulars about the man’s age and professional career.” From my small medical shelf I took down the Medical Directory and turned up the name. There were several Mortimers, but only one who could be our visitor. I read his record aloud. </p>
+<p> “Mortimer, James, M.R.C.S., 1882, Grimpen, Dartmoor, Devon. House-surgeon, from 1882 to 1884, at Charing Cross Hospital. Winner of the Jackson prize for Comparative Pathology, with essay entitled ‘Is Disease a Reversion?’ Corresponding member of the Swedish Pathological Society. Author of ‘Some Freaks of Atavism’ (<i>Lancet</i> 1882). ‘Do We Progress?’ (<i>Journal of Psychology</i>, March, 1883). Medical Officer for the parishes of Grimpen, Thorsley, and High Barrow.” </p>
+<p> “No mention of that local hunt, Watson,” said Holmes with a mischievous smile, “but a country doctor, as you very astutely observed. I think that I am fairly justified in my inferences. As to the adjectives, I said, if I remember right, amiable, unambitious, and absent-minded. It is my experience that it is only an amiable man in this world who receives testimonials, only an unambitious one who abandons a London career for the country, and only an absent-minded one who leaves his stick and not his visiting-card after waiting an hour in your room.” </p>
+<p> “And the dog?” </p>
+<p> “Has been in the habit of carrying this stick behind his master. Being a heavy stick the dog has held it tightly by the middle, and the marks of his teeth are very plainly visible. The dog’s jaw, as shown in the space between these marks, is too broad in my opinion for a terrier and not broad enough for a mastiff. It may have been—yes, by Jove, it <i>is</i> a curly-haired spaniel.” </p>
+<p> He had risen and paced the room as he spoke. Now he halted in the recess of the window. There was such a ring of conviction in his voice that I glanced up in surprise. </p>
+<p> “My dear fellow, how can you possibly be so sure of that?” </p>
+<p> “For the very simple reason that I see the dog himself on our very door-step, and there is the ring of its owner. Don’t move, I beg you, Watson. He is a professional brother of yours, and your presence may be of assistance to me. Now is the dramatic moment of fate, Watson, when you hear a step upon the stair which is walking into your life, and you know not whether for good or ill. What does Dr. James Mortimer, the man of science, ask of Sherlock Holmes, the specialist in crime? Come in!” </p>
+<p> The appearance of our visitor was a surprise to me, since I had expected a typical country practitioner. He was a very tall, thin man, with a long nose like a beak, which jutted out between two keen, grey eyes, set closely together and sparkling brightly from behind a pair of gold-rimmed glasses. He was clad in a professional but rather slovenly fashion, for his frock-coat was dingy and his trousers frayed. Though young, his long back was already bowed, and he walked with a forward thrust of his head and a general air of peering benevolence. As he entered his eyes fell upon the stick in Holmes’s hand, and he ran towards it with an exclamation of joy. “I am so very glad,” said he. “I was not sure whether I had left it here or in the Shipping Office. I would not lose that stick for the world.” </p>
+<p> “A presentation, I see,” said Holmes. </p>
+<p> “Yes, sir.” </p>
+<p> “From Charing Cross Hospital?” </p>
+<p> “From one or two friends there on the occasion of my marriage.” </p>
+<p> “Dear, dear, that’s bad!” said Holmes, shaking his head. </p>
+<p> Dr. Mortimer blinked through his glasses in mild astonishment. “Why was it bad?” </p>
+<p> “Only that you have disarranged our little deductions. Your marriage, you say?” </p>
+<p> “Yes, sir. I married, and so left the hospital, and with it all hopes of a consulting practice. It was necessary to make a home of my own.” </p>
+<p> “Come, come, we are not so far wrong, after all,” said Holmes. “And now, Dr. James Mortimer—” </p>
+<p> “Mister, sir, Mister—a humble M.R.C.S.” </p>
+<p> “And a man of precise mind, evidently.” </p>
+<p> “A dabbler in science, Mr. Holmes, a picker up of shells on the shores of the great unknown ocean. I presume that it is Mr. Sherlock Holmes whom I am addressing and not—” </p>
+<p> “No, this is my friend Dr. Watson.” </p>
+<p> “Glad to meet you, sir. I have heard your name mentioned in connection with that of your friend. You interest me very much, Mr. Holmes. I had hardly expected so dolichocephalic a skull or such well-marked supra-orbital development. Would you have any objection to my running my finger along your parietal fissure? A cast of your skull, sir, until the original is available, would be an ornament to any anthropological museum. It is not my intention to be fulsome, but I confess that I covet your skull.” </p>
+<p> Sherlock Holmes waved our strange visitor into a chair. “You are an enthusiast in your line of thought, I perceive, sir, as I am in mine,” said he. “I observe from your forefinger that you make your own cigarettes. Have no hesitation in lighting one.” </p>
+<p> The man drew out paper and tobacco and twirled the one up in the other with surprising dexterity. He had long, quivering fingers as agile and restless as the antennæ of an insect. </p>
+<p> Holmes was silent, but his little darting glances showed me the interest which he took in our curious companion. “I presume, sir,” said he at last, “that it was not merely for the purpose of examining my skull that you have done me the honour to call here last night and again today?” </p>
+<p> “No, sir, no; though I am happy to have had the opportunity of doing that as well. I came to you, Mr. Holmes, because I recognized that I am myself an unpractical man and because I am suddenly confronted with a most serious and extraordinary problem. Recognizing, as I do, that you are the second highest expert in Europe—” </p>
+<p> “Indeed, sir! May I inquire who has the honour to be the first?” asked Holmes with some asperity. </p>
+<p> “To the man of precisely scientific mind the work of Monsieur Bertillon must always appeal strongly.” </p>
+<p> “Then had you not better consult him?” </p>
+<p> “I said, sir, to the precisely scientific mind. But as a practical man of affairs it is acknowledged that you stand alone. I trust, sir, that I have not inadvertently—” </p>
+<p> “Just a little,” said Holmes. “I think, Dr. Mortimer, you would do wisely if without more ado you would kindly tell me plainly what the exact nature of the problem is in which you demand my assistance.” </p>
+            
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <p>Listen to the full audiobook on Character Echo</p>
+      <div class="store-buttons">
+        <a href="https://apps.apple.com/us/app/character-echo/id6756740052" class="store-button">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/abb8c6f4-7146-4798-be3b-0e2e84e0c9bb/app_store.png" alt="Download on the App Store">
+        </a>
+        <a href="https://play.google.com/store/apps/details?id=com.characterecho.mobile_app" class="store-button">
+          <img src="https://images.squarespace-cdn.com/content/v1/693e911fb26d4b4b3a52c2ce/d7da6dd1-9329-42c4-b483-4e193b06c821/GetItOnGooglePlay_Badge_Web_color_English.png" alt="Get it on Google Play">
+        </a>
+      </div>
+    </footer>
+  </div>
+
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
+  
+
+  <script>
+    // Mobile nav toggle
+    document.getElementById('navToggle').addEventListener('click', function() {
+      document.getElementById('navLinks').classList.toggle('open');
+    });
+  </script>
+</body>
+</html>

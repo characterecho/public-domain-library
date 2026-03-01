@@ -1,11 +1,12 @@
 {
   "manifest_version": 2,
+  "sample": false,
   "title": "A Christmas Carol",
   "author_names": "Charles Dickens",
   "description": "EPUB imported from https://gutenberg.org/ebooks/46.epub3.images",
   "epub_source": "https://gutenberg.org/ebooks/46.epub3.images",
   "identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
-  "publication_type": "novel",
+  "publication_type": "novella",
   "cover_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/cover.png",
   "total_duration_s": 9248.331678,
   "genre_tags": [
@@ -184,6 +185,8 @@
     {
       "identifier": "NARRATOR",
       "name": "Narrator",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "The Storyteller"
       ],
@@ -214,6 +217,8 @@
     {
       "identifier": "SCROOGE",
       "name": "Ebenezer Scrooge",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "Old Scrooge",
         "Uncle",
@@ -304,6 +309,8 @@
     {
       "identifier": "MARLEY_GHOST",
       "name": "Jacob Marley's Ghost",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "Marley",
         "The Ghost",
@@ -343,6 +350,8 @@
     {
       "identifier": "GHOST_CHRISTMAS_PRESENT",
       "name": "Ghost of Christmas Present",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "The Spirit",
         "The Ghost",
@@ -395,6 +404,8 @@
     {
       "identifier": "NEPHEW",
       "name": "Scrooge's Nephew",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Fred",
         "Scrooge's nephew",
@@ -450,6 +461,8 @@
     {
       "identifier": "GHOST_CHRISTMAS_PAST",
       "name": "Ghost of Christmas Past",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "The Spirit",
         "The Ghost"
@@ -489,6 +502,8 @@
     {
       "identifier": "CLERK",
       "name": "Bob Cratchit",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "The Clerk",
         "Bob",
@@ -547,6 +562,8 @@
     {
       "identifier": "MRS_CRATCHIT",
       "name": "Mrs. Cratchit",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "Cratchit's wife",
         "mother",
@@ -593,6 +610,8 @@
     {
       "identifier": "CHARWOMAN",
       "name": "Charwoman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "woman who entered first",
         "first woman",
@@ -626,8 +645,42 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CHARWOMAN.mp3"
     },
     {
+      "identifier": "BELLE_YOUNG",
+      "name": "Belle",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Fair young girl"
+      ],
+      "voice_attributes": [
+        "soft",
+        "gentle",
+        "mild",
+        "steady"
+      ],
+      "visual_attributes": [
+        "fair",
+        "in mourning-dress",
+        "tears in eyes"
+      ],
+      "roles": [
+        "former fiancée",
+        "lost love"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.mp3"
+    },
+    {
       "identifier": "GENTLEMAN_1",
       "name": "Charity Gentleman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "Portly Gentleman",
         "First Gentleman",
@@ -658,38 +711,10 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_1.mp3"
     },
     {
-      "identifier": "BELLE_YOUNG",
-      "name": "Belle",
-      "aliases": [
-        "Fair young girl"
-      ],
-      "voice_attributes": [
-        "soft",
-        "gentle",
-        "mild",
-        "steady"
-      ],
-      "visual_attributes": [
-        "fair",
-        "in mourning-dress",
-        "tears in eyes"
-      ],
-      "roles": [
-        "former fiancée",
-        "lost love"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 11,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_YOUNG.mp3"
-    },
-    {
       "identifier": "OLD_JOE",
       "name": "Old Joe",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "Joe",
         "grey-haired rascal",
@@ -721,8 +746,39 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/OLD_JOE.mp3"
     },
     {
+      "identifier": "CAROLER",
+      "name": "Carol Singer",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [
+        "The Singer",
+        "Boy with Carol"
+      ],
+      "voice_attributes": [
+        "young",
+        "singing"
+      ],
+      "visual_attributes": [
+        "scant young nose",
+        "cold"
+      ],
+      "roles": [
+        "caroler"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.mp3"
+    },
+    {
       "identifier": "YOUNG_SCROOGE_APPRENTICE",
       "name": "Young Scrooge",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Ebenezer",
         "Young man Scrooge"
@@ -751,35 +807,10 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_APPRENTICE.mp3"
     },
     {
-      "identifier": "CAROLER",
-      "name": "Carol Singer",
-      "aliases": [
-        "The Singer",
-        "Boy with Carol"
-      ],
-      "voice_attributes": [
-        "young",
-        "singing"
-      ],
-      "visual_attributes": [
-        "scant young nose",
-        "cold"
-      ],
-      "roles": [
-        "caroler"
-      ],
-      "metadata": {
-        "age_group": "child",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 8,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLER.mp3"
-    },
-    {
       "identifier": "NIECE",
       "name": "Scrooge's Niece",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Fred's wife",
         "Scrooge's niece by marriage",
@@ -823,6 +854,8 @@
     {
       "identifier": "FAT_BUSINESSMAN",
       "name": "Fat Businessman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "great fat man",
         "man with monstrous chin",
@@ -855,8 +888,47 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FAT_BUSINESSMAN.mp3"
     },
     {
+      "identifier": "CAROLINE_HUSBAND",
+      "name": "Caroline's Husband",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "the husband",
+        "young father"
+      ],
+      "voice_attributes": [
+        "careworn",
+        "depressed",
+        "ashamed",
+        "embarrassed"
+      ],
+      "visual_attributes": [
+        "careworn face",
+        "depressed",
+        "young",
+        "remarkable expression",
+        "serious delight",
+        "struggled to repress emotion"
+      ],
+      "roles": [
+        "debtor",
+        "husband",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.mp3"
+    },
+    {
       "identifier": "PETER_CRATCHIT",
       "name": "Master Peter Cratchit",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Peter",
         "Master Peter"
@@ -893,99 +965,10 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PETER_CRATCHIT.mp3"
     },
     {
-      "identifier": "CAROLINE_HUSBAND",
-      "name": "Caroline's Husband",
-      "aliases": [
-        "the husband",
-        "young father"
-      ],
-      "voice_attributes": [
-        "careworn",
-        "depressed",
-        "ashamed",
-        "embarrassed"
-      ],
-      "visual_attributes": [
-        "careworn face",
-        "depressed",
-        "young",
-        "remarkable expression",
-        "serious delight",
-        "struggled to repress emotion"
-      ],
-      "roles": [
-        "debtor",
-        "husband",
-        "father"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 5,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE_HUSBAND.mp3"
-    },
-    {
-      "identifier": "MRS_DILBER",
-      "name": "Mrs. Dilber",
-      "aliases": [
-        "the laundress",
-        "laundress"
-      ],
-      "voice_attributes": [
-        "nervous",
-        "agreeable",
-        "laughing"
-      ],
-      "visual_attributes": [
-        "similarly laden with bundle"
-      ],
-      "roles": [
-        "laundress",
-        "thief",
-        "servant"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.mp3"
-    },
-    {
-      "identifier": "MARTHA_CRATCHIT",
-      "name": "Martha",
-      "aliases": [
-        "Martha Cratchit"
-      ],
-      "voice_attributes": [
-        "[]"
-      ],
-      "visual_attributes": [
-        "wearing shawl and bonnet",
-        "poor apprentice at milliner's"
-      ],
-      "roles": [
-        "daughter",
-        "milliner's apprentice",
-        "worker"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "female",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 4,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.mp3"
-    },
-    {
       "identifier": "CAROLINE",
       "name": "Caroline",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "the mother",
         "young mother"
@@ -1017,113 +1000,70 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/CAROLINE.mp3"
     },
     {
-      "identifier": "WEALTHY_BUSINESSMAN_2",
-      "name": "Second Wealthy Businessman",
+      "identifier": "MARTHA_CRATCHIT",
+      "name": "Martha",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
-        "second of two wealthy men"
-      ],
-      "voice_attributes": [
-        "terse",
-        "dismissive"
-      ],
-      "visual_attributes": [
-        "very wealthy",
-        "of great importance"
-      ],
-      "roles": [
-        "businessman",
-        "man of importance"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.mp3"
-    },
-    {
-      "identifier": "GENTLEMAN_2",
-      "name": "Second Charity Gentleman",
-      "aliases": [
-        "Second Gentleman"
-      ],
-      "voice_attributes": [
-        "measured",
-        "patient"
-      ],
-      "visual_attributes": [
-        "portly",
-        "pleasant to behold"
-      ],
-      "roles": [
-        "charity collector"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.mp3"
-    },
-    {
-      "identifier": "WEALTHY_BUSINESSMAN_1",
-      "name": "First Wealthy Businessman",
-      "aliases": [
-        "one of two wealthy men"
-      ],
-      "voice_attributes": [
-        "casual",
-        "cryptic"
-      ],
-      "visual_attributes": [
-        "very wealthy",
-        "of great importance"
-      ],
-      "roles": [
-        "businessman",
-        "man of importance"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 3,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.mp3"
-    },
-    {
-      "identifier": "BELLE_HUSBAND",
-      "name": "Belle's Husband",
-      "aliases": [
-        "The master of the house"
+        "Martha Cratchit"
       ],
       "voice_attributes": [
         "[]"
       ],
       "visual_attributes": [
-        "laden with Christmas toys"
+        "wearing shawl and bonnet",
+        "poor apprentice at milliner's"
       ],
       "roles": [
-        "husband",
-        "father"
+        "daughter",
+        "milliner's apprentice",
+        "worker"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MARTHA_CRATCHIT.mp3"
+    },
+    {
+      "identifier": "MRS_DILBER",
+      "name": "Mrs. Dilber",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "the laundress",
+        "laundress"
+      ],
+      "voice_attributes": [
+        "nervous",
+        "agreeable",
+        "laughing"
+      ],
+      "visual_attributes": [
+        "similarly laden with bundle"
+      ],
+      "roles": [
+        "laundress",
+        "thief",
+        "servant"
       ],
       "metadata": {
         "age_group": "middle_aged",
-        "gender": "male",
+        "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 3,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.mp3"
+      "dialogue_count": 4,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/MRS_DILBER.mp3"
     },
     {
       "identifier": "FEZZIWIG",
       "name": "Old Fezziwig",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "Mr. Fezziwig"
       ],
@@ -1154,38 +1094,123 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/FEZZIWIG.mp3"
     },
     {
-      "identifier": "PLUMP_SISTER",
-      "name": "Plump Sister",
+      "identifier": "WEALTHY_BUSINESSMAN_1",
+      "name": "First Wealthy Businessman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
-        "the plump one with the lace tucker",
-        "Scrooge's niece's sister"
+        "one of two wealthy men"
       ],
       "voice_attributes": [
-        "crying out",
-        "blushing"
+        "casual",
+        "cryptic"
       ],
       "visual_attributes": [
-        "plump",
-        "lace tucker",
-        "silken rustlings",
-        "rapid flutterings"
+        "very wealthy",
+        "of great importance"
       ],
       "roles": [
-        "guest",
-        "game player"
+        "businessman",
+        "man of importance"
       ],
       "metadata": {
-        "age_group": "young",
-        "gender": "female",
+        "age_group": "middle_aged",
+        "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 2,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.mp3"
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_1.mp3"
+    },
+    {
+      "identifier": "GENTLEMAN_2",
+      "name": "Second Charity Gentleman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Second Gentleman"
+      ],
+      "voice_attributes": [
+        "measured",
+        "patient"
+      ],
+      "visual_attributes": [
+        "portly",
+        "pleasant to behold"
+      ],
+      "roles": [
+        "charity collector"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/GENTLEMAN_2.mp3"
+    },
+    {
+      "identifier": "WEALTHY_BUSINESSMAN_2",
+      "name": "Second Wealthy Businessman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "second of two wealthy men"
+      ],
+      "voice_attributes": [
+        "terse",
+        "dismissive"
+      ],
+      "visual_attributes": [
+        "very wealthy",
+        "of great importance"
+      ],
+      "roles": [
+        "businessman",
+        "man of importance"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/WEALTHY_BUSINESSMAN_2.mp3"
+    },
+    {
+      "identifier": "BELLE_HUSBAND",
+      "name": "Belle's Husband",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The master of the house"
+      ],
+      "voice_attributes": [
+        "[]"
+      ],
+      "visual_attributes": [
+        "laden with Christmas toys"
+      ],
+      "roles": [
+        "husband",
+        "father"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BELLE_HUSBAND.mp3"
     },
     {
       "identifier": "RED_FACED_GENTLEMAN",
       "name": "Red-Faced Gentleman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "gentleman with pendulous excrescence",
         "gentleman with excrescence on nose"
@@ -1214,8 +1239,71 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/RED_FACED_GENTLEMAN.mp3"
     },
     {
+      "identifier": "PLUMP_SISTER",
+      "name": "Plump Sister",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "the plump one with the lace tucker",
+        "Scrooge's niece's sister"
+      ],
+      "voice_attributes": [
+        "crying out",
+        "blushing"
+      ],
+      "visual_attributes": [
+        "plump",
+        "lace tucker",
+        "silken rustlings",
+        "rapid flutterings"
+      ],
+      "roles": [
+        "guest",
+        "game player"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/PLUMP_SISTER.mp3"
+    },
+    {
+      "identifier": "SERVANT_GIRL",
+      "name": "Fred's Servant",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "the girl",
+        "my dear",
+        "my love"
+      ],
+      "voice_attributes": [
+        "polite",
+        "pleasant"
+      ],
+      "visual_attributes": [
+        "nice girl"
+      ],
+      "roles": [
+        "household servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.mp3"
+    },
+    {
       "identifier": "FAN",
       "name": "Fan",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [
         "Little Fan",
         "Dear brother's sister"
@@ -1249,6 +1337,8 @@
     {
       "identifier": "YOUNG_SCROOGE_CHILD",
       "name": "Young Scrooge",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [
         "The lonely boy",
         "Poor boy",
@@ -1276,35 +1366,33 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/YOUNG_SCROOGE_CHILD.mp3"
     },
     {
-      "identifier": "SERVANT_GIRL",
-      "name": "Fred's Servant",
-      "aliases": [
-        "the girl",
-        "my dear",
-        "my love"
-      ],
+      "identifier": "SCHOOLMASTER",
+      "name": "The Schoolmaster",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
       "voice_attributes": [
-        "polite",
-        "pleasant"
+        "terrible",
+        "ferocious"
       ],
-      "visual_attributes": [
-        "nice girl"
-      ],
+      "visual_attributes": [],
       "roles": [
-        "household servant"
+        "school authority"
       ],
       "metadata": {
-        "age_group": "young",
-        "gender": "female",
+        "age_group": "middle_aged",
+        "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 2,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SERVANT_GIRL.mp3"
+      "dialogue_count": 1,
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
+      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.mp3"
     },
     {
       "identifier": "BUSINESSMAN_3",
       "name": "Third Businessman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "snuff-taking gentleman"
       ],
@@ -1332,6 +1420,8 @@
     {
       "identifier": "BUSINESSMAN_2",
       "name": "Second Businessman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "another businessman"
       ],
@@ -1356,29 +1446,10 @@
       "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/BUSINESSMAN_2.mp3"
     },
     {
-      "identifier": "SCHOOLMASTER",
-      "name": "The Schoolmaster",
-      "aliases": [],
-      "voice_attributes": [
-        "terrible",
-        "ferocious"
-      ],
-      "visual_attributes": [],
-      "roles": [
-        "school authority"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.png",
-      "voice_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/characters/SCHOOLMASTER.mp3"
-    },
-    {
       "identifier": "TINY_TIM",
       "name": "Tiny Tim",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [
         "Tim",
         "little Tim",
@@ -1422,148 +1493,174 @@
   ],
   "scenes": [
     {
-      "identifier": "SEGMENT_1",
+      "identifier": "SCENE_COVER_00",
+      "ordinal": -1,
+      "location_header": "COVER",
+      "visual_description": "A ghostly Victorian London street on Christmas Eve, with swirling spectral mist revealing three ethereal figures — the Ghosts of Christmas Past, Present, and Yet to Come — looming over the silhouette of a hunched, miserly old man clutching his walking stick. Warm golden candlelight spills from frosted windows contrasting the cold blue moonlight. Holly and chains intertwine in the foreground.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "COUNTRY_ROAD_WINTER",
       "ordinal": 0,
-      "location_header": null,
-      "visual_description": "Introduction",
-      "metadata": {
-        "migrated_from_segment_id": 1
-      },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_1.png"
+      "location_header": "EXT. OPEN COUNTRY ROAD - WINTER DAY",
+      "visual_description": "A crisp, clear, and cold winter day in the English countryside. A winding, snow-covered dirt road leads toward a distant market town with a quaint stone bridge and a church spire. Bare trees line the open fields, and the bright, frosty air is filled with the feeling of a crisp, nostalgic winter morning.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_COUNTRY_ROAD_WINTER.jpg"
     },
     {
-      "identifier": "SEGMENT_2",
+      "identifier": "SCROOGES_CHAMBERS_TRANSFORMED",
+      "ordinal": 0,
+      "location_header": "INT. SCROOGE'S CHAMBERS - NIGHT",
+      "visual_description": "A gloomy Victorian room magically transformed into a lush, vibrant grove. The walls and ceiling are heavily draped with crisp, living green ivy, holly, and mistletoe, their berries gleaming like little mirrors. A colossal, roaring fire blazes in the hearth. The floor is piled high with a massive, throne-like feast of roasted meats, plum puddings, fruit, and steaming punch.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SCROOGES_CHAMBERS_TRANSFORMED.jpg"
+    },
+    {
+      "identifier": "THE_EXCHANGE",
+      "ordinal": 0,
+      "location_header": "INT. THE EXCHANGE - DAY",
+      "visual_description": "A bustling, grand Victorian commercial exchange in the heart of London. The architecture is imposing and monumental, featuring tall stone pillars, high arched windows, and a vast vaulted ceiling. The atmosphere is busy, cold, and strictly business-oriented. The grand space feels overwhelmed by the heavy weight of commerce, echoing with the metallic chink of coins and the ticking of gold pocket watches.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_THE_EXCHANGE.jpg"
+    },
+    {
+      "identifier": "TITLE_SEQUENCE",
+      "ordinal": 0,
+      "location_header": "INT. ABSTRACT SPACE - NIGHT",
+      "visual_description": "A dark, atmospheric void with faint, swirling mist and subtle, ghostly Victorian motifs. Faint gaslight illuminates the edges of the frame, casting long, wavering shadows across a worn, leather-bound book resting on an antique wooden desk. The mood is eerie yet classic, setting the perfect tone for a timeless ghost story. Dust motes dance slowly in the dim, warm light.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_TITLE_SEQUENCE.jpg"
+    },
+    {
+      "identifier": "SCROOGES_COUNTING_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. SCROOGE'S COUNTING HOUSE - LATE AFTERNOON",
+      "visual_description": "A dismal, freezing, and cramped Victorian counting-house. A tiny coal fire smolders weakly in the grate. High desks, tall wooden stools, and thick ledger books sit in the gloom. The windows are coated in grime, barely letting in the thick, brownish fog from the bleak London streets outside. The atmosphere is oppressive, dark, and penny-pinching.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SCROOGES_COUNTING_HOUSE.jpg"
+    },
+    {
+      "identifier": "OLD_SCHOOLHOUSE",
       "ordinal": 1,
-      "location_header": null,
-      "visual_description": "A cold, foggy Christmas Eve in Victorian London. Ebenezer Scrooge sits in his counting-house, a miserly old man surrounded by shadows and chill. Later, he returns to his gloomy chambers where the supernatural begins to intrude upon his solitary evening.",
-      "metadata": {
-        "scene_summary": {
-          "description": "A cold, foggy Christmas Eve in Victorian London. Ebenezer Scrooge sits in his counting-house, a miserly old man surrounded by shadows and chill. Later, he returns to his gloomy chambers where the supernatural begins to intrude upon his solitary evening.",
-          "important_details": [
-            "Christmas Eve",
-            "Victorian London",
-            "Dense fog and bitter cold",
-            "Dimly lit counting-house",
-            "Scrooge's isolated chambers",
-            "Seven years since Marley's death"
-          ],
-          "notable_characters": [
-            "SCROOGE",
-            "NARRATOR",
-            "NEPHEW",
-            "CLERK",
-            "GENTLEMAN_1",
-            "GENTLEMAN_2",
-            "CAROLER",
-            "MARLEY_GHOST"
-          ]
-        },
-        "migrated_from_segment_id": 2
-      },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_2.png"
+      "location_header": "INT. DREARY SCHOOLHOUSE - DAY",
+      "visual_description": "A long, bare, and melancholy schoolroom within a dilapidated brick mansion. The walls are damp and mossy, and the windows are cracked. Lines of plain, unpainted wooden desks and forms fill the chilly space. A feeble, dying fire struggles in the grate, emphasizing the cold, lonely, and neglected atmosphere of the vast, empty house.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_OLD_SCHOOLHOUSE.jpg"
     },
     {
-      "identifier": "SEGMENT_3",
+      "identifier": "SCROOGES_CHAMBERS",
+      "ordinal": 1,
+      "location_header": "INT. SCROOGE'S CHAMBERS - NIGHT",
+      "visual_description": "A gloomy, cavernous suite of Victorian rooms in a dark, lowering building. Deep shadows cling to the corners. A low, dying fire struggles in an antique grate surrounded by old Dutch scriptural tiles. Heavy wooden doors, a disused bell pull, and a small saucepan on the hob. The atmosphere is chilling, vast, and deeply haunted.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SCROOGES_CHAMBERS.jpg"
+    },
+    {
+      "identifier": "LONDON_STREETS_CHRISTMAS_MORNING",
+      "ordinal": 1,
+      "location_header": "EXT. LONDON STREETS - MORNING",
+      "visual_description": "Snow-covered Victorian London streets on a crisp, gloomy winter morning. The house fronts are dark against the white roofs, with deep furrows plowed through the yellow mud and snow on the ground. Radiant, bustling shop windows overflow with colorful produce, bright candied fruits, and plump meats, contrasting with the dingy, soot-filled mist in the air.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_LONDON_STREETS_CHRISTMAS_MORNING.jpg"
+    },
+    {
+      "identifier": "OLD_JOES_SHOP",
+      "ordinal": 1,
+      "location_header": "INT. OLD JOE'S SHOP - NIGHT",
+      "visual_description": "A low-browed, beetling junk shop situated in a foul, narrow alley of a wretched Victorian slum. The dark, grimy interior is piled high with chaotic heaps of rusty keys, heavy chains, old rags, bones, and greasy offal. A faint charcoal stove made of old, crumbling bricks provides the only meager, smoky light, casting long, eerie shadows over the mountains of refuse and corrupted decay.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_OLD_JOES_SHOP.jpg"
+    },
+    {
+      "identifier": "FEZZIWIGS_WAREHOUSE",
       "ordinal": 2,
-      "location_header": null,
-      "visual_description": "Scrooge awakens in his dark bedroom, confused by the chiming clocks. After wrestling with time and memory, he encounters the Ghost of Christmas Past—a luminous, shape-shifting spirit. They journey through Scrooge's memories: his lonely schooldays, his sister Fan's joyful rescue, Fezziwig's generous Christmas party, and his lost love Belle. The scenes grow increasingly painful until Scrooge desperately fights to extinguish the Ghost's light.",
-      "metadata": {
-        "scene_summary": {
-          "description": "Scrooge awakens in his dark bedroom, confused by the chiming clocks. After wrestling with time and memory, he encounters the Ghost of Christmas Past—a luminous, shape-shifting spirit. They journey through Scrooge's memories: his lonely schooldays, his sister Fan's joyful rescue, Fezziwig's generous Christmas party, and his lost love Belle. The scenes grow increasingly painful until Scrooge desperately fights to extinguish the Ghost's light.",
-          "important_details": [
-            "Setting shifts from Scrooge's dark bedroom to various locations from his past",
-            "Time is disoriented—clocks strike twelve when it should be early morning",
-            "Ghost emanates bright light from its head, wears white tunic with summer flowers",
-            "Locations include: countryside road, old school, Fezziwig's warehouse, Belle's parlour",
-            "Mood progresses from confusion to nostalgia to deep regret and anguish"
-          ],
-          "notable_characters": [
-            "SCROOGE",
-            "GHOST_CHRISTMAS_PAST",
-            "YOUNG_SCROOGE_CHILD",
-            "FAN",
-            "SCHOOLMASTER",
-            "FEZZIWIG",
-            "YOUNG_SCROOGE_APPRENTICE",
-            "DICK_WILKINS",
-            "BELLE_YOUNG",
-            "BELLE_HUSBAND"
-          ]
-        },
-        "migrated_from_segment_id": 3
-      },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_3.png"
+      "location_header": "INT. FEZZIWIG'S WAREHOUSE - EVENING",
+      "visual_description": "A snug, warm, and brightly lit warehouse transformed into a festive holiday ballroom. The floor is swept clean, lamps are trimmed and glowing cheerfully, and a massive fire roars in the hearth. The space is cozy, welcoming, and filled with a vibrant, joyful atmosphere, contrasting sharply with the cold winter night outside.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_FEZZIWIGS_WAREHOUSE.jpg"
     },
     {
-      "identifier": "SEGMENT_4",
+      "identifier": "DEAD_MANS_CHAMBER",
+      "ordinal": 2,
+      "location_header": "INT. DEAD MAN'S CHAMBER - NIGHT",
+      "visual_description": "A pitch-black, chilling, and plundered Victorian bedroom. A bare, uncurtained bed sits isolated in the center, completely stripped of its bedclothes. A pale, ghostly beam of light from the outer winter air falls straight upon the mattress. The room is utterly desolate, unwatched, and uncared for, filled with an overwhelming, silent sense of rigid, dreadful death and profound emptiness.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_DEAD_MANS_CHAMBER.jpg"
+    },
+    {
+      "identifier": "CRATCHIT_HOME_CHRISTMAS",
+      "ordinal": 2,
+      "location_header": "INT. CRATCHIT HOME - AFTERNOON",
+      "visual_description": "A humble, sparse, but warmly lit four-room Victorian house. The walls are bare, and the furniture is modest and worn. A small but cheerful fire burns in the grate, with a saucepan simmering on the hob. The dining table is neatly set with mismatched, chipped plates and a family display of two plain tumblers and a handleless custard cup.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_CRATCHIT_HOME_CHRISTMAS.jpg"
+    },
+    {
+      "identifier": "BELLES_PARLOUR",
       "ordinal": 3,
-      "location_header": null,
-      "visual_description": "Scrooge awakens in his bed at one o'clock, anxiously awaiting the second spirit. His room transforms into a festive grove adorned with holly, mistletoe, and abundant Christmas fare, illuminated by a blazing fire and ruddy light.",
-      "metadata": {
-        "scene_summary": {
-          "description": "Scrooge awakens in his bed at one o'clock, anxiously awaiting the second spirit. His room transforms into a festive grove adorned with holly, mistletoe, and abundant Christmas fare, illuminated by a blazing fire and ruddy light.",
-          "important_details": [
-            "Time: One o'clock in the morning",
-            "Location: Scrooge's bedroom, transformed into a festive chamber",
-            "Atmosphere: Anticipatory tension giving way to abundance and warmth",
-            "Lighting: Blazing fire and ghostly ruddy light"
-          ],
-          "notable_characters": [
-            "SCROOGE",
-            "GHOST_CHRISTMAS_PRESENT"
-          ]
-        },
-        "migrated_from_segment_id": 4
-      },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_4.png"
+      "location_header": "INT. MODEST PARLOUR - DAY",
+      "visual_description": "A simple, somewhat dim parlor room showing signs of frugal living. The space is modestly furnished with unassuming decor. The lighting is soft and melancholic, casting gentle shadows that reflect a somber, serious atmosphere. The room feels quiet, tense, and overshadowed by the heavy weight of unspoken regrets and fading warmth.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_BELLES_PARLOUR.jpg"
     },
     {
-      "identifier": "SEGMENT_5",
+      "identifier": "DEBTORS_HOME",
+      "ordinal": 3,
+      "location_header": "INT. DEBTOR'S HOME - DAY",
+      "visual_description": "A modest, slightly worn but meticulously tidy Victorian living room lit by the soft, gray daylight of a winter afternoon. A simple dinner is kept warm by a small, steady fire in the grate. The space feels tense but hopeful, showing clear signs of financial struggle mixed with deeply rooted domestic care, quiet resilience, and a sudden, unexpected lightness.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_DEBTORS_HOME.jpg"
+    },
+    {
+      "identifier": "LONDON_STREETS_CHRISTMAS_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. LONDON STREETS - NIGHT",
+      "visual_description": "Snowy London streets at dusk. The dusky blue air is dotted with specks of light from gas lamps. Warm, bright orange glows spill out from the windows of houses, revealing silhouettes of deep red curtains and cozy parlors inside. The dark, cold winter night contrasts heavily with the inviting, roaring fires visible through the frosted windowpanes.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_LONDON_STREETS_CHRISTMAS_NIGHT.jpg"
+    },
+    {
+      "identifier": "DESOLATE_PLACES_MONTAGE",
       "ordinal": 4,
-      "location_header": null,
-      "visual_description": "A shrouded phantom draped in deep black approaches Scrooge in darkness, extending only one outstretched hand. The spirit is tall, stately, and utterly silent, filling the air with gloom and mystery as Scrooge kneels in solemn dread.",
-      "metadata": {
-        "scene_summary": {
-          "description": "A shrouded phantom draped in deep black approaches Scrooge in darkness, extending only one outstretched hand. The spirit is tall, stately, and utterly silent, filling the air with gloom and mystery as Scrooge kneels in solemn dread.",
-          "important_details": [
-            "nighttime or complete darkness",
-            "phantom barely visible against darkness",
-            "solemn and terrifying atmosphere",
-            "Spirit of Christmas Yet To Come"
-          ],
-          "notable_characters": [
-            "SCROOGE",
-            "GHOST_CHRISTMAS_YET_TO_COME"
-          ]
-        },
-        "migrated_from_segment_id": 5
-      },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_5.png"
+      "location_header": "EXT. VARIOUS DESOLATE LOCATIONS - NIGHT",
+      "visual_description": "A vast, bleak, and frozen moor with monstrous masses of rude stone and coarse rank grass, illuminated only by a streak of fiery red sunset. In the distance, a solitary stone lighthouse stands on a dismal reef of sunken rocks, battered by a black, heaving sea. A faint ray of warm firelight shines through a thick loophole.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_DESOLATE_PLACES_MONTAGE.jpg"
     },
     {
-      "identifier": "SEGMENT_6",
+      "identifier": "NEGLECTED_CHURCHYARD",
+      "ordinal": 4,
+      "location_header": "EXT. NEGLECTED CHURCHYARD - DAY",
+      "visual_description": "A wretched, overgrown Victorian churchyard, completely walled in by dark, decaying brick houses. The uneven ground is choked with rank, lifeless grass, thick weeds, and neglected, sinking graves. The atmosphere is profoundly gloomy, cold, and heavy with the solemn dread of death, overshadowed by a rusty iron gate and crumbling, unreadable stone headstones slowly being swallowed by the earth.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_NEGLECTED_CHURCHYARD.jpg"
+    },
+    {
+      "identifier": "BELLES_FAMILY_HOME",
+      "ordinal": 4,
+      "location_header": "INT. COMFORTABLE FAMILY ROOM - EVENING",
+      "visual_description": "A warm, bustling, and immensely comfortable family room lit by a roaring winter fire. The space is filled with cozy furniture, scattered toys, and remnants of brown-paper parcels. The atmosphere is joyous, chaotic, and overflowing with love and domestic happiness, creating a bright and welcoming haven against the dark winter night.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_BELLES_FAMILY_HOME.jpg"
+    },
+    {
+      "identifier": "FREDS_PARLOUR",
       "ordinal": 5,
-      "location_header": null,
-      "visual_description": "Scrooge's bedroom on Christmas morning, flooded with golden sunlight. The transformed miser awakens with euphoric joy, frantically dressing and rushing about his chambers in a state of giddy disbelief. Church bells ring outside as he discovers he hasn't missed Christmas Day.",
-      "metadata": {
-        "scene_summary": {
-          "description": "Scrooge's bedroom on Christmas morning, flooded with golden sunlight. The transformed miser awakens with euphoric joy, frantically dressing and rushing about his chambers in a state of giddy disbelief. Church bells ring outside as he discovers he hasn't missed Christmas Day.",
-          "important_details": [
-            "Christmas Day morning",
-            "Clear, bright, cold weather",
-            "Golden sunlight streaming in",
-            "Church bells ringing",
-            "Scrooge's bedroom and sitting-room",
-            "Victorian London street visible from window"
-          ],
-          "notable_characters": [
-            "SCROOGE",
-            "BOY"
-          ]
-        },
-        "migrated_from_segment_id": 6
-      },
-      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_SEGMENT_6.png"
+      "location_header": "INT. FRED'S PARLOUR - NIGHT",
+      "visual_description": "A bright, dry, and gleaming Victorian parlor filled with warmth and merriment. A large, cheerful fire crackles in the hearth, illuminating comfortable armchairs, a piano, and a harp. The room is elegantly but cozily furnished, with deep curtains, a dessert table laid with fruits and wine, and a festive atmosphere that completely banishes the winter chill outside.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_FREDS_PARLOUR.jpg"
+    },
+    {
+      "identifier": "CITY_STREETS_MIDNIGHT",
+      "ordinal": 6,
+      "location_header": "EXT. OPEN CITY PLACE - MIDNIGHT",
+      "visual_description": "A dark, desolate, and open urban space in Victorian London. The towering silhouettes of the city loom in the background under a pitch-black, freezing night sky. The atmosphere is stark, eerie, and deeply shadowed, with a profound emptiness. A creeping, mist-like fog begins to roll along the cold, hard ground as the heavy toll of a distant clock tower echoes.",
+      "metadata": {},
+      "image_key": "publications/f97b5762b68ed1c887369eac528ae69b1bf27ccf/scenes/scene_CITY_STREETS_MIDNIGHT.jpg"
     }
   ],
   "subjects": [
