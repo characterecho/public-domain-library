@@ -1,0 +1,1374 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "The Hound of the Baskervilles",
+  "author_names": "Arthur Conan Doyle",
+  "description": "Publication imported from https://gutenberg.org/ebooks/2852.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/2852.epub3.images",
+  "identifier": "7b84a051046b146eb90617138320b5f88f933866",
+  "publication_type": "novel",
+  "cover_key": "publications/7b84a051046b146eb90617138320b5f88f933866/cover.png",
+  "total_duration_s": 18032.681972,
+  "genre_tags": [
+    "Mystery & Thriller",
+    "Detective Fiction",
+    "Victorian Era",
+    "Classics",
+    "Crime"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 2864.750181
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_1.mp3",
+      "start_s": 2864.750181,
+      "end_s": 6189.85814
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_2.mp3",
+      "start_s": 6189.85814,
+      "end_s": 8547.509319
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_3.mp3",
+      "start_s": 8547.509319,
+      "end_s": 11614.826575000001
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_4.mp3",
+      "start_s": 11614.826575000001,
+      "end_s": 14491.615351
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_5.mp3",
+      "start_s": 14491.615351,
+      "end_s": 18032.681972
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction.",
+      "start_s": 0.0,
+      "end_s": 7.503,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "Chapter I. Mr. Sherlock Holmes.",
+      "start_s": 7.503,
+      "end_s": 722.88,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_MORNING",
+            "location_header": "INT. BAKER STREET SITTING ROOM - MORNING",
+            "visual_description": "A cluttered Victorian sitting room bathed in morning light. A breakfast table stands with a silver coffee pot and china. A hearth-rug lies before the fireplace. Books, scientific diagrams, and chemical equipment crowd the shelves and corners. Warm, domestic yet intellectual atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "Chapter II. The Curse of the Baskervilles.",
+      "start_s": 722.88,
+      "end_s": 1960.183,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_MORNING",
+            "location_header": "INT. BAKER STREET SITTING ROOM - MORNING",
+            "visual_description": "A cluttered Victorian sitting room bathed in morning light. A breakfast table stands with a silver coffee pot and china. A hearth-rug lies before the fireplace. Books, scientific diagrams, and chemical equipment crowd the shelves and corners. Warm, domestic yet intellectual atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "Chapter III. The Problem.",
+      "start_s": 1960.183,
+      "end_s": 2864.75,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_MORNING",
+            "location_header": "INT. BAKER STREET SITTING ROOM - MORNING",
+            "visual_description": "A cluttered Victorian sitting room bathed in morning light. A breakfast table stands with a silver coffee pot and china. A hearth-rug lies before the fireplace. Books, scientific diagrams, and chemical equipment crowd the shelves and corners. Warm, domestic yet intellectual atmosphere."
+          },
+          {
+            "identifier": "BAKER_STREET_EVENING",
+            "location_header": "INT. BAKER STREET SITTING ROOM - NIGHT",
+            "visual_description": "Victorian sitting room at night. Thick haze of tobacco smoke fills the air, blurring the light of a table lamp. A fire glows in the grate. An armchair contains a figure in a dressing gown. Scattered maps and papers lie about. Atmosphere is dense, contemplative, and enclosed."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "Chapter IV. Sir Henry Baskerville.",
+      "start_s": 2864.75,
+      "end_s": 4056.428,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BAKER_STREET_MORNING",
+            "location_header": "INT. BAKER STREET SITTING ROOM - MORNING",
+            "visual_description": "A cluttered Victorian sitting room bathed in morning light. A breakfast table stands with a silver coffee pot and china. A hearth-rug lies before the fireplace. Books, scientific diagrams, and chemical equipment crowd the shelves and corners. Warm, domestic yet intellectual atmosphere."
+          },
+          {
+            "identifier": "REGENT_STREET_EXT",
+            "location_header": "EXT. REGENT STREET - MORNING",
+            "visual_description": "A bustling London street scene in bright morning light. Crowds of pedestrians in Victorian dress move along the pavement. Hansom cabs and carriages fill the road. Shop windows with glass fronts reflect the activity. Grey cobblestones and brick facades create a busy urban atmosphere."
+          },
+          {
+            "identifier": "MESSENGER_OFFICE",
+            "location_header": "INT. DISTRICT MESSENGER OFFICE - DAY",
+            "visual_description": "A functional Victorian business office with a high wooden counter. Maps of London cover the walls. Uniformed messenger boys sit on a bench waiting for orders. Gas lamps hang from the ceiling, currently unlit. Practical, orderly, and business-like atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "Chapter V. Three Broken Threads.",
+      "start_s": 4056.428,
+      "end_s": 5091.66,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "NORTHUMBERLAND_HOTEL",
+            "location_header": "INT. NORTHUMBERLAND HOTEL - DAY",
+            "visual_description": "A grand Victorian hotel interior. The lobby features polished marble floors and a mahogany reception desk. A wide staircase with plush runners leads upwards. Private sitting rooms are appointed with heavy velvet drapes, floral wallpaper, and comfortable armchairs. An atmosphere of wealthy transit and activity."
+          },
+          {
+            "identifier": "BAKER_STREET_EVENING",
+            "location_header": "INT. BAKER STREET SITTING ROOM - NIGHT",
+            "visual_description": "Victorian sitting room at night. Thick haze of tobacco smoke fills the air, blurring the light of a table lamp. A fire glows in the grate. An armchair contains a figure in a dressing gown. Scattered maps and papers lie about. Atmosphere is dense, contemplative, and enclosed."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "Chapter VI. Baskerville Hall.",
+      "start_s": 5091.66,
+      "end_s": 6189.858,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "PADDINGTON_PLATFORM",
+            "location_header": "EXT. PADDINGTON STATION - DAY",
+            "visual_description": "A busy Victorian railway platform at Paddington Station. Steam billows from a waiting locomotive, obscuring the iron vaulted ceiling. Porters load luggage into carriages. A first-class compartment door stands open. The atmosphere is hurried and industrial with grey smoke and brass fittings."
+          },
+          {
+            "identifier": "TRAIN_CARRIAGE_DAY",
+            "location_header": "INT. TRAIN CARRIAGE - DAY",
+            "visual_description": "Interior of a first-class Victorian train compartment. Plush velvet seats with lace antimacassars. A large window reveals passing English countryside—green fields turning to red Devonshire earth. Leather luggage straps and mahogany trim. Bright, moving daylight."
+          },
+          {
+            "identifier": "MOOR_ROAD_DUSK",
+            "location_header": "EXT. MOOR ROAD - DUSK",
+            "visual_description": "A lonely road winding through the bleak Dartmoor landscape at dusk. Dark, jagged hills rise against a fading sky. Gnarled vegetation and granite boulders scatter the ground. A horse-drawn wagonette moves along the white road. The light is dimming, creating long ominous shadows and a cold, purple-grey palette."
+          },
+          {
+            "identifier": "BASKERVILLE_GATES_APPROACH",
+            "location_header": "EXT. BASKERVILLE GATES - TWILIGHT",
+            "visual_description": "The imposing entrance to Baskerville Hall at twilight. A ruined black granite lodge stands opposite a half-built new structure. Wrought-iron gates with fantastic tracery and boar's heads open into a dark tunnel of ancient trees. Gloomy, gothic, and shadowed."
+          },
+          {
+            "identifier": "BASKERVILLE_GREAT_HALL",
+            "location_header": "INT. BASKERVILLE HALL - NIGHT",
+            "visual_description": "The grand main hall of Baskerville Hall. Huge age-blackened oak rafters span the high ceiling. A large stone fireplace holds a crackling log fire. Stained glass windows and ancestral coats of arms line the dark panelled walls. Dim, warm light from a central lamp fights the heavy shadows."
+          },
+          {
+            "identifier": "BASKERVILLE_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - NIGHT",
+            "visual_description": "A long, gloomy dining hall. A raised dais and minstrel's gallery suggest ancient feasts, but now black beams loom overhead. A small circle of light from a table lamp illuminates white linen and silver, leaving the corners in deep shadow. Ancestral portraits stare from the walls."
+          },
+          {
+            "identifier": "WATSON_BEDROOM",
+            "location_header": "INT. WATSON'S BEDROOM - NIGHT",
+            "visual_description": "A bedroom in the modern wing of the Hall. Bright wallpaper and numerous candles offer a contrast to the rest of the house. A curtained window looks out into the night. Comfortable but isolated atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "Chapter VII. The Stapletons of Merripit House.",
+      "start_s": 6189.858,
+      "end_s": 7675.058,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BASKERVILLE_HALL_MORNING",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "The dining hall of Baskerville Hall in the morning. Sunlight floods through high mullioned windows, illuminating the coats of arms with watery patches of colour. Dark wood panelling glows like bronze. The atmosphere is fresher but still bears the weight of history."
+          },
+          {
+            "identifier": "GRIMPEN_VILLAGE",
+            "location_header": "EXT. GRIMPEN VILLAGE - DAY",
+            "visual_description": "A small grey hamlet on the edge of the moor. Granite cottages cluster around a small inn and a post office. The buildings are stark and weathered, standing high above the surrounding landscape. The atmosphere is rural and isolated."
+          },
+          {
+            "identifier": "GRIMPEN_MOOR_DAY",
+            "location_header": "EXT. GRIMPEN MOOR - DAY",
+            "visual_description": "The vast, open expanse of Grimpen Moor under a bright autumn sky. Undulating green downs roll like waves, crested with jagged granite tors. Patches of bright green mire gleam dangerously. A narrow grassy path winds through the barren landscape. The mood is wild, beautiful, and treacherous."
+          },
+          {
+            "identifier": "MERRIPIT_HOUSE_INT",
+            "location_header": "INT. MERRIPIT HOUSE - DAY",
+            "visual_description": "Interior of Merripit House. Large rooms furnished with unexpected elegance. Windows look out upon the interminable granite-flecked moor. Scientific equipment for botany and zoology is visible. The contrast between the refined interior and the bleak exterior is striking."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "Chapter VIII. First Report of Dr. Watson.",
+      "start_s": 7675.058,
+      "end_s": 8547.509,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "WATSON_BEDROOM",
+            "location_header": "INT. WATSON'S BEDROOM - NIGHT",
+            "visual_description": "A comfortable guest bedroom in Baskerville Hall, adapted for writing. A heavy wooden desk sits near a window with views of the moor. Papers and letters are stacked neatly. A paraffin lamp casts a warm circle of light on the writing surface. The room is tidy but functional."
+          },
+          {
+            "identifier": "BASKERVILLE_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - DAY",
+            "visual_description": "The grand dining hall of Baskerville Hall. Dark wood panelling glows like bronze in the daylight. High mullioned windows illuminate ancestral coats of arms. A long mahogany table reflects the light. The atmosphere is formal and heavy with history."
+          },
+          {
+            "identifier": "BASKERVILLE_CORRIDOR_NIGHT",
+            "location_header": "INT. CORRIDOR - NIGHT",
+            "visual_description": "The long gallery corridor of Baskerville Hall at night. Dark oak floors and panelled walls stretch into gloom. A balcony rail overlooks the hall below. Shadows pool in corners, lit only by a faint passing candle held by a figure. Foreboding and gothic."
+          },
+          {
+            "identifier": "BASKERVILLE_EMPTY_ROOM",
+            "location_header": "INT. UNFURNISHED ROOM - NIGHT",
+            "visual_description": "An unfurnished Victorian chamber in Baskerville Hall at night. Bare floorboards, peeling wallpaper, and empty space. A single uncurtained window looks out onto darkness. Shadows from a single candle flicker against the walls. Desolate and dusty atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "Chapter IX. The Light upon the Moor [Second Report of Dr. Watson]",
+      "start_s": 8547.509,
+      "end_s": 10522.566,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "WATSON_BEDROOM",
+            "location_header": "INT. WATSON'S BEDROOM - NIGHT",
+            "visual_description": "A comfortable guest bedroom in Baskerville Hall, adapted for writing. A heavy wooden desk sits near a window with views of the moor. Papers and letters are stacked neatly. A paraffin lamp casts a warm circle of light on the writing surface. The room is tidy but functional."
+          },
+          {
+            "identifier": "BASKERVILLE_STUDY",
+            "location_header": "INT. STUDY - DAY",
+            "visual_description": "A masculine Victorian study. Dark oak panelling, walls lined with books and hunting trophies. A large heavy desk sits near a leaded window. Leather armchairs and a gun rack. Atmosphere of serious business and heritage."
+          },
+          {
+            "identifier": "GRIMPEN_MOOR_DAY",
+            "location_header": "EXT. GRIMPEN MOOR - DAY",
+            "visual_description": "The vast, open expanse of Grimpen Moor under a bright autumn sky. Undulating green downs roll like waves, crested with jagged granite tors. Patches of bright green mire gleam dangerously. A narrow grassy path winds through the barren landscape. The mood is wild, beautiful, and treacherous."
+          },
+          {
+            "identifier": "BASKERVILLE_CORRIDOR_NIGHT",
+            "location_header": "INT. CORRIDOR - NIGHT",
+            "visual_description": "The long gallery corridor of Baskerville Hall at night. Dark oak floors and panelled walls stretch into gloom. A balcony rail overlooks the hall below. Shadows pool in corners, lit only by a faint passing candle. Foreboding and gothic."
+          },
+          {
+            "identifier": "BASKERVILLE_EMPTY_ROOM",
+            "location_header": "INT. UNFURNISHED ROOM - NIGHT",
+            "visual_description": "An unfurnished Victorian chamber in Baskerville Hall at night. Bare floorboards, peeling wallpaper, and empty space. A single uncurtained window looks out onto darkness. Shadows from a single candle flicker against the walls. Desolate and dusty atmosphere."
+          },
+          {
+            "identifier": "GRIMPEN_MOOR_NIGHT",
+            "location_header": "EXT. GRIMPEN MOOR - NIGHT",
+            "visual_description": "The open moor in pitch darkness. Ragged clouds obscure the moon, casting fleeting pale light on granite tors and gorse. Rain glistens on black rocks. A single tiny yellow light flickers in the far distance. Wild, windy, and menacing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "Chapter X. Extract from the Diary of Dr. Watson.",
+      "start_s": 10522.566,
+      "end_s": 11614.827,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "WATSON_BEDROOM",
+            "location_header": "INT. WATSON'S BEDROOM - DAY",
+            "visual_description": "A comfortable guest bedroom in Baskerville Hall, adapted for writing. A heavy wooden desk sits near a window with views of the moor. Papers and letters are stacked neatly. A paraffin lamp casts a warm circle of light on the writing surface. The room is tidy but functional."
+          },
+          {
+            "identifier": "BASKERVILLE_STUDY",
+            "location_header": "INT. STUDY - DAY",
+            "visual_description": "A masculine Victorian study. Dark oak panelling, walls lined with books and hunting trophies. A large heavy desk sits near a leaded window. Leather armchairs and a gun rack. Atmosphere of serious business and heritage."
+          },
+          {
+            "identifier": "GRIMPEN_MOOR_DAY",
+            "location_header": "EXT. GRIMPEN MOOR - DAY",
+            "visual_description": "The vast, open expanse of Grimpen Moor under a grey, rainy sky. Rolling downs are obscured by drifting mist and drizzle. Wet granite boulders gleam in the dull light. The landscape is sodden and melancholy, with colors muted to slate and russet."
+          },
+          {
+            "identifier": "BASKERVILLE_STUDY_NIGHT",
+            "location_header": "INT. STUDY - NIGHT",
+            "visual_description": "A masculine Victorian study at night. Dark oak panelling absorbs the shadows. A pool of light from a table lamp illuminates a coffee service on a side table. The window panes are black, reflecting the interior. Atmosphere of intimacy and secrecy."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "Chapter XI. The Man on the Tor.",
+      "start_s": 11614.827,
+      "end_s": 13024.744,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "COOMBE_TRACEY_LYONS_ROOMS",
+            "location_header": "INT. LAURA LYONS' SITTING ROOM - DAY",
+            "visual_description": "A comfortable, well-appointed sitting room in Coombe Tracey. Central and tidy, with a Remington typewriter on a desk. The decor is feminine but modest, with touches of sulfur-yellow and pink. Light filters through a street-facing window. Atmosphere of working gentility masking a harder reality."
+          },
+          {
+            "identifier": "FRANKLAND_MANOR",
+            "location_header": "INT. FRANKLAND'S DINING ROOM - DAY",
+            "visual_description": "The dining room of a manor house on the moor. A table with decanters of wine stands ready. Windows overlook the road. A door leads to the roof. The room is filled with legal books and papers. Atmosphere of pompous, eccentric authority."
+          },
+          {
+            "identifier": "STONE_HUT_INTERIOR",
+            "location_header": "INT. STONE HUT - DAY",
+            "visual_description": "Interior of a prehistoric stone hut on the moor. Rough granite blocks form circular walls, gaps filled with moss. A waterproof sheet covers a stone slab bed. A rude grate holds ash. Dim light filters through the low entrance. Spartan, ancient, and shelterless atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "Chapter XII. Death on the Moor.",
+      "start_s": 13024.744,
+      "end_s": 14491.615,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_STONE_HUT_DAY",
+            "location_header": "EXT. STONE HUT - DAY",
+            "visual_description": "Exterior of a rough prehistoric stone hut on the high moor. Grey granite blocks form a low, circular shelter against a backdrop of undulating hills. Bright afternoon sunlight illuminates the weathered stone and the hardy gorse bushes. A large flat stone sits near the rude lintel of the doorway. The atmosphere is stark, isolated, and wind-swept."
+          },
+          {
+            "identifier": "STONE_HUT_INTERIOR",
+            "location_header": "INT. STONE HUT - TWILIGHT",
+            "visual_description": "Interior of a prehistoric stone hut on the moor. Rough granite blocks form circular walls, gaps filled with moss. A waterproof sheet covers a stone slab bed. A rude grate holds ash. Dim twilight filters through the low entrance, creating deep shadows. Spartan, ancient, and shelterless atmosphere."
+          },
+          {
+            "identifier": "GRIMPEN_MOOR_NIGHT",
+            "location_header": "EXT. GRIMPEN MOOR - NIGHT",
+            "visual_description": "The open moor in pitch darkness. Ragged clouds obscure the moon, casting fleeting pale light on granite tors and gorse. Rain glistens on black rocks. A single tiny yellow light flickers in the far distance. Wild, windy, and menacing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "Chapter XIII. Fixing the Nets.",
+      "start_s": 14491.615,
+      "end_s": 15498.278,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BASKERVILLE_DINING_ROOM",
+            "location_header": "INT. DINING ROOM - NIGHT",
+            "visual_description": "A long, gloomy dining hall. A raised dais and minstrel's gallery suggest ancient feasts, but now black beams loom overhead. A small circle of light from a table lamp illuminates white linen and silver, leaving the corners in deep shadow. Ancestral portraits stare from the walls."
+          },
+          {
+            "identifier": "EXT_BASKERVILLE_GROUNDS_MORNING",
+            "location_header": "EXT. BASKERVILLE HALL - MORNING",
+            "visual_description": "The gravel drive and facade of Baskerville Hall in fresh morning light. The imposing stone manor looms with mullioned windows reflecting the sun. Manicured lawns stretch away, contrasting with the wild moor beyond. The atmosphere is bright and crisp, with a sense of purposeful activity."
+          },
+          {
+            "identifier": "COOMBE_TRACEY_LYONS_ROOMS",
+            "location_header": "INT. LAURA LYONS' SITTING ROOM - DAY",
+            "visual_description": "A comfortable, well-appointed sitting room in Coombe Tracey. Central and tidy, with a Remington typewriter on a desk. The decor is feminine but modest, with touches of sulfur-yellow and pink. Light filters through a street-facing window. Atmosphere of working gentility masking a harder reality."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "Chapter XIV. The Hound of the Baskervilles.",
+      "start_s": 15498.278,
+      "end_s": 16787.946,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_MERRIPIT_EXTERIOR_NIGHT",
+            "location_header": "EXT. MERRIPIT HOUSE - NIGHT",
+            "visual_description": "The bleak moorland outside Merripit House at night. A dense bank of white fog rolls in like a wall under the moonlight, obscuring the landscape. The stone house stands dark against the sky, with yellow light spilling from a lower window onto the orchard trees. Cold, tense, and ominous atmosphere."
+          },
+          {
+            "identifier": "INT_MERRIPIT_HOUSE_NIGHT",
+            "location_header": "INT. MERRIPIT HOUSE - NIGHT",
+            "visual_description": "A room in Merripit House fashioned into an entomological museum. Glass-topped cases of butterflies line the walls. A central upright wooden beam supports the low ceiling. Oil lamps cast long, sharp shadows. The atmosphere is scientific but sinister and confining."
+          },
+          {
+            "identifier": "EXT_GRIMPEN_MIRE_DAY",
+            "location_header": "EXT. GRIMPEN MIRE - DAY",
+            "visual_description": "The vast Grimpen Mire under bright morning light. Patches of vivid green scum cover deep black quagmires. A narrow, zigzagging path winds through the treacherous ground, marked by tufts of rushes. Rank water-plants and slime are visible. The atmosphere is wild, perilous, and desolate."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "Chapter XV. A Retrospection.",
+      "start_s": 16787.946,
+      "end_s": 18032.682,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_BAKER_STREET_NIGHT",
+            "location_header": "INT. BAKER STREET SITTING ROOM - NIGHT",
+            "visual_description": "A cluttered Victorian sitting room at night. A blazing fire casts a warm glow against the thick haze of tobacco smoke. Gas lamps illuminate stacked papers, scientific equipment, and comfortable armchairs. Outside the window, a dense London fog presses against the glass. The atmosphere is cozy, intellectual, and enclosed."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "WATSON",
+      "name": "Watson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "JOHN_H_WATSON"
+      ],
+      "voice_attributes": [
+        "clear",
+        "educated",
+        "slightly weary"
+      ],
+      "visual_attributes": [
+        "sturdy build",
+        "moustache",
+        "sensible suit",
+        "open face"
+      ],
+      "roles": [
+        "protagonist",
+        "doctor",
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 676,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/WATSON.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/WATSON.mp3"
+    },
+    {
+      "identifier": "SHERLOCK_HOLMES",
+      "name": "Holmes",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mr. Sherlock Holmes"
+      ],
+      "voice_attributes": [
+        "sharp",
+        "intellectual",
+        "energetic",
+        "high pitch"
+      ],
+      "visual_attributes": [
+        "tall",
+        "gaunt",
+        "hawk-like nose",
+        "piercing eyes",
+        "mouse-coloured dressing gown"
+      ],
+      "roles": [
+        "detective",
+        "scientist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 431,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/SHERLOCK_HOLMES.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/SHERLOCK_HOLMES.mp3"
+    },
+    {
+      "identifier": "SIR_HENRY_BASKERVILLE",
+      "name": "Sir Henry",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "The Baronet"
+      ],
+      "voice_attributes": [
+        "american",
+        "sturdy",
+        "pugnacious",
+        "direct"
+      ],
+      "visual_attributes": [
+        "thick black eyebrows",
+        "strong pugnacious face",
+        "dark eyes",
+        "weather-beaten skin",
+        "sturdy build",
+        "ruddy-tinted tweed suit"
+      ],
+      "roles": [
+        "heir",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 177,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/SIR_HENRY_BASKERVILLE.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/SIR_HENRY_BASKERVILLE.mp3"
+    },
+    {
+      "identifier": "JAMES_MORTIMER",
+      "name": "Dr. Mortimer",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "James Mortimer"
+      ],
+      "voice_attributes": [
+        "precise",
+        "amiable",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "very tall",
+        "thin",
+        "long beak-like nose",
+        "close-set grey eyes",
+        "gold-rimmed glasses",
+        "frayed frock-coat",
+        "stooped posture"
+      ],
+      "roles": [
+        "doctor",
+        "client"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 146,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JAMES_MORTIMER.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JAMES_MORTIMER.mp3"
+    },
+    {
+      "identifier": "JACK_STAPLETON",
+      "name": "Stapleton",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Mr. Stapleton",
+        "Vandeleur"
+      ],
+      "voice_attributes": [
+        "high-pitched",
+        "energetic",
+        "educated",
+        "intense"
+      ],
+      "visual_attributes": [
+        "small slim build",
+        "clean-shaven prim face",
+        "flaxen hair",
+        "lean jaw",
+        "grey suit",
+        "straw hat",
+        "botanical tin"
+      ],
+      "roles": [
+        "naturalist",
+        "neighbor",
+        "villain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 53,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JACK_STAPLETON.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JACK_STAPLETON.mp3"
+    },
+    {
+      "identifier": "BARRYMORE",
+      "name": "Barrymore",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "subdued",
+        "respectful",
+        "measured"
+      ],
+      "visual_attributes": [
+        "tall frame",
+        "square black beard",
+        "pale distinguished face",
+        "formal black butler's coat",
+        "impassive expression"
+      ],
+      "roles": [
+        "butler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 52,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/BARRYMORE.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/BARRYMORE.mp3"
+    },
+    {
+      "identifier": "LAURA_LYONS",
+      "name": "Mrs. Lyons",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Laura"
+      ],
+      "voice_attributes": [
+        "defensive",
+        "nervous",
+        "sharp"
+      ],
+      "visual_attributes": [
+        "rich hazel eyes",
+        "brunette hair",
+        "freckled cheeks",
+        "flushed complexion",
+        "coarse expression",
+        "loose lip",
+        "handsome face"
+      ],
+      "roles": [
+        "witness",
+        "suspect"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 39,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/LAURA_LYONS.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/LAURA_LYONS.mp3"
+    },
+    {
+      "identifier": "BERYL_STAPLETON",
+      "name": "Miss Stapleton",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Beryl"
+      ],
+      "voice_attributes": [
+        "lisping",
+        "eager",
+        "low",
+        "distinctive"
+      ],
+      "visual_attributes": [
+        "dark exotic beauty",
+        "slim elegant figure",
+        "finely cut proud face",
+        "sensitive mouth",
+        "large dark eager eyes",
+        "expensive gown"
+      ],
+      "roles": [
+        "sister",
+        "neighbor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 24,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/BERYL_STAPLETON.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/BERYL_STAPLETON.mp3"
+    },
+    {
+      "identifier": "JOHN_CLAYTON",
+      "name": "John Clayton",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Cabman No. 2704"
+      ],
+      "voice_attributes": [
+        "rough",
+        "cockney",
+        "honest"
+      ],
+      "visual_attributes": [
+        "rough-looking",
+        "driver's coat",
+        "weathered face"
+      ],
+      "roles": [
+        "witness",
+        "cab driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 18,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JOHN_CLAYTON.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JOHN_CLAYTON.mp3"
+    },
+    {
+      "identifier": "FRANKLAND",
+      "name": "Frankland",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "choleric",
+        "booming",
+        "pompous"
+      ],
+      "visual_attributes": [
+        "grey whiskers",
+        "red face",
+        "keen eyes",
+        "tweed suit",
+        "elderly"
+      ],
+      "roles": [
+        "neighbor",
+        "eccentric"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 18,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/FRANKLAND.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/FRANKLAND.mp3"
+    },
+    {
+      "identifier": "ELIZA_BARRYMORE",
+      "name": "Mrs. Barrymore",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "emotional",
+        "trembling",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "heavy solid person",
+        "bulky figure in shawl",
+        "pale face",
+        "intensely respectable",
+        "tear-stained eyes"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/ELIZA_BARRYMORE.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/ELIZA_BARRYMORE.mp3"
+    },
+    {
+      "identifier": "CARTWRIGHT",
+      "name": "Cartwright",
+      "age_group": "teenager",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "keen",
+        "respectful",
+        "bright"
+      ],
+      "visual_attributes": [
+        "bright keen face",
+        "lad of fourteen",
+        "messenger uniform",
+        "pillbox hat"
+      ],
+      "roles": [
+        "messenger boy",
+        "helper"
+      ],
+      "metadata": {
+        "age_group": "teenager",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/CARTWRIGHT.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/CARTWRIGHT.mp3"
+    },
+    {
+      "identifier": "LESTRADE",
+      "name": "Lestrade",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "wiry",
+        "tenacious",
+        "cockney"
+      ],
+      "visual_attributes": [
+        "small wiry build",
+        "bulldog face",
+        "bright eyes",
+        "bowler hat",
+        "cheap suit"
+      ],
+      "roles": [
+        "detective",
+        "police_officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/LESTRADE.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/LESTRADE.mp3"
+    },
+    {
+      "identifier": "HOTEL_CLERK",
+      "name": "The Clerk",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "helpful"
+      ],
+      "visual_attributes": [
+        "hotel uniform",
+        "standing behind desk",
+        "neat hair"
+      ],
+      "roles": [
+        "clerk"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/HOTEL_CLERK.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/HOTEL_CLERK.mp3"
+    },
+    {
+      "identifier": "PERKINS",
+      "name": "Perkins",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "devonshire accent"
+      ],
+      "visual_attributes": [
+        "hard-faced",
+        "gnarled features",
+        "weather-beaten skin",
+        "driver's coat",
+        "bowler hat"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/PERKINS.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/PERKINS.mp3"
+    },
+    {
+      "identifier": "JAMES_BOY",
+      "name": "James",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "timid"
+      ],
+      "visual_attributes": [
+        "young face",
+        "messy hair",
+        "simple clothes",
+        "nervous expression"
+      ],
+      "roles": [
+        "messenger"
+      ],
+      "metadata": {
+        "age_group": "child",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JAMES_BOY.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/JAMES_BOY.mp3"
+    },
+    {
+      "identifier": "POSTMASTER",
+      "name": "The Postmaster",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "testy",
+        "impatient",
+        "provincial"
+      ],
+      "visual_attributes": [
+        "balding head",
+        "spectacles",
+        "apron over suit",
+        "flustered expression"
+      ],
+      "roles": [
+        "postmaster",
+        "grocer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/POSTMASTER.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/POSTMASTER.mp3"
+    },
+    {
+      "identifier": "GERMAN_WAITER",
+      "name": "The Waiter",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "german accent",
+        "agitated"
+      ],
+      "visual_attributes": [
+        "waiter uniform",
+        "agitated expression",
+        "wringing hands"
+      ],
+      "roles": [
+        "waiter"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "german"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/GERMAN_WAITER.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/GERMAN_WAITER.mp3"
+    },
+    {
+      "identifier": "WILSON",
+      "name": "Wilson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "grateful",
+        "respectful"
+      ],
+      "visual_attributes": [
+        "managerial attire",
+        "middle-aged face",
+        "whiskers"
+      ],
+      "roles": [
+        "manager"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/WILSON.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/WILSON.mp3"
+    },
+    {
+      "identifier": "SELDEN",
+      "name": "Selden",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Convict"
+      ],
+      "voice_attributes": [
+        "screaming",
+        "cursing"
+      ],
+      "visual_attributes": [
+        "evil yellow face",
+        "animalistic features",
+        "matted hair",
+        "bristling beard",
+        "filthy clothes",
+        "scarred face"
+      ],
+      "roles": [
+        "convict"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/SELDEN.png",
+      "voice_key": "publications/7b84a051046b146eb90617138320b5f88f933866/characters/SELDEN.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "EXT_STONE_HUT_DAY",
+      "ordinal": 0,
+      "location_header": "EXT. STONE HUT - DAY",
+      "visual_description": "Exterior of a rough prehistoric stone hut on the high moor. Grey granite blocks form a low, circular shelter against a backdrop of undulating hills. Bright afternoon sunlight illuminates the weathered stone and the hardy gorse bushes. A large flat stone sits near the rude lintel of the doorway. The atmosphere is stark, isolated, and wind-swept.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_EXT_STONE_HUT_DAY.jpg"
+    },
+    {
+      "identifier": "INT_BAKER_STREET_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. BAKER STREET SITTING ROOM - NIGHT",
+      "visual_description": "A cluttered Victorian sitting room at night. A blazing fire casts a warm glow against the thick haze of tobacco smoke. Gas lamps illuminate stacked papers, scientific equipment, and comfortable armchairs. Outside the window, a dense London fog presses against the glass. The atmosphere is cozy, intellectual, and enclosed.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_INT_BAKER_STREET_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_MERRIPIT_EXTERIOR_NIGHT",
+      "ordinal": 0,
+      "location_header": "EXT. MERRIPIT HOUSE - NIGHT",
+      "visual_description": "The bleak moorland outside Merripit House at night. A dense bank of white fog rolls in like a wall under the moonlight, obscuring the landscape. The stone house stands dark against the sky, with yellow light spilling from a lower window onto the orchard trees. Cold, tense, and ominous atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_EXT_MERRIPIT_EXTERIOR_NIGHT.jpg"
+    },
+    {
+      "identifier": "WATSON_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. WATSON'S BEDROOM - DAY",
+      "visual_description": "A comfortable guest bedroom in Baskerville Hall, adapted for writing. A heavy wooden desk sits near a window with views of the moor. Papers and letters are stacked neatly. A paraffin lamp casts a warm circle of light on the writing surface. The room is tidy but functional.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_WATSON_BEDROOM.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_MORNING",
+      "ordinal": 0,
+      "location_header": "INT. BAKER STREET SITTING ROOM - MORNING",
+      "visual_description": "A cluttered Victorian sitting room bathed in morning light. A breakfast table stands with a silver coffee pot and china. A hearth-rug lies before the fireplace. Books, scientific diagrams, and chemical equipment crowd the shelves and corners. Warm, domestic yet intellectual atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BAKER_STREET_MORNING.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_DINING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. DINING ROOM - NIGHT",
+      "visual_description": "A long, gloomy dining hall. A raised dais and minstrel's gallery suggest ancient feasts, but now black beams loom overhead. A small circle of light from a table lamp illuminates white linen and silver, leaving the corners in deep shadow. Ancestral portraits stare from the walls.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "PADDINGTON_PLATFORM",
+      "ordinal": 0,
+      "location_header": "EXT. PADDINGTON STATION - DAY",
+      "visual_description": "A busy Victorian railway platform at Paddington Station. Steam billows from a waiting locomotive, obscuring the iron vaulted ceiling. Porters load luggage into carriages. A first-class compartment door stands open. The atmosphere is hurried and industrial with grey smoke and brass fittings.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_PADDINGTON_PLATFORM.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_HALL_MORNING",
+      "ordinal": 0,
+      "location_header": "INT. DINING ROOM - DAY",
+      "visual_description": "The dining hall of Baskerville Hall in the morning. Sunlight floods through high mullioned windows, illuminating the coats of arms with watery patches of colour. Dark wood panelling glows like bronze. The atmosphere is fresher but still bears the weight of history.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_HALL_MORNING.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "NORTHUMBERLAND_HOTEL",
+      "ordinal": 0,
+      "location_header": "INT. NORTHUMBERLAND HOTEL - DAY",
+      "visual_description": "A grand Victorian hotel interior. The lobby features polished marble floors and a mahogany reception desk. A wide staircase with plush runners leads upwards. Private sitting rooms are appointed with heavy velvet drapes, floral wallpaper, and comfortable armchairs. An atmosphere of wealthy transit and activity.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_NORTHUMBERLAND_HOTEL.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. STUDY - DAY",
+      "visual_description": "A masculine Victorian study. Dark oak panelling, walls lined with books and hunting trophies. A large heavy desk sits near a leaded window. Leather armchairs and a gun rack. Atmosphere of serious business and heritage.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_STUDY.jpg"
+    },
+    {
+      "identifier": "BAKER_STREET_EVENING",
+      "ordinal": 1,
+      "location_header": "INT. BAKER STREET SITTING ROOM - NIGHT",
+      "visual_description": "Victorian sitting room at night. Thick haze of tobacco smoke fills the air, blurring the light of a table lamp. A fire glows in the grate. An armchair contains a figure in a dressing gown. Scattered maps and papers lie about. Atmosphere is dense, contemplative, and enclosed.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BAKER_STREET_EVENING.jpg"
+    },
+    {
+      "identifier": "REGENT_STREET_EXT",
+      "ordinal": 1,
+      "location_header": "EXT. REGENT STREET - MORNING",
+      "visual_description": "A bustling London street scene in bright morning light. Crowds of pedestrians in Victorian dress move along the pavement. Hansom cabs and carriages fill the road. Shop windows with glass fronts reflect the activity. Grey cobblestones and brick facades create a busy urban atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_REGENT_STREET_EXT.jpg"
+    },
+    {
+      "identifier": "GRIMPEN_VILLAGE",
+      "ordinal": 1,
+      "location_header": "EXT. GRIMPEN VILLAGE - DAY",
+      "visual_description": "A small grey hamlet on the edge of the moor. Granite cottages cluster around a small inn and a post office. The buildings are stark and weathered, standing high above the surrounding landscape. The atmosphere is rural and isolated.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_GRIMPEN_VILLAGE.jpg"
+    },
+    {
+      "identifier": "TRAIN_CARRIAGE_DAY",
+      "ordinal": 1,
+      "location_header": "INT. TRAIN CARRIAGE - DAY",
+      "visual_description": "Interior of a first-class Victorian train compartment. Plush velvet seats with lace antimacassars. A large window reveals passing English countryside—green fields turning to red Devonshire earth. Leather luggage straps and mahogany trim. Bright, moving daylight.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_TRAIN_CARRIAGE_DAY.jpg"
+    },
+    {
+      "identifier": "FRANKLAND_MANOR",
+      "ordinal": 1,
+      "location_header": "INT. FRANKLAND'S DINING ROOM - DAY",
+      "visual_description": "The dining room of a manor house on the moor. A table with decanters of wine stands ready. Windows overlook the road. A door leads to the roof. The room is filled with legal books and papers. Atmosphere of pompous, eccentric authority.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_FRANKLAND_MANOR.jpg"
+    },
+    {
+      "identifier": "STONE_HUT_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. STONE HUT - TWILIGHT",
+      "visual_description": "Interior of a prehistoric stone hut on the moor. Rough granite blocks form circular walls, gaps filled with moss. A waterproof sheet covers a stone slab bed. A rude grate holds ash. Dim twilight filters through the low entrance, creating deep shadows. Spartan, ancient, and shelterless atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_STONE_HUT_INTERIOR.jpg"
+    },
+    {
+      "identifier": "EXT_BASKERVILLE_GROUNDS_MORNING",
+      "ordinal": 1,
+      "location_header": "EXT. BASKERVILLE HALL - MORNING",
+      "visual_description": "The gravel drive and facade of Baskerville Hall in fresh morning light. The imposing stone manor looms with mullioned windows reflecting the sun. Manicured lawns stretch away, contrasting with the wild moor beyond. The atmosphere is bright and crisp, with a sense of purposeful activity.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_EXT_BASKERVILLE_GROUNDS_MORNING.jpg"
+    },
+    {
+      "identifier": "INT_MERRIPIT_HOUSE_NIGHT",
+      "ordinal": 1,
+      "location_header": "INT. MERRIPIT HOUSE - NIGHT",
+      "visual_description": "A room in Merripit House fashioned into an entomological museum. Glass-topped cases of butterflies line the walls. A central upright wooden beam supports the low ceiling. Oil lamps cast long, sharp shadows. The atmosphere is scientific but sinister and confining.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_INT_MERRIPIT_HOUSE_NIGHT.jpg"
+    },
+    {
+      "identifier": "MOOR_ROAD_DUSK",
+      "ordinal": 2,
+      "location_header": "EXT. MOOR ROAD - DUSK",
+      "visual_description": "A lonely road winding through the bleak Dartmoor landscape at dusk. Dark, jagged hills rise against a fading sky. Gnarled vegetation and granite boulders scatter the ground. A horse-drawn wagonette moves along the white road. The light is dimming, creating long ominous shadows and a cold, purple-grey palette.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_MOOR_ROAD_DUSK.jpg"
+    },
+    {
+      "identifier": "MESSENGER_OFFICE",
+      "ordinal": 2,
+      "location_header": "INT. DISTRICT MESSENGER OFFICE - DAY",
+      "visual_description": "A functional Victorian business office with a high wooden counter. Maps of London cover the walls. Uniformed messenger boys sit on a bench waiting for orders. Gas lamps hang from the ceiling, currently unlit. Practical, orderly, and business-like atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_MESSENGER_OFFICE.jpg"
+    },
+    {
+      "identifier": "GRIMPEN_MOOR_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. GRIMPEN MOOR - DAY",
+      "visual_description": "The vast, open expanse of Grimpen Moor under a bright autumn sky. Undulating green downs roll like waves, crested with jagged granite tors. Patches of bright green mire gleam dangerously. A narrow grassy path winds through the barren landscape. The mood is wild, beautiful, and treacherous.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_GRIMPEN_MOOR_DAY.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_CORRIDOR_NIGHT",
+      "ordinal": 2,
+      "location_header": "INT. CORRIDOR - NIGHT",
+      "visual_description": "The long gallery corridor of Baskerville Hall at night. Dark oak floors and panelled walls stretch into gloom. A balcony rail overlooks the hall below. Shadows pool in corners, lit only by a faint passing candle held by a figure. Foreboding and gothic.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_CORRIDOR_NIGHT.jpg"
+    },
+    {
+      "identifier": "EXT_GRIMPEN_MIRE_DAY",
+      "ordinal": 2,
+      "location_header": "EXT. GRIMPEN MIRE - DAY",
+      "visual_description": "The vast Grimpen Mire under bright morning light. Patches of vivid green scum cover deep black quagmires. A narrow, zigzagging path winds through the treacherous ground, marked by tufts of rushes. Rank water-plants and slime are visible. The atmosphere is wild, perilous, and desolate.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_EXT_GRIMPEN_MIRE_DAY.jpg"
+    },
+    {
+      "identifier": "COOMBE_TRACEY_LYONS_ROOMS",
+      "ordinal": 2,
+      "location_header": "INT. LAURA LYONS' SITTING ROOM - DAY",
+      "visual_description": "A comfortable, well-appointed sitting room in Coombe Tracey. Central and tidy, with a Remington typewriter on a desk. The decor is feminine but modest, with touches of sulfur-yellow and pink. Light filters through a street-facing window. Atmosphere of working gentility masking a harder reality.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_COOMBE_TRACEY_LYONS_ROOMS.jpg"
+    },
+    {
+      "identifier": "GRIMPEN_MOOR_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. GRIMPEN MOOR - NIGHT",
+      "visual_description": "The open moor in pitch darkness. Ragged clouds obscure the moon, casting fleeting pale light on granite tors and gorse. Rain glistens on black rocks. A single tiny yellow light flickers in the far distance. Wild, windy, and menacing.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_GRIMPEN_MOOR_NIGHT.jpg"
+    },
+    {
+      "identifier": "MERRIPIT_HOUSE_INT",
+      "ordinal": 3,
+      "location_header": "INT. MERRIPIT HOUSE - DAY",
+      "visual_description": "Interior of Merripit House. Large rooms furnished with unexpected elegance. Windows look out upon the interminable granite-flecked moor. Scientific equipment for botany and zoology is visible. The contrast between the refined interior and the bleak exterior is striking.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_MERRIPIT_HOUSE_INT.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_STUDY_NIGHT",
+      "ordinal": 3,
+      "location_header": "INT. STUDY - NIGHT",
+      "visual_description": "A masculine Victorian study at night. Dark oak panelling absorbs the shadows. A pool of light from a table lamp illuminates a coffee service on a side table. The window panes are black, reflecting the interior. Atmosphere of intimacy and secrecy.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_STUDY_NIGHT.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_GATES_APPROACH",
+      "ordinal": 3,
+      "location_header": "EXT. BASKERVILLE GATES - TWILIGHT",
+      "visual_description": "The imposing entrance to Baskerville Hall at twilight. A ruined black granite lodge stands opposite a half-built new structure. Wrought-iron gates with fantastic tracery and boar's heads open into a dark tunnel of ancient trees. Gloomy, gothic, and shadowed.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_GATES_APPROACH.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_EMPTY_ROOM",
+      "ordinal": 4,
+      "location_header": "INT. UNFURNISHED ROOM - NIGHT",
+      "visual_description": "An unfurnished Victorian chamber in Baskerville Hall at night. Bare floorboards, peeling wallpaper, and empty space. A single uncurtained window looks out onto darkness. Shadows from a single candle flicker against the walls. Desolate and dusty atmosphere.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_EMPTY_ROOM.jpg"
+    },
+    {
+      "identifier": "BASKERVILLE_GREAT_HALL",
+      "ordinal": 4,
+      "location_header": "INT. BASKERVILLE HALL - NIGHT",
+      "visual_description": "The grand main hall of Baskerville Hall. Huge age-blackened oak rafters span the high ceiling. A large stone fireplace holds a crackling log fire. Stained glass windows and ancestral coats of arms line the dark panelled walls. Dim, warm light from a central lamp fights the heavy shadows.",
+      "metadata": {},
+      "image_key": "publications/7b84a051046b146eb90617138320b5f88f933866/scenes/scene_BASKERVILLE_GREAT_HALL.jpg"
+    }
+  ],
+  "subjects": [
+    "Holmes, Sherlock (Fictitious character) -- Fiction",
+    "Private investigators -- England -- Fiction",
+    "Dogs -- Fiction",
+    "Detective and mystery stories",
+    "Blessing and cursing -- Fiction",
+    "Dartmoor (England) -- Fiction"
+  ]
+}
