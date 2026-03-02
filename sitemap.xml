@@ -2,10 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://library.characterecho.com/</loc>
-    <lastmod>2026-03-01</lastmod>
+    <lastmod>2026-03-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
+    <url>
+      <loc>https://library.characterecho.com/publications/71bd7aab7a2bd132135201ba7914aa1630254deb/preview/</loc>
+      <lastmod>2026-03-02</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
+    <url>
+      <loc>https://library.characterecho.com/publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/preview/</loc>
+      <lastmod>2026-03-02</lastmod>
+      <changefreq>monthly</changefreq>
+      <priority>0.8</priority>
+    </url>
     <url>
       <loc>https://library.characterecho.com/publications/9140bdded572c5d6e72af7f9d589a9e57fa02993/preview/</loc>
       <lastmod>2026-03-01</lastmod>
@@ -32,12 +44,6 @@
     </url>
     <url>
       <loc>https://library.characterecho.com/publications/add5b6b6feaa76a5ad6c268190feacb91fcee4ad/preview/</loc>
-      <lastmod>2026-02-28</lastmod>
-      <changefreq>monthly</changefreq>
-      <priority>0.8</priority>
-    </url>
-    <url>
-      <loc>https://library.characterecho.com/publications/71bd7aab7a2bd132135201ba7914aa1630254deb/preview/</loc>
       <lastmod>2026-02-28</lastmod>
       <changefreq>monthly</changefreq>
       <priority>0.8</priority>
