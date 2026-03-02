@@ -8,7 +8,7 @@
   "identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
   "publication_type": "novel",
   "cover_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/cover.png",
-  "total_duration_s": 31264.881294,
+  "total_duration_s": 31255.23601,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -81,7 +81,7 @@
       "ordinal": 10,
       "audio_key": "publications/71bd7aab7a2bd132135201ba7914aa1630254deb/audio_part_10.mp3",
       "start_s": 25344.850704,
-      "end_s": 31264.881294
+      "end_s": 31255.23601
     }
   ],
   "segments": [
@@ -511,7 +511,7 @@
       "ordinal": 14,
       "title": "XI. THE ADVENTURE OF THE BERYL CORONET",
       "start_s": 25344.851,
-      "end_s": 28292.249,
+      "end_s": 28292.239,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -542,8 +542,8 @@
     {
       "ordinal": 15,
       "title": "XII. THE ADVENTURE OF THE COPPER BEECHES",
-      "start_s": 28292.249,
-      "end_s": 31264.881,
+      "start_s": 28292.239,
+      "end_s": 31255.236,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
