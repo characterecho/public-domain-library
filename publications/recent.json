@@ -1,25 +1,5 @@
 [
   {
-    "publication_identifier": "goodnight-molly",
-    "sample": false,
-    "title": "Goodnight Molly",
-    "author_names": "Ada Wren",
-    "publication_type": "original_fiction",
-    "genre_tags": [],
-    "catalog_added_at": "2026-03-28T18:53:40Z",
-    "updated_at": "2026-03-28T22:14:54Z",
-    "duration": {
-      "total_ms": 216000,
-      "formatted": "4m"
-    },
-    "cover_url": null,
-    "data_checksum": "82bb16e5dffe9ecc265dea9ec7a589999f504f471bfa63c9aefd4af8e60fdb83",
-    "file_size": 33199291,
-    "available_regions": [],
-    "min_app_version": "1.1.0",
-    "original_fiction": true
-  },
-  {
     "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
     "sample": false,
     "title": "The Adventures of Sherlock Holmes",
