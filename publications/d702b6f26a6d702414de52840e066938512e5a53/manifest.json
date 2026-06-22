@@ -1,0 +1,1792 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "The Picture of Dorian Gray",
+  "author_names": "Oscar Wilde",
+  "description": "Publication imported from https://gutenberg.org/ebooks/174.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/174.epub3.images",
+  "identifier": "d702b6f26a6d702414de52840e066938512e5a53",
+  "publication_type": "novel",
+  "cover_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/cover.png",
+  "total_duration_s": 25896.145307,
+  "genre_tags": [
+    "Classics",
+    "Gothic",
+    "Philosophical",
+    "Victorian",
+    "Aestheticism"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3413.848685
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_1.mp3",
+      "start_s": 3413.848685,
+      "end_s": 6740.117641999999
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_2.mp3",
+      "start_s": 6740.117641999999,
+      "end_s": 9105.558707999999
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_3.mp3",
+      "start_s": 9105.558707999999,
+      "end_s": 12386.328571999999
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_4.mp3",
+      "start_s": 12386.328571999999,
+      "end_s": 14733.739932999999
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_5.mp3",
+      "start_s": 14733.739932999999,
+      "end_s": 17540.08728
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_6.mp3",
+      "start_s": 17540.08728,
+      "end_s": 20471.867892
+    },
+    {
+      "ordinal": 7,
+      "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_7.mp3",
+      "start_s": 20471.867892,
+      "end_s": 25896.145307
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 7.815,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I.",
+      "start_s": 7.815,
+      "end_s": 1587.939,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BASIL_STUDIO",
+            "location_header": "INT. BASIL'S STUDIO - DAY",
+            "visual_description": "A spacious Victorian artist's studio filled with soft summer light. A large window with tussore-silk curtains dominates one wall. In the center, an upright easel holds a portrait. A divan with Persian saddle-bags sits in the corner. Dust motes dance in the air. Rich scents of roses and lilac. Eclectic, artistic clutter."
+          },
+          {
+            "identifier": "BASIL_GARDEN",
+            "location_header": "EXT. BASIL'S GARDEN - DAY",
+            "visual_description": "A lush Victorian garden in high summer. Sunlight filters through a tall laurel bush shading a bamboo seat. White daisies speckle the long unmown grass. Ivy climbs the brick walls. Deep green shadows and bright sun patches. Atmosphere of languid heat and buzzing bees."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II.",
+      "start_s": 1587.939,
+      "end_s": 3413.849,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BASIL_STUDIO",
+            "location_header": "INT. BASIL'S STUDIO - DAY",
+            "visual_description": "A spacious Victorian artist's studio filled with soft summer light. A large window with tussore-silk curtains dominates one wall. In the center, an upright easel holds a portrait. A divan with Persian saddle-bags sits in the corner. Dust motes dance in the air. Rich scents of roses and lilac. Eclectic, artistic clutter."
+          },
+          {
+            "identifier": "BASIL_GARDEN",
+            "location_header": "EXT. BASIL'S GARDEN - DAY",
+            "visual_description": "A lush Victorian garden in high summer. Sunlight filters through a tall laurel bush shading a bamboo seat. White daisies speckle the long unmown grass. Ivy climbs the brick walls. Deep green shadows and bright sun patches. Atmosphere of languid heat and buzzing bees."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III.",
+      "start_s": 3413.849,
+      "end_s": 4880.32,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "FERMOR_ROOMS",
+            "location_header": "INT. LORD FERMOR'S CHAMBERS - DAY",
+            "visual_description": "A bachelor's sitting room in the Albany, London. Mid-Victorian era. Comfortable but slightly rough masculine atmosphere. Leather armchairs, a table cluttered with newspapers and a cheroot box. Smoke hangs in the air. Natural daylight filters in."
+          },
+          {
+            "identifier": "LADY_AGATHA_DINING",
+            "location_header": "INT. LADY AGATHA'S DINING ROOM - DAY",
+            "visual_description": "A grand Victorian dining room filled with guests. A long mahogany table set with white linens, silver, and crystal. Sombre but elegant decor with heavy curtains. Servants in livery moving in the background. Soft ambient chatter."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV.",
+      "start_s": 4880.32,
+      "end_s": 6740.118,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "HENRY_LIBRARY",
+            "location_header": "INT. LORD HENRY'S LIBRARY - DAY",
+            "visual_description": "Lord Henry's luxurious library in Mayfair. High wainscoting of olive-stained oak and a cream-coloured frieze. Sunlight streams through small leaded windows, illuminating brickdust felt carpets and silk Persian rugs. A satinwood table holds art objects. Rich, artistic, and comfortable."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V.",
+      "start_s": 6740.118,
+      "end_s": 8237.289,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "VANE_SITTING_ROOM",
+            "location_header": "INT. VANE LODGINGS - SITTING ROOM - DAY",
+            "visual_description": "A dingy Victorian sitting-room in London, filled with intrusive afternoon light. Faded, mismatched furniture including a single worn armchair and a table cluttered with sewing materials. Peeling wallpaper and a window looking out onto a busy street. A tawdry theatrical dress lies on a chair. Atmosphere of shabby genteel poverty."
+          },
+          {
+            "identifier": "HYDE_PARK_WALK",
+            "location_header": "EXT. HYDE PARK - AFTERNOON",
+            "visual_description": "Hyde Park in the late Victorian afternoon. Patches of bright sunlight filter through trees onto the dusty carriage paths. Vibrant tulip beds arranged in rings flame with color. The Achilles Statue stands in the background. Crowds of people with colorful parasols. Atmosphere of bustling leisure contrasting with an underlying tension."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI.",
+      "start_s": 8237.289,
+      "end_s": 9105.559,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BRISTOL_PRIVATE_ROOM",
+            "location_header": "INT. THE BRISTOL - PRIVATE ROOM - EVENING",
+            "visual_description": "A private dining room at the Bristol Hotel. Elegant Victorian luxury. A small round table set for three with fine silver and crystal. A centerpiece of purple-lipped irises. A fire-breathing silver dragon lighter sits on the cloth. Warm ambient lighting, plush chairs, and an air of upper-class comfort and exclusivity."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII.",
+      "start_s": 9105.559,
+      "end_s": 10637.702,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "THEATRE_BOX",
+            "location_header": "INT. THEATRE BOX - NIGHT",
+            "visual_description": "A cramped, opulent Victorian theatre box overlooking a crowded pit. The space is sweltering, lit by the harsh glare of gaslight which flames like a monstrous yellow dahlia. Velvet curtains frame the view of the stage and the hazy, smoke-filled auditorium beyond. The atmosphere is oppressive, tawdry, and loud."
+          },
+          {
+            "identifier": "THEATRE_GREENROOM",
+            "location_header": "INT. THEATRE GREENROOM - NIGHT",
+            "visual_description": "A dingy greenroom behind the scenes of a Victorian theatre. Gas jets flicker in wire cages, casting harsh shadows on painted walls. A worn sofa and a dressing table cluttered with greasepaint and powders sit amidst the gloom. The air is thick with dust and the smell of old costumes. A sense of artificiality and faded glamour."
+          },
+          {
+            "identifier": "COVENT_GARDEN_DAWN",
+            "location_header": "EXT. COVENT GARDEN - DAWN",
+            "visual_description": "Covent Garden market at the break of dawn. The sky is a hollow pearl above grey, sun-bleached portico pillars. Huge carts filled with white lilies, striped tulips, and red roses stand in the polished empty street. Piles of jade-green vegetables and crates of fruit create a riot of color against the cold stone. Pigeons peck at seeds on the cobbles."
+          },
+          {
+            "identifier": "DORIAN_BEDROOM",
+            "location_header": "INT. DORIAN GRAY'S BEDROOM - MORNING",
+            "visual_description": "Dorian Gray's large octagonal bedroom. Luxurious and artistic, with cream-coloured silk blinds filtering the light. A large screen of gilt Spanish leather stands in the corner. Curious Renaissance tapestries hang on the walls. An atmosphere of refined luxury and hidden secrets."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII.",
+      "start_s": 10637.702,
+      "end_s": 12386.329,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_BEDROOM",
+            "location_header": "INT. DORIAN GRAY'S BEDROOM - DAY",
+            "visual_description": "Dorian Gray's large octagonal bedroom. Luxurious and artistic, with cream-coloured silk blinds filtering the light. A large screen of gilt Spanish leather stands in the corner. Curious Renaissance tapestries hang on the walls. An atmosphere of refined luxury and hidden secrets."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX.",
+      "start_s": 12386.329,
+      "end_s": 13611.398,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_LIBRARY",
+            "location_header": "INT. DORIAN'S LIBRARY - DAY",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse. Sunlight filters through green garden foliage outside large windows. The room is filled with artistic treasures: a velvet couch, a satinwood table, and shelves of bound books. A large decorative screen stands in one corner. The remains of a breakfast with Venetian glass and silver sit on a table. Atmosphere of aesthetic indulgence."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X.",
+      "start_s": 13611.398,
+      "end_s": 14733.74,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_LIBRARY",
+            "location_header": "INT. DORIAN'S LIBRARY - DAY",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse. Sunlight filters through green garden foliage outside large windows. The room is filled with artistic treasures: a velvet couch, a satinwood table, and shelves of bound books. A large decorative screen stands in one corner. The remains of a breakfast with Venetian glass and silver sit on a table. Atmosphere of aesthetic indulgence."
+          },
+          {
+            "identifier": "DORIAN_SCHOOLROOM",
+            "location_header": "INT. OLD SCHOOLROOM - DAY",
+            "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs."
+          },
+          {
+            "identifier": "LONDON_CLUB",
+            "location_header": "INT. LONDON CLUB - NIGHT",
+            "visual_description": "A gentleman's club morning-room in London. Late evening. Dark mahogany furniture, leather armchairs, and the low hum of exclusive quiet. Gas lamps cast a warm, subdued glow on oil paintings and newspapers. An atmosphere of bored aristocratic leisure."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER XI.",
+      "start_s": 14733.74,
+      "end_s": 17540.087,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_LIBRARY",
+            "location_header": "INT. DORIAN'S LIBRARY - DAY",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse. Sunlight filters through green garden foliage outside large windows. The room is filled with artistic treasures: a velvet couch, a satinwood table, and shelves of bound books. A large decorative screen stands in one corner. The remains of a breakfast with Venetian glass and silver sit on a table. Atmosphere of aesthetic indulgence."
+          },
+          {
+            "identifier": "DORIAN_SCHOOLROOM",
+            "location_header": "INT. OLD SCHOOLROOM - DAY",
+            "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XII.",
+      "start_s": 17540.087,
+      "end_s": 18382.681,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "EXT_LONDON_STREET_FOG",
+            "location_header": "EXT. GROSVENOR SQUARE - NIGHT",
+            "visual_description": "A London street corner shrouded in thick, swirling yellow fog at night. Gas lamps appear as dim halos in the gloom. The pavement is slick with moisture. Shadowy outlines of railings and Victorian townhouses are barely visible. Cold, oppressive atmosphere."
+          },
+          {
+            "identifier": "DORIAN_LIBRARY_NIGHT",
+            "location_header": "INT. DORIAN'S LIBRARY - NIGHT",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse at night. A bright wood fire blazes in the open hearth. Oil lamps cast warm pools of light on olive-stained oak wainscoting and silk Persian rugs. A marquetry table holds a silver spirit-case and cut-glass tumblers. Atmosphere of wealth and private confrontation."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "CHAPTER XIII.",
+      "start_s": 18382.681,
+      "end_s": 19234.416,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_SCHOOLROOM",
+            "location_header": "INT. OLD SCHOOLROOM - NIGHT",
+            "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs."
+          },
+          {
+            "identifier": "DORIAN_BALCONY",
+            "location_header": "EXT. DORIAN'S BALCONY - NIGHT",
+            "visual_description": "A stone balcony overlooking a London square at night. The sky is a deep indigo starry expanse. Below, the wet pavement reflects the yellow glow of gas lamps. Black iron railings and leafless tree branches silhouette against the gloom. A cold, crisp, and solitary atmosphere."
+          },
+          {
+            "identifier": "DORIAN_LIBRARY",
+            "location_header": "INT. DORIAN'S LIBRARY - NIGHT",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse at night. A bright wood fire blazes in the open hearth. Oil lamps cast warm pools of light on olive-stained oak wainscoting and silk Persian rugs. A marquetry table holds a silver spirit-case and cut-glass tumblers. Atmosphere of wealth and private confrontation."
+          },
+          {
+            "identifier": "DORIAN_HALL",
+            "location_header": "INT. DORIAN GRAY'S HALL - NIGHT",
+            "visual_description": "A grand Victorian entrance hall. Black and white marble floor. A large mahogany table for hats and coats. A grandfather clock stands sentinel. Dim gaslight casts long shadows. The atmosphere is quiet and echoey."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "CHAPTER XIV.",
+      "start_s": 19234.416,
+      "end_s": 20471.868,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_BEDROOM",
+            "location_header": "INT. DORIAN GRAY'S BEDROOM - DAY",
+            "visual_description": "Dorian Gray's large octagonal bedroom. Luxurious and artistic, with cream-coloured silk blinds filtering the light. A large screen of gilt Spanish leather stands in the corner. Curious Renaissance tapestries hang on the walls. An atmosphere of refined luxury and hidden secrets."
+          },
+          {
+            "identifier": "DORIAN_LIBRARY",
+            "location_header": "INT. DORIAN'S LIBRARY - DAY",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse. Sunlight filters through green garden foliage outside large windows. The room is filled with artistic treasures: a velvet couch, a satinwood table, and shelves of bound books. A large decorative screen stands in one corner. The remains of a breakfast with Venetian glass and silver sit on a table. Atmosphere of aesthetic indulgence."
+          },
+          {
+            "identifier": "DORIAN_SCHOOLROOM",
+            "location_header": "INT. OLD SCHOOLROOM - DAY",
+            "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "CHAPTER XV.",
+      "start_s": 20471.868,
+      "end_s": 21349.959,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "LADY_NARBOROUGH_DRAWING_ROOM",
+            "location_header": "INT. LADY NARBOROUGH'S DRAWING ROOM - EVENING",
+            "visual_description": "A cluttered, comfortable Victorian drawing room. Mauve drapery on the mantelshelf and a large ormolu gilt clock. Plush armchairs, tables filled with knick-knacks, and soft lamp lighting. An atmosphere of busy, upper-class domesticity."
+          },
+          {
+            "identifier": "LADY_NARBOROUGH_DINING_ROOM",
+            "location_header": "INT. LADY NARBOROUGH'S DINING ROOM - EVENING",
+            "visual_description": "A formal Victorian dining room in soft candlelight. A long mahogany table set with white linen, sparkling crystal, and silver. Dark walls, heavy curtains, and portraits in shadow. An atmosphere of refined social gathering."
+          },
+          {
+            "identifier": "DORIAN_LIBRARY",
+            "location_header": "INT. DORIAN'S LIBRARY - NIGHT",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse at night. A bright wood fire blazes in the open hearth. Oil lamps cast warm pools of light on olive-stained oak wainscoting and silk Persian rugs. A marquetry table holds a silver spirit-case and cut-glass tumblers. Atmosphere of wealth and private confrontation."
+          },
+          {
+            "identifier": "EXT_BOND_STREET_NIGHT",
+            "location_header": "EXT. BOND STREET - NIGHT",
+            "visual_description": "Bond Street at midnight. Elegant shop fronts are dark and shuttered. Gas lamps cast pools of yellow light on the damp cobblestones. A hansom cab with a horse stands waiting. The street is empty and shadowed. Mysterious and quiet."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "CHAPTER XVI.",
+      "start_s": 21349.959,
+      "end_s": 22411.624,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HANSOM_CAB_NIGHT",
+            "location_header": "INT. HANSOM CAB - NIGHT",
+            "visual_description": "Interior of a hansom cab rattling through rain-swept Victorian London at night. The side-windows are clogged with grey-flannel mist, blurring the gas lamps outside into ghastly yellow halos. Leather seats are worn, shadows deep. The atmosphere is claustrophobic, damp, and heavy with dread."
+          },
+          {
+            "identifier": "EXT_LONDON_DOCKS_NIGHT",
+            "location_header": "EXT. LONDON DOCKS - NIGHT",
+            "visual_description": "A sordid London dockside street at night. Low roofs and jagged chimney-stacks silhouette against a dark sky. Black masts of ships rise in the background with wreaths of white mist clinging to them like ghostly sails. Gas lanterns gleam on slimy, wet pavements that look like black mackintosh. Oppressive and ominous."
+          },
+          {
+            "identifier": "INT_OPIUM_DEN",
+            "location_header": "INT. OPIUM DEN - NIGHT",
+            "visual_description": "A long, low room in a shabby dockside house, formerly a dancing-saloon. Shrill gas-jets flare in wire cages, reflected in fly-blown, distorted mirrors. The floor is covered in ochre sawdust stained with liquor. Wooden tables, a charcoal stove, and a tawdry painted bar. The air is thick with shadows and smoke."
+          },
+          {
+            "identifier": "EXT_DOCK_ARCHWAY_NIGHT",
+            "location_header": "EXT. DOCK ARCHWAY - NIGHT",
+            "visual_description": "A dim, brick archway near the London docks at night. Shadows are deep and impenetrable. A single flickering lamp casts wavering light on wet cobblestones and dripping walls. The atmosphere is tense, enclosed, and dangerous, with the smell of the river and rain."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "CHAPTER XVII.",
+      "start_s": 22411.624,
+      "end_s": 22987.892,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_SELBY_CONSERVATORY",
+            "location_header": "INT. SELBY ROYAL - CONSERVATORY - EVENING",
+            "visual_description": "The conservatory at Selby Royal during tea-time. A huge lace-covered lamp casts mellow light on delicate china and hammered silver. Palms and exotic plants create green shadows. A peach-coloured divan and wicker chairs provide seating. The atmosphere is elegant, wealthy, and relaxed, with a backdrop of glass and garden twilight."
+          },
+          {
+            "identifier": "INT_SELBY_DRAWING_ROOM",
+            "location_header": "INT. SELBY ROYAL - DRAWING ROOM - EVENING",
+            "visual_description": "The blue drawing-room at Selby Royal. Plush blue sofas, elegant Victorian decor, and soft lighting. A refined space for recovery and quiet conversation, contrasting with the earlier social scene."
+          },
+          {
+            "identifier": "INT_SELBY_DINING_ROOM",
+            "location_header": "INT. SELBY ROYAL - DINING ROOM - NIGHT",
+            "visual_description": "A formal dining room at Selby Royal. A long table set for dinner with sparkling crystal and silver. The atmosphere is socially charged but tense for Dorian. Large windows look out into the darkness."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "CHAPTER XVIII.",
+      "start_s": 22987.892,
+      "end_s": 24038.898,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_SELBY_DORIAN_ROOM",
+            "location_header": "INT. SELBY ROYAL - DORIAN'S ROOM - DAY",
+            "visual_description": "Dorian Gray's private room at Selby Royal. A large space with leaded panes looking out onto the estate. Tapestries hang on the walls. The atmosphere is haunted and oppressive, filled with the character's paranoia."
+          },
+          {
+            "identifier": "EXT_SELBY_WOODS",
+            "location_header": "EXT. SELBY ROYAL - WOODS - DAY",
+            "visual_description": "A pine-wood on the Selby estate in winter. Crisp frost lies like salt on the grass. A thin film of ice borders a reed-grown lake. The sky is an inverted cup of blue metal. Withered bracken and rough undergrowth create a texture of decay amidst the beauty."
+          },
+          {
+            "identifier": "EXT_SELBY_TERRACE",
+            "location_header": "EXT. SELBY ROYAL - TERRACE - DAY",
+            "visual_description": "The great stone terrace at Selby Royal, leading down from the conservatory. Views of the garden and park beyond. Cold winter sunlight."
+          },
+          {
+            "identifier": "INT_SELBY_STABLE",
+            "location_header": "INT. SELBY ROYAL - STABLE - EVENING",
+            "visual_description": "A rough stable at the Home Farm. A single coarse candle stuck in a bottle sputters, casting long shadows. A dead body lies on a heap of sacking. The air smells of horses and straw. Grim and foreboding."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "CHAPTER XIX.",
+      "start_s": 24038.898,
+      "end_s": 25171.745,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "INT_HENRY_DINING_ROOM",
+            "location_header": "INT. LORD HENRY'S DINING ROOM - NIGHT",
+            "visual_description": "A lavish Victorian dining room at night. A table set with fine china and a red copper bowl of rose-water. A pyramid of strawberries on a plate. Soft, warm candlelight reflects off silver and crystal. Rich dark wood panelling and heavy velvet curtains."
+          },
+          {
+            "identifier": "INT_HENRY_MUSIC_ROOM",
+            "location_header": "INT. LORD HENRY'S MUSIC ROOM - NIGHT",
+            "visual_description": "An elegant music room in a Mayfair townhouse, lit by a large honey-coloured moon through the window and dim lamps. A grand piano with black and white keys stands open. A bamboo perch holds a grey parrot. Atmospheric, dusky, and artistic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "CHAPTER XX.",
+      "start_s": 25171.745,
+      "end_s": 25896.145,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "DORIAN_LIBRARY_NIGHT",
+            "location_header": "INT. DORIAN'S LIBRARY - NIGHT",
+            "visual_description": "A luxurious ground-floor library in a Mayfair townhouse at night. A bright wood fire blazes in the open hearth. Oil lamps cast warm pools of light on olive-stained oak wainscoting and silk Persian rugs. A marquetry table holds a silver spirit-case and cut-glass tumblers. Atmosphere of wealth and private confrontation."
+          },
+          {
+            "identifier": "DORIAN_SCHOOLROOM",
+            "location_header": "INT. OLD SCHOOLROOM - NIGHT",
+            "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "NARRATOR",
+      "name": "Narrator",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "articulate",
+        "observant",
+        "observational"
+      ],
+      "visual_attributes": [],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 650,
+      "image_key": null,
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/NARRATOR.mp3"
+    },
+    {
+      "identifier": "LORD_HENRY",
+      "name": "Lord Henry Wotton",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Harry"
+      ],
+      "voice_attributes": [
+        "languid",
+        "cynical",
+        "musical",
+        "deep"
+      ],
+      "visual_attributes": [
+        "pointed brown beard",
+        "olive complexion",
+        "worn expression",
+        "cool white hands"
+      ],
+      "roles": [
+        "aristocrat",
+        "wit"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 402,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_HENRY.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_HENRY.mp3"
+    },
+    {
+      "identifier": "DORIAN_GRAY",
+      "name": "Dorian Gray",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "young",
+        "petulant",
+        "charming",
+        "innocent"
+      ],
+      "visual_attributes": [
+        "finely curved scarlet lips",
+        "frank blue eyes",
+        "crisp gold hair",
+        "extraordinarily beautiful"
+      ],
+      "roles": [
+        "protagonist",
+        "model"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 386,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DORIAN_GRAY.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DORIAN_GRAY.mp3"
+    },
+    {
+      "identifier": "BASIL_HALLWARD",
+      "name": "Basil Hallward",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "rugged",
+        "intellectual",
+        "earnest"
+      ],
+      "visual_attributes": [
+        "rugged strong face",
+        "coal-black hair",
+        "intellectual expression"
+      ],
+      "roles": [
+        "artist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_cultivated"
+      },
+      "dialogue_count": 206,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/BASIL_HALLWARD.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/BASIL_HALLWARD.mp3"
+    },
+    {
+      "identifier": "DUCHESS_OF_MONMOUTH",
+      "name": "Duchess of Monmouth",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Gladys"
+      ],
+      "voice_attributes": [
+        "witty",
+        "flirtatious",
+        "intelligent"
+      ],
+      "visual_attributes": [
+        "pretty face",
+        "wonderful eyes",
+        "full red lips",
+        "white hands"
+      ],
+      "roles": [
+        "aristocrat",
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 66,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_MONMOUTH.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_MONMOUTH.mp3"
+    },
+    {
+      "identifier": "JAMES_VANE",
+      "name": "James Vane",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Jim"
+      ],
+      "voice_attributes": [
+        "sullen",
+        "rough",
+        "deep",
+        "protective"
+      ],
+      "visual_attributes": [
+        "rough brown hair",
+        "thick-set figure",
+        "large hands",
+        "sullen heavy face",
+        "ill-fitting clothes"
+      ],
+      "roles": [
+        "brother",
+        "sailor",
+        "avenger"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_cockney_tinge"
+      },
+      "dialogue_count": 44,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/JAMES_VANE.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/JAMES_VANE.mp3"
+    },
+    {
+      "identifier": "SIBYL_VANE",
+      "name": "Sibyl Vane",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "whispering",
+        "musical",
+        "joyous",
+        "naive"
+      ],
+      "visual_attributes": [
+        "slender figure",
+        "flowerlike face",
+        "small head",
+        "delicate throat",
+        "trembling lips",
+        "shabby but neat dress"
+      ],
+      "roles": [
+        "actress",
+        "sister",
+        "daughter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_refined"
+      },
+      "dialogue_count": 43,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIBYL_VANE.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIBYL_VANE.mp3"
+    },
+    {
+      "identifier": "LADY_NARBOROUGH",
+      "name": "Lady Narborough",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "garrulous",
+        "witty",
+        "sophisticated",
+        "loud"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "expensive gown",
+        "shabby fan",
+        "clever face"
+      ],
+      "roles": [
+        "socialite",
+        "hostess"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 23,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_NARBOROUGH.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_NARBOROUGH.mp3"
+    },
+    {
+      "identifier": "ALAN_CAMPBELL",
+      "name": "Alan Campbell",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "hard",
+        "cold",
+        "desperate",
+        "stern"
+      ],
+      "visual_attributes": [
+        "pale face",
+        "coal-black hair",
+        "dark eyebrows",
+        "stern expression",
+        "Astrakhan coat"
+      ],
+      "roles": [
+        "scientist",
+        "musician",
+        "former_friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_educated"
+      },
+      "dialogue_count": 21,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ALAN_CAMPBELL.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ALAN_CAMPBELL.mp3"
+    },
+    {
+      "identifier": "MRS_VANE",
+      "name": "Mrs. Vane",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "querulous",
+        "theatrical",
+        "tired",
+        "faded"
+      ],
+      "visual_attributes": [
+        "thin bismuth-whitened hands",
+        "faded tired face",
+        "coarse powder",
+        "dry lips",
+        "dyed hair"
+      ],
+      "roles": [
+        "mother",
+        "actress"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_theatrical"
+      },
+      "dialogue_count": 18,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANE.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANE.mp3"
+    },
+    {
+      "identifier": "LORD_FERMOR",
+      "name": "Lord Fermor",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "Uncle George"
+      ],
+      "voice_attributes": [
+        "gruff",
+        "genial",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "bushy white eyebrows",
+        "ruddy complexion",
+        "rough shooting-coat",
+        "aristocratic bearing"
+      ],
+      "roles": [
+        "aristocrat",
+        "uncle"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 18,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_FERMOR.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_FERMOR.mp3"
+    },
+    {
+      "identifier": "DUCHESS_OF_HARLEY",
+      "name": "Duchess of Harley",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "good-natured",
+        "bubbly",
+        "loud"
+      ],
+      "visual_attributes": [
+        "stout figure",
+        "ample proportions",
+        "expensive bonnet",
+        "smiling face"
+      ],
+      "roles": [
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_HARLEY.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_HARLEY.mp3"
+    },
+    {
+      "identifier": "SIR_THOMAS",
+      "name": "Sir Thomas Burdon",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "supercilious",
+        "pompous",
+        "dry"
+      ],
+      "visual_attributes": [
+        "tight lips",
+        "serious expression",
+        "formal attire",
+        "balding"
+      ],
+      "roles": [
+        "politician",
+        "radical member"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_THOMAS.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_THOMAS.mp3"
+    },
+    {
+      "identifier": "FRANCIS",
+      "name": "Francis",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "deferential",
+        "tired",
+        "polite"
+      ],
+      "visual_attributes": [
+        "neat appearance",
+        "tired eyes",
+        "servant's livery",
+        "slippers"
+      ],
+      "roles": [
+        "valet"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_servant"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/FRANCIS.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/FRANCIS.mp3"
+    },
+    {
+      "identifier": "WOMAN_IN_SQUARE",
+      "name": "Woman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "OPIUM_DEN_WOMAN"
+      ],
+      "voice_attributes": [
+        "hoarse",
+        "laughing",
+        "spiteful",
+        "haggard"
+      ],
+      "visual_attributes": [
+        "fluttering shawl",
+        "ragged clothes",
+        "painted lips",
+        "haggard face",
+        "tawdry dress",
+        "sodden eyes"
+      ],
+      "roles": [
+        "passerby",
+        "addict",
+        "informant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 10,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/WOMAN_IN_SQUARE.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/WOMAN_IN_SQUARE.mp3"
+    },
+    {
+      "identifier": "ADRIAN_SINGLETON",
+      "name": "Adrian Singleton",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "listless",
+        "hollow",
+        "weary"
+      ],
+      "visual_attributes": [
+        "smooth yellow hair",
+        "haggard face",
+        "dilated eyes",
+        "shabby clothes"
+      ],
+      "roles": [
+        "addict",
+        "former_friend"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ADRIAN_SINGLETON.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ADRIAN_SINGLETON.mp3"
+    },
+    {
+      "identifier": "MR_ERSKINE",
+      "name": "Mr. Erskine",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cultured",
+        "weary",
+        "witty"
+      ],
+      "visual_attributes": [
+        "charmingly aged face",
+        "refined features",
+        "thoughtful eyes"
+      ],
+      "roles": [
+        "gentleman",
+        "intellectual"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_cultivated"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_ERSKINE.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_ERSKINE.mp3"
+    },
+    {
+      "identifier": "LADY_HENRY",
+      "name": "Lady Henry",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Victoria"
+      ],
+      "voice_attributes": [
+        "shrill",
+        "nervous",
+        "chattering"
+      ],
+      "visual_attributes": [
+        "straw-coloured hair",
+        "vague blue eyes",
+        "untidy dress",
+        "nervous expression"
+      ],
+      "roles": [
+        "wife",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_HENRY.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_HENRY.mp3"
+    },
+    {
+      "identifier": "THORNTON",
+      "name": "Thornton",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "respectful",
+        "grave"
+      ],
+      "visual_attributes": [
+        "gamekeeper's attire",
+        "weather-beaten face"
+      ],
+      "roles": [
+        "servant",
+        "head-keeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_rural"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/THORNTON.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/THORNTON.mp3"
+    },
+    {
+      "identifier": "MR_HUBBARD",
+      "name": "Mr. Hubbard",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "genial",
+        "deferential",
+        "breathless"
+      ],
+      "visual_attributes": [
+        "florid red-whiskered face",
+        "short stature",
+        "fat freckled hands"
+      ],
+      "roles": [
+        "frame-maker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_tradesman"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_HUBBARD.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_HUBBARD.mp3"
+    },
+    {
+      "identifier": "LADY_AGATHA",
+      "name": "Lady Agatha",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [
+        "Aunt Agatha"
+      ],
+      "voice_attributes": [
+        "earnest",
+        "charitable",
+        "bustling"
+      ],
+      "visual_attributes": [
+        "kindly face",
+        "elaborate bonnet",
+        "Victorian gown",
+        "worried expression"
+      ],
+      "roles": [
+        "aristocrat",
+        "philanthropist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_AGATHA.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_AGATHA.mp3"
+    },
+    {
+      "identifier": "SIR_GEOFFREY_CLOUSTON",
+      "name": "Sir Geoffrey",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Geoffrey"
+      ],
+      "voice_attributes": [
+        "bluff",
+        "loud",
+        "aristocratic"
+      ],
+      "visual_attributes": [
+        "shooting gear",
+        "red face",
+        "thick moustache"
+      ],
+      "roles": [
+        "aristocrat",
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_GEOFFREY_CLOUSTON.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_GEOFFREY_CLOUSTON.mp3"
+    },
+    {
+      "identifier": "VICTOR",
+      "name": "Victor",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "smooth",
+        "deferential"
+      ],
+      "visual_attributes": [
+        "neat appearance",
+        "dark hair",
+        "smooth face",
+        "unobtrusive manner",
+        "servant's livery"
+      ],
+      "roles": [
+        "valet"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "french"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/VICTOR.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/VICTOR.mp3"
+    },
+    {
+      "identifier": "CAB_DRIVER",
+      "name": "Cab Driver",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "hesitant"
+      ],
+      "visual_attributes": [
+        "heavy coat",
+        "weathered face"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/CAB_DRIVER.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/CAB_DRIVER.mp3"
+    },
+    {
+      "identifier": "MRS_LEAF",
+      "name": "Mrs. Leaf",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "garrulous",
+        "tremulous",
+        "kindly"
+      ],
+      "visual_attributes": [
+        "black silk dress",
+        "wrinkled hands",
+        "old-fashioned mittens",
+        "kindly face"
+      ],
+      "roles": [
+        "housekeeper"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_servant"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_LEAF.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_LEAF.mp3"
+    },
+    {
+      "identifier": "LADY_RUXTON",
+      "name": "Lady Ruxton",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "curious",
+        "smoking"
+      ],
+      "visual_attributes": [
+        "hooked nose",
+        "overdressed"
+      ],
+      "roles": [
+        "guest"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_RUXTON.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_RUXTON.mp3"
+    },
+    {
+      "identifier": "POLICEMAN",
+      "name": "Policeman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "distant"
+      ],
+      "visual_attributes": [
+        "police uniform",
+        "helmet",
+        "lantern"
+      ],
+      "roles": [
+        "officer"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_cockney"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/POLICEMAN.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/POLICEMAN.mp3"
+    },
+    {
+      "identifier": "PARKER",
+      "name": "Parker",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "blinking eyes",
+        "subservient expression"
+      ],
+      "roles": [
+        "butler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british_servant"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/PARKER.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/PARKER.mp3"
+    },
+    {
+      "identifier": "MRS_VANDELEUR",
+      "name": "Mrs. Vandeleur",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "timid",
+        "earnest",
+        "quiet"
+      ],
+      "visual_attributes": [
+        "dowdy appearance",
+        "plain dress",
+        "saintly expression"
+      ],
+      "roles": [
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANDELEUR.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANDELEUR.mp3"
+    },
+    {
+      "identifier": "ELDER_GENTLEMAN",
+      "name": "Gentleman",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "shocked",
+        "whispering"
+      ],
+      "visual_attributes": [
+        "evening dress",
+        "top hat",
+        "elderly face"
+      ],
+      "roles": [
+        "passerby"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ELDER_GENTLEMAN.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ELDER_GENTLEMAN.mp3"
+    },
+    {
+      "identifier": "YOUNG_PASSERBY",
+      "name": "Passerby",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "whispering"
+      ],
+      "visual_attributes": [
+        "evening dress",
+        "top hat",
+        "young face"
+      ],
+      "roles": [
+        "passerby"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british_upper_class"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/YOUNG_PASSERBY.png",
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/YOUNG_PASSERBY.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "BASIL_STUDIO",
+      "ordinal": 0,
+      "location_header": "INT. BASIL'S STUDIO - DAY",
+      "visual_description": "A spacious Victorian artist's studio filled with soft summer light. A large window with tussore-silk curtains dominates one wall. In the center, an upright easel holds a portrait. A divan with Persian saddle-bags sits in the corner. Dust motes dance in the air. Rich scents of roses and lilac. Eclectic, artistic clutter.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BASIL_STUDIO.jpg"
+    },
+    {
+      "identifier": "INT_HENRY_DINING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. LORD HENRY'S DINING ROOM - NIGHT",
+      "visual_description": "A lavish Victorian dining room at night. A table set with fine china and a red copper bowl of rose-water. A pyramid of strawberries on a plate. Soft, warm candlelight reflects off silver and crystal. Rich dark wood panelling and heavy velvet curtains.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HENRY_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "LADY_NARBOROUGH_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. LADY NARBOROUGH'S DRAWING ROOM - EVENING",
+      "visual_description": "A cluttered, comfortable Victorian drawing room. Mauve drapery on the mantelshelf and a large ormolu gilt clock. Plush armchairs, tables filled with knick-knacks, and soft lamp lighting. An atmosphere of busy, upper-class domesticity.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_NARBOROUGH_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_SELBY_CONSERVATORY",
+      "ordinal": 0,
+      "location_header": "INT. SELBY ROYAL - CONSERVATORY - EVENING",
+      "visual_description": "The conservatory at Selby Royal during tea-time. A huge lace-covered lamp casts mellow light on delicate china and hammered silver. Palms and exotic plants create green shadows. A peach-coloured divan and wicker chairs provide seating. The atmosphere is elegant, wealthy, and relaxed, with a backdrop of glass and garden twilight.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_CONSERVATORY.jpg"
+    },
+    {
+      "identifier": "INT_SELBY_DORIAN_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. SELBY ROYAL - DORIAN'S ROOM - DAY",
+      "visual_description": "Dorian Gray's private room at Selby Royal. A large space with leaded panes looking out onto the estate. Tapestries hang on the walls. The atmosphere is haunted and oppressive, filled with the character's paranoia.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DORIAN_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "EXT_LONDON_STREET_FOG",
+      "ordinal": 0,
+      "location_header": "EXT. GROSVENOR SQUARE - NIGHT",
+      "visual_description": "A London street corner shrouded in thick, swirling yellow fog at night. Gas lamps appear as dim halos in the gloom. The pavement is slick with moisture. Shadowy outlines of railings and Victorian townhouses are barely visible. Cold, oppressive atmosphere.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_LONDON_STREET_FOG.jpg"
+    },
+    {
+      "identifier": "INT_HANSOM_CAB_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. HANSOM CAB - NIGHT",
+      "visual_description": "Interior of a hansom cab rattling through rain-swept Victorian London at night. The side-windows are clogged with grey-flannel mist, blurring the gas lamps outside into ghastly yellow halos. Leather seats are worn, shadows deep. The atmosphere is claustrophobic, damp, and heavy with dread.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HANSOM_CAB_NIGHT.jpg"
+    },
+    {
+      "identifier": "FERMOR_ROOMS",
+      "ordinal": 0,
+      "location_header": "INT. LORD FERMOR'S CHAMBERS - DAY",
+      "visual_description": "A bachelor's sitting room in the Albany, London. Mid-Victorian era. Comfortable but slightly rough masculine atmosphere. Leather armchairs, a table cluttered with newspapers and a cheroot box. Smoke hangs in the air. Natural daylight filters in.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_FERMOR_ROOMS.jpg"
+    },
+    {
+      "identifier": "HENRY_LIBRARY",
+      "ordinal": 0,
+      "location_header": "INT. LORD HENRY'S LIBRARY - DAY",
+      "visual_description": "Lord Henry's luxurious library in Mayfair. High wainscoting of olive-stained oak and a cream-coloured frieze. Sunlight streams through small leaded windows, illuminating brickdust felt carpets and silk Persian rugs. A satinwood table holds art objects. Rich, artistic, and comfortable.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_HENRY_LIBRARY.jpg"
+    },
+    {
+      "identifier": "VANE_SITTING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. VANE LODGINGS - SITTING ROOM - DAY",
+      "visual_description": "A dingy Victorian sitting-room in London, filled with intrusive afternoon light. Faded, mismatched furniture including a single worn armchair and a table cluttered with sewing materials. Peeling wallpaper and a window looking out onto a busy street. A tawdry theatrical dress lies on a chair. Atmosphere of shabby genteel poverty.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_VANE_SITTING_ROOM.jpg"
+    },
+    {
+      "identifier": "BRISTOL_PRIVATE_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. THE BRISTOL - PRIVATE ROOM - EVENING",
+      "visual_description": "A private dining room at the Bristol Hotel. Elegant Victorian luxury. A small round table set for three with fine silver and crystal. A centerpiece of purple-lipped irises. A fire-breathing silver dragon lighter sits on the cloth. Warm ambient lighting, plush chairs, and an air of upper-class comfort and exclusivity.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BRISTOL_PRIVATE_ROOM.jpg"
+    },
+    {
+      "identifier": "THEATRE_BOX",
+      "ordinal": 0,
+      "location_header": "INT. THEATRE BOX - NIGHT",
+      "visual_description": "A cramped, opulent Victorian theatre box overlooking a crowded pit. The space is sweltering, lit by the harsh glare of gaslight which flames like a monstrous yellow dahlia. Velvet curtains frame the view of the stage and the hazy, smoke-filled auditorium beyond. The atmosphere is oppressive, tawdry, and loud.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_THEATRE_BOX.jpg"
+    },
+    {
+      "identifier": "DORIAN_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. DORIAN GRAY'S BEDROOM - DAY",
+      "visual_description": "Dorian Gray's large octagonal bedroom. Luxurious and artistic, with cream-coloured silk blinds filtering the light. A large screen of gilt Spanish leather stands in the corner. Curious Renaissance tapestries hang on the walls. An atmosphere of refined luxury and hidden secrets.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_BEDROOM.jpg"
+    },
+    {
+      "identifier": "DORIAN_LIBRARY_NIGHT",
+      "ordinal": 0,
+      "location_header": "INT. DORIAN'S LIBRARY - NIGHT",
+      "visual_description": "A luxurious ground-floor library in a Mayfair townhouse at night. A bright wood fire blazes in the open hearth. Oil lamps cast warm pools of light on olive-stained oak wainscoting and silk Persian rugs. A marquetry table holds a silver spirit-case and cut-glass tumblers. Atmosphere of wealth and private confrontation.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_LIBRARY_NIGHT.jpg"
+    },
+    {
+      "identifier": "HYDE_PARK_WALK",
+      "ordinal": 1,
+      "location_header": "EXT. HYDE PARK - AFTERNOON",
+      "visual_description": "Hyde Park in the late Victorian afternoon. Patches of bright sunlight filter through trees onto the dusty carriage paths. Vibrant tulip beds arranged in rings flame with color. The Achilles Statue stands in the background. Crowds of people with colorful parasols. Atmosphere of bustling leisure contrasting with an underlying tension.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_HYDE_PARK_WALK.jpg"
+    },
+    {
+      "identifier": "EXT_SELBY_WOODS",
+      "ordinal": 1,
+      "location_header": "EXT. SELBY ROYAL - WOODS - DAY",
+      "visual_description": "A pine-wood on the Selby estate in winter. Crisp frost lies like salt on the grass. A thin film of ice borders a reed-grown lake. The sky is an inverted cup of blue metal. Withered bracken and rough undergrowth create a texture of decay amidst the beauty.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_SELBY_WOODS.jpg"
+    },
+    {
+      "identifier": "LADY_NARBOROUGH_DINING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LADY NARBOROUGH'S DINING ROOM - EVENING",
+      "visual_description": "A formal Victorian dining room in soft candlelight. A long mahogany table set with white linen, sparkling crystal, and silver. Dark walls, heavy curtains, and portraits in shadow. An atmosphere of refined social gathering.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_NARBOROUGH_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "DORIAN_LIBRARY",
+      "ordinal": 1,
+      "location_header": "INT. DORIAN'S LIBRARY - DAY",
+      "visual_description": "A luxurious ground-floor library in a Mayfair townhouse. Sunlight filters through green garden foliage outside large windows. The room is filled with artistic treasures: a velvet couch, a satinwood table, and shelves of bound books. A large decorative screen stands in one corner. The remains of a breakfast with Venetian glass and silver sit on a table. Atmosphere of aesthetic indulgence.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_LIBRARY.jpg"
+    },
+    {
+      "identifier": "DORIAN_SCHOOLROOM",
+      "ordinal": 1,
+      "location_header": "INT. OLD SCHOOLROOM - NIGHT",
+      "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_SCHOOLROOM.jpg"
+    },
+    {
+      "identifier": "DORIAN_BALCONY",
+      "ordinal": 1,
+      "location_header": "EXT. DORIAN'S BALCONY - NIGHT",
+      "visual_description": "A stone balcony overlooking a London square at night. The sky is a deep indigo starry expanse. Below, the wet pavement reflects the yellow glow of gas lamps. Black iron railings and leafless tree branches silhouette against the gloom. A cold, crisp, and solitary atmosphere.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_BALCONY.jpg"
+    },
+    {
+      "identifier": "THEATRE_GREENROOM",
+      "ordinal": 1,
+      "location_header": "INT. THEATRE GREENROOM - NIGHT",
+      "visual_description": "A dingy greenroom behind the scenes of a Victorian theatre. Gas jets flicker in wire cages, casting harsh shadows on painted walls. A worn sofa and a dressing table cluttered with greasepaint and powders sit amidst the gloom. The air is thick with dust and the smell of old costumes. A sense of artificiality and faded glamour.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_THEATRE_GREENROOM.jpg"
+    },
+    {
+      "identifier": "BASIL_GARDEN",
+      "ordinal": 1,
+      "location_header": "EXT. BASIL'S GARDEN - DAY",
+      "visual_description": "A lush Victorian garden in high summer. Sunlight filters through a tall laurel bush shading a bamboo seat. White daisies speckle the long unmown grass. Ivy climbs the brick walls. Deep green shadows and bright sun patches. Atmosphere of languid heat and buzzing bees.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BASIL_GARDEN.jpg"
+    },
+    {
+      "identifier": "INT_HENRY_MUSIC_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LORD HENRY'S MUSIC ROOM - NIGHT",
+      "visual_description": "An elegant music room in a Mayfair townhouse, lit by a large honey-coloured moon through the window and dim lamps. A grand piano with black and white keys stands open. A bamboo perch holds a grey parrot. Atmospheric, dusky, and artistic.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HENRY_MUSIC_ROOM.jpg"
+    },
+    {
+      "identifier": "LADY_AGATHA_DINING",
+      "ordinal": 1,
+      "location_header": "INT. LADY AGATHA'S DINING ROOM - DAY",
+      "visual_description": "A grand Victorian dining room filled with guests. A long mahogany table set with white linens, silver, and crystal. Sombre but elegant decor with heavy curtains. Servants in livery moving in the background. Soft ambient chatter.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_AGATHA_DINING.jpg"
+    },
+    {
+      "identifier": "EXT_LONDON_DOCKS_NIGHT",
+      "ordinal": 1,
+      "location_header": "EXT. LONDON DOCKS - NIGHT",
+      "visual_description": "A sordid London dockside street at night. Low roofs and jagged chimney-stacks silhouette against a dark sky. Black masts of ships rise in the background with wreaths of white mist clinging to them like ghostly sails. Gas lanterns gleam on slimy, wet pavements that look like black mackintosh. Oppressive and ominous.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_LONDON_DOCKS_NIGHT.jpg"
+    },
+    {
+      "identifier": "INT_SELBY_DRAWING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. SELBY ROYAL - DRAWING ROOM - EVENING",
+      "visual_description": "The blue drawing-room at Selby Royal. Plush blue sofas, elegant Victorian decor, and soft lighting. A refined space for recovery and quiet conversation, contrasting with the earlier social scene.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "INT_SELBY_DINING_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. SELBY ROYAL - DINING ROOM - NIGHT",
+      "visual_description": "A formal dining room at Selby Royal. A long table set for dinner with sparkling crystal and silver. The atmosphere is socially charged but tense for Dorian. Large windows look out into the darkness.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DINING_ROOM.jpg"
+    },
+    {
+      "identifier": "COVENT_GARDEN_DAWN",
+      "ordinal": 2,
+      "location_header": "EXT. COVENT GARDEN - DAWN",
+      "visual_description": "Covent Garden market at the break of dawn. The sky is a hollow pearl above grey, sun-bleached portico pillars. Huge carts filled with white lilies, striped tulips, and red roses stand in the polished empty street. Piles of jade-green vegetables and crates of fruit create a riot of color against the cold stone. Pigeons peck at seeds on the cobbles.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_COVENT_GARDEN_DAWN.jpg"
+    },
+    {
+      "identifier": "LONDON_CLUB",
+      "ordinal": 2,
+      "location_header": "INT. LONDON CLUB - NIGHT",
+      "visual_description": "A gentleman's club morning-room in London. Late evening. Dark mahogany furniture, leather armchairs, and the low hum of exclusive quiet. Gas lamps cast a warm, subdued glow on oil paintings and newspapers. An atmosphere of bored aristocratic leisure.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LONDON_CLUB.jpg"
+    },
+    {
+      "identifier": "INT_OPIUM_DEN",
+      "ordinal": 2,
+      "location_header": "INT. OPIUM DEN - NIGHT",
+      "visual_description": "A long, low room in a shabby dockside house, formerly a dancing-saloon. Shrill gas-jets flare in wire cages, reflected in fly-blown, distorted mirrors. The floor is covered in ochre sawdust stained with liquor. Wooden tables, a charcoal stove, and a tawdry painted bar. The air is thick with shadows and smoke.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_OPIUM_DEN.jpg"
+    },
+    {
+      "identifier": "EXT_SELBY_TERRACE",
+      "ordinal": 2,
+      "location_header": "EXT. SELBY ROYAL - TERRACE - DAY",
+      "visual_description": "The great stone terrace at Selby Royal, leading down from the conservatory. Views of the garden and park beyond. Cold winter sunlight.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_SELBY_TERRACE.jpg"
+    },
+    {
+      "identifier": "INT_SELBY_STABLE",
+      "ordinal": 3,
+      "location_header": "INT. SELBY ROYAL - STABLE - EVENING",
+      "visual_description": "A rough stable at the Home Farm. A single coarse candle stuck in a bottle sputters, casting long shadows. A dead body lies on a heap of sacking. The air smells of horses and straw. Grim and foreboding.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_STABLE.jpg"
+    },
+    {
+      "identifier": "EXT_DOCK_ARCHWAY_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. DOCK ARCHWAY - NIGHT",
+      "visual_description": "A dim, brick archway near the London docks at night. Shadows are deep and impenetrable. A single flickering lamp casts wavering light on wet cobblestones and dripping walls. The atmosphere is tense, enclosed, and dangerous, with the smell of the river and rain.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_DOCK_ARCHWAY_NIGHT.jpg"
+    },
+    {
+      "identifier": "DORIAN_HALL",
+      "ordinal": 3,
+      "location_header": "INT. DORIAN GRAY'S HALL - NIGHT",
+      "visual_description": "A grand Victorian entrance hall. Black and white marble floor. A large mahogany table for hats and coats. A grandfather clock stands sentinel. Dim gaslight casts long shadows. The atmosphere is quiet and echoey.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_HALL.jpg"
+    },
+    {
+      "identifier": "EXT_BOND_STREET_NIGHT",
+      "ordinal": 3,
+      "location_header": "EXT. BOND STREET - NIGHT",
+      "visual_description": "Bond Street at midnight. Elegant shop fronts are dark and shuttered. Gas lamps cast pools of yellow light on the damp cobblestones. A hansom cab with a horse stands waiting. The street is empty and shadowed. Mysterious and quiet.",
+      "metadata": {},
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_BOND_STREET_NIGHT.jpg"
+    }
+  ],
+  "subjects": [
+    "Didactic fiction",
+    "Supernatural -- Fiction",
+    "Conduct of life -- Fiction",
+    "Portraits -- Fiction",
+    "Great Britain -- History -- Victoria, 1837-1901 -- Fiction",
+    "London (England) -- History -- 1800-1950 -- Fiction",
+    "Appearance (Philosophy) -- Fiction",
+    "Paranormal fiction"
+  ]
+}

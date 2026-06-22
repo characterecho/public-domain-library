@@ -1,9 +1,39 @@
 {
   "version": 2,
-  "generated_at": "2026-03-02T15:09:20Z",
+  "generated_at": "2026-06-22T20:30:55Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "d702b6f26a6d702414de52840e066938512e5a53",
+      "sample": false,
+      "title": "The Picture of Dorian Gray",
+      "author_names": "Oscar Wilde",
+      "publication_type": "novel",
+      "genre_tags": [
+        "classics",
+        "horror",
+        "philosophical"
+      ],
+      "catalog_added_at": "2026-01-30T12:29:12Z",
+      "updated_at": "2026-06-22T20:30:55Z",
+      "duration": {
+        "total_ms": 26003000,
+        "formatted": "7h 13m"
+      },
+      "cover_url": "https://assets.characterecho.com/covers%2Fd702b6f26a6d702414de52840e066938512e5a53.png",
+      "data_checksum": "1614e0efc912a14f4f28c877497aec28118af443a00ef518ef45901d69b2a923",
+      "file_size": 741987692,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
       "sample": false,
