@@ -574,12 +574,75 @@
         </div>
 
         
+        <section class="characters-section">
+          <h2>Cast of Characters</h2>
+          <p class="subtitle">Click to hear their voice</p>
+          <div class="characters-grid">
+            
+            <div class="character-card" data-character-id="ELIZABETH_BENNET" onclick="playVoiceSample('ELIZABETH_BENNET')">
+              <img src="characters/ELIZABETH_BENNET.png" alt="Elizabeth Bennet" class="character-portrait">
+              <div class="character-name">Elizabeth Bennet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="MRS_BENNET" onclick="playVoiceSample('MRS_BENNET')">
+              <img src="characters/MRS_BENNET.png" alt="Mrs. Bennet" class="character-portrait">
+              <div class="character-name">Mrs. Bennet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="MR_BENNET" onclick="playVoiceSample('MR_BENNET')">
+              <img src="characters/MR_BENNET.png" alt="Mr. Bennet" class="character-portrait">
+              <div class="character-name">Mr. Bennet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="LYDIA_BENNET" onclick="playVoiceSample('LYDIA_BENNET')">
+              <img src="characters/LYDIA_BENNET.png" alt="Lydia Bennet" class="character-portrait">
+              <div class="character-name">Lydia Bennet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+            <div class="character-card" data-character-id="KITTY_BENNET" onclick="playVoiceSample('KITTY_BENNET')">
+              <img src="characters/KITTY_BENNET.png" alt="Kitty Bennet" class="character-portrait">
+              <div class="character-name">Kitty Bennet</div>
+              <div class="play-indicator">Playing...</div>
+            </div>
+            
+          </div>
+        </section>
+
+        <!-- Hidden audio elements for voice samples -->
+        <div class="voice-samples">
+          
+          <audio id="voice-ELIZABETH_BENNET" preload="none">
+            <source src="characters/ELIZABETH_BENNET.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-MRS_BENNET" preload="none">
+            <source src="characters/MRS_BENNET.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-MR_BENNET" preload="none">
+            <source src="characters/MR_BENNET.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-LYDIA_BENNET" preload="none">
+            <source src="characters/LYDIA_BENNET.mp3" type="audio/mpeg">
+          </audio>
+          
+          <audio id="voice-KITTY_BENNET" preload="none">
+            <source src="characters/KITTY_BENNET.mp3" type="audio/mpeg">
+          </audio>
+          
+        </div>
+        
       </div>
 
       <!-- Right Column: Chapter Text -->
       <div class="right-column">
         <section class="chapter-section">
-          <h2>Chapter I.</h2>
+          <h2>CHAPTER I.</h2>
           <div class="chapter-text">
             
               <p>IT is a truth universally acknowledged, that a single man in possession of a good fortune must be in want of a wife.</p>
@@ -668,6 +731,33 @@
     </footer>
   </div>
 
+  
+  <script>
+    let currentlyPlaying = null;
+
+    function playVoiceSample(characterId) {
+      // Stop any currently playing audio
+      if (currentlyPlaying) {
+        currentlyPlaying.audio.pause();
+        currentlyPlaying.audio.currentTime = 0;
+        currentlyPlaying.card.classList.remove('playing');
+      }
+
+      const audio = document.getElementById('voice-' + characterId);
+      const card = document.querySelector('[data-character-id="' + characterId + '"]');
+
+      if (audio && card) {
+        audio.play();
+        card.classList.add('playing');
+        currentlyPlaying = { audio: audio, card: card };
+
+        audio.onended = function() {
+          card.classList.remove('playing');
+          currentlyPlaying = null;
+        };
+      }
+    }
+  </script>
   
 
   <script>

@@ -10,14 +10,44 @@
       "classics"
     ],
     "catalog_added_at": "2026-02-08T19:57:15Z",
-    "updated_at": "2026-03-02T15:09:19Z",
+    "updated_at": "2026-06-22T19:33:36Z",
     "duration": {
       "total_ms": 31244000,
       "formatted": "8h 41m"
     },
-    "cover_url": null,
-    "data_checksum": "fe53453a2db7c61c11e15cbc3722ac61a47c68a2759920271a71151fb8b70dbc",
-    "file_size": 951611176,
+    "cover_url": "https://assets.characterecho.com/covers%2F71bd7aab7a2bd132135201ba7914aa1630254deb.png",
+    "data_checksum": "36c2d8f8d9fe800ebb64a39d8225cbcf2363532f09978a6c4f83d6fa5b32c02b",
+    "file_size": 951604098,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
+    "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
+    "sample": false,
+    "title": "Pride and Prejudice",
+    "author_names": "Jane Austen",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "romance",
+      "satire"
+    ],
+    "catalog_added_at": "2026-01-18T03:35:30Z",
+    "updated_at": "2026-06-22T19:33:36Z",
+    "duration": {
+      "total_ms": 36586000,
+      "formatted": "10h 10m"
+    },
+    "cover_url": "https://assets.characterecho.com/covers%2Fc404d647002352b2094f9a89eb49dc3994f2c944.png",
+    "data_checksum": "0a35a66e9387551e420db12671c1d15d2d057511506429f2c83d71e089ae8bed",
+    "file_size": 931167156,
     "available_regions": [
       "US",
       "CA",
@@ -455,36 +485,6 @@
     "cover_url": null,
     "data_checksum": "c3d28c87d8cb7ed7be83eea8e6757515f5f74f1c966b4c49aed4926935cacb91",
     "file_size": 543393037,
-    "available_regions": [
-      "US",
-      "CA",
-      "GB",
-      "AU",
-      "NZ",
-      "IE"
-    ],
-    "min_app_version": "1.1.0"
-  },
-  {
-    "publication_identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
-    "sample": false,
-    "title": "Pride and Prejudice",
-    "author_names": "Jane Austen",
-    "publication_type": "novel",
-    "genre_tags": [
-      "classics",
-      "romance",
-      "satire"
-    ],
-    "catalog_added_at": "2026-01-18T03:35:30Z",
-    "updated_at": "2026-01-29T18:43:03Z",
-    "duration": {
-      "total_ms": 36586000,
-      "formatted": "10h 10m"
-    },
-    "cover_url": null,
-    "data_checksum": "92b613c02140a445522210675e4f8a853e61a83a34ff4a873865ad41e61dc106",
-    "file_size": 931236990,
     "available_regions": [
       "US",
       "CA",
