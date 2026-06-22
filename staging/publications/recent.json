@@ -1,5 +1,35 @@
 [
   {
+    "publication_identifier": "d702b6f26a6d702414de52840e066938512e5a53",
+    "sample": false,
+    "title": "The Picture of Dorian Gray",
+    "author_names": "Oscar Wilde",
+    "publication_type": "novel",
+    "genre_tags": [
+      "classics",
+      "horror",
+      "philosophical"
+    ],
+    "catalog_added_at": "2026-01-30T12:29:12Z",
+    "updated_at": "2026-06-22T20:41:11Z",
+    "duration": {
+      "total_ms": 26003000,
+      "formatted": "7h 13m"
+    },
+    "cover_url": "https://assets.characterecho.com/covers%2Fd702b6f26a6d702414de52840e066938512e5a53.png",
+    "data_checksum": "6e268cf186d44575faf0da1915d0226d95de29309ce00f9022206244616aab2e",
+    "file_size": 741743625,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "71bd7aab7a2bd132135201ba7914aa1630254deb",
     "sample": false,
     "title": "The Adventures of Sherlock Holmes",
