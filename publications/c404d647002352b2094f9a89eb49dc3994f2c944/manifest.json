@@ -8,7 +8,7 @@
   "identifier": "c404d647002352b2094f9a89eb49dc3994f2c944",
   "publication_type": "novel",
   "cover_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/cover.png",
-  "total_duration_s": 36560.632221,
+  "total_duration_s": 36556.467482,
   "genre_tags": [
     "Classics",
     "Romance",
@@ -27,61 +27,61 @@
       "ordinal": 1,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_1.mp3",
       "start_s": 3516.211451,
-      "end_s": 6732.359229
+      "end_s": 6728.19449
     },
     {
       "ordinal": 2,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_2.mp3",
-      "start_s": 6732.359229,
-      "end_s": 9804.048933999999
+      "start_s": 6728.19449,
+      "end_s": 9799.884194999999
     },
     {
       "ordinal": 3,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_3.mp3",
-      "start_s": 9804.048933999999,
-      "end_s": 13284.855146999998
+      "start_s": 9799.884194999999,
+      "end_s": 13280.690407999999
     },
     {
       "ordinal": 4,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_4.mp3",
-      "start_s": 13284.855146999998,
-      "end_s": 16461.617436999997
+      "start_s": 13280.690407999999,
+      "end_s": 16457.452697999997
     },
     {
       "ordinal": 5,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_5.mp3",
-      "start_s": 16461.617436999997,
-      "end_s": 19792.866665999998
+      "start_s": 16457.452697999997,
+      "end_s": 19788.701927
     },
     {
       "ordinal": 6,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_6.mp3",
-      "start_s": 19792.866665999998,
-      "end_s": 22421.009659
+      "start_s": 19788.701927,
+      "end_s": 22416.84492
     },
     {
       "ordinal": 7,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_7.mp3",
-      "start_s": 22421.009659,
-      "end_s": 25185.550973999998
+      "start_s": 22416.84492,
+      "end_s": 25181.386234999998
     },
     {
       "ordinal": 8,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_8.mp3",
-      "start_s": 25185.550973999998,
-      "end_s": 28567.095032999998
+      "start_s": 25181.386234999998,
+      "end_s": 28562.930293999998
     },
     {
       "ordinal": 9,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_9.mp3",
-      "start_s": 28567.095032999998,
-      "end_s": 31703.537753999997
+      "start_s": 28562.930293999998,
+      "end_s": 31699.373014999997
     },
     {
       "ordinal": 10,
       "audio_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/audio_part_10.mp3",
-      "start_s": 31703.537753999997,
-      "end_s": 36560.632221
+      "start_s": 31699.373014999997,
+      "end_s": 36556.467482
     }
   ],
   "segments": [
@@ -259,7 +259,7 @@
       "ordinal": 9,
       "title": "CHAPTER IX.",
       "start_s": 3516.211,
-      "end_s": 4017.798,
+      "end_s": 4017.8,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -275,8 +275,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER X.",
-      "start_s": 4017.798,
-      "end_s": 4622.042,
+      "start_s": 4017.8,
+      "end_s": 4622.045,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -297,8 +297,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER XI.",
-      "start_s": 4622.042,
-      "end_s": 5110.782,
+      "start_s": 4622.045,
+      "end_s": 5110.787,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -314,8 +314,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER XII.",
-      "start_s": 5110.782,
-      "end_s": 5319.411,
+      "start_s": 5110.787,
+      "end_s": 5319.416,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -336,8 +336,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER XIII",
-      "start_s": 5319.411,
-      "end_s": 5832.148,
+      "start_s": 5319.416,
+      "end_s": 5832.154,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -353,8 +353,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER XIV",
-      "start_s": 5832.148,
-      "end_s": 6197.024,
+      "start_s": 5832.154,
+      "end_s": 6197.031,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -375,8 +375,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER XV.",
-      "start_s": 6197.024,
-      "end_s": 6732.359,
+      "start_s": 6197.031,
+      "end_s": 6728.194,
       "part_ordinal": 1,
       "metadata": {
         "scenes": [
@@ -402,8 +402,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER XVI.",
-      "start_s": 6732.359,
-      "end_s": 7782.576,
+      "start_s": 6728.194,
+      "end_s": 7778.412,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -419,8 +419,8 @@
     {
       "ordinal": 17,
       "title": "CHAPTER XVII.",
-      "start_s": 7782.576,
-      "end_s": 8187.795,
+      "start_s": 7778.412,
+      "end_s": 8183.63,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -441,8 +441,8 @@
     {
       "ordinal": 18,
       "title": "CHAPTER XVIII.",
-      "start_s": 8187.795,
-      "end_s": 9804.049,
+      "start_s": 8183.63,
+      "end_s": 9799.884,
       "part_ordinal": 2,
       "metadata": {
         "scenes": [
@@ -463,8 +463,8 @@
     {
       "ordinal": 19,
       "title": "CHAPTER XIX.",
-      "start_s": 9804.049,
-      "end_s": 10397.386,
+      "start_s": 9799.884,
+      "end_s": 10393.221,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -480,8 +480,8 @@
     {
       "ordinal": 20,
       "title": "CHAPTER XX.",
-      "start_s": 10397.386,
-      "end_s": 10913.947,
+      "start_s": 10393.221,
+      "end_s": 10909.782,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -502,8 +502,8 @@
     {
       "ordinal": 21,
       "title": "CHAPTER XXI.",
-      "start_s": 10913.947,
-      "end_s": 11537.527,
+      "start_s": 10909.782,
+      "end_s": 11533.362,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -519,8 +519,8 @@
     {
       "ordinal": 22,
       "title": "CHAPTER XXII.",
-      "start_s": 11537.527,
-      "end_s": 11684.278,
+      "start_s": 11533.362,
+      "end_s": 11680.114,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -541,8 +541,8 @@
     {
       "ordinal": 23,
       "title": "CHAPTER XXIII.",
-      "start_s": 11684.278,
-      "end_s": 12190.444,
+      "start_s": 11680.114,
+      "end_s": 12186.279,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -558,8 +558,8 @@
     {
       "ordinal": 24,
       "title": "CHAPTER XXIV.",
-      "start_s": 12190.444,
-      "end_s": 12799.281,
+      "start_s": 12186.279,
+      "end_s": 12795.116,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -575,8 +575,8 @@
     {
       "ordinal": 25,
       "title": "CHAPTER XXV.",
-      "start_s": 12799.281,
-      "end_s": 13284.855,
+      "start_s": 12795.116,
+      "end_s": 13280.69,
       "part_ordinal": 3,
       "metadata": {
         "scenes": [
@@ -597,8 +597,8 @@
     {
       "ordinal": 26,
       "title": "CHAPTER XXVI.",
-      "start_s": 13284.855,
-      "end_s": 14013.212,
+      "start_s": 13280.69,
+      "end_s": 14009.047,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -614,8 +614,8 @@
     {
       "ordinal": 27,
       "title": " CHAPTER XXVII.",
-      "start_s": 14013.212,
-      "end_s": 14416.932,
+      "start_s": 14009.047,
+      "end_s": 14412.767,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -636,8 +636,8 @@
     {
       "ordinal": 28,
       "title": "CHAPTER XXVIII.",
-      "start_s": 14416.932,
-      "end_s": 14859.98,
+      "start_s": 14412.767,
+      "end_s": 14855.816,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -658,8 +658,8 @@
     {
       "ordinal": 29,
       "title": "CHAPTER XXIX.",
-      "start_s": 14859.98,
-      "end_s": 15605.132,
+      "start_s": 14855.816,
+      "end_s": 15600.967,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -680,8 +680,8 @@
     {
       "ordinal": 30,
       "title": "CHAPTER XXX.",
-      "start_s": 15605.132,
-      "end_s": 15981.362,
+      "start_s": 15600.967,
+      "end_s": 15977.198,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -697,8 +697,8 @@
     {
       "ordinal": 31,
       "title": "CHAPTER XXXI.",
-      "start_s": 15981.362,
-      "end_s": 16461.617,
+      "start_s": 15977.198,
+      "end_s": 16457.453,
       "part_ordinal": 4,
       "metadata": {
         "scenes": [
@@ -714,8 +714,8 @@
     {
       "ordinal": 32,
       "title": "CHAPTER XXXII.",
-      "start_s": 16461.617,
-      "end_s": 16925.416,
+      "start_s": 16457.453,
+      "end_s": 16921.251,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -731,8 +731,8 @@
     {
       "ordinal": 33,
       "title": "CHAPTER XXXIII.",
-      "start_s": 16925.416,
-      "end_s": 17483.004,
+      "start_s": 16921.251,
+      "end_s": 17478.839,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -753,8 +753,8 @@
     {
       "ordinal": 34,
       "title": "CHAPTER XXXIV.",
-      "start_s": 17483.004,
-      "end_s": 18143.439,
+      "start_s": 17478.839,
+      "end_s": 18139.275,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -770,8 +770,8 @@
     {
       "ordinal": 35,
       "title": " CHAPTER XXXV.",
-      "start_s": 18143.439,
-      "end_s": 19136.916,
+      "start_s": 18139.275,
+      "end_s": 19132.751,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -787,8 +787,8 @@
     {
       "ordinal": 36,
       "title": "CHAPTER XXXVI.",
-      "start_s": 19136.916,
-      "end_s": 19362.785,
+      "start_s": 19132.751,
+      "end_s": 19358.62,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -804,8 +804,8 @@
     {
       "ordinal": 37,
       "title": " CHAPTER XXXVII.",
-      "start_s": 19362.785,
-      "end_s": 19792.867,
+      "start_s": 19358.62,
+      "end_s": 19788.702,
       "part_ordinal": 5,
       "metadata": {
         "scenes": [
@@ -826,8 +826,8 @@
     {
       "ordinal": 38,
       "title": "CHAPTER XXXVIII.",
-      "start_s": 19792.867,
-      "end_s": 20119.141,
+      "start_s": 19788.702,
+      "end_s": 20114.976,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -848,8 +848,8 @@
     {
       "ordinal": 39,
       "title": "CHAPTER XXXIX.",
-      "start_s": 20119.141,
-      "end_s": 20595.44,
+      "start_s": 20114.976,
+      "end_s": 20591.275,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -875,8 +875,8 @@
     {
       "ordinal": 40,
       "title": "CHAPTER XL.",
-      "start_s": 20595.44,
-      "end_s": 21110.134,
+      "start_s": 20591.275,
+      "end_s": 21105.97,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -897,8 +897,8 @@
     {
       "ordinal": 41,
       "title": "CHAPTER XLI.",
-      "start_s": 21110.134,
-      "end_s": 21833.409,
+      "start_s": 21105.97,
+      "end_s": 21829.244,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -924,8 +924,8 @@
     {
       "ordinal": 42,
       "title": "CHAPTER XLII.",
-      "start_s": 21833.409,
-      "end_s": 22421.01,
+      "start_s": 21829.244,
+      "end_s": 22416.845,
       "part_ordinal": 6,
       "metadata": {
         "scenes": [
@@ -946,8 +946,8 @@
     {
       "ordinal": 43,
       "title": "CHAPTER XLIII.",
-      "start_s": 22421.01,
-      "end_s": 23914.584,
+      "start_s": 22416.845,
+      "end_s": 23910.419,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -978,8 +978,8 @@
     {
       "ordinal": 44,
       "title": "CHAPTER XLIV.",
-      "start_s": 23914.584,
-      "end_s": 24643.021,
+      "start_s": 23910.419,
+      "end_s": 24638.856,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -1000,8 +1000,8 @@
     {
       "ordinal": 45,
       "title": "CHAPTER XLV.",
-      "start_s": 24643.021,
-      "end_s": 25185.551,
+      "start_s": 24638.856,
+      "end_s": 25181.386,
       "part_ordinal": 7,
       "metadata": {
         "scenes": [
@@ -1022,8 +1022,8 @@
     {
       "ordinal": 46,
       "title": "Chapter XLVI.",
-      "start_s": 25185.551,
-      "end_s": 26166.63,
+      "start_s": 25181.386,
+      "end_s": 26162.465,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1039,8 +1039,8 @@
     {
       "ordinal": 47,
       "title": "CHAPTER XLVII.",
-      "start_s": 26166.63,
-      "end_s": 27190.487,
+      "start_s": 26162.465,
+      "end_s": 27186.322,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1071,8 +1071,8 @@
     {
       "ordinal": 48,
       "title": "CHAPTER XLVIII.",
-      "start_s": 27190.487,
-      "end_s": 27885.695,
+      "start_s": 27186.322,
+      "end_s": 27881.53,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1088,8 +1088,8 @@
     {
       "ordinal": 49,
       "title": "CHAPTER XLIX.",
-      "start_s": 27885.695,
-      "end_s": 28567.095,
+      "start_s": 27881.53,
+      "end_s": 28562.93,
       "part_ordinal": 8,
       "metadata": {
         "scenes": [
@@ -1115,8 +1115,8 @@
     {
       "ordinal": 50,
       "title": "CHAPTER L.",
-      "start_s": 28567.095,
-      "end_s": 29242.755,
+      "start_s": 28562.93,
+      "end_s": 29238.591,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1142,8 +1142,8 @@
     {
       "ordinal": 51,
       "title": "CHAPTER LI.",
-      "start_s": 29242.755,
-      "end_s": 29863.853,
+      "start_s": 29238.591,
+      "end_s": 29859.688,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1164,8 +1164,8 @@
     {
       "ordinal": 52,
       "title": " CHAPTER LII.",
-      "start_s": 29863.853,
-      "end_s": 30817.266,
+      "start_s": 29859.688,
+      "end_s": 30813.101,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1181,8 +1181,8 @@
     {
       "ordinal": 53,
       "title": "CHAPTER LIII.",
-      "start_s": 30817.266,
-      "end_s": 31703.538,
+      "start_s": 30813.101,
+      "end_s": 31699.373,
       "part_ordinal": 9,
       "metadata": {
         "scenes": [
@@ -1198,8 +1198,8 @@
     {
       "ordinal": 54,
       "title": " CHAPTER LIV.",
-      "start_s": 31703.538,
-      "end_s": 32186.068,
+      "start_s": 31699.373,
+      "end_s": 32181.904,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1225,8 +1225,8 @@
     {
       "ordinal": 55,
       "title": "CHAPTER LV.",
-      "start_s": 32186.068,
-      "end_s": 32897.349,
+      "start_s": 32181.904,
+      "end_s": 32893.185,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1252,8 +1252,8 @@
     {
       "ordinal": 56,
       "title": "CHAPTER LVI.",
-      "start_s": 32897.349,
-      "end_s": 33745.915,
+      "start_s": 32893.185,
+      "end_s": 33741.751,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1279,8 +1279,8 @@
     {
       "ordinal": 57,
       "title": "CHAPTER LVII.",
-      "start_s": 33745.915,
-      "end_s": 34269.408,
+      "start_s": 33741.751,
+      "end_s": 34265.243,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1301,8 +1301,8 @@
     {
       "ordinal": 58,
       "title": "CHAPTER LVIII.",
-      "start_s": 34269.408,
-      "end_s": 35057.552,
+      "start_s": 34265.243,
+      "end_s": 35053.388,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1318,8 +1318,8 @@
     {
       "ordinal": 59,
       "title": "CHAPTER LIX.",
-      "start_s": 35057.552,
-      "end_s": 35833.31,
+      "start_s": 35053.388,
+      "end_s": 35829.145,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1350,8 +1350,8 @@
     {
       "ordinal": 60,
       "title": " CHAPTER LX.",
-      "start_s": 35833.31,
-      "end_s": 36171.613,
+      "start_s": 35829.145,
+      "end_s": 36167.448,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1367,8 +1367,8 @@
     {
       "ordinal": 61,
       "title": "CHAPTER LXI.",
-      "start_s": 36171.613,
-      "end_s": 36560.632,
+      "start_s": 36167.448,
+      "end_s": 36556.467,
       "part_ordinal": 10,
       "metadata": {
         "scenes": [
@@ -1386,6 +1386,8 @@
     {
       "identifier": "NARRATOR",
       "name": "Narrator",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "neutral",
@@ -1406,13 +1408,15 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 1250,
+      "dialogue_count": 1251,
       "image_key": null,
       "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/NARRATOR.mp3"
     },
     {
       "identifier": "ELIZABETH_BENNET",
       "name": "Elizabeth Bennet",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Lizzy",
         "Eliza"
@@ -1446,6 +1450,8 @@
     {
       "identifier": "FITZWILLIAM_DARCY",
       "name": "Mr. Darcy",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Darcy"
       ],
@@ -1479,6 +1485,8 @@
     {
       "identifier": "MRS_BENNET",
       "name": "Mrs. Bennet",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [],
       "voice_attributes": [
         "shrill",
@@ -1503,13 +1511,15 @@
         "gender": "female",
         "voice_accent": "british"
       },
-      "dialogue_count": 163,
+      "dialogue_count": 162,
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_BENNET.png",
       "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_BENNET.mp3"
     },
     {
       "identifier": "JANE_BENNET",
       "name": "Jane Bennet",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Jane"
       ],
@@ -1543,6 +1553,8 @@
     {
       "identifier": "MR_BENNET",
       "name": "Mr. Bennet",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [],
       "voice_attributes": [
         "dry",
@@ -1574,6 +1586,8 @@
     {
       "identifier": "MRS_GARDINER",
       "name": "Mrs. Gardiner",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "amiable",
@@ -1604,6 +1618,8 @@
     {
       "identifier": "LADY_CATHERINE_DE_BOURGH",
       "name": "Lady Catherine",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "Lady Catherine",
         "Her Ladyship"
@@ -1639,6 +1655,8 @@
     {
       "identifier": "WILLIAM_COLLINS",
       "name": "Mr. Collins",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "William Collins"
       ],
@@ -1673,6 +1691,8 @@
     {
       "identifier": "GEORGE_WICKHAM",
       "name": "Mr. Wickham",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Wickham"
       ],
@@ -1706,6 +1726,8 @@
     {
       "identifier": "CAROLINE_BINGLEY",
       "name": "Miss Bingley",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Caroline"
       ],
@@ -1738,6 +1760,8 @@
     {
       "identifier": "LYDIA_BENNET",
       "name": "Lydia Bennet",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "loud",
@@ -1766,6 +1790,8 @@
     {
       "identifier": "CHARLES_BINGLEY",
       "name": "Mr. Bingley",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Bingley"
       ],
@@ -1799,6 +1825,8 @@
     {
       "identifier": "CHARLOTTE_LUCAS",
       "name": "Charlotte Collins",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Miss Lucas",
         "Charlotte",
@@ -1834,6 +1862,8 @@
     {
       "identifier": "MR_GARDINER",
       "name": "Mr. Gardiner",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "sensible",
@@ -1864,6 +1894,8 @@
     {
       "identifier": "COLONEL_FITZWILLIAM",
       "name": "Colonel Fitzwilliam",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "polished",
@@ -1895,6 +1927,8 @@
     {
       "identifier": "MRS_REYNOLDS",
       "name": "Mrs. Reynolds",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [],
       "voice_attributes": [
         "warm",
@@ -1925,6 +1959,8 @@
     {
       "identifier": "SIR_WILLIAM_LUCAS",
       "name": "Sir William Lucas",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [],
       "voice_attributes": [
         "jovial",
@@ -1955,6 +1991,8 @@
     {
       "identifier": "KITTY_BENNET",
       "name": "Kitty Bennet",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Catherine"
       ],
@@ -1984,6 +2022,8 @@
     {
       "identifier": "MARY_BENNET",
       "name": "Mary Bennet",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "pedantic",
@@ -2012,6 +2052,8 @@
     {
       "identifier": "MARIA_LUCAS",
       "name": "Maria Lucas",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "breathless",
@@ -2042,6 +2084,8 @@
     {
       "identifier": "LOUISA_HURST",
       "name": "Mrs. Hurst",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Louisa"
       ],
@@ -2074,6 +2118,8 @@
     {
       "identifier": "MRS_HILL",
       "name": "Mrs. Hill",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [],
       "voice_attributes": [
         "breathless",
@@ -2101,24 +2147,24 @@
       "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_HILL.mp3"
     },
     {
-      "identifier": "MR_HURST",
-      "name": "Mr. Hurst",
+      "identifier": "LONGBOURN_BUTLER",
+      "name": "The Butler",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
-        "slurred",
-        "bored",
-        "thick"
+        "formal",
+        "polite",
+        "steady"
       ],
       "visual_attributes": [
-        "heavy set",
-        "flushed face",
-        "half-closed eyes",
-        "formal evening wear",
-        "waistcoat straining"
+        "middle-aged",
+        "livery",
+        "neutral expression",
+        "receding hairline"
       ],
       "roles": [
-        "brother_in_law",
-        "minor_character"
+        "servant"
       ],
       "metadata": {
         "age_group": "middle_aged",
@@ -2126,12 +2172,14 @@
         "voice_accent": "british"
       },
       "dialogue_count": 1,
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_HURST.png",
-      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_HURST.mp3"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LONGBOURN_BUTLER.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LONGBOURN_BUTLER.mp3"
     },
     {
       "identifier": "MRS_PHILIPS",
       "name": "Mrs. Philips",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "loud",
@@ -2160,8 +2208,41 @@
       "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MRS_PHILIPS.mp3"
     },
     {
+      "identifier": "MR_HURST",
+      "name": "Mr. Hurst",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "slurred",
+        "bored",
+        "thick"
+      ],
+      "visual_attributes": [
+        "heavy set",
+        "flushed face",
+        "half-closed eyes",
+        "formal evening wear",
+        "waistcoat straining"
+      ],
+      "roles": [
+        "brother_in_law",
+        "minor_character"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_HURST.png",
+      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/MR_HURST.mp3"
+    },
+    {
       "identifier": "MR_DENNY",
       "name": "Mr. Denny",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [],
       "voice_attributes": [
         "lighter",
@@ -2191,6 +2272,8 @@
     {
       "identifier": "YOUNG_LUCAS",
       "name": "Young Lucas",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [],
       "voice_attributes": [
         "boisterous",
@@ -2214,78 +2297,9 @@
       "dialogue_count": 1,
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/YOUNG_LUCAS.png",
       "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/YOUNG_LUCAS.mp3"
-    },
-    {
-      "identifier": "LONGBOURN_BUTLER",
-      "name": "The Butler",
-      "aliases": [],
-      "voice_attributes": [
-        "formal",
-        "polite",
-        "steady"
-      ],
-      "visual_attributes": [
-        "middle-aged",
-        "livery",
-        "neutral expression",
-        "receding hairline"
-      ],
-      "roles": [
-        "servant"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "british"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LONGBOURN_BUTLER.png",
-      "voice_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/characters/LONGBOURN_BUTLER.mp3"
     }
   ],
   "scenes": [
-    {
-      "identifier": "SCENE_COVER_00",
-      "ordinal": 0,
-      "location_header": null,
-      "visual_description": "A symbolic representation of the book's themes.",
-      "metadata": {
-        "type": "cover_placeholder"
-      },
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_COVER_00.jpg"
-    },
-    {
-      "identifier": "LONGBOURN_PARLOR",
-      "ordinal": 0,
-      "location_header": "INT. LONGBOURN PARLOR - DAY",
-      "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LONGBOURN_PARLOR.jpg"
-    },
-    {
-      "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
-      "ordinal": 0,
-      "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
-      "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_BEDCHAMBER.jpg"
-    },
-    {
-      "identifier": "INT_NETHERFIELD_HOUSE",
-      "ordinal": 0,
-      "location_header": "INT. NETHERFIELD BREAKFAST PARLOUR - DAY",
-      "visual_description": "A grand, imposing breakfast parlour in a wealthy estate. High ceilings with intricate molding, tall windows looking out on a rainy landscape. Elegant mahogany furniture, silver service on the sideboard. The atmosphere is formal, cold, and aristocratic, with cool grey light filtering through the rain.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_NETHERFIELD_HOUSE.jpg"
-    },
-    {
-      "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
-      "ordinal": 0,
-      "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
-      "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_NETHERFIELD_DRAWING_ROOM.jpg"
-    },
     {
       "identifier": "SCENE_PHILIPS_HOUSE_NIGHT",
       "ordinal": 0,
@@ -2295,52 +2309,12 @@
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_PHILIPS_HOUSE_NIGHT.jpg"
     },
     {
-      "identifier": "LUCAS_LODGE_DRAWING_ROOM",
-      "ordinal": 0,
-      "location_header": "INT. LUCAS LODGE - NIGHT",
-      "visual_description": "A spacious Regency drawing room at night, cleared of central furniture for dancing. Warm candlelight reflects off polished wood floors and pale yellow walls. A fortepiano stands in one corner. Groups of chairs line the perimeter. The atmosphere is festive but domestic, less grand than a formal ball, with soft shadows and golden illumination.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LUCAS_LODGE_DRAWING_ROOM.jpg"
-    },
-    {
-      "identifier": "SCENE_HUNSFORD_SITTING_ROOM",
-      "ordinal": 0,
-      "location_header": "INT. HUNSFORD PARSONAGE SITTING ROOM - DAY",
-      "visual_description": "A neat Regency sitting room at the back of a parsonage. Soft afternoon light enters through a sash window overlooking a garden with a laurel hedge. Modest mahogany furniture includes a work table scattered with needlepoint and sewing materials. Chintz-covered armchairs sit near a small fireplace. Pale green walls and simple joinery. The atmosphere is quiet, domestic, and orderly.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_HUNSFORD_SITTING_ROOM.jpg"
-    },
-    {
-      "identifier": "SCENE_THE_GEORGE_INN",
-      "ordinal": 0,
-      "location_header": "INT. THE GEORGE INN - DAY",
-      "visual_description": "A private dining room on the upper floor of a Georgian coaching inn. Large sash windows overlook the busy street below. A round mahogany table is cluttered with plates of cold meat, salad, and cucumber. Several bandboxes and millinery parcels are heaped on chairs. The atmosphere is temporary and chaotic, lit by bright midday sun. Warm wood tones and white linens.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_THE_GEORGE_INN.jpg"
-    },
-    {
-      "identifier": "EXT_HUNSFORD_PARSONAGE_GARDEN",
-      "ordinal": 0,
-      "location_header": "EXT. HUNSFORD PARSONAGE - DAY",
-      "visual_description": "A neat Regency parsonage garden under bright daylight. A gravel walk leads to a modest house with green pales and a laurel hedge. In the distance through a gap in the trees, the grand facade of Rosings Park is visible on rising ground. Formal, manicured, and green.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_HUNSFORD_PARSONAGE_GARDEN.jpg"
-    },
-    {
       "identifier": "INT_HUNSFORD_PARSONAGE_DINING_ROOM",
       "ordinal": 0,
       "location_header": "INT. HUNSFORD PARSONAGE - DAY",
       "visual_description": "A tidy, modest Regency dining room filled with daylight. A mahogany table stands near a window that looks out onto the lane. A sideboard displays neat arrangements of china. The furniture is formal and precise. The atmosphere is domestic and slightly stifling. Pale walls and orderly decor.",
       "metadata": {},
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_PARSONAGE_DINING_ROOM.jpg"
-    },
-    {
-      "identifier": "INT_HUNSFORD_PARSONAGE_HALL",
-      "ordinal": 0,
-      "location_header": "INT. HUNSFORD PARSONAGE - AFTERNOON",
-      "visual_description": "A modest but neat Regency parsonage hallway and staircase in the late afternoon. Pale plaster walls are adorned with a few framed prints. A wooden banister curves upward. Through an open door, a glimpse of a tidy parlor with chintz furniture is visible. The light is natural and softening, suggesting the approach of evening. The atmosphere is bustling with nervous preparation.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_PARSONAGE_HALL.jpg"
     },
     {
       "identifier": "INT_ROSINGS_PARK_DRAWING_ROOM",
@@ -2375,12 +2349,52 @@
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_CARRIAGE_DAY.jpg"
     },
     {
+      "identifier": "INT_NETHERFIELD_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. NETHERFIELD BREAKFAST PARLOUR - DAY",
+      "visual_description": "A grand, imposing breakfast parlour in a wealthy estate. High ceilings with intricate molding, tall windows looking out on a rainy landscape. Elegant mahogany furniture, silver service on the sideboard. The atmosphere is formal, cold, and aristocratic, with cool grey light filtering through the rain.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_NETHERFIELD_HOUSE.jpg"
+    },
+    {
+      "identifier": "LONGBOURN_PARLOR",
+      "ordinal": 0,
+      "location_header": "INT. LONGBOURN PARLOR - DAY",
+      "visual_description": "A Regency-era parlor in a genteel English country house, bathed in morning light. Large sash windows with heavy drapes overlook a garden. The room is comfortably cluttered with chintz floral armchairs, a polished oak tea table scattered with needlework, and a modest fireplace with a wooden mantelpiece. Pale wallpaper with faint patterns and worn rugs suggest a domestic, lived-in atmosphere. Warm, soft natural lighting.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LONGBOURN_PARLOR.jpg"
+    },
+    {
+      "identifier": "INT_HUNSFORD_PARSONAGE_HALL",
+      "ordinal": 0,
+      "location_header": "INT. HUNSFORD PARSONAGE - AFTERNOON",
+      "visual_description": "A modest but neat Regency parsonage hallway and staircase in the late afternoon. Pale plaster walls are adorned with a few framed prints. A wooden banister curves upward. Through an open door, a glimpse of a tidy parlor with chintz furniture is visible. The light is natural and softening, suggesting the approach of evening. The atmosphere is bustling with nervous preparation.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_PARSONAGE_HALL.jpg"
+    },
+    {
       "identifier": "INT_LAMBTON_INN_PARLOUR_DAY",
       "ordinal": 0,
       "location_header": "INT. LAMBTON INN - PARLOR - DAY",
       "visual_description": "A private sitting room in a Georgian coaching inn bathed in bright morning light. A round mahogany table occupies the center, surrounded by simple wooden chairs and scattered with letters. Tall sash windows with floral curtains reveal a glimpse of the village street. The walls are panelled in light oak. The atmosphere is temporary and genteel, with dust motes dancing in the sunbeams. Warm wood tones and pale cream plaster.",
       "metadata": {},
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LAMBTON_INN_PARLOUR_DAY.jpg"
+    },
+    {
+      "identifier": "EXT_HUNSFORD_PARSONAGE_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. HUNSFORD PARSONAGE - DAY",
+      "visual_description": "A neat Regency parsonage garden under bright daylight. A gravel walk leads to a modest house with green pales and a laurel hedge. In the distance through a gap in the trees, the grand facade of Rosings Park is visible on rising ground. Formal, manicured, and green.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_HUNSFORD_PARSONAGE_GARDEN.jpg"
+    },
+    {
+      "identifier": "LUCAS_LODGE_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. LUCAS LODGE - NIGHT",
+      "visual_description": "A spacious Regency drawing room at night, cleared of central furniture for dancing. Warm candlelight reflects off polished wood floors and pale yellow walls. A fortepiano stands in one corner. Groups of chairs line the perimeter. The atmosphere is festive but domestic, less grand than a formal ball, with soft shadows and golden illumination.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LUCAS_LODGE_DRAWING_ROOM.jpg"
     },
     {
       "identifier": "EXT_LONGBOURN_COUNTRY_WALK",
@@ -2399,44 +2413,46 @@
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_DINING_ROOM_DAY.jpg"
     },
     {
-      "identifier": "INT_HUNSFORD_BEDROOM",
-      "ordinal": 1,
-      "location_header": "INT. HUNSFORD PARSONAGE BEDROOM - AFTERNOON",
-      "visual_description": "A small, neat bedchamber in a Regency parsonage, bathed in the grey light of a cloudy afternoon. A simple wooden bed with a white counterpane stands against a pale plaster wall. A writing desk is scattered with letters near the sash window. The atmosphere is quiet, solitary, and domestic.",
+      "identifier": "SCENE_NETHERFIELD_DRAWING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. NETHERFIELD DRAWING ROOM - NIGHT",
+      "visual_description": "An elegant Regency drawing room at night, warmed by a roaring fire in a marble hearth. Tall sash windows are dark, reflecting the interior light of beeswax candles and oil lamps. Several card tables are set out with green baize tops. Sofas upholstered in striped silk are arranged near the fireplace. The mood is sophisticated but stifling.",
       "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_BEDROOM.jpg"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_NETHERFIELD_DRAWING_ROOM.jpg"
     },
     {
-      "identifier": "SCENE_LONGBOURN_DINING_ROOM",
-      "ordinal": 1,
-      "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
-      "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling.",
+      "identifier": "SCENE_THE_GEORGE_INN",
+      "ordinal": 0,
+      "location_header": "INT. THE GEORGE INN - DAY",
+      "visual_description": "A private dining room on the upper floor of a Georgian coaching inn. Large sash windows overlook the busy street below. A round mahogany table is cluttered with plates of cold meat, salad, and cucumber. Several bandboxes and millinery parcels are heaped on chairs. The atmosphere is temporary and chaotic, lit by bright midday sun. Warm wood tones and white linens.",
       "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_DINING_ROOM.jpg"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_THE_GEORGE_INN.jpg"
     },
     {
-      "identifier": "INT_LAMBTON_INN_BEDROOM",
-      "ordinal": 1,
-      "location_header": "INT. LAMBTON INN - BEDROOM",
-      "visual_description": "A modest Regency bedchamber in a coaching inn, dimly lit by a dying candle. A narrow four-poster bed with white linens takes up most of the space. A washstand with a ceramic pitcher sits in the corner. Shadows play on the pale plaster walls. The atmosphere is quiet, intimate, and contemplative.",
+      "identifier": "SCENE_LONGBOURN_BEDCHAMBER",
+      "ordinal": 0,
+      "location_header": "INT. LONGBOURN BEDCHAMBER - NIGHT",
+      "visual_description": "A modest Regency bedchamber shared by sisters, lit by the warm glow of a single candle. Two narrow beds with white coverlets stand against pale walls. A wooden washstand with a ceramic pitcher sits in the corner. Simple chintz curtains frame a dark window. The atmosphere is intimate, quiet, and shadowed.",
       "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LAMBTON_INN_BEDROOM.jpg"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_BEDCHAMBER.jpg"
     },
     {
-      "identifier": "EXT_LONGBOURN_SHRUBBERY",
-      "ordinal": 1,
-      "location_header": "EXT. LONGBOURN SHRUBBERY - DAY",
-      "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_LONGBOURN_SHRUBBERY.jpg"
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_COVER_00.jpg"
     },
     {
-      "identifier": "INT_LUCAS_LODGE_MORNING",
-      "ordinal": 1,
-      "location_header": "INT. LUCAS LODGE - MORNING",
-      "visual_description": "A comfortable Regency morning room in Lucas Lodge, filled with clear daylight. A large sash window overlooks the lane outside. Modest mahogany furniture includes a sewing table and a writing desk. The room features floral wallpaper and worn rugs, suggesting genteel poverty. Warm creams and faded rose tones dominate the palette.",
+      "identifier": "SCENE_HUNSFORD_SITTING_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. HUNSFORD PARSONAGE SITTING ROOM - DAY",
+      "visual_description": "A neat Regency sitting room at the back of a parsonage. Soft afternoon light enters through a sash window overlooking a garden with a laurel hedge. Modest mahogany furniture includes a work table scattered with needlepoint and sewing materials. Chintz-covered armchairs sit near a small fireplace. Pale green walls and simple joinery. The atmosphere is quiet, domestic, and orderly.",
       "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LUCAS_LODGE_MORNING.jpg"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_HUNSFORD_SITTING_ROOM.jpg"
     },
     {
       "identifier": "SCENE_CARRIAGE_INTERIOR",
@@ -2445,22 +2461,6 @@
       "visual_description": "A cramped, moving interior of a Regency post-chaise carriage. Piles of hat boxes and parcels crowd the leather seats and floor. Through the small glass windows, the English countryside blurs by. The space is claustrophobic but cozy, with worn upholstery and swinging straps. Light shifts constantly as the carriage moves. Dust motes dance in the sunbeams.",
       "metadata": {},
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_CARRIAGE_INTERIOR.jpg"
-    },
-    {
-      "identifier": "EXT_ROSINGS_PARK_WOODS",
-      "ordinal": 1,
-      "location_header": "EXT. ROSINGS PARK WOODS - DAY",
-      "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_ROSINGS_PARK_WOODS.jpg"
-    },
-    {
-      "identifier": "INT_LONDON_THEATRE",
-      "ordinal": 1,
-      "location_header": "INT. LONDON THEATRE - NIGHT",
-      "visual_description": "A private box in a Georgian theatre at night, glowing with warm gaslight. Red velvet curtains frame the view of the crowded pit and gallery beyond, blurred in the distance. Gilded railings and ornate plasterwork catch the flickering light. Shadows cloak the back of the box where chairs are arranged. A festive, sophisticated atmosphere with rich reds and golds.",
-      "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LONDON_THEATRE.jpg"
     },
     {
       "identifier": "MERYTON_ASSEMBLY_ROOMS",
@@ -2479,12 +2479,20 @@
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_LONGBOURN_PARLOR_NIGHT.jpg"
     },
     {
-      "identifier": "INT_PEMBERLEY_GALLERY",
+      "identifier": "SCENE_NETHERFIELD_DINING_PARLOUR",
       "ordinal": 1,
-      "location_header": "INT. PEMBERLEY GALLERY - DAY",
-      "visual_description": "A spacious, lofty portrait gallery in a grand English estate. Walls lined with family portraits in gilded frames. Large windows allow bright daylight to illuminate the artwork. The atmosphere is quiet, respectful, and steeped in history. Polished wood floors and a few viewing benches.",
+      "location_header": "INT. NETHERFIELD DINING PARLOUR - NIGHT",
+      "visual_description": "A grand Regency dining parlour at night, illuminated by the warm, flickering glow of silver candelabras on a long mahogany table. The room features dark wood panelling, crimson damask curtains drawn against the night, and a sideboard laden with crystal decanters. Shadows play across the high moulded ceiling. The atmosphere is aristocratic, formal, and slightly oppressive.",
       "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_PEMBERLEY_GALLERY.jpg"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_NETHERFIELD_DINING_PARLOUR.jpg"
+    },
+    {
+      "identifier": "SCENE_LONGBOURN_DINING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LONGBOURN DINING ROOM - NIGHT",
+      "visual_description": "A modest Regency dining room lit by beeswax candles in silver holders. A mahogany table sits in the center, laid with white cloth and dinner service. Dark wood chairs surround the table. Shadows crowd the corners of the room, contrasting with the warm pool of light on the diners. The atmosphere is domestic and slightly stifling.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_LONGBOURN_DINING_ROOM.jpg"
     },
     {
       "identifier": "EXT_MERYTON_STREET",
@@ -2495,12 +2503,60 @@
       "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_MERYTON_STREET.jpg"
     },
     {
-      "identifier": "SCENE_NETHERFIELD_DINING_PARLOUR",
+      "identifier": "EXT_LONGBOURN_SHRUBBERY",
       "ordinal": 1,
-      "location_header": "INT. NETHERFIELD DINING PARLOUR - NIGHT",
-      "visual_description": "A grand Regency dining parlour at night, illuminated by the warm, flickering glow of silver candelabras on a long mahogany table. The room features dark wood panelling, crimson damask curtains drawn against the night, and a sideboard laden with crystal decanters. Shadows play across the high moulded ceiling. The atmosphere is aristocratic, formal, and slightly oppressive.",
+      "location_header": "EXT. LONGBOURN SHRUBBERY - DAY",
+      "visual_description": "A secluded shrubbery walk within the grounds of a modest Regency estate. Gravel paths wind between dense evergreen hedges and bare branches. Soft, diffuse autumn daylight casts gentle shadows on the earth. The mood is intimate and private, with a palette of sage greens, browns, and pale sky blues.",
       "metadata": {},
-      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_SCENE_NETHERFIELD_DINING_PARLOUR.jpg"
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_LONGBOURN_SHRUBBERY.jpg"
+    },
+    {
+      "identifier": "EXT_ROSINGS_PARK_WOODS",
+      "ordinal": 1,
+      "location_header": "EXT. ROSINGS PARK WOODS - DAY",
+      "visual_description": "A secluded woodland path within the grand estate of Rosings Park, dappled with spring sunlight filtering through ancient oaks and beeches. The ground is soft with moss and dry leaves. Through the trees, glimpses of a manicured landscape and a distant pale fence line are visible. Peaceful, green, and aristocratic tones.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_EXT_ROSINGS_PARK_WOODS.jpg"
+    },
+    {
+      "identifier": "INT_LUCAS_LODGE_MORNING",
+      "ordinal": 1,
+      "location_header": "INT. LUCAS LODGE - MORNING",
+      "visual_description": "A comfortable Regency morning room in Lucas Lodge, filled with clear daylight. A large sash window overlooks the lane outside. Modest mahogany furniture includes a sewing table and a writing desk. The room features floral wallpaper and worn rugs, suggesting genteel poverty. Warm creams and faded rose tones dominate the palette.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LUCAS_LODGE_MORNING.jpg"
+    },
+    {
+      "identifier": "INT_LONDON_THEATRE",
+      "ordinal": 1,
+      "location_header": "INT. LONDON THEATRE - NIGHT",
+      "visual_description": "A private box in a Georgian theatre at night, glowing with warm gaslight. Red velvet curtains frame the view of the crowded pit and gallery beyond, blurred in the distance. Gilded railings and ornate plasterwork catch the flickering light. Shadows cloak the back of the box where chairs are arranged. A festive, sophisticated atmosphere with rich reds and golds.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LONDON_THEATRE.jpg"
+    },
+    {
+      "identifier": "INT_HUNSFORD_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. HUNSFORD PARSONAGE BEDROOM - AFTERNOON",
+      "visual_description": "A small, neat bedchamber in a Regency parsonage, bathed in the grey light of a cloudy afternoon. A simple wooden bed with a white counterpane stands against a pale plaster wall. A writing desk is scattered with letters near the sash window. The atmosphere is quiet, solitary, and domestic.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_HUNSFORD_BEDROOM.jpg"
+    },
+    {
+      "identifier": "INT_PEMBERLEY_GALLERY",
+      "ordinal": 1,
+      "location_header": "INT. PEMBERLEY GALLERY - DAY",
+      "visual_description": "A spacious, lofty portrait gallery in a grand English estate. Walls lined with family portraits in gilded frames. Large windows allow bright daylight to illuminate the artwork. The atmosphere is quiet, respectful, and steeped in history. Polished wood floors and a few viewing benches.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_PEMBERLEY_GALLERY.jpg"
+    },
+    {
+      "identifier": "INT_LAMBTON_INN_BEDROOM",
+      "ordinal": 1,
+      "location_header": "INT. LAMBTON INN - BEDROOM",
+      "visual_description": "A modest Regency bedchamber in a coaching inn, dimly lit by a dying candle. A narrow four-poster bed with white linens takes up most of the space. A washstand with a ceramic pitcher sits in the corner. Shadows play on the pale plaster walls. The atmosphere is quiet, intimate, and contemplative.",
+      "metadata": {},
+      "image_key": "publications/c404d647002352b2094f9a89eb49dc3994f2c944/scenes/scene_INT_LAMBTON_INN_BEDROOM.jpg"
     },
     {
       "identifier": "SCENE_LONGBOURN_BREAKFAST_ROOM",
