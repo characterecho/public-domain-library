@@ -1,9 +1,67 @@
 {
   "version": 2,
-  "generated_at": "2026-06-22T20:41:11Z",
+  "generated_at": "2026-06-28T18:33:50Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
+    {
+      "publication_identifier": "7b84a051046b146eb90617138320b5f88f933866",
+      "sample": false,
+      "title": "The Hound of the Baskervilles",
+      "author_names": "Arthur Conan Doyle",
+      "publication_type": "novel",
+      "genre_tags": [
+        "mystery",
+        "classics"
+      ],
+      "catalog_added_at": "2026-03-01T15:22:56Z",
+      "updated_at": "2026-06-28T18:33:50Z",
+      "duration": {
+        "total_ms": 18046000,
+        "formatted": "5h 1m"
+      },
+      "cover_url": "https://assets.characterecho.com/covers%2F7b84a051046b146eb90617138320b5f88f933866.png",
+      "data_checksum": "f370842741ca5f8740e8c3ba2b90c88048e6f612456645b474e8b4429f546ad6",
+      "file_size": 564827226,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
+    {
+      "publication_identifier": "70da79e26dc59c69a613bad4f657bbbd2b0187dd",
+      "sample": false,
+      "title": "Dracula",
+      "author_names": "Bram Stoker",
+      "publication_type": "novel",
+      "genre_tags": [
+        "horror",
+        "epistolary"
+      ],
+      "catalog_added_at": "2026-01-30T12:30:56Z",
+      "updated_at": "2026-06-25T12:19:50Z",
+      "duration": {
+        "total_ms": 47051000,
+        "formatted": "13h 4m"
+      },
+      "cover_url": "https://assets.characterecho.com/covers%2F70da79e26dc59c69a613bad4f657bbbd2b0187dd.png",
+      "data_checksum": "c0c4de2623cb8bf2af5241b60bc5e73ec0ce2069e7cbdc3d5c55eece4f9faf33",
+      "file_size": 1271418862,
+      "available_regions": [
+        "US",
+        "CA",
+        "GB",
+        "AU",
+        "NZ",
+        "IE"
+      ],
+      "min_app_version": "1.1.0"
+    },
     {
       "publication_identifier": "d702b6f26a6d702414de52840e066938512e5a53",
       "sample": false,
@@ -180,35 +238,6 @@
         "IE"
       ],
       "min_app_version": "1.2.1"
-    },
-    {
-      "publication_identifier": "7b84a051046b146eb90617138320b5f88f933866",
-      "sample": false,
-      "title": "The Hound of the Baskervilles",
-      "author_names": "Arthur Conan Doyle",
-      "publication_type": "novel",
-      "genre_tags": [
-        "mystery",
-        "classics"
-      ],
-      "catalog_added_at": "2026-03-01T15:22:56Z",
-      "updated_at": "2026-03-01T15:31:44Z",
-      "duration": {
-        "total_ms": 18046000,
-        "formatted": "5h 1m"
-      },
-      "cover_url": null,
-      "data_checksum": "cda74f3ce370fb098acb7bafabab59a68da22e57be31175833d4278d35e3f105",
-      "file_size": 564833604,
-      "available_regions": [
-        "US",
-        "CA",
-        "GB",
-        "AU",
-        "NZ",
-        "IE"
-      ],
-      "min_app_version": "1.1.0"
     },
     {
       "publication_identifier": "f97b5762b68ed1c887369eac528ae69b1bf27ccf",
