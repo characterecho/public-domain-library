@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "generated_at": "2026-06-28T18:33:50Z",
+  "generated_at": "2026-06-28T21:06:13Z",
   "genre_vocabulary_version": 1768326996,
   "catalog_min_app_version": "1.2.2",
   "publications": [
@@ -15,14 +15,14 @@
         "classics"
       ],
       "catalog_added_at": "2026-03-01T15:22:56Z",
-      "updated_at": "2026-06-28T18:33:50Z",
+      "updated_at": "2026-06-28T21:06:12Z",
       "duration": {
         "total_ms": 18046000,
         "formatted": "5h 1m"
       },
       "cover_url": "https://assets.characterecho.com/covers%2F7b84a051046b146eb90617138320b5f88f933866.png",
-      "data_checksum": "f370842741ca5f8740e8c3ba2b90c88048e6f612456645b474e8b4429f546ad6",
-      "file_size": 564827226,
+      "data_checksum": "fdf6543c309b21bc3114c209bea0e830a965f11958247529795c04f6a3c9633b",
+      "file_size": 564792015,
       "available_regions": [
         "US",
         "CA",
