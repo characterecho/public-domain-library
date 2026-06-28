@@ -8,7 +8,7 @@
   "identifier": "7b84a051046b146eb90617138320b5f88f933866",
   "publication_type": "novel",
   "cover_key": "publications/7b84a051046b146eb90617138320b5f88f933866/cover.png",
-  "total_duration_s": 18032.722131000002,
+  "total_duration_s": 18027.472923999998,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -21,37 +21,37 @@
       "ordinal": 0,
       "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2864.79034
+      "end_s": 2862.545601
     },
     {
       "ordinal": 1,
       "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_1.mp3",
-      "start_s": 2864.79034,
-      "end_s": 6189.898299
+      "start_s": 2862.545601,
+      "end_s": 6187.65356
     },
     {
       "ordinal": 2,
       "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_2.mp3",
-      "start_s": 6189.898299,
-      "end_s": 8547.549478
+      "start_s": 6187.65356,
+      "end_s": 8544.912902
     },
     {
       "ordinal": 3,
       "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_3.mp3",
-      "start_s": 8547.549478,
-      "end_s": 11614.866734000001
+      "start_s": 8544.912902,
+      "end_s": 11611.892063
     },
     {
       "ordinal": 4,
       "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_4.mp3",
-      "start_s": 11614.866734000001,
-      "end_s": 14491.65551
+      "start_s": 11611.892063,
+      "end_s": 14486.027777
     },
     {
       "ordinal": 5,
       "audio_key": "publications/7b84a051046b146eb90617138320b5f88f933866/audio_part_5.mp3",
-      "start_s": 14491.65551,
-      "end_s": 18032.722131000002
+      "start_s": 14486.027777,
+      "end_s": 18027.472923999998
     }
   ],
   "segments": [
@@ -71,7 +71,7 @@
       "ordinal": 1,
       "title": "Chapter I. Mr. Sherlock Holmes.",
       "start_s": 7.503,
-      "end_s": 722.883,
+      "end_s": 720.622,
       "part_ordinal": 0,
       "intro": false,
       "title_only": false,
@@ -90,8 +90,8 @@
     {
       "ordinal": 2,
       "title": "Chapter II. The Curse of the Baskervilles.",
-      "start_s": 722.883,
-      "end_s": 1960.192,
+      "start_s": 720.622,
+      "end_s": 1957.94,
       "part_ordinal": 0,
       "intro": false,
       "title_only": false,
@@ -110,8 +110,8 @@
     {
       "ordinal": 3,
       "title": "Chapter III. The Problem.",
-      "start_s": 1960.192,
-      "end_s": 2864.79,
+      "start_s": 1957.94,
+      "end_s": 2862.546,
       "part_ordinal": 0,
       "intro": false,
       "title_only": false,
@@ -135,8 +135,8 @@
     {
       "ordinal": 4,
       "title": "Chapter IV. Sir Henry Baskerville.",
-      "start_s": 2864.79,
-      "end_s": 4056.468,
+      "start_s": 2862.546,
+      "end_s": 4054.224,
       "part_ordinal": 1,
       "intro": false,
       "title_only": false,
@@ -165,8 +165,8 @@
     {
       "ordinal": 5,
       "title": "Chapter V. Three Broken Threads.",
-      "start_s": 4056.468,
-      "end_s": 5091.701,
+      "start_s": 4054.224,
+      "end_s": 5089.456,
       "part_ordinal": 1,
       "intro": false,
       "title_only": false,
@@ -190,8 +190,8 @@
     {
       "ordinal": 6,
       "title": "Chapter VI. Baskerville Hall.",
-      "start_s": 5091.701,
-      "end_s": 6189.898,
+      "start_s": 5089.456,
+      "end_s": 6187.654,
       "part_ordinal": 1,
       "intro": false,
       "title_only": false,
@@ -240,8 +240,8 @@
     {
       "ordinal": 7,
       "title": "Chapter VII. The Stapletons of Merripit House.",
-      "start_s": 6189.898,
-      "end_s": 7675.098,
+      "start_s": 6187.654,
+      "end_s": 7672.457,
       "part_ordinal": 2,
       "intro": false,
       "title_only": false,
@@ -275,8 +275,8 @@
     {
       "ordinal": 8,
       "title": "Chapter VIII. First Report of Dr. Watson.",
-      "start_s": 7675.098,
-      "end_s": 8547.549,
+      "start_s": 7672.457,
+      "end_s": 8544.913,
       "part_ordinal": 2,
       "intro": false,
       "title_only": false,
@@ -310,8 +310,8 @@
     {
       "ordinal": 9,
       "title": "Chapter IX. The Light upon the Moor [Second Report of Dr. Watson]",
-      "start_s": 8547.549,
-      "end_s": 10522.606,
+      "start_s": 8544.913,
+      "end_s": 10519.632,
       "part_ordinal": 3,
       "intro": false,
       "title_only": false,
@@ -355,8 +355,8 @@
     {
       "ordinal": 10,
       "title": "Chapter X. Extract from the Diary of Dr. Watson.",
-      "start_s": 10522.606,
-      "end_s": 11614.867,
+      "start_s": 10519.632,
+      "end_s": 11611.892,
       "part_ordinal": 3,
       "intro": false,
       "title_only": false,
@@ -390,8 +390,8 @@
     {
       "ordinal": 11,
       "title": "Chapter XI. The Man on the Tor.",
-      "start_s": 11614.867,
-      "end_s": 13024.784,
+      "start_s": 11611.892,
+      "end_s": 13021.089,
       "part_ordinal": 4,
       "intro": false,
       "title_only": false,
@@ -420,8 +420,8 @@
     {
       "ordinal": 12,
       "title": "Chapter XII. Death on the Moor.",
-      "start_s": 13024.784,
-      "end_s": 14491.656,
+      "start_s": 13021.089,
+      "end_s": 14486.028,
       "part_ordinal": 4,
       "intro": false,
       "title_only": false,
@@ -450,8 +450,8 @@
     {
       "ordinal": 13,
       "title": "Chapter XIII. Fixing the Nets.",
-      "start_s": 14491.656,
-      "end_s": 15498.318,
+      "start_s": 14486.028,
+      "end_s": 15493.06,
       "part_ordinal": 5,
       "intro": false,
       "title_only": false,
@@ -480,8 +480,8 @@
     {
       "ordinal": 14,
       "title": "Chapter XIV. The Hound of the Baskervilles.",
-      "start_s": 15498.318,
-      "end_s": 16787.986,
+      "start_s": 15493.06,
+      "end_s": 16782.733,
       "part_ordinal": 5,
       "intro": false,
       "title_only": false,
@@ -510,8 +510,8 @@
     {
       "ordinal": 15,
       "title": "Chapter XV. A Retrospection.",
-      "start_s": 16787.986,
-      "end_s": 18032.722,
+      "start_s": 16782.733,
+      "end_s": 18027.473,
       "part_ordinal": 5,
       "intro": false,
       "title_only": false,
