@@ -29,6 +29,35 @@
     "min_app_version": "1.1.0"
   },
   {
+    "publication_identifier": "70da79e26dc59c69a613bad4f657bbbd2b0187dd",
+    "sample": false,
+    "title": "Dracula",
+    "author_names": "Bram Stoker",
+    "publication_type": "novel",
+    "genre_tags": [
+      "horror",
+      "epistolary"
+    ],
+    "catalog_added_at": "2026-01-30T12:30:56Z",
+    "updated_at": "2026-06-25T12:19:50Z",
+    "duration": {
+      "total_ms": 47051000,
+      "formatted": "13h 4m"
+    },
+    "cover_url": "https://assets.characterecho.com/covers%2F70da79e26dc59c69a613bad4f657bbbd2b0187dd.png",
+    "data_checksum": "c0c4de2623cb8bf2af5241b60bc5e73ec0ce2069e7cbdc3d5c55eece4f9faf33",
+    "file_size": 1271418862,
+    "available_regions": [
+      "US",
+      "CA",
+      "GB",
+      "AU",
+      "NZ",
+      "IE"
+    ],
+    "min_app_version": "1.1.0"
+  },
+  {
     "publication_identifier": "d702b6f26a6d702414de52840e066938512e5a53",
     "sample": false,
     "title": "The Picture of Dorian Gray",

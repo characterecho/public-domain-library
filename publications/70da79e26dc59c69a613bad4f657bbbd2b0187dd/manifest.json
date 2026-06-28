@@ -1,0 +1,2723 @@
+{
+  "manifest_version": 2,
+  "sample": false,
+  "title": "Dracula",
+  "author_names": "Bram Stoker",
+  "description": "Publication imported from https://gutenberg.org/ebooks/345.epub3.images",
+  "epub_source": "https://gutenberg.org/ebooks/345.epub3.images",
+  "identifier": "70da79e26dc59c69a613bad4f657bbbd2b0187dd",
+  "publication_type": "novel",
+  "cover_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/cover.png",
+  "total_duration_s": 47111.030226,
+  "genre_tags": [
+    "Horror",
+    "Gothic",
+    "Epistolary",
+    "Supernatural",
+    "Vampire"
+  ],
+  "parts": [
+    {
+      "ordinal": 0,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_0.mp3",
+      "start_s": 0.0,
+      "end_s": 3457.690658
+    },
+    {
+      "ordinal": 1,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_1.mp3",
+      "start_s": 3457.690658,
+      "end_s": 6642.445511
+    },
+    {
+      "ordinal": 2,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_2.mp3",
+      "start_s": 6642.445511,
+      "end_s": 8913.567597
+    },
+    {
+      "ordinal": 3,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_3.mp3",
+      "start_s": 8913.567597,
+      "end_s": 10712.491112
+    },
+    {
+      "ordinal": 4,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_4.mp3",
+      "start_s": 10712.491112,
+      "end_s": 12757.267597
+    },
+    {
+      "ordinal": 5,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_5.mp3",
+      "start_s": 12757.267597,
+      "end_s": 16275.503856
+    },
+    {
+      "ordinal": 6,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_6.mp3",
+      "start_s": 16275.503856,
+      "end_s": 19697.715715
+    },
+    {
+      "ordinal": 7,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_7.mp3",
+      "start_s": 19697.715715,
+      "end_s": 21404.515556
+    },
+    {
+      "ordinal": 8,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_8.mp3",
+      "start_s": 21404.515556,
+      "end_s": 23414.470114
+    },
+    {
+      "ordinal": 9,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_9.mp3",
+      "start_s": 23414.470114,
+      "end_s": 26431.603198
+    },
+    {
+      "ordinal": 10,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_10.mp3",
+      "start_s": 26431.603198,
+      "end_s": 28129.16728
+    },
+    {
+      "ordinal": 11,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_11.mp3",
+      "start_s": 28129.16728,
+      "end_s": 30375.834241
+    },
+    {
+      "ordinal": 12,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_12.mp3",
+      "start_s": 30375.834241,
+      "end_s": 33949.25415
+    },
+    {
+      "ordinal": 13,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_13.mp3",
+      "start_s": 33949.25415,
+      "end_s": 37097.623356000004
+    },
+    {
+      "ordinal": 14,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_14.mp3",
+      "start_s": 37097.623356000004,
+      "end_s": 40341.564512000004
+    },
+    {
+      "ordinal": 15,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_15.mp3",
+      "start_s": 40341.564512000004,
+      "end_s": 42398.302811
+    },
+    {
+      "ordinal": 16,
+      "audio_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/audio_part_16.mp3",
+      "start_s": 42398.302811,
+      "end_s": 47111.030226
+    }
+  ],
+  "segments": [
+    {
+      "ordinal": 0,
+      "title": "Introduction",
+      "start_s": 0.0,
+      "end_s": 6.069,
+      "part_ordinal": 0,
+      "metadata": {},
+      "background_key": null
+    },
+    {
+      "ordinal": 1,
+      "title": "CHAPTER I JONATHAN HARKER’S JOURNAL",
+      "start_s": 6.069,
+      "end_s": 1754.402,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_GOLDEN_KRONE",
+            "location_header": "INT. GOLDEN KRONE HOTEL - TWILIGHT",
+            "visual_description": "A rustic hotel bedroom in 19th-century Transylvania. Heavy timber beams cross the ceiling above white plaster walls adorned with dried herbs and a wooden crucifix. A painted peasant-style wardrobe stands in the corner. Gaslight flickers warmly against the deepening twilight visible through a small leaded window."
+          },
+          {
+            "identifier": "SCENE_CARPATHIAN_ROAD",
+            "location_header": "EXT. CARPATHIAN MOUNTAINS - SUNSET",
+            "visual_description": "A rugged mountain road winding through the Carpathian landscape at sunset. Green sloping hills are covered in orchards of white fruit blossoms. In the background, jagged pine-covered peaks turn deep purple and blue against a fading pink sky. The lighting is the golden-hour glow of early evening."
+          },
+          {
+            "identifier": "SCENE_BORGO_PASS_NIGHT",
+            "location_header": "EXT. BORGO PASS - NIGHT",
+            "visual_description": "A dark, narrow mountain pass shrouded in gloom and mist. Towering jagged rocks and dense pine forests loom on either side, creating a tunnel-like effect. The scene is lit only by moonlight breaking through storm clouds and the faint glow of carriage lamps on snow-dusted ground."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 2,
+      "title": "CHAPTER II JONATHAN HARKER’S JOURNAL—continued",
+      "start_s": 1754.402,
+      "end_s": 3457.691,
+      "part_ordinal": 0,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CASTLE_ENTRANCE_AND_DINING",
+            "location_header": "INT. CASTLE DRACULA - HALL AND DINING ROOM",
+            "visual_description": "Ancient Transylvanian castle interior at night. A massive stone hall with a great iron-studded door leads into a dining room warmed by a roaring log fire. Antique silver lamps cast long, quivering shadows against stone walls. A table is spread for supper with gold service. Medieval architecture, gloomy but grand, with no mirrors visible."
+          },
+          {
+            "identifier": "SCENE_CASTLE_LIBRARY",
+            "location_header": "INT. CASTLE DRACULA - LIBRARY",
+            "visual_description": "A vast library in the castle, walls lined with shelves of English books and bound magazines. A table in the center is littered with papers and periodicals. Lit by oil lamps, the room has a scholarly but ancient feel, with heavy curtains and comfortable but old furniture. No mirrors."
+          },
+          {
+            "identifier": "SCENE_CASTLE_BEDROOM",
+            "location_header": "INT. CASTLE DRACULA - BEDROOM",
+            "visual_description": "A large, well-appointed bedroom in the castle. A great bed with heavy hangings dominates the room. A log fire burns in a wide stone hearth. A window looks out over a stone precipice. The room is comfortable but isolated, with a small octagonal antechamber."
+          },
+          {
+            "identifier": "SCENE_CASTLE_EXT_PRECIPICE",
+            "location_header": "EXT. CASTLE DRACULA - DAY",
+            "visual_description": "A view from the castle parapets looking out over a sea of green treetops and deep gorges. Steep, jagged cliffs drop away thousands of feet. Silver threads of rivers wind through the forest below. The view is magnificent but terrifyingly high."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 3,
+      "title": "CHAPTER III JONATHAN HARKER’S JOURNAL—continued",
+      "start_s": 3457.691,
+      "end_s": 5204.04,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CASTLE_LIBRARY",
+            "location_header": "INT. CASTLE DRACULA - LIBRARY",
+            "visual_description": "A vast library in the castle, walls lined with shelves of English books and bound magazines. A table in the center is littered with papers and periodicals. Lit by oil lamps, the room has a scholarly but ancient feel, with heavy curtains and comfortable but old furniture. No mirrors."
+          },
+          {
+            "identifier": "SCENE_CASTLE_BEDROOM_WINDOW",
+            "location_header": "INT/EXT. CASTLE DRACULA - BEDROOM WINDOW",
+            "visual_description": "A stone-mullioned window in a castle bedroom looking out over a vast abyss. Moonlight bathes the weathered stonework and the precipice dropping away into darkness. The walls are rough stone, ancient and formidable."
+          },
+          {
+            "identifier": "SCENE_CASTLE_LADIES_WING",
+            "location_header": "INT. CASTLE DRACULA - LADIES' WING",
+            "visual_description": "A dusty suite of rooms in an older wing of the castle. Moonlight floods through diamond-paned windows, illuminating heavy, moth-eaten furniture that once spoke of comfort. The air is still and thick with the dust of centuries. A large couch sits near a corner."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
+      "title": "CHAPTER IV JONATHAN HARKER’S JOURNAL—continued",
+      "start_s": 5204.04,
+      "end_s": 6642.446,
+      "part_ordinal": 1,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_CASTLE_BEDROOM",
+            "location_header": "INT. CASTLE DRACULA - BEDROOM - DAY",
+            "visual_description": "A large, well-appointed bedroom in the castle. A great bed with heavy hangings dominates the room. A log fire burns in a wide stone hearth. A window looks out over a stone precipice. The room is comfortable but isolated, with a small octagonal antechamber."
+          },
+          {
+            "identifier": "SCENE_CASTLE_LIBRARY",
+            "location_header": "INT. CASTLE DRACULA - LIBRARY - NIGHT",
+            "visual_description": "A vast library in the castle, walls lined with shelves of English books and bound magazines. A table in the center is littered with papers and periodicals. Lit by oil lamps, the room has a scholarly but ancient feel, with heavy curtains and comfortable but old furniture. No mirrors."
+          },
+          {
+            "identifier": "SCENE_CASTLE_BEDROOM_WINDOW",
+            "location_header": "INT/EXT. CASTLE DRACULA - BEDROOM WINDOW - NIGHT",
+            "visual_description": "A stone-mullioned window in a castle bedroom looking out over a vast abyss. Moonlight bathes the weathered stonework and the precipice dropping away into darkness. The walls are rough stone, ancient and formidable."
+          },
+          {
+            "identifier": "SCENE_CASTLE_CHAPEL",
+            "location_header": "INT. CASTLE DRACULA - CHAPEL VAULT - DAY",
+            "visual_description": "A ruined medieval chapel beneath the castle, heavy with the smell of turned earth. Broken vaulted ceilings reveal dark stonework. The floor is dug up, with piles of earth and fifty great wooden boxes arranged in the gloom. An arched stone passage leads to a circular stair. Lit only by a lantern, shadows are deep and menacing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 5,
+      "title": "CHAPTER V",
+      "start_s": 6642.446,
+      "end_s": 7078.719,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MINA_ROOM",
+            "location_header": "INT. MINA'S ROOM - DAY",
+            "visual_description": "A modest, tidy room in a schoolmistress's house. A small desk holds a typewriter and stacks of books. A window looks out on a quiet street. The atmosphere is practical and diligent, with soft daylight illuminating the simple furnishings. A sense of studious order prevails."
+          },
+          {
+            "identifier": "SCENE_LUCY_DRAWING_ROOM",
+            "location_header": "INT. LUCY'S DRAWING ROOM - DAY",
+            "visual_description": "A luxurious Victorian drawing room filled with light. Plush velvet sofas, a marble fireplace, and elegant floral arrangements. Large windows draped in silk look out onto a garden. The mood is romantic and bright, with pastel colors and rich textures. A place of comfort and wealth."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A somber, clinical study in an asylum. Walls lined with medical texts and case files. A large desk is cluttered with papers and a phonograph with wax cylinders. The lighting is functional but dim, casting long shadows. An atmosphere of intellectual melancholy."
+          },
+          {
+            "identifier": "SCENE_MORRIS_ROOM",
+            "location_header": "INT. MORRIS'S ROOM - NIGHT",
+            "visual_description": "A comfortable private room, perhaps in a club or hotel. Leather armchairs, a side table with a decanter of whiskey, and travel mementos. The atmosphere is masculine and warm, with the glow of a fire or lamp."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 6,
+      "title": "CHAPTER VI MINA MURRAY’S JOURNAL",
+      "start_s": 7078.719,
+      "end_s": 8913.568,
+      "part_ordinal": 2,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WHITBY_CHURCHYARD",
+            "location_header": "EXT. WHITBY CHURCHYARD - DAY",
+            "visual_description": "A grassy churchyard on a high cliff overlooking a Victorian harbour. Ancient weathered tombstones lean at odd angles. In the background, the immense, noble ruins of Whitby Abbey stand against a bright sky. Below, red-roofed houses pile up towards the water. Bright, breezy seaside atmosphere."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - DAY",
+            "visual_description": "A somber, clinical study in an asylum. Walls lined with medical texts and case files. A large desk is cluttered with papers and a phonograph with wax cylinders. The lighting is functional but dim, casting long shadows. An atmosphere of intellectual melancholy."
+          },
+          {
+            "identifier": "SCENE_WHITBY_STORM",
+            "location_header": "EXT. WHITBY CHURCHYARD - STORM",
+            "visual_description": "The Whitby cliffside shrouded in heavy grey mist and storm clouds. The sea below is a tumult of grey water and white foam. The Abbey ruins loom darkly in the fog. The atmosphere is ominous, oppressive, and dim, lit only by a diffused, sun-burst grey light."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 7,
+      "title": "CHAPTER VII CUTTING FROM “THE DAILYGRAPH,” 8 AUGUST",
+      "start_s": 8913.568,
+      "end_s": 10712.491,
+      "part_ordinal": 3,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_WHITBY_CLIFFS_STORM",
+            "location_header": "EXT. WHITBY CLIFFS - NIGHT",
+            "visual_description": "A dramatic Victorian seaside cliff top at night, lashed by a violent storm. In the foreground, wet grass and gravestones of the churchyard glisten in flashes of lightning. Below, the dark, churning North Sea smashes against the harbour piers. The beam of a searchlight cuts through heavy rain and sea-fog. Cold blues, greys, and stark white highlights."
+          },
+          {
+            "identifier": "SCENE_DEMETER_DECK",
+            "location_header": "EXT. SCHOONER DEMETER - NIGHT",
+            "visual_description": "The deck of a 19th-century schooner at sea, shrouded in thick grey fog. Wet wooden planks and rigging are dimly lit by a swaying oil lantern. The atmosphere is claustrophobic and damp. Shadows loom in the mist. Muted grey and sickly yellow tones."
+          },
+          {
+            "identifier": "SCENE_MINA_ROOM",
+            "location_header": "INT. MINA'S ROOM - DAY",
+            "visual_description": "A modest, tidy room in a schoolmistress's house. A small desk holds a typewriter and stacks of books. A window looks out on a quiet street. The atmosphere is practical and diligent, with soft daylight illuminating the simple furnishings. A sense of studious order prevails."
+          },
+          {
+            "identifier": "SCENE_WHITBY_CHURCHYARD",
+            "location_header": "EXT. WHITBY CHURCHYARD - DAY",
+            "visual_description": "A grassy churchyard on a high cliff overlooking a Victorian harbour. Ancient weathered tombstones lean at odd angles. In the background, the immense, noble ruins of Whitby Abbey stand against a bright sky. Below, red-roofed houses pile up towards the water. Bright, breezy seaside atmosphere."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 8,
+      "title": "CHAPTER VIII MINA MURRAY’S JOURNAL",
+      "start_s": 10712.491,
+      "end_s": 12757.268,
+      "part_ordinal": 4,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_MINA_ROOM",
+            "location_header": "INT. MINA'S ROOM - DAY",
+            "visual_description": "A modest, tidy room in a schoolmistress's house. A small desk holds a typewriter and stacks of books. A window looks out on a quiet street. The atmosphere is practical and diligent, with soft daylight illuminating the simple furnishings. A sense of studious order prevails."
+          },
+          {
+            "identifier": "SCENE_WHITBY_CLIFFS_STORM",
+            "location_header": "EXT. WHITBY CLIFFS - NIGHT",
+            "visual_description": "A dramatic Victorian seaside cliff top at night, lashed by a violent storm. In the foreground, wet grass and gravestones of the churchyard glisten in flashes of lightning. Below, the dark, churning North Sea smashes against the harbour piers. The beam of a searchlight cuts through heavy rain and sea-fog. Cold blues, greys, and stark white highlights."
+          },
+          {
+            "identifier": "SCENE_WHITBY_CHURCHYARD",
+            "location_header": "EXT. WHITBY CHURCHYARD - DAY",
+            "visual_description": "A grassy churchyard on a high cliff overlooking a Victorian harbour. Ancient weathered tombstones lean at odd angles. In the background, the immense, noble ruins of Whitby Abbey stand against a bright sky. Below, red-roofed houses pile up towards the water. Bright, breezy seaside atmosphere."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A somber, clinical study in an asylum. Walls lined with medical texts and case files. A large desk is cluttered with papers and a phonograph with wax cylinders. The lighting is functional but dim, casting long shadows. An atmosphere of intellectual melancholy."
+          },
+          {
+            "identifier": "SCENE_CARFAX_CHAPEL_EXT",
+            "location_header": "EXT. CARFAX CHAPEL - NIGHT",
+            "visual_description": "The overgrown exterior of a deserted chapel at night. A massive, iron-bound oak door stands shut within a high stone archway. Weeds and ivy choke the rough masonry. Moonlight struggles through dense trees, casting erratic shadows on the damp ground. An atmosphere of decay and ancient secrets."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 9,
+      "title": "CHAPTER IX",
+      "start_s": 12757.268,
+      "end_s": 14633.574,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HOSPITAL_BUDAPEST",
+            "location_header": "INT. HOSPITAL BUDAPEST - DAY",
+            "visual_description": "A simplified convent hospital room in late 19th-century Budapest. Whitewashed walls, a simple iron bed where a thin figure lies. A crucifix on the wall. Afternoon light filters through a small window. Clean, austere, and peaceful."
+          },
+          {
+            "identifier": "SCENE_LUCY_DRAWING_ROOM",
+            "location_header": "INT. LUCY'S DRAWING ROOM - DAY",
+            "visual_description": "A luxurious Victorian drawing room filled with light. Plush velvet sofas, a marble fireplace, and elegant floral arrangements. Large windows draped in silk look out onto a garden. The mood is romantic and bright, with pastel colors and rich textures."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A somber, clinical study in an asylum. Walls lined with medical texts and case files. A large desk is cluttered with papers and a phonograph with wax cylinders. The lighting is functional but dim, casting long shadows. An atmosphere of intellectual melancholy."
+          },
+          {
+            "identifier": "SCENE_RENFIELD_CELL",
+            "location_header": "INT. RENFIELD'S CELL - NIGHT",
+            "visual_description": "A padded cell in a Victorian asylum. Walls covered in heavy quilted canvas. High barred window letting in a shaft of moonlight or sunlight. A heavy wooden door with a viewing slat. Sparse, clinical, and claustrophobic."
+          },
+          {
+            "identifier": "SCENE_CARFAX_CHAPEL_EXT",
+            "location_header": "EXT. CARFAX CHAPEL - NIGHT",
+            "visual_description": "The overgrown exterior of a deserted chapel at night. A massive, iron-bound oak door stands shut within a high stone archway. Weeds and ivy choke the rough masonry. Moonlight struggles through dense trees, casting erratic shadows on the damp ground."
+          },
+          {
+            "identifier": "SCENE_LUCY_BEDROOM",
+            "location_header": "INT. LUCY'S BEDROOM - NIGHT",
+            "visual_description": "A well-appointed Victorian young lady's bedroom. Frilly curtains, a vanity with silver brushes, a large four-poster bed. Moonlight streams in through the window, casting shadows. Pale colors, elegant but currently ominous."
+          },
+          {
+            "identifier": "SCENE_ALBEMARLE_HOTEL",
+            "location_header": "INT. ALBEMARLE HOTEL - NIGHT",
+            "visual_description": "An upscale hotel writing desk area. Stationery with the hotel crest, an oil lamp burning low, and a glass of brandy. The background suggests a well-furnished private suite in London. Serious and quiet."
+          },
+          {
+            "identifier": "SCENE_VAN_HELSING_STUDY",
+            "location_header": "INT. VAN HELSING'S STUDY - NIGHT",
+            "visual_description": "A cluttered academic study in Amsterdam. Books piled high, medical instruments, scattered papers. Heavy wooden furniture, tobacco smoke hanging in the air. Warm lamp light against dark wood. Intellectual and chaotic."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 10,
+      "title": "CHAPTER X",
+      "start_s": 14633.574,
+      "end_s": 16275.504,
+      "part_ordinal": 5,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A somber, clinical study in an asylum. Walls lined with medical texts and case files. A large desk is cluttered with papers and a phonograph with wax cylinders. The lighting is functional but dim, casting long shadows. An atmosphere of intellectual melancholy."
+          },
+          {
+            "identifier": "SCENE_LUCY_DRAWING_ROOM",
+            "location_header": "INT. LUCY'S DRAWING ROOM - DAY",
+            "visual_description": "A luxurious Victorian drawing room filled with light. Plush velvet sofas, a marble fireplace, and elegant floral arrangements. Large windows draped in silk look out onto a garden. The mood is romantic and bright, with pastel colors and rich textures. A place of comfort and wealth."
+          },
+          {
+            "identifier": "SCENE_LUCY_BEDROOM",
+            "location_header": "INT. LUCY'S BEDROOM - DAY",
+            "visual_description": "A well-appointed Victorian young lady's bedroom. Frilly curtains, a vanity with silver brushes, a large four-poster bed. Moonlight streams in through the window, casting shadows. Pale colors, elegant but currently ominous."
+          },
+          {
+            "identifier": "SCENE_HILLINGHAM_PASSAGE",
+            "location_header": "INT. HILLINGHAM HALLWAY - DAY",
+            "visual_description": "A quiet, well-furnished corridor in a grand Victorian manor. Flocked wallpaper in muted tones, polished wooden floorboards with runners. Gas sconces provide low, steady light. Several panelled wooden doors lead to bedrooms. An atmosphere of hushed anxiety."
+          },
+          {
+            "identifier": "SCENE_HILLINGHAM_HALL",
+            "location_header": "INT. HILLINGHAM ENTRANCE HALL - DAY",
+            "visual_description": "The grand entrance hall of Hillingham. Black and white tiled floor, a sweeping staircase with a polished banister. Heavy front door with brass fittings. Afternoon light filters through the fanlight. Elegant but currently tense."
+          },
+          {
+            "identifier": "SCENE_GUEST_ROOM_HILLINGHAM",
+            "location_header": "INT. GUEST ROOM - NIGHT",
+            "visual_description": "A comfortable guest bedroom in a Victorian manor. A cozy fire burns in the grate. A plush sofa sits near the hearth. The room is warm and inviting, contrasting with the tension elsewhere in the house. Soft firelight and shadows."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 11,
+      "title": "CHAPTER XI",
+      "start_s": 16275.504,
+      "end_s": 17357.883,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_LUCY_BEDROOM",
+            "location_header": "INT. LUCY'S BEDROOM - DAY",
+            "visual_description": "A well-appointed Victorian young lady's bedroom. Frilly curtains, a vanity with silver brushes, a large four-poster bed. A wreath of garlic hangs on the wall. Sunlight streams in through the window. A peaceful atmosphere."
+          },
+          {
+            "identifier": "SCENE_LUCY_DRAWING_ROOM",
+            "location_header": "INT. HILLINGHAM MORNING ROOM - DAY",
+            "visual_description": "A sunny, pleasant sitting room in Hillingham. Large windows overlook the garden. Comfortable chairs and a breakfast table set with silver. The room feels airy and safe, masking the underlying dread."
+          },
+          {
+            "identifier": "SCENE_HILLINGHAM_DINING",
+            "location_header": "INT. HILLINGHAM DINING ROOM - DAY",
+            "visual_description": "A formal Victorian dining room. A heavy mahogany table dominates the space. A sideboard holds crystal decanters. The room is quiet and shadowed, suitable for private, grim conversations."
+          },
+          {
+            "identifier": "SCENE_ZOO_COTTAGE",
+            "location_header": "INT. ZOO KEEPER'S COTTAGE - EVENING",
+            "visual_description": "A small, cluttered keeper's cottage at the London Zoo. A simple wooden table is set for tea. A fireplace warms the room. Animal cages are visible through the window. The atmosphere is working-class and domestic."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A somber, clinical study in an asylum. Walls lined with medical texts and case files. A large desk is cluttered with papers. The room is untidy with piles of books. A scene of chaotic intellectual work."
+          },
+          {
+            "identifier": "SCENE_LUCY_BEDROOM_NIGHT",
+            "location_header": "INT. LUCY'S BEDROOM - NIGHT",
+            "visual_description": "Lucy's bedroom at night, chaotic and terrifying. A broken window lets in the wind. Broken glass covers the floor. The body of Mrs. Westenra lies on the bed. A garlic wreath lies discarded. Dark, stormy, and horrific."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 12,
+      "title": "CHAPTER XII DR. SEWARD’S DIARY",
+      "start_s": 17357.883,
+      "end_s": 19697.716,
+      "part_ordinal": 6,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HILLINGHAM_DINING",
+            "location_header": "INT. HILLINGHAM DINING ROOM - MORNING",
+            "visual_description": "A formal Victorian dining room in morning light, though currently dim with closed shutters. A heavy mahogany table dominates the room. The air is stale with the smell of laudanum. Four servant women lie unconscious on the floor. Disarray contrasts with the room's usual order."
+          },
+          {
+            "identifier": "SCENE_LUCY_BEDROOM",
+            "location_header": "INT. LUCY'S BEDROOM - MORNING",
+            "visual_description": "A well-appointed Victorian bedroom, chaotic and terrifying. A broken window lets in the wind. On the large four-poster bed lie two women. The room is filled with the smell of garlic and brandy. Pale morning light reveals a scene of tragedy."
+          },
+          {
+            "identifier": "SCENE_HILLINGHAM_BREAKFAST",
+            "location_header": "INT. HILLINGHAM BREAKFAST ROOM - AFTERNOON",
+            "visual_description": "A breakfast room at Hillingham, lighter and less cheerless than the rest of the house. The blinds are up, admitting afternoon light. A table is set for a meal. The atmosphere is tense but functional, a brief respite from the gloom."
+          },
+          {
+            "identifier": "SCENE_EXETER_HOUSE",
+            "location_header": "INT. HAWKINS HOUSE EXETER - DAY",
+            "visual_description": "A bright, airy room in a beautiful old house in Exeter. Tall windows look out onto cathedral elms and ancient yellow stone. The sound of rooks cawing is audible. The room is filled with domestic comfort, sewing materials, and a sense of new beginnings."
+          },
+          {
+            "identifier": "SCENE_ASYLUM_GROUNDS",
+            "location_header": "EXT. ASYLUM GROUNDS - DAY",
+            "visual_description": "The grounds of a Victorian asylum. A driveway leads to a large empty house next door. A carrier's cart stands on the gravel. High walls and iron gates surround the area. The atmosphere is volatile and public."
+          },
+          {
+            "identifier": "SCENE_LUCY_BEDROOM_NIGHT",
+            "location_header": "INT. LUCY'S BEDROOM - NIGHT",
+            "visual_description": "Lucy's bedroom at night, lit by dim gaslight and moonlight filtering through the blinds. The garlic flowers are prominent. Shadows are deep and long. The room feels claustrophobic and charged with supernatural dread."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 13,
+      "title": "CHAPTER XIII DR. SEWARD’S DIARY—continued.",
+      "start_s": 19697.716,
+      "end_s": 21404.516,
+      "part_ordinal": 7,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HILLINGHAM_HALL",
+            "location_header": "INT. HILLINGHAM - HALL - DAY",
+            "visual_description": "The grand entrance hall of Hillingham Manor, draped in funeral crepe. A black and white tiled floor stretches beneath a sweeping staircase. Heavy shadows cling to the corners, contrasting with the sombre activity of undertakers. Victorian mourning atmosphere."
+          },
+          {
+            "identifier": "SCENE_HILLINGHAM_DINING",
+            "location_header": "INT. HILLINGHAM - DINING ROOM - DAY",
+            "visual_description": "A formal Victorian dining room serving as a makeshift workspace. A heavy mahogany table is covered in papers and legal documents. The room is dim, lit by gas sconces, with heavy velvet curtains drawn against the day. An atmosphere of administrative gloom."
+          },
+          {
+            "identifier": "SCENE_LUCY_BEDROOM",
+            "location_header": "INT. LUCY'S BEDROOM - NIGHT",
+            "visual_description": "A bedroom transformed into a chapelle ardente. Tall wax candles burn steadily, casting a soft golden glow over masses of white flowers. In the centre, a coffin rests, the face covered by a winding sheet. The room is still, beautiful, and heavy with the scent of lilies."
+          },
+          {
+            "identifier": "SCENE_GUEST_ROOM_HILLINGHAM",
+            "location_header": "INT. GUEST ROOM - NIGHT",
+            "visual_description": "A comfortable Victorian guest bedroom. A fire burns low in the grate, casting flickering orange light on floral wallpaper and a plush armchair. A washstand with a ceramic pitcher sits in the corner. The atmosphere is intimate and weary."
+          },
+          {
+            "identifier": "SCENE_LUCY_DRAWING_ROOM",
+            "location_header": "INT. DRAWING ROOM - TWILIGHT",
+            "visual_description": "A luxurious drawing room at twilight. Plush velvet sofas and a marble fireplace provide comfort, but the mood is heavy. Gas lamps emit a low hiss. The room feels empty despite the furniture, marked by the absence of its mistress."
+          },
+          {
+            "identifier": "SCENE_HYDE_PARK_CORNER",
+            "location_header": "EXT. HYDE PARK CORNER - DAY",
+            "visual_description": "A bustling Victorian street corner in London on a sunny autumn day. Horse-drawn omnibuses and carriages pass by iron railings. Pedestrians in top hats and bonnets walk along the pavement. The leaves on the trees are turning golden brown."
+          },
+          {
+            "identifier": "SCENE_PICCADILLY",
+            "location_header": "EXT. PICCADILLY - DAY",
+            "visual_description": "A fashionable London street lined with high-end shops and clubs. A victoria carriage waits near the curb. Crowds of well-dressed Londoners move past shop windows displaying luxury goods. The architecture is grand and imposing."
+          },
+          {
+            "identifier": "SCENE_GREEN_PARK",
+            "location_header": "EXT. GREEN PARK - DAY",
+            "visual_description": "A quiet, shady spot in a London park. A wooden bench sits beneath large plane trees shedding their leaves. The grass is dappled with sunlight. In the distance, the noise of the city is a muffled hum. Peaceful and secluded."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. SEWARD'S STUDY - NIGHT",
+            "visual_description": "Dr. Seward's study, cluttered and clinical. Walls lined with medical texts and case files. A large desk holds a phonograph and stacks of paper. The lighting is functional, casting long shadows. An atmosphere of intellectual melancholy."
+          },
+          {
+            "identifier": "SCENE_HAMPSTEAD_HEATH_DUSK",
+            "location_header": "EXT. HAMPSTEAD HEATH - DUSK",
+            "visual_description": "A wild, overgrown section of Hampstead Heath at dusk. Gorse bushes and furze cast long, jagged shadows. The sky is a bruising purple and grey. A distant path winds through the gloom. Mysterious and slightly menacing."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 14,
+      "title": "CHAPTER XIV MINA HARKER’S JOURNAL",
+      "start_s": 21404.516,
+      "end_s": 23414.47,
+      "part_ordinal": 8,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_EXETER_HOUSE",
+            "location_header": "INT. HAWKINS HOUSE - EXETER - DAY",
+            "visual_description": "A bright Victorian drawing room in Exeter flooded with soft daylight. Tall sash windows reveal cathedral elms and ancient yellow stone outside. Inside, a sewing table with fabrics and a typewriter on a desk sit in the foreground. Domestic, airy atmosphere with pale floral wallpaper and comfortable furniture."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 15,
+      "title": "CHAPTER XV DR. SEWARD’S DIARY—continued.",
+      "start_s": 23414.47,
+      "end_s": 25118.46,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          },
+          {
+            "identifier": "SCENE_NORTH_HOSPITAL",
+            "location_header": "INT. NORTH HOSPITAL - DAY",
+            "visual_description": "A children's ward in a London hospital, late Victorian era. Rows of iron cots with white linens line the walls. Large sash windows let in pale afternoon light. A nurse's station with medical charts and glass bottles stands in the foreground. Clean, sterile, and institutional atmosphere with white-washed walls."
+          },
+          {
+            "identifier": "SCENE_KINGSTEAD_CHURCHYARD",
+            "location_header": "EXT. KINGSTEAD CHURCHYARD - NIGHT",
+            "visual_description": "A large Victorian churchyard at night, overgrown and shadowed. Ancient yew trees and cedar spread dark branches over marble headstones and iron-railed family plots. A gravel path winds through the gloom. Moonlight struggles through heavy drifting clouds. Eerie, silent, and cold."
+          },
+          {
+            "identifier": "SCENE_WESTENRA_TOMB",
+            "location_header": "INT. WESTENRA TOMB - NIGHT",
+            "visual_description": "The interior of a grand stone burial vault. Damp stone walls are lined with shelves holding leaden and wood coffins. The air is thick with dust and the smell of death. Rusty iron grilles and tarnished brass plates catch the flicker of lantern light. Oppressive, heavy, and silent."
+          },
+          {
+            "identifier": "SCENE_BERKELEY_HOTEL",
+            "location_header": "INT. BERKELEY HOTEL - DAY",
+            "visual_description": "An upscale Victorian hotel room in London. Rich patterned wallpaper and heavy velvet curtains. A writing desk is cluttered with papers, medical instruments, and an oil lamp. Comfortable armchairs sit near a cold fireplace. The atmosphere is private and studious."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 16,
+      "title": "CHAPTER XVI DR. SEWARD’S DIARY—continued",
+      "start_s": 25118.46,
+      "end_s": 26431.603,
+      "part_ordinal": 9,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_KINGSTEAD_CHURCHYARD",
+            "location_header": "EXT. KINGSTEAD CHURCHYARD - NIGHT",
+            "visual_description": "A large Victorian churchyard at night, overgrown and shadowed. Ancient yew trees and cedar spread dark branches over marble headstones and iron-railed family plots. A gravel path winds through the gloom. Moonlight struggles through heavy drifting clouds. Eerie, silent, and cold."
+          },
+          {
+            "identifier": "SCENE_WESTENRA_TOMB",
+            "location_header": "INT. WESTENRA TOMB - NIGHT",
+            "visual_description": "The interior of a grand stone burial vault. Damp stone walls are lined with shelves holding leaden and wood coffins. The air is thick with dust and the smell of death. Rusty iron grilles and tarnished brass plates catch the flicker of lantern light. Oppressive, heavy, and silent."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 17,
+      "title": "CHAPTER XVII DR. SEWARD’S DIARY—continued",
+      "start_s": 26431.603,
+      "end_s": 28129.167,
+      "part_ordinal": 10,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PADDINGTON_STATION",
+            "location_header": "INT/EXT. PADDINGTON STATION - DAY",
+            "visual_description": "A bustling Victorian railway station platform at Paddington. Steam billows from a arriving locomotive engine, mixing with the grey London daylight filtering through the high iron-and-glass roof. Porters push luggage carts through crowds of travelers in coats and hats. The atmosphere is noisy, industrial, and hurried."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          },
+          {
+            "identifier": "SCENE_CARTER_PATERSON_YARD",
+            "location_header": "EXT. CARTER PATERSON YARD - DAY",
+            "visual_description": "A dusty, chaotic carrier's yard in London. Horse-drawn wagons are being loaded with crates. The air is thick with floating dust and the smell of horses. Piles of wooden boxes and shipping invoices clutter the foreground. The lighting is flat, utilitarian daylight. Industrial and gritty."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 18,
+      "title": "CHAPTER XVIII DR. SEWARD’S DIARY",
+      "start_s": 28129.167,
+      "end_s": 30375.834,
+      "part_ordinal": 11,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RENFIELD_CELL",
+            "location_header": "INT. RENFIELD'S CELL - DAY",
+            "visual_description": "A padded cell in a Victorian asylum. Walls covered in heavy quilted canvas. High barred window letting in a shaft of moonlight or sunlight. A heavy wooden door with a viewing slat. Sparse, clinical, and claustrophobic."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 19,
+      "title": "CHAPTER XIX JONATHAN HARKER’S JOURNAL",
+      "start_s": 30375.834,
+      "end_s": 32122.92,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - NIGHT",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          },
+          {
+            "identifier": "SCENE_CARFAX_INTERIOR",
+            "location_header": "INT. CARFAX ABBEY - NIGHT",
+            "visual_description": "The dusty, neglected interior of Carfax Abbey. A stone hall leads to a low, arched oaken door. Inside the chapel, heavy layers of dust cover the floor and hang from walls like tattered rags. The air is stagnant and foul. Lit only by small electric lamps casting deep, dancing shadows against ancient masonry. Oppressive and decayed."
+          },
+          {
+            "identifier": "SCENE_HARKER_BEDROOM_ASYLUM",
+            "location_header": "INT. HARKER'S BEDROOM - NIGHT",
+            "visual_description": "A modest guest bedroom in the asylum residence. A simple iron bed where Mina sleeps, bathed in the soft, amber glow of a gaslight turned low. A window looks out into the misty night. Functional, somewhat sterile, but safe-looking with personal travel items scattered about."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 20,
+      "title": "CHAPTER XX JONATHAN HARKER’S JOURNAL",
+      "start_s": 32122.92,
+      "end_s": 33949.254,
+      "part_ordinal": 12,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SMOLLET_HOME",
+            "location_header": "INT. SMOLLET'S HOME - EVENING",
+            "visual_description": "A modest working-class interior in Walworth at teatime. A simple table is set with saucers and tea-things. The room is lived-in and somewhat cluttered but decent. Gaslight illuminates the peeling wallpaper and a few framed prints. The atmosphere is domestic and informal."
+          },
+          {
+            "identifier": "SCENE_POTTERS_COURT",
+            "location_header": "INT. CORCORAN'S LODGING HOUSE - MORNING",
+            "visual_description": "A dingy, cramped lodging-house entrance in a poor district. The hallway is dim, smelling of stale beer and damp wood. Peeling paint covers the narrow walls. A single flickering gas jet casts long shadows over the battered doorframe. The mood is grimy and unwelcoming."
+          },
+          {
+            "identifier": "SCENE_COLD_STORAGE_SITE",
+            "location_header": "EXT. CROSS ANGEL STREET - DAY",
+            "visual_description": "An active construction site in Poplar for a new cold storage building. Scaffolding surrounds rising brick walls. Piles of materials and machinery clutter the ground. The air is filled with dust and the noise of industry. Flat, grey daylight washes over the utilitarian structures."
+          },
+          {
+            "identifier": "SCENE_ESTATE_AGENT_OFFICE",
+            "location_header": "INT. MITCHELL SONS AND CANDY - AFTERNOON",
+            "visual_description": "A stiff, formal office in Sackville Street. High mahogany desks and leather chairs create an air of exclusivity. Everything is meticulously organized and polished. The light is subdued and serious, filtering through heavy blinds. The atmosphere is professional, quiet, and slightly condescending."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 21,
+      "title": "CHAPTER XXI DR. SEWARD’S DIARY",
+      "start_s": 33949.254,
+      "end_s": 35983.57,
+      "part_ordinal": 13,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_RENFIELD_CELL",
+            "location_header": "INT. RENFIELD'S CELL - NIGHT",
+            "visual_description": "A grim Victorian asylum cell at night. Rough stone walls and a heavy oak door with a viewing slat. A single high barred window admits cold moonlight, illuminating a pool of blood on the bare floor. Sparse, clinical, and shadowed."
+          },
+          {
+            "identifier": "SCENE_HARKER_BEDROOM_ASYLUM",
+            "location_header": "INT. HARKER'S BEDROOM - NIGHT",
+            "visual_description": "A modest Victorian bedroom at night, bathed in bright moonlight filtering through a yellow blind. A simple iron bed stands against the wall. To the side, a washstand and travel trunks. The atmosphere is chaotic and terrifying, with deep shadows in the corners."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 22,
+      "title": "CHAPTER XXII JONATHAN HARKER’S JOURNAL",
+      "start_s": 35983.57,
+      "end_s": 37097.623,
+      "part_ordinal": 13,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - DAY",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          },
+          {
+            "identifier": "SCENE_GREEN_PARK",
+            "location_header": "EXT. GREEN PARK - DAY",
+            "visual_description": "A quiet, shady spot in a London park. A wooden bench sits beneath large plane trees shedding their leaves. The grass is dappled with sunlight. In the distance, the noise of the city is a muffled hum. Peaceful and secluded."
+          },
+          {
+            "identifier": "SCENE_PICCADILLY_DINING",
+            "location_header": "INT. PICCADILLY HOUSE - DINING ROOM - DAY",
+            "visual_description": "A dusty Victorian dining room in Piccadilly, lit by daylight from a window overlooking a brick stable yard. A large mahogany dining table is cluttered with deeds, keys, writing materials, and a basin of bloody water. Earth boxes sit on the floor. Neglected grandeur, smelling of stale earth and death."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 23,
+      "title": "CHAPTER XXIII DR. SEWARD’S DIARY",
+      "start_s": 37097.623,
+      "end_s": 38438.1,
+      "part_ordinal": 14,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_PICCADILLY_DINING",
+            "location_header": "INT. PICCADILLY HOUSE - DINING ROOM - DAY",
+            "visual_description": "A dusty Victorian dining room in Piccadilly, lit by daylight from a window overlooking a brick stable yard. A large mahogany dining table is cluttered with deeds, keys, writing materials, and a basin of bloody water. Earth boxes sit on the floor. Neglected grandeur, smelling of stale earth and death."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - DAY",
+            "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          },
+          {
+            "identifier": "SCENE_HARKER_BEDROOM_ASYLUM",
+            "location_header": "INT. HARKER'S BEDROOM - NIGHT",
+            "visual_description": "A modest guest bedroom in the asylum residence. A simple iron bed where Mina sleeps, bathed in the soft, amber glow of a gaslight turned low. A window looks out into the misty night. Functional, somewhat sterile, but safe-looking with personal travel items scattered about."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 24,
+      "title": "CHAPTER XXIV DR. SEWARD’S PHONOGRAPH DIARY, SPOKEN BY VAN HELSING",
+      "start_s": 38438.1,
+      "end_s": 40341.565,
+      "part_ordinal": 14,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HARKER_BEDROOM_ASYLUM",
+            "location_header": "INT. HARKER'S BEDROOM - NIGHT",
+            "visual_description": "A modest guest bedroom in the asylum residence. A simple iron bed where Mina sleeps, bathed in the soft, amber glow of a gaslight turned low. A window looks out into the misty night. Functional, somewhat sterile, but safe-looking with personal travel items scattered about."
+          },
+          {
+            "identifier": "SCENE_SEWARD_STUDY",
+            "location_header": "INT. DR. SEWARD'S STUDY - DAY",
+            "visual_description": "A gloomy Victorian study, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners."
+          },
+          {
+            "identifier": "SCENE_VAN_HELSING_ROOM_ASYLUM",
+            "location_header": "INT. VAN HELSING'S ROOM - DAY",
+            "visual_description": "A guest room in the asylum repurposed as a workspace. An iron bed is covered with maps and railroad timetables. A travel trunk sits open, revealing medical equipment and religious artifacts. Sunlight struggles through a single sash window. Utilitarian, cluttered, and temporary."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 25,
+      "title": "CHAPTER XXV DR. SEWARD’S DIARY",
+      "start_s": 40341.565,
+      "end_s": 42398.303,
+      "part_ordinal": 15,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BERKELEY_HOTEL",
+            "location_header": "INT. BERKELEY HOTEL - NIGHT",
+            "visual_description": "An upscale Victorian hotel room in London at night. Rich patterned wallpaper and heavy velvet curtains shut out the street. A gas fire burns low in the grate, casting flickering orange light on plush armchairs arranged in a circle. A writing desk is cluttered with papers. The atmosphere is intimate, private, and heavy with tension."
+          },
+          {
+            "identifier": "SCENE_VARNA_HOTEL",
+            "location_header": "INT. HOTEL ODESSUS - DAY",
+            "visual_description": "A private sitting room in the Hotel Odessus, Varna. The decor blends Victorian travel comforts with Eastern European rustic details. A heavy oak table is covered in maps and telegrams. A window looks out onto the grey, misty harbor of the Black Sea. The light is cool and diffuses through lace curtains. Atmosphere of tense waiting."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 26,
+      "title": "CHAPTER XXVI DR. SEWARD’S DIARY",
+      "start_s": 42398.303,
+      "end_s": 44626.482,
+      "part_ordinal": 16,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_TRAIN_VARNA_GALATZ",
+            "location_header": "INT. TRAIN TO GALATZ - DAWN",
+            "visual_description": "Interior of a late Victorian train compartment at dawn. Plush velvet seats are worn from travel. A gas lamp flickers overhead, struggling against the grey morning light coming through the window. Outside, the blurred Romanian countryside rushes by. The atmosphere is cramped, weary, and tense."
+          },
+          {
+            "identifier": "SCENE_CZARINA_CATHERINE",
+            "location_header": "INT. SCHOONER CZARINA CATHERINE - DAY",
+            "visual_description": "The captain's cabin of a merchant schooner. Dark wood panelling is stained with salt and tobacco smoke. Nautical charts are pinned to a table alongside a brass oil lamp. A porthole reveals the grey waters of the Danube river harbour. The space is utilitarian, masculine, and cluttered with shipping manifests."
+          },
+          {
+            "identifier": "SCENE_STEAM_LAUNCH",
+            "location_header": "EXT. STEAM LAUNCH - NIGHT",
+            "visual_description": "The deck of a small steam launch on a river at night. The open door of the furnace casts a fierce orange glow on the metal fixtures and the swirling dark water beyond the gunwales. Wisps of steam and smoke trail into the darkness. The mood is adventurous, cold, and industrial."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 27,
+      "title": "CHAPTER XXVII MINA HARKER’S JOURNAL",
+      "start_s": 44626.482,
+      "end_s": 46996.025,
+      "part_ordinal": 16,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_BORGO_PASS_CAMP",
+            "location_header": "EXT. BORGO PASS - NIGHT",
+            "visual_description": "A makeshift camp in the snow-covered Borgo Pass at night. A large fire burns within a drawn circle on the ground. Rugs and furs are spread out. Beyond the firelight, a wall of swirling mist and snow creates a claustrophobic barrier. High mountain peaks loom in the dark. Cold, eerie atmosphere."
+          },
+          {
+            "identifier": "SCENE_SNOWY_WILDERNESS",
+            "location_header": "EXT. CARPATHIAN WILDERNESS - DAY",
+            "visual_description": "A rugged, snow-covered mountain pass in the Carpathians during the day. Gray heavy skies and falling snow. The landscape is wild and desolate, with jagged rocks and distant pine forests. A rough track winds through the valley. Cold, harsh, and grey."
+          },
+          {
+            "identifier": "SCENE_CASTLE_CHAPEL",
+            "location_header": "INT. CASTLE DRACULA - CHAPEL VAULT - DAY",
+            "visual_description": "A ruined medieval chapel beneath the castle, heavy with the smell of turned earth. Broken vaulted ceilings reveal dark stonework. The floor is dug up, with piles of earth and fifty great wooden boxes arranged in the gloom. An arched stone passage leads to a circular stair. Lit only by a lantern, shadows are deep and menacing."
+          },
+          {
+            "identifier": "SCENE_CASTLE_OVERLOOK_SHELTER",
+            "location_header": "EXT. MOUNTAINSIDE SHELTER - DAY",
+            "visual_description": "A natural shallow cave or hollow protected by boulders, high up on a snowy mountainside. Looking out, the view drops away to a river valley below, with the grim silhouette of Castle Dracula visible on a distant precipice. Snow swirls in the air. Cold, grey light of late afternoon turning to sunset."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 28,
+      "title": "NOTE",
+      "start_s": 46996.025,
+      "end_s": 47111.03,
+      "part_ordinal": 16,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "SCENE_HARKER_LIBRARY",
+            "location_header": "INT. HARKER HOME - NIGHT",
+            "visual_description": "A comfortable private library in a Victorian home in Exeter. Seven years later. Warm firelight, shelves of books, a safe in the corner. Jonathan Harker sits with a manuscript. A young boy plays on the rug. The atmosphere is peaceful, domestic, and reflective."
+          }
+        ]
+      },
+      "background_key": null
+    }
+  ],
+  "characters": [
+    {
+      "identifier": "JOHN_SEWARD",
+      "name": "Dr. Seward",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Jack"
+      ],
+      "voice_attributes": [
+        "thoughtful",
+        "melancholic",
+        "intelligent"
+      ],
+      "visual_attributes": [
+        "strong jaw",
+        "good forehead",
+        "professional suit",
+        "worried eyes"
+      ],
+      "roles": [
+        "suitor",
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 737,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/JOHN_SEWARD.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/JOHN_SEWARD.mp3"
+    },
+    {
+      "identifier": "JONATHAN_HARKER",
+      "name": "Jonathan Harker",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "weak",
+        "earnest",
+        "traumatized",
+        "nervous"
+      ],
+      "visual_attributes": [
+        "thin",
+        "pale",
+        "hollow eyes",
+        "young",
+        "white hair"
+      ],
+      "roles": [
+        "protagonist",
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 622,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/JONATHAN_HARKER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/JONATHAN_HARKER.mp3"
+    },
+    {
+      "identifier": "MINA_MURRAY",
+      "name": "Mina Harker",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Mina Murray",
+        "Mina",
+        "Mrs. Harker",
+        "Madam Mina"
+      ],
+      "voice_attributes": [
+        "gentle",
+        "intelligent",
+        "earnest",
+        "emotional"
+      ],
+      "visual_attributes": [
+        "young woman",
+        "dark hair",
+        "sensible dress",
+        "typewriter nearby",
+        "traveling dress",
+        "concerned eyes",
+        "pale complexion",
+        "scar on forehead"
+      ],
+      "roles": [
+        "protagonist"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 571,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MINA_MURRAY.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MINA_MURRAY.mp3"
+    },
+    {
+      "identifier": "ABRAHAM_VAN_HELSING",
+      "name": "Van Helsing",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "authoritative",
+        "eccentric",
+        "warm",
+        "thick_dutch_accent"
+      ],
+      "visual_attributes": [
+        "older man",
+        "broad forehead",
+        "bushy eyebrows",
+        "clean-shaven",
+        "stern eyes"
+      ],
+      "roles": [
+        "mentor",
+        "scientist"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "dutch"
+      },
+      "dialogue_count": 544,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ABRAHAM_VAN_HELSING.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ABRAHAM_VAN_HELSING.mp3"
+    },
+    {
+      "identifier": "RENFIELD",
+      "name": "Renfield",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "educated",
+        "manic",
+        "intense",
+        "shifting"
+      ],
+      "visual_attributes": [
+        "asylum patient",
+        "intense staring eyes",
+        "unshaven",
+        "slight build",
+        "nervous energy"
+      ],
+      "roles": [
+        "patient",
+        "madman"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 78,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/RENFIELD.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/RENFIELD.mp3"
+    },
+    {
+      "identifier": "COUNT_DRACULA",
+      "name": "Count Dracula",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Driver",
+        "The Stranger"
+      ],
+      "voice_attributes": [
+        "commanding",
+        "steely",
+        "deep",
+        "resonant"
+      ],
+      "visual_attributes": [
+        "tall figure",
+        "long brown beard",
+        "great black hat",
+        "bright red eyes",
+        "sharp white teeth",
+        "pale skin"
+      ],
+      "roles": [
+        "antagonist",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "transylvanian"
+      },
+      "dialogue_count": 71,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/COUNT_DRACULA.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/COUNT_DRACULA.mp3"
+    },
+    {
+      "identifier": "LUCY_WESTENRA",
+      "name": "Lucy Westenra",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Miss Lucy",
+        "LUCY_VAMPIRE"
+      ],
+      "voice_attributes": [
+        "bubbly",
+        "sweet",
+        "emotional",
+        "weak",
+        "voluptuous",
+        "cruel",
+        "hard",
+        "seductive",
+        "diabolically sweet"
+      ],
+      "visual_attributes": [
+        "beautiful young woman",
+        "light curls",
+        "fashionable dress",
+        "vivacious",
+        "pale",
+        "sharp teeth",
+        "voluptuous mouth",
+        "cruel eyes",
+        "unnatural beauty",
+        "crimson lips"
+      ],
+      "roles": [
+        "protagonist",
+        "antagonist",
+        "vampire"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 67,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/LUCY_WESTENRA.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/LUCY_WESTENRA.mp3"
+    },
+    {
+      "identifier": "ARTHUR_HOLMWOOD",
+      "name": "Lord Godalming",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [
+        "Art",
+        "Lord Godalming"
+      ],
+      "voice_attributes": [
+        "upper-class",
+        "confident",
+        "aristocratic",
+        "emotional",
+        "broken"
+      ],
+      "visual_attributes": [
+        "tall",
+        "curly hair",
+        "handsome",
+        "aristocratic bearing",
+        "mourning clothes"
+      ],
+      "roles": [
+        "suitor",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 63,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ARTHUR_HOLMWOOD.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ARTHUR_HOLMWOOD.mp3"
+    },
+    {
+      "identifier": "QUINCEY_MORRIS",
+      "name": "Quincey Morris",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "hearty",
+        "slang-heavy",
+        "sincere"
+      ],
+      "visual_attributes": [
+        "fresh face",
+        "vigorous",
+        "American attire",
+        "broad shoulders"
+      ],
+      "roles": [
+        "suitor",
+        "adventurer"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "southern_american"
+      },
+      "dialogue_count": 55,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/QUINCEY_MORRIS.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/QUINCEY_MORRIS.mp3"
+    },
+    {
+      "identifier": "MR_SWALES",
+      "name": "Mr. Swales",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "crusty",
+        "raspy",
+        "heavy_yorkshire_accent"
+      ],
+      "visual_attributes": [
+        "very old man",
+        "gnarled face like tree bark",
+        "weather-beaten skin",
+        "peasant clothes",
+        "walking stick"
+      ],
+      "roles": [
+        "local",
+        "skeptic"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "yorkshire"
+      },
+      "dialogue_count": 30,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MR_SWALES.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MR_SWALES.mp3"
+    },
+    {
+      "identifier": "CAPTAIN_OF_DEMETER",
+      "name": "The Captain",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "stoic",
+        "exhausted",
+        "desperate",
+        "deep"
+      ],
+      "visual_attributes": [
+        "thick beard",
+        "captain's hat",
+        "tired eyes",
+        "heavy coat"
+      ],
+      "roles": [
+        "victim",
+        "captain"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "russian"
+      },
+      "dialogue_count": 29,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/CAPTAIN_OF_DEMETER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/CAPTAIN_OF_DEMETER.mp3"
+    },
+    {
+      "identifier": "THOMAS_BILDER",
+      "name": "Thomas Bilder",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "cockney_accent",
+        "chatty"
+      ],
+      "visual_attributes": [
+        "rough face",
+        "whiskers",
+        "work clothes",
+        "pipe"
+      ],
+      "roles": [
+        "zookeeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 16,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/THOMAS_BILDER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/THOMAS_BILDER.mp3"
+    },
+    {
+      "identifier": "PALL_MALL_INTERVIEWER",
+      "name": "The Interviewer",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "inquisitive"
+      ],
+      "visual_attributes": [
+        "suit",
+        "notebook",
+        "pen"
+      ],
+      "roles": [
+        "reporter"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/PALL_MALL_INTERVIEWER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/PALL_MALL_INTERVIEWER.mp3"
+    },
+    {
+      "identifier": "PATRICK_HENNESSEY",
+      "name": "Dr. Patrick Hennessey",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "clinical",
+        "irish_accent"
+      ],
+      "visual_attributes": [
+        "young man",
+        "clean-shaven",
+        "medical attire",
+        "alert eyes"
+      ],
+      "roles": [
+        "doctor",
+        "assistant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "irish"
+      },
+      "dialogue_count": 11,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/PATRICK_HENNESSEY.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/PATRICK_HENNESSEY.mp3"
+    },
+    {
+      "identifier": "SAM_BLOXAM",
+      "name": "Sam Bloxam",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "Bloxam"
+      ],
+      "voice_attributes": [
+        "rough",
+        "hoarse",
+        "cockney_accent"
+      ],
+      "visual_attributes": [
+        "strong build",
+        "dusty work clothes",
+        "rough hands",
+        "weather-beaten face"
+      ],
+      "roles": [
+        "worker",
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 9,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/SAM_BLOXAM.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/SAM_BLOXAM.mp3"
+    },
+    {
+      "identifier": "CAPTAIN_DONELSON",
+      "name": "Captain Donelson",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "superstitious",
+        "thick_scottish_accent"
+      ],
+      "visual_attributes": [
+        "weather-beaten face",
+        "thick red beard",
+        "captain's cap",
+        "heavy pea coat"
+      ],
+      "roles": [
+        "captain",
+        "witness"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "scottish"
+      },
+      "dialogue_count": 8,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/CAPTAIN_DONELSON.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/CAPTAIN_DONELSON.mp3"
+    },
+    {
+      "identifier": "MRS_WESTENRA",
+      "name": "Mrs. Westenra",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "maternal",
+        "anxious",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "middle-aged woman",
+        "pale face",
+        "nightgown",
+        "kind eyes",
+        "grey hair"
+      ],
+      "roles": [
+        "mother",
+        "aristocrat"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MRS_WESTENRA.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MRS_WESTENRA.mp3"
+    },
+    {
+      "identifier": "ESTATE_AGENT",
+      "name": "Estate Agent",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Gentleman",
+        "Mitchell Sons & Candy"
+      ],
+      "voice_attributes": [
+        "suave",
+        "haughty",
+        "dry",
+        "precise"
+      ],
+      "visual_attributes": [
+        "well-groomed",
+        "expensive suit",
+        "slicked hair",
+        "pinched expression"
+      ],
+      "roles": [
+        "clerk",
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "posh_british"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ESTATE_AGENT.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ESTATE_AGENT.mp3"
+    },
+    {
+      "identifier": "SISTER_AGATHA",
+      "name": "Sister Agatha",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "kindly",
+        "accented",
+        "gentle"
+      ],
+      "visual_attributes": [
+        "nun's habit",
+        "wimple",
+        "kind face",
+        "aged hands"
+      ],
+      "roles": [
+        "nun",
+        "nurse"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "eastern_european"
+      },
+      "dialogue_count": 7,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/SISTER_AGATHA.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/SISTER_AGATHA.mp3"
+    },
+    {
+      "identifier": "ELDERLY_LANDLADY",
+      "name": "The Landlady",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "anxious",
+        "superstitious",
+        "maternal"
+      ],
+      "visual_attributes": [
+        "elderly peasant woman",
+        "white undergarment",
+        "double apron",
+        "coloured fabric",
+        "grey hair tied back"
+      ],
+      "roles": [
+        "hotelier"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "eastern_european"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ELDERLY_LANDLADY.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ELDERLY_LANDLADY.mp3"
+    },
+    {
+      "identifier": "NEWSPAPER_READER",
+      "name": "News Reader",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "objective",
+        "sensationalist"
+      ],
+      "visual_attributes": [
+        "impersonal figure",
+        "newspaper in hand"
+      ],
+      "roles": [
+        "narrator"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/NEWSPAPER_READER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/NEWSPAPER_READER.mp3"
+    },
+    {
+      "identifier": "JACK_SMOLLET",
+      "name": "Jack Smollet",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "rough",
+        "cockney_accent",
+        "loud"
+      ],
+      "visual_attributes": [
+        "burly",
+        "sweaty face",
+        "workman's cap",
+        "apron"
+      ],
+      "roles": [
+        "carrier",
+        "working_class"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 6,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/JACK_SMOLLET.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/JACK_SMOLLET.mp3"
+    },
+    {
+      "identifier": "SAMUEL_BILLINGTON",
+      "name": "Samuel Billington",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "dry",
+        "precise",
+        "formal"
+      ],
+      "visual_attributes": [
+        "spectacles",
+        "whiskers",
+        "stiff collar",
+        "balding"
+      ],
+      "roles": [
+        "solicitor"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 5,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/SAMUEL_BILLINGTON.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/SAMUEL_BILLINGTON.mp3"
+    },
+    {
+      "identifier": "ASYLUM_ATTENDANT",
+      "name": "Simmons",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [
+        "The Attendant"
+      ],
+      "voice_attributes": [
+        "rough",
+        "professional"
+      ],
+      "visual_attributes": [
+        "strong build",
+        "uniform",
+        "impassive face"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ASYLUM_ATTENDANT.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/ASYLUM_ATTENDANT.mp3"
+    },
+    {
+      "identifier": "COACH_DRIVER",
+      "name": "The Coachman",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "loud",
+        "impatient",
+        "authoritative"
+      ],
+      "visual_attributes": [
+        "wide linen drawers",
+        "heavy boots",
+        "peasant shirt"
+      ],
+      "roles": [
+        "driver"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "eastern_european"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/COACH_DRIVER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/COACH_DRIVER.mp3"
+    },
+    {
+      "identifier": "DR_VINCENT",
+      "name": "Dr. Vincent",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "professional",
+        "clinical",
+        "polite"
+      ],
+      "visual_attributes": [
+        "middle-aged",
+        "spectacles",
+        "white coat",
+        "receding hairline"
+      ],
+      "roles": [
+        "doctor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/DR_VINCENT.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/DR_VINCENT.mp3"
+    },
+    {
+      "identifier": "FIRST_MATE_DEMETER",
+      "name": "The First Mate",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "manic",
+        "terrified",
+        "hoarse"
+      ],
+      "visual_attributes": [
+        "wild eyes",
+        "haggard face",
+        "flannels",
+        "dishevelled"
+      ],
+      "roles": [
+        "victim",
+        "sailor"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "eastern_european"
+      },
+      "dialogue_count": 4,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/FIRST_MATE_DEMETER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/FIRST_MATE_DEMETER.mp3"
+    },
+    {
+      "identifier": "MR_MARQUAND",
+      "name": "Mr. Marquand",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "genial",
+        "professional",
+        "verbose"
+      ],
+      "visual_attributes": [
+        "balding",
+        "spectacles",
+        "whiskers",
+        "frock coat"
+      ],
+      "roles": [
+        "solicitor"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MR_MARQUAND.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MR_MARQUAND.mp3"
+    },
+    {
+      "identifier": "DARK_VAMPIRE_WOMAN",
+      "name": "The Dark Woman",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "low",
+        "hard",
+        "soulless"
+      ],
+      "visual_attributes": [
+        "dark hair",
+        "high aquiline nose",
+        "piercing dark eyes",
+        "sharp white teeth",
+        "pale skin"
+      ],
+      "roles": [
+        "vampire_bride"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "transylvanian"
+      },
+      "dialogue_count": 3,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/DARK_VAMPIRE_WOMAN.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/DARK_VAMPIRE_WOMAN.mp3"
+    },
+    {
+      "identifier": "MRS_BILDER",
+      "name": "Mrs. Bilder",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "cheerful",
+        "loud"
+      ],
+      "visual_attributes": [
+        "plump",
+        "apron",
+        "kind face"
+      ],
+      "roles": [
+        "wife"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "female",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MRS_BILDER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MRS_BILDER.mp3"
+    },
+    {
+      "identifier": "FAIR_VAMPIRE_WOMAN",
+      "name": "The Fair Woman",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "silvery",
+        "musical",
+        "hard",
+        "tingling sweetness"
+      ],
+      "visual_attributes": [
+        "wavy golden hair",
+        "pale sapphire eyes",
+        "voluptuous red lips",
+        "sharp white teeth",
+        "pale skin"
+      ],
+      "roles": [
+        "vampire_bride"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "transylvanian"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/FAIR_VAMPIRE_WOMAN.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/FAIR_VAMPIRE_WOMAN.mp3"
+    },
+    {
+      "identifier": "THE_DEPUTY",
+      "name": "The Deputy",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "grumpy",
+        "slow",
+        "cockney_accent"
+      ],
+      "visual_attributes": [
+        "unkempt appearance",
+        "tired eyes",
+        "shabby clothes",
+        "unshaven"
+      ],
+      "roles": [
+        "lodging_keeper"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/THE_DEPUTY.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/THE_DEPUTY.mp3"
+    },
+    {
+      "identifier": "COASTGUARD",
+      "name": "The Coastguard",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "observant",
+        "weathered"
+      ],
+      "visual_attributes": [
+        "uniform",
+        "spy-glass",
+        "cap"
+      ],
+      "roles": [
+        "official"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/COASTGUARD.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/COASTGUARD.mp3"
+    },
+    {
+      "identifier": "FELLOW_PASSENGER",
+      "name": "Fellow Passenger",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "informative",
+        "superstitious"
+      ],
+      "visual_attributes": [
+        "peasant attire",
+        "sheepskin coat",
+        "round hat"
+      ],
+      "roles": [
+        "traveler"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "eastern_european"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/FELLOW_PASSENGER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/FELLOW_PASSENGER.mp3"
+    },
+    {
+      "identifier": "MARY",
+      "name": "Mary",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "soft",
+        "young"
+      ],
+      "visual_attributes": [
+        "maid uniform",
+        "white cap",
+        "apron",
+        "neat hair"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MARY.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/MARY.mp3"
+    },
+    {
+      "identifier": "PEASANT_WOMAN",
+      "name": "Peasant Woman",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "hysterical",
+        "anguished",
+        "screaming"
+      ],
+      "visual_attributes": [
+        "dishevelled hair",
+        "peasant dress",
+        "tear-streaked face",
+        "desperate expression"
+      ],
+      "roles": [
+        "victim"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "female",
+        "voice_accent": "eastern_european"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/PEASANT_WOMAN.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/PEASANT_WOMAN.mp3"
+    },
+    {
+      "identifier": "WHITBY_WORKER",
+      "name": "Whitby Porter",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "yorkshire_accent"
+      ],
+      "visual_attributes": [
+        "rough workman's clothes",
+        "weather-beaten face",
+        "flat cap"
+      ],
+      "roles": [
+        "worker"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "yorkshire"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/WHITBY_WORKER.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/WHITBY_WORKER.mp3"
+    },
+    {
+      "identifier": "CARTER_PATERSON_CLERK",
+      "name": "Carter Paterson Clerk",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "brisk",
+        "professional",
+        "monotone"
+      ],
+      "visual_attributes": [
+        "ink-stained fingers",
+        "visor",
+        "plain suit"
+      ],
+      "roles": [
+        "clerk"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "british"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/CARTER_PATERSON_CLERK.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/CARTER_PATERSON_CLERK.mp3"
+    },
+    {
+      "identifier": "UNDERTAKER_WOMAN",
+      "name": "The Layer-out",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "hushed",
+        "professional",
+        "lower-class"
+      ],
+      "visual_attributes": [
+        "plain black dress",
+        "severe hair",
+        "apron",
+        "lined face"
+      ],
+      "roles": [
+        "servant"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "female",
+        "voice_accent": "cockney"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/UNDERTAKER_WOMAN.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/UNDERTAKER_WOMAN.mp3"
+    },
+    {
+      "identifier": "OLD_SALT",
+      "name": "Old Salt",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "gruff",
+        "weather-beaten",
+        "yorkshire_accent"
+      ],
+      "visual_attributes": [
+        "weathered face",
+        "fisherman's cap",
+        "thick beard"
+      ],
+      "roles": [
+        "local"
+      ],
+      "metadata": {
+        "age_group": "old",
+        "gender": "male",
+        "voice_accent": "yorkshire"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/OLD_SALT.png",
+      "voice_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/characters/OLD_SALT.mp3"
+    }
+  ],
+  "scenes": [
+    {
+      "identifier": "SCENE_EXETER_HOUSE",
+      "ordinal": 0,
+      "location_header": "INT. HAWKINS HOUSE - EXETER - DAY",
+      "visual_description": "A bright Victorian drawing room in Exeter flooded with soft daylight. Tall sash windows reveal cathedral elms and ancient yellow stone outside. Inside, a sewing table with fabrics and a typewriter on a desk sit in the foreground. Domestic, airy atmosphere with pale floral wallpaper and comfortable furniture.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_EXETER_HOUSE.jpg"
+    },
+    {
+      "identifier": "SCENE_TRAIN_VARNA_GALATZ",
+      "ordinal": 0,
+      "location_header": "INT. TRAIN TO GALATZ - DAWN",
+      "visual_description": "Interior of a late Victorian train compartment at dawn. Plush velvet seats are worn from travel. A gas lamp flickers overhead, struggling against the grey morning light coming through the window. Outside, the blurred Romanian countryside rushes by. The atmosphere is cramped, weary, and tense.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_TRAIN_VARNA_GALATZ.jpg"
+    },
+    {
+      "identifier": "SCENE_HARKER_LIBRARY",
+      "ordinal": 0,
+      "location_header": "INT. HARKER HOME - NIGHT",
+      "visual_description": "A comfortable private library in a Victorian home in Exeter. Seven years later. Warm firelight, shelves of books, a safe in the corner. Jonathan Harker sits with a manuscript. A young boy plays on the rug. The atmosphere is peaceful, domestic, and reflective.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HARKER_LIBRARY.jpg"
+    },
+    {
+      "identifier": "SCENE_BORGO_PASS_CAMP",
+      "ordinal": 0,
+      "location_header": "EXT. BORGO PASS - NIGHT",
+      "visual_description": "A makeshift camp in the snow-covered Borgo Pass at night. A large fire burns within a drawn circle on the ground. Rugs and furs are spread out. Beyond the firelight, a wall of swirling mist and snow creates a claustrophobic barrier. High mountain peaks loom in the dark. Cold, eerie atmosphere.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_BORGO_PASS_CAMP.jpg"
+    },
+    {
+      "identifier": "SCENE_RENFIELD_CELL",
+      "ordinal": 0,
+      "location_header": "INT. RENFIELD'S CELL - NIGHT",
+      "visual_description": "A grim Victorian asylum cell at night. Rough stone walls and a heavy oak door with a viewing slat. A single high barred window admits cold moonlight, illuminating a pool of blood on the bare floor. Sparse, clinical, and shadowed.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_RENFIELD_CELL.jpg"
+    },
+    {
+      "identifier": "SCENE_HARKER_BEDROOM_ASYLUM",
+      "ordinal": 0,
+      "location_header": "INT. HARKER'S BEDROOM - NIGHT",
+      "visual_description": "A modest guest bedroom in the asylum residence. A simple iron bed where Mina sleeps, bathed in the soft, amber glow of a gaslight turned low. A window looks out into the misty night. Functional, somewhat sterile, but safe-looking with personal travel items scattered about.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HARKER_BEDROOM_ASYLUM.jpg"
+    },
+    {
+      "identifier": "SCENE_SMOLLET_HOME",
+      "ordinal": 0,
+      "location_header": "INT. SMOLLET'S HOME - EVENING",
+      "visual_description": "A modest working-class interior in Walworth at teatime. A simple table is set with saucers and tea-things. The room is lived-in and somewhat cluttered but decent. Gaslight illuminates the peeling wallpaper and a few framed prints. The atmosphere is domestic and informal.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_SMOLLET_HOME.jpg"
+    },
+    {
+      "identifier": "SCENE_BERKELEY_HOTEL",
+      "ordinal": 0,
+      "location_header": "INT. BERKELEY HOTEL - NIGHT",
+      "visual_description": "An upscale Victorian hotel room in London at night. Rich patterned wallpaper and heavy velvet curtains shut out the street. A gas fire burns low in the grate, casting flickering orange light on plush armchairs arranged in a circle. A writing desk is cluttered with papers. The atmosphere is intimate, private, and heavy with tension.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_BERKELEY_HOTEL.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_ENTRANCE_AND_DINING",
+      "ordinal": 0,
+      "location_header": "INT. CASTLE DRACULA - HALL AND DINING ROOM",
+      "visual_description": "Ancient Transylvanian castle interior at night. A massive stone hall with a great iron-studded door leads into a dining room warmed by a roaring log fire. Antique silver lamps cast long, quivering shadows against stone walls. A table is spread for supper with gold service. Medieval architecture, gloomy but grand, with no mirrors visible.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_ENTRANCE_AND_DINING.jpg"
+    },
+    {
+      "identifier": "SCENE_HILLINGHAM_HALL",
+      "ordinal": 0,
+      "location_header": "INT. HILLINGHAM - HALL - DAY",
+      "visual_description": "The grand entrance hall of Hillingham Manor, draped in funeral crepe. A black and white tiled floor stretches beneath a sweeping staircase. Heavy shadows cling to the corners, contrasting with the sombre activity of undertakers. Victorian mourning atmosphere.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HILLINGHAM_HALL.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_BEDROOM",
+      "ordinal": 0,
+      "location_header": "INT. CASTLE DRACULA - BEDROOM - DAY",
+      "visual_description": "A large, well-appointed bedroom in the castle. A great bed with heavy hangings dominates the room. A log fire burns in a wide stone hearth. A window looks out over a stone precipice. The room is comfortable but isolated, with a small octagonal antechamber.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_GOLDEN_KRONE",
+      "ordinal": 0,
+      "location_header": "INT. GOLDEN KRONE HOTEL - TWILIGHT",
+      "visual_description": "A rustic hotel bedroom in 19th-century Transylvania. Heavy timber beams cross the ceiling above white plaster walls adorned with dried herbs and a wooden crucifix. A painted peasant-style wardrobe stands in the corner. Gaslight flickers warmly against the deepening twilight visible through a small leaded window.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_GOLDEN_KRONE.jpg"
+    },
+    {
+      "identifier": "SCENE_PICCADILLY_DINING",
+      "ordinal": 0,
+      "location_header": "INT. PICCADILLY HOUSE - DINING ROOM - DAY",
+      "visual_description": "A dusty Victorian dining room in Piccadilly, lit by daylight from a window overlooking a brick stable yard. A large mahogany dining table is cluttered with deeds, keys, writing materials, and a basin of bloody water. Earth boxes sit on the floor. Neglected grandeur, smelling of stale earth and death.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_PICCADILLY_DINING.jpg"
+    },
+    {
+      "identifier": "SCENE_KINGSTEAD_CHURCHYARD",
+      "ordinal": 0,
+      "location_header": "EXT. KINGSTEAD CHURCHYARD - NIGHT",
+      "visual_description": "A large Victorian churchyard at night, overgrown and shadowed. Ancient yew trees and cedar spread dark branches over marble headstones and iron-railed family plots. A gravel path winds through the gloom. Moonlight struggles through heavy drifting clouds. Eerie, silent, and cold.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_KINGSTEAD_CHURCHYARD.jpg"
+    },
+    {
+      "identifier": "SCENE_PADDINGTON_STATION",
+      "ordinal": 0,
+      "location_header": "INT/EXT. PADDINGTON STATION - DAY",
+      "visual_description": "A bustling Victorian railway station platform at Paddington. Steam billows from a arriving locomotive engine, mixing with the grey London daylight filtering through the high iron-and-glass roof. Porters push luggage carts through crowds of travelers in coats and hats. The atmosphere is noisy, industrial, and hurried.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_PADDINGTON_STATION.jpg"
+    },
+    {
+      "identifier": "SCENE_HILLINGHAM_DINING",
+      "ordinal": 0,
+      "location_header": "INT. HILLINGHAM DINING ROOM - MORNING",
+      "visual_description": "A formal Victorian dining room in morning light, though currently dim with closed shutters. A heavy mahogany table dominates the room. The air is stale with the smell of laudanum. Four servant women lie unconscious on the floor. Disarray contrasts with the room's usual order.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HILLINGHAM_DINING.jpg"
+    },
+    {
+      "identifier": "SCENE_HOSPITAL_BUDAPEST",
+      "ordinal": 0,
+      "location_header": "INT. HOSPITAL BUDAPEST - DAY",
+      "visual_description": "A simplified convent hospital room in late 19th-century Budapest. Whitewashed walls, a simple iron bed where a thin figure lies. A crucifix on the wall. Afternoon light filters through a small window. Clean, austere, and peaceful.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HOSPITAL_BUDAPEST.jpg"
+    },
+    {
+      "identifier": "SCENE_MINA_ROOM",
+      "ordinal": 0,
+      "location_header": "INT. MINA'S ROOM - DAY",
+      "visual_description": "A modest, tidy room in a schoolmistress's house. A small desk holds a typewriter and stacks of books. A window looks out on a quiet street. The atmosphere is practical and diligent, with soft daylight illuminating the simple furnishings. A sense of studious order prevails.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_MINA_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_COVER_00",
+      "ordinal": 0,
+      "location_header": null,
+      "visual_description": "A symbolic representation of the book's themes.",
+      "metadata": {
+        "type": "cover_placeholder"
+      },
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_COVER_00.jpg"
+    },
+    {
+      "identifier": "SCENE_SEWARD_STUDY",
+      "ordinal": 1,
+      "location_header": "INT. DR. SEWARD'S STUDY - DAY",
+      "visual_description": "A gloomy Victorian study at night, lit by a single green-shaded desk lamp. Walls are lined with dark medical texts and case files. In the foreground, a mahogany desk holds a phonograph with wax cylinders and scattered newspapers. Clinical, shadowy, and claustrophobic atmosphere with deep corners.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_SEWARD_STUDY.jpg"
+    },
+    {
+      "identifier": "SCENE_GREEN_PARK",
+      "ordinal": 1,
+      "location_header": "EXT. GREEN PARK - DAY",
+      "visual_description": "A quiet, shady spot in a London park. A wooden bench sits beneath large plane trees shedding their leaves. The grass is dappled with sunlight. In the distance, the noise of the city is a muffled hum. Peaceful and secluded.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_GREEN_PARK.jpg"
+    },
+    {
+      "identifier": "SCENE_WESTENRA_TOMB",
+      "ordinal": 1,
+      "location_header": "INT. WESTENRA TOMB - NIGHT",
+      "visual_description": "The interior of a grand stone burial vault. Damp stone walls are lined with shelves holding leaden and wood coffins. The air is thick with dust and the smell of death. Rusty iron grilles and tarnished brass plates catch the flicker of lantern light. Oppressive, heavy, and silent.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_WESTENRA_TOMB.jpg"
+    },
+    {
+      "identifier": "SCENE_NORTH_HOSPITAL",
+      "ordinal": 1,
+      "location_header": "INT. NORTH HOSPITAL - DAY",
+      "visual_description": "A children's ward in a London hospital, late Victorian era. Rows of iron cots with white linens line the walls. Large sash windows let in pale afternoon light. A nurse's station with medical charts and glass bottles stands in the foreground. Clean, sterile, and institutional atmosphere with white-washed walls.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_NORTH_HOSPITAL.jpg"
+    },
+    {
+      "identifier": "SCENE_CARFAX_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. CARFAX ABBEY - NIGHT",
+      "visual_description": "The dusty, neglected interior of Carfax Abbey. A stone hall leads to a low, arched oaken door. Inside the chapel, heavy layers of dust cover the floor and hang from walls like tattered rags. The air is stagnant and foul. Lit only by small electric lamps casting deep, dancing shadows against ancient masonry. Oppressive and decayed.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CARFAX_INTERIOR.jpg"
+    },
+    {
+      "identifier": "SCENE_SNOWY_WILDERNESS",
+      "ordinal": 1,
+      "location_header": "EXT. CARPATHIAN WILDERNESS - DAY",
+      "visual_description": "A rugged, snow-covered mountain pass in the Carpathians during the day. Gray heavy skies and falling snow. The landscape is wild and desolate, with jagged rocks and distant pine forests. A rough track winds through the valley. Cold, harsh, and grey.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_SNOWY_WILDERNESS.jpg"
+    },
+    {
+      "identifier": "SCENE_POTTERS_COURT",
+      "ordinal": 1,
+      "location_header": "INT. CORCORAN'S LODGING HOUSE - MORNING",
+      "visual_description": "A dingy, cramped lodging-house entrance in a poor district. The hallway is dim, smelling of stale beer and damp wood. Peeling paint covers the narrow walls. A single flickering gas jet casts long shadows over the battered doorframe. The mood is grimy and unwelcoming.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_POTTERS_COURT.jpg"
+    },
+    {
+      "identifier": "SCENE_VARNA_HOTEL",
+      "ordinal": 1,
+      "location_header": "INT. HOTEL ODESSUS - DAY",
+      "visual_description": "A private sitting room in the Hotel Odessus, Varna. The decor blends Victorian travel comforts with Eastern European rustic details. A heavy oak table is covered in maps and telegrams. A window looks out onto the grey, misty harbor of the Black Sea. The light is cool and diffuses through lace curtains. Atmosphere of tense waiting.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_VARNA_HOTEL.jpg"
+    },
+    {
+      "identifier": "SCENE_CZARINA_CATHERINE",
+      "ordinal": 1,
+      "location_header": "INT. SCHOONER CZARINA CATHERINE - DAY",
+      "visual_description": "The captain's cabin of a merchant schooner. Dark wood panelling is stained with salt and tobacco smoke. Nautical charts are pinned to a table alongside a brass oil lamp. A porthole reveals the grey waters of the Danube river harbour. The space is utilitarian, masculine, and cluttered with shipping manifests.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CZARINA_CATHERINE.jpg"
+    },
+    {
+      "identifier": "SCENE_CARPATHIAN_ROAD",
+      "ordinal": 1,
+      "location_header": "EXT. CARPATHIAN MOUNTAINS - SUNSET",
+      "visual_description": "A rugged mountain road winding through the Carpathian landscape at sunset. Green sloping hills are covered in orchards of white fruit blossoms. In the background, jagged pine-covered peaks turn deep purple and blue against a fading pink sky. The lighting is the golden-hour glow of early evening.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CARPATHIAN_ROAD.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_LIBRARY",
+      "ordinal": 1,
+      "location_header": "INT. CASTLE DRACULA - LIBRARY - NIGHT",
+      "visual_description": "A vast library in the castle, walls lined with shelves of English books and bound magazines. A table in the center is littered with papers and periodicals. Lit by oil lamps, the room has a scholarly but ancient feel, with heavy curtains and comfortable but old furniture. No mirrors.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_LIBRARY.jpg"
+    },
+    {
+      "identifier": "SCENE_LUCY_DRAWING_ROOM",
+      "ordinal": 1,
+      "location_header": "INT. LUCY'S DRAWING ROOM - DAY",
+      "visual_description": "A luxurious Victorian drawing room filled with light. Plush velvet sofas, a marble fireplace, and elegant floral arrangements. Large windows draped in silk look out onto a garden. The mood is romantic and bright, with pastel colors and rich textures. A place of comfort and wealth.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_LUCY_DRAWING_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_DEMETER_DECK",
+      "ordinal": 1,
+      "location_header": "EXT. SCHOONER DEMETER - NIGHT",
+      "visual_description": "The deck of a 19th-century schooner at sea, shrouded in thick grey fog. Wet wooden planks and rigging are dimly lit by a swaying oil lantern. The atmosphere is claustrophobic and damp. Shadows loom in the mist. Muted grey and sickly yellow tones.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_DEMETER_DECK.jpg"
+    },
+    {
+      "identifier": "SCENE_WHITBY_CLIFFS_STORM",
+      "ordinal": 1,
+      "location_header": "EXT. WHITBY CLIFFS - NIGHT",
+      "visual_description": "A dramatic Victorian seaside cliff top at night, lashed by a violent storm. In the foreground, wet grass and gravestones of the churchyard glisten in flashes of lightning. Below, the dark, churning North Sea smashes against the harbour piers. The beam of a searchlight cuts through heavy rain and sea-fog. Cold blues, greys, and stark white highlights.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_WHITBY_CLIFFS_STORM.jpg"
+    },
+    {
+      "identifier": "SCENE_WHITBY_CHURCHYARD",
+      "ordinal": 2,
+      "location_header": "EXT. WHITBY CHURCHYARD - DAY",
+      "visual_description": "A grassy churchyard on a high cliff overlooking a Victorian harbour. Ancient weathered tombstones lean at odd angles. In the background, the immense, noble ruins of Whitby Abbey stand against a bright sky. Below, red-roofed houses pile up towards the water. Bright, breezy seaside atmosphere.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_WHITBY_CHURCHYARD.jpg"
+    },
+    {
+      "identifier": "SCENE_WHITBY_STORM",
+      "ordinal": 2,
+      "location_header": "EXT. WHITBY CHURCHYARD - STORM",
+      "visual_description": "The Whitby cliffside shrouded in heavy grey mist and storm clouds. The sea below is a tumult of grey water and white foam. The Abbey ruins loom darkly in the fog. The atmosphere is ominous, oppressive, and dim, lit only by a diffused, sun-burst grey light.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_WHITBY_STORM.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_BEDROOM_WINDOW",
+      "ordinal": 2,
+      "location_header": "INT/EXT. CASTLE DRACULA - BEDROOM WINDOW - NIGHT",
+      "visual_description": "A stone-mullioned window in a castle bedroom looking out over a vast abyss. Moonlight bathes the weathered stonework and the precipice dropping away into darkness. The walls are rough stone, ancient and formidable.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_BEDROOM_WINDOW.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_LADIES_WING",
+      "ordinal": 2,
+      "location_header": "INT. CASTLE DRACULA - LADIES' WING",
+      "visual_description": "A dusty suite of rooms in an older wing of the castle. Moonlight floods through diamond-paned windows, illuminating heavy, moth-eaten furniture that once spoke of comfort. The air is still and thick with the dust of centuries. A large couch sits near a corner.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_LADIES_WING.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_CHAPEL",
+      "ordinal": 2,
+      "location_header": "INT. CASTLE DRACULA - CHAPEL VAULT - DAY",
+      "visual_description": "A ruined medieval chapel beneath the castle, heavy with the smell of turned earth. Broken vaulted ceilings reveal dark stonework. The floor is dug up, with piles of earth and fifty great wooden boxes arranged in the gloom. An arched stone passage leads to a circular stair. Lit only by a lantern, shadows are deep and menacing.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_CHAPEL.jpg"
+    },
+    {
+      "identifier": "SCENE_COLD_STORAGE_SITE",
+      "ordinal": 2,
+      "location_header": "EXT. CROSS ANGEL STREET - DAY",
+      "visual_description": "An active construction site in Poplar for a new cold storage building. Scaffolding surrounds rising brick walls. Piles of materials and machinery clutter the ground. The air is filled with dust and the noise of industry. Flat, grey daylight washes over the utilitarian structures.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_COLD_STORAGE_SITE.jpg"
+    },
+    {
+      "identifier": "SCENE_VAN_HELSING_ROOM_ASYLUM",
+      "ordinal": 2,
+      "location_header": "INT. VAN HELSING'S ROOM - DAY",
+      "visual_description": "A guest room in the asylum repurposed as a workspace. An iron bed is covered with maps and railroad timetables. A travel trunk sits open, revealing medical equipment and religious artifacts. Sunlight struggles through a single sash window. Utilitarian, cluttered, and temporary.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_VAN_HELSING_ROOM_ASYLUM.jpg"
+    },
+    {
+      "identifier": "SCENE_STEAM_LAUNCH",
+      "ordinal": 2,
+      "location_header": "EXT. STEAM LAUNCH - NIGHT",
+      "visual_description": "The deck of a small steam launch on a river at night. The open door of the furnace casts a fierce orange glow on the metal fixtures and the swirling dark water beyond the gunwales. Wisps of steam and smoke trail into the darkness. The mood is adventurous, cold, and industrial.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_STEAM_LAUNCH.jpg"
+    },
+    {
+      "identifier": "SCENE_LUCY_BEDROOM",
+      "ordinal": 2,
+      "location_header": "INT. LUCY'S BEDROOM - NIGHT",
+      "visual_description": "A bedroom transformed into a chapelle ardente. Tall wax candles burn steadily, casting a soft golden glow over masses of white flowers. In the centre, a coffin rests, the face covered by a winding sheet. The room is still, beautiful, and heavy with the scent of lilies.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_LUCY_BEDROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_HILLINGHAM_BREAKFAST",
+      "ordinal": 2,
+      "location_header": "INT. HILLINGHAM BREAKFAST ROOM - AFTERNOON",
+      "visual_description": "A breakfast room at Hillingham, lighter and less cheerless than the rest of the house. The blinds are up, admitting afternoon light. A table is set for a meal. The atmosphere is tense but functional, a brief respite from the gloom.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HILLINGHAM_BREAKFAST.jpg"
+    },
+    {
+      "identifier": "SCENE_BORGO_PASS_NIGHT",
+      "ordinal": 2,
+      "location_header": "EXT. BORGO PASS - NIGHT",
+      "visual_description": "A dark, narrow mountain pass shrouded in gloom and mist. Towering jagged rocks and dense pine forests loom on either side, creating a tunnel-like effect. The scene is lit only by moonlight breaking through storm clouds and the faint glow of carriage lamps on snow-dusted ground.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_BORGO_PASS_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_CARTER_PATERSON_YARD",
+      "ordinal": 2,
+      "location_header": "EXT. CARTER PATERSON YARD - DAY",
+      "visual_description": "A dusty, chaotic carrier's yard in London. Horse-drawn wagons are being loaded with crates. The air is thick with floating dust and the smell of horses. Piles of wooden boxes and shipping invoices clutter the foreground. The lighting is flat, utilitarian daylight. Industrial and gritty.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CARTER_PATERSON_YARD.jpg"
+    },
+    {
+      "identifier": "SCENE_ESTATE_AGENT_OFFICE",
+      "ordinal": 3,
+      "location_header": "INT. MITCHELL SONS AND CANDY - AFTERNOON",
+      "visual_description": "A stiff, formal office in Sackville Street. High mahogany desks and leather chairs create an air of exclusivity. Everything is meticulously organized and polished. The light is subdued and serious, filtering through heavy blinds. The atmosphere is professional, quiet, and slightly condescending.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_ESTATE_AGENT_OFFICE.jpg"
+    },
+    {
+      "identifier": "SCENE_ZOO_COTTAGE",
+      "ordinal": 3,
+      "location_header": "INT. ZOO KEEPER'S COTTAGE - EVENING",
+      "visual_description": "A small, cluttered keeper's cottage at the London Zoo. A simple wooden table is set for tea. A fireplace warms the room. Animal cages are visible through the window. The atmosphere is working-class and domestic.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_ZOO_COTTAGE.jpg"
+    },
+    {
+      "identifier": "SCENE_HILLINGHAM_PASSAGE",
+      "ordinal": 3,
+      "location_header": "INT. HILLINGHAM HALLWAY - DAY",
+      "visual_description": "A quiet, well-furnished corridor in a grand Victorian manor. Flocked wallpaper in muted tones, polished wooden floorboards with runners. Gas sconces provide low, steady light. Several panelled wooden doors lead to bedrooms. An atmosphere of hushed anxiety.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HILLINGHAM_PASSAGE.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_OVERLOOK_SHELTER",
+      "ordinal": 3,
+      "location_header": "EXT. MOUNTAINSIDE SHELTER - DAY",
+      "visual_description": "A natural shallow cave or hollow protected by boulders, high up on a snowy mountainside. Looking out, the view drops away to a river valley below, with the grim silhouette of Castle Dracula visible on a distant precipice. Snow swirls in the air. Cold, grey light of late afternoon turning to sunset.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_OVERLOOK_SHELTER.jpg"
+    },
+    {
+      "identifier": "SCENE_MORRIS_ROOM",
+      "ordinal": 3,
+      "location_header": "INT. MORRIS'S ROOM - NIGHT",
+      "visual_description": "A comfortable private room, perhaps in a club or hotel. Leather armchairs, a side table with a decanter of whiskey, and travel mementos. The atmosphere is masculine and warm, with the glow of a fire or lamp.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_MORRIS_ROOM.jpg"
+    },
+    {
+      "identifier": "SCENE_GUEST_ROOM_HILLINGHAM",
+      "ordinal": 3,
+      "location_header": "INT. GUEST ROOM - NIGHT",
+      "visual_description": "A comfortable Victorian guest bedroom. A fire burns low in the grate, casting flickering orange light on floral wallpaper and a plush armchair. A washstand with a ceramic pitcher sits in the corner. The atmosphere is intimate and weary.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_GUEST_ROOM_HILLINGHAM.jpg"
+    },
+    {
+      "identifier": "SCENE_CASTLE_EXT_PRECIPICE",
+      "ordinal": 3,
+      "location_header": "EXT. CASTLE DRACULA - DAY",
+      "visual_description": "A view from the castle parapets looking out over a sea of green treetops and deep gorges. Steep, jagged cliffs drop away thousands of feet. Silver threads of rivers wind through the forest below. The view is magnificent but terrifyingly high.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CASTLE_EXT_PRECIPICE.jpg"
+    },
+    {
+      "identifier": "SCENE_CARFAX_CHAPEL_EXT",
+      "ordinal": 4,
+      "location_header": "EXT. CARFAX CHAPEL - NIGHT",
+      "visual_description": "The overgrown exterior of a deserted chapel at night. A massive, iron-bound oak door stands shut within a high stone archway. Weeds and ivy choke the rough masonry. Moonlight struggles through dense trees, casting erratic shadows on the damp ground. An atmosphere of decay and ancient secrets.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_CARFAX_CHAPEL_EXT.jpg"
+    },
+    {
+      "identifier": "SCENE_ASYLUM_GROUNDS",
+      "ordinal": 4,
+      "location_header": "EXT. ASYLUM GROUNDS - DAY",
+      "visual_description": "The grounds of a Victorian asylum. A driveway leads to a large empty house next door. A carrier's cart stands on the gravel. High walls and iron gates surround the area. The atmosphere is volatile and public.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_ASYLUM_GROUNDS.jpg"
+    },
+    {
+      "identifier": "SCENE_LUCY_BEDROOM_NIGHT",
+      "ordinal": 5,
+      "location_header": "INT. LUCY'S BEDROOM - NIGHT",
+      "visual_description": "Lucy's bedroom at night, lit by dim gaslight and moonlight filtering through the blinds. The garlic flowers are prominent. Shadows are deep and long. The room feels claustrophobic and charged with supernatural dread.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_LUCY_BEDROOM_NIGHT.jpg"
+    },
+    {
+      "identifier": "SCENE_PICCADILLY",
+      "ordinal": 6,
+      "location_header": "EXT. PICCADILLY - DAY",
+      "visual_description": "A fashionable London street lined with high-end shops and clubs. A victoria carriage waits near the curb. Crowds of well-dressed Londoners move past shop windows displaying luxury goods. The architecture is grand and imposing.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_PICCADILLY.jpg"
+    },
+    {
+      "identifier": "SCENE_ALBEMARLE_HOTEL",
+      "ordinal": 6,
+      "location_header": "INT. ALBEMARLE HOTEL - NIGHT",
+      "visual_description": "An upscale hotel writing desk area. Stationery with the hotel crest, an oil lamp burning low, and a glass of brandy. The background suggests a well-furnished private suite in London. Serious and quiet.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_ALBEMARLE_HOTEL.jpg"
+    },
+    {
+      "identifier": "SCENE_VAN_HELSING_STUDY",
+      "ordinal": 7,
+      "location_header": "INT. VAN HELSING'S STUDY - NIGHT",
+      "visual_description": "A cluttered academic study in Amsterdam. Books piled high, medical instruments, scattered papers. Heavy wooden furniture, tobacco smoke hanging in the air. Warm lamp light against dark wood. Intellectual and chaotic.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_VAN_HELSING_STUDY.jpg"
+    },
+    {
+      "identifier": "SCENE_HAMPSTEAD_HEATH_DUSK",
+      "ordinal": 9,
+      "location_header": "EXT. HAMPSTEAD HEATH - DUSK",
+      "visual_description": "A wild, overgrown section of Hampstead Heath at dusk. Gorse bushes and furze cast long, jagged shadows. The sky is a bruising purple and grey. A distant path winds through the gloom. Mysterious and slightly menacing.",
+      "metadata": {},
+      "image_key": "publications/70da79e26dc59c69a613bad4f657bbbd2b0187dd/scenes/scene_SCENE_HAMPSTEAD_HEATH_DUSK.jpg"
+    }
+  ],
+  "subjects": [
+    "Horror tales",
+    "Epistolary fiction",
+    "Gothic fiction",
+    "Vampires -- Fiction",
+    "Dracula, Count (Fictitious character) -- Fiction",
+    "Transylvania (Romania) -- Fiction",
+    "Whitby (England) -- Fiction"
+  ]
+}
