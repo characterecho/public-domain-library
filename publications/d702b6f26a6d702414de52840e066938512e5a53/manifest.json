@@ -8,7 +8,7 @@
   "identifier": "d702b6f26a6d702414de52840e066938512e5a53",
   "publication_type": "novel",
   "cover_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/cover.png",
-  "total_duration_s": 25883.006848,
+  "total_duration_s": 26047.147709999997,
   "genre_tags": [
     "Classics",
     "Gothic",
@@ -21,49 +21,49 @@
       "ordinal": 0,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3413.021859
+      "end_s": 3570.362993
     },
     {
       "ordinal": 1,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_1.mp3",
-      "start_s": 3413.021859,
-      "end_s": 6735.92102
+      "start_s": 3570.362993,
+      "end_s": 6893.262154
     },
     {
       "ordinal": 2,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_2.mp3",
-      "start_s": 6735.92102,
-      "end_s": 9095.954739
+      "start_s": 6893.262154,
+      "end_s": 9253.295873
     },
     {
       "ordinal": 3,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_3.mp3",
-      "start_s": 9095.954739,
-      "end_s": 12376.724603
+      "start_s": 9253.295873,
+      "end_s": 12541.048321999999
     },
     {
       "ordinal": 4,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_4.mp3",
-      "start_s": 12376.724603,
-      "end_s": 14723.979229
+      "start_s": 12541.048321999999,
+      "end_s": 14888.302947999999
     },
     {
       "ordinal": 5,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_5.mp3",
-      "start_s": 14723.979229,
-      "end_s": 17531.199388
+      "start_s": 14888.302947999999,
+      "end_s": 17695.523106999997
     },
     {
       "ordinal": 6,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_6.mp3",
-      "start_s": 17531.199388,
-      "end_s": 20455.770204
+      "start_s": 17695.523106999997,
+      "end_s": 20620.093922999997
     },
     {
       "ordinal": 7,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_7.mp3",
-      "start_s": 20455.770204,
-      "end_s": 25883.006848
+      "start_s": 20620.093922999997,
+      "end_s": 26047.147709999997
     }
   ],
   "segments": [
@@ -71,39 +71,35 @@
       "ordinal": 0,
       "title": "Introduction",
       "start_s": 0.0,
-      "end_s": 7.815,
+      "end_s": 7.816,
       "part_ordinal": 0,
+      "intro": true,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {},
       "background_key": null
     },
     {
       "ordinal": 1,
-      "title": "CHAPTER I.",
-      "start_s": 7.815,
-      "end_s": 1587.938,
+      "title": "THE PREFACE",
+      "start_s": 7.816,
+      "end_s": 163.364,
       "part_ordinal": 0,
-      "metadata": {
-        "scenes": [
-          {
-            "identifier": "BASIL_STUDIO",
-            "location_header": "INT. BASIL'S STUDIO - DAY",
-            "visual_description": "A spacious Victorian artist's studio filled with soft summer light. A large window with tussore-silk curtains dominates one wall. In the center, an upright easel holds a portrait. A divan with Persian saddle-bags sits in the corner. Dust motes dance in the air. Rich scents of roses and lilac. Eclectic, artistic clutter."
-          },
-          {
-            "identifier": "BASIL_GARDEN",
-            "location_header": "EXT. BASIL'S GARDEN - DAY",
-            "visual_description": "A lush Victorian garden in high summer. Sunlight filters through a tall laurel bush shading a bamboo seat. White daisies speckle the long unmown grass. Ivy climbs the brick walls. Deep green shadows and bright sun patches. Atmosphere of languid heat and buzzing bees."
-          }
-        ]
-      },
+      "intro": true,
+      "title_only": false,
+      "story_boundary": false,
+      "metadata": {},
       "background_key": null
     },
     {
       "ordinal": 2,
-      "title": "CHAPTER II.",
-      "start_s": 1587.938,
-      "end_s": 3413.022,
+      "title": "CHAPTER I.",
+      "start_s": 163.364,
+      "end_s": 1745.212,
       "part_ordinal": 0,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -122,10 +118,38 @@
     },
     {
       "ordinal": 3,
+      "title": "CHAPTER II.",
+      "start_s": 1745.212,
+      "end_s": 3570.363,
+      "part_ordinal": 0,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
+      "metadata": {
+        "scenes": [
+          {
+            "identifier": "BASIL_STUDIO",
+            "location_header": "INT. BASIL'S STUDIO - DAY",
+            "visual_description": "A spacious Victorian artist's studio filled with soft summer light. A large window with tussore-silk curtains dominates one wall. In the center, an upright easel holds a portrait. A divan with Persian saddle-bags sits in the corner. Dust motes dance in the air. Rich scents of roses and lilac. Eclectic, artistic clutter."
+          },
+          {
+            "identifier": "BASIL_GARDEN",
+            "location_header": "EXT. BASIL'S GARDEN - DAY",
+            "visual_description": "A lush Victorian garden in high summer. Sunlight filters through a tall laurel bush shading a bamboo seat. White daisies speckle the long unmown grass. Ivy climbs the brick walls. Deep green shadows and bright sun patches. Atmosphere of languid heat and buzzing bees."
+          }
+        ]
+      },
+      "background_key": null
+    },
+    {
+      "ordinal": 4,
       "title": "CHAPTER III.",
-      "start_s": 3413.022,
-      "end_s": 4879.492,
+      "start_s": 3570.363,
+      "end_s": 5036.833,
       "part_ordinal": 1,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -143,11 +167,14 @@
       "background_key": null
     },
     {
-      "ordinal": 4,
+      "ordinal": 5,
       "title": "CHAPTER IV.",
-      "start_s": 4879.492,
-      "end_s": 6735.921,
+      "start_s": 5036.833,
+      "end_s": 6893.262,
       "part_ordinal": 1,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -160,11 +187,14 @@
       "background_key": null
     },
     {
-      "ordinal": 5,
+      "ordinal": 6,
       "title": "CHAPTER V.",
-      "start_s": 6735.921,
-      "end_s": 8227.687,
+      "start_s": 6893.262,
+      "end_s": 8385.028,
       "part_ordinal": 2,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -182,11 +212,14 @@
       "background_key": null
     },
     {
-      "ordinal": 6,
+      "ordinal": 7,
       "title": "CHAPTER VI.",
-      "start_s": 8227.687,
-      "end_s": 9095.955,
+      "start_s": 8385.028,
+      "end_s": 9253.296,
       "part_ordinal": 2,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -199,11 +232,14 @@
       "background_key": null
     },
     {
-      "ordinal": 7,
+      "ordinal": 8,
       "title": "CHAPTER VII.",
-      "start_s": 9095.955,
-      "end_s": 10628.098,
+      "start_s": 9253.296,
+      "end_s": 10789.688,
       "part_ordinal": 3,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -231,11 +267,14 @@
       "background_key": null
     },
     {
-      "ordinal": 8,
+      "ordinal": 9,
       "title": "CHAPTER VIII.",
-      "start_s": 10628.098,
-      "end_s": 12376.725,
+      "start_s": 10789.688,
+      "end_s": 12541.048,
       "part_ordinal": 3,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -248,11 +287,14 @@
       "background_key": null
     },
     {
-      "ordinal": 9,
+      "ordinal": 10,
       "title": "CHAPTER IX.",
-      "start_s": 12376.725,
-      "end_s": 13601.643,
+      "start_s": 12541.048,
+      "end_s": 13765.967,
       "part_ordinal": 4,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -265,11 +307,14 @@
       "background_key": null
     },
     {
-      "ordinal": 10,
+      "ordinal": 11,
       "title": "CHAPTER X.",
-      "start_s": 13601.643,
-      "end_s": 14723.979,
+      "start_s": 13765.967,
+      "end_s": 14888.303,
       "part_ordinal": 4,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -292,11 +337,14 @@
       "background_key": null
     },
     {
-      "ordinal": 11,
+      "ordinal": 12,
       "title": "CHAPTER XI.",
-      "start_s": 14723.979,
-      "end_s": 17531.199,
+      "start_s": 14888.303,
+      "end_s": 17695.523,
       "part_ordinal": 5,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -314,11 +362,14 @@
       "background_key": null
     },
     {
-      "ordinal": 12,
+      "ordinal": 13,
       "title": "CHAPTER XII.",
-      "start_s": 17531.199,
-      "end_s": 18366.587,
+      "start_s": 17695.523,
+      "end_s": 18530.911,
       "part_ordinal": 6,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -336,11 +387,14 @@
       "background_key": null
     },
     {
-      "ordinal": 13,
+      "ordinal": 14,
       "title": "CHAPTER XIII.",
-      "start_s": 18366.587,
-      "end_s": 19218.321,
+      "start_s": 18530.911,
+      "end_s": 19382.644,
       "part_ordinal": 6,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -368,11 +422,14 @@
       "background_key": null
     },
     {
-      "ordinal": 14,
+      "ordinal": 15,
       "title": "CHAPTER XIV.",
-      "start_s": 19218.321,
-      "end_s": 20455.77,
+      "start_s": 19382.644,
+      "end_s": 20620.094,
       "part_ordinal": 6,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -395,11 +452,14 @@
       "background_key": null
     },
     {
-      "ordinal": 15,
+      "ordinal": 16,
       "title": "CHAPTER XV.",
-      "start_s": 20455.77,
-      "end_s": 21333.862,
+      "start_s": 20620.094,
+      "end_s": 21498.185,
       "part_ordinal": 7,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -427,11 +487,14 @@
       "background_key": null
     },
     {
-      "ordinal": 16,
+      "ordinal": 17,
       "title": "CHAPTER XVI.",
-      "start_s": 21333.862,
-      "end_s": 22395.527,
+      "start_s": 21498.185,
+      "end_s": 22559.851,
       "part_ordinal": 7,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -459,11 +522,14 @@
       "background_key": null
     },
     {
-      "ordinal": 17,
+      "ordinal": 18,
       "title": "CHAPTER XVII.",
-      "start_s": 22395.527,
-      "end_s": 22973.421,
+      "start_s": 22559.851,
+      "end_s": 23137.745,
       "part_ordinal": 7,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -486,11 +552,14 @@
       "background_key": null
     },
     {
-      "ordinal": 18,
+      "ordinal": 19,
       "title": "CHAPTER XVIII.",
-      "start_s": 22973.421,
-      "end_s": 24024.428,
+      "start_s": 23137.745,
+      "end_s": 24188.752,
       "part_ordinal": 7,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -518,11 +587,14 @@
       "background_key": null
     },
     {
-      "ordinal": 19,
+      "ordinal": 20,
       "title": "CHAPTER XIX.",
-      "start_s": 24024.428,
-      "end_s": 25158.606,
+      "start_s": 24188.752,
+      "end_s": 25322.747,
       "part_ordinal": 7,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -540,11 +612,14 @@
       "background_key": null
     },
     {
-      "ordinal": 20,
+      "ordinal": 21,
       "title": "CHAPTER XX.",
-      "start_s": 25158.606,
-      "end_s": 25883.007,
+      "start_s": 25322.747,
+      "end_s": 26047.148,
       "part_ordinal": 7,
+      "intro": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -583,9 +658,12 @@
         "gender": "female",
         "voice_accent": "british_upper_class"
       },
-      "dialogue_count": 650,
+      "dialogue_count": 665,
       "image_key": null,
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/NARRATOR.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/NARRATOR.mp3",
+      "accent_color": null,
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "LORD_HENRY",
@@ -618,7 +696,10 @@
       },
       "dialogue_count": 402,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_HENRY.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_HENRY.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_HENRY.mp3",
+      "accent_color": "#343430",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "DORIAN_GRAY",
@@ -647,9 +728,12 @@
         "gender": "male",
         "voice_accent": "british_upper_class"
       },
-      "dialogue_count": 386,
+      "dialogue_count": 381,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DORIAN_GRAY.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DORIAN_GRAY.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DORIAN_GRAY.mp3",
+      "accent_color": "#2F302F",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "BASIL_HALLWARD",
@@ -675,9 +759,12 @@
         "gender": "male",
         "voice_accent": "british_cultivated"
       },
-      "dialogue_count": 206,
+      "dialogue_count": 205,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/BASIL_HALLWARD.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/BASIL_HALLWARD.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/BASIL_HALLWARD.mp3",
+      "accent_color": "#3D3D3C",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "DUCHESS_OF_MONMOUTH",
@@ -709,7 +796,10 @@
       },
       "dialogue_count": 66,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_MONMOUTH.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_MONMOUTH.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_MONMOUTH.mp3",
+      "accent_color": "#2B180C",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "JAMES_VANE",
@@ -744,7 +834,10 @@
       },
       "dialogue_count": 44,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/JAMES_VANE.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/JAMES_VANE.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/JAMES_VANE.mp3",
+      "accent_color": "#424242",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "SIBYL_VANE",
@@ -778,7 +871,10 @@
       },
       "dialogue_count": 43,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIBYL_VANE.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIBYL_VANE.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIBYL_VANE.mp3",
+      "accent_color": "#353535",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "LADY_NARBOROUGH",
@@ -809,7 +905,10 @@
       },
       "dialogue_count": 23,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_NARBOROUGH.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_NARBOROUGH.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_NARBOROUGH.mp3",
+      "accent_color": "#29190F",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "ALAN_CAMPBELL",
@@ -842,7 +941,10 @@
       },
       "dialogue_count": 21,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ALAN_CAMPBELL.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ALAN_CAMPBELL.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ALAN_CAMPBELL.mp3",
+      "accent_color": "#353739",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "MRS_VANE",
@@ -874,7 +976,10 @@
       },
       "dialogue_count": 18,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANE.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANE.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANE.mp3",
+      "accent_color": "#3F3F3E",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "LORD_FERMOR",
@@ -906,7 +1011,10 @@
       },
       "dialogue_count": 18,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_FERMOR.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_FERMOR.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LORD_FERMOR.mp3",
+      "accent_color": "#2A170F",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "DUCHESS_OF_HARLEY",
@@ -935,7 +1043,10 @@
       },
       "dialogue_count": 11,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_HARLEY.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_HARLEY.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/DUCHESS_OF_HARLEY.mp3",
+      "accent_color": "#3B3B3A",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "SIR_THOMAS",
@@ -965,7 +1076,10 @@
       },
       "dialogue_count": 10,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_THOMAS.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_THOMAS.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_THOMAS.mp3",
+      "accent_color": "#363635",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "FRANCIS",
@@ -994,7 +1108,10 @@
       },
       "dialogue_count": 10,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/FRANCIS.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/FRANCIS.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/FRANCIS.mp3",
+      "accent_color": "#484746",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "WOMAN_IN_SQUARE",
@@ -1030,7 +1147,10 @@
       },
       "dialogue_count": 10,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/WOMAN_IN_SQUARE.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/WOMAN_IN_SQUARE.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/WOMAN_IN_SQUARE.mp3",
+      "accent_color": "#3F3F3F",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "ADRIAN_SINGLETON",
@@ -1060,7 +1180,10 @@
       },
       "dialogue_count": 9,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ADRIAN_SINGLETON.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ADRIAN_SINGLETON.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ADRIAN_SINGLETON.mp3",
+      "accent_color": "#464645",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "MR_ERSKINE",
@@ -1089,7 +1212,10 @@
       },
       "dialogue_count": 9,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_ERSKINE.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_ERSKINE.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_ERSKINE.mp3",
+      "accent_color": "#3C3C3C",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "LADY_HENRY",
@@ -1121,7 +1247,10 @@
       },
       "dialogue_count": 8,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_HENRY.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_HENRY.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_HENRY.mp3",
+      "accent_color": "#363636",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "THORNTON",
@@ -1148,7 +1277,10 @@
       },
       "dialogue_count": 7,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/THORNTON.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/THORNTON.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/THORNTON.mp3",
+      "accent_color": "#3C3D39",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "MR_HUBBARD",
@@ -1176,7 +1308,10 @@
       },
       "dialogue_count": 7,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_HUBBARD.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_HUBBARD.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MR_HUBBARD.mp3",
+      "accent_color": "#3A3A3A",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "LADY_AGATHA",
@@ -1208,7 +1343,10 @@
       },
       "dialogue_count": 6,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_AGATHA.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_AGATHA.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_AGATHA.mp3",
+      "accent_color": "#424340",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "SIR_GEOFFREY_CLOUSTON",
@@ -1239,7 +1377,10 @@
       },
       "dialogue_count": 4,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_GEOFFREY_CLOUSTON.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_GEOFFREY_CLOUSTON.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/SIR_GEOFFREY_CLOUSTON.mp3",
+      "accent_color": "#393938",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "VICTOR",
@@ -1269,7 +1410,10 @@
       },
       "dialogue_count": 4,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/VICTOR.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/VICTOR.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/VICTOR.mp3",
+      "accent_color": "#434343",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "CAB_DRIVER",
@@ -1295,7 +1439,10 @@
       },
       "dialogue_count": 3,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/CAB_DRIVER.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/CAB_DRIVER.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/CAB_DRIVER.mp3",
+      "accent_color": "#242C2D",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "MRS_LEAF",
@@ -1324,7 +1471,10 @@
       },
       "dialogue_count": 3,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_LEAF.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_LEAF.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_LEAF.mp3",
+      "accent_color": "#313131",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "LADY_RUXTON",
@@ -1350,7 +1500,10 @@
       },
       "dialogue_count": 2,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_RUXTON.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_RUXTON.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/LADY_RUXTON.mp3",
+      "accent_color": "#3A3A39",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "POLICEMAN",
@@ -1377,7 +1530,10 @@
       },
       "dialogue_count": 2,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/POLICEMAN.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/POLICEMAN.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/POLICEMAN.mp3",
+      "accent_color": "#31302E",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "PARKER",
@@ -1403,7 +1559,10 @@
       },
       "dialogue_count": 1,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/PARKER.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/PARKER.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/PARKER.mp3",
+      "accent_color": "#3E3E3E",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "MRS_VANDELEUR",
@@ -1431,7 +1590,10 @@
       },
       "dialogue_count": 1,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANDELEUR.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANDELEUR.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/MRS_VANDELEUR.mp3",
+      "accent_color": "#29231C",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "ELDER_GENTLEMAN",
@@ -1458,7 +1620,10 @@
       },
       "dialogue_count": 1,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ELDER_GENTLEMAN.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ELDER_GENTLEMAN.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/ELDER_GENTLEMAN.mp3",
+      "accent_color": "#373737",
+      "stature": 1.0,
+      "sprites": {}
     },
     {
       "identifier": "YOUNG_PASSERBY",
@@ -1484,7 +1649,10 @@
       },
       "dialogue_count": 1,
       "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/YOUNG_PASSERBY.png",
-      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/YOUNG_PASSERBY.mp3"
+      "voice_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/characters/YOUNG_PASSERBY.mp3",
+      "accent_color": "#373736",
+      "stature": 1.0,
+      "sprites": {}
     }
   ],
   "scenes": [
@@ -1494,7 +1662,8 @@
       "location_header": "INT. BASIL'S STUDIO - DAY",
       "visual_description": "A spacious Victorian artist's studio filled with soft summer light. A large window with tussore-silk curtains dominates one wall. In the center, an upright easel holds a portrait. A divan with Persian saddle-bags sits in the corner. Dust motes dance in the air. Rich scents of roses and lilac. Eclectic, artistic clutter.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BASIL_STUDIO.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BASIL_STUDIO.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_HENRY_DINING_ROOM",
@@ -1502,7 +1671,8 @@
       "location_header": "INT. LORD HENRY'S DINING ROOM - NIGHT",
       "visual_description": "A lavish Victorian dining room at night. A table set with fine china and a red copper bowl of rose-water. A pyramid of strawberries on a plate. Soft, warm candlelight reflects off silver and crystal. Rich dark wood panelling and heavy velvet curtains.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HENRY_DINING_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HENRY_DINING_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "LADY_NARBOROUGH_DRAWING_ROOM",
@@ -1510,7 +1680,8 @@
       "location_header": "INT. LADY NARBOROUGH'S DRAWING ROOM - EVENING",
       "visual_description": "A cluttered, comfortable Victorian drawing room. Mauve drapery on the mantelshelf and a large ormolu gilt clock. Plush armchairs, tables filled with knick-knacks, and soft lamp lighting. An atmosphere of busy, upper-class domesticity.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_NARBOROUGH_DRAWING_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_NARBOROUGH_DRAWING_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_SELBY_CONSERVATORY",
@@ -1518,7 +1689,8 @@
       "location_header": "INT. SELBY ROYAL - CONSERVATORY - EVENING",
       "visual_description": "The conservatory at Selby Royal during tea-time. A huge lace-covered lamp casts mellow light on delicate china and hammered silver. Palms and exotic plants create green shadows. A peach-coloured divan and wicker chairs provide seating. The atmosphere is elegant, wealthy, and relaxed, with a backdrop of glass and garden twilight.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_CONSERVATORY.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_CONSERVATORY.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_SELBY_DORIAN_ROOM",
@@ -1526,7 +1698,8 @@
       "location_header": "INT. SELBY ROYAL - DORIAN'S ROOM - DAY",
       "visual_description": "Dorian Gray's private room at Selby Royal. A large space with leaded panes looking out onto the estate. Tapestries hang on the walls. The atmosphere is haunted and oppressive, filled with the character's paranoia.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DORIAN_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DORIAN_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_COVER_00",
@@ -1536,7 +1709,8 @@
       "metadata": {
         "type": "cover_placeholder"
       },
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_SCENE_COVER_00.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_SCENE_COVER_00.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_LONDON_STREET_FOG",
@@ -1544,7 +1718,8 @@
       "location_header": "EXT. GROSVENOR SQUARE - NIGHT",
       "visual_description": "A London street corner shrouded in thick, swirling yellow fog at night. Gas lamps appear as dim halos in the gloom. The pavement is slick with moisture. Shadowy outlines of railings and Victorian townhouses are barely visible. Cold, oppressive atmosphere.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_LONDON_STREET_FOG.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_LONDON_STREET_FOG.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_HANSOM_CAB_NIGHT",
@@ -1552,7 +1727,8 @@
       "location_header": "INT. HANSOM CAB - NIGHT",
       "visual_description": "Interior of a hansom cab rattling through rain-swept Victorian London at night. The side-windows are clogged with grey-flannel mist, blurring the gas lamps outside into ghastly yellow halos. Leather seats are worn, shadows deep. The atmosphere is claustrophobic, damp, and heavy with dread.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HANSOM_CAB_NIGHT.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HANSOM_CAB_NIGHT.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "FERMOR_ROOMS",
@@ -1560,7 +1736,8 @@
       "location_header": "INT. LORD FERMOR'S CHAMBERS - DAY",
       "visual_description": "A bachelor's sitting room in the Albany, London. Mid-Victorian era. Comfortable but slightly rough masculine atmosphere. Leather armchairs, a table cluttered with newspapers and a cheroot box. Smoke hangs in the air. Natural daylight filters in.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_FERMOR_ROOMS.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_FERMOR_ROOMS.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "HENRY_LIBRARY",
@@ -1568,7 +1745,8 @@
       "location_header": "INT. LORD HENRY'S LIBRARY - DAY",
       "visual_description": "Lord Henry's luxurious library in Mayfair. High wainscoting of olive-stained oak and a cream-coloured frieze. Sunlight streams through small leaded windows, illuminating brickdust felt carpets and silk Persian rugs. A satinwood table holds art objects. Rich, artistic, and comfortable.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_HENRY_LIBRARY.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_HENRY_LIBRARY.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "VANE_SITTING_ROOM",
@@ -1576,7 +1754,8 @@
       "location_header": "INT. VANE LODGINGS - SITTING ROOM - DAY",
       "visual_description": "A dingy Victorian sitting-room in London, filled with intrusive afternoon light. Faded, mismatched furniture including a single worn armchair and a table cluttered with sewing materials. Peeling wallpaper and a window looking out onto a busy street. A tawdry theatrical dress lies on a chair. Atmosphere of shabby genteel poverty.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_VANE_SITTING_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_VANE_SITTING_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "BRISTOL_PRIVATE_ROOM",
@@ -1584,7 +1763,8 @@
       "location_header": "INT. THE BRISTOL - PRIVATE ROOM - EVENING",
       "visual_description": "A private dining room at the Bristol Hotel. Elegant Victorian luxury. A small round table set for three with fine silver and crystal. A centerpiece of purple-lipped irises. A fire-breathing silver dragon lighter sits on the cloth. Warm ambient lighting, plush chairs, and an air of upper-class comfort and exclusivity.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BRISTOL_PRIVATE_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BRISTOL_PRIVATE_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "THEATRE_BOX",
@@ -1592,7 +1772,8 @@
       "location_header": "INT. THEATRE BOX - NIGHT",
       "visual_description": "A cramped, opulent Victorian theatre box overlooking a crowded pit. The space is sweltering, lit by the harsh glare of gaslight which flames like a monstrous yellow dahlia. Velvet curtains frame the view of the stage and the hazy, smoke-filled auditorium beyond. The atmosphere is oppressive, tawdry, and loud.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_THEATRE_BOX.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_THEATRE_BOX.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "DORIAN_BEDROOM",
@@ -1600,7 +1781,8 @@
       "location_header": "INT. DORIAN GRAY'S BEDROOM - DAY",
       "visual_description": "Dorian Gray's large octagonal bedroom. Luxurious and artistic, with cream-coloured silk blinds filtering the light. A large screen of gilt Spanish leather stands in the corner. Curious Renaissance tapestries hang on the walls. An atmosphere of refined luxury and hidden secrets.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_BEDROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_BEDROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "DORIAN_LIBRARY_NIGHT",
@@ -1608,7 +1790,8 @@
       "location_header": "INT. DORIAN'S LIBRARY - NIGHT",
       "visual_description": "A luxurious ground-floor library in a Mayfair townhouse at night. A bright wood fire blazes in the open hearth. Oil lamps cast warm pools of light on olive-stained oak wainscoting and silk Persian rugs. A marquetry table holds a silver spirit-case and cut-glass tumblers. Atmosphere of wealth and private confrontation.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_LIBRARY_NIGHT.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_LIBRARY_NIGHT.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "HYDE_PARK_WALK",
@@ -1616,7 +1799,8 @@
       "location_header": "EXT. HYDE PARK - AFTERNOON",
       "visual_description": "Hyde Park in the late Victorian afternoon. Patches of bright sunlight filter through trees onto the dusty carriage paths. Vibrant tulip beds arranged in rings flame with color. The Achilles Statue stands in the background. Crowds of people with colorful parasols. Atmosphere of bustling leisure contrasting with an underlying tension.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_HYDE_PARK_WALK.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_HYDE_PARK_WALK.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_SELBY_WOODS",
@@ -1624,7 +1808,8 @@
       "location_header": "EXT. SELBY ROYAL - WOODS - DAY",
       "visual_description": "A pine-wood on the Selby estate in winter. Crisp frost lies like salt on the grass. A thin film of ice borders a reed-grown lake. The sky is an inverted cup of blue metal. Withered bracken and rough undergrowth create a texture of decay amidst the beauty.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_SELBY_WOODS.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_SELBY_WOODS.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "LADY_NARBOROUGH_DINING_ROOM",
@@ -1632,7 +1817,8 @@
       "location_header": "INT. LADY NARBOROUGH'S DINING ROOM - EVENING",
       "visual_description": "A formal Victorian dining room in soft candlelight. A long mahogany table set with white linen, sparkling crystal, and silver. Dark walls, heavy curtains, and portraits in shadow. An atmosphere of refined social gathering.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_NARBOROUGH_DINING_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_NARBOROUGH_DINING_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "DORIAN_LIBRARY",
@@ -1640,7 +1826,8 @@
       "location_header": "INT. DORIAN'S LIBRARY - DAY",
       "visual_description": "A luxurious ground-floor library in a Mayfair townhouse. Sunlight filters through green garden foliage outside large windows. The room is filled with artistic treasures: a velvet couch, a satinwood table, and shelves of bound books. A large decorative screen stands in one corner. The remains of a breakfast with Venetian glass and silver sit on a table. Atmosphere of aesthetic indulgence.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_LIBRARY.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_LIBRARY.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "DORIAN_SCHOOLROOM",
@@ -1648,7 +1835,8 @@
       "location_header": "INT. OLD SCHOOLROOM - NIGHT",
       "visual_description": "A neglected, spacious room at the top of a Victorian house. Dust covers everything. A huge Italian chest with tarnished gilt and a satinwood bookcase stand against peeling wallpaper. A ragged tapestry depicts a faded scene. Cobwebs hang from the ceiling. Lighting is dim and musty, contrasting with the luxury downstairs.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_SCHOOLROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_SCHOOLROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "DORIAN_BALCONY",
@@ -1656,7 +1844,8 @@
       "location_header": "EXT. DORIAN'S BALCONY - NIGHT",
       "visual_description": "A stone balcony overlooking a London square at night. The sky is a deep indigo starry expanse. Below, the wet pavement reflects the yellow glow of gas lamps. Black iron railings and leafless tree branches silhouette against the gloom. A cold, crisp, and solitary atmosphere.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_BALCONY.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_BALCONY.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "THEATRE_GREENROOM",
@@ -1664,7 +1853,8 @@
       "location_header": "INT. THEATRE GREENROOM - NIGHT",
       "visual_description": "A dingy greenroom behind the scenes of a Victorian theatre. Gas jets flicker in wire cages, casting harsh shadows on painted walls. A worn sofa and a dressing table cluttered with greasepaint and powders sit amidst the gloom. The air is thick with dust and the smell of old costumes. A sense of artificiality and faded glamour.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_THEATRE_GREENROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_THEATRE_GREENROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "BASIL_GARDEN",
@@ -1672,7 +1862,8 @@
       "location_header": "EXT. BASIL'S GARDEN - DAY",
       "visual_description": "A lush Victorian garden in high summer. Sunlight filters through a tall laurel bush shading a bamboo seat. White daisies speckle the long unmown grass. Ivy climbs the brick walls. Deep green shadows and bright sun patches. Atmosphere of languid heat and buzzing bees.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BASIL_GARDEN.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_BASIL_GARDEN.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_HENRY_MUSIC_ROOM",
@@ -1680,7 +1871,8 @@
       "location_header": "INT. LORD HENRY'S MUSIC ROOM - NIGHT",
       "visual_description": "An elegant music room in a Mayfair townhouse, lit by a large honey-coloured moon through the window and dim lamps. A grand piano with black and white keys stands open. A bamboo perch holds a grey parrot. Atmospheric, dusky, and artistic.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HENRY_MUSIC_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_HENRY_MUSIC_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "LADY_AGATHA_DINING",
@@ -1688,7 +1880,8 @@
       "location_header": "INT. LADY AGATHA'S DINING ROOM - DAY",
       "visual_description": "A grand Victorian dining room filled with guests. A long mahogany table set with white linens, silver, and crystal. Sombre but elegant decor with heavy curtains. Servants in livery moving in the background. Soft ambient chatter.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_AGATHA_DINING.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LADY_AGATHA_DINING.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_LONDON_DOCKS_NIGHT",
@@ -1696,7 +1889,8 @@
       "location_header": "EXT. LONDON DOCKS - NIGHT",
       "visual_description": "A sordid London dockside street at night. Low roofs and jagged chimney-stacks silhouette against a dark sky. Black masts of ships rise in the background with wreaths of white mist clinging to them like ghostly sails. Gas lanterns gleam on slimy, wet pavements that look like black mackintosh. Oppressive and ominous.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_LONDON_DOCKS_NIGHT.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_LONDON_DOCKS_NIGHT.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_SELBY_DRAWING_ROOM",
@@ -1704,7 +1898,8 @@
       "location_header": "INT. SELBY ROYAL - DRAWING ROOM - EVENING",
       "visual_description": "The blue drawing-room at Selby Royal. Plush blue sofas, elegant Victorian decor, and soft lighting. A refined space for recovery and quiet conversation, contrasting with the earlier social scene.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DRAWING_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DRAWING_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_SELBY_DINING_ROOM",
@@ -1712,7 +1907,8 @@
       "location_header": "INT. SELBY ROYAL - DINING ROOM - NIGHT",
       "visual_description": "A formal dining room at Selby Royal. A long table set for dinner with sparkling crystal and silver. The atmosphere is socially charged but tense for Dorian. Large windows look out into the darkness.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DINING_ROOM.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_DINING_ROOM.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "COVENT_GARDEN_DAWN",
@@ -1720,7 +1916,8 @@
       "location_header": "EXT. COVENT GARDEN - DAWN",
       "visual_description": "Covent Garden market at the break of dawn. The sky is a hollow pearl above grey, sun-bleached portico pillars. Huge carts filled with white lilies, striped tulips, and red roses stand in the polished empty street. Piles of jade-green vegetables and crates of fruit create a riot of color against the cold stone. Pigeons peck at seeds on the cobbles.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_COVENT_GARDEN_DAWN.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_COVENT_GARDEN_DAWN.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "LONDON_CLUB",
@@ -1728,7 +1925,8 @@
       "location_header": "INT. LONDON CLUB - NIGHT",
       "visual_description": "A gentleman's club morning-room in London. Late evening. Dark mahogany furniture, leather armchairs, and the low hum of exclusive quiet. Gas lamps cast a warm, subdued glow on oil paintings and newspapers. An atmosphere of bored aristocratic leisure.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LONDON_CLUB.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_LONDON_CLUB.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_OPIUM_DEN",
@@ -1736,7 +1934,8 @@
       "location_header": "INT. OPIUM DEN - NIGHT",
       "visual_description": "A long, low room in a shabby dockside house, formerly a dancing-saloon. Shrill gas-jets flare in wire cages, reflected in fly-blown, distorted mirrors. The floor is covered in ochre sawdust stained with liquor. Wooden tables, a charcoal stove, and a tawdry painted bar. The air is thick with shadows and smoke.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_OPIUM_DEN.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_OPIUM_DEN.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_SELBY_TERRACE",
@@ -1744,7 +1943,8 @@
       "location_header": "EXT. SELBY ROYAL - TERRACE - DAY",
       "visual_description": "The great stone terrace at Selby Royal, leading down from the conservatory. Views of the garden and park beyond. Cold winter sunlight.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_SELBY_TERRACE.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_SELBY_TERRACE.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_SELBY_STABLE",
@@ -1752,7 +1952,8 @@
       "location_header": "INT. SELBY ROYAL - STABLE - EVENING",
       "visual_description": "A rough stable at the Home Farm. A single coarse candle stuck in a bottle sputters, casting long shadows. A dead body lies on a heap of sacking. The air smells of horses and straw. Grim and foreboding.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_STABLE.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_INT_SELBY_STABLE.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_DOCK_ARCHWAY_NIGHT",
@@ -1760,7 +1961,8 @@
       "location_header": "EXT. DOCK ARCHWAY - NIGHT",
       "visual_description": "A dim, brick archway near the London docks at night. Shadows are deep and impenetrable. A single flickering lamp casts wavering light on wet cobblestones and dripping walls. The atmosphere is tense, enclosed, and dangerous, with the smell of the river and rain.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_DOCK_ARCHWAY_NIGHT.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_DOCK_ARCHWAY_NIGHT.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "DORIAN_HALL",
@@ -1768,7 +1970,8 @@
       "location_header": "INT. DORIAN GRAY'S HALL - NIGHT",
       "visual_description": "A grand Victorian entrance hall. Black and white marble floor. A large mahogany table for hats and coats. A grandfather clock stands sentinel. Dim gaslight casts long shadows. The atmosphere is quiet and echoey.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_HALL.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_DORIAN_HALL.jpg",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_BOND_STREET_NIGHT",
@@ -1776,7 +1979,8 @@
       "location_header": "EXT. BOND STREET - NIGHT",
       "visual_description": "Bond Street at midnight. Elegant shop fronts are dark and shuttered. Gas lamps cast pools of yellow light on the damp cobblestones. A hansom cab with a horse stands waiting. The street is empty and shadowed. Mysterious and quiet.",
       "metadata": {},
-      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_BOND_STREET_NIGHT.jpg"
+      "image_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/scenes/scene_EXT_BOND_STREET_NIGHT.jpg",
+      "portrait_image_key": null
     }
   ],
   "subjects": [
