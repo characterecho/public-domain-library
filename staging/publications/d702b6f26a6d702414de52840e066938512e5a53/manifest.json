@@ -8,7 +8,7 @@
   "identifier": "d702b6f26a6d702414de52840e066938512e5a53",
   "publication_type": "novel",
   "cover_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/cover.png",
-  "total_duration_s": 26047.147709999997,
+  "total_duration_s": 26046.787709999997,
   "genre_tags": [
     "Classics",
     "Gothic",
@@ -21,49 +21,49 @@
       "ordinal": 0,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 3570.362993
+      "end_s": 3570.002993
     },
     {
       "ordinal": 1,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_1.mp3",
-      "start_s": 3570.362993,
-      "end_s": 6893.262154
+      "start_s": 3570.002993,
+      "end_s": 6892.902153999999
     },
     {
       "ordinal": 2,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_2.mp3",
-      "start_s": 6893.262154,
-      "end_s": 9253.295873
+      "start_s": 6892.902153999999,
+      "end_s": 9252.935872999999
     },
     {
       "ordinal": 3,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_3.mp3",
-      "start_s": 9253.295873,
-      "end_s": 12541.048321999999
+      "start_s": 9252.935872999999,
+      "end_s": 12540.688321999998
     },
     {
       "ordinal": 4,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_4.mp3",
-      "start_s": 12541.048321999999,
-      "end_s": 14888.302947999999
+      "start_s": 12540.688321999998,
+      "end_s": 14887.942947999998
     },
     {
       "ordinal": 5,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_5.mp3",
-      "start_s": 14888.302947999999,
-      "end_s": 17695.523106999997
+      "start_s": 14887.942947999998,
+      "end_s": 17695.163106999997
     },
     {
       "ordinal": 6,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_6.mp3",
-      "start_s": 17695.523106999997,
-      "end_s": 20620.093922999997
+      "start_s": 17695.163106999997,
+      "end_s": 20619.733922999996
     },
     {
       "ordinal": 7,
       "audio_key": "publications/d702b6f26a6d702414de52840e066938512e5a53/audio_part_7.mp3",
-      "start_s": 20620.093922999997,
-      "end_s": 26047.147709999997
+      "start_s": 20619.733922999996,
+      "end_s": 26046.787709999997
     }
   ],
   "segments": [
@@ -83,7 +83,7 @@
       "ordinal": 1,
       "title": "THE PREFACE",
       "start_s": 7.816,
-      "end_s": 163.364,
+      "end_s": 163.004,
       "part_ordinal": 0,
       "intro": true,
       "title_only": false,
@@ -94,8 +94,8 @@
     {
       "ordinal": 2,
       "title": "CHAPTER I.",
-      "start_s": 163.364,
-      "end_s": 1745.212,
+      "start_s": 163.004,
+      "end_s": 1744.852,
       "part_ordinal": 0,
       "intro": false,
       "title_only": false,
@@ -119,8 +119,8 @@
     {
       "ordinal": 3,
       "title": "CHAPTER II.",
-      "start_s": 1745.212,
-      "end_s": 3570.363,
+      "start_s": 1744.852,
+      "end_s": 3570.003,
       "part_ordinal": 0,
       "intro": false,
       "title_only": false,
@@ -144,8 +144,8 @@
     {
       "ordinal": 4,
       "title": "CHAPTER III.",
-      "start_s": 3570.363,
-      "end_s": 5036.833,
+      "start_s": 3570.003,
+      "end_s": 5036.473,
       "part_ordinal": 1,
       "intro": false,
       "title_only": false,
@@ -169,8 +169,8 @@
     {
       "ordinal": 5,
       "title": "CHAPTER IV.",
-      "start_s": 5036.833,
-      "end_s": 6893.262,
+      "start_s": 5036.473,
+      "end_s": 6892.902,
       "part_ordinal": 1,
       "intro": false,
       "title_only": false,
@@ -189,8 +189,8 @@
     {
       "ordinal": 6,
       "title": "CHAPTER V.",
-      "start_s": 6893.262,
-      "end_s": 8385.028,
+      "start_s": 6892.902,
+      "end_s": 8384.668,
       "part_ordinal": 2,
       "intro": false,
       "title_only": false,
@@ -214,8 +214,8 @@
     {
       "ordinal": 7,
       "title": "CHAPTER VI.",
-      "start_s": 8385.028,
-      "end_s": 9253.296,
+      "start_s": 8384.668,
+      "end_s": 9252.936,
       "part_ordinal": 2,
       "intro": false,
       "title_only": false,
@@ -234,8 +234,8 @@
     {
       "ordinal": 8,
       "title": "CHAPTER VII.",
-      "start_s": 9253.296,
-      "end_s": 10789.688,
+      "start_s": 9252.936,
+      "end_s": 10789.328,
       "part_ordinal": 3,
       "intro": false,
       "title_only": false,
@@ -269,8 +269,8 @@
     {
       "ordinal": 9,
       "title": "CHAPTER VIII.",
-      "start_s": 10789.688,
-      "end_s": 12541.048,
+      "start_s": 10789.328,
+      "end_s": 12540.688,
       "part_ordinal": 3,
       "intro": false,
       "title_only": false,
@@ -289,8 +289,8 @@
     {
       "ordinal": 10,
       "title": "CHAPTER IX.",
-      "start_s": 12541.048,
-      "end_s": 13765.967,
+      "start_s": 12540.688,
+      "end_s": 13765.607,
       "part_ordinal": 4,
       "intro": false,
       "title_only": false,
@@ -309,8 +309,8 @@
     {
       "ordinal": 11,
       "title": "CHAPTER X.",
-      "start_s": 13765.967,
-      "end_s": 14888.303,
+      "start_s": 13765.607,
+      "end_s": 14887.943,
       "part_ordinal": 4,
       "intro": false,
       "title_only": false,
@@ -339,8 +339,8 @@
     {
       "ordinal": 12,
       "title": "CHAPTER XI.",
-      "start_s": 14888.303,
-      "end_s": 17695.523,
+      "start_s": 14887.943,
+      "end_s": 17695.163,
       "part_ordinal": 5,
       "intro": false,
       "title_only": false,
@@ -364,8 +364,8 @@
     {
       "ordinal": 13,
       "title": "CHAPTER XII.",
-      "start_s": 17695.523,
-      "end_s": 18530.911,
+      "start_s": 17695.163,
+      "end_s": 18530.551,
       "part_ordinal": 6,
       "intro": false,
       "title_only": false,
@@ -389,8 +389,8 @@
     {
       "ordinal": 14,
       "title": "CHAPTER XIII.",
-      "start_s": 18530.911,
-      "end_s": 19382.644,
+      "start_s": 18530.551,
+      "end_s": 19382.284,
       "part_ordinal": 6,
       "intro": false,
       "title_only": false,
@@ -424,8 +424,8 @@
     {
       "ordinal": 15,
       "title": "CHAPTER XIV.",
-      "start_s": 19382.644,
-      "end_s": 20620.094,
+      "start_s": 19382.284,
+      "end_s": 20619.734,
       "part_ordinal": 6,
       "intro": false,
       "title_only": false,
@@ -454,8 +454,8 @@
     {
       "ordinal": 16,
       "title": "CHAPTER XV.",
-      "start_s": 20620.094,
-      "end_s": 21498.185,
+      "start_s": 20619.734,
+      "end_s": 21497.825,
       "part_ordinal": 7,
       "intro": false,
       "title_only": false,
@@ -489,8 +489,8 @@
     {
       "ordinal": 17,
       "title": "CHAPTER XVI.",
-      "start_s": 21498.185,
-      "end_s": 22559.851,
+      "start_s": 21497.825,
+      "end_s": 22559.491,
       "part_ordinal": 7,
       "intro": false,
       "title_only": false,
@@ -524,8 +524,8 @@
     {
       "ordinal": 18,
       "title": "CHAPTER XVII.",
-      "start_s": 22559.851,
-      "end_s": 23137.745,
+      "start_s": 22559.491,
+      "end_s": 23137.385,
       "part_ordinal": 7,
       "intro": false,
       "title_only": false,
@@ -554,8 +554,8 @@
     {
       "ordinal": 19,
       "title": "CHAPTER XVIII.",
-      "start_s": 23137.745,
-      "end_s": 24188.752,
+      "start_s": 23137.385,
+      "end_s": 24188.392,
       "part_ordinal": 7,
       "intro": false,
       "title_only": false,
@@ -589,8 +589,8 @@
     {
       "ordinal": 20,
       "title": "CHAPTER XIX.",
-      "start_s": 24188.752,
-      "end_s": 25322.747,
+      "start_s": 24188.392,
+      "end_s": 25322.387,
       "part_ordinal": 7,
       "intro": false,
       "title_only": false,
@@ -614,8 +614,8 @@
     {
       "ordinal": 21,
       "title": "CHAPTER XX.",
-      "start_s": 25322.747,
-      "end_s": 26047.148,
+      "start_s": 25322.387,
+      "end_s": 26046.788,
       "part_ordinal": 7,
       "intro": false,
       "title_only": false,
