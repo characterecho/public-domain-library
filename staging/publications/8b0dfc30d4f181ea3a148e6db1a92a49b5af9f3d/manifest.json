@@ -1,6 +1,7 @@
 {
   "manifest_version": 2,
   "sample": false,
+  "animated": false,
   "title": "The Valley of Fear",
   "author_names": "Arthur Conan Doyle",
   "description": "Publication imported from https://gutenberg.org/ebooks/3289.epub3.images",
@@ -8,7 +9,7 @@
   "identifier": "8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d",
   "publication_type": "novel",
   "cover_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/cover.png",
-  "total_duration_s": 17542.343832000002,
+  "total_duration_s": 17542.275533,
   "genre_tags": [
     "Mystery & Thriller",
     "Detective Fiction",
@@ -21,37 +22,37 @@
       "ordinal": 0,
       "audio_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 2891.7405440000002
+      "end_s": 2891.672245
     },
     {
       "ordinal": 1,
       "audio_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/audio_part_1.mp3",
-      "start_s": 2891.7405440000002,
-      "end_s": 5236.916689
+      "start_s": 2891.672245,
+      "end_s": 5236.84839
     },
     {
       "ordinal": 2,
       "audio_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/audio_part_2.mp3",
-      "start_s": 5236.916689,
-      "end_s": 8348.658798
+      "start_s": 5236.84839,
+      "end_s": 8348.590499
     },
     {
       "ordinal": 3,
       "audio_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/audio_part_3.mp3",
-      "start_s": 8348.658798,
-      "end_s": 10927.268571
+      "start_s": 8348.590499,
+      "end_s": 10927.200272
     },
     {
       "ordinal": 4,
       "audio_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/audio_part_4.mp3",
-      "start_s": 10927.268571,
-      "end_s": 13689.333560000001
+      "start_s": 10927.200272,
+      "end_s": 13689.265261
     },
     {
       "ordinal": 5,
       "audio_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/audio_part_5.mp3",
-      "start_s": 13689.333560000001,
-      "end_s": 17542.343832000002
+      "start_s": 13689.265261,
+      "end_s": 17542.275533
     }
   ],
   "segments": [
@@ -61,6 +62,10 @@
       "start_s": 0.0,
       "end_s": 6.72,
       "part_ordinal": 0,
+      "intro": true,
+      "intro_card": true,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {},
       "background_key": null
     },
@@ -70,6 +75,10 @@
       "start_s": 6.72,
       "end_s": 10.361,
       "part_ordinal": 0,
+      "intro": false,
+      "intro_card": false,
+      "title_only": true,
+      "story_boundary": false,
       "metadata": {},
       "background_key": null
     },
@@ -77,8 +86,12 @@
       "ordinal": 2,
       "title": "Chapter I. The Warning.",
       "start_s": 10.361,
-      "end_s": 1008.973,
+      "end_s": 1008.631,
       "part_ordinal": 0,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -93,9 +106,13 @@
     {
       "ordinal": 3,
       "title": "Chapter II. Sherlock Holmes Discourses.",
-      "start_s": 1008.973,
-      "end_s": 1854.134,
+      "start_s": 1008.631,
+      "end_s": 1853.796,
       "part_ordinal": 0,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -110,9 +127,13 @@
     {
       "ordinal": 4,
       "title": "Chapter III. The Tragedy of Birlstone.",
-      "start_s": 1854.134,
-      "end_s": 2891.741,
+      "start_s": 1853.796,
+      "end_s": 2891.672,
       "part_ordinal": 0,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -132,9 +153,13 @@
     {
       "ordinal": 5,
       "title": "Chapter IV. Darkness.",
-      "start_s": 2891.741,
-      "end_s": 4046.007,
+      "start_s": 2891.672,
+      "end_s": 4045.939,
       "part_ordinal": 1,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -164,9 +189,13 @@
     {
       "ordinal": 6,
       "title": "Chapter V. The People of the Drama.",
-      "start_s": 4046.007,
-      "end_s": 5236.917,
+      "start_s": 4045.939,
+      "end_s": 5236.848,
       "part_ordinal": 1,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -186,9 +215,13 @@
     {
       "ordinal": 7,
       "title": "Chapter VI. A Dawning Light.",
-      "start_s": 5236.917,
-      "end_s": 6647.298,
+      "start_s": 5236.848,
+      "end_s": 6647.23,
       "part_ordinal": 2,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -213,9 +246,13 @@
     {
       "ordinal": 8,
       "title": "Chapter VII. The Solution.",
-      "start_s": 6647.298,
-      "end_s": 8345.749,
+      "start_s": 6647.23,
+      "end_s": 8345.68,
       "part_ordinal": 2,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -240,18 +277,26 @@
     {
       "ordinal": 9,
       "title": "PART II. The Scowrers.",
-      "start_s": 8345.749,
-      "end_s": 8348.659,
+      "start_s": 8345.68,
+      "end_s": 8348.59,
       "part_ordinal": 2,
+      "intro": false,
+      "intro_card": false,
+      "title_only": true,
+      "story_boundary": false,
       "metadata": {},
       "background_key": null
     },
     {
       "ordinal": 10,
       "title": "Chapter I. The Man.",
-      "start_s": 8348.659,
-      "end_s": 9281.228,
+      "start_s": 8348.59,
+      "end_s": 9281.16,
       "part_ordinal": 3,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -276,9 +321,13 @@
     {
       "ordinal": 11,
       "title": "Chapter II. The Bodymaster.",
-      "start_s": 9281.228,
-      "end_s": 10927.269,
+      "start_s": 9281.16,
+      "end_s": 10927.2,
       "part_ordinal": 3,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -298,9 +347,13 @@
     {
       "ordinal": 12,
       "title": "Chapter III. Lodge 341, Vermissa.",
-      "start_s": 10927.269,
-      "end_s": 12575.359,
+      "start_s": 10927.2,
+      "end_s": 12575.291,
       "part_ordinal": 4,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -335,9 +388,13 @@
     {
       "ordinal": 13,
       "title": "Chapter IV. The Valley of Fear.",
-      "start_s": 12575.359,
-      "end_s": 13689.334,
+      "start_s": 12575.291,
+      "end_s": 13689.265,
       "part_ordinal": 4,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -367,9 +424,13 @@
     {
       "ordinal": 14,
       "title": "Chapter V. The Darkest Hour.",
-      "start_s": 13689.334,
-      "end_s": 15149.12,
+      "start_s": 13689.265,
+      "end_s": 15149.051,
       "part_ordinal": 5,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -404,9 +465,13 @@
     {
       "ordinal": 15,
       "title": "Chapter VI. Danger.",
-      "start_s": 15149.12,
-      "end_s": 16195.976,
+      "start_s": 15149.051,
+      "end_s": 16195.907,
       "part_ordinal": 5,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -431,9 +496,13 @@
     {
       "ordinal": 16,
       "title": "Chapter VII. The Trapping of Birdy Edwards.",
-      "start_s": 16195.976,
-      "end_s": 17312.605,
+      "start_s": 16195.907,
+      "end_s": 17312.537,
       "part_ordinal": 5,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -463,9 +532,13 @@
     {
       "ordinal": 17,
       "title": "Epilogue.",
-      "start_s": 17312.605,
-      "end_s": 17542.344,
+      "start_s": 17312.537,
+      "end_s": 17542.276,
       "part_ordinal": 5,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -496,9 +569,13 @@
         "gender": "male",
         "voice_accent": "american"
       },
-      "dialogue_count": 467,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WATSON.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WATSON.mp3"
+      "dialogue_count": 469,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WATSON.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WATSON.mp3",
+      "accent_color": "#313132",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "JACK_MCMURDO",
@@ -535,8 +612,12 @@
         "voice_accent": "irish_american"
       },
       "dialogue_count": 254,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCMURDO.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCMURDO.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCMURDO.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCMURDO.mp3",
+      "accent_color": "#29241C",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "SHERLOCK_HOLMES",
@@ -557,9 +638,13 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 238,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SHERLOCK_HOLMES.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SHERLOCK_HOLMES.mp3"
+      "dialogue_count": 237,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SHERLOCK_HOLMES.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SHERLOCK_HOLMES.mp3",
+      "accent_color": "#2C2E2A",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "ALEC_MACDONALD",
@@ -592,8 +677,12 @@
         "voice_accent": "scottish"
       },
       "dialogue_count": 148,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ALEC_MACDONALD.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ALEC_MACDONALD.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ALEC_MACDONALD.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ALEC_MACDONALD.mp3",
+      "accent_color": "#946F48",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "JACK_MCGINTY",
@@ -626,8 +715,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 138,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCGINTY.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCGINTY.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCGINTY.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACK_MCGINTY.mp3",
+      "accent_color": "#454545",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "CECIL_BARKER",
@@ -656,8 +749,12 @@
         "voice_accent": "british"
       },
       "dialogue_count": 71,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CECIL_BARKER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CECIL_BARKER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CECIL_BARKER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CECIL_BARKER.mp3",
+      "accent_color": "#424342",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "BROTHER_MORRIS",
@@ -686,8 +783,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 48,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BROTHER_MORRIS.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BROTHER_MORRIS.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BROTHER_MORRIS.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BROTHER_MORRIS.mp3",
+      "accent_color": "#3B3C3A",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "WHITE_MASON",
@@ -716,8 +817,12 @@
         "voice_accent": "british_rural"
       },
       "dialogue_count": 44,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WHITE_MASON.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WHITE_MASON.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WHITE_MASON.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/WHITE_MASON.mp3",
+      "accent_color": "#32271A",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "ETTIE_SHAFTER",
@@ -750,8 +855,12 @@
         "voice_accent": "german_american"
       },
       "dialogue_count": 39,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ETTIE_SHAFTER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ETTIE_SHAFTER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ETTIE_SHAFTER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ETTIE_SHAFTER.mp3",
+      "accent_color": "#333130",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "MIKE_SCANLAN",
@@ -783,8 +892,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 32,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MIKE_SCANLAN.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MIKE_SCANLAN.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MIKE_SCANLAN.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MIKE_SCANLAN.mp3",
+      "accent_color": "#3A3B3A",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "TED_BALDWIN",
@@ -813,8 +926,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 27,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TED_BALDWIN.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TED_BALDWIN.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TED_BALDWIN.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TED_BALDWIN.mp3",
+      "accent_color": "#3E3E3D",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "JOHN_DOUGLAS",
@@ -844,8 +961,12 @@
         "voice_accent": "american_mixed"
       },
       "dialogue_count": 25,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOHN_DOUGLAS.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOHN_DOUGLAS.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOHN_DOUGLAS.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOHN_DOUGLAS.mp3",
+      "accent_color": "#2C251B",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "SERGEANT_WILSON",
@@ -873,8 +994,12 @@
         "voice_accent": "british_rural"
       },
       "dialogue_count": 24,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SERGEANT_WILSON.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SERGEANT_WILSON.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SERGEANT_WILSON.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/SERGEANT_WILSON.mp3",
+      "accent_color": "#454646",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "MRS_DOUGLAS",
@@ -904,8 +1029,12 @@
         "voice_accent": "british"
       },
       "dialogue_count": 23,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MRS_DOUGLAS.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MRS_DOUGLAS.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MRS_DOUGLAS.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/MRS_DOUGLAS.mp3",
+      "accent_color": "#3C3C3B",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "AMES",
@@ -932,8 +1061,12 @@
         "voice_accent": "british"
       },
       "dialogue_count": 20,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/AMES.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/AMES.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/AMES.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/AMES.mp3",
+      "accent_color": "#3C3B3B",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "CAPTAIN_MARVIN",
@@ -964,8 +1097,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 18,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CAPTAIN_MARVIN.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CAPTAIN_MARVIN.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CAPTAIN_MARVIN.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/CAPTAIN_MARVIN.mp3",
+      "accent_color": "#1E2128",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "LODGE_MEMBER",
@@ -990,8 +1127,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 15,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/LODGE_MEMBER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/LODGE_MEMBER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/LODGE_MEMBER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/LODGE_MEMBER.mp3",
+      "accent_color": "#2B2927",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "JACOB_SHAFTER",
@@ -1019,8 +1160,12 @@
         "voice_accent": "german_american"
       },
       "dialogue_count": 12,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACOB_SHAFTER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACOB_SHAFTER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACOB_SHAFTER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JACOB_SHAFTER.mp3",
+      "accent_color": "#2A2F30",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "GUIDE_MINER",
@@ -1046,8 +1191,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 8,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/GUIDE_MINER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/GUIDE_MINER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/GUIDE_MINER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/GUIDE_MINER.mp3",
+      "accent_color": "#32302B",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "POLICEMAN_1",
@@ -1075,8 +1224,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 6,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/POLICEMAN_1.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/POLICEMAN_1.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/POLICEMAN_1.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/POLICEMAN_1.mp3",
+      "accent_color": "#393938",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "FREEMAN_TREASURER",
@@ -1102,8 +1255,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 5,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/FREEMAN_TREASURER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/FREEMAN_TREASURER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/FREEMAN_TREASURER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/FREEMAN_TREASURER.mp3",
+      "accent_color": "#1A232C",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "ELDERLY_LAWLER",
@@ -1132,8 +1289,12 @@
         "voice_accent": "american"
       },
       "dialogue_count": 4,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ELDERLY_LAWLER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ELDERLY_LAWLER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ELDERLY_LAWLER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/ELDERLY_LAWLER.mp3",
+      "accent_color": "#4D443C",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "DR_WOOD",
@@ -1158,66 +1319,13 @@
         "gender": "male",
         "voice_accent": "british"
       },
-      "dialogue_count": 4,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DR_WOOD.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DR_WOOD.mp3"
-    },
-    {
-      "identifier": "YOUNG_WILSON",
-      "name": "Wilson",
-      "age_group": "young",
-      "generation_hint": "young_adult",
-      "aliases": [],
-      "voice_attributes": [
-        "eager",
-        "youthful",
-        "uncertain"
-      ],
-      "visual_attributes": [
-        "boyish face",
-        "thin build",
-        "wide eyes"
-      ],
-      "roles": [
-        "recruit"
-      ],
-      "metadata": {
-        "age_group": "young",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/YOUNG_WILSON.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/YOUNG_WILSON.mp3"
-    },
-    {
-      "identifier": "HARRAWAY",
-      "name": "Harraway",
-      "age_group": "old",
-      "generation_hint": "grandparent_generation",
-      "aliases": [],
-      "voice_attributes": [
-        "dry",
-        "formal",
-        "raspy"
-      ],
-      "visual_attributes": [
-        "vulture-faced",
-        "graybeard",
-        "thin lips",
-        "spectacles"
-      ],
-      "roles": [
-        "secretary"
-      ],
-      "metadata": {
-        "age_group": "old",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 2,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/HARRAWAY.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/HARRAWAY.mp3"
+      "dialogue_count": 3,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DR_WOOD.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DR_WOOD.mp3",
+      "accent_color": "#424343",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "TIGER_CORMAC",
@@ -1245,34 +1353,77 @@
         "voice_accent": "american"
       },
       "dialogue_count": 2,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TIGER_CORMAC.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TIGER_CORMAC.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TIGER_CORMAC.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/TIGER_CORMAC.mp3",
+      "accent_color": "#373736",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
-      "identifier": "INNER_GUARD",
-      "name": "Inner Guard",
-      "age_group": "middle_aged",
-      "generation_hint": "parent_generation",
+      "identifier": "HARRAWAY",
+      "name": "Harraway",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [],
       "voice_attributes": [
-        "solemn",
-        "ceremonial"
+        "dry",
+        "formal",
+        "raspy"
       ],
       "visual_attributes": [
-        "green and gold sash",
-        "stern face"
+        "vulture-faced",
+        "graybeard",
+        "thin lips",
+        "spectacles"
       ],
       "roles": [
-        "guard"
+        "secretary"
       ],
       "metadata": {
-        "age_group": "middle_aged",
+        "age_group": "old",
         "gender": "male",
         "voice_accent": "american"
       },
-      "dialogue_count": 1,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/INNER_GUARD.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/INNER_GUARD.mp3"
+      "dialogue_count": 2,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/HARRAWAY.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/HARRAWAY.mp3",
+      "accent_color": "#3E3E3E",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
+    },
+    {
+      "identifier": "YOUNG_WILSON",
+      "name": "Wilson",
+      "age_group": "young",
+      "generation_hint": "young_adult",
+      "aliases": [],
+      "voice_attributes": [
+        "eager",
+        "youthful",
+        "uncertain"
+      ],
+      "visual_attributes": [
+        "boyish face",
+        "thin build",
+        "wide eyes"
+      ],
+      "roles": [
+        "recruit"
+      ],
+      "metadata": {
+        "age_group": "young",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 2,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/YOUNG_WILSON.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/YOUNG_WILSON.mp3",
+      "accent_color": "#414141",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "JOSIAH_DUNN",
@@ -1300,8 +1451,72 @@
         "voice_accent": "american"
       },
       "dialogue_count": 1,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOSIAH_DUNN.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOSIAH_DUNN.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOSIAH_DUNN.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/JOSIAH_DUNN.mp3",
+      "accent_color": "#313131",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
+    },
+    {
+      "identifier": "INNER_GUARD",
+      "name": "Inner Guard",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "solemn",
+        "ceremonial"
+      ],
+      "visual_attributes": [
+        "green and gold sash",
+        "stern face"
+      ],
+      "roles": [
+        "guard"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/INNER_GUARD.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/INNER_GUARD.mp3",
+      "accent_color": "#3D3D3D",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
+    },
+    {
+      "identifier": "BARTENDER",
+      "name": "Bartender",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
+      "aliases": [],
+      "voice_attributes": [
+        "polite",
+        "subservient"
+      ],
+      "visual_attributes": [
+        "shirt sleeves",
+        "apron"
+      ],
+      "roles": [
+        "service"
+      ],
+      "metadata": {
+        "age_group": "middle_aged",
+        "gender": "male",
+        "voice_accent": "american"
+      },
+      "dialogue_count": 1,
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BARTENDER.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BARTENDER.mp3",
+      "accent_color": "#D3D4CF",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "DARK_BEARDED_MAN",
@@ -1327,68 +1542,23 @@
         "voice_accent": "american"
       },
       "dialogue_count": 1,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DARK_BEARDED_MAN.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DARK_BEARDED_MAN.mp3"
-    },
-    {
-      "identifier": "BARTENDER",
-      "name": "Bartender",
-      "age_group": "middle_aged",
-      "generation_hint": "parent_generation",
-      "aliases": [],
-      "voice_attributes": [
-        "polite",
-        "subservient"
-      ],
-      "visual_attributes": [
-        "shirt sleeves",
-        "apron"
-      ],
-      "roles": [
-        "service"
-      ],
-      "metadata": {
-        "age_group": "middle_aged",
-        "gender": "male",
-        "voice_accent": "american"
-      },
-      "dialogue_count": 1,
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BARTENDER.png",
-      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/BARTENDER.mp3"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DARK_BEARDED_MAN.webp",
+      "voice_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/characters/DARK_BEARDED_MAN.mp3",
+      "accent_color": "#4E3320",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     }
   ],
   "scenes": [
-    {
-      "identifier": "SCENE_BIRLSTONE_VILLAGE",
-      "ordinal": 0,
-      "location_header": "EXT. BIRLSTONE VILLAGE - DAY",
-      "visual_description": "The ancient village of Birlstone nestled near the Weald forest in Sussex. Half-timbered cottages with red-tiled roofs date back centuries. The surrounding woods are thick and dark. In the distance, an ancient moated manor house stands among huge beech trees. Late Victorian rural atmosphere, somewhat isolated and timeless.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_VILLAGE.jpg"
-    },
-    {
-      "identifier": "SCENE_BIRLSTONE_GARDEN",
-      "ordinal": 0,
-      "location_header": "EXT. BIRLSTONE MANOR - GARDEN - AFTERNOON",
-      "visual_description": "A secluded section of an ancient English garden. Rows of yew trees clipped into strange geometric shapes form a high, dense green wall. A stone seat sits in a niche within the hedge. In the center, a manicured lawn surrounds an old weathered sundial. Soft, diffused afternoon light filters through the foliage. Atmosphere of heavy, quiet secrets.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_GARDEN.jpg"
-    },
-    {
-      "identifier": "SCENE_POLICE_SERGEANT_PARLOUR",
-      "ordinal": 0,
-      "location_header": "INT. POLICE SERGEANT'S PARLOUR - DAY",
-      "visual_description": "A modest, functional room in a village house serving as a makeshift police office. A deal table piled with papers and telegrams dominates the center. Simple wooden chairs are scattered about. Morning sunlight filters through small cottage windows, illuminating dust motes. Austere and official atmosphere.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_POLICE_SERGEANT_PARLOUR.jpg"
-    },
     {
       "identifier": "INT_TRAIN_VERMISSA",
       "ordinal": 0,
       "location_header": "INT. TRAIN CARRIAGE - NIGHT",
       "visual_description": "Interior of a Victorian railway carriage at night in 1875. Wooden bench seats are occupied by rough miners. Oil lamps cast a dim, yellow light through the haze of tobacco smoke. Through the dark windows, distant red fires from iron furnaces glow against a snowy landscape.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_TRAIN_VERMISSA.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_TRAIN_VERMISSA.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_BIRLSTONE_DINING_ROOM",
@@ -1396,7 +1566,8 @@
       "location_header": "INT. BIRLSTONE MANOR - DINING ROOM - DAY",
       "visual_description": "A formal Victorian dining room with heavy velvet drapes. A long mahogany table reflects the cold light from the windows. Ancestral portraits line the dark walls. An imposing sideboard displays silver plate. Somber and quiet.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_DINING_ROOM.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_DINING_ROOM.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_221B_MORNING",
@@ -1404,7 +1575,35 @@
       "location_header": "INT. 221B BAKER STREET - MORNING",
       "visual_description": "A cluttered late Victorian sitting room bathed in morning light. A breakfast table sits with untouched food and silver coffee service. A coal fire burns in the grate. Books, papers, and chemical equipment scatter the surfaces. A Persian slipper sits on the mantelpiece. Atmosphere of intellectual clutter and cozy domesticity.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_221B_MORNING.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_221B_MORNING.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_BIRLSTONE_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. BIRLSTONE MANOR - GARDEN - AFTERNOON",
+      "visual_description": "A secluded section of an ancient English garden. Rows of yew trees clipped into strange geometric shapes form a high, dense green wall. A stone seat sits in a niche within the hedge. In the center, a manicured lawn surrounds an old weathered sundial. Soft, diffused afternoon light filters through the foliage. Atmosphere of heavy, quiet secrets.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_GARDEN.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_BIRLSTONE_VILLAGE",
+      "ordinal": 0,
+      "location_header": "EXT. BIRLSTONE VILLAGE - DAY",
+      "visual_description": "The ancient village of Birlstone nestled near the Weald forest in Sussex. Half-timbered cottages with red-tiled roofs date back centuries. The surrounding woods are thick and dark. In the distance, an ancient moated manor house stands among huge beech trees. Late Victorian rural atmosphere, somewhat isolated and timeless.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_VILLAGE.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_POLICE_SERGEANT_PARLOUR",
+      "ordinal": 0,
+      "location_header": "INT. POLICE SERGEANT'S PARLOUR - DAY",
+      "visual_description": "A modest, functional room in a village house serving as a makeshift police office. A deal table piled with papers and telegrams dominates the center. Simple wooden chairs are scattered about. Morning sunlight filters through small cottage windows, illuminating dust motes. Austere and official atmosphere.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_POLICE_SERGEANT_PARLOUR.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_COVER_00",
@@ -1414,63 +1613,8 @@
       "metadata": {
         "type": "cover_placeholder"
       },
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_COVER_00.jpg"
-    },
-    {
-      "identifier": "SCENE_BIRLSTONE_EXTERIOR",
-      "ordinal": 1,
-      "location_header": "EXT. BIRLSTONE MANOR - DAY",
-      "visual_description": "The grounds of an ancient Jacobean manor house. A wide moat with dark water reflects the cold winter sun. A wooden drawbridge leads to the dingy brick house with peaked roofs. Ancient yew trees and oaks surround the area. Gloomy and impressive.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_EXTERIOR.jpg"
-    },
-    {
-      "identifier": "SCENE_WESTVILLE_ARMS",
-      "ordinal": 1,
-      "location_header": "INT. WESTVILLE ARMS PARLOUR - DAY",
-      "visual_description": "A cozy, low-ceilinged parlour in a country inn. Sunlight streams through diamond-paned windows. Modest oak furniture, a fireplace with a small fire, and simple decor. Atmosphere of rustic privacy.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_WESTVILLE_ARMS.jpg"
-    },
-    {
-      "identifier": "SCENE_BIRLSTONE_MANOR_INTERIOR",
-      "ordinal": 1,
-      "location_header": "INT. BIRLSTONE MANOR - NIGHT",
-      "visual_description": "A room in Birlstone Manor at night, illuminated by the yellow glow of a handheld lamp and a candle. Dark wood paneling lines the walls. A long diamond-paned window stands open with heavy curtains drawn back. A stone fireplace with a rug. The atmosphere is heavy with horror and mystery.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_MANOR_INTERIOR.jpg"
-    },
-    {
-      "identifier": "SCENE_BIRLSTONE_STUDY_DAY",
-      "ordinal": 1,
-      "location_header": "INT. BIRLSTONE MANOR - STUDY - DAY",
-      "visual_description": "A Jacobean study filled with cold winter light. Dark oak paneling, shelves of books, and a stone fireplace. A large desk sits near a window that overlooks the moat. A bloodstain marks the window sill. Atmosphere of grim mystery.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_STUDY_DAY.jpg"
-    },
-    {
-      "identifier": "EXT_MILLER_HILL",
-      "ordinal": 1,
-      "location_header": "EXT. MILLER HILL - DAY",
-      "visual_description": "A desolate public park in winter. Snow covers the ground. A winding path hedged with evergreens leads to a deserted restaurant and a bare flagstaff. From this high vantage point, the grimy town and its factories can be seen below, with white-capped mountains in the distance. Cold and gray.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_MILLER_HILL.jpg"
-    },
-    {
-      "identifier": "EXT_SHAFTER_HOUSE",
-      "ordinal": 1,
-      "location_header": "EXT. SHAFTER'S HOUSE - NIGHT",
-      "visual_description": "The exterior of a boarding house at night. A lighted ground-floor window glows against the darkness. The silhouette of a girl is visible through the glass. Outside, the street is quiet and shadowed. Atmosphere of romance and danger.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_SHAFTER_HOUSE.jpg"
-    },
-    {
-      "identifier": "EXT_CROW_HILL_MINE",
-      "ordinal": 1,
-      "location_header": "EXT. CROW HILL MINE - DAWN",
-      "visual_description": "A Pennsylvania coal mine at dawn in winter. Deep snow covers the ground. A huge wooden engine house looms in the mist. Blackened paths lead to the pit head. Slag heaps rise in the background. Bleak, cold, industrial atmosphere with dim lantern lights.",
-      "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_CROW_HILL_MINE.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_COVER_00.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_UNION_HOUSE",
@@ -1478,31 +1622,71 @@
       "location_header": "INT. UNION HOUSE - BACK ROOM - DAY",
       "visual_description": "A large, garish saloon crowded with rough men. A long polished bar with brass fittings runs along one side. Heavily gilt mirrors on the walls reflect the brilliant gaslight and the haze of tobacco smoke. A private back room lined with barrels sits behind the bar.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_UNION_HOUSE.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_UNION_HOUSE.webp",
+      "portrait_image_key": null
     },
     {
-      "identifier": "INT_MCMURDO_LODGINGS",
-      "ordinal": 2,
-      "location_header": "INT. MCMURDO'S LODGINGS - NIGHT",
-      "visual_description": "A modest bedroom in a widow's boarding house on the outskirts of town. Simple, worn furniture includes a bed and a small table. The room is private and quiet, with a sense of secrecy. Lighting is functional, perhaps an oil lamp. Atmosphere of a hideout.",
+      "identifier": "SCENE_BIRLSTONE_MANOR_INTERIOR",
+      "ordinal": 1,
+      "location_header": "INT. BIRLSTONE MANOR - NIGHT",
+      "visual_description": "A room in Birlstone Manor at night, illuminated by the yellow glow of a handheld lamp and a candle. Dark wood paneling lines the walls. A long diamond-paned window stands open with heavy curtains drawn back. A stone fireplace with a rug. The atmosphere is heavy with horror and mystery.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_MCMURDO_LODGINGS.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_MANOR_INTERIOR.webp",
+      "portrait_image_key": null
     },
     {
-      "identifier": "INT_SHAFTER_HOUSE",
-      "ordinal": 2,
-      "location_header": "INT. SHAFTER'S BOARDING HOUSE - NIGHT",
-      "visual_description": "A warm, tidy front parlour of a boarding house. A cast-iron stove glows in the center, providing a cozy contrast to the cold outside. Simple wooden furniture, clean curtains, and a sense of German domestic order. Soft indoor lighting from a lamp.",
+      "identifier": "SCENE_WESTVILLE_ARMS",
+      "ordinal": 1,
+      "location_header": "INT. WESTVILLE ARMS PARLOUR - DAY",
+      "visual_description": "A cozy, low-ceilinged parlour in a country inn. Sunlight streams through diamond-paned windows. Modest oak furniture, a fireplace with a small fire, and simple decor. Atmosphere of rustic privacy.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_SHAFTER_HOUSE.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_WESTVILLE_ARMS.webp",
+      "portrait_image_key": null
     },
     {
-      "identifier": "INT_LODGE_ASSEMBLY_ROOM",
-      "ordinal": 2,
-      "location_header": "INT. UNION HOUSE - ASSEMBLY ROOM - NIGHT",
-      "visual_description": "A bare, large assembly room with a long table running down the center. At the head, a chair acts as a throne for the Bodymaster. A side table is laden with liquor bottles. The room is dimly lit, smoky, and filled with tension. Walls are plain planking.",
+      "identifier": "EXT_MILLER_HILL",
+      "ordinal": 1,
+      "location_header": "EXT. MILLER HILL - DAY",
+      "visual_description": "A desolate public park in winter. Snow covers the ground. A winding path hedged with evergreens leads to a deserted restaurant and a bare flagstaff. From this high vantage point, the grimy town and its factories can be seen below, with white-capped mountains in the distance. Cold and gray.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_LODGE_ASSEMBLY_ROOM.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_MILLER_HILL.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "EXT_SHAFTER_HOUSE",
+      "ordinal": 1,
+      "location_header": "EXT. SHAFTER'S HOUSE - NIGHT",
+      "visual_description": "The exterior of a boarding house at night. A lighted ground-floor window glows against the darkness. The silhouette of a girl is visible through the glass. Outside, the street is quiet and shadowed. Atmosphere of romance and danger.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_SHAFTER_HOUSE.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_BIRLSTONE_EXTERIOR",
+      "ordinal": 1,
+      "location_header": "EXT. BIRLSTONE MANOR - DAY",
+      "visual_description": "The grounds of an ancient Jacobean manor house. A wide moat with dark water reflects the cold winter sun. A wooden drawbridge leads to the dingy brick house with peaked roofs. Ancient yew trees and oaks surround the area. Gloomy and impressive.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_EXTERIOR.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_BIRLSTONE_STUDY_DAY",
+      "ordinal": 1,
+      "location_header": "INT. BIRLSTONE MANOR - STUDY - DAY",
+      "visual_description": "A Jacobean study filled with cold winter light. Dark oak paneling, shelves of books, and a stone fireplace. A large desk sits near a window that overlooks the moat. A bloodstain marks the window sill. Atmosphere of grim mystery.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_STUDY_DAY.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "EXT_CROW_HILL_MINE",
+      "ordinal": 1,
+      "location_header": "EXT. CROW HILL MINE - DAWN",
+      "visual_description": "A Pennsylvania coal mine at dawn in winter. Deep snow covers the ground. A huge wooden engine house looms in the mist. Blackened paths lead to the pit head. Slag heaps rise in the background. Bleak, cold, industrial atmosphere with dim lantern lights.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_CROW_HILL_MINE.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "INT_POLICE_CELL",
@@ -1510,15 +1694,17 @@
       "location_header": "INT. POLICE STATION - CELL - NIGHT",
       "visual_description": "A bleak communal holding cell in a small-town police station. Bare stone walls and a barred door. Straw bedding is scattered on the floor. Dim light filters in from a corridor. The atmosphere is stark but turned jovial by the occupants.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_POLICE_CELL.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_POLICE_CELL.webp",
+      "portrait_image_key": null
     },
     {
-      "identifier": "SCENE_BIRLSTONE_STUDY_NIGHT",
+      "identifier": "INT_MCMURDO_LODGINGS",
       "ordinal": 2,
-      "location_header": "INT. BIRLSTONE MANOR - STUDY - NIGHT",
-      "visual_description": "A Jacobean study illuminated by a single oil lamp, casting long shadows on the dark oak paneling. A stone fireplace stands cold. The window overlooking the moat is open to the night air. A large desk is cluttered with papers. The atmosphere is tense and expectant.",
+      "location_header": "INT. MCMURDO'S LODGINGS - NIGHT",
+      "visual_description": "A modest bedroom in a widow's boarding house on the outskirts of town. Simple, worn furniture includes a bed and a small table. The room is private and quiet, with a sense of secrecy. Lighting is functional, perhaps an oil lamp. Atmosphere of a hideout.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_STUDY_NIGHT.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_MCMURDO_LODGINGS.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_WESTVILLE_ARMS_BEDROOM",
@@ -1526,15 +1712,35 @@
       "location_header": "INT. WESTVILLE ARMS - BEDROOM - NIGHT",
       "visual_description": "A modest bedroom in a country inn with sloping ceilings and exposed beams. Two narrow iron-framed beds with white counterpanes stand against the wall. A washstand with a pitcher and bowl. Shadows from a single candle flicker against the plaster walls. Night time.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_WESTVILLE_ARMS_BEDROOM.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_WESTVILLE_ARMS_BEDROOM.webp",
+      "portrait_image_key": null
     },
     {
-      "identifier": "INT_COURTROOM",
-      "ordinal": 3,
-      "location_header": "INT. VERMISSA COURTROOM - DAY",
-      "visual_description": "A functional, packed courtroom in a mining town. A raised bench for the magistrate faces a dock for prisoners. Wooden benches for the public are filled with rough-looking men. The atmosphere is tense and expectant.",
+      "identifier": "INT_SHAFTER_HOUSE",
+      "ordinal": 2,
+      "location_header": "INT. SHAFTER'S BOARDING HOUSE - NIGHT",
+      "visual_description": "A warm, tidy front parlour of a boarding house. A cast-iron stove glows in the center, providing a cozy contrast to the cold outside. Simple wooden furniture, clean curtains, and a sense of German domestic order. Soft indoor lighting from a lamp.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_COURTROOM.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_SHAFTER_HOUSE.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "INT_LODGE_ASSEMBLY_ROOM",
+      "ordinal": 2,
+      "location_header": "INT. UNION HOUSE - ASSEMBLY ROOM - NIGHT",
+      "visual_description": "A bare, large assembly room with a long table running down the center. At the head, a chair acts as a throne for the Bodymaster. A side table is laden with liquor bottles. The room is dimly lit, smoky, and filled with tension. Walls are plain planking.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_LODGE_ASSEMBLY_ROOM.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_BIRLSTONE_STUDY_NIGHT",
+      "ordinal": 2,
+      "location_header": "INT. BIRLSTONE MANOR - STUDY - NIGHT",
+      "visual_description": "A Jacobean study illuminated by a single oil lamp, casting long shadows on the dark oak paneling. A stone fireplace stands cold. The window overlooking the moat is open to the night air. A large desk is cluttered with papers. The atmosphere is tense and expectant.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_STUDY_NIGHT.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_BIRLSTONE_DRIVE",
@@ -1542,7 +1748,8 @@
       "location_header": "EXT. BIRLSTONE MANOR DRIVE - DAY",
       "visual_description": "The gravel driveway of an old manor house, bordered by dense evergreen shrubs and rhododendrons. A bicycle lies pulled from the bushes. The red brick facade of the manor looms in the background. Winter daylight.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_DRIVE.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_SCENE_BIRLSTONE_DRIVE.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_VERMISSA_STREETS",
@@ -1550,15 +1757,17 @@
       "location_header": "EXT. VERMISSA STREETS - NIGHT",
       "visual_description": "A bleak, ugly industrial town street at night. Rutted snow and mud cover the ground. Rows of unpainted wooden houses with verandas line the street. Gas streetlamps cast harsh, flickering light. In the background, towering dark collieries and glowing slag heaps loom against the sky.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_VERMISSA_STREETS.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_VERMISSA_STREETS.webp",
+      "portrait_image_key": null
     },
     {
-      "identifier": "INT_HERALD_OFFICE",
-      "ordinal": 4,
-      "location_header": "INT. HERALD OFFICE - NIGHT",
-      "visual_description": "The interior of a small newspaper office at night. A printing press clanks rhythmically in the background. Bright lights illuminate desks and papers. A staircase leads to an upper landing. The atmosphere shifts from industrious to terrified.",
+      "identifier": "INT_COURTROOM",
+      "ordinal": 3,
+      "location_header": "INT. VERMISSA COURTROOM - DAY",
+      "visual_description": "A functional, packed courtroom in a mining town. A raised bench for the magistrate faces a dock for prisoners. Wooden benches for the public are filled with rough-looking men. The atmosphere is tense and expectant.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_HERALD_OFFICE.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_COURTROOM.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "EXT_WILCOX_HOUSE",
@@ -1566,7 +1775,17 @@
       "location_header": "EXT. WILCOX HOUSE - NIGHT",
       "visual_description": "A lonely wooden house at a crossroads in a valley at night. Windswept and desolate. Broken clouds drift across a three-quarter moon. Dark trees sway in the wind. A ditch runs along the roadside. Atmosphere of isolation and suspense.",
       "metadata": {},
-      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_WILCOX_HOUSE.jpg"
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_EXT_WILCOX_HOUSE.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "INT_HERALD_OFFICE",
+      "ordinal": 4,
+      "location_header": "INT. HERALD OFFICE - NIGHT",
+      "visual_description": "The interior of a small newspaper office at night. A printing press clanks rhythmically in the background. Bright lights illuminate desks and papers. A staircase leads to an upper landing. The atmosphere shifts from industrious to terrified.",
+      "metadata": {},
+      "image_key": "publications/8b0dfc30d4f181ea3a148e6db1a92a49b5af9f3d/scenes/scene_INT_HERALD_OFFICE.webp",
+      "portrait_image_key": null
     }
   ],
   "subjects": [
