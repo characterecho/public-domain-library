@@ -1,13 +1,15 @@
 {
   "manifest_version": 2,
+  "sample": false,
+  "animated": false,
   "title": "Daisy Miller: A Study",
   "author_names": "Henry James",
   "description": "Publication imported from https://gutenberg.org/ebooks/208.epub3.images",
   "epub_source": "https://gutenberg.org/ebooks/208.epub3.images",
   "identifier": "f1d911983080f3a8c921160d1a11f49ac2eaabc3",
-  "publication_type": "novel",
+  "publication_type": "novella",
   "cover_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/cover.png",
-  "total_duration_s": 6442.477687,
+  "total_duration_s": 6440.616531,
   "genre_tags": [
     "Classics",
     "Realism",
@@ -20,7 +22,7 @@
       "ordinal": 0,
       "audio_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/audio_part_0.mp3",
       "start_s": 0.0,
-      "end_s": 6442.477687
+      "end_s": 6440.616531
     }
   ],
   "segments": [
@@ -30,6 +32,10 @@
       "start_s": 0.0,
       "end_s": 7.027,
       "part_ordinal": 0,
+      "intro": true,
+      "intro_card": true,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {},
       "background_key": null
     },
@@ -37,8 +43,12 @@
       "ordinal": 1,
       "title": "PART I",
       "start_s": 7.027,
-      "end_s": 2967.311,
+      "end_s": 2965.45,
       "part_ordinal": 0,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -68,9 +78,13 @@
     {
       "ordinal": 2,
       "title": "PART II",
-      "start_s": 2967.311,
-      "end_s": 6442.478,
+      "start_s": 2965.45,
+      "end_s": 6440.617,
       "part_ordinal": 0,
+      "intro": false,
+      "intro_card": false,
+      "title_only": false,
+      "story_boundary": false,
       "metadata": {
         "scenes": [
           {
@@ -127,6 +141,8 @@
     {
       "identifier": "NARRATOR",
       "name": "Narrator",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "[]"
@@ -144,11 +160,17 @@
       },
       "dialogue_count": 213,
       "image_key": null,
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/NARRATOR.mp3"
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/NARRATOR.mp3",
+      "accent_color": null,
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "WINTERBOURNE",
       "name": "Winterbourne",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Frederick"
       ],
@@ -176,12 +198,18 @@
         "voice_accent": "american_transatlantic"
       },
       "dialogue_count": 184,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/WINTERBOURNE.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/WINTERBOURNE.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/WINTERBOURNE.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/WINTERBOURNE.mp3",
+      "accent_color": "#292929",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "DAISY_MILLER",
       "name": "Daisy",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "Annie P. Miller",
         "Miss Miller"
@@ -210,12 +238,18 @@
         "voice_accent": "american"
       },
       "dialogue_count": 173,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/DAISY_MILLER.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/DAISY_MILLER.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/DAISY_MILLER.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/DAISY_MILLER.mp3",
+      "accent_color": "#373737",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "MRS_MILLER",
       "name": "Mrs. Miller",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "mild",
@@ -239,12 +273,18 @@
         "voice_accent": "american"
       },
       "dialogue_count": 42,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_MILLER.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_MILLER.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_MILLER.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_MILLER.mp3",
+      "accent_color": "#3F403E",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "MRS_COSTELLO",
       "name": "Mrs. Costello",
+      "age_group": "old",
+      "generation_hint": "grandparent_generation",
       "aliases": [
         "The Aunt"
       ],
@@ -270,12 +310,18 @@
         "voice_accent": "american_transatlantic"
       },
       "dialogue_count": 40,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_COSTELLO.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_COSTELLO.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_COSTELLO.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_COSTELLO.mp3",
+      "accent_color": "#2A231D",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "MRS_WALKER",
       "name": "Mrs. Walker",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "earnest",
@@ -300,12 +346,18 @@
         "voice_accent": "american_transatlantic"
       },
       "dialogue_count": 36,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_WALKER.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_WALKER.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_WALKER.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/MRS_WALKER.mp3",
+      "accent_color": "#281814",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "RANDOLPH_MILLER",
       "name": "Randolph",
+      "age_group": "child",
+      "generation_hint": "younger_generation",
       "aliases": [
         "The Child"
       ],
@@ -332,12 +384,18 @@
         "voice_accent": "american"
       },
       "dialogue_count": 34,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/RANDOLPH_MILLER.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/RANDOLPH_MILLER.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/RANDOLPH_MILLER.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/RANDOLPH_MILLER.mp3",
+      "accent_color": "#3D3E3D",
+      "stature": 0.68,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "GIOVANELLI",
       "name": "Mr. Giovanelli",
+      "age_group": "young",
+      "generation_hint": "young_adult",
       "aliases": [
         "The Cavalier"
       ],
@@ -365,12 +423,18 @@
         "voice_accent": "italian_accented"
       },
       "dialogue_count": 11,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/GIOVANELLI.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/GIOVANELLI.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/GIOVANELLI.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/GIOVANELLI.mp3",
+      "accent_color": "#3B3C3B",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "EUGENIO",
       "name": "Eugenio",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [
         "The Courier"
       ],
@@ -396,12 +460,18 @@
         "voice_accent": "italian_accented"
       },
       "dialogue_count": 8,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/EUGENIO.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/EUGENIO.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/EUGENIO.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/EUGENIO.mp3",
+      "accent_color": "#212427",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "AMERICAN_FRIEND",
       "name": "American Friend",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "cynical",
@@ -421,12 +491,18 @@
         "voice_accent": "american"
       },
       "dialogue_count": 2,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/AMERICAN_FRIEND.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/AMERICAN_FRIEND.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/AMERICAN_FRIEND.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/AMERICAN_FRIEND.mp3",
+      "accent_color": "#2F2F2F",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     },
     {
       "identifier": "SERVANT",
       "name": "The Servant",
+      "age_group": "middle_aged",
+      "generation_hint": "parent_generation",
       "aliases": [],
       "voice_attributes": [
         "polite",
@@ -446,19 +522,15 @@
         "voice_accent": "italian"
       },
       "dialogue_count": 1,
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.png",
-      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.mp3"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.webp",
+      "voice_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/characters/SERVANT.mp3",
+      "accent_color": "#373837",
+      "stature": 1.0,
+      "outfit_slug_by_segment": null,
+      "sprites": {}
     }
   ],
   "scenes": [
-    {
-      "identifier": "SCENE_VEVEY_GARDEN",
-      "ordinal": 0,
-      "location_header": "EXT. HOTEL GARDEN - DAY",
-      "visual_description": "A grand 19th-century Swiss hotel garden overlooking Lake Geneva. Manicured gravel paths wind between flowerbeds and iron benches. In the foreground, a small iron table with coffee service. The background reveals the chalk-white facade of the hotel with balconies, while the distance shows the blue lake and the snowy crest of the Dent du Midi. Bright, clear summer morning light.",
-      "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_VEVEY_GARDEN.jpg"
-    },
     {
       "identifier": "SCENE_COVER_00",
       "ordinal": 0,
@@ -467,7 +539,8 @@
       "metadata": {
         "type": "cover_placeholder"
       },
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COVER_00.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COVER_00.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_COSTELLO_SUITE",
@@ -475,7 +548,17 @@
       "location_header": "INT. COSTELLO SUITE - DAY",
       "visual_description": "A lavish private hotel suite in late 19th-century Rome. Heavy gold-fringed drapery frames tall windows overlooking the city rooftops. The room is crowded with velvet upholstery, marble-topped tables, and intricate porcelain ornaments. Dim, sheltered lighting contrasts with the bright Italian sun outside. An atmosphere of exclusive, stuffy privilege.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COSTELLO_SUITE.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COSTELLO_SUITE.webp",
+      "portrait_image_key": null
+    },
+    {
+      "identifier": "SCENE_VEVEY_GARDEN",
+      "ordinal": 0,
+      "location_header": "EXT. HOTEL GARDEN - DAY",
+      "visual_description": "A grand 19th-century Swiss hotel garden overlooking Lake Geneva. Manicured gravel paths wind between flowerbeds and iron benches. In the foreground, a small iron table with coffee service. The background reveals the chalk-white facade of the hotel with balconies, while the distance shows the blue lake and the snowy crest of the Dent du Midi. Bright, clear summer morning light.",
+      "metadata": {},
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_VEVEY_GARDEN.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_WALKER_DRAWING_ROOM",
@@ -483,7 +566,8 @@
       "location_header": "INT. MRS WALKER'S APARTMENT - DAY",
       "visual_description": "A sun-drenched crimson drawing room on the third floor of a Roman palazzo. Tall french windows admit brilliant southern sunshine. The walls are lined with red silk, and the furniture is gilded and delicate. A polished parquet floor reflects the light. The mood is bright, social, and slightly claustrophobic.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_WALKER_DRAWING_ROOM.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_WALKER_DRAWING_ROOM.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_VEVEY_GARDEN_NIGHT",
@@ -491,7 +575,8 @@
       "location_header": "EXT. HOTEL GARDEN - NIGHT",
       "visual_description": "The hotel garden terrace at night, lit by the warm glow of gas lamps and starlight. The lake beyond is a dark, shimmering expanse reflecting the stars. Silhouettes of mountains loom in the distance. In the foreground, the stone parapet and garden furniture are cast in deep shadows and soft highlights. Romantic and mysterious atmosphere.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_VEVEY_GARDEN_NIGHT.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_VEVEY_GARDEN_NIGHT.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_PINCIO_GARDENS",
@@ -499,7 +584,8 @@
       "location_header": "EXT. PINCIO GARDENS - LATE AFTERNOON",
       "visual_description": "The Pincian Hill gardens in the late afternoon. Manicured gravel paths wind between umbrella pines and marble busts. In the distance, the dome of St. Peter's is visible against a golden sunset. Elegant horse-drawn carriages line the periphery. The light is warm, amber, and romantic, casting long shadows.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PINCIO_GARDENS.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PINCIO_GARDENS.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_WALKER_PARTY",
@@ -507,7 +593,8 @@
       "location_header": "INT. MRS WALKER'S SALON - NIGHT",
       "visual_description": "A cramped but elegant salon at night, lit by crystal chandeliers and wax candles. The room is filled with guests in evening dress. A grand piano stands in one corner. The atmosphere is stiflingly warm, buzzing with social tension and judgment. Rich colors of evening silks and black tailcoats.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_WALKER_PARTY.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_WALKER_PARTY.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_CHILLON",
@@ -515,7 +602,8 @@
       "location_header": "INT. CASTLE OF CHILLON - DAY",
       "visual_description": "The interior of an ancient medieval castle. Rough hewn stone walls and vaulted ceilings define the space. Narrow embrasures (windows) allow shafts of bright daylight to cut through the dusty, cool air. An antique stone fireplace stands in the background. The atmosphere is historic, cold, and imposing, contrasting with the bright day outside.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_CHILLON.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_CHILLON.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_ST_PETERS",
@@ -523,7 +611,8 @@
       "location_header": "INT. ST. PETER'S BASILICA - AFTERNOON",
       "visual_description": "The vast, cavernous interior of St. Peter's Basilica. Immense stone pilasters rise into the shadowy vault. Shafts of dusty light cut through the incense-laden air. The scale is overwhelming, dwarfing the human figures below. The atmosphere is solemn, echoing, and ancient.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_ST_PETERS.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_ST_PETERS.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_PALATINE_HILL",
@@ -531,7 +620,8 @@
       "location_header": "EXT. PALATINE HILL - DAY",
       "visual_description": "The ruins of the Palace of the Caesars on a bright spring day. Ancient moss-covered brick arches and marble fragments are scattered among blooming wildflowers and fresh green grass. The sky is a piercing Roman blue. The setting combines the weight of antiquity with the freshness of spring.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PALATINE_HILL.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PALATINE_HILL.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_COLOSSEUM_NIGHT",
@@ -539,7 +629,8 @@
       "location_header": "EXT. COLOSSEUM - NIGHT",
       "visual_description": "The interior of the Colosseum under a waning moon. One half of the gigantic arena is plunged in deep, cavernous shadow; the other is bathed in pale, ghostly moonlight. The central cross stands silhouetted against the gloom. The atmosphere is ominous, cold, and heavy with history and decay.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COLOSSEUM_NIGHT.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_COLOSSEUM_NIGHT.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_MILLER_HOTEL_ROOM",
@@ -547,7 +638,8 @@
       "location_header": "INT. MILLER HOTEL SUITE - DAY",
       "visual_description": "A cluttered hotel salon turned sickroom. Medicine bottles and glasses crowd the tables. The curtains are drawn, creating a perpetual twilight. The atmosphere is hushed, medicinal, and anxious.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_MILLER_HOTEL_ROOM.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_MILLER_HOTEL_ROOM.webp",
+      "portrait_image_key": null
     },
     {
       "identifier": "SCENE_PROTESTANT_CEMETERY",
@@ -555,7 +647,8 @@
       "location_header": "EXT. PROTESTANT CEMETERY - DAY",
       "visual_description": "The Protestant Cemetery in Rome, nestled against the ancient city wall. Tall, dark cypress trees stand sentinel over white marble gravestones. Spring flowers—daisies and violets—grow thickly in the grass. The light is clear and gentle. A mood of quiet, sunlit melancholy.",
       "metadata": {},
-      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PROTESTANT_CEMETERY.jpg"
+      "image_key": "publications/f1d911983080f3a8c921160d1a11f49ac2eaabc3/scenes/scene_SCENE_PROTESTANT_CEMETERY.webp",
+      "portrait_image_key": null
     }
   ],
   "subjects": [
